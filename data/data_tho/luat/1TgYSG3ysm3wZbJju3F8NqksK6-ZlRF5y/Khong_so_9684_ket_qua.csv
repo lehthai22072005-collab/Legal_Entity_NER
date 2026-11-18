@@ -1,0 +1,148 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,77,"Luật Sửa đổi, bổ sung một số điều của Luật Thuế Tiêu thụ đặc biệt số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,69,77,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,5431,5456,ngày 28 tháng 10 năm 1995
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,5522,5536,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,5557,5567,1996-01-01
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,5589,5599,1999-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,5623,5643,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,316,324,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,5657,5674,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,5687,5700,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,5793,5811,Hiến pháp năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,5853,5897,Luật Thuế Tiêu thụ đặc biệt số 270B-NQ/HĐNN8
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,5720,5738,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,5947,6163,"Quyết định số 70/1999/QĐ/BTC Về việc uỷ quyền và phân cấp cho tổng cục thuế giải quyết một số vấn đề liên quan đến thuế xuất khẩu, thuế nhập khẩu, thuế tiêu thụ đặc biệt, phụ thu đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,6213,6430,"Thông tư số 98/TC-TCT Hướng dẫn thi hành Nghị định số 97/CP ngày 27-12-1995 của Chính phủ quy định chi tiết thi hành Luật Thuế Tiêu thụ đặc biệt và các Luật sửa đổi, bổ sung một số điều của Luật Thuế Tiêu thụ đặc biệt"
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,7850,7893,Luật Thuế tiêu thụ đặc biệt số 05/1998/QH10
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,6452,6585,Thông tư số 13/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các hình thức đầu tư theo Luật đầu tư nước ngoài tại Việt Nam
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,6605,6821,"Quyết định số 70/1999/QĐ/BTC Về việc uỷ quyền và phân cấp cho tổng cục thuế giải quyết một số vấn đề liên quan đến thuế xuất khẩu, thuế nhập khẩu, thuế tiêu thụ đặc biệt, phụ thu đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,6841,7056,"Thông tư số 12/TCHQ-KTTT Hướng dẫn tạm thời thi hành Nghị định số 97/CP ngày 27/12/1995 quy định chi tiết thi hành Luật thuế tiêu thụ đặc biệt và các Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,7076,7222,"Nghị định số 97/CP Quy định chi tiết thi hành Luật thuế tiêu thụ đặc biệt và các luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,7242,7459,"Thông tư số 98/TC-TCT Hướng dẫn thi hành Nghị định số 97/CP ngày 27-12-1995 của Chính phủ quy định chi tiết thi hành Luật Thuế Tiêu thụ đặc biệt và các Luật sửa đổi, bổ sung một số điều của Luật Thuế Tiêu thụ đặc biệt"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,7479,7647,"Thông tư số 48/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò dầu khí theo quy định của luật dầu khí"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,7667,7800,Thông tư số 13/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các hình thức đầu tư theo Luật đầu tư nước ngoài tại Việt Nam
+ENTITY,E38_1,DIEU,Điều,structure,525,601,"Điều 1
+Sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt như sau:"
+ENTITY,E38_2,DIEU,Điều,structure,5148,5205,"Điều 2
+Luật này có hiệu lực từ ngày 01 tháng 01 năm 1996."
+ENTITY,E38_3,DIEU,Điều,structure,5206,5332,"Điều 3
+Chính phủ sửa đổi, bổ sung các văn bản quy định chi tiết thi hành Luật thuế tiêu thụ đặc biệt cho phù hợp với Luật này."
+ENTITY,E39_1,KHOAN,Khoản,structure,602,836,"1- Điều 1 được sửa đổi, bổ sung:
+""Điều 1
+Tổ chức, cá nhân thuộc các thành phần kinh tế (gọi chung là cơ sở) sản xuất, nhập khẩu mặt hàng quy định tại Điều 9 của Luật này đều phải nộp thuế tiêu thụ đặc biệt theo quy định của Luật này."""
+ENTITY,E39_2,KHOAN,Khoản,structure,837,1222,"2- Điều 2 được sửa đổi, bổ sung:
+""Điều 2
+1- Mỗi mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt chỉ phải chịu thuế tiêu thụ đặc biệt một lần. Trong trường hợp sản xuất mặt hàng chịu thuế tiêu thụ đặc biệt bằng nguyên liệu đã nộp thuế tiêu thụ đặc biệt thì khi tính thuế tiêu thụ đặc biệt ở khâu sản xuất được khấu trừ thuế tiêu thụ đặc biệt đã nộp ở nguyên liệu nếu có chứng từ hợp lệ."
+ENTITY,E39_3,KHOAN,Khoản,structure,1653,1858,"3- Điều 3 được sửa đổi, bổ sung:
+""Điều 3
+Cơ sở sản xuất, nhập khẩu mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt có nghĩa vụ khai báo, nộp thuế đầy đủ theo đúng quy định của Luật thuế tiêu thụ đặc biệt."""
+ENTITY,E39_4,KHOAN,Khoản,structure,1859,2024,"4- Điều 6 được sửa đổi, bổ sung:
+""Điều 6
+Căn cứ tính thuế đối với hàng chịu thuế tiêu thụ đặc biệt là số lượng hàng hoá, giá tính thuế đơn vị hàng hoá và thuế suất."""
+ENTITY,E39_5,KHOAN,Khoản,structure,2025,2300,"5- Điều 7 được sửa đổi, bổ sung:
+""Điều 7
+Giá tính thuế tiêu thụ đặc biệt:
+1- Đối với hàng sản xuất là giá do cơ sở sản xuất mặt hàng đó bán ra tại nơi sản xuất chưa có thuế tiêu thụ đặc biệt.
+2- Đối với hàng hoá nhập khẩu là giá tính thuế nhập khẩu, cộng (+) thuế nhập khẩu."""
+ENTITY,E39_6,KHOAN,Khoản,structure,2301,2470,"6- Điều 9 được sửa đổi, bổ sung:
+""Điều 9
+Mặt hàng chịu thuế tiêu thụ đặc biệt và thuế suất được quy định theo Biểu thuế:
+Số TT
+Mặt hàng
+Thuế suất %
+1
+2
+3
+4
+5
+6
+Thuốc hút"
+ENTITY,E39_7,KHOAN,Khoản,structure,3405,3541,"7- Điều 10 được sửa đổi và bổ sung đoạn đầu:
+""Cơ sở sản xuất, nhập khẩu mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt có trách nhiệm:"""
+ENTITY,E39_8,KHOAN,Khoản,structure,3542,4043,"8- Điều 11 được sửa đổi, bổ sung:
+""Điều 11
+Cơ sở sản xuất, nhập khẩu mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt có nghĩa vụ nộp tờ khai thuế tiêu thụ đặc biệt; nộp đủ số thuế tiêu thụ đặc biệt sau khi trừ số thuế đã nộp trong tháng và số thuế tiêu thụ đặc biệt đã nộp ở khâu trước (nếu có) theo thông báo thuế.
+Hàng tháng cơ sở sản xuất mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt phải nộp tờ khai thuế tiêu thụ đặc biệt của tháng trước cho cơ quan thuế trong thời hạn 05 ngày đầu tháng sau."""
+ENTITY,E39_9,KHOAN,Khoản,structure,4044,4290,"9- Điều 14 được sửa đổi, bổ sung:
+""Điều 14
+Hàng sản xuất trong nước do cơ sở sản xuất kê khai khi bán hàng hoặc trả hàng gia công.
+Hàng nhập khẩu do cơ sở nhập khẩu kê khai cùng với việc kê khai thuế nhập khẩu khi đăng ký tờ khai hàng nhập khẩu."""
+ENTITY,E39_10,KHOAN,Khoản,structure,4291,5147,"10- Điều 15 được sửa đổi, bổ sung:
+""Điều 15
+Việc nộp thuế tiêu thụ đặc biệt được quy định như sau:
+1- Đối với hàng sản xuất trong nước, thuế tiêu thụ đặc biệt nộp ngay sau khi bán hàng hoặc trả hàng gia công. Trong trường hợp chưa thu được tiền, thời hạn nộp thuế có thể được kéo dài, nhưng chậm nhất không quá 15 ngày, kể từ khi lập hoá đơn bán hàng hoặc trả hàng gia công.
+Riêng cơ sở nhỏ và cơ sở được áp dụng chế độ khoán số lượng hàng hoá tiêu thụ, thuế tiêu thụ đặc biệt nộp theo định ký của tháng vào ngày 10, ngày 20 và ngày cuối tháng.
+2- Đối với hàng hoá nhập khẩu, thuế tiêu thụ đặc biệt phải nộp cùng với thời hạn nộp thuế nhập khẩu, nhưng chậm nhất là 30 ngày, kể từ khi nhận được thông báo của cơ quan thuế về số thuế phải nộp.
+Thuế tiêu thụ đặc biệt đối với hàng hoá nhập khẩu phi mậu dịch phải nộp ngay khi hàng hoá nhập khẩu vào Việt Nam."""
+ENTITY,E40_1,DIEM,Điểm,structure,1223,1398,a) Cơ sở sản xuất mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt khi bán ra những mặt hàng này phải nộp thuế tiêu thụ đặc biệt mà không phải nộp thuế doanh thu khâu sản xuất.
+ENTITY,E40_2,DIEM,Điểm,structure,1399,1652,"b) Cơ sở nhập khẩu mặt hàng thuộc diện chịu thuế tiêu thụ đặc biệt phải nộp thuế tiêu thụ đặc biệt khi nhập khẩu và nộp thuế doanh thu khi bán hàng.
+2- Hàng thuộc diện chịu thuế tiêu thụ đặc biệt nếu xuất khẩu thì không phải nộp thuế tiêu thụ đặc biệt."""
+ENTITY,E40_3,DIEM,Điểm,structure,2471,2542,a) Thuốc lá điếu có đầu lọc sản xuất chủ yếu bằng nguyên liệu nhập khẩu
+ENTITY,E40_4,DIEM,Điểm,structure,2543,2615,b) Thuốc lá điếu có đầu lọc sản xuất chủ yếu bằng nguyên liệu trong nước
+ENTITY,E40_5,DIEM,Điểm,structure,2616,2665,"c) Thuốc lá điếu sản xuất không có đầu lọc, xì gà"
+ENTITY,E40_6,DIEM,Điểm,structure,2666,2704,"d) Thuốc lá điếu, xì gà nhập khẩu
+Rượu"
+ENTITY,E40_7,DIEM,Điểm,structure,2705,2718,a) Rượu thuốc
+ENTITY,E40_8,DIEM,Điểm,structure,2719,3404,"b) Các loại rượu khác (kể cả cồn êtilic)
+- Trên 40o
+- Từ 30o đến 40o
+- Dưới 30o, kể cả rượu hoa quả
+Bia các loại:
+Riêng: Bia hộp
+Các loại pháo hoa, pháo hiệu, pháo mưa, pháo hiệu sương mù... (trừ pháo nổ)
+Ôtô nhập khẩu (kể cả dạng SKD)
+- Từ 5 chỗ ngồi trở xuống
+- Từ 6 đến 15 chỗ ngồi
+- Từ 16 đến 24 chỗ ngồi
+Xăng các loại, nap-ta (naphtha), chế phẩm tái hợp (reformade component) và các chế phẩm khác để pha chế xăng
+70
+52
+32
+70
+15
+90
+75
+25
+90
+75
+100
+100
+60
+30
+15
+Trong trường hợp cần thiết, Uỷ ban thường vụ Quốc hội có thể quyết định sửa đổi, bổ sung một số mặt hàng, thuế suất quy định trong Biểu thuế tiêu thụ đặc biệt và phải báo cáo để Quốc hội phê chuẩn trong kỳ họp gần nhất."""
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E40_1,E39_2,,
+RELATION,R22_6,THUOC,Thuộc,E40_2,E39_2,,
+RELATION,R22_7,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_11,THUOC,Thuộc,E40_3,E39_6,,
+RELATION,R22_12,THUOC,Thuộc,E40_4,E39_6,,
+RELATION,R22_13,THUOC,Thuộc,E40_5,E39_6,,
+RELATION,R22_14,THUOC,Thuộc,E40_6,E39_6,,
+RELATION,R22_15,THUOC,Thuộc,E40_7,E39_6,,
+RELATION,R22_16,THUOC,Thuộc,E40_8,E39_6,,
+RELATION,R22_17,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_18,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_19,THUOC,Thuộc,E39_9,E38_1,,
+RELATION,R22_20,THUOC,Thuộc,E39_10,E38_1,,

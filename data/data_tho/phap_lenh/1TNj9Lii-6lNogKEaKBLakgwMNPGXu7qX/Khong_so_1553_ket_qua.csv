@@ -1,0 +1,98 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,61,109,"PHÁP LỆNH
+VỀ BẢO VỆ, CHĂM SÓC VÀ GIÁO DỤC TRẺ EM"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,61,70,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,10974,10984,1979-11-14
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,10997,11011,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,11032,11042,1979-11-21
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,11064,11074,1991-08-16
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,11098,11118,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,11139,11164,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,11178,11186,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,11199,11211,Trường Chinh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,450,468,Hiến pháp năm 1959
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,450,468,Hiến pháp năm 1959
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,11505,11686,"Nghị định số 13/2010/NĐ-CP Về sửa đổi, bổ sung một số điều của Nghị định số 67/2007/NĐ-CP ngày 13 tháng 04 năm 2007 của Chính phủ về chính sách trợ giúp các đối tượng bảo trợ xã hội"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,11354,11455,"Nghị định số 293-CP Về việc thi hành Pháp lệnh ngày 14/11/1979 về bảo vệ, chăm sóc và giáo dục trẻ em"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,11231,11332,"Nghị định số 293-CP Về việc thi hành Pháp lệnh ngày 14/11/1979 về bảo vệ, chăm sóc và giáo dục trẻ em"
+ENTITY,E35_1,CHUONG,Chương,structure,535,566,"CHƯƠNG I
+NHỮNG NGUYÊN TẮC CHUNG"
+ENTITY,E35_2,CHUONG,Chương,structure,1484,1521,"CHƯƠNG II
+CÁC QUYỀN CƠ BẢN CỦA TRẺ EM"
+ENTITY,E35_3,CHUONG,Chương,structure,3553,3605,"CHƯƠNG III
+NHIỆM VỤ CỦA GIA ĐÌNH,
+NHÀ NƯỚC VÀ XÃ HỘI"
+ENTITY,E35_4,CHUONG,Chương,structure,10057,10079,"CHƯƠNG IV
+THƯỞNG, PHẠT"
+ENTITY,E35_5,CHUONG,Chương,structure,10805,10833,"CHƯƠNG V
+ĐIỀU KHOẢN THI HÀNH"
+ENTITY,E38_1,DIEU,Điều,structure,567,573,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,641,647,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1184,1190,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1371,1377,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1522,1528,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,1901,1907,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,2138,2144,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,2349,2355,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,2689,2695,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,2903,2910,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,3071,3078,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,3606,3613,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,3886,3893,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,4187,4194,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,4487,4494,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,4892,4899,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,5506,5513,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,5835,5842,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,6259,6266,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,7811,7818,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,8398,8405,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,8931,8938,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,9176,9183,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,9792,9799,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,10080,10087,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,10223,10230,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,10834,10841,Điều 27
+ENTITY,E39_1,KHOAN,Khoản,structure,1031,1060,"1- Yêu Tổ quốc, yêu đồng bào,"
+ENTITY,E39_2,KHOAN,Khoản,structure,1061,1090,"2- Học tập tốt, lao động tốt,"
+ENTITY,E39_3,KHOAN,Khoản,structure,1091,1120,"3- Đoàn kết tốt, kỷ luật tốt,"
+ENTITY,E39_4,KHOAN,Khoản,structure,1121,1149,"4- Giữ gìn vệ sinh thật tốt,"
+ENTITY,E39_5,KHOAN,Khoản,structure,1150,1183,"5- Khiêm tốn, thật thà, dũng cảm."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_2,,
+RELATION,R22_7,THUOC,Thuộc,E39_5,E38_2,,
+RELATION,R22_8,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_10,THUOC,Thuộc,E38_5,E35_2,,
+RELATION,R22_11,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_12,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_13,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_14,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_15,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_16,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_17,THUOC,Thuộc,E38_12,E35_3,,
+RELATION,R22_18,THUOC,Thuộc,E38_13,E35_3,,
+RELATION,R22_19,THUOC,Thuộc,E38_14,E35_3,,
+RELATION,R22_20,THUOC,Thuộc,E38_15,E35_3,,
+RELATION,R22_21,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,R22_22,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,R22_23,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,R22_24,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,R22_25,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,R22_26,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,R22_27,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,R22_28,THUOC,Thuộc,E38_23,E35_3,,
+RELATION,R22_29,THUOC,Thuộc,E38_24,E35_3,,
+RELATION,R22_30,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,R22_31,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_32,THUOC,Thuộc,E38_27,E35_5,,

@@ -1,0 +1,26 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,223,267,"LỆNH
+Về việc công bố Nghị quyết của Quốc hội"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,32/2012/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,223,227,LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,992,1002,2012-12-03
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1015,1029,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1050,1060,2012-12-03
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1084,1096,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,128,141,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,858,866,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,907,922,Trương Tấn Sang
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,1246,1264,Hiến pháp năm 1992
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,661,737,Nghị quyết tổ chức lấy ý kiến nhân dân về dự thảo sửa đổi Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,368,544,"Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khóa X, kỳ họp thứ 10"
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,565,586,Luật Tổ chức Quốc hội
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,607,647,Luật Ban hành văn bản quy phạm pháp luật
+ENTITY,E19_4,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1116,1134,Hiến pháp năm 1992
+ENTITY,E19_5,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1154,1191,Luật Tổ chức Quốc hội số 30/2001/QH10
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R7_4,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_4,E2_1,,
+RELATION,R7_5,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_5,E2_1,,

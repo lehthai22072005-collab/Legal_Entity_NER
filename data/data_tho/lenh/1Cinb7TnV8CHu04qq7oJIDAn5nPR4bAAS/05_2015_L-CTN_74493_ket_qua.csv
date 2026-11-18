@@ -1,0 +1,19 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,42,Lệnh số 05/2015/L-CTN Về việc công bố Luật
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,05/2015/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,146,170,ngày 03 tháng 7 năm 2015
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,732,746,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,767,777,2015-07-03
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,801,813,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,43,56,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,603,611,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,652,667,Trương Tấn Sang
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,833,889,Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,909,927,Hiến pháp năm 2013
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,947,984,Luật Tổ chức Quốc hội số 57/2014/QH13
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_3,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

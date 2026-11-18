@@ -1,0 +1,29 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,55,Lệnh số 34/2014/L-CTN Công bố Luật giáo dục nghề nghiệp
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,34/2014/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,773,783,2014-12-09
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,741,755,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,158,183,ngày 09 tháng 12 năm 2014
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,807,828,Hết hiệu lực một phần
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,56,69,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,56,69,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,661,676,Trương Tấn Sang
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,848,904,Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,924,961,Luật Tổ chức Quốc hội số 30/2001/QH10
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,981,999,Hiến pháp năm 2013
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,1019,1060,Luật Giáo dục nghề nghiệp số 74/2014/QH13
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,1080,1200,"Quyết định số 51/2024/QĐ-UBND Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trường Cao đẳng Huế"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,1220,1587,"Thông tư số 08/2018/TT-BLĐTBXH Quy định định mức kinh tế - kỹ thuật về đào tạo trình độ trung cấp, trình độ cao đẳng cho các nghề: Điện công nghiệp; Kỹ thuật máy lạnh và điều hòa không khí; Vận hành máy thi công nền; Vận hành cần, cầu trục; Kỹ thuật xây dựng; Bảo vệ thực vật; Chế biến và bảo quản thủy sản; Quản trị mạng máy tính; Quản trị kinh doanh xăng dầu và gas"
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,1642,1660,Hiến pháp năm 2013
+ENTITY,E14_2,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,1715,1771,Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12
+ENTITY,E32_1,VB_SUA_DOI_BO_SUNG,Văn bản sửa đổi bổ sung,reference,1799,1828,Luật Giáo dục số 43/2019/QH14
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,RAP_DUNG_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,RAP_DUNG_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,RAP_DUNG_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_2,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_2,E2_1,,
+RELATION,RSUA_DOI_BO_SUNG_1,SUA_DOI_BO_SUNG,Sửa đổi bổ sung,E32_1,E2_1,,

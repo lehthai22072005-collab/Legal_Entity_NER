@@ -1,0 +1,19 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,74,Lệnh số 07/2002/L-CTN Về việc công bố Luật Tổ chức Viện kiểm sát nhân dân.
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,07/2002/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,193,218,ngày 12 tháng 04 năm 2002
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,917,931,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,952,962,2002-04-12
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,986,998,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,276,324,CHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,816,829,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,838,852,Trần Đức Lương
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1018,1070,Luật Ban hành Văn bản quy phạm pháp luật số Không số
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1090,1108,Hiến pháp năm 1992
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1128,1165,Luật Tổ chức Quốc hội số 30/2001/QH10
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_3,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

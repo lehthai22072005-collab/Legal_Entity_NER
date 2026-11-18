@@ -1,0 +1,34 @@
+{
+  "status": "USER_ACCEPTED_EPOCH_11_FROM_COMPLETED_TRAINING_HISTORY",
+  "training_completed_epochs": 11,
+  "selected_epoch": 11,
+  "configured_max_epochs": 12,
+  "interrupted_epoch": 12,
+  "last_observed_step_in_interrupted_epoch": 981,
+  "train_documents": 314,
+  "validation_documents": 55,
+  "test_documents": 0,
+  "thresholds": {
+    "boundary_threshold": 0.5,
+    "span_threshold": 0.5
+  },
+  "validation": {
+    "tp": 6680,
+    "fp": 1341,
+    "fn": 800,
+    "support": 7480,
+    "precision": 0.8328138636080289,
+    "recall": 0.893048128342246,
+    "f1": 0.861879878717502
+  },
+  "macro_f1_supported_labels": 0.5381032152809967,
+  "supported_validation_labels": 21,
+  "model_sha256": "e99e2fd7cde7d386869e5444e7ff02460f9660090377d00dca7215adcb3ba01f",
+  "dataset_fingerprint": "c2d6ef0ed6fc84d5939fc7df3d5e0c56be5f73ddd9fce87aa8c16e194efaade7",
+  "metrics_source": "reports/phobert_span_all369_v1/history.json",
+  "history_sha256": "9c2eb25e8d295e676ed1df445e10945a77549fe503030f711482a1e0d3479d87",
+  "post_recovery_threshold_search_completed": false,
+  "train_metrics_available": false,
+  "independent_gold_claimed": false,
+  "weights_changed_for_report": false
+}

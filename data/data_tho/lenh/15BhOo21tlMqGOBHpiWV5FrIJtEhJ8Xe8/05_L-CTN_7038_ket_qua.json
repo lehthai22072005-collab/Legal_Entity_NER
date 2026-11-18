@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0",
+  "document_id": "7038",
+  "document_code": "05/L-CTN",
+  "file_name": "05_L-CTN_7038.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 05/L-CTN Về việc công bố Luật sửa đổi, bổ sung một số điều của Luật Báo chí; Luật Doanh nghiệp; Luật Mặt trận Tổ quốc Việt Nam",
+    "so_hieu": "05/L-CTN",
+    "loai_van_ban": "Lệnh",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "ngay_ban_hanh": "ngày 12 tháng 06 năm 1999",
+    "ngay_co_hieu_luc": "1999-06-26",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH NƯỚC",
+    "nguoi_ky": "Trần Đức Lương",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 05/L-CTN Về việc công bố Luật sửa đổi, bổ sung một số điều của Luật Báo chí; Luật Doanh nghiệp; Luật Mặt trận Tổ quốc Việt Nam\nLỆNH\nVề việc công bố Luật sửa đổi, bổ sung một số điều của Luật báo chí;\nLuật Doanh nghiệp; Luật Mặt trậnTổ quốc Việt Nam\n_______________________\nCHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ vào Điều 103 và Điều 106 của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992;\nCăn cứ vào Điều 78 của Luật Tổ chức Quốc hội;\nCăn cứ vào Điều 50 của Luật Ban hành các văn bản quy phạm pháp luật.\nNAY CÔNG BỐ:\n1. Luật sửa đổi, bổ sung một số điều của Luật Báo chí;\n2. Luật Doanh nghiệp;\n3. Luật Mặt trận Tổ quốc Việt Nam;\nĐã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa X thông qua ngày 12 tháng 06 năm 1999./.\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 1999-06-26\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Người ký]: Trần Đức Lương\n[Văn bản quy định chi tiết, hướng dẫn thi hành]: Thông tư liên tịch số 85/2008/TTLT-BVHTTDL-BTTTT Hướng dẫn về cấp phép, đăng ký, thực hiện quảng cáo trên báo chí, mạng thông tin máy tính, xuất bản phẩm và công tác thanh tra, kiểm tra, xử lý vi phạm\n[Văn bản áp dụng]: Thông tư liên tịch số 85/2008/TTLT-BVHTTDL-BTTTT Hướng dẫn về cấp phép, đăng ký, thực hiện quảng cáo trên báo chí, mạng thông tin máy tính, xuất bản phẩm và công tác thanh tra, kiểm tra, xử lý vi phạm",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 134,
+      "text": "Lệnh số 05/L-CTN Về việc công bố Luật sửa đổi, bổ sung một số điều của Luật Báo chí; Luật Doanh nghiệp; Luật Mặt trận Tổ quốc Việt Nam",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 16,
+      "text": "05/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 740,
+      "end": 765,
+      "text": "ngày 12 tháng 06 năm 1999",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 833,
+      "end": 847,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 868,
+      "end": 878,
+      "text": "1999-06-26",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 902,
+      "end": 914,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 281,
+      "end": 329,
+      "text": "CHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 281,
+      "end": 294,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 927,
+      "end": 941,
+      "text": "Trần Đức Lương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E24_1",
+      "start": 991,
+      "end": 1191,
+      "text": "Thông tư liên tịch số 85/2008/TTLT-BVHTTDL-BTTTT Hướng dẫn về cấp phép, đăng ký, thực hiện quảng cáo trên báo chí, mạng thông tin máy tính, xuất bản phẩm và công tác thanh tra, kiểm tra, xử lý vi phạm",
+      "code": "VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_1",
+      "start": 1211,
+      "end": 1411,
+      "text": "Thông tư liên tịch số 85/2008/TTLT-BVHTTDL-BTTTT Hướng dẫn về cấp phép, đăng ký, thực hiện quảng cáo trên báo chí, mạng thông tin máy tính, xuất bản phẩm và công tác thanh tra, kiểm tra, xử lý vi phạm",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R12_1",
+      "from_id": "E2_1",
+      "to_id": "E24_1",
+      "code": "QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R18_1",
+      "from_id": "E2_1",
+      "to_id": "E30_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

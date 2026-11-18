@@ -1,0 +1,78 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,117,209,"Lệnh
+PHÁP LỆNH
+Sửa đổi một số điều của Pháp lệnh thuế thu nhập đối với người có thu nhập cao"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,30,38,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,122,131,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,2450,2460,1997-02-06
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,2473,2487,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,2508,2518,1997-02-18
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,2540,2550,2001-07-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,2574,2594,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,2615,2640,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,2654,2662,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,2675,2688,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,3343,3361,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,2708,2726,Hiến pháp năm 1992
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,2746,2879,Thông tư số 13/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các hình thức đầu tư theo Luật đầu tư nước ngoài tại Việt Nam
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,2899,3100,Thông tư số 39/1997/TT-BTC của Bộ Tài chính hướng dẫn thi hành Nghị định số 05/CP ngày 20 tháng 1 năm 1997 của Chính phủ quy định chi tiết thi hành Pháp lệnh thuế thu nhập đối với người có thu nhập cao
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,3120,3288,"Thông tư số 48/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò dầu khí theo quy định của luật dầu khí"
+ENTITY,E38_1,DIEU,Điều,structure,505,512,Điều 1.
+ENTITY,E38_2,DIEU,Điều,structure,2205,2212,Điều 2.
+ENTITY,E38_3,DIEU,Điều,structure,2319,2326,Điều 3.
+ENTITY,E39_1,KHOAN,Khoản,structure,600,937,"1. Khoản 1, Điều 2 được sửa đổi:
+""2- Thu nhập không thường xuyên dưới các hình thức:
+Quà biếu, quà tặng bằng hiện vật từ nước ngoài chuyển về;
+Chuyển giao công nghệ, bản quyền sử dụng sáng chế, nhãn hiệu, bí quyết kỹ thuật, thiết kế kỹ thuật xây dựng, thiết kế công nghiệp và dịch vụ khác; trừ trường hợp biếu, tặng.
+Trúng thưởng xổ số."""
+ENTITY,E39_2,KHOAN,Khoản,structure,938,1649,"2. Điều 9 được sửa đổi:
+""Điều 9: Thu nhập thường xuyên chịu thuế quy định tại Khoản 1 Điều 2 của Pháp lệnh này là tổng số tiền thu được của từng cá nhân bình quân tháng trong năm trên 2.000.000 đồng đối với công dân Việt Nam và cá nhân khác định cư tại Việt Nam; trên 5.000.000 đồng đối với người nước ngoài cư trú tại Việt Nam và công dân Việt Nam lao động, công tác ở nước ngoài. Riêng người nước ngoài được coi là không cư trú tại Việt Nam, thu nhập thường xuyên chịu thuế là tổng số thu nhập do làm việc tại Việt Nam.
+Người nước ngoài được coi là cư trú tại Việt Nam nếu ở tại Việt Nam từ 183 ngày trở lên tính cho 12 tháng kể từ khi đến Việt Nam; được coi là không cư trú nếu ở tại Việt Nam dưới 183 ngày."""
+ENTITY,E39_3,KHOAN,Khoản,structure,1650,2204,"3. Khoản 1, Điều 10 được sửa đổi:
+""1- Đối với công dân Việt Nam và cá nhân khác định cư tại Việt Nam:
+BIỂU THUẾ LUỸ TIẾN TỪNG PHẦN
+Đơn vị: 1.000 đồng
+Bậc
+Thu nhập bình quân tháng/người
+Thuế suất (%)
+1
+Đến 2.000
+0
+2
+Trên 2.000
+Đến 3.000
+10
+3
+Trên 3.000
+Đến 4.000
+20
+4
+Trên 4.000
+Đến 6.000
+30
+5
+Trên 6.000
+Đến 8.000
+40
+6
+Trên 8.000
+Đến 10.000
+50
+7
+Trên 10.000
+60
+Đối với các cá nhân, sau khi đã nộp thuế thu nhập theo quy định tại Biểu thuế này, nếu phần thu nhập còn lại bình quân trên 8.000.000 đồng/tháng thì thu bổ sung 30% số vượt trên 8.000.000 đồng."
+ENTITY,E41_1,VB_SUA_DOI_BO_SUNG,Văn bản sửa đổi bổ sung,reference,3487,3597,Pháp lệnh số 14/1999/PL-UBTVQH10 Sửa đổi một số điều của Pháp lệnh Thuế thu nhập đối với người có thu nhập cao
+ENTITY,E42_1,VB_DUOC_SUA_DOI_BO_SUNG,Văn bản được sửa đổi bổ sung,reference,3394,3459,Pháp lệnh số Không số Thuế thu nhập đối với người có thu nhập cao
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,3618,3694,Pháp lệnh số 35/2001/PL-UBTVQH10 Thuế thu nhập đối với người có thu nhập cao
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R23_1,SUA_DOI_BO_SUNG,Sửa đổi bổ sung,E41_1,E2_1,,
+RELATION,R24_1,DUOC_SUA_DOI_BO_SUNG,Được sửa đổi bổ sung,E42_1,E2_1,,
+RELATION,R25_1,THAY_THE,Thay thế,E43_1,E2_1,,

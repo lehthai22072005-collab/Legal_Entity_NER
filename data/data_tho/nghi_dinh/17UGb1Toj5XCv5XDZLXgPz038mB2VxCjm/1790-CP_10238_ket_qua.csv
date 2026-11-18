@@ -1,0 +1,21 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,295,496,"NGHỊ ĐỊNH
+CỦA CHÍNH PHỦ 179-CP NGÀY 2-11-1994 SỬA ĐỔI, BỔ SUNG QUY CHẾ ĐẶT VÀ HOẠT ĐỘNG CỦA VĂN PHÒNG ĐẠI DIỆN TỔ CHỨC KINH TẾ NƯỚC NGOÀI TẠI VIỆT NAM BAN HÀNH KÈM THEO NGHỊ ĐỊNH SỐ 82-CP NGÀY 2-8-1994"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,254,260,179-CP
+ENTITY,E3_2,LOAI_VAN_BAN,Loại văn bản,metadata,672,681,NGHỊ ĐỊNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,269,294,ngày 02 tháng 11 năm 1994
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,2202,2216,Chưa phân loại
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,2240,2252,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,497,506,CHÍNH PHỦ
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,2266,2279,Phó Thủ tướng
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,2117,2130,Phan Văn Khải
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,803,849,Nghị định số 82-CP ngày 2-8-1994 của Chính phủ
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,514,562,Luật Tổ chức Chính phủ ngày 30 tháng 9 năm 1992;
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,570,624,Pháp lệnh Ngân hàng Nhà nước ngày 23 tháng 5 năm 1990;
+ENTITY,E38_1,DIEU,Điều,structure,682,689,Điều 1.
+ENTITY,E38_2,DIEU,Điều,structure,1332,1339,Điều 2.
+ENTITY,E38_3,DIEU,Điều,structure,1753,1760,Điều 3.
+ENTITY,E38_4,DIEU,Điều,structure,1871,1878,Điều 4.
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,

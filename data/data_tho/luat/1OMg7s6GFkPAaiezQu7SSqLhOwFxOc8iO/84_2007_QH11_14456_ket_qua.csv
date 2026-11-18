@@ -1,0 +1,82 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,66,"Luật Sửa đổi, bổ sung Điều 73 của Bộ luật Lao động số 84/2007/QH11"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,54,66,84/2007/QH11
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,164,187,ngày 2 tháng 4 năm 2007
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1760,1774,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1795,1805,2007-04-11
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,1827,1837,2013-05-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1861,1881,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,535,543,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1654,1671,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1679,1695,Nguyễn Phú Trọng
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,389,447,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,798,840,Bộ luật lao động ngày 29 tháng 11 năm 2006
+ENTITY,E15_2,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,1923,1993,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Lao động số 35/2002/QH10"
+ENTITY,E15_3,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,605,646,Bộ luật lao động ngày 23 tháng 6 năm 1994
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,389,447,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2043,2135,Nghị định số 47/2010/NĐ-CP Quy định xử phạt hành chính về hành vi vi phạm pháp luật lao động
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2185,2294,Quyết định số 1201/QĐ-TTg Phê duyệt Chương trình mục tiêu quốc gia Việc làm và dạy nghề giai đoạn 2012 – 2015
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,2316,2419,Quyết định số 56/2008/QĐ-BTTTT Ban hành Quy chế tổ chức và hoạt động của Trường Cao đẳng công nghiệp in
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,2441,2638,"Quyết định 733/2007/QĐ-UBND năm 2007 quy định tiếp công dân, xử lý đơn, giải quyết khiếu nại, tố cáo, tranh chấp và dân nguyện trên địa bàn quận Phú Nhuận do Ủy ban nhân dân quận Phú Nhuận ban hành"
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,2660,2702,Lệnh số 02/2007/L-CTN Về việc công bố Luật
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,2724,2999,Thông tư số 130/2008/TT-BTC Hướng dẫn thi hành một số điều của Luật thuế thu nhập doanh nghiệp số 14/2008/QH12 và hướng dẫn thi hành Nghị định số 124/2008/NĐ-CP ngày 11 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật thuế thu nhập doanh nghiệp
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,3021,3221,"Thông tư số 27/2007/TT-BCA(A11) Hướng dẫn việc cấp, sửa đổi hộ chiếu phổ thông ở trong nước theo Nghị định số 136/2007/NĐ-CP ngày 17/08/2007 của Chính phủ về xuất cảnh, nhập cảnh của công dân Việt Nam"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,3241,3365,"Quyết định số 14/2010/QĐ-TTg Về việc tổ chức làm việc vào ngày thứ bảy hàng tuần để tiếp nhận, giải quyết thủ tục hành chính"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,3385,3516,"Quyết định số 32/2010/QĐ-UBND Về việc tổ chức làm việc buổi sáng ngày thứ bảy hàng tuần để tiếp nhận, giải quyết thủ tục hành chính"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,3536,3714,"Quyết định số 03/2010/QĐ-UBND Về việc ban hành Quy định về thủ tục giải quyết hồ sơ hành chính theo cơ chế một cửa đối với lĩnh vực Tư pháp - Hộ tịch, Kinh tế và Quản lý lao động"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,3734,3912,"Quyết định số 29/2010/QĐ-UBND Về việc bổ sung, thay thế việc tổ chức làm việc vào ngày thứ Bảy hàng tuần để tiếp nhận, giải quyết thủ tục hành chính tại địa bàn thành phố Kon Tum"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,3932,4068,"Quyết định số 741/QĐ-UBND Về việc tổ chức tiếp nhận, giải quyết thủ tục hành chính vào ngày thứ bảy hàng tuần trên địa bàn tỉnh An Giang"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,4088,4240,"Quyết định số 24/2011/QĐ-UBND Về việc tổ chức làm việc vào ngày thứ bảy hàng tuần để tiếp nhận, giải quyết thủ tục hành chính trên địa bàn tỉnh Tây Ninh"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,4260,4385,"Nghị định số 23/2011/NĐ-CP Điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hàng tháng đối với cán bộ xã đã nghỉ việc"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,4405,4542,Quyết định số 51/2010/QĐ-UBND Ban hành Quy chế phối hợp quản lý lao động là người nước ngoài làm việc trên địa bàn tỉnh Đồng Nai
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,4562,4687,"Nghị định số 29/2010/NĐ-CP Điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hàng tháng đối với cán bộ xã đã nghỉ việc"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,4707,4832,"Nghị định số 35/2012/NĐ-CP Điều chỉnh lương hưu, trợ cấp bảo hiểm xã hội và trợ cấp hàng tháng đối với cán bộ xã đã nghỉ việc"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,4852,5012,"Quyết định số 58/2010/QĐ-UBND Về việc tổ chức làm việc vào buổi sáng thứ bảy hàng tuần để tiếp nhận, giải quyết thủ tục hành chính trên địa bàn thành phố Hà Nội"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,5032,5188,"Thông tư số 13/2009/TT-BLĐTBXH Hướng dẫn thực hiện nhiệm vụ quản lý nhà nước về lao động các khu công nghiệp, khu chế xuất, khu kinh tế và khu công nghệ cao"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,5208,5300,Nghị định số 47/2010/NĐ-CP Quy định xử phạt hành chính về hành vi vi phạm pháp luật lao động
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,5320,5507,Quyết định 11/2011/QĐ-UBND về Quy định phân cấp quản lý nhà nước lĩnh vực kinh tế - xã hội trên địa bàn thành phố Hà Nội giai đoạn 2011 - 2015 do Ủy ban nhân dân thành phố Hà Nội ban hành
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,5527,5831,"Quyết định số 36/2012/QĐ-UBND Về việc sửa đổi, bổ sung một số điều quy định tại quyết định số 41/2010/QĐ-UBND ngày 20 tháng 8 năm 2010 của Ủy ban nhân dân tỉnh Bà Rịa - Vũng Tàu về việc tổ chức làm việc vào ngày thứ bảy hàng tuần để tiếp nhận, giải quyết các thủ tục hành chính tại tỉnh Bà Rịa - Vũng Tàu"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,5851,6007,"Quyết định số 41/2010/QĐ-UBND Về việc tổ chức làm việc vào ngày thứ bảy hàng tuần đề tiếp nhận, giải quyết các thủ tục hành chính tại tỉnh Bà Rịa - Vũng Tàu"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,6027,6136,Quyết định số 1201/QĐ-TTg Phê duyệt Chương trình mục tiêu quốc gia Việc làm và dạy nghề giai đoạn 2012 – 2015
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,6156,6431,"Quyết định số 12/2014/QĐ-UBND Về việc sửa đổi, bổ sung một số điều quy định về phân cấp quản lý nhà nước một số lĩnh vực kinh tế - xã hội trên địa bàn thành phố Hà Nội giai đoạn 2011-2015 ban hành kèm theo Quyết định số 11/2011/QĐ-UBND ngày 02/3/2011 của UBND thành phố Hà Nộ"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,6451,6512,Nghị định số 33/2009/NĐ-CP Quy định mức lương tối thiểu chung
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,6532,6685,Quyết định số 10/2011/QĐ-UBND Về việc ban hành Quy chế phối hợp giải quyết đình công không đúng quy định pháp luật tại các khu công nghiệp tỉnh Thái Bình
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,6705,6814,"Nghị quyết số 07/2012/NQ-HĐND Chương trình mục tiêu việc làm - dạy nghề tỉnh Quảng Trị, giai đoạn 2012 - 2015"
+ENTITY,E38_1,DIEU,Điều,structure,842,848,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1481,1487,Điều 2
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R3_2,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_2,E2_1,,
+RELATION,R3_3,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_3,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E29_3,E2_1,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E29_4,E2_1,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E29_5,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E30_19,E2_1,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E30_20,E2_1,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E30_21,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

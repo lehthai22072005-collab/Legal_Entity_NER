@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "document_id": "24295",
+  "document_code": "03/2008/NQ-CP",
+  "file_name": "03_2008_NQ-CP_24295.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Nghị quyết số 03/2008/NQ-CP Ban hành chương trình hành động của Chính phủ nhiệm kỳ 2007-2011",
+    "so_hieu": "03/2008/NQ-CP",
+    "loai_van_ban": "Nghị quyết",
+    "co_quan_ban_hanh": "Chính phủ",
+    "ngay_ban_hanh": "Ngày 11 tháng 1 năm 2008",
+    "ngay_co_hieu_luc": "2008-02-04",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "THỦ TƯỚNG CHÍNH PHỦ",
+    "nguoi_ky": "Nguyễn Tấn Dũng",
+    "nganh": "Kế hoạch và Đầu tư",
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Nghị quyết số 03/2008/NQ-CP Ban hành chương trình hành động của Chính phủ nhiệm kỳ 2007-2011\nCHÍNH PHỦ\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 03/2008/NQ-CP\nNgày 11 tháng 1 năm 2008\nNGHỊ QUYẾT\nBan hành chương trình hành động của Chính phủ nhiệm kỳ 2007-2011\n____________________________\nCHÍNH PHỦ\nCăn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;\nCăn cứ Nghị quyết của Quốc hội tại kỳ họp thứ nhất, Quốc hội khóa XII;\nXét đề nghị của Bộ trưởng Bộ Kế hoạch và Đầu tư.\nQUYẾT NGHỊ:\nĐiều 1. Ban hành kèm theo Nghị quyết này Chương trình hành động của Chính phủ nhiệm kỳ 2007 - 2011.\nĐiều 2. Nghị quyết này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.\nĐiều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị quyết này.TM. CHÍNH PHỦ\nTHỦ TƯỚNG CHÍNH PHỦ(Đã ký)\nNguyễn Tấn Dũng\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Ngành]: Kế hoạch và Đầu tư\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 2008-02-04\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Luật Tổ chức Chính phủ số 32/2001/QH10\n[Văn bản quy định chi tiết, hướng dẫn thi hành]: Quyết định số 961/QĐ-TTg Ban hành Chương trình hành động của Chính phủ về phát triển dịch vụ giai đoạn 2009 - 2011\n[Văn bản áp dụng]: Quyết định số 961/QĐ-TTg Ban hành Chương trình hành động của Chính phủ về phát triển dịch vụ giai đoạn 2009 - 2011\n[Văn bản áp dụng]: Quyết định số 05/2008/QĐ-BXD Ban hành chương trình hành động của ngành Xây dựng thực hiện Nghị quyết số 03/2008/NQ-CP ngày 11/01/2008 của Chính phủ Ban  hành Chương trình hành động của Chính phủ nhiệm kỳ 2007-2011",
+  "structural_units": [
+    {
+      "id": "unit_preamble",
+      "type": "PREAMBLE",
+      "title": "Phần mở đầu và Căn cứ ban hành",
+      "start": 0,
+      "end": 513,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_01",
+      "type": "DIEU",
+      "title": "Điều 1. Ban hành kèm theo Nghị quyết này Chương trình hành động của Chính phủ nhiệm kỳ 2007 - 2011.",
+      "start": 513,
+      "end": 613,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_02",
+      "type": "DIEU",
+      "title": "Điều 2. Nghị quyết này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+      "start": 613,
+      "end": 696,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_03",
+      "type": "DIEU",
+      "title": "Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị quyết",
+      "start": 696,
+      "end": 905,
+      "parent_id": null
+    }
+  ],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 92,
+      "text": "Nghị quyết số 03/2008/NQ-CP Ban hành chương trình hành động của Chính phủ nhiệm kỳ 2007-2011",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 14,
+      "end": 27,
+      "text": "03/2008/NQ-CP",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 10,
+      "text": "Nghị quyết",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E4_1",
+      "start": 1010,
+      "end": 1028,
+      "text": "Kế hoạch và Đầu tư",
+      "code": "NGANH",
+      "label": "Ngành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 184,
+      "end": 208,
+      "text": "Ngày 11 tháng 1 năm 2008",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 1041,
+      "end": 1055,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 1076,
+      "end": 1086,
+      "text": "2008-02-04",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 1110,
+      "end": 1122,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 64,
+      "end": 73,
+      "text": "Chính phủ",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 906,
+      "end": 925,
+      "text": "THỦ TƯỚNG CHÍNH PHỦ",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 933,
+      "end": 948,
+      "text": "Nguyễn Tấn Dũng",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E19_1",
+      "start": 331,
+      "end": 379,
+      "text": "Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E24_1",
+      "start": 1230,
+      "end": 1344,
+      "text": "Quyết định số 961/QĐ-TTg Ban hành Chương trình hành động của Chính phủ về phát triển dịch vụ giai đoạn 2009 - 2011",
+      "code": "VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_1",
+      "start": 1364,
+      "end": 1478,
+      "text": "Quyết định số 961/QĐ-TTg Ban hành Chương trình hành động của Chính phủ về phát triển dịch vụ giai đoạn 2009 - 2011",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_2",
+      "start": 1498,
+      "end": 1711,
+      "text": "Quyết định số 05/2008/QĐ-BXD Ban hành chương trình hành động của ngành Xây dựng thực hiện Nghị quyết số 03/2008/NQ-CP ngày 11/01/2008 của Chính phủ Ban  hành Chương trình hành động của Chính phủ nhiệm kỳ 2007-2011",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    },
+    {
+      "id": "E38_1",
+      "start": 513,
+      "end": 612,
+      "text": "Điều 1. Ban hành kèm theo Nghị quyết này Chương trình hành động của Chính phủ nhiệm kỳ 2007 - 2011.",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E38_2",
+      "start": 613,
+      "end": 695,
+      "text": "Điều 2. Nghị quyết này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E38_3",
+      "start": 696,
+      "end": 888,
+      "text": "Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị quyết ",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R12_1",
+      "from_id": "E2_1",
+      "to_id": "E24_1",
+      "code": "QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R18_1",
+      "from_id": "E2_1",
+      "to_id": "E30_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "R18_2",
+      "from_id": "E2_1",
+      "to_id": "E30_2",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

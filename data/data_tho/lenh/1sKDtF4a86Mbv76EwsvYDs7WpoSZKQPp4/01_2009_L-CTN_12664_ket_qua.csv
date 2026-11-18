@@ -1,0 +1,22 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,48,78,"LỆNH
+Về việc công bố Pháp lệnh"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,01/2009/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,48,52,LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,768,778,2009-01-05
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,700,714,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,799,809,2009-01-05
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,738,750,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,92,105,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,92,100,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1047,1064,Nguyễn Minh Triết
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,412,452,Luật ban hành văn bản quy phạm pháp luật
+ENTITY,E14_2,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,864,939,"Luật Sửa đổi, bổ sung một số điều của Luật tổ chức Quốc hội số 83/2007/QH11"
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,467,513,Pháp lệnh sửa đổi Điều 10 của Pháp lệnh dân số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,412,452,Luật ban hành văn bản quy phạm pháp luật
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,959,1034,"Luật Sửa đổi, bổ sung một số điều của Luật tổ chức Quốc hội số 83/2007/QH11"
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E14_2,E2_1,,

@@ -1,0 +1,299 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,37,Luật Hôn nhân và gia đình số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,29,37,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,16593,16600,Tư pháp
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,16484,16509,ngày 29 tháng 12 năm 1986
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,16613,16658,"Hộ tịch, quốc tịch, chứng thực, Nuôi con nuôi"
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,16679,16689,1987-01-03
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,16711,16721,2001-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,16745,16765,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,16786,16794,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,16808,16825,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,16838,16852,Nguyễn Hữu Thọ
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,16945,16963,Hiến pháp năm 1980
+ENTITY,E16_1,VB_BI_TAC_DONG_HIEU_LUC_TOAN_BO,Văn bản bị tác động hiệu lực toàn bộ,reference,17004,17041,Luật Hôn nhân và gia đình số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,16872,16890,Hiến pháp năm 1980
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,17091,17233,"Nghị định số 184-CP Quy định về thủ tục kết hôn, nhận con ngoài giá thú, nuôi con nuôi, nhận đỡ đầu giữa công dân Việt Nam và người nước ngoài"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,17283,17500,"Quyết định số 145-HĐBT Ban hành quy định tạm thời về việc cho người nước ngoài nhận con nuôi là trẻ em Việt nam bị mồ côi, bị bỏ rơi, bị tàn tật ở các cơ sở nuôi dưỡng do ngành Lao động - Thương binh và Xã hội quản lý"
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,17550,17715,Nghị định số 12-HĐBT Về thủ tục kết hôn giữa công dân Việt Nam với người nước ngoài tiến hành trước cơ quan có thẩm quyền của nước Cộng hoà xã hội chủ nghĩa Việt Nam
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,17765,17851,Pháp lệnh số Không số Hôn nhân và Gia đình giữa công dân Việt Nam với người nước ngoài
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,17901,18131,Thông tư liên tịch số 06-TT/LN Hướng dẫn về thẩm quyền và giải quyết thủ tục giải quyết những việc ly hôn của các công dân Việt Nam mà một bên ở nước chưa có Hiệp định tượng trợ tư pháp về các vấn đề hôn nhân và gia đình ở nước ta
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,19924,19965,Luật Hôn nhân và gia đình số 22/2000/QH10
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18153,18304,Nghị định số 77/2001/NĐ-CP Quy định chi tiết về đăng ký kết hôn theo Nghị quyết số 35/2000/QH10 của Quốc hội về việc thi hành Luật Hôn nhân và gia đình
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18326,18491,Nghị định số 12-HĐBT Về thủ tục kết hôn giữa công dân Việt Nam với người nước ngoài tiến hành trước cơ quan có thẩm quyền của nước Cộng hoà xã hội chủ nghĩa Việt Nam
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18513,18694,Thông tư liên tịch số 01/2001/TTLT-TANDTC-VKSNDTC-BTP Hướng dẫn thi hành Nghị quyết số 35/2000/QH10 ngày 9 tháng 6 năm 2000 của Quốc hội “Về việc thi hành Luật Hôn nhân và gia đình”
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18716,18749,Pháp lệnh số 44-LCT/HĐNN8 Thừa kế
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18771,18843,Nghị quyết số 35/2000/NQ-QH10 Về việc thi hành Luật Hôn nhân và Gia đình
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18865,18934,Nghị quyết số 35/2000/QH10 Về việc thi hành Luật hôn nhân và gia đình
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,18954,19040,Pháp lệnh số Không số Hôn nhân và Gia đình giữa công dân Việt Nam với người nước ngoài
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,19060,19277,"Quyết định số 145-HĐBT Ban hành quy định tạm thời về việc cho người nước ngoài nhận con nuôi là trẻ em Việt nam bị mồ côi, bị bỏ rơi, bị tàn tật ở các cơ sở nuôi dưỡng do ngành Lao động - Thương binh và Xã hội quản lý"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,19297,19439,"Nghị định số 184-CP Quy định về thủ tục kết hôn, nhận con ngoài giá thú, nuôi con nuôi, nhận đỡ đầu giữa công dân Việt Nam và người nước ngoài"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,19459,19689,Thông tư liên tịch số 06-TT/LN Hướng dẫn về thẩm quyền và giải quyết thủ tục giải quyết những việc ly hôn của các công dân Việt Nam mà một bên ở nước chưa có Hiệp định tượng trợ tư pháp về các vấn đề hôn nhân và gia đình ở nước ta
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,19709,19874,Nghị định số 12-HĐBT Về thủ tục kết hôn giữa công dân Việt Nam với người nước ngoài tiến hành trước cơ quan có thẩm quyền của nước Cộng hoà xã hội chủ nghĩa Việt Nam
+ENTITY,E35_1,CHUONG,Chương,structure,910,919,Chương 1:
+ENTITY,E35_2,CHUONG,Chương,structure,1839,1848,Chương 2:
+ENTITY,E35_3,CHUONG,Chương,structure,3555,3564,Chương 3:
+ENTITY,E35_4,CHUONG,Chương,structure,5215,5224,Chương 4:
+ENTITY,E35_5,CHUONG,Chương,structure,7512,7521,Chương 5:
+ENTITY,E35_6,CHUONG,Chương,structure,8726,8735,Chương 6:
+ENTITY,E35_7,CHUONG,Chương,structure,10433,10442,Chương 7:
+ENTITY,E35_8,CHUONG,Chương,structure,13274,13283,Chương 8:
+ENTITY,E35_9,CHUONG,Chương,structure,14993,15002,Chương 9:
+ENTITY,E35_10,CHUONG,Chương,structure,15819,15829,Chương 10:
+ENTITY,E38_1,DIEU,Điều,structure,941,1265,"Điều 1
+Nhà nước bảo đảm thực sự chế độ hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng, nhằm xây dựng gia đình dân chủ, hoà thuận, hạnh phúc, bền vững.
+Hôn nhân giữa công dân Việt Nam thuộc các dân tộc các tôn giáo khác nhau, giữa người theo tôn giáo với người không theo tôn giáo được tôn trọng và bảo vệ."
+ENTITY,E38_2,DIEU,Điều,structure,1266,1453,"Điều 2
+Vợ chồng có nghĩa vụ thực hiện sinh đẻ có kế hoạch.
+Cha mẹ có nghĩa vụ nuôi dạy con thành những công dân có ích cho xã hội.
+Con có nghĩa vụ kính trọng, chăm sóc, nuôi dưỡng cha mẹ."
+ENTITY,E38_3,DIEU,Điều,structure,1454,1567,"Điều 3
+Nhà nước và xã hội bảo vệ bà mẹ và trẻ em, giúp đỡ các bà mẹ thực hiện tốt chức năng cao quý của người mẹ."
+ENTITY,E38_4,DIEU,Điều,structure,1568,1839,"Điều 4
+Cấm tảo hôn, cưỡng ép kết hôn, cản trở hôn nhân tự nguyện, tiến bộ, yêu sách của cải trong việc cưới hỏi ; cấm cưỡng ép ly hôn.
+Cấm người đang có vợ, có chồng kết hôn hoặc chung sống như vợ chồng với người khác.
+Cấm ngược đãi, hành hạ cha, mẹ, vợ, chồng, con cái.
+"
+ENTITY,E38_5,DIEU,Điều,structure,1857,1927,"Điều 5
+Nam từ 20 tuổi trở lên, nữ từ 18 tuổi trở lên mới được kết hôn."
+ENTITY,E38_6,DIEU,Điều,structure,1928,2052,"Điều 6
+Việc kết hôn do nam nữ tự nguyện quyết định, không bên nào được ép buộc bên nào, không ai được cưỡng ép hoặc cản trở."
+ENTITY,E38_7,DIEU,Điều,structure,2053,2435,"Điều 7
+Cấm kết hôn trong những trường hợp sau đây :
+a) Đang có vợ hoặc có chồng ;
+b) Đang mắc bệnh tâm thần không có khả năng nhận thức hành vi của mình ; đang mắc bệnh hoa liễu ;
+c) Giữa những người cùng dòng máu về trực hệ ; giữa anh chị em cùng cha mẹ, cùng cha khác mẹ hoặc cùng mẹ khác cha ; giữa những người khác có họ trong phạm vi ba đời ;
+d) Giữa cha, mẹ nuôi với con nuôi."
+ENTITY,E38_8,DIEU,Điều,structure,2436,2812,"Điều 8
+Việc kết hôn do Uỷ ban nhân dân xã, phường, thị trấn nơi thường trú của một trong hai người kết hôn công nhận và ghi vào sổ kết hôn theo nghi thức do Nhà nước quy định.
+Việc kết hôn giữa công dân Việt Nam với nhau ở ngoài nước do cơ quan đại diện ngoại giao của nước Cộng hoà xã hội chủ nghĩa Việt Nam công nhận.
+Mọi nghi thức kết hôn khác đều không có giá trị pháp lý."
+ENTITY,E38_9,DIEU,Điều,structure,2813,3555,"Điều 9
+Việc kết hôn vi phạm một trong các Điều 5, 6, 7 của Luật này là trái pháp luật.
+Một hoặc hai bên đã kết hôn trái pháp luật, vợ, chồng hoặc con của người đang có vợ, có chồng mà kết hôn với người khác, Viện kiểm sát nhân dân, Hội liên hiệp phụ nữa Việt Nam, Đoàn thanh niên cộng sản Hồ Chí Minh, Công đoàn Việt Nam có quyền yêu cầu Toà án nhân dân huỷ việc kết hôn trái pháp luật.
+Tài sản của những người mà hôn nhân bị huỷ được giải quyết theo nguyên tắc : tài sản riêng của ai thì vẫn thuộc quyền sở hữu của người ấy ; tài sản chung được chia căn cứ vào công sức đóng góp của mỗi bên ; quyền lợi chính đáng của bên bị lừa dối hoặc bị cưỡng ép kết hôn được bảo vệ.
+Quyền lợi của con được giải quyết như trong trường hợp cha mẹ ly hôn.
+"
+ENTITY,E38_10,DIEU,Điều,structure,3597,3673,"Điều 10
+Vợ, chồng có nghĩa vụ và quyền ngang nhau về mọi mặt trong gia đình."
+ENTITY,E38_11,DIEU,Điều,structure,3674,3897,"Điều 11
+Vợ, chồng có nghĩa vụ chung thuỷ với nhau, thương yêu, quý trọng, chăm sóc, giúp đỡ nhau tiến bộ, cùng nhau thực hiện sinh đẻ có kế hoạch.
+Chồng có nghĩa vụ tạo điều kiện cho vợ thực hiện tốt chức năng của người mẹ."
+ENTITY,E38_12,DIEU,Điều,structure,3898,4020,"Điều 12
+Vợ, chồng có quyền tự do chọn nghề nghiệp chính đáng, tham gia các công tác chính trị, kinh tế, văn hoá và xã hội."
+ENTITY,E38_13,DIEU,Điều,structure,4021,4113,"Điều 13
+Chỗ ở của vợ chồng do vợ chồng lựa chọn, không bị ràng buộc bởi phong tục, tập quán."
+ENTITY,E38_14,DIEU,Điều,structure,4114,4338,"Điều 14
+Tài sản chung của vợ chồng gồm tài sản do vợ hoặc chồng tạo ra, thu nhập về nghề nghiệp và những thu nhập hợp pháp khác của vợ chồng trong thời kỳ hôn nhân, tài sản mà vợ chồng được thừa kế chung hoặc được cho chung."
+ENTITY,E38_15,DIEU,Điều,structure,4339,4626,"Điều 15
+Tài sản chung được sử dụng để bảo đảm những nhu cầu chung của gia đình.
+Vợ, chồng có quyền và nghĩa vụ ngang nhau đối với tài sản chung. Việc mua bán, đổi, cho, vay, mượn, và những giao dịch khác có quan hệ đến tài sản mà có giá trị lớn thì phải được sự thoả thuận của vợ, chồng."
+ENTITY,E38_16,DIEU,Điều,structure,4627,4850,"Điều 16
+Đối với tài sản mà vợ hoặc chồng có trước khi kết hôn, tài sản được thừa kế riêng hoặc được cho riêng trong thời kỳ hôn nhân thì người có tài sản đó có quyền nhập hoặc không nhập vào khối tài sản chung của vợ chồng."
+ENTITY,E38_17,DIEU,Điều,structure,4851,5059,"Điều 17
+Khi một bên chết trước, nếu cần chia tài sản chung của vợ chồng thì chia đôi. Phần tài sản của người chết được chia theo quy định của pháp luật về thừa kế.
+Vợ, chồng có quyền thừa kế tài sản của nhau."
+ENTITY,E38_18,DIEU,Điều,structure,5060,5215,"Điều 18
+Khi hôn nhân tồn tại, nếu một bên yêu cầu và có lý do chính đáng, thì có thể chia tài sản chung của vợ chồng theo quy định ở Điều 42 của Luật này.
+"
+ENTITY,E38_19,DIEU,Điều,structure,5261,5593,"Điều 19
+Cha mẹ có nghĩa vụ thương yêu, nuôi dưỡng, giáo dục con, chăm lo việc hoặc tập và sự phát triển lành mạnh của con về thể chất, trí tuệ và đạo đức.
+Cha mẹ không được phân biệt đối xử giữa các con.
+Cha mẹ phải làm gương tốt cho con về mọi mặt, và phối hợp chặt chẽ với nhà trường và các tổ chức xã hội trong việc giáo dục con."
+ENTITY,E38_20,DIEU,Điều,structure,5594,5696,"Điều 20
+Cha mẹ có nghĩa vụ nuôi dưỡng con đã thành niên mà không có khả năng lao động để tự nuôi mình."
+ENTITY,E38_21,DIEU,Điều,structure,5697,5860,"Điều 21
+Các con có nghĩa vụ và quyền ngang nhau trong gia đình.
+Con có nghĩa vụ kính trọng, chăm sóc, nuôi dưỡng cha mẹ, lắng nghe những lời khuyên bảo của cha mẹ."
+ENTITY,E38_22,DIEU,Điều,structure,5861,6001,"Điều 22
+Con đã thành niên còn ở chung với cha mẹ có quyền lựa chọn nghề nghiệp, tham gia các công tác chính trị, kinh tế, văn hoá và xã hội."
+ENTITY,E38_23,DIEU,Điều,structure,6002,6204,"Điều 23
+Con có quyền có tài sản riêng.
+Con từ 16 tuổi trở lên còn ở chung với cha mẹ có nghĩa vụ chăm lo đời sống chung của gia đình, và nếu có thu nhập riêng thì phải đóng góp vào nhu cầu của gia đình."
+ENTITY,E38_24,DIEU,Điều,structure,6205,6317,"Điều 24
+Cha mẹ đại diện cho con chưa thành niên trước pháp luật.
+Cha mẹ quản lý tài sản của con chưa thành niên."
+ENTITY,E38_25,DIEU,Điều,structure,6318,6753,"Điều 25
+Cha mẹ chịu trách nhiệm bồi thường các thiệt hại do hành vi trái pháp luật của con dưới 16 tuổi gây ra. Trong trường hợp cha mẹ không có khả năng mà con có tài sản riêng thì lấy tài sản của con để bồi thường.
+Con chưa thành niên từ 16 tuổi trở lên chịu trách nhiệm bồi thường bằng tài sản riêng của mình đối với các thiệt hại do hành vi trái pháp luật của mình gây ra. Nếu con không có tài sản riêng thì cha mẹ phải bồi thường."
+ENTITY,E38_26,DIEU,Điều,structure,6754,7238,"Điều 26
+Người cha, người mẹ nào bị xử phạt về một trong các tội xâm phạm thân thể, nhân phẩm của con chưa thành niên, ngược đãi nghiêm trọng hoặc hành hạ con chưa thành niên, thì có thể bị Toà án nhân dân quyết định không cho trông giữ, giáo dục con, quản lý tài sản của con hoặc đại diện cho con trong thời hạn từ một năm đến năm năm. Đối với người đã sửa chữa, Toà án nhân dân có thể rút ngắn thời hạn này.
+Người cha, người mẹ nói trên vẫn có nghĩa vụ đóng góp phí tổn nuôi dạy con."
+ENTITY,E38_27,DIEU,Điều,structure,7239,7512,"Điều 27
+Ông, bà có nghĩa vụ nuôi dưỡng, giáo dục cháu chưa thành niên trong trường hợp cháu không còn cha mẹ. Cháu đã thành niên có nghĩa vụ nuôi dưỡng ông bà trong trường hợp ông bà không còn con. Anh chị em có nghĩa vụ đùm bọc lẫn nhau trong trường hợp không còn cha mẹ.
+"
+ENTITY,E38_28,DIEU,Điều,structure,7547,7737,"Điều 28
+Con sinh ra trong thời kỳ hôn nhân hoặc do người vợ có thai trong thời kỳ đó là con chung của vợ chồng.
+Trong trường hợp có yêu cầu xác định lại vấn đề này thì phải có chứng cứ khác."
+ENTITY,E38_29,DIEU,Điều,structure,7738,7938,"Điều 29
+Người được khai là cha, là mẹ một đứa trẻ có thể xin xác định đứa trẻ đó không phải là con mình.
+Người không được khai là cha, là mẹ một đứa trẻ có thể xin xác định đứa trẻ đó là con của mình."
+ENTITY,E38_30,DIEU,Điều,structure,7939,8085,"Điều 30
+Việc cha mẹ nhận con ngoài giá thú do Uỷ ban nhân dân xã, phường, thị trấn nơi thường trú của người con công nhận và ghi vào sổ khai sinh."
+ENTITY,E38_31,DIEU,Điều,structure,8086,8485,"Điều 31
+Con ngoài giá thú có quyền xin nhận cha, mẹ kể cả trong trường hợp cha. mẹ đã chết.
+Người mẹ, người cha hoặc người đỡ đầu có quyền yêu cầu xác định cha, mẹ cho người con ngoài giá thú chưa thành niên.
+Viện kiểm sát nhân dân, Hội liên hiệp phụ nữ Việt Nam, Đoàn thanh niên Cộng sản Hồ Chí Minh, Công đoàn Việt Nam có quyền yêu cầu xác định cha, mẹ cho người con ngoài giá thú chưa thành niên."
+ENTITY,E38_32,DIEU,Điều,structure,8486,8620,"Điều 32
+Con ngoài giá thú được cha, mẹ nhận hoặc được Toà án nhân dân cho nhận cha, mẹ có mọi quyền và nghĩa vụ như con trong giá thú."
+ENTITY,E38_33,DIEU,Điều,structure,8621,8726,"Điều 33
+Các tranh chấp về nhận con, nhận cha, mẹ do Toà án nhân dân nơi thường trú của người con xét xử.
+"
+ENTITY,E38_34,DIEU,Điều,structure,8750,9058,"Điều 34
+Việc nuôi con nuôi nhằm gắn bó tình cảm giữa người nuôi và con nuôi trong quan hệ cha mẹ và con cái, bảo đảm người con nuôi chưa thành niên được nuôi dưỡng, chăm sóc, giáo dục tốt.
+Giữa người nuôi và con nuôi có những nghĩa vụ và quyền của cha mẹ và con quy định ở các Điều từ 19 đến 25 của Luật này."
+ENTITY,E38_35,DIEU,Điều,structure,9059,9299,"Điều 35
+Người từ 15 tuổi trở xuống mới được nhận làm con nuôi. Trong trường hợp con nuôi là thương binh, người tàn tật hoặc làm con nuôi người già yếu cô đơn thì con nuôi có thể trên 15 tuổi.
+Người nuôi phải hơn con nuôi từ 20 tuổi trở lên."
+ENTITY,E38_36,DIEU,Điều,structure,9300,9532,"Điều 36
+Việc nhận nuôi con nuôi phải được sự thoả thuận của hai vợ chồng người nuôi, của cha mẹ đẻ hoặc người đỡ đầu của người con nuôi chưa thành niên. Nếu nhận nuôi người từ 9 tuổi trở lên thì còn phải được sự đồng ý của người đó."
+ENTITY,E38_37,DIEU,Điều,structure,9533,9681,"Điều 37
+Việc nhận nuôi con nuôi do Uỷ ban nhân dân xã, phường, thị trấn nơi thường trú của người nuôi hoặc con nuôi công nhận và ghi vào sổ hộ tịch."
+ENTITY,E38_38,DIEU,Điều,structure,9682,9839,"Điều 38
+Nhà nước và xã hội khuyến khích việc nhận các trẻ em mồ côi làm con nuôi.
+Con liệt sĩ được nhận làm con nuôi vẫn hưởng mọi quyền lợi của con liệt sĩ."
+ENTITY,E38_39,DIEU,Điều,structure,9840,10433,"Điều 39
+Việc nuôi con nuôi có thể chấm dứt khi người nuôi hoặc con nuôi hoặc cả hai người có hành vi nghiêm trọng xâm phạm thân thể, nhân phẩm của nhau hoặc những hành vi khác làm cho tình cảm giữa người nuôi và con nuôi không còn nữa.
+Việc chấm dứt nuôi con nuôi do Toà án nhân dân quyết định theo yêu cầu của con nuôi hoặc của người nuôi. Trong trường hợp người con nuôi chưa thành niên thì cha mẹ đẻ hoặc người đỡ đầu của con nuôi, Viện kiểm sát nhân dân, Hội liên hiệp phụ nữ Việt Nam, Đoàn thanh niên cộng sản Hồ Chí Minh, Công đoàn Việt Nam có quyền yêu cầu chấm dứt việc nuôi con nuôi.
+"
+ENTITY,E38_40,DIEU,Điều,structure,10450,10989,"Điều 40
+Khi vợ hoặc chồng, hoặc cả hai vợ chồng có đơn xin ly hôn thì Toà án nhân dân tiến hành điều tra và hoà giải.
+Trong trường hợp cả hai vợ chồng xin ly hôn, nếu hoà giải không thành và nếu xét đúng là hai bên thật sự tự nguyện ly hôn, thì Toà án nhân dân công nhận cho thuận tình ly hôn.
+Trong trường hợp một bên vợ hoặc chồng xin ly hôn, nếu hoà giải không thành thì Toà án nhân dân xét xử. Nếu xét thấy tình trạng trầm trọng, đời sống chung không thể kéo dài, mục đích của hôn nhân không đạt được thì Toà án nhân dân xử cho ly hôn."
+ENTITY,E38_41,DIEU,Điều,structure,10990,11160,"Điều 41
+Trong trường hợp vợ có thai, chồng chỉ có thể xin ly hôn sau khi vợ đã sinh con được một năm.
+Điều hạn chế này không áp dụng đối với việc xin ly hôn của người vợ."
+ENTITY,E38_42,DIEU,Điều,structure,11161,12182,"Điều 42
+Khi ly hôn, việc chia tài sản do hai bên thoả thuận, và phải được Toà án nhân dân công nhận. Nếu hai bên không thoả thuận được với nhau thì Toà án nhân dân quyết định.
+Việc chia tài sản khi ly hôn, về nguyên tắc, phải theo những quy định dưới đây:
+a) Tài sản riêng của bên nào thì vẫn thuộc quyền sở hữu của bên ấy;
+b) Tài sản chung của vợ chồng được chia đôi, nhưng có xem xét một cách hợp lý đến tình hình tài sản, tình trạng cụ thể của gia đình và công sức đóng góp của mỗi bên;
+c) Trong trường hợp vợ chồng do còn sống chung với gia đình mà tài sản của bản thân vợ chồng không xác định được thì vợ hoặc chồng được chia một phần trong khối tài sản chung của gia đình, căn cứ vào công sức của người được chia đóng góp vào việc duy trì và phát triển khối tài sản chung, cũng như vào đời sống chung của gia đình. Lao động trong gia đình được coi như lao động sản xuất;
+d) Khi chia tài sản, phải bảo vệ quyền lợi của người vợ và của người con chưa thành niên, bảo vệ lợi ích chính đáng của sản xuất và nghề nghiệp."
+ENTITY,E38_43,DIEU,Điều,structure,12183,12624,"Điều 43
+Khi ly hôn, nếu bên túng thiếu yêu cầu cấp dưỡng thì bên kia phải cấp dưỡng theo khả năng của mình.
+Khoản cấp dưỡng và thời gian cấp dưỡng do hai bên thoả thuận. Nếu hai bên không thoả thuận được với nhau thì Toà án nhân dân quyết định.
+Khi hoàn cảnh thay đổi, người được cấp dưỡng hoặc người phải cấp dưỡng có thể yêu cầu sửa đổi mức hoặc thời gian cấp dưỡng. Nếu người cấp dưỡng kết hôn với người khác thì không được cấp dưỡng nữa."
+ENTITY,E38_44,DIEU,Điều,structure,12625,12699,"Điều 44
+Vợ chồng đã ly hôn vẫn có mọi nghĩa vụ và quyền đối với con chung."
+ENTITY,E38_45,DIEU,Điều,structure,12700,13274,"Điều 45
+Khi ly hôn, việc giao con chưa thành niên cho ai trông nom, nuôi dưỡng, giáo dục phải căn cứ vào quyền lợi về mọi mặt của con. Về nguyên tắc, con còn bú được giao cho người mẹ nuôi giữ.
+Người không nuôi giữ con có nghĩa vụ và quyền thăm nom, chăm sóc con và phải đóng góp phí tổn nuôi dưỡng, giáo dục con. Nếu trì hoãn hoặc lẩn tránh việc đóng góp, thì Toà án nhân dân quyết định khấu trừ vào thu nhập hoặc buộc phải nộp những khoản phí tổn đó.
+Vì lợi ích của con, khi cần thiết, có thể thay đổi việc nuôi giữ con hoặc mức đóng góp phí tổn nuôi dưỡng, giáo dục con.
+"
+ENTITY,E38_46,DIEU,Điều,structure,13298,13526,"Điều 46
+Việc đỡ đầu được thực hiện trong trường hợp cần bảo đảm việc chăm nom, giáo dục và bảo vệ quyền lợi của người chưa thành niên mà cha mẹ đã chết, hoặc tuy cha mẹ còn sống nhưng không có điều kiện để làm những nhiệm vụ đó."
+ENTITY,E38_47,DIEU,Điều,structure,13527,13932,"Điều 47
+Cha mẹ có thể cử người đỡ đầu cho con chưa thành niên. Nếu cha mẹ không cử được thì những người thân thích có thể cử người đỡ đầu cho người đó. Việc cử người đỡ đầu do Uỷ ban nhân dân xã, phường, thị trấn công nhận.
+Trong trường hợp cha mẹ hoặc những người thân thích không cử được người đỡ đầu thì cơ quan Nhà nước có chức năng hoặc tổ chức xã hội đảm nhiệm việc đỡ đầu người con chưa thành niên."
+ENTITY,E38_48,DIEU,Điều,structure,13933,14068,"Điều 48
+Công dân làm người đỡ đầu phải là người từ 21 tuổi trở lên, có tư cách đạo đức tốt và có điều kiện thực tế để làm người đỡ đầu."
+ENTITY,E38_49,DIEU,Điều,structure,14069,14323,"Điều 49
+Công dân hoặc tổ chức làm người đỡ đầu có những nhiệm vụ và quyền hạn sau đây :
+a) Chăm sóc, giáo dục người được đỡ đầu;
+b) Quản lý tài sản của người được đỡ đầu;
+c) Đại diện cho người được đỡ đầu trước pháp luật và bảo vệ quyền lợi của người đó."
+ENTITY,E38_50,DIEU,Điều,structure,14324,14870,"Điều 50
+Công dân làm người đỡ đầu chịu sự giám sát của Uỷ ban nhân dân xã, phường, thị trấn về công việc đỡ đầu.
+Người thân thích của người được đỡ đầu, Viện kiểm sát nhân dân,
+Hội liên hiệp phụ nữ Việt Nam, Đoàn thanh niên cộng sản Hồ Chí Minh, Công đoàn Việt Nam có quyền yêu cầu Uỷ ban nhân dân xã, phường, thị trấn thay người đỡ đầu, nếu người này không làm tròn nhiệm vụ, gây thiệt hại nghiêm trọng đến quyền lợi của người đỡ đầu.
+Công dân làm người đỡ đầu có thể yêu cầu cử người thay, nếu thấy mình không còn đủ điều kiện làm người đỡ đầu."
+ENTITY,E38_51,DIEU,Điều,structure,14871,14993,"Điều 51
+Việc đỡ đầu chấm dứt khi người chưa thành niên được giao lại cho cha mẹ, được nhận làm con nuôi, hoặc đủ 18 tuổi.
+"
+ENTITY,E38_52,DIEU,Điều,structure,15075,15437,"Điều 52
+Trong việc kết hôn giữa công dân Việt Nam với người nước ngoài, mỗi bên tuân theo những quy định của pháp luật nước mình về kết hôn.
+Nếu việc kết hôn giữa công dân Việt Nam với người nước ngoài tiến hành ở Việt Nam thì người nước ngoài còn phải tuân theo các quy định ở Điều 5, Điều 6, Điều 7 của Luật này. Thủ tục kết hôn do Hội đồng bộ trưởng quy định."
+ENTITY,E38_53,DIEU,Điều,structure,15438,15644,"Điều 53
+Những vấn đề về quan hệ vợ chồng, quan hệ tài sản, quan hệ cha mẹ và con, huỷ việc kết hôn, ly hôn, nuôi con nuôi và đỡ đầu giữa công dân Việt Nam với người nước ngoài do Hội đồng Nhà nước quy định."
+ENTITY,E38_54,DIEU,Điều,structure,15645,15819,"Điều 54
+Trong trường hợp đã có hiệp định tương trợ tư pháp và pháp lý về hôn nhân và gia đình giữa Việt Nam và nước ngoài, thì tuân theo những quy định của các hiệp định đó.
+"
+ENTITY,E38_55,DIEU,Điều,structure,15851,15970,"Điều 55
+Đối với dân tộc thiểu số, Hội đồng Nhà nước căn cứ Luật này và tình hình cụ thể mà có những quy định thích hợp."
+ENTITY,E38_56,DIEU,Điều,structure,15971,16320,"Điều 56
+Hội đồng bộ trưởng, Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, trong phạm vi chức năng của mình, có trách nhiệm hướng dẫn thi hành Luật này.
+Mặt trận Tổ quốc Việt Nam, Hội liên hiệp phụ nữ Việt Nam, Đoàn thanh niên cộng sản Hồ Chí Minh, Công đoàn Việt Nam giáo dục, vận động nhân dân thi hành nghiêm chỉnh Luật này."
+ENTITY,E38_57,DIEU,Điều,structure,16321,16510,"Điều 57
+Luật này thay thế Luật hôn nhân và gia đình năm 1959.
+Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VII, kỳ họp thứ 12, thông qua ngày 29 tháng 12 năm 1986."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R4_1,BI_TAC_DONG_HIEU_LUC_TOAN_BO,Bị tác động hiệu lực toàn bộ,E2_1,E16_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_4,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_5,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E2_1,E29_6,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_2,,
+RELATION,R22_8,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_9,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_10,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_11,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_12,THUOC,Thuộc,E38_10,E35_3,,
+RELATION,R22_13,THUOC,Thuộc,E38_11,E35_3,,
+RELATION,R22_14,THUOC,Thuộc,E38_12,E35_3,,
+RELATION,R22_15,THUOC,Thuộc,E38_13,E35_3,,
+RELATION,R22_16,THUOC,Thuộc,E38_14,E35_3,,
+RELATION,R22_17,THUOC,Thuộc,E38_15,E35_3,,
+RELATION,R22_18,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,R22_19,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,R22_20,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,R22_21,THUOC,Thuộc,E38_19,E35_4,,
+RELATION,R22_22,THUOC,Thuộc,E38_20,E35_4,,
+RELATION,R22_23,THUOC,Thuộc,E38_21,E35_4,,
+RELATION,R22_24,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,R22_25,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_26,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,R22_27,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,R22_28,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_29,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,R22_30,THUOC,Thuộc,E38_28,E35_5,,
+RELATION,R22_31,THUOC,Thuộc,E38_29,E35_5,,
+RELATION,R22_32,THUOC,Thuộc,E38_30,E35_5,,
+RELATION,R22_33,THUOC,Thuộc,E38_31,E35_5,,
+RELATION,R22_34,THUOC,Thuộc,E38_32,E35_5,,
+RELATION,R22_35,THUOC,Thuộc,E38_33,E35_5,,
+RELATION,R22_36,THUOC,Thuộc,E38_34,E35_6,,
+RELATION,R22_37,THUOC,Thuộc,E38_35,E35_6,,
+RELATION,R22_38,THUOC,Thuộc,E38_36,E35_6,,
+RELATION,R22_39,THUOC,Thuộc,E38_37,E35_6,,
+RELATION,R22_40,THUOC,Thuộc,E38_38,E35_6,,
+RELATION,R22_41,THUOC,Thuộc,E38_39,E35_6,,
+RELATION,R22_42,THUOC,Thuộc,E38_40,E35_7,,
+RELATION,R22_43,THUOC,Thuộc,E38_41,E35_7,,
+RELATION,R22_44,THUOC,Thuộc,E38_42,E35_7,,
+RELATION,R22_45,THUOC,Thuộc,E38_43,E35_7,,
+RELATION,R22_46,THUOC,Thuộc,E38_44,E35_7,,
+RELATION,R22_47,THUOC,Thuộc,E38_45,E35_7,,
+RELATION,R22_48,THUOC,Thuộc,E38_46,E35_8,,
+RELATION,R22_49,THUOC,Thuộc,E38_47,E35_8,,
+RELATION,R22_50,THUOC,Thuộc,E38_48,E35_8,,
+RELATION,R22_51,THUOC,Thuộc,E38_49,E35_8,,
+RELATION,R22_52,THUOC,Thuộc,E38_50,E35_8,,
+RELATION,R22_53,THUOC,Thuộc,E38_51,E35_8,,
+RELATION,R22_54,THUOC,Thuộc,E38_52,E35_9,,
+RELATION,R22_55,THUOC,Thuộc,E38_53,E35_9,,
+RELATION,R22_56,THUOC,Thuộc,E38_54,E35_9,,
+RELATION,R22_57,THUOC,Thuộc,E38_55,E35_10,,
+RELATION,R22_58,THUOC,Thuộc,E38_56,E35_10,,
+RELATION,R22_59,THUOC,Thuộc,E38_57,E35_10,,

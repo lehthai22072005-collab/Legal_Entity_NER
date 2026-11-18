@@ -1,0 +1,71 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,178,246,"PHÁP LỆNH
+CỦA UỶ BAN THƯỜNG VỤ QUỐC HỘI VỀ VIỆC TRỪNG TRỊ TỘI HỐI LỘ"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,132,144,Số: Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,178,187,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,153,177,ngày 20 tháng 5 năm 1981
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,5005,5019,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,5040,5050,1981-06-04
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,5074,5086,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,43,68,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,5100,5108,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,4920,4932,Trường Chinh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,5448,5466,Hiến pháp năm 1980
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,5128,5238,Nghị quyết số Không số Quy định một số điểm về việc thi hành Hiến pháp nước Cộng hoà xã hội Chủ nghĩa Việt Nam
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,5258,5276,Hiến pháp năm 1980
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,5298,5393,"Pháp lệnh số 7-LCT/HĐNN7 Trừng trị các tội đầu cơ, buôn lậu, làm hàng giả, kinh doanh trái phép"
+ENTITY,E38_1,DIEU,Điều,structure,770,777,Điều 1:
+ENTITY,E38_2,DIEU,Điều,structure,842,862,Điều 2: Nhận hối lộ.
+ENTITY,E38_3,DIEU,Điều,structure,1310,1346,"Điều 3: Đưa hối lộ, môi giới hối lộ."
+ENTITY,E38_4,DIEU,Điều,structure,1426,1497,"Điều 4: Lợi dụng ảnh hưởng đối với người có chức, có quyền để phạm tội."
+ENTITY,E38_5,DIEU,Điều,structure,1701,1738,Điều 5: Những trường hợp cần xử nặng.
+ENTITY,E38_6,DIEU,Điều,structure,2072,2135,Điều 6: Những trường hợp phạm tội hối lộ đặc biệt nghiêm trọng.
+ENTITY,E38_7,DIEU,Điều,structure,2384,2422,Điều 7: Phạt tiền và tịch thu tài sản.
+ENTITY,E38_8,DIEU,Điều,structure,2698,2778,"Điều 8: Những trường hợp miễn trách nhiệm hình sự, giảm nhẹ hoặc miễn hình phạt."
+ENTITY,E38_9,DIEU,Điều,structure,3326,3370,Điều 9: Trường hợp được coi là không có tội.
+ENTITY,E38_10,DIEU,Điều,structure,3476,3521,Điều 10: Xử lý hành vi trả thù người tố giác.
+ENTITY,E38_11,DIEU,Điều,structure,3740,3766,Điều 11: Xử lý của hối lộ.
+ENTITY,E38_12,DIEU,Điều,structure,4282,4302,Điều 12: Khen thưởng
+ENTITY,E38_13,DIEU,Điều,structure,4668,4700,Điều 13: Hiệu lực của Pháp lệnh.
+ENTITY,E39_1,KHOAN,Khoản,structure,2779,2989,"1- Người phạm tội hối lộ, trước khi bị phát giác, chủ động khai rõ sự việc, giao nộp đầy đủ của hối lộ, thì có thể được miễn trách nhiệm hình sự; nếu là phạm tội nghiêm trọng thì có thể được giảm nhẹ hình phạt."
+ENTITY,E39_2,KHOAN,Khoản,structure,2990,3144,"2- Người phạm tội hối lộ, sau khi bị phát giác, tỏ ra thành thực hối cải, khai rõ sự việc, giao nộp đầy đủ của hối lộ, thì có thể được giảm nhẹ hình phạt."
+ENTITY,E39_3,KHOAN,Khoản,structure,3145,3325,"3- Người phạm tội hối lộ lần đầu và không nghiêm trọng, sau khi bị phát giác, tỏ ra thành thực hối cải, khai rõ sự việc, giao nộp đầy đủ của hối lộ, thì có thể được miễn hình phạt."
+ENTITY,E39_4,KHOAN,Khoản,structure,3522,3604,1- Người nào có hành vi trả thù người tố giác thì bị phạt tù từ 6 tháng đến 6 năm.
+ENTITY,E39_5,KHOAN,Khoản,structure,3605,3739,"2- Nếu hành vi trả thù là một tội phạm mà pháp luật khác quy định hình phạt nặng hơn, thì người phạm tội bị xử phạt theo pháp luật đó."
+ENTITY,E39_6,KHOAN,Khoản,structure,3767,3914,"1- Của hối lộ và tài sản do hối lộ mà có đều bị Nhà nước tịch thu; nếu đã tiêu dùng rồi, thì người phạm tội hối lộ phải nộp lại Nhà nước bằng tiền."
+ENTITY,E39_7,KHOAN,Khoản,structure,3915,4171,"2- Trong trường hợp được miễn trách nhiệm hình sự nói ở điểm 1 Điều 8 của Pháp lệnh này, người đưa hối lộ được trả lại một phần hoặc toàn bộ của đã dùng để đưa hối lộ; nếu người nhận hối lộ đã tiêu dùng rồi, thì phải trả lại bằng tiền cho người đưa hối lộ."
+ENTITY,E39_8,KHOAN,Khoản,structure,4172,4281,3- Người bị ép buộc đưa hối lộ nói ở Điều 9 của Pháp lệnh này được trả lại toàn bộ của đã dùng để đưa hối lộ.
+ENTITY,E39_9,KHOAN,Khoản,structure,4303,4468,1- Những người không nhận hối lộ và tố giác cơ quan có trách nhiệm người đưa hối lộ hoặc người môi giới hối lộ thì được khen thưởng theo quy định chung của Nhà nước.
+ENTITY,E39_10,KHOAN,Khoản,structure,4469,4667,"2- Những người tố giác và giúp đỡ cơ quan có trách nhiệm trừng trị tội hối lộ thì được khen và được thưởng tiền bằng 10% giá trị của hối lộ đã bị tịch thu, mức thưởng cao nhất không quá 10.000 đồng."
+ENTITY,E39_11,KHOAN,Khoản,structure,4701,4829,"1- Đối với những tội hối lộ đã được phát hiện trước ngày công bố Pháp lệnh này mà chưa bị xét xử, thì xét xử theo Pháp lệnh này."
+ENTITY,E39_12,KHOAN,Khoản,structure,4830,4940,"2- Pháp lệnh này thay thế các văn bản pháp luật về tội hối lộ đã được ban hành trước đây.
+Trường Chinh
+(Đã ký)"
+ENTITY,E40_1,DIEM,Điểm,structure,1848,1878,"a) Phạm tội hối lộ có tổ chức,"
+ENTITY,E40_2,DIEM,Điểm,structure,1879,1908,"b) Phạm tội hối lộ nhiều lần,"
+ENTITY,E40_3,DIEM,Điểm,structure,1909,1956,"c) Dùng thủ đoạn xảo quyệt để thực hành hối lộ,"
+ENTITY,E40_4,DIEM,Điểm,structure,1957,1986,"d) Của hối lộ có giá trị lớn,"
+ENTITY,E40_5,DIEM,Điểm,structure,1987,2026,"đ) Lợi dụng chức vụ cao để nhận hối lộ,"
+ENTITY,E40_6,DIEM,Điểm,structure,2027,2071,e) Phạm tội hối lộ gây hậu quả nghiêm trọng.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_8,,
+RELATION,R22_2,THUOC,Thuộc,E39_10,E38_12,,
+RELATION,R22_3,THUOC,Thuộc,E39_11,E38_13,,
+RELATION,R22_4,THUOC,Thuộc,E39_12,E38_13,,
+RELATION,R22_5,THUOC,Thuộc,E39_2,E38_8,,
+RELATION,R22_6,THUOC,Thuộc,E39_3,E38_8,,
+RELATION,R22_7,THUOC,Thuộc,E39_4,E38_10,,
+RELATION,R22_8,THUOC,Thuộc,E39_5,E38_10,,
+RELATION,R22_9,THUOC,Thuộc,E39_6,E38_11,,
+RELATION,R22_10,THUOC,Thuộc,E39_7,E38_11,,
+RELATION,R22_11,THUOC,Thuộc,E39_8,E38_11,,
+RELATION,R22_12,THUOC,Thuộc,E39_9,E38_12,,
+RELATION,R22_13,THUOC,Thuộc,E40_1,E38_5,,
+RELATION,R22_14,THUOC,Thuộc,E40_2,E38_5,,
+RELATION,R22_15,THUOC,Thuộc,E40_3,E38_5,,
+RELATION,R22_16,THUOC,Thuộc,E40_4,E38_5,,
+RELATION,R22_17,THUOC,Thuộc,E40_5,E38_5,,
+RELATION,R22_18,THUOC,Thuộc,E40_6,E38_5,,

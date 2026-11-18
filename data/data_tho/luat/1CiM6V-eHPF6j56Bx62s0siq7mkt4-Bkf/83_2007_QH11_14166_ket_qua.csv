@@ -1,0 +1,107 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,75,"Luật Sửa đổi, bổ sung một số điều của Luật tổ chức Quốc hội số 83/2007/QH11"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,63,75,83/2007/QH11
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,173,198,ngày 02 tháng 04 năm 2007
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,8383,8397,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,8127,8151,ngày 01 tháng 7 năm 2007
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,8421,8433,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,76,84,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,8277,8294,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,8302,8318,Nguyễn Phú Trọng
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,270,328,Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,490,604,Luật tổ chức Quốc hội đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam thông qua ngày 25 tháng 12 năm 2001
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,270,328,Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8483,8646,"Nghị quyết số 89/2015/QH13 Điều chỉnh Chương trình xây dựng luật, pháp lệnh nhiệm kỳ Quốc hội khóa XIII, năm 2015 và Chương trình xây dựng luật, pháp lệnh năm 2016"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8696,8743,Lệnh số 01/2009/L-CTN Về việc công bố Pháp lệnh
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8793,8899,Nghị quyết số 29/2012/QH13 Về ban hành một số chính sách thuế nhằm tháo gỡ khó khăn cho tổ chức và cá nhân
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8949,9094,"Nghị quyết số 85/2014/QH13 Về lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn"
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,9144,9325,"Nghị quyết số 759/2014/UBTVQH13 Quy định chi tiết về hoạt động tiếp công dân của các cơ quan của Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân và đại biểu Hội đồng nhân dân các cấp"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,9347,9389,Lệnh số 03/2007/L-CTN Về việc công bố Luật
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,9409,9667,"Nghị quyết số 295/2007/NQ-UBTVQH12 Về việc ban hành biểu thuế xuất khẩu theo danh mục nhóm hàng chịu thuế và khung thuế suất đối với từng nhóm hàng, biểu thuế nhập khẩu ưu đãi theo danh mục nhóm hàng chịu thuế và khung thuế suất ưu đãi đối với từng nhóm hàng"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,9687,9807,Nghị quyết số 44/2013/QH13 Xác nhận kết quả lấy phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,9827,10267,"Nghị quyết số 823/2009/UBTVQH12 Phê chuẩn việc sửa đổi, bổ sung mục III Bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước và đại biểu Quốc hội hoạt động chuyên trách ban hành kèm theo Nghị quyết số 730/2004/NQ-UBTVQH11 ngày 30 tháng 9 năm 2004 của Ủy ban thường vụ quốc hội về việc phê chuẩn bảng lương chức vụ, bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước; bảng lương chuyên môn, nghiệp vụ ngành Tòa án, ngành Kiểm sát"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,10287,10651,"Nghị quyết số 710/2008/NQ-UBTVQH12 Về việc sửa đổi Nghị quyết số 295/2007/NQ-UBTVQH12 ngày 28 tháng 9 năm 2007 của Ủy ban thường vụ Quốc hội về việc ban hành Biểu thuế xuất khẩu theo Danh mục nhóm hàng chịu thuế và khung thuế suất đối với từng nhóm hàng, Biểu thuế nhập khẩu ưu đãi theo Danh mục nhóm hàng chịu thuế và khung thuế suất ưu đãi đối với từng nhóm hàng"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,10671,10771,Nghị quyết số 524/2012/UBTVQH13 Về một số chế độ chi tiêu bảo đảm hoạt động của Quốc hội
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,10791,10922,"Nghị quyết số 1033/2015/UBTVQH13 Điều chỉnh chương trình xây dựng luật, pháp lệnh nhiệm kỳ Quốc hội khóa XIII và năm 2015, năm 2016"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,10942,11062,"Nghị quyết số 819/2014/UBTVQH13 Điều chỉnh Chương trình xây dựng luật, pháp lệnh năm 2014 và nhiệm kỳ Quốc hội khóa XIII"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,11082,11221,"Nghị quyết số 1023/2011/UBTVQH12 Về việc thi hành Pháp lệnh Sửa đổi, bổ sung một số điều của Pháp lệnh Kiểm sát viên Viện Kiểm sát nhân dân"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,11241,11351,"Nghị quyết số 27/2012/QH13 Về một số cải tiến, đổi mới để nâng cao chất lượng, hiệu quả hoạt động của Quốc hội"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,11371,11578,"Nghị quyết số 694/2008/NQ-UBTVQH12 Về việc tiếp nhận, phân loại, xử lý đơn, thư khiếu nại, tố cáo và kiến nghị của công dân gửi Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, các cơ quan của Quốc hội"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,11598,11640,Lệnh số 04/2009/L-CTN Về việc công bố Luật
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,11660,11707,Lệnh số 01/2009/L-CTN Về việc công bố Pháp lệnh
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,11727,11902,"Nghị quyết số 618/2013/UBTVQH13 Sửa đổi, bổ sung một số điều của Nghị quyết số 417/2003/ NQ-UBTVQH11 về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Văn phòng Quốc hội"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,11922,12446,"Nghị quyết số 830/2009/UBTVQH12 Về việc sửa đổi, bổ sung Nghị quyết số 295/2007/NQ-UBTVQH12 ngày 28 tháng 9 năm 2007 của Ủy ban thường vụ Quốc hội về việc ban hành Biểu thuế xuất khẩu theo Danh mục nhóm hàng chịu thuế và khung thuế suất đối với từng nhóm hàng, Biểu thuế nhập khẩu ưu đãi theo Danh mục nhóm hàng chịu thuế và khung thuế suất ưu đãi đối với từng nhóm hàng và Nghị quyết số 710/2008/NQ-UBTVQH12 ngày 22 tháng 11 năm 2008 của Ủy ban thường vụ Quốc hội về việc sửa đổi, bổ sung Nghị quyết số 295/2007/NQ-UBTVQH12"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,12466,12508,Lệnh số 13/2009/L-CTN Về việc công bố Luật
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,12528,12639,Nghị quyết số 28/2012/QH13 Về bổ sung một số dự án sử dụng nguồn vốn trái phiếu Chính phủ giai đoạn 2011 – 2015
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,12659,12822,"Nghị quyết số 89/2015/QH13 Điều chỉnh Chương trình xây dựng luật, pháp lệnh nhiệm kỳ Quốc hội khóa XIII, năm 2015 và Chương trình xây dựng luật, pháp lệnh năm 2016"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,12842,12948,Nghị quyết số 29/2012/QH13 Về ban hành một số chính sách thuế nhằm tháo gỡ khó khăn cho tổ chức và cá nhân
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,12968,13086,Nghị quyết số 41/2013/QH13 Phê chuẩn đề nghị của Thủ tướng Chính phủ về việc miễn nhiệm chức vụ Bộ trưởng Bộ Tài chính
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,13106,13153,Lệnh số 03/2009/L-CTN Về việc công bố Pháp lệnh
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,13173,13256,Nghị quyết số 712/2013/UBTVQH13 Về việc ban hành biểu mức thuế suất thuế tài nguyên
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,13276,13389,"Nghị quyết số 575/UBTVQH12 Về chức năng, nhiệm vụ của Ban Công tác đại biểu do Uỷ ban thường vụ Quốc hội ban hành"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,13409,13559,"Nghị quyết số 35/2012/QH13 Về việc lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,13579,13760,"Nghị quyết số 759/2014/UBTVQH13 Quy định chi tiết về hoạt động tiếp công dân của các cơ quan của Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân và đại biểu Hội đồng nhân dân các cấp"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,13780,13946,"Nghị quyết số 23/2012/QH13 Về Chương trình xây dựng luật, pháp lệnh năm 2013, điều chỉnh Chương trình xây dựng luật, pháp lệnh năm 2012 và nhiệm kỳ Quốc hội khóa XIII"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,13966,14076,Nghị quyết số 100/2015/QH13 Phê duyệt chủ trương đầu tư các Chương trình mục tiêu Quốc gia giai đoạn 2016-2020
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,14096,14259,"Nghị quyết số 45/2013/QH13 Điều chỉnh Chương trình xây dựng luật, pháp lệnh nhiệm kỳ Quốc hội khóa XIII, năm 2013 và Chương trình xây dựng luật, pháp lệnh năm 2014"
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,14279,14424,"Nghị quyết số 85/2014/QH13 Về lấy phiếu tín nhiệm, bỏ phiếu tín nhiệm đối với người giữ chức vụ do Quốc hội, Hội đồng nhân dân bầu hoặc phê chuẩn"
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,14444,14536,"Nghị quyết số 04/2007/QH12 Về việc điều chỉnh chương trình xây dựng luật, pháp lệnh năm 2007"
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,14556,14631,Nghị quyết số 25/2012/QH13 Phê chuẩn quyết toán ngân sách nhà nước năm 2010
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,14651,14817,"Nghị quyết số 294A/2007/UBTVQH12 Về tổ chức, nhiệm vụ, quyền hạn và quy chế hoạt động của Ban chỉ đạo tỉnh, thành phố trực thuộc Trung ương về phòng, chống tham nhũng"
+ENTITY,E38_1,DIEU,Điều,structure,606,612,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,8086,8092,Điều 2
+ENTITY,E39_1,KHOAN,Khoản,structure,670,711,"1. Điều 22 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,1068,1109,"2. Điều 27 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,2791,2831,3. Bổ sung Điều 27a sau Điều 27 như sau:
+ENTITY,E39_4,KHOAN,Khoản,structure,4522,4563,"4. Điều 28 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,5875,5915,5. Bổ sung Điều 28a sau Điều 28 như sau:
+ENTITY,E39_6,KHOAN,Khoản,structure,7019,7060,"6. Điều 34 được sửa đổi, bổ sung như sau:"
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_3,E2_1,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_4,E2_1,,
+RELATION,R12_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_5,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E30_19,E2_1,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E30_20,E2_1,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E30_21,E2_1,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E30_22,E2_1,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E30_23,E2_1,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E30_24,E2_1,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E30_25,E2_1,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E30_26,E2_1,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E30_27,E2_1,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E30_28,E2_1,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E30_29,E2_1,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E30_30,E2_1,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E30_31,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_8,THUOC,Thuộc,E11_1,E10_1,,

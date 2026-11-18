@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "document_id": "16749",
+  "document_code": "Số: 34/2005/L-CTN",
+  "file_name": "36_lenh_34_2005_16749.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "LỆNH\nVề việc công bố Luật",
+    "so_hieu": "Số: 34/2005/L-CTN",
+    "loai_van_ban": "LỆNH",
+    "nganh": null,
+    "ngay_ban_hanh": "ngày 12 tháng 12 năm 2005",
+    "linh_vuc": "Chưa phân loại",
+    "ngay_co_hieu_luc": "2006-02-16",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "chuc_danh": "CHỦ TỊCH NƯỚC",
+    "nguoi_ky": "Trần Đức Lương"
+  },
+  "full_text": "Lệnh số 34/2005/L-CTN Về việc công bố Luật\nCHỦ TỊCH NƯỚC\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 34/2005/L-CTN\nHà Nội, ngày 12 tháng 12 năm 2005\nLỆNH\nVề việc công bố Luật\nCHỦ TỊCH NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 103 và Điều 106 của Hiếp pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25/12/2001 của Quốc hội Khoá X, kỳ họp thứ 10;\nCăn cứ vào Điều 91 của Luật Tổ chức Quốc hội;\nCăn cứ vào Điều 50 của Luật Ban hành văn bản quy phạm pháp luật,\nNAY CÔNG BỐ:\nLuật đấu thầu.\nĐã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam Khoá XI, kỳ họp thứ 8 thông qua ngày 29 tháng 11 năm 2005./.\nCHỦ TỊCH NƯỚC\n(Đã ký)\nTrần Đức Lương\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 2006-02-16\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 30/2001/QH10\n[Căn cứ ban hành]: Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)\n[Căn cứ ban hành]: Luật Ban hành Văn bản quy phạm pháp luật số Không số\n[Văn bản được dẫn chiếu]: Luật Đấu thầu số 61/2005/QH11\n",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 172,
+      "end": 197,
+      "text": "LỆNH\nVề việc công bố Luật",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 120,
+      "end": 137,
+      "text": "Số: 34/2005/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 172,
+      "end": 176,
+      "text": "LỆNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 146,
+      "end": 171,
+      "text": "ngày 12 tháng 12 năm 2005",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 805,
+      "end": 819,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 840,
+      "end": 850,
+      "text": "2006-02-16",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 874,
+      "end": 886,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 43,
+      "end": 56,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 704,
+      "end": 717,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 726,
+      "end": 740,
+      "text": "Trần Đức Lương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E18_1",
+      "start": 1108,
+      "end": 1137,
+      "text": "Luật Đấu thầu số 61/2005/QH11",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 906,
+      "end": 943,
+      "text": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 963,
+      "end": 1009,
+      "text": "Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 1029,
+      "end": 1081,
+      "text": "Luật Ban hành Văn bản quy phạm pháp luật số Không số",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R6_1",
+      "from_id": "E18_1",
+      "to_id": "E2_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E19_3",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": [],
+    "vbpl_relation_provenance": [
+      {
+        "relation_id": "R7_1",
+        "from_entity_id": "E19_1",
+        "to_entity_id": "E2_1",
+        "original_direction": "outgoing",
+        "original_relation_type": "Căn cứ ban hành",
+        "other_document_id": "22840",
+        "other_title": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+        "source": "vbpl_luoc_do_json_snapshot",
+        "original_source_from_document_id": "16749",
+        "original_source_to_document_id": "22840"
+      },
+      {
+        "relation_id": "R7_2",
+        "from_entity_id": "E19_2",
+        "to_entity_id": "E2_1",
+        "original_direction": "outgoing",
+        "original_relation_type": "Căn cứ ban hành",
+        "other_document_id": "22313",
+        "other_title": "Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)",
+        "source": "vbpl_luoc_do_json_snapshot",
+        "original_source_from_document_id": "16749",
+        "original_source_to_document_id": "22313"
+      },
+      {
+        "relation_id": "R7_3",
+        "from_entity_id": "E19_3",
+        "to_entity_id": "E2_1",
+        "original_direction": "outgoing",
+        "original_relation_type": "Căn cứ ban hành",
+        "other_document_id": "9028",
+        "other_title": "Luật Ban hành Văn bản quy phạm pháp luật số Không số",
+        "source": "vbpl_luoc_do_json_snapshot",
+        "original_source_from_document_id": "16749",
+        "original_source_to_document_id": "9028"
+      },
+      {
+        "relation_id": "R6_1",
+        "from_entity_id": "E18_1",
+        "to_entity_id": "E2_1",
+        "original_direction": "outgoing",
+        "original_relation_type": "Văn bản được dẫn chiếu",
+        "other_document_id": "16750",
+        "other_title": "Luật Đấu thầu số 61/2005/QH11",
+        "source": "vbpl_luoc_do_json_snapshot",
+        "original_source_from_document_id": "16749",
+        "original_source_to_document_id": "16750"
+      }
+    ],
+    "annotation_status": "silver_automated_not_gold",
+    "source_vbpl_item_id": "16749"
+  }
+}

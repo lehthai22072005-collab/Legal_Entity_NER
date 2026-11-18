@@ -1,0 +1,159 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,275,402,"PHÁP LỆNH
+Về giám sát và hướng dẫn của Uỷ ban Thường vụ Quốc hội, hướng dẫn và
+kiểm tra của Chính phủ đối với Hội đồng nhân dân"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,229,241,Số: Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,275,284,PHÁP LỆNH
+ENTITY,E4_1,NGANH,Ngành,metadata,12988,13014,Tổ chức - Cán bộ Chính phủ
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,250,274,ngày 15 tháng 2 năm 1996
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,13027,13041,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,13062,13072,1996-02-24
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,13096,13108,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,140,165,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,12896,12904,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,12913,12926,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,13551,13569,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,13128,13201,Nghị quyết số Không số Về nhiệm vụ năm 1996 Kỳ họp thứ 8 Quốc hội khoá IX
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,13221,13239,Hiến pháp năm 1992
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,13259,13320,Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân số Không số
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,13340,13496,Nghị định số 60-CP Quy định về việc Chính phủ hướng dẫn và kiểm tra đối với Hội đồng nhân dân trong việc thực hiện các văn bản của cơ quan Nhà nước cấp trên
+ENTITY,E35_1,CHUONG,Chương,structure,928,956,Chương INHỮNG QUY ĐỊNH CHUNG
+ENTITY,E35_2,CHUONG,Chương,structure,2475,2575,"Chương IIGIÁM SÁT VÀ HƯỚNG DẪN CỦA UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ĐỐI VỚI HOẠT ĐỘNG CỦA HỘI ĐỒNG NHÂN DÂN"
+ENTITY,E35_3,CHUONG,Chương,structure,7727,7861,Chương IIIHƯỚNG DẪN VÀ KIỂM TRA CỦA CHÍNH PHỦ ĐỐI VỚI HỘI ĐỒNG NHÂN DÂN TRONG VIỆC THỰC HIỆN CÁC VĂN BẢN CỦA CƠ QUAN NHÀ NƯỚC CẤP TRÊN
+ENTITY,E35_4,CHUONG,Chương,structure,11743,11878,"Chương IVMỐI QUAN HỆ GIỮA BAN UỶ BAN THƯỜNG VỤ QUỐC HỘI VÀ CHÍNH PHỦ TRONG VIỆC GIÁM SÁT, HƯỚNG DẪN, KIỂM TRA ĐỐI VỚI HỘI ĐỒNG NHÂN DÂN"
+ENTITY,E35_5,CHUONG,Chương,structure,12676,12703,Chương VĐIỀU KHOẢN THI HÀNH
+ENTITY,E36_1,MUC,Mục,structure,2576,2647,"Mục 1UỶ BAN THƯỜNG VỤ QUỐC HỘI GIÁM SÁT
+HOẠT ĐỘNG CỦA HỘI ĐỒNG NHÂN DÂN"
+ENTITY,E36_2,MUC,Mục,structure,4842,4914,Mục 2UỶ BAN THƯỜNG VỤ QUỐC HỘI HƯỚNG DẪN HOẠT ĐỘNG CỦA HỘI ĐỒNG NHÂN DÂN
+ENTITY,E36_3,MUC,Mục,structure,7862,7956,"Mục 1CHÍNH PHỦ HƯỚNG DẪN HỘI ĐỒNG NHÂN DÂN THỰC HIỆN CÁC
+VĂN BẢN CỦA CƠ QUAN NHÀ NƯỚC CẤP TRÊN"
+ENTITY,E36_4,MUC,Mục,structure,9255,9359,"Mục 2CHÍNH PHỦ KIỂM TRA HỘI ĐỒNG NHÂN DÂN TRONG VIỆC
+THỰC HIỆN CÁC VĂN BẢN CỦA CƠ QUAN NHÀ NƯỚC CẤP TRÊN"
+ENTITY,E38_1,DIEU,Điều,structure,957,963,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1210,1216,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1410,1416,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1615,1621,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1842,1848,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,2239,2245,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,2648,2654,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,2883,2889,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,3349,3355,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,3593,3600,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,3924,3931,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,4369,4376,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,4915,4922,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,5015,5022,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,5338,5345,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,6120,6127,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,6710,6717,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,7075,7082,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,7957,7964,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,8154,8161,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,8405,8412,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,8647,8654,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,8992,8999,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,9360,9367,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,9650,9657,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,10354,10361,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,10883,10890,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,11120,11127,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,11507,11514,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,11879,11886,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,12070,12077,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,12364,12371,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,12704,12711,Điều 33
+ENTITY,E39_1,KHOAN,Khoản,structure,2985,3048,1- Xem xét các nghị quyết và các báo cáo của Hội đồng nhân dân;
+ENTITY,E39_2,KHOAN,Khoản,structure,3049,3089,2- Tham dự các kỳ họp Hội đồng nhân dân;
+ENTITY,E39_3,KHOAN,Khoản,structure,3090,3199,"3- Yêu cầu Chủ tịch Hội đồng nhân dân các cấp báo cáo về những vấn đề mà Uỷ ban thường vụ Quốc hội, quan tâm;"
+ENTITY,E39_4,KHOAN,Khoản,structure,3200,3348,"4- Xem xét việc giải quyết khiếu nại, tố cáo, kiến nghị của tổ chức và công dân đối với hoạt động của Hội đồng nhân dân, đại biểu Hội đồng nhân dân."
+ENTITY,E39_5,KHOAN,Khoản,structure,5106,5229,"1- Giám sát hoạt động của Thường trực Hội đồng nhân dân, Uỷ ban nhân dân, Toà án nhân dân, Viện kiểm sát nhân dân cùng cấp;"
+ENTITY,E39_6,KHOAN,Khoản,structure,5230,5284,"2- Tham gia ý kiến xây dựng các dự án luật, pháp lệnh;"
+ENTITY,E39_7,KHOAN,Khoản,structure,5285,5337,3- Tổng kết hoạt động của Hội đồng nhân dân các cấp.
+ENTITY,E39_8,KHOAN,Khoản,structure,5561,5650,"1- Phối hợp với Uỷ ban nhân dân chuẩn bị chương trình, nội dung kỳ họp Hội đồng nhân dân;"
+ENTITY,E39_9,KHOAN,Khoản,structure,5651,5777,2- Kiểm tra Uỷ ban nhân dân cùng cấp và các cơ quan nhà nước khác ở địa phương thực hiện các nghị quyết của Hội đồng nhân dân;
+ENTITY,E39_10,KHOAN,Khoản,structure,5778,5844,"3- Điều hoà, phối hợp hoạt động của các ban của Hội đồng nhân dân;"
+ENTITY,E39_11,KHOAN,Khoản,structure,5845,6046,4- Phối hợp với Uỷ ban nhân dân quyết định việc đưa ra Hội đồng nhân dân hoặc đưa ra cử tri bãi nhiệm đại biểu Hội đồng nhân dân phạm sai lầm theo đề nghị của Uỷ ban Mặt trận Tổ quốc Việt Nam cùng cấp;
+ENTITY,E39_12,KHOAN,Khoản,structure,6047,6119,"5- Thực hiện những nhiệm vụ, quyền hạn khác theo quy định của pháp luật."
+ENTITY,E39_13,KHOAN,Khoản,structure,6280,6369,"1- Phối hợp với Uỷ ban nhân dân chuẩn bị chương trình, nội dung kỳ họp Hội đồng nhân dân;"
+ENTITY,E39_14,KHOAN,Khoản,structure,6370,6434,2- Kiểm tra việc thực hiện các nghị quyết của Hội đồng nhân dân;
+ENTITY,E39_15,KHOAN,Khoản,structure,6435,6636,3- Phối hợp với Uỷ ban nhân dân quyết định việc đưa ra Hội đồng nhân dân hoặc đưa ra cử tri bãi nhiệm đại biểu Hội đồng nhân dân phạm sai lầm theo đề nghị của Uỷ ban Mặt trận Tổ quốc Việt Nam cùng cấp.
+ENTITY,E39_16,KHOAN,Khoản,structure,6637,6709,"4- Thực hiện những nhiệm vụ, quyền hạn khác theo quy định của pháp luật."
+ENTITY,E39_17,KHOAN,Khoản,structure,6852,6917,1. Thẩm tra các báo cáo và đề án trình Hội đồng nhân dân xem xét;
+ENTITY,E39_18,KHOAN,Khoản,structure,6918,7001,2. Giúp Hội đồng nhân dân thực hiện chức năng giám sát theo quy định của pháp luật;
+ENTITY,E39_19,KHOAN,Khoản,structure,7002,7074,"3. Thực hiện những nhiệm vụ, quyền hạn khác theo quy định của pháp luật."
+ENTITY,E39_20,KHOAN,Khoản,structure,7200,7468,"1. Tiếp xúc với cử tri tại đơn vị bầu cử ở địa phương để thu thập ý kiến, nguyện vọng, kiến nghị của cử tri và báo cáo về kết quả kỳ họp Hội đồng nhân dân; phổ biến và giải thích các nghị quyết của Hội đồng nhân dân; tuyên truyền vận động nhân dân thực hiện pháp luật;"
+ENTITY,E39_21,KHOAN,Khoản,structure,7469,7653,"2. Thực hiện quyền chất vấn, quyền yêu cầu các cơ quan nhà nước, tổ chức kinh tế, tổ chức xã hội, đơn vị vũ trang nhân dân thi hành pháp luật và chấm dứt những việc làm trái pháp luật;"
+ENTITY,E39_22,KHOAN,Khoản,structure,7654,7726,"3. Thực hiện những nhiệm vụ, quyền hạn khác theo quy định của pháp luật."
+ENTITY,E39_23,KHOAN,Khoản,structure,10490,10553,1. Xem xét các nghị quyết và các báo cáo của Hội đồng nhân dân;
+ENTITY,E39_24,KHOAN,Khoản,structure,10554,10594,2. Tham dự các kỳ họp Hội đồng nhân dân;
+ENTITY,E39_25,KHOAN,Khoản,structure,10595,10687,3. Yêu cầu Chủ tịch Hội đồng nhân dân các cấp báo cáo về những vấn đề mà Chính phủ quan tâm;
+ENTITY,E39_26,KHOAN,Khoản,structure,10688,10882,"4. Xem xét việc giải quyết khiếu nại, tố cáo, kiến nghị của tổ chức và công dân, phản ánh của các cơ quan thông tin đại chúng đối với hoạt động của Hội đồng nhân dân, đại biểu Hội đồng nhân dân."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E36_1,E35_2,,
+RELATION,R22_8,THUOC,Thuộc,E38_7,E36_1,,
+RELATION,R22_9,THUOC,Thuộc,E38_8,E36_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_1,E38_8,,
+RELATION,R22_11,THUOC,Thuộc,E39_2,E38_8,,
+RELATION,R22_12,THUOC,Thuộc,E39_3,E38_8,,
+RELATION,R22_13,THUOC,Thuộc,E39_4,E38_8,,
+RELATION,R22_14,THUOC,Thuộc,E38_9,E36_1,,
+RELATION,R22_15,THUOC,Thuộc,E38_10,E36_1,,
+RELATION,R22_16,THUOC,Thuộc,E38_11,E36_1,,
+RELATION,R22_17,THUOC,Thuộc,E38_12,E36_1,,
+RELATION,R22_18,THUOC,Thuộc,E36_2,E35_2,,
+RELATION,R22_19,THUOC,Thuộc,E38_13,E36_2,,
+RELATION,R22_20,THUOC,Thuộc,E38_14,E36_2,,
+RELATION,R22_21,THUOC,Thuộc,E39_5,E38_14,,
+RELATION,R22_22,THUOC,Thuộc,E39_6,E38_14,,
+RELATION,R22_23,THUOC,Thuộc,E39_7,E38_14,,
+RELATION,R22_24,THUOC,Thuộc,E38_15,E36_2,,
+RELATION,R22_25,THUOC,Thuộc,E39_8,E38_15,,
+RELATION,R22_26,THUOC,Thuộc,E39_9,E38_15,,
+RELATION,R22_27,THUOC,Thuộc,E39_10,E38_15,,
+RELATION,R22_28,THUOC,Thuộc,E39_11,E38_15,,
+RELATION,R22_29,THUOC,Thuộc,E39_12,E38_15,,
+RELATION,R22_30,THUOC,Thuộc,E38_16,E36_2,,
+RELATION,R22_31,THUOC,Thuộc,E39_13,E38_16,,
+RELATION,R22_32,THUOC,Thuộc,E39_14,E38_16,,
+RELATION,R22_33,THUOC,Thuộc,E39_15,E38_16,,
+RELATION,R22_34,THUOC,Thuộc,E39_16,E38_16,,
+RELATION,R22_35,THUOC,Thuộc,E38_17,E36_2,,
+RELATION,R22_36,THUOC,Thuộc,E39_17,E38_17,,
+RELATION,R22_37,THUOC,Thuộc,E39_18,E38_17,,
+RELATION,R22_38,THUOC,Thuộc,E39_19,E38_17,,
+RELATION,R22_39,THUOC,Thuộc,E38_18,E36_2,,
+RELATION,R22_40,THUOC,Thuộc,E39_20,E38_18,,
+RELATION,R22_41,THUOC,Thuộc,E39_21,E38_18,,
+RELATION,R22_42,THUOC,Thuộc,E39_22,E38_18,,
+RELATION,R22_43,THUOC,Thuộc,E36_3,E35_3,,
+RELATION,R22_44,THUOC,Thuộc,E38_19,E36_3,,
+RELATION,R22_45,THUOC,Thuộc,E38_20,E36_3,,
+RELATION,R22_46,THUOC,Thuộc,E38_21,E36_3,,
+RELATION,R22_47,THUOC,Thuộc,E38_22,E36_3,,
+RELATION,R22_48,THUOC,Thuộc,E38_23,E36_3,,
+RELATION,R22_49,THUOC,Thuộc,E36_4,E35_3,,
+RELATION,R22_50,THUOC,Thuộc,E38_24,E36_4,,
+RELATION,R22_51,THUOC,Thuộc,E38_25,E36_4,,
+RELATION,R22_52,THUOC,Thuộc,E38_26,E36_4,,
+RELATION,R22_53,THUOC,Thuộc,E39_23,E38_26,,
+RELATION,R22_54,THUOC,Thuộc,E39_24,E38_26,,
+RELATION,R22_55,THUOC,Thuộc,E39_25,E38_26,,
+RELATION,R22_56,THUOC,Thuộc,E39_26,E38_26,,
+RELATION,R22_57,THUOC,Thuộc,E38_27,E36_4,,
+RELATION,R22_58,THUOC,Thuộc,E38_28,E36_4,,
+RELATION,R22_59,THUOC,Thuộc,E38_29,E36_4,,
+RELATION,R22_60,THUOC,Thuộc,E38_30,E35_4,,
+RELATION,R22_61,THUOC,Thuộc,E38_31,E35_4,,
+RELATION,R22_62,THUOC,Thuộc,E38_32,E35_4,,
+RELATION,R22_63,THUOC,Thuộc,E38_33,E35_5,,

@@ -1,0 +1,29 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,169,325,"LỆNH
+Về việc công bố Pháp lệnh về Hàm, cấp ngoại giao và Pháp lệnh Phòng, chống nhiễm vi rút
+gây ra hội chứng Suy giảm miễn dịch mắc phải ở người (HIV/AIDS)"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,16,40-L/CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,169,173,LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,999,1009,1995-06-12
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1022,1036,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1057,1067,1995-05-31
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1091,1103,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,357,370,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1117,1130,Chủ tịch nước
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1143,1153,Lê Đức Anh
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,561,593,"Pháp lệnh về Hàm, cấp ngoại giao"
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,712,811,"Pháp lệnh Phòng, chống nhiễm vi rút gây ra hội chứng Suy giảm miễn dịch mắc phải ở người (HIV/AIDS)"
+ENTITY,E18_3,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,1275,1386,"Pháp lệnh số Không số Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS)"
+ENTITY,E18_4,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,1413,1457,"Pháp lệnh số Không số Về Hàm, cấp ngoại giao"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,442,500,Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,525,546,Luật Tổ chức Quốc hội
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1173,1191,Hiến pháp năm 1992
+ENTITY,E19_4,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1211,1248,Luật Tổ chức Quốc hội số 66-LCT/HĐNN8
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,R6_2,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_2,E2_1,,
+RELATION,R6_3,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_3,E2_1,,
+RELATION,R6_4,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_4,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R7_4,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_4,E2_1,,

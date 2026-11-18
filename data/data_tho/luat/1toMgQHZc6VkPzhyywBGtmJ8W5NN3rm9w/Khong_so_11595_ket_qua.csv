@@ -1,0 +1,211 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,42,Luật Phổ cập giáo dục tiểu học số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,34,42,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,10867,10891,ngày 12 tháng 8 năm 1991
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,10957,10971,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,10992,11002,1991-08-16
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,11026,11046,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,11067,11075,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,11089,11106,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,11119,11131,Lê Quang Đạo
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,11224,11242,Hiến pháp năm 1980
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,11151,11169,Hiến pháp năm 1980
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,11292,11390,"Nghị quyết số 05/NQ-HĐND V/v phê chuẩn kế hoạch phổ cập giáo dục tiểu học và  xóa
+mù chữ ở Lào Cai"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,11440,11574,"Thông tư số 36/2009/TT-BGDĐT Ban hành Quy định kiểm tra, công nhận Phổ cập giáo dục tiểu học và Phổ cập giáo dục tiểu học đúng độ tuổi"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,11596,11719,Quyết định số 12/2000/QĐ-UB Về việc ban hành chương trình hành động bảo vệ trẻ em có hoàn cảnh đặc biệt giai đoạn 2000-2002
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,11741,11837,"Chỉ thị số 03/2000/CT-TTg Về việc đẩy mạnh các hoạt động văn hóa, vui chơi, giải trí cho trẻ em."
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,11859,12024,"Quyết định số 01/2010/QĐ-UBND Phê duyệt Đề án tăng cường công tác bảo vệ, chăm sóc trẻ em trên địa bàn tỉnh Bình Phước giai đoạn 2011 - 2015 và tầm nhìn đến năm 2020"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,12044,12109,Nghị định số 358-HĐBT Về tổ chức hoạt động của Thanh tra Giáo dục
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,12129,12221,Chỉ thị số 40/CT-UB-NCVX Về việc triển khai cuộc vận động “Ngày toàn dân đưa trẻ tới trường”
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,12241,12339,"Nghị quyết số 05/NQ-HĐND V/v phê chuẩn kế hoạch phổ cập giáo dục tiểu học và  xóa
+mù chữ ở Lào Cai"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,12359,12423,Nghị định số 338/HĐBT Về thi hành Luật phổ cập giáo dục tiểu học
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,12443,12577,"Thông tư số 36/2009/TT-BGDĐT Ban hành Quy định kiểm tra, công nhận Phổ cập giáo dục tiểu học và Phổ cập giáo dục tiểu học đúng độ tuổi"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,12597,12718,Chỉ thị số 10/CT-UB Về việc đẩy mạnh thực hiện công tác giáo dục phổ cập tiểu học và chống mù chữ ở thành phố Hồ Chí Minh
+ENTITY,E35_1,CHUONG,Chương,structure,374,382,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,2406,2415,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,6844,6854,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,9757,9766,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,10577,10585,CHƯƠNG V
+ENTITY,E38_1,DIEU,Điều,structure,404,561,"Điều 1
+Nhà nước thực hiện chính sách phổ cấp giáo dục tiểu học bắt buộc từ lớp 1 đến hết lớp 5 đối với tất cả trẻ em Việt Nam trong độ tuổi từ 6 đến 14 tuổi."
+ENTITY,E38_2,DIEU,Điều,structure,562,838,"Điều 2
+Giáo dục tiểu học là bậc học nền tảng của hệ thống giáo dục quốc dân, có nhiệm vụ xây dựng và phát triển tình cảm, đạo đức, trí tuệ, thẩm mỹ và thể chất của trẻ em, nhằm hình thành cơ sở ban đầu cho sự phát triển toàn diện nhân cách con người Việt Nam xã hội chủ nghĩa."
+ENTITY,E38_3,DIEU,Điều,structure,839,1294,"Điều 3
+Giáo dục tiểu học phải bảo đảm cho học sinh nắm vững các kỹ năng nói, đọc, viết, tính toán, có những hiểu biết cần thiết về thiên nhiên, xã hội và con người; có lòng nhân ái, hiếu thảo với ông bà, cha mẹ, yêu quý anh chị em; kính trọng thầy giáo, cô giáo, lễ phép với người lớn tuổi; giúp đỡ bạn bè, các em nhỏ; yêu lao động, có kỷ luật; có nếp sống văn hoá; có thói quen rèn luyện thân thể và giữ gìn vệ sinh; yêu quê hương đất nước, yêu hoà bình."
+ENTITY,E38_4,DIEU,Điều,structure,1295,1478,"Điều 4
+Giáo dục tiểu học được thực hiện bằng tiếng Việt.
+Các dân tộc thiểu số có quyền sử dụng tiếng nói, chữ viết của dân tộc mình cùng với tiếng Việt để thực hiện giáo dục tiểu học."
+ENTITY,E38_5,DIEU,Điều,structure,1479,1721,"Điều 5
+Nhà nước dành ngân sách thích đáng để thực hiện phổ cập giáo dục tiểu học.
+Nhà nước có chính sách động viên các nguồn tài chính khác trong xã hội, lập Quỹ giáo dục quốc gia, nhằm hỗ trợ kinh phí cho sự nghiệp phổ cập giáo dục tiểu học."
+ENTITY,E38_6,DIEU,Điều,structure,1722,2010,"Điều 6
+Nhà nước bảo đảm các điều kiện cần thiết để thực hiện phổ cập giáo dục tiểu học ở vùng dân tộc thiểu số, vùng cao, vùng xa xôi hẻo lánh, vùng hải đảo và vùng có khó khăn; bảo đảm từ ban đầu các điều kiện cần thiết để thực hiện phổ cập giáo dục tiểu học khi xây dựng khu dân cư mới."
+ENTITY,E38_7,DIEU,Điều,structure,2011,2406,"Điều 7
+Cơ quan Nhà nước, tổ chức xã hội, tổ chức kinh tế, gia đình, công dân có trách nhiệm tham gia vào việc thực hiện phổ cập giáo dục tiểu học.
+Nhà nước coi trọng và hoan nghênh mọi sự đóng góp, giúp đỡ, hợp tác của các tổ chức quốc tế, chính phủ các nước, các tổ chức phi chính phủ, người nước ngoài, người Việt Nam định cư ở nước ngoài vào sự nghiệp phổ cập giáo dục tiểu học của Việt Nam.
+"
+ENTITY,E38_8,DIEU,Điều,structure,2487,2493,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,2858,3109,"Điều 9
+Học sinh phải được học tập và rèn luyện theo chương trình, nội dung giáo dục tiểu học do Nhà nước quy định; được tham gia các hoạt động của Đội thiếu niên tiền phong Hồ Chí Minh.
+Học sinh có thành tích trong học tập, rèn luyện được khen thưởng."
+ENTITY,E38_10,DIEU,Điều,structure,3110,3312,"Điều 10
+Học sinh phải đạt trình độ giáo dục tiểu học trước tuổi 15, trừ những trường hợp được quy định tại khoản 2, Điều 8 của Luật này.
+Học sinh đạt trình độ giáo dục tiểu học được cấp bằng tốt nghiệp."
+ENTITY,E38_11,DIEU,Điều,structure,3313,3542,"Điều 11
+Trẻ em là con liệt sĩ, thương binh nặng, trẻ em tàn tật, trẻ em mồ côi không nơi nương tựa, trẻ em có khó khăn đặc biệt, được Nhà nước và xã hội quan tâm giúp đỡ, tạo điều kiện cần thiết để đạt trình độ giáo dục tiểu học."
+ENTITY,E38_12,DIEU,Điều,structure,3543,3902,"Điều 12
+Trẻ em là công dân Việt Nam trong thời gian sinh sống ở nước ngoài phải được cha mẹ, người đỡ đầu tạo điều kiện cần thiết và được Nhà nước giúp đỡ để thực hiện phổ cập giáo dục tiểu học theo Luật này.
+Trẻ em là người nước ngoài ở Việt Nam có nguyện vọng theo học tiểu học ở nhà trường Việt Nam được Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam giúp đỡ."
+ENTITY,E38_13,DIEU,Điều,structure,3903,4179,"Điều 13
+Giáo dục tiểu học được thực hiện trong các trường, lớp tiểu học quốc lập, các loại hình trường, lớp dân lập.
+Học sinh học tại trường, lớp tiểu học quốc lập không phải trả học phí.
+Việc thành lập, giải thể các trường, lớp tiểu học phải tuân theo quy định của pháp luật."
+ENTITY,E38_14,DIEU,Điều,structure,4180,4354,"Điều 14
+Trường, lớp tiểu học phải có đủ giáo viên, cán bộ quản lý giáo dục, nhân viên, cơ sở vật chất, trang thiết bị phục vụ giảng dạy và học tập theo quy định của Nhà nước."
+ENTITY,E38_15,DIEU,Điều,structure,4355,4760,"Điều 15
+Cán bộ quản lý giáo dục, giáo viên tiểu học phải được tuyển chọn, đào tạo theo tiêu chuẩn đạo đức, tác phong, chuyên môn, nghiệp vụ do Nhà nước quy định.
+Cán bộ quản lý giáo dục, giáo viên phải thực hiện đầy đủ trách nhiệm giảng dạy, giáo dục và quản lý trường, lớp, gương mẫu trong hoạt động ở nhà trường, trong đời sống xã hội. Nghiêm cấm những hành vi xâm phạm thân thể và danh dự của học sinh."
+ENTITY,E38_16,DIEU,Điều,structure,4761,4974,"Điều 16
+Lao động giảng dạy, giáo dục của giáo viên, cán bộ quản lý giáo dục tiểu học được Nhà nước và xã hội tôn trọng.
+Nghiêm cấm những hành vi xâm phạm thân thể và danh dự của giáo viên, cán bộ quản lý giáo dục."
+ENTITY,E38_17,DIEU,Điều,structure,4975,5022,"Điều 17
+Nhà nước thực hiện các chính sách nhằm:"
+ENTITY,E38_18,DIEU,Điều,structure,5557,5612,"Điều 18
+Cha mẹ, người đỡ đầu của trẻ em có trách nhiệm:"
+ENTITY,E38_19,DIEU,Điều,structure,6115,6166,"Điều 19
+Cha mẹ, người đỡ đầu của học sinh có quyền:"
+ENTITY,E38_20,DIEU,Điều,structure,6417,6534,"Điều 20
+Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và các tổ chức kinh tế, xã hội có trách nhiệm:"
+ENTITY,E38_21,DIEU,Điều,structure,6901,6943,"Điều 21
+Hội đồng bộ trưởng có trách nhiệm:"
+ENTITY,E38_22,DIEU,Điều,structure,7392,7438,"Điều 22
+Bộ Giáo dục và đào tạo có trách nhiệm:"
+ENTITY,E38_23,DIEU,Điều,structure,8231,8285,"Điều 23
+Chính quyền địa phương các cấp có trách nhiệm:"
+ENTITY,E38_24,DIEU,Điều,structure,9301,9354,"Điều 24
+Nội dung thanh tra giáo dục tiểu học bao gồm:"
+ENTITY,E38_25,DIEU,Điều,structure,9796,9932,"Điều 25
+Cá nhân, tổ chức có thành tích đóng góp vào sự nghiệp phổ cập giáo dục tiểu học được khen thưởng theo chế độ chung của Nhà nước."
+ENTITY,E38_26,DIEU,Điều,structure,9933,10577,"Điều 26
+Người gây khó khăn, cản trở việc phổ cập giáo dục tiểu học; cho phép hoặc mở trường, lớp trái pháp luật; giáo dục trái với nội dung chương trình do Nhà nước quy định; xâm phạm thân thể và danh dự của học sinh, giáo viên, cán bộ quản lý giáo dục; xâm phạm cơ sở vật chất của trường, lớp; vì thiếu tinh thân trách nhiệm mà không hoàn thành chương trình - mục tiêu phổ cập giáo dục tiểu học, lạm dụng quyền hạn sử dụng trái phép kinh phí dành cho giáo dục tiểu học hoặc vi phạm các quy định khác của Luật này, thì tuỳ mức độ mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường.
+"
+ENTITY,E38_27,DIEU,Điều,structure,10607,10665,"Điều 27
+Những quy định trước đây trái Luật này đều bãi bỏ."
+ENTITY,E38_28,DIEU,Điều,structure,10666,10729,"Điều 28
+Hội đồng bộ trưởng quy định chi tiết thi hành Luật này."
+ENTITY,E39_1,KHOAN,Khoản,structure,2494,2551,1- Trẻ em 6 tuổi phải được học lớp 1 ngay từ đầu năm học.
+ENTITY,E39_2,KHOAN,Khoản,structure,2552,2712,"2- Trẻ em vì lý do sức khoẻ, vì hoàn cảnh gia đình có khó khăn đặc biệt hoặc ở những vùng quy định tại Điều 6 của Luật này, có thể bắt đầu học lớp 1 sau 6 tuổi."
+ENTITY,E39_3,KHOAN,Khoản,structure,2713,2857,3- Trẻ em có khả năng phát triển đặc biệt thì được học lớp 1 trước 6 tuổi hoặc học vượt lớp khi cơ quan quản lý giáo dục có thẩm quyền cho phép.
+ENTITY,E39_4,KHOAN,Khoản,structure,5023,5179,"1- Xây dựng, củng cố các trường sư phạm, trường cán bộ quản lý giáo dục; nâng cao chất lượng đào tạo, bồi dưỡng giáo viên, cán bộ quản lý giáo dục tiểu học;"
+ENTITY,E39_5,KHOAN,Khoản,structure,5180,5402,"2- Bảo đảm những điều kiện vật chất, tinh thần cho giáo viên, cán bộ quản lý giáo dục tiểu học làm tròn chức trách của mình; khuyến khích giáo viên, cán bộ quản lý giáo dục công tác lâu dài cho sự nghiệp giáo dục tiểu học;"
+ENTITY,E39_6,KHOAN,Khoản,structure,5403,5556,"3- Ưu đãi giáo viên, cán bộ quản lý giáo dục tiểu học công tác ở vùng dân tộc thiểu số, vùng cao, vùng xa xôi hẻo lánh, vùng hải đảo và vùng có khó khăn."
+ENTITY,E39_7,KHOAN,Khoản,structure,5613,5772,"1- Ghi tên cho con hoặc trẻ em được đỡ đầu đi học tại trường, lớp tiểu học trên địa bàn cư trú hoặc nơi thuận tiện nhất, theo quy định tại Điều 8 của Luật này;"
+ENTITY,E39_8,KHOAN,Khoản,structure,5773,5850,2- Tạo điều kiện để con hoặc trẻ em được đỡ đầu hoàn thành giáo dục tiểu học;
+ENTITY,E39_9,KHOAN,Khoản,structure,5851,6114,"3- Kết hợp với nhà trường, tổ chức xã hội trong việc giáo dục con hoặc trẻ em được đỡ đầu; tôn trọng giáo viên, cán bộ quản lý giáo dục tiểu học; gương mẫu trong đời sống gia đình và xã hội, thực hiện giáo dục gia đình theo những truyền thống tốt đẹp của dân tộc."
+ENTITY,E39_10,KHOAN,Khoản,structure,6167,6311,"1- Yêu cầu nhà trường, cơ quan quản lý giáo dục giải quyết những vấn đề có liên quan đến việc giáo dục tiểu học của con hoặc trẻ em được đỡ đầu;"
+ENTITY,E39_11,KHOAN,Khoản,structure,6312,6416,2- Tham gia tổ chức của cha mẹ học sinh nhằm kết hợp với nhà trường thực hiện phổ cập giáo dục tiểu học.
+ENTITY,E39_12,KHOAN,Khoản,structure,6535,6616,"1- Vận động cha mẹ, người đỡ đầu bảo đảm cho trẻ em hoàn thành giáo dục tiểu học;"
+ENTITY,E39_13,KHOAN,Khoản,structure,6617,6717,"2- Phối hợp với các cơ quan giáo dục, chính quyền địa phương và gia đình trong việc giáo dục trẻ em;"
+ENTITY,E39_14,KHOAN,Khoản,structure,6718,6844,"3- Vận động giúp đỡ về tài chính, cơ sở vật chất và nhân lực theo khả năng của mình nhằm thực hiện phố cập giáo dục tiểu học.
+"
+ENTITY,E39_15,KHOAN,Khoản,structure,6944,7147,"1- Ban hành các chính sách nhằm bảo đảm thực hiện phổ cập giáo dục tiểu học trong phạm vi cả nước, quyết định các chương trình - mục tiêu, thời hạn phổ cập giáo dục tiểu học cho các vùng, các địa phương;"
+ENTITY,E39_16,KHOAN,Khoản,structure,7148,7206,2- Phân bổ ngân sách cần thiết dành cho giáo dục tiểu học;
+ENTITY,E39_17,KHOAN,Khoản,structure,7207,7284,"3- Chỉ đạo các ngành, các cấp trong việc thực hiện phổ cập giáo dục tiểu học;"
+ENTITY,E39_18,KHOAN,Khoản,structure,7285,7391,"4- Thực hiện việc hợp tác với các tổ chức quốc tế, các quốc gia trong sự nghiệp phổ cập giáo dục tiểu học."
+ENTITY,E39_19,KHOAN,Khoản,structure,7439,7577,"1- Quyết định các đề án, chương trình, kế hoạch triển khai việc phổ cập giáo dục tiểu học, ban hành các văn bản pháp quy thuộc thẩm quyền;"
+ENTITY,E39_20,KHOAN,Khoản,structure,7578,7852,"2- Quy định mục tiêu và kế hoạch đào tạo của trường tiểu học, nội dung giáo dục tiểu học, quản lý việc biên soạn, phát hành sách giáo khoa, sách tham khảo, sách hướng dẫn và các tài liệu cần thiết khác về giáo dục tiểu học cho giáo viên, học sinh, cha mẹ học sinh và xã hội;"
+ENTITY,E39_21,KHOAN,Khoản,structure,7853,7941,"3- Tổ chức, chỉ đạo việc đào tạo, bồi dưỡng giáo viên, cán bộ quản lý giáo dục tiểu học;"
+ENTITY,E39_22,KHOAN,Khoản,structure,7942,8085,"4- Hướng dẫn các cấp chính quyền; chỉ đạo các cơ quan quản lý giáo dục về chuyên môn, nghiệp vụ trong việc thực hiện phổ cập giáo dục tiểu học;"
+ENTITY,E39_23,KHOAN,Khoản,structure,8086,8188,"5- Phối hợp với các ngành, các cấp, các tổ chức xã hội trong việc thực hiện phổ cập giáo dục tiểu học;"
+ENTITY,E39_24,KHOAN,Khoản,structure,8189,8230,6- Thực hiện thanh tra giáo dục tiểu học.
+ENTITY,E39_25,KHOAN,Khoản,structure,8286,8399,1- Thực hiện chương trình - mục tiêu phổ cập giáo dục tiểu học do Hội đồng bộ trưởng quy định đối với địa phương;
+ENTITY,E39_26,KHOAN,Khoản,structure,8400,8522,"2- Thực hiện quy hoạch, kế hoạch và ngân sách giáo dục tiểu học trong kế hoạch phát triển kinh tế - xã hội của địa phương;"
+ENTITY,E39_27,KHOAN,Khoản,structure,8523,8749,"3- Thực hiện việc đào tạo, bồi dưỡng, sử dụng hợp lý giáo viên, cán bộ quản lý giáo dục tiểu học, các chính sách, chế độ, các biện pháp nhằm bảo đảm đời sống vật chất, tinh thần cho giáo viên, cán bộ quản lý giáo dục tiểu học;"
+ENTITY,E39_28,KHOAN,Khoản,structure,8750,8892,"4- Động viên sự đóng góp về tài chính, cơ sở vật chất, nhân lực của địa phương nhằm tạo thêm điều kiện để thực hiện phổ cập giáo dục tiểu học;"
+ENTITY,E39_29,KHOAN,Khoản,structure,8893,9184,"5- Tổ chức việc mở trường, lớp tiểu học; bảo đảm trường, lớp, thiết bị đồ dùng dạy học, sách, vở, học cụ đủ và đúng thời điểm cần thiết;
+Chính quyền xã, phường, thị trần chỉ đạo việc tổ chức đăng ký và huy động trẻ em vào học lớp 1, tổ chức và quản lý để trẻ em hoàn thành giáo dục tiểu học;"
+ENTITY,E39_30,KHOAN,Khoản,structure,9185,9300,6- Cơ quan quản lý giáo dục các cấp có trách nhiệm giúp chính quyền địa phương thực hiện các quy định tại Điều này.
+ENTITY,E39_31,KHOAN,Khoản,structure,9355,9484,"1- Thanh tra việc thực hiện chương trình - mục tiêu, kế hoạch phổ cập giáo dục tiểu học của các địa phương, trường, lớp tiểu học;"
+ENTITY,E39_32,KHOAN,Khoản,structure,9485,9573,"2- Thanh tra việc giảng dạy, giáo dục của giáo viên, việc học tập của học sinh tiểu học;"
+ENTITY,E39_33,KHOAN,Khoản,structure,9574,9757,"3- Quyết định hoặc kiến nghị các biện pháp xử lý kịp thời để thực hiện phổ cập giáo dục tiểu học.
+Tổ chức và hoạt động của thanh tra giáo dục tiểu học do Hội đồng bộ trưởng quy định.
+"
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_10,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_11,THUOC,Thuộc,E39_1,E38_8,,
+RELATION,R22_12,THUOC,Thuộc,E39_2,E38_8,,
+RELATION,R22_13,THUOC,Thuộc,E39_3,E38_8,,
+RELATION,R22_14,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_15,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_16,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_17,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_18,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_19,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_20,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_21,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,R22_22,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_23,THUOC,Thuộc,E39_4,E38_17,,
+RELATION,R22_24,THUOC,Thuộc,E39_5,E38_17,,
+RELATION,R22_25,THUOC,Thuộc,E39_6,E38_17,,
+RELATION,R22_26,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,R22_27,THUOC,Thuộc,E39_7,E38_18,,
+RELATION,R22_28,THUOC,Thuộc,E39_8,E38_18,,
+RELATION,R22_29,THUOC,Thuộc,E39_9,E38_18,,
+RELATION,R22_30,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,R22_31,THUOC,Thuộc,E39_10,E38_19,,
+RELATION,R22_32,THUOC,Thuộc,E39_11,E38_19,,
+RELATION,R22_33,THUOC,Thuộc,E38_20,E35_2,,
+RELATION,R22_34,THUOC,Thuộc,E39_12,E38_20,,
+RELATION,R22_35,THUOC,Thuộc,E39_13,E38_20,,
+RELATION,R22_36,THUOC,Thuộc,E39_14,E38_20,,
+RELATION,R22_37,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,R22_38,THUOC,Thuộc,E39_15,E38_21,,
+RELATION,R22_39,THUOC,Thuộc,E39_16,E38_21,,
+RELATION,R22_40,THUOC,Thuộc,E39_17,E38_21,,
+RELATION,R22_41,THUOC,Thuộc,E39_18,E38_21,,
+RELATION,R22_42,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,R22_43,THUOC,Thuộc,E39_19,E38_22,,
+RELATION,R22_44,THUOC,Thuộc,E39_20,E38_22,,
+RELATION,R22_45,THUOC,Thuộc,E39_21,E38_22,,
+RELATION,R22_46,THUOC,Thuộc,E39_22,E38_22,,
+RELATION,R22_47,THUOC,Thuộc,E39_23,E38_22,,
+RELATION,R22_48,THUOC,Thuộc,E39_24,E38_22,,
+RELATION,R22_49,THUOC,Thuộc,E38_23,E35_3,,
+RELATION,R22_50,THUOC,Thuộc,E39_25,E38_23,,
+RELATION,R22_51,THUOC,Thuộc,E39_26,E38_23,,
+RELATION,R22_52,THUOC,Thuộc,E39_27,E38_23,,
+RELATION,R22_53,THUOC,Thuộc,E39_28,E38_23,,
+RELATION,R22_54,THUOC,Thuộc,E39_29,E38_23,,
+RELATION,R22_55,THUOC,Thuộc,E39_30,E38_23,,
+RELATION,R22_56,THUOC,Thuộc,E38_24,E35_3,,
+RELATION,R22_57,THUOC,Thuộc,E39_31,E38_24,,
+RELATION,R22_58,THUOC,Thuộc,E39_32,E38_24,,
+RELATION,R22_59,THUOC,Thuộc,E39_33,E38_24,,
+RELATION,R22_60,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,R22_61,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_62,THUOC,Thuộc,E38_27,E35_5,,
+RELATION,R22_63,THUOC,Thuộc,E38_28,E35_5,,

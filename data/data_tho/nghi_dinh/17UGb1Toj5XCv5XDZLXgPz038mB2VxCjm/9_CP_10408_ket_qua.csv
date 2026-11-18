@@ -1,0 +1,46 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,180,250,"NGHỊ ĐỊNH CỦA CHÍNH PHỦ
+Về tổ chức và quản lý các doanh nghiệp du lịch"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,142,146,9/CP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,602,611,NGHỊ ĐỊNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,155,179,ngày 05 tháng 2 năm 1994
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,4067,4081,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,3519,3529,từ ngày ký
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,4105,4117,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,251,260,CHÍNH PHỦ
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,4131,4144,Phó Thủ tướng
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,3989,4002,Phan Văn Khải
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2287,2347,Nghị định số 388-HĐBT ngày 20-11-1991 của Hội đồng Bộ trưởng
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2450,2462,Luật Công ty
+ENTITY,E18_3,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2466,2491,Luật Doanh nghiệp tư nhân
+ENTITY,E18_4,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2542,2577,Luật Đầu tư nước ngoài tại Việt Nam
+ENTITY,E18_5,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2656,2681,Luật Phá sản doanh nghiệp
+ENTITY,E18_6,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2810,2858,Nghị định số 20-CP ngày 27-12-1992 của Chính phủ
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,268,316,Luật Tổ chức Chính phủ ngày 30 tháng 9 năm 1992;
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,324,420,Nghị quyết số 45-CP ngày 22-6-1993 của Chính phủ về đổi mới quản lý và phát triển ngành du lịch;
+ENTITY,E38_1,DIEU,Điều,structure,613,620,Điều 1.
+ENTITY,E38_2,DIEU,Điều,structure,773,780,Điều 2.
+ENTITY,E38_3,DIEU,Điều,structure,1236,1243,Điều 3.
+ENTITY,E38_4,DIEU,Điều,structure,1439,1446,Điều 4.
+ENTITY,E38_5,DIEU,Điều,structure,2097,2104,Điều 5.
+ENTITY,E38_6,DIEU,Điều,structure,3485,3492,Điều 6.
+ENTITY,E38_7,DIEU,Điều,structure,3589,3596,Điều 7.
+ENTITY,E38_8,DIEU,Điều,structure,3729,3736,Điều 8.
+ENTITY,E39_1,KHOAN,Khoản,structure,2181,2245,"1. Việc thành lập, giải thể và phá sản các doanh nghiệp du lịch:"
+ENTITY,E39_2,KHOAN,Khoản,structure,2683,2745,2. Phân cấp quản lý Nhà nước đối với các doanh nghiệp du lịch:
+ENTITY,E40_1,DIEM,Điểm,structure,2746,2766,a) Tổng cục Du lịch:
+ENTITY,E40_2,DIEM,Điểm,structure,3109,3144,"b) Uỷ ban nhân dân tỉnh, thành phố:"
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,R6_2,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_2,E2_1,,
+RELATION,R6_3,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_3,E2_1,,
+RELATION,R6_4,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_4,E2_1,,
+RELATION,R6_5,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_5,E2_1,,
+RELATION,R6_6,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_6,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_5,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_5,,
+RELATION,R22_3,THUOC,Thuộc,E40_1,E39_2,,
+RELATION,R22_4,THUOC,Thuộc,E40_2,E39_2,,
+RELATION,R22_5,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_6,THUOC,Thuộc,E11_1,E10_1,,

@@ -1,0 +1,122 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,81,Nghị quyết số 03/2016/NQ-HĐTP Hướng dẫn thi hành một số quy định của Luật phá sản
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,29,03/2016/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,216,240,ngày 26 tháng 8 năm 2016
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,12517,12531,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,12552,12562,2016-08-26
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,12586,12607,Hết hiệu lực một phần
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,101,124,TÒA ÁN NHÂN DÂN TỐI CAO
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,12421,12429,CHÁNH ÁN
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,12437,12452,Nguyễn Hòa Bình
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,354,424,Luật tổ chức Tòa án nhân dân số 62/2014/QH13 ngày 24 tháng 11 năm 2014
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,12722,12849,"Nghị quyết số 02/2025/NQ-HĐTP Sửa đổi, bổ sung một số điều của một số Nghị quyết của Hội đồng thẩm phán Tòa án nhân dân tối cao"
+ENTITY,E38_1,DIEU,Điều,structure,644,787,"Điều 1. Phạm vi điều chỉnh
+Nghị quyết này hướng dẫn thi hành một số quy định tại Điều 8, khoản 14 Điều 9, Điều 70 và Điều 104 của Luật phá sản."
+ENTITY,E38_2,DIEU,Điều,structure,788,916,"Điều 2. Về tài sản ở nước ngoài, người tham gia thủ tục phá sản ở nước ngoài quy định tại điểm a khoản 1 Điều 8 của Luật phá sản"
+ENTITY,E38_3,DIEU,Điều,structure,1459,1589,Điều 3. Về vụ việc phá sản có tính chất phức tạp theo quy định tại điểm d khoản 1 Điều 8 của Luật phá sản và thẩm quyền giải quyết
+ENTITY,E38_4,DIEU,Điều,structure,3579,3715,Điều 4. Về tham khảo quyết định giải quyết phá sản trước đó trong vụ việc phá sản tương tự quy định tại khoản 14 Điều 9 của Luật phá sản
+ENTITY,E38_5,DIEU,Điều,structure,4276,4352,Điều 5. Về biện pháp khẩn cấp tạm thời quy định tại Điều 70 của Luật phá sản
+ENTITY,E38_6,DIEU,Điều,structure,10464,10558,Điều 6. Về quyết định tuyên bố tổ chức tín dụng phá sản quy định tại Điều 104 của Luật phá sản
+ENTITY,E38_7,DIEU,Điều,structure,11828,11853,Điều 7. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,917,1119,1. Tài sản ở nước ngoài là tài sản được xác định theo quy định của Bộ luật dân sự ở ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam vào thời điểm Tòa án thụ lý đơn yêu cầu mở thủ tục phá sản.
+ENTITY,E39_2,KHOAN,Khoản,structure,1120,1171,2. Người tham gia thủ tục phá sản ở nước ngoài gồm:
+ENTITY,E39_3,KHOAN,Khoản,structure,1590,1838,"1. Vụ việc phá sản có tính chất phức tạp là vụ việc không thuộc một trong các trường hợp quy định tại các điểm a, b, c khoản 1 Điều 8 của Luật phá sản và doanh nghiệp, hợp tác xã bị yêu cầu mở thủ tục phá sản thuộc một trong các trường hợp sau đây:"
+ENTITY,E39_4,KHOAN,Khoản,structure,2495,2692,2. Tòa án nhân dân cấp tỉnh tự mình hoặc theo đề nghị của Tòa án nhân dân cấp huyện lấy lên để giải quyết phá sản đối với vụ việc thuộc một trong các trường hợp được hướng dẫn tại khoản 1 Điều này.
+ENTITY,E39_5,KHOAN,Khoản,structure,2693,3152,"3. Tòa án nhân dân cấp huyện sau khi nhận đơn yêu cầu mở thủ tục phá sản thuộc một trong các trường hợp được hướng dẫn tại khoản 1 Điều này thì căn cứ vào điểm c khoản 1 Điều 32 của Luật phá sản làm văn bản đề nghị gửi kèm đơn yêu cầu mở thủ tục phá sản, tài liệu, chứng cứ cho Tòa án nhân dân cấp tỉnh có thẩm quyền xem xét thụ lý, giải quyết; đồng thời, thông báo bằng văn bản cho người nộp đơn yêu cầu mở thủ tục phá sản và Viện kiểm sát nhân dân cùng cấp."
+ENTITY,E39_6,KHOAN,Khoản,structure,3153,3578,"4. Trường hợp Tòa án nhân dân cấp huyện đã thụ lý đơn yêu cầu mở thủ tục phá sản đúng thẩm quyền nhưng trong quá trình giải quyết phá sản có sự thay đổi nơi cư trú, địa chỉ của người tham gia thủ tục phá sản hoặc xuất hiện tình tiết mới làm cho vụ việc phá sản thuộc một trong các trường hợp quy định tại khoản 1 Điều 8 của Luật phá sản và hướng dẫn tại khoản 1 Điều này thì Tòa án nhân dân cấp huyện vẫn tiếp tục giải quyết."
+ENTITY,E39_7,KHOAN,Khoản,structure,3716,4046,"1. Khi giải quyết vụ việc phá sản, Thẩm phán phải nghiên cứu, áp dụng án lệ đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao công nhận theo hướng dẫn tại Nghị quyết số 03/2015/NQ-HĐTP ngày 28-10-2015 của Hội đồng Thẩm phán Tòa án nhân dân tối cao về quy trình lựa chọn, công bố và áp dụng án lệ đối với vụ việc phá sản tương tự."
+ENTITY,E39_8,KHOAN,Khoản,structure,4047,4275,"2. Thẩm phán có thể tham khảo quyết định giải quyết vụ việc phá sản của Tòa án đã có hiệu lực pháp luật, có tính chất tương tự với vụ việc phá sản đang giải quyết để bảo đảm áp dụng thống nhất pháp luật trong giải quyết phá sản."
+ENTITY,E39_9,KHOAN,Khoản,structure,4353,5087,"1. Trong quá trình giải quyết yêu cầu mở thủ tục phá sản, người có quyền, nghĩa vụ nộp đơn theo quy định tại Điều 5 của Luật phá sản, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có quyền yêu cầu Tòa án nhân dân có thẩm quyền giải quyết phá sản ra quyết định áp dụng một hoặc một số biện pháp khẩn cấp tạm thời quy định tại khoản 1 Điều 70 của Luật phá sản để bảo toàn tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán; bảo đảm quyền, lợi ích hợp pháp của người lao động; bảo đảm cho việc giải quyết vụ việc phá sản.
+Trường hợp do tình thế khẩn cấp, để ngăn chặn hậu quả nghiêm trọng có thể xảy ra thì việc áp dụng biện pháp khẩn cấp tạm thời có thể tiến hành đồng thời với việc nộp đơn yêu cầu mở thủ tục phá sản."
+ENTITY,E39_10,KHOAN,Khoản,structure,5088,5144,2. Các biện pháp khẩn cấp tạm thời được áp dụng như sau:
+ENTITY,E39_11,KHOAN,Khoản,structure,8653,9079,"3. Thủ tục áp dụng, thay đổi, hủy bỏ, thi hành biện pháp khẩn cấp tạm thời; hiệu lực của quyết định áp dụng, thay đổi, huỷ bỏ biện pháp khẩn cấp tạm thời; khiếu nại, kiến nghị và giải quyết khiếu nại, kiến nghị về quyết định áp dụng, thay đổi, huỷ bỏ hoặc không áp dụng, thay đổi, huỷ bỏ biện pháp khẩn cấp tạm thời được thực hiện theo quy định của Luật phá sản, pháp luật về tố tụng dân sự và pháp luật về thi hành án dân sự."
+ENTITY,E39_12,KHOAN,Khoản,structure,9080,9187,4. Tòa án ra ngay quyết định hủy bỏ biện pháp khẩn cấp tạm thời khi thuộc một trong các trường hợp sau đây:
+ENTITY,E39_13,KHOAN,Khoản,structure,9643,9708,5. Trách nhiệm do áp dụng biện pháp khẩn cấp tạm thời không đúng:
+ENTITY,E39_14,KHOAN,Khoản,structure,10559,10860,"1. Trong thời hạn 30 ngày, kể từ ngày Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản lập xong danh sách chủ nợ, danh sách người mắc nợ, bảng kê tài sản của tổ chức tín dụng, Thẩm phán (Tổ Thẩm phán) phải tiến hành các hoạt động sau đây trước khi ra quyết định tuyên bố tổ chức tín dụng phá sản:"
+ENTITY,E39_15,KHOAN,Khoản,structure,11239,11462,"2. Quyết định tuyên bố tổ chức tín dụng phá sản phải ghi rõ các nội dung quy định tại Điều 108 của Luật phá sản và quyết định việc hoàn trả khoản vay đặc biệt của Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng khác (nếu có)."
+ENTITY,E39_16,KHOAN,Khoản,structure,11463,11827,"3. Trong thời hạn 10 ngày làm việc, kể từ ngày ra quyết định tuyên bố tổ chức tín dụng phá sản, quyết định này phải được gửi cho Ngân hàng Nhà nước Việt Nam và chi nhánh Ngân hàng Nhà nước tỉnh, thành phố nơi tổ chức tín dụng đặt trụ sở chính; đồng thời, việc gửi và thông báo quyết định tuyên bố phá sản được thực hiện theo quy định tại Điều 109 của Luật phá sản."
+ENTITY,E39_17,KHOAN,Khoản,structure,11854,12013,1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 01 tháng 8 năm 2016 và có hiệu lực thi hành kể từ ngày 16 tháng 9 năm 2016.
+ENTITY,E39_18,KHOAN,Khoản,structure,12014,12398,"2. Đối với yêu cầu mở thủ tục phá sản mà Tòa án đã thụ lý trước ngày Nghị quyết này có hiệu lực thi hành nhưng chưa giải quyết thì áp dụng Nghị quyết này để giải quyết.
+Đối với quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản của Tòa án đã có hiệu lực pháp luật trước ngày Nghị quyết này có hiệu lực thi hành thì không áp dụng hướng dẫn tại Nghị quyết này để làm căn cứ kháng nghị"
+ENTITY,E40_1,DIEM,Điểm,structure,1172,1268,a) Cá nhân không có mặt tại Việt Nam vào thời điểm Tòa án thụ lý đơn yêu cầu mở thủ tục phá sản;
+ENTITY,E40_2,DIEM,Điểm,structure,1269,1458,"b) Pháp nhân không có trụ sở, chi nhánh, văn phòng đại diện hoặc không có người đại diện theo quy định của pháp luật tại Việt Nam vào thời điểm Tòa án thụ lý đơn yêu cầu mở thủ tục phá sản."
+ENTITY,E40_3,DIEM,Điểm,structure,1839,1955,a) Có từ trên 300 (ba trăm) lao động trở lên hoặc có vốn điều lệ từ trên 100.000.000.000 (một trăm tỷ đồng) trở lên;
+ENTITY,E40_4,DIEM,Điểm,structure,1956,2107,"b) Là tổ chức tín dụng; doanh nghiệp, hợp tác xã cung ứng các sản phẩm, dịch vụ công ích; doanh nghiệp quốc phòng, an ninh theo quy định của pháp luật;"
+ENTITY,E40_5,DIEM,Điểm,structure,2108,2193,"c) Là tập đoàn kinh tế, tổng công ty Nhà nước; doanh nghiệp có vốn đầu tư nước ngoài;"
+ENTITY,E40_6,DIEM,Điểm,structure,2194,2403,"d) Có khoản nợ được Nhà nước bảo đảm hoặc có liên quan đến việc thực hiện các điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, văn bản thỏa thuận về đầu tư với cơ quan, tổ chức nước ngoài;"
+ENTITY,E40_7,DIEM,Điểm,structure,2404,2494,đ) Có giao dịch bị yêu cầu tuyên bố là vô hiệu theo quy định tại Điều 59 của Luật phá sản.
+ENTITY,E40_8,DIEM,Điểm,structure,5145,5853,"a) Quyết định cho bán hàng hóa dễ bị hư hỏng, hàng hóa sắp hết thời hạn sử dụng, hàng hóa không bán đúng thời điểm sẽ khó có khả năng tiêu thụ khi hàng hóa là thực phẩm tươi sống, dễ bị phân hủy, khó bảo quản; hàng hóa dễ cháy, nổ (xăng, dầu, khí hóa lỏng và các chất dễ cháy, nổ khác); thuốc chữa bệnh, thuốc thú y, thuốc bảo vệ thực vật mà hạn sử dụng còn dưới 60 ngày; thực phẩm đã qua chế biến và các loại hàng hóa khác mà hạn sử dụng còn dưới 30 ngày; hàng hóa có tính chất thời vụ (hàng tiêu dùng theo mùa, phục vụ lễ, tết), hàng điện tử cao cấp (các loại máy tính, điện thoại thông minh) và các loại hàng hóa, vật phẩm khác nếu không xử lý ngay sẽ bị hư hỏng, không bán được hoặc hết thời hạn sử dụng;"
+ENTITY,E40_9,DIEM,Điểm,structure,5854,6017,"b) Quyết định cho thu hoạch, cho bán hoa màu hoặc sản phẩm, hàng hóa khác khi hoa màu ở thời kỳ thu hoạch; sản phẩm, hàng hóa khác không thể bảo quản được lâu dài;"
+ENTITY,E40_10,DIEM,Điểm,structure,6018,6763,"c) Kê biên tài sản của doanh nghiệp, hợp tác xã khi có căn cứ cho thấy có hành vi tẩu tán, hủy hoại tài sản hoặc tài sản có khả năng bị mất mát hoặc mất giá trị. Trường hợp tài sản bị kê biên cần được giữ nguyên trạng, đầy đủ, bí mật thì biện pháp kê biên phải được tiến hành đồng thời với niêm phong.
+Việc kê biên, niêm phong tài sản phải được lập biên bản và giao trách nhiệm quản lý tài sản cho doanh nghiệp, hợp tác xã bị yêu cầu mở thủ tục phá sản; Quản tài viên; doanh nghiệp quản lý, thanh lý tài sản; người đang chiếm hữu, sử dụng tài sản hợp pháp hoặc được thu giữ, bảo quản tại cơ quan thi hành án dân sự có thẩm quyền (đối với trường hợp tài sản đang được bảo quản tại cơ quan thi hành án dân sự) cho đến khi có quyết định của Tòa án;"
+ENTITY,E40_11,DIEM,Điểm,structure,6764,6938,"d) Quyết định phong tỏa tài khoản của doanh nghiệp, hợp tác xã tại ngân hàng khi doanh nghiệp, hợp tác xã có tài khoản tại ngân hàng, kho bạc Nhà nước, tổ chức tín dụng khác;"
+ENTITY,E40_12,DIEM,Điểm,structure,6939,7064,"đ) Quyết định phong tỏa tài sản ở nơi gửi giữ khi doanh nghiệp, hợp tác xã có tài sản được gửi giữ bởi cá nhân, tổ chức khác;"
+ENTITY,E40_13,DIEM,Điểm,structure,7065,7249,"e) Quyết định niêm phong kho, quỹ, thu giữ và quản lý sổ kế toán, tài liệu liên quan của doanh nghiệp, hợp tác xã khi cần thiết phải giữ nguyên trạng kho, quỹ, sổ kế toán, tài liệu đó;"
+ENTITY,E40_14,DIEM,Điểm,structure,7250,7448,"g) Quyết định cấm chuyển dịch quyền về tài sản đối với tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán khi có căn cứ cho thấy có hành vi chuyển dịch quyền về tài sản đối với tài sản đó;"
+ENTITY,E40_15,DIEM,Điểm,structure,7449,7719,"h) Quyết định cấm thay đổi hiện trạng đối với tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán khi có căn cứ cho thấy có hành vi tháo gỡ, lắp ghép hoặc có hành vi khác làm thay đổi hiện trạng tài sản đó dẫn đến việc làm giảm sút hoặc mất giá trị của tài sản;"
+ENTITY,E40_16,DIEM,Điểm,structure,7720,8052,"i) Quyết định cấm hoặc buộc doanh nghiệp, hợp tác xã, cá nhân, tổ chức khác có liên quan thực hiện một số hành vi nhất định khi có căn cứ cho thấy việc thực hiện hoặc không thực hiện một hoặc một số hành vi nhất định của họ sẽ làm ảnh hưởng đến việc giải quyết vụ việc phá sản, quyền và lợi ích hợp pháp của người khác có liên quan;"
+ENTITY,E40_17,DIEM,Điểm,structure,8053,8437,"k) Quyết định buộc người sử dụng lao động tạm ứng tiền lương, tiền công, tiền bồi thường, trợ cấp tai nạn lao động hoặc bệnh nghề nghiệp cho người lao động khi cần bảo vệ quyền, lợi ích hợp pháp của người lao động về tiền lương, tiền công, tiền bồi thường, trợ cấp tai nạn lao động hoặc bệnh nghề nghiệp theo quy định của pháp luật về lao động, pháp luật về an toàn, vệ sinh lao động;"
+ENTITY,E40_18,DIEM,Điểm,structure,8438,8652,"l) Quyết định áp dụng biện pháp khẩn cấp tạm thời khác theo quy định của pháp luật khi biện pháp đó được quy định tại luật khác ngoài quy định tại các điểm a, b, c, d, đ, e, g và h khoản 1 Điều 70 của Luật phá sản."
+ENTITY,E40_19,DIEM,Điểm,structure,9188,9253,a) Căn cứ của việc áp dụng biện pháp khẩn cấp tạm thời không còn;
+ENTITY,E40_20,DIEM,Điểm,structure,9254,9303,b) Tòa án ra quyết định không mở thủ tục phá sản;
+ENTITY,E40_21,DIEM,Điểm,structure,9304,9363,c) Tòa án ra quyết định đình chỉ tiến hành thủ tục phá sản;
+ENTITY,E40_22,DIEM,Điểm,structure,9364,9483,d) Tòa án ra quyết định đình chỉ thủ tục phục hồi kinh doanh theo quy định tại điểm a khoản 1 Điều 95 của Luật phá sản;
+ENTITY,E40_23,DIEM,Điểm,structure,9484,9552,đ) Người yêu cầu áp dụng biện pháp khẩn cấp tạm thời đề nghị hủy bỏ;
+ENTITY,E40_24,DIEM,Điểm,structure,9553,9642,e) Quyết định áp dụng biện pháp khẩn cấp tạm thời không đúng theo quy định của pháp luật.
+ENTITY,E40_25,DIEM,Điểm,structure,9709,10037,a) Người yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời phải chịu trách nhiệm trước pháp luật về yêu cầu của mình; trường hợp yêu cầu áp dụng biện pháp khẩn cấp tạm thời không đúng mà gây thiệt hại cho người bị áp dụng biện pháp khẩn cấp tạm thời hoặc cho người thứ ba thì phải bồi thường theo quy định của pháp luật dân sự;
+ENTITY,E40_26,DIEM,Điểm,structure,10038,10283,b) Tòa án áp dụng biện pháp khẩn cấp tạm thời không đúng mà gây thiệt hại cho người bị áp dụng biện pháp khẩn cấp tạm thời hoặc cho người thứ ba thì Tòa án phải bồi thường theo quy định tại khoản 2 và khoản 3 Điều 113 của Bộ luật tố tụng dân sự;
+ENTITY,E40_27,DIEM,Điểm,structure,10284,10463,"c) Cá nhân, cơ quan, tổ chức có hành vi vi phạm pháp luật trong quá trình áp dụng biện pháp khẩn cấp tạm thời thì bị xử lý trách nhiệm theo quy định tại Điều 129 của Luật phá sản."
+ENTITY,E40_28,DIEM,Điểm,structure,10861,11065,"a) Kiểm tra lại việc lập danh sách chủ nợ, danh sách người mắc nợ, bảng kê tài sản của tổ chức tín dụng bảo đảm được thực hiện đúng theo quy định tại Điều 64, Điều 65, Điều 67 và Điều 68 của Luật phá sản;"
+ENTITY,E40_29,DIEM,Điểm,structure,11066,11238,"b) Kiểm tra việc hoàn trả khoản vay đặc biệt mà tổ chức tín dụng đã được vay của Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng khác theo quy định của Luật tổ chức tín dụng."
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R22_1,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_2,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_10,E38_5,,
+RELATION,R22_5,THUOC,Thuộc,E39_11,E38_5,,
+RELATION,R22_6,THUOC,Thuộc,E39_12,E38_5,,
+RELATION,R22_7,THUOC,Thuộc,E39_13,E38_5,,
+RELATION,R22_8,THUOC,Thuộc,E39_14,E38_6,,
+RELATION,R22_9,THUOC,Thuộc,E39_15,E38_6,,
+RELATION,R22_10,THUOC,Thuộc,E39_16,E38_6,,
+RELATION,R22_11,THUOC,Thuộc,E39_17,E38_7,,
+RELATION,R22_12,THUOC,Thuộc,E39_18,E38_7,,
+RELATION,R22_13,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_14,THUOC,Thuộc,E39_3,E38_3,,
+RELATION,R22_15,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,R22_16,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_17,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,R22_18,THUOC,Thuộc,E39_7,E38_4,,
+RELATION,R22_19,THUOC,Thuộc,E39_8,E38_4,,
+RELATION,R22_20,THUOC,Thuộc,E39_9,E38_5,,
+RELATION,R22_21,THUOC,Thuộc,E40_1,E39_2,,
+RELATION,R22_22,THUOC,Thuộc,E40_10,E39_10,,
+RELATION,R22_23,THUOC,Thuộc,E40_11,E39_10,,
+RELATION,R22_24,THUOC,Thuộc,E40_12,E39_10,,
+RELATION,R22_25,THUOC,Thuộc,E40_13,E39_10,,
+RELATION,R22_26,THUOC,Thuộc,E40_14,E39_10,,
+RELATION,R22_27,THUOC,Thuộc,E40_15,E39_10,,
+RELATION,R22_28,THUOC,Thuộc,E40_16,E39_10,,
+RELATION,R22_29,THUOC,Thuộc,E40_17,E39_10,,
+RELATION,R22_30,THUOC,Thuộc,E40_18,E39_10,,
+RELATION,R22_31,THUOC,Thuộc,E40_19,E39_12,,
+RELATION,R22_32,THUOC,Thuộc,E40_2,E39_2,,
+RELATION,R22_33,THUOC,Thuộc,E40_20,E39_12,,
+RELATION,R22_34,THUOC,Thuộc,E40_21,E39_12,,
+RELATION,R22_35,THUOC,Thuộc,E40_22,E39_12,,
+RELATION,R22_36,THUOC,Thuộc,E40_23,E39_12,,
+RELATION,R22_37,THUOC,Thuộc,E40_24,E39_12,,
+RELATION,R22_38,THUOC,Thuộc,E40_25,E39_13,,
+RELATION,R22_39,THUOC,Thuộc,E40_26,E39_13,,
+RELATION,R22_40,THUOC,Thuộc,E40_27,E39_13,,
+RELATION,R22_41,THUOC,Thuộc,E40_28,E39_14,,
+RELATION,R22_42,THUOC,Thuộc,E40_29,E39_14,,
+RELATION,R22_43,THUOC,Thuộc,E40_3,E39_3,,
+RELATION,R22_44,THUOC,Thuộc,E40_4,E39_3,,
+RELATION,R22_45,THUOC,Thuộc,E40_5,E39_3,,
+RELATION,R22_46,THUOC,Thuộc,E40_6,E39_3,,
+RELATION,R22_47,THUOC,Thuộc,E40_7,E39_3,,
+RELATION,R22_48,THUOC,Thuộc,E40_8,E39_10,,
+RELATION,R22_49,THUOC,Thuộc,E40_9,E39_10,,

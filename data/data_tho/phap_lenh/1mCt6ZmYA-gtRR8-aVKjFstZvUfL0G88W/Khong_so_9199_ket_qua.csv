@@ -1,0 +1,432 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,50,87,"PHÁP LỆNH
+AN TOÀN VÀ KIỂM SOÁT BỨC XẠ"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,50,59,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,31294,31318,ngày 25 tháng 6 năm 1996
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,31429,31443,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,31257,31282,ngày 01 tháng 01 năm 1997
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,31465,31475,2009-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,31499,31519,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,31391,31416,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,31533,31541,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,31554,31567,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,34266,34284,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,463,521,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,534,606,"Nghị quyết Quốc hội Khoá IX, kỳ họp thứ 8 về công tác xây dựng pháp luật"
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,31647,31665,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,34334,34432,Quyết định số 181/2003/QĐ-BYT Về việc ban hành Quy trình và Danh mục thanh tra hành nghề Y tư nhân
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,34482,34581,Thông tư liên tịch số 2237/1999/TTLT-BKHCNMT-BYT Hướng dẫn việc thực hiện an toàn bức xạ trong y tế
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,34631,34732,"Quyết định số 146/2007/QĐ-TTg Ban hành Quy chế phát hiện, xử lý nguồn phóng xạ nằm ngoài sự kiểm soát"
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,34782,35107,"Nghị định số 332/2025/NĐ-CP Quy định chi tiết và biện pháp thi hành một số điều của Luật Năng lượng nguyên tử về bảo đảm an toàn bức xạ, an toàn, an ninh, thanh sát hạt nhân, hông báo, khai báo, cấp phép, thanh tra, kiểm tra về an toàn bức xạ và hạt nhân, ứng phó sự cố bức xạ, sự cố hạt nhân và bồi thường thiệt hại hạt nhân"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33534,33767,Thông tư số 137/2005/TT-BQP Hướng dẫn thực hiện Nghị định số 137/2004/NĐ-CP ngày 16 tháng 06 năm 2004 của Chính phủ quy định về xử phạt vi phạm hành chính trên các vùng biển và thềm lục địa của nước Cộng hoà xã hội chủ nghĩa Việt Nam
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33789,33959,"Chỉ thị số 28/2004/CT-UB V/v Tăng cường chỉ đạo và tổ chức thực hiện công tác quản lý công nghệ, chuyển giao công nghệ, an toàn bức xạ và sở hữu trí tuệ trên địa bàn tỉnh"
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33981,34089,Chỉ thị số 13/2006/CT-BKHCN Về việc tăng cường công tác quản lý an toàn bức xạ và an ninh các nguồn phóng xạ
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,34111,34211,Quyết định số 86/1999/QĐ-UB Về việc ban hành quy định về bảo vệ môi trường trên địa bàn tỉnh Nghệ An
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,31685,31808,Quyết định số 33/2006/QĐ-BYT Về việc ban hành Danh mục thuốc phóng xạ và hợp chất đánh dấu dùng trong chẩn đoán và điều trị
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,31828,31902,Thông tư số 14/2003/TT-BKHCN Về hướng dẫn vận chuyển an toàn chất phóng xạ
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,31922,32020,Quyết định số 181/2003/QĐ-BYT Về việc ban hành Quy trình và Danh mục thanh tra hành nghề Y tư nhân
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,32040,32139,Thông tư liên tịch số 2237/1999/TTLT-BKHCNMT-BYT Hướng dẫn việc thực hiện an toàn bức xạ trong y tế
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,32159,32258,Nghị định số 19/2001/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực an toàn và kiểm soát bức xạ
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,32278,32382,Quyết định số 1554/2005/QĐ-UBND V/v ban hành Quy định về An toàn và kiểm soát bức xạ trên địa bàn Hà Nam
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,32402,32522,Quyết định số 07/2007/QĐ-UBND Về việc ban hành Quy định về quản lý an toàn và kiểm soát bức xạ trên địa bàn tỉnh Gia Lai
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,32542,32643,"Quyết định số 146/2007/QĐ-TTg Ban hành Quy chế phát hiện, xử lý nguồn phóng xạ nằm ngoài sự kiểm soát"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,32663,32759,Nghị định số 50/1998/NĐ-CP Quy định chi tiết việc thi hành Pháp lệnh An toàn và Kiểm soát bức xạ
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,32779,32893,Quyết định số 977/2008/QĐ-UBND Ban hành Quy định về quản lý an toàn và kiểm soát bức xạ trên địa bàn tỉnh Cao Bằng
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,32913,33018,Quyết định số 1554a/2005/QĐ-UBND V/v ban hành Quy định về An toàn và kiểm soát bức xạ trên địa bàn Hà Nam
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,33038,33115,Quyết định số 115/2007/QĐ-TTg Ban hành Quy chế bảo đảm an ninh nguồn phóng xạ
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,33135,33243,Chỉ thị số 13/2006/CT-BKHCN Về việc tăng cường công tác quản lý an toàn bức xạ và an ninh các nguồn phóng xạ
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,33263,33384,"Quyết định số 05/2008/QĐ-BYT Về việc ban hành Danh mục thuốc chữa bệnh chủ yếu sử dụng tại các cơ sở khám bệnh, chữa bệnh"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,33404,33512,Nghị định số 51/2006/NĐ-CP Quy định về xử phạt vi phạm hành chính trong lĩnh vực an toàn và kiểm soát bức xạ
+ENTITY,E35_1,CHUONG,Chương,structure,663,692,"CHƯƠNG I
+NHỮNG QUY ĐỊNH CHUNG"
+ENTITY,E35_2,CHUONG,Chương,structure,5493,5525,"CHƯƠNG II
+BẢO ĐẢM AN TOÀN BỨC XẠ"
+ENTITY,E35_3,CHUONG,Chương,structure,12085,12131,"CHƯƠNG III
+TRÁCH NHIỆM GIẢI QUYẾT SỰ CỐ BỨC XẠ"
+ENTITY,E35_4,CHUONG,Chương,structure,17595,17642,"CHƯƠNG IV
+KHAI BÁO, CẤP GIẤY ĐĂNG KÝ, GIẤY PHÉP"
+ENTITY,E35_5,CHUONG,Chương,structure,22960,23016,"CHƯƠNG V
+QUẢN LÝ NHÀ NƯỚC VỀ AN TOÀN VÀ KIỂM SOÁT BỨC XẠ"
+ENTITY,E35_6,CHUONG,Chương,structure,25421,25484,"CHƯƠNG VI
+THANH TRA CHUYÊN NGÀNH VỀ AN TOÀN
+VÀ KIỂM SOÁT BỨC XẠ"
+ENTITY,E35_7,CHUONG,Chương,structure,29144,29183,"CHƯƠNG VII
+KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM"
+ENTITY,E35_8,CHUONG,Chương,structure,30763,30794,"CHƯƠNG VIII
+ĐIỀU KHOẢN THI HÀNH"
+ENTITY,E38_1,DIEU,Điều,structure,693,724,"Điều 1. Quản lý, sử dụng bức xạ"
+ENTITY,E38_2,DIEU,Điều,structure,960,996,Điều 2. Đối tượng và phạm vi áp dụng
+ENTITY,E38_3,DIEU,Điều,structure,1356,1381,Điều 3. Giải thích từ ngữ
+ENTITY,E38_4,DIEU,Điều,structure,3127,3181,Điều 4. Những nguyên tắc cơ bản bảo đảm an toàn bức xạ
+ENTITY,E38_5,DIEU,Điều,structure,4098,4164,Điều 5. Những nguyên tắc cơ bản bảo đảm hoạt động kiểm soát bức xạ
+ENTITY,E38_6,DIEU,Điều,structure,4503,4558,Điều 6. Quản lý nhà nước về an toàn và kiểm soát bức xạ
+ENTITY,E38_7,DIEU,Điều,structure,4835,4931,"Điều 7. Vai trò của Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên và các tổ chức xã hội khác"
+ENTITY,E38_8,DIEU,Điều,structure,5219,5286,Điều 8. Nghiêm cấm vi phạm pháp luật về an toàn và kiểm soát bức xạ
+ENTITY,E38_9,DIEU,Điều,structure,5526,5566,Điều 9. Điều kiện bảo đảm an toàn bức xạ
+ENTITY,E38_10,DIEU,Điều,structure,6996,7070,Điều 10. Trách nhiệm bảo đảm an toàn bức xạ của người quản lý cơ sở bức xạ
+ENTITY,E38_11,DIEU,Điều,structure,9126,9181,Điều 11. Trách nhiệm của người phụ trách an toàn bức xạ
+ENTITY,E38_12,DIEU,Điều,structure,9762,9803,Điều 12. Trách nhiệm của nhân viên bức xạ
+ENTITY,E38_13,DIEU,Điều,structure,10495,10545,Điều 13. Trách nhiệm của cơ quan quản lý trực tiếp
+ENTITY,E38_14,DIEU,Điều,structure,10834,10892,Điều 14. Trách nhiệm bảo đảm an toàn bức xạ khi vận chuyển
+ENTITY,E38_15,DIEU,Điều,structure,11742,11796,Điều 15. Khu vực có khoáng sản phóng xạ chưa khai thác
+ENTITY,E38_16,DIEU,Điều,structure,12132,12183,Điều 16. Trách nhiệm của người quản lý cơ sở bức xạ
+ENTITY,E38_17,DIEU,Điều,structure,13819,13869,Điều 17. Trách nhiệm của cơ quan quản lý trực tiếp
+ENTITY,E38_18,DIEU,Điều,structure,14215,14333,"Điều 18. Trách nhiệm của cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ, Bộ Khoa học, Công nghệ và Môi trường"
+ENTITY,E38_19,DIEU,Điều,structure,15124,15224,"Điều 19. Trách nhiệm của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, ủy ban nhân dân cấp tỉnh"
+ENTITY,E38_20,DIEU,Điều,structure,15981,16035,Điều 20. Trường hợp sự cố bức xạ đặc biệt nghiêm trọng
+ENTITY,E38_21,DIEU,Điều,structure,16782,16847,Điều 21. Trách nhiệm khắc phục sự cố bức xạ trên đường vận chuyển
+ENTITY,E38_22,DIEU,Điều,structure,17643,17660,Điều 22. Khai báo
+ENTITY,E38_23,DIEU,Điều,structure,17897,17913,Điều 23. Đăng ký
+ENTITY,E38_24,DIEU,Điều,structure,19319,19337,Điều 24. Giấy phép
+ENTITY,E38_25,DIEU,Điều,structure,20641,20686,"Điều 25. Thời hạn của giấy đăng ký, giấy phép"
+ENTITY,E38_26,DIEU,Điều,structure,21496,21540,"Điều 26. Gia hạn, sửa đổi, thu hồi giấy phép"
+ENTITY,E38_27,DIEU,Điều,structure,22726,22746,"Điều 27. Phí, lệ phí"
+ENTITY,E38_28,DIEU,Điều,structure,23017,23082,Điều 28. Nội dung quản lý nhà nước về an toàn và kiểm soát bức xạ
+ENTITY,E38_29,DIEU,Điều,structure,24424,24491,Điều 29. Thẩm quyền quản lý nhà nước về an toàn và kiểm soát bức xạ
+ENTITY,E38_30,DIEU,Điều,structure,25485,25547,Điều 30. Thanh tra chuyên ngành về an toàn và kiểm soát bức xạ
+ENTITY,E38_31,DIEU,Điều,structure,25781,25856,Điều 31. Nhiệm vụ của thanh tra chuyên ngành về an toàn và kiểm soát bức xạ
+ENTITY,E38_32,DIEU,Điều,structure,26765,26842,Điều 32. Thẩm quyền của thanh tra chuyên ngành về an toàn và kiểm soát bức xạ
+ENTITY,E38_33,DIEU,Điều,structure,27918,28035,"Điều 33. Trách nhiệm của tổ chức, cá nhân đối với hoạt động của thanh tra chuyên ngành về an toàn và kiểm soát bức xạ"
+ENTITY,E38_34,DIEU,Điều,structure,28322,28365,"Điều 34. Quyền khiếu nại, tố cáo, khởi kiện"
+ENTITY,E38_35,DIEU,Điều,structure,29184,29204,Điều 35. Khen thưởng
+ENTITY,E38_36,DIEU,Điều,structure,29716,29738,Điều 36. Xử lý vi phạm
+ENTITY,E38_37,DIEU,Điều,structure,30795,30823,Điều 37. Điều khoản thi hành
+ENTITY,E38_38,DIEU,Điều,structure,31198,31224,Điều 38. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,997,1105,1- Pháp lệnh này quy định về an toàn và kiểm soát bức xạ đối với các hoạt động liên quan đến bức xạ ion hoá.
+ENTITY,E39_2,KHOAN,Khoản,structure,1106,1355,"2- Pháp lệnh này áp dụng đối với tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài tiến hành công việc bức xạ trên lãnh thổ Việt Nam, trừ trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định khác."
+ENTITY,E39_3,KHOAN,Khoản,structure,1444,1622,"1- Bức xạ được hiểu là bức xạ ion hoá, gồm các chùm hạt vi mô và sóng điện từ có khả năng ion hoá khi đi qua vật chất, trừ các sóng điện từ có bước sóng dài hơn 100 nanomet (nm)."
+ENTITY,E39_4,KHOAN,Khoản,structure,1695,1757,2- Nguồn bức xạ là chất phóng xạ hoặc thiết bị phát ra bức xạ;
+ENTITY,E39_5,KHOAN,Khoản,structure,1758,1884,"3- Chất phóng xạ là chất ở thể rắn, lỏng hoặc khí có hoạt độ phóng xạ riêng lớn hơn 70 kilo Beccơren trên kilogam (70 kBq/kg);"
+ENTITY,E39_6,KHOAN,Khoản,structure,1885,1964,4- Chất thải phóng xạ là chất thải có hoạt độ phóng xạ riêng như chất phóng xạ;
+ENTITY,E39_7,KHOAN,Khoản,structure,1965,2184,"5- Công việc bức xạ là các hoạt động khảo sát, thăm dò, khai thác, sản xuất, sử dụng, xuất khẩu, nhập khẩu, chuyển nhượng, vận chuyển, tàng trữ, hủy bỏ các nguồn bức xạ hoặc những hoạt động khác có liên quan đến bức xạ;"
+ENTITY,E39_8,KHOAN,Khoản,structure,2185,2355,"6- Cơ sở bức xạ là nơi tổ chức, cá nhân được cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ cho phép đặt nguồn bức xạ và thường xuyên tiến hành công việc bức xạ;"
+ENTITY,E39_9,KHOAN,Khoản,structure,2356,2510,7- Người quản lý cơ sở bức xạ là người chủ sở hữu hoặc người đại diện của chủ sở hữu hoặc người sử dụng hợp pháp cơ sở bức xạ theo quy định của pháp luật;
+ENTITY,E39_10,KHOAN,Khoản,structure,2511,2576,8- Nhân viên bức xạ là người trực tiếp làm việc với nguồn bức xạ;
+ENTITY,E39_11,KHOAN,Khoản,structure,2577,2762,"9- Sự cố bức xạ là những tai biến, rủi ro xảy ra trong quá trình tiến hành công việc bức xạ, gây ra hoặc có thể gây ra hậu quả bức xạ nguy hiểm đối với sức khoẻ con người và môi trường;"
+ENTITY,E39_12,KHOAN,Khoản,structure,2763,2952,"10- An toàn bức xạ là việc bảo đảm an toàn cho con người và môi trường khỏi những tác hại do bức xạ gây ra bằng việc kiểm soát bức xạ và áp dụng các biện pháp kỹ thuật, công nghệ cần thiết;"
+ENTITY,E39_13,KHOAN,Khoản,structure,2953,3126,"11- Kiểm soát bức xạ là việc thực hiện các biện pháp hành chính và kỹ thuật nhằm quản lý cơ sở bức xạ, nguồn bức xạ, địa điểm cất giữ chất thải phóng xạ và công việc bức xạ."
+ENTITY,E39_14,KHOAN,Khoản,structure,3234,3437,"1- Tổ chức, cá nhân tiến hành công việc bức xạ phải có đủ điều kiện để bảo đảm an toàn bức xạ theo quy định tại Điều 9 của Pháp lệnh này và các quy định khác của pháp luật về an toàn và kiểm soát bức xạ;"
+ENTITY,E39_15,KHOAN,Khoản,structure,3438,3698,"2- Người quản lý cơ sở bức xạ phải có kiến thức về an toàn bức xạ, nắm vững các quy định của pháp luật về an toàn và kiểm soát bức xạ và chịu trách nhiệm cao nhất trong việc bảo đảm an toàn bức xạ cho cơ sở, nhân viên của mình, dân cư và môi trường xung quanh;"
+ENTITY,E39_16,KHOAN,Khoản,structure,3699,3874,"3- Nhân viên bức xạ phải được đào tạo về an toàn bức xạ, nắm vững các quy định của pháp luật về an toàn và kiểm soát bức xạ, tuân thủ các quy định về an toàn bức xạ của cơ sở."
+ENTITY,E39_17,KHOAN,Khoản,structure,4229,4311,"1- Xây dựng hệ thống pháp luật, tiêu chuẩn, quy trình, quy phạm về an toàn bức xạ;"
+ENTITY,E39_18,KHOAN,Khoản,structure,4312,4389,2- Xây dựng hệ thống cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ;
+ENTITY,E39_19,KHOAN,Khoản,structure,4390,4502,"3- Bảo đảm việc thực hiện khai báo, cấp giấy đăng ký, cấp giấy phép và thanh tra về an toàn và kiểm soát bức xạ."
+ENTITY,E39_20,KHOAN,Khoản,structure,5722,6285,"1- Luận chứng về bảo đảm an toàn bức xạ được cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ thẩm định. Luận chứng bảo đảm an toàn bức xạ phải nêu rõ tính hợp lý và sự cần thiết của việc tiến hành công việc bức xạ; đưa ra giải pháp tối ưu về việc bảo đảm an toàn bức xạ; xác định các điều kiện bảo đảm an toàn cho nhân viên bức xạ, dân cư khu vực có cơ sở bức xạ và môi trường trong mức giới hạn cho phép về an toàn bức xạ. Thủ tục xây dựng, thẩm định luận chứng bảo đảm an toàn bức xạ và các mức giới hạn cho phép về an toàn bức xạ do Chính phủ quy định;"
+ENTITY,E39_21,KHOAN,Khoản,structure,6286,6680,"2- Điều kiện về kỹ thuật và công nghệ bao gồm việc bảo đảm chất lượng, chỉ tiêu thiết kế, kỹ thuật khi xây dựng, lắp ráp, vận hành nguồn bức xạ, cơ sở bức xạ, địa điểm cất giữ chất thải phóng xạ; có đủ thiết bị kiểm soát môi trường, chất thải phóng xạ và phòng hộ cho nhân viên bức xạ; có đủ phương tiện khắc phục sự cố theo quy định của cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ;"
+ENTITY,E39_22,KHOAN,Khoản,structure,6681,6857,"3- Điều kiện về nhân lực bao gồm việc có người quản lý cơ sở bức xạ, người phụ trách an toàn bức xạ và nhân viên bức xạ có chuyên môn, nghiệp vụ và kiến thức về an toàn bức xạ;"
+ENTITY,E39_23,KHOAN,Khoản,structure,6858,6995,4- Điều kiện về tài chính bao gồm việc có đủ nguồn tài chính để thực hiện các biện pháp bảo đảm an toàn bức xạ và khắc phục sự cố bức xạ.
+ENTITY,E39_24,KHOAN,Khoản,structure,7114,7246,"1- Thực hiện việc khai báo, xin cấp các loại giấy đăng ký, xin cấp các loại giấy phép theo quy định tại Chương IV của Pháp lệnh này;"
+ENTITY,E39_25,KHOAN,Khoản,structure,7247,7296,2- Thực hiện đầy đủ các quy định trong giấy phép;
+ENTITY,E39_26,KHOAN,Khoản,structure,7297,7414,3- Cử người phụ trách an toàn bức xạ và tổ chức quản lý an toàn bức xạ phù hợp với quy mô hoạt động của cơ sở bức xạ;
+ENTITY,E39_27,KHOAN,Khoản,structure,7415,7568,"4- Ban hành và tổ chức thực hiện nội quy, các chỉ dẫn về an toàn bức xạ cho cơ sở bức xạ theo các quy định của pháp luật về an toàn và kiểm soát bức xạ ;"
+ENTITY,E39_28,KHOAN,Khoản,structure,7569,7731,"5- Định kỳ kiểm kê các nguồn bức xạ và báo cáo với cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ theo quy định của Bộ Khoa học, Công nghệ và Môi trường;"
+ENTITY,E39_29,KHOAN,Khoản,structure,7732,7791,6- Bảo đảm điều kiện làm việc an toàn cho nhân viên bức xạ;
+ENTITY,E39_30,KHOAN,Khoản,structure,7792,7882,7- Tổ chức huấn luyện nghiệp vụ về an toàn bức xạ cho nhân viên bức xạ trong cơ sở bức xạ;
+ENTITY,E39_31,KHOAN,Khoản,structure,7883,8008,8- Tổ chức khám sức khoẻ khi tuyển dụng; khám sức khỏe định kỳ và theo dõi liều bức xạ cho nhân viên bức xạ của cơ sở bức xạ;
+ENTITY,E39_32,KHOAN,Khoản,structure,8009,8177,"9- Tổ chức theo dõi mức bức xạ tại nơi tiến hành công việc bức xạ và vùng xung quanh, kiểm soát chất thải phóng xạ, bảo đảm mức bức xạ không vượt quá giới hạn quy định;"
+ENTITY,E39_33,KHOAN,Khoản,structure,8178,8247,"10- Xây dựng và tổ chức thực hiện kế hoạch phòng, chống sự cố bức xạ;"
+ENTITY,E39_34,KHOAN,Khoản,structure,8248,8327,11- Tổ chức khắc phục sự cố bức xạ theo quy định tại Điều 16 của Pháp lệnh này;
+ENTITY,E39_35,KHOAN,Khoản,structure,8328,8478,"12- Chủ động thông báo cho địa phương về kế hoạch bảo đảm an toàn bức xạ, phòng chống sự cố bức xạ, xây dựng kế hoạch phối hợp khắc phục sự cố bức xạ;"
+ENTITY,E39_36,KHOAN,Khoản,structure,8479,8673,"13- Báo cáo định kỳ và bất thường về tình hình an toàn bức xạ của cơ sở bức xạ với cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ theo quy định của Bộ Khoa học, Công nghệ và Môi trường;"
+ENTITY,E39_37,KHOAN,Khoản,structure,8674,8786,14- Báo cáo với cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ khi thay đổi người quản lý cơ sở bức xạ;
+ENTITY,E39_38,KHOAN,Khoản,structure,8787,9125,15- Báo cáo cho cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ khi muốn chấm dứt hoạt động của cơ sở bức xạ. Khi được phép chấm dứt hoạt động thì phải thực hiện các thủ tục thanh lý theo quy định của Chính phủ và chịu trách nhiệm cho đến khi được cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ công nhận hết trách nhiệm.
+ENTITY,E39_39,KHOAN,Khoản,structure,9614,9681,1- Thực hiện những nội dung quy định tại Điều 10 của Pháp lệnh này;
+ENTITY,E39_40,KHOAN,Khoản,structure,9682,9761,2- Lập và lưu giữ các loại hồ sơ liên quan đến an toàn bức xạ của cơ sở bức xạ.
+ENTITY,E39_41,KHOAN,Khoản,structure,9837,9998,"1- Thực hiện nghiêm chỉnh các quy định của pháp luật, tiêu chuẩn, quy trình, quy phạm, nội quy và các hướng dẫn của cơ sở bức xạ về an toàn và kiểm soát bức xạ ;"
+ENTITY,E39_42,KHOAN,Khoản,structure,9999,10177,"2- Sử dụng các phương tiện theo dõi liều bức xạ và các phương tiện bảo vệ thích hợp khi tiến hành công việc bức xạ, khám sức khỏe theo chỉ dẫn của người phụ trách an toàn bức xạ;"
+ENTITY,E39_43,KHOAN,Khoản,structure,10178,10363,3- Báo cáo ngay cho người phụ trách an toàn bức xạ hoặc người quản lý cơ sở bức xạ các hiện tượng bất thường về an toàn bức xạ tại nơi làm việc cũng như các nơi khác trong cơ sở bức xạ;
+ENTITY,E39_44,KHOAN,Khoản,structure,10364,10494,4- Thực hiện các biện pháp khắc phục sự cố bức xạ theo chỉ dẫn của người phụ trách an toàn bức xạ hoặc người quản lý cơ sở bức xạ.
+ENTITY,E39_45,KHOAN,Khoản,structure,10588,10720,"1- Đôn đốc, kiểm tra, chỉ đạo người quản lý cơ sở bức xạ thực hiện đầy đủ các qui định của pháp luật về an toàn và kiểm soát bức xạ;"
+ENTITY,E39_46,KHOAN,Khoản,structure,10721,10833,"2- Theo dõi, bảo đảm để kinh phí dành cho việc bảo đảm an toàn bức xạ được sử dụng đúng mục đích và có hiệu quả."
+ENTITY,E39_47,KHOAN,Khoản,structure,10893,11085,"1- Khi vận chuyển chất phóng xạ hoặc nguồn phóng xạ, bên gửi hàng phải bảo đảm thực hiện đầy đủ các quy định về vận chuyển an toàn chất phóng xạ do mình đóng gói hoặc thuê người khác đóng gói."
+ENTITY,E39_48,KHOAN,Khoản,structure,11086,11292,"2- Trên đường vận chuyển, bên vận chuyển phải bảo đảm thực hiện các quy định về vận chuyển an toàn chất phóng xạ, bảo đảm phương tiện vận chuyển an toàn và bảo đảm người điều khiển phương tiện có nghiệp vụ."
+ENTITY,E39_49,KHOAN,Khoản,structure,11293,11514,"3- Đối với các nguồn phóng xạ lớn, bên gửi hàng, bên vận chuyển, bên nhận có kế hoạch phối hợp thực hiện các biện pháp cần thiết nhằm bảo đảm vận chuyển an toàn và nhanh chóng khắc phục hậu quả khi có sự cố bức xạ xảy ra."
+ENTITY,E39_50,KHOAN,Khoản,structure,11515,11673,"4- Khi vận chuyển nguồn phóng xạ, bên gửi hàng phải làm thủ tục xin cấp giấy phép vận chuyển và chỉ được thực hiện việc vận chuyển sau khi được cấp giấy phép."
+ENTITY,E39_51,KHOAN,Khoản,structure,12252,12692,"1- Áp dụng mọi biện pháp để khắc phục và hạn chế thiệt hại do sự cố bức xạ gây ra, cứu chữa nạn nhân, lập biên bản và báo cáo cho cơ quan quản lý trực tiếp, Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (gọi chung là cấp huyện), Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương (gọi chung là cấp tỉnh) nơi xảy ra sự cố bức xạ, cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ và Bộ Khoa học, Công nghệ và Môi trường;"
+ENTITY,E39_52,KHOAN,Khoản,structure,12693,13130,"2- Trường hợp vượt quá khả năng khắc phục sự cố bức xạ của cơ sở, phải báo cáo ngay cho cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ, Bộ Khoa học, Công nghệ và Môi trường, cơ quan quản lý trực tiếp, Uỷ ban nhân dân cấp huyện, Uỷ ban nhân dân cấp tỉnh nơi xảy ra sự cố bức xạ để có sự hỗ trợ kịp thời và tuỳ theo mức độ nghiêm trọng của sự cố bức xạ để Uỷ ban nhân dân cấp huyện hoặc cấp tỉnh thông báo cho nhân dân địa phương;"
+ENTITY,E39_53,KHOAN,Khoản,structure,13131,13250,3- Tạo điều kiện thuận lợi cho các cơ quan chức năng tham gia khắc phục sự cố bức xạ và thực hiện các hướng dẫn của họ;
+ENTITY,E39_54,KHOAN,Khoản,structure,13251,13497,"4- Cung cấp đầy đủ, chính xác, kịp thời những thông tin cần thiết cho cơ quan quản lý trực tiếp, cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ, Bộ Khoa học, Công nghệ và Môi trường, thanh tra chuyên ngành về an toàn và kiểm soát bức xạ;"
+ENTITY,E39_55,KHOAN,Khoản,structure,13498,13713,"5- Báo cáo bằng văn bản về sự cố bức xạ cho cơ quan quản lý trực tiếp, cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ, Bộ Khoa học, Công nghệ và Môi trường, Uỷ ban nhân dân cấp tỉnh nơi xảy ra sự cố bức xạ;"
+ENTITY,E39_56,KHOAN,Khoản,structure,13714,13818,6- Chịu trách nhiệm trước pháp luật về sự cố bức xạ và bồi thường thiệt hại theo quy định của pháp luật.
+ENTITY,E39_57,KHOAN,Khoản,structure,13954,14045,1- Chỉ đạo người quản lý cơ sở bức xạ thực hiện các quy định tại Điều 16 của Pháp lệnh này;
+ENTITY,E39_58,KHOAN,Khoản,structure,14046,14140,"2- Cử ngay cán bộ có thẩm quyền đến cơ sở bức xạ để hướng dẫn, giúp đỡ khắc phục sự cố bức xạ;"
+ENTITY,E39_59,KHOAN,Khoản,structure,14141,14214,3- Huy động lực lượng và phương tiện cần thiết để khắc phục sự cố bức xạ.
+ENTITY,E39_60,KHOAN,Khoản,structure,14524,14605,1- Cử chuyên gia đến cơ sở bức xạ để hướng dẫn và giúp đỡ khắc phục sự cố bức xạ;
+ENTITY,E39_61,KHOAN,Khoản,structure,14606,14713,2- Cử Thanh tra viên chuyên ngành về an toàn và kiểm soát bức xạ đến cơ sở bức xạ để điều tra sự cố bức xạ;
+ENTITY,E39_62,KHOAN,Khoản,structure,14714,14916,"3- Phối hợp với Uỷ ban nhân dân cấp tỉnh nơi xảy ra sự cố bức xạ; phối hợp với các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan để huy động lực lượng hỗ trợ khắc phục hậu quả sự cố bức xạ;"
+ENTITY,E39_63,KHOAN,Khoản,structure,14917,14958,4- Báo cáo với Chính phủ về sự cố bức xạ;
+ENTITY,E39_64,KHOAN,Khoản,structure,14959,15123,"5- Theo sự chỉ đạo của Chính phủ, thực hiện cam kết trong điều ước quốc tế có liên quan đến sự cố bức xạ mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia."
+ENTITY,E39_65,KHOAN,Khoản,structure,15225,15409,"1- Tuỳ theo mức độ sự cố bức xạ bức xạ xảy ra tại cơ sở bức xạ thuộc quyền quản lý của mình, Uỷ ban nhân dân cấp tỉnh, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có trách nhiệm:"
+ENTITY,E39_66,KHOAN,Khoản,structure,15779,15980,"2- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân cấp tỉnh trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tham gia khắc phục sự cố bức xạ theo sự phân công của Chính phủ."
+ENTITY,E39_67,KHOAN,Khoản,structure,16036,16352,"1- Trường hợp xảy ra sự cố bức xạ đặc biệt nghiêm trọng, Chính phủ trực tiếp chỉ đạo việc khắc phục, ra quyết định về việc áp dụng các biện pháp khẩn cấp, yêu cầu hỗ trợ quốc tế khi xét thấy cần thiết, tổ chức điều tra nguyên nhân và xác định trách nhiệm, quyết định việc trợ cấp và trách nhiệm bồi thường thiệt hại."
+ENTITY,E39_68,KHOAN,Khoản,structure,16433,16781,2- Chính phủ chỉ đạo việc giải quyết hậu quả sự cố bức xạ khi sự cố bức xạ xảy ra tại nước khác mà gây thiệt hại trên lãnh thổ Việt Nam hoặc khi sự cố bức xạ xảy ra tại Việt Nam mà gây thiệt hại trên lãnh thổ nước khác theo cam kết trong các điều ước quốc tế có liên quan đến sự cố bức xạ mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia.
+ENTITY,E39_69,KHOAN,Khoản,structure,16848,17208,"1- Khi sự cố bức xạ xảy ra trên đường vận chuyển, người áp tải hàng, người điều khiển phương tiện vận chuyển phải tìm mọi cách cô lập khu vực nguy hiểm, báo cáo ngay cho Uỷ ban nhân dân địa phương nơi gần nhất và bên xin giấy phép vận chuyển. Bên xin giấy phép vận chuyển có trách nhiệm báo cáo ngay cho cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ."
+ENTITY,E39_70,KHOAN,Khoản,structure,17209,17402,"2- Khi nhận được báo cáo, các bên hữu quan phải cử người có thẩm quyền, đưa phương tiện kỹ thuật cần thiết đến ngay hiện trường để xử lý, khắc phục hậu quả và điều tra nguyên nhân sự cố bức xạ."
+ENTITY,E39_71,KHOAN,Khoản,structure,17403,17594,"3- Tùy theo mức độ vi phạm và hậu quả sự cố bức xạ, bên gửi hàng, người áp tải hàng, người điều khiển phương tiện vận chuyển, chủ phương tiện vận chuyển phải chịu trách nhiệm trước pháp luật."
+ENTITY,E39_72,KHOAN,Khoản,structure,17661,17837,"1- Tổ chức, cá nhân có cơ sở bức xạ, nguồn bức xạ, chất thải phóng xạ hoặc tiến hành công việc bức xạ phải khai báo với cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ."
+ENTITY,E39_73,KHOAN,Khoản,structure,17838,17896,"2- Chính phủ quy định nội dung, thủ tục và hồ sơ khai báo."
+ENTITY,E39_74,KHOAN,Khoản,structure,17914,18175,"1- Tổ chức, cá nhân có nguồn bức xạ, địa điểm cất giữ chất thải phóng xạ phải xin giấy đăng ký nguồn bức xạ, giấy đăng ký địa điểm cất giữ chất thải phóng xạ của mình với cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ, trừ trường hợp được miễn đăng ký."
+ENTITY,E39_75,KHOAN,Khoản,structure,18176,18264,2- Thủ tục xin cấp các loại giấy đăng ký nêu tại khoản 1 Điều này được quy định như sau:
+ENTITY,E39_76,KHOAN,Khoản,structure,19167,19318,"3- Chính phủ quy định mẫu đơn và hồ sơ xin cấp giấy đăng ký, điều kiện và tiêu chuẩn để được cấp hoặc miễn đăng ký, thủ tục tiến hành cấp giấy đăng ký."
+ENTITY,E39_77,KHOAN,Khoản,structure,19338,19547,"1- Tổ chức, cá nhân có cơ sở bức xạ, tiến hành các công việc bức xạ phải xin giấy phép hoạt động cho cơ sở bức xạ, giấy phép tiến hành công việc bức xạ và giấy phép cho nhân viên làm công việc bức xạ đặc biệt."
+ENTITY,E39_78,KHOAN,Khoản,structure,19548,19633,2- Thủ tục xin cấp các loại giấy phép nêu tại khoản 1 Điều này được quy định như sau:
+ENTITY,E39_79,KHOAN,Khoản,structure,20453,20640,"3- Chính phủ quy định mẫu đơn và hồ sơ xin cấp giấy phép, điều kiện và tiêu chuẩn để được cấp hoặc miễn cấp giấy phép, danh mục công việc bức xạ đặc biệt, thủ tục tiến hành cấp giấy phép."
+ENTITY,E39_80,KHOAN,Khoản,structure,20687,21110,"1- Giấy đăng ký có hiệu lực cho tới khi nguồn bức xạ, địa điểm cất giữ chất thải phóng xạ được cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ có thẩm quyền cấp giấy đăng ký công nhận là đủ điều kiện và tiêu chuẩn để được miễn đăng ký hoặc nguồn bức xạ, địa điểm cất giữ chất thải phóng xạ được chuyển nhượng cho tổ chức, cá nhân khác. Tổ chức, cá nhân nhận chuyển nhượng có trách nhiệm làm thủ tục xin cấp đăng ký."
+ENTITY,E39_81,KHOAN,Khoản,structure,21111,21310,"2- Thời hạn có hiệu lực của giấy phép hoạt động của cơ sở bức xạ, giấy phép tiến hành công việc bức xạ và giấy phép cho nhân viên làm công việc bức xạ đặc biệt được quy định trong nội dung giấy phép."
+ENTITY,E39_82,KHOAN,Khoản,structure,21311,21495,"3- Chính phủ quy định thời hạn cụ thể cho từng loại giấy phép hoạt động của cơ sở bức xạ, giấy phép tiến hành công việc bức xạ và giấy phép cho nhân viên làm công việc bức xạ đặc biệt."
+ENTITY,E39_83,KHOAN,Khoản,structure,21541,21833,"1- Tổ chức, cá nhân muốn gia hạn giấy phép hoạt động của cơ sở bức xạ, giấy phép tiến hành công việc bức xạ, giấy phép cho nhân viên làm công việc bức xạ đặc biệt phải làm thủ tục gia hạn chậm nhất là sáu mươi ngày trước khi giấy phép hết hạn. Thủ tục gia hạn giấy phép do Chính phủ quy định."
+ENTITY,E39_84,KHOAN,Khoản,structure,21834,22227,"2- Tổ chức, cá nhân được cấp giấy phép muốn nâng cấp hoặc mở rộng cơ sở bức xạ vượt quá phạm vi quy định của giấy phép phải làm thủ tục xin cấp giấy phép nâng cấp hoặc mở rộng cơ sở bức xạ; sau khi hoàn thành việc nâng cấp hoặc mở rộng cơ sở bức xạ phải làm thủ tục xin sửa đổi giấy phép. Thủ tục xin cấp giấy phép nâng cấp, mở rộng cơ sở bức xạ và xin sửa đổi giấy phép do Chính phủ quy định."
+ENTITY,E39_85,KHOAN,Khoản,structure,22228,22401,"3- Giấy phép hoạt động của cơ sở bức xạ, giấy phép tiến hành công việc bức xạ hoặc giấy phép cho nhân viên làm công việc bức xạ đặc biệt bị thu hồi trong các trường hợp sau:"
+ENTITY,E39_86,KHOAN,Khoản,structure,23149,23336,"1- Ban hành các văn bản pháp luật về an toàn và kiểm soát bức xạ, hệ thống tiêu chuẩn, quy trình, quy phạm về an toàn bức xạ; tổ chức, hướng dẫn và kiểm tra việc thực hiện các văn bản đó;"
+ENTITY,E39_87,KHOAN,Khoản,structure,23337,23410,2- Xây dựng và tổ chức thực hiện kế hoạch về an toàn và kiểm soát bức xạ;
+ENTITY,E39_88,KHOAN,Khoản,structure,23411,23523,"3- Tổ chức việc khai báo, cấp giấy đăng ký, cấp, gia hạn, sửa đổi, thu hồi giấy phép thực hiện công việc bức xạ;"
+ENTITY,E39_89,KHOAN,Khoản,structure,23524,23714,"4- Thẩm định về an toàn bức xạ đối với địa điểm, thiết kế xây dựng của cơ sở bức xạ; thẩm định địa điểm tiến hành công việc bức xạ; thẩm định thiết kế các phương tiện bảo đảm an toàn bức xạ;"
+ENTITY,E39_90,KHOAN,Khoản,structure,23715,23807,"5- Hướng dẫn lập và tổ chức thực hiện kế hoạch phòng, chống, khắc phục hậu quả sự cố bức xạ;"
+ENTITY,E39_91,KHOAN,Khoản,structure,23808,23910,"6- Tổ chức nghiên cứu, áp dụng tiến bộ khoa học, công nghệ trong lĩnh vực an toàn và kiểm soát bức xạ;"
+ENTITY,E39_92,KHOAN,Khoản,structure,23911,23968,7- Tổ chức đào tạo cán bộ về an toàn và kiểm soát bức xạ;
+ENTITY,E39_93,KHOAN,Khoản,structure,23969,24048,"8- Giáo dục, tuyên truyền và phổ biến kiến thức về an toàn và kiểm soát bức xạ;"
+ENTITY,E39_94,KHOAN,Khoản,structure,24049,24141,9- Xây dựng và phát triển cơ sở vật chất kỹ thuật cho hoạt động an toàn và kiểm soát bức xạ;
+ENTITY,E39_95,KHOAN,Khoản,structure,24142,24249,"10- Thanh tra, kiểm tra an toàn và kiểm soát bức xạ đối với cơ sở bức xạ, nguồn bức xạ và công việc bức xạ;"
+ENTITY,E39_96,KHOAN,Khoản,structure,24250,24346,"11- Giải quyết khiếu nại, tố cáo và xử lý các vi phạm pháp luật về an toàn và kiểm soát bức xạ ;"
+ENTITY,E39_97,KHOAN,Khoản,structure,24347,24423,12- Tổ chức việc hợp tác quốc tế trong lĩnh vực an toàn và kiểm soát bức xạ.
+ENTITY,E39_98,KHOAN,Khoản,structure,24492,24586,1- Chính phủ thống nhất quản lý nhà nước về an toàn và kiểm soát bức xạ trong phạm vi cả nước.
+ENTITY,E39_99,KHOAN,Khoản,structure,24587,24712,"2- Bộ Khoa học, Công nghệ và Môi trường chịu trách nhiệm thực hiện chức năng quản lý nhà nước về an toàn và kiểm soát bức xạ."
+ENTITY,E39_100,KHOAN,Khoản,structure,24868,25111,"3- Bộ Khoa học, Công nghệ và Môi trường, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, ủy ban nhân dân cấp tỉnh trong phạm vị nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp trong việc quản lý nhà nước về an toàn và kiểm soát bức xạ."
+ENTITY,E39_101,KHOAN,Khoản,structure,25112,25202,4- Chính phủ quy định về an toàn và kiểm soát bức xạ trong lĩnh vực quốc phòng và an ninh.
+ENTITY,E39_102,KHOAN,Khoản,structure,25203,25420,"5- Chính phủ quy định việc phân cấp thẩm quyền cấp giấy đăng ký; cấp, gia hạn, sửa đổi và thu hồi các loại giấy phép được quy định tại Chương IV của Pháp lệnh này cho các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ."
+ENTITY,E39_103,KHOAN,Khoản,structure,25936,25990,"1- Kiểm tra, thanh tra việc chấp hành các quy định về:"
+ENTITY,E39_104,KHOAN,Khoản,structure,26323,26556,"2- Phối hợp với Thanh tra nhà nước về lao động và Thanh tra chuyên ngành về bảo vệ môi trường để thực hiện nhiệm vụ kiểm tra, thanh tra về an toàn lao động, vệ sinh lao động và bảo vệ môi trường trong việc tiến hành công việc bức xạ;"
+ENTITY,E39_105,KHOAN,Khoản,structure,26557,26764,"3- Phối hợp với Thanh tra nhà nước của Bộ Y tế, Bộ Quốc phòng, Bộ Công nghiệp, các bộ, cơ quan ngang bộ khác, cơ quan thuộc Chính phủ, các địa phương trong hoạt động thanh tra về an toàn và kiểm soát bức xạ."
+ENTITY,E39_106,KHOAN,Khoản,structure,26927,27101,"1- Yêu cầu tổ chức, cá nhân có liên quan cung cấp thông tin, tư liệu và trả lời những vấn đề cần thiết; yêu cầu đối tượng thanh tra cung cấp tài liệu và báo cáo bằng văn bản;"
+ENTITY,E39_107,KHOAN,Khoản,structure,27102,27266,"2- Điều tra, thu thập chứng cứ, tài liệu liên quan đến nội dung, đối tượng thanh tra và tiến hành các biện pháp kiểm tra kỹ thuật về an toàn bức xạ tại hiện trường;"
+ENTITY,E39_108,KHOAN,Khoản,structure,27267,27685,"3- Quyết định đình chỉ hoạt động của cơ sở bức xạ, công việc bức xạ không có giấy phép; tạm đình chỉ trong trường hợp khẩn cấp các hoạt động có nguy cơ gây ra sự cố bức xạ, gây tác hại nguy hiểm đối với sức khoẻ con người hoặc tổn hại nghiêm trọng đến môi trường, đồng thời báo cáo ngay với cơ quan nhà nước có thẩm quyền quyết định xử lý hoặc kiến nghị với cơ quan nhà nước có thẩm quyền để đình chỉ các hoạt động đó;"
+ENTITY,E39_109,KHOAN,Khoản,structure,27686,27820,4- Xử lý theo thẩm quyền hoặc kiến nghị với cơ quan nhà nước có thẩm quyền xử lý các vi phạm pháp luật về an toàn và kiểm soát bức xạ.
+ENTITY,E39_110,KHOAN,Khoản,structure,28036,28181,"1- Tổ chức, cá nhân có trách nhiệm tạo điều kiện cho Đoàn thanh tra và Thanh tra viên thi hành nhiệm vụ thanh tra về an toàn và kiểm soát bức xạ."
+ENTITY,E39_111,KHOAN,Khoản,structure,28182,28321,"2- Tổ chức, cá nhân là đối tượng thanh tra phải chấp hành quyết định của Đoàn thanh tra hoặc Thanh tra viên về an toàn và kiểm soát bức xạ."
+ENTITY,E39_112,KHOAN,Khoản,structure,28366,28576,"1- Tổ chức, cá nhân là đối tượng thanh tra có quyền khiếu nại hoặc khởi kiện về quyết định hoặc biện pháp xử lý của Đoàn thanh tra hoặc Thanh tra viên về an toàn và kiểm soát bức xạ theo quy định của pháp luật."
+ENTITY,E39_113,KHOAN,Khoản,structure,28577,28743,"2- Tổ chức, cá nhân có quyền tố cáo với các cơ quan nhà nước có thẩm quyền về những hành vi vi phạm pháp luật về an toàn và kiểm soát bức xạ của mọi tổ chức, cá nhân."
+ENTITY,E39_114,KHOAN,Khoản,structure,29205,29485,"1- Tổ chức, cá nhân có thành tích trong hoạt động an toàn và kiểm soát bức xạ, phát hiện và báo cáo kịp thời các dấu hiệu sự cố bức xạ, khắc phục sự cố bức xạ, ngăn chặn các hành vi vi phạm pháp luật về an toàn và kiểm soát bức xạ thì được khen thưởng theo quy định của pháp luật."
+ENTITY,E39_115,KHOAN,Khoản,structure,29486,29715,"2- Những người tham gia khắc phục sự cố bức xạ hoặc đấu tranh chống các hành vi vi phạm pháp luật về an toàn và kiểm soát bức xạ mà bị thiệt hại về tài sản, sức khoẻ hoặc tính mạng thì được bồi thường theo quy định của pháp luật."
+ENTITY,E39_116,KHOAN,Khoản,structure,29739,30085,"1- Người nào sản xuất, lưu thông, tàng trữ, sử dụng trái phép các nguồn bức xạ, cản trở hoạt động thanh tra về an toàn và kiểm soát bức xạ hoặc vi phạm các quy định khác của pháp luật về an toàn và kiểm soát bức xạ thì tuỳ theo tính chất, mức độ vi phạm và hậu quả xảy ra mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự."
+ENTITY,E39_117,KHOAN,Khoản,structure,30086,30493,"2- Người nào lợi dụng chức vụ, quyền hạn vi phạm các quy định về khai báo, cấp giấy đăng ký, cấp giấy phép, bao che cho người vi phạm pháp luật về an toàn và kiểm soát bức xạ, thiếu tinh thần trách nhiệm để xảy ra sự cố bức xạ hoặc vi phạm các quy định khác của Pháp lệnh này thì tuỳ theo tính chất, mức độ vi phạm và hậu quả xảy ra mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự."
+ENTITY,E39_118,KHOAN,Khoản,structure,30494,30762,"3- Tổ chức, cá nhân có hành vi vi phạm pháp luật về an toàn và kiểm soát bức xạ, gây thiệt hại cho Nhà nước, tổ chức, cá nhân khác thì ngoài việc bị xử lý theo quy định nêu tại khoản 1 và khoản 2 của Điều này, còn phải bồi thường thiệt hại theo quy định của pháp luật."
+ENTITY,E39_119,KHOAN,Khoản,structure,30824,31079,"1- Tổ chức, cá nhân có cơ sở bức xạ, nguồn bức xạ, địa điểm cất giữ chất thải phóng xạ hoặc tiến hành công việc bức xạ trước ngày Pháp lệnh này có hiệu lực phải làm thủ tục khai báo, xin cấp giấy đăng ký, xin cấp giấy phép theo quy định của Pháp lệnh này."
+ENTITY,E39_120,KHOAN,Khoản,structure,31080,31142,2- Những quy định trước đây trái với Pháp lệnh này đều bãi bỏ.
+ENTITY,E39_121,KHOAN,Khoản,structure,31143,31197,3- Chính phủ quy định chi tiết thi hành Pháp lệnh này.
+ENTITY,E40_1,DIEM,Điểm,structure,15410,15488,a) Cử cán bộ có thẩm quyền đến cơ sở bức xạ để giúp đỡ khắc phục sự cố bức xạ;
+ENTITY,E40_2,DIEM,Điểm,structure,15489,15567,"b) Báo cáo với Bộ Khoa học, Công nghệ và Môi trường về diễn biến sự cố bức xạ;"
+ENTITY,E40_3,DIEM,Điểm,structure,15568,15681,"c) Phối hợp với Bộ Khoa học, Công nghệ và Môi trường để huy động lực lượng hỗ trợ khắc phục hậu quả sự cố bức xạ;"
+ENTITY,E40_4,DIEM,Điểm,structure,15682,15778,d) Báo cáo và đề xuất với Chính phủ các biện pháp giải quyết sự cố bức xạ đặc biệt nghiêm trọng.
+ENTITY,E40_5,DIEM,Điểm,structure,18265,18505,"a) Tổ chức, cá nhân muốn xin đăng ký nguồn bức xạ, địa điểm cất giữ chất thải phóng xạ của mình phải gửi đơn và hồ sơ xin cấp giấy đăng ký đến cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ được Chính phủ phân cấp cấp giấy đăng ký;"
+ENTITY,E40_6,DIEM,Điểm,structure,18506,18738,"b) Trong thời hạn sáu mươi ngày kể từ ngày nhận được đơn và hồ sơ xin cấp giấy đăng ký, cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ có thẩm quyền cấp giấy đăng ký phải tổ chức thẩm định đơn và hồ sơ xin cấp giấy đăng ký;"
+ENTITY,E40_7,DIEM,Điểm,structure,18739,19166,"c) Trong thời hạn mười lăm ngày kể từ ngày có kết quả thẩm định, cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ có thẩm quyền cấp giấy đăng ký phải tiến hành việc cấp hoặc từ chối cấp giấy đăng ký. Trong trường hợp từ chối cấp giấy đăng ký, cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ có thẩm quyền cấp giấy đăng ký phải thông báo bằng văn bản cho tổ chức, cá nhân đã gửi đơn và hồ sơ xin cấp giấy đăng ký."
+ENTITY,E40_8,DIEM,Điểm,structure,19634,19815,"a) Tổ chức, cá nhân muốn xin cấp giấy phép phải gửi đơn và hồ sơ xin cấp giấy phép đến cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ được Chính phủ phân cấp cấp giấy phép;"
+ENTITY,E40_9,DIEM,Điểm,structure,19816,20039,"b) Trong thời hạn sáu mươi ngày kể từ ngày nhận được đơn và hồ sơ xin cấp giấy phép, cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ có thẩm quyền cấp giấy phép phải tổ chức thẩm định đơn và hồ sơ xin cấp giấy phép;"
+ENTITY,E40_10,DIEM,Điểm,structure,20040,20452,"c) Trong thời hạn mười lăm ngày kể từ ngày có kết quả thẩm định, cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ có thẩm quyền cấp giấy phép phải tiến hành việc cấp hoặc từ chối cấp giấy phép. Trong trường hợp từ chối cấp giấy phép, cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ có thẩm quyền cấp giấy phép phải thông báo bằng văn bản cho tổ chức, cá nhân đã gửi đơn và hồ sơ xin cấp giấy phép."
+ENTITY,E40_11,DIEM,Điểm,structure,22402,22683,"a) Tổ chức, cá nhân có cơ sở bức xạ hoặc tiến hành công việc bức xạ vi phạm các quy định trong giấy phép mà không khắc phục trong thời hạn do Chính phủ quy định, kể từ ngày cơ quan quản lý nhà nước về an toàn và kiểm soát bức xạ có thẩm quyền cấp giấy phép đã có văn bản thông báo;"
+ENTITY,E40_12,DIEM,Điểm,structure,22684,22725,b) Cơ sở bức xạ bị giải thể hoặc phá sản.
+ENTITY,E40_13,DIEM,Điểm,structure,25991,26177,"a) Nội dung khai báo, các loại giấy đăng ký, giấy phép hoạt động của cơ sở bức xạ, các loại giấy phép tiến hành công việc bức xạ và giấy phép cho nhân viên làm công việc bức xạ đặc biệt;"
+ENTITY,E40_14,DIEM,Điểm,structure,26178,26322,"b) An toàn và kiểm soát bức xạ của cơ sở bức xạ, trách nhiệm của người quản lý cơ sở bức xạ, người phụ trách an toàn bức xạ và nhân viên bức xạ;"
+ENTITY,E41_1,VB_BAI_BO,Văn bản bãi bỏ,reference,31586,31627,Luật Năng lượng nguyên tử số 18/2008/QH12
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_3,E2_1,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_4,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E29_3,E2_1,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E29_4,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_3,E38_3,,
+RELATION,R22_7,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,R22_8,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_9,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,R22_10,THUOC,Thuộc,E39_7,E38_3,,
+RELATION,R22_11,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,R22_12,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_13,THUOC,Thuộc,E39_10,E38_3,,
+RELATION,R22_14,THUOC,Thuộc,E39_11,E38_3,,
+RELATION,R22_15,THUOC,Thuộc,E39_12,E38_3,,
+RELATION,R22_16,THUOC,Thuộc,E39_13,E38_3,,
+RELATION,R22_17,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_18,THUOC,Thuộc,E39_14,E38_4,,
+RELATION,R22_19,THUOC,Thuộc,E39_15,E38_4,,
+RELATION,R22_20,THUOC,Thuộc,E39_16,E38_4,,
+RELATION,R22_21,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_22,THUOC,Thuộc,E39_17,E38_5,,
+RELATION,R22_23,THUOC,Thuộc,E39_18,E38_5,,
+RELATION,R22_24,THUOC,Thuộc,E39_19,E38_5,,
+RELATION,R22_25,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_26,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_27,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_28,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_29,THUOC,Thuộc,E39_20,E38_9,,
+RELATION,R22_30,THUOC,Thuộc,E39_21,E38_9,,
+RELATION,R22_31,THUOC,Thuộc,E39_22,E38_9,,
+RELATION,R22_32,THUOC,Thuộc,E39_23,E38_9,,
+RELATION,R22_33,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_34,THUOC,Thuộc,E39_24,E38_10,,
+RELATION,R22_35,THUOC,Thuộc,E39_25,E38_10,,
+RELATION,R22_36,THUOC,Thuộc,E39_26,E38_10,,
+RELATION,R22_37,THUOC,Thuộc,E39_27,E38_10,,
+RELATION,R22_38,THUOC,Thuộc,E39_28,E38_10,,
+RELATION,R22_39,THUOC,Thuộc,E39_29,E38_10,,
+RELATION,R22_40,THUOC,Thuộc,E39_30,E38_10,,
+RELATION,R22_41,THUOC,Thuộc,E39_31,E38_10,,
+RELATION,R22_42,THUOC,Thuộc,E39_32,E38_10,,
+RELATION,R22_43,THUOC,Thuộc,E39_33,E38_10,,
+RELATION,R22_44,THUOC,Thuộc,E39_34,E38_10,,
+RELATION,R22_45,THUOC,Thuộc,E39_35,E38_10,,
+RELATION,R22_46,THUOC,Thuộc,E39_36,E38_10,,
+RELATION,R22_47,THUOC,Thuộc,E39_37,E38_10,,
+RELATION,R22_48,THUOC,Thuộc,E39_38,E38_10,,
+RELATION,R22_49,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_50,THUOC,Thuộc,E39_39,E38_11,,
+RELATION,R22_51,THUOC,Thuộc,E39_40,E38_11,,
+RELATION,R22_52,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_53,THUOC,Thuộc,E39_41,E38_12,,
+RELATION,R22_54,THUOC,Thuộc,E39_42,E38_12,,
+RELATION,R22_55,THUOC,Thuộc,E39_43,E38_12,,
+RELATION,R22_56,THUOC,Thuộc,E39_44,E38_12,,
+RELATION,R22_57,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_58,THUOC,Thuộc,E39_45,E38_13,,
+RELATION,R22_59,THUOC,Thuộc,E39_46,E38_13,,
+RELATION,R22_60,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_61,THUOC,Thuộc,E39_47,E38_14,,
+RELATION,R22_62,THUOC,Thuộc,E39_48,E38_14,,
+RELATION,R22_63,THUOC,Thuộc,E39_49,E38_14,,
+RELATION,R22_64,THUOC,Thuộc,E39_50,E38_14,,
+RELATION,R22_65,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_66,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,R22_67,THUOC,Thuộc,E39_51,E38_16,,
+RELATION,R22_68,THUOC,Thuộc,E39_52,E38_16,,
+RELATION,R22_69,THUOC,Thuộc,E39_53,E38_16,,
+RELATION,R22_70,THUOC,Thuộc,E39_54,E38_16,,
+RELATION,R22_71,THUOC,Thuộc,E39_55,E38_16,,
+RELATION,R22_72,THUOC,Thuộc,E39_56,E38_16,,
+RELATION,R22_73,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,R22_74,THUOC,Thuộc,E39_57,E38_17,,
+RELATION,R22_75,THUOC,Thuộc,E39_58,E38_17,,
+RELATION,R22_76,THUOC,Thuộc,E39_59,E38_17,,
+RELATION,R22_77,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,R22_78,THUOC,Thuộc,E39_60,E38_18,,
+RELATION,R22_79,THUOC,Thuộc,E39_61,E38_18,,
+RELATION,R22_80,THUOC,Thuộc,E39_62,E38_18,,
+RELATION,R22_81,THUOC,Thuộc,E39_63,E38_18,,
+RELATION,R22_82,THUOC,Thuộc,E39_64,E38_18,,
+RELATION,R22_83,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,R22_84,THUOC,Thuộc,E39_65,E38_19,,
+RELATION,R22_85,THUOC,Thuộc,E40_1,E39_65,,
+RELATION,R22_86,THUOC,Thuộc,E40_2,E39_65,,
+RELATION,R22_87,THUOC,Thuộc,E40_3,E39_65,,
+RELATION,R22_88,THUOC,Thuộc,E40_4,E39_65,,
+RELATION,R22_89,THUOC,Thuộc,E39_66,E38_19,,
+RELATION,R22_90,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,R22_91,THUOC,Thuộc,E39_67,E38_20,,
+RELATION,R22_92,THUOC,Thuộc,E39_68,E38_20,,
+RELATION,R22_93,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,R22_94,THUOC,Thuộc,E39_69,E38_21,,
+RELATION,R22_95,THUOC,Thuộc,E39_70,E38_21,,
+RELATION,R22_96,THUOC,Thuộc,E39_71,E38_21,,
+RELATION,R22_97,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,R22_98,THUOC,Thuộc,E39_72,E38_22,,
+RELATION,R22_99,THUOC,Thuộc,E39_73,E38_22,,
+RELATION,R22_100,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_101,THUOC,Thuộc,E39_74,E38_23,,
+RELATION,R22_102,THUOC,Thuộc,E39_75,E38_23,,
+RELATION,R22_103,THUOC,Thuộc,E40_5,E39_75,,
+RELATION,R22_104,THUOC,Thuộc,E40_6,E39_75,,
+RELATION,R22_105,THUOC,Thuộc,E40_7,E39_75,,
+RELATION,R22_106,THUOC,Thuộc,E39_76,E38_23,,
+RELATION,R22_107,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,R22_108,THUOC,Thuộc,E39_77,E38_24,,
+RELATION,R22_109,THUOC,Thuộc,E39_78,E38_24,,
+RELATION,R22_110,THUOC,Thuộc,E40_8,E39_78,,
+RELATION,R22_111,THUOC,Thuộc,E40_9,E39_78,,
+RELATION,R22_112,THUOC,Thuộc,E40_10,E39_78,,
+RELATION,R22_113,THUOC,Thuộc,E39_79,E38_24,,
+RELATION,R22_114,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,R22_115,THUOC,Thuộc,E39_80,E38_25,,
+RELATION,R22_116,THUOC,Thuộc,E39_81,E38_25,,
+RELATION,R22_117,THUOC,Thuộc,E39_82,E38_25,,
+RELATION,R22_118,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_119,THUOC,Thuộc,E39_83,E38_26,,
+RELATION,R22_120,THUOC,Thuộc,E39_84,E38_26,,
+RELATION,R22_121,THUOC,Thuộc,E39_85,E38_26,,
+RELATION,R22_122,THUOC,Thuộc,E40_11,E39_85,,
+RELATION,R22_123,THUOC,Thuộc,E40_12,E39_85,,
+RELATION,R22_124,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,R22_125,THUOC,Thuộc,E38_28,E35_5,,
+RELATION,R22_126,THUOC,Thuộc,E39_86,E38_28,,
+RELATION,R22_127,THUOC,Thuộc,E39_87,E38_28,,
+RELATION,R22_128,THUOC,Thuộc,E39_88,E38_28,,
+RELATION,R22_129,THUOC,Thuộc,E39_89,E38_28,,
+RELATION,R22_130,THUOC,Thuộc,E39_90,E38_28,,
+RELATION,R22_131,THUOC,Thuộc,E39_91,E38_28,,
+RELATION,R22_132,THUOC,Thuộc,E39_92,E38_28,,
+RELATION,R22_133,THUOC,Thuộc,E39_93,E38_28,,
+RELATION,R22_134,THUOC,Thuộc,E39_94,E38_28,,
+RELATION,R22_135,THUOC,Thuộc,E39_95,E38_28,,
+RELATION,R22_136,THUOC,Thuộc,E39_96,E38_28,,
+RELATION,R22_137,THUOC,Thuộc,E39_97,E38_28,,
+RELATION,R22_138,THUOC,Thuộc,E38_29,E35_5,,
+RELATION,R22_139,THUOC,Thuộc,E39_98,E38_29,,
+RELATION,R22_140,THUOC,Thuộc,E39_99,E38_29,,
+RELATION,R22_141,THUOC,Thuộc,E39_100,E38_29,,
+RELATION,R22_142,THUOC,Thuộc,E39_101,E38_29,,
+RELATION,R22_143,THUOC,Thuộc,E39_102,E38_29,,
+RELATION,R22_144,THUOC,Thuộc,E38_30,E35_6,,
+RELATION,R22_145,THUOC,Thuộc,E38_31,E35_6,,
+RELATION,R22_146,THUOC,Thuộc,E39_103,E38_31,,
+RELATION,R22_147,THUOC,Thuộc,E40_13,E39_103,,
+RELATION,R22_148,THUOC,Thuộc,E40_14,E39_103,,
+RELATION,R22_149,THUOC,Thuộc,E39_104,E38_31,,
+RELATION,R22_150,THUOC,Thuộc,E39_105,E38_31,,
+RELATION,R22_151,THUOC,Thuộc,E38_32,E35_6,,
+RELATION,R22_152,THUOC,Thuộc,E39_106,E38_32,,
+RELATION,R22_153,THUOC,Thuộc,E39_107,E38_32,,
+RELATION,R22_154,THUOC,Thuộc,E39_108,E38_32,,
+RELATION,R22_155,THUOC,Thuộc,E39_109,E38_32,,
+RELATION,R22_156,THUOC,Thuộc,E38_33,E35_6,,
+RELATION,R22_157,THUOC,Thuộc,E39_110,E38_33,,
+RELATION,R22_158,THUOC,Thuộc,E39_111,E38_33,,
+RELATION,R22_159,THUOC,Thuộc,E38_34,E35_6,,
+RELATION,R22_160,THUOC,Thuộc,E39_112,E38_34,,
+RELATION,R22_161,THUOC,Thuộc,E39_113,E38_34,,
+RELATION,R22_162,THUOC,Thuộc,E38_35,E35_7,,
+RELATION,R22_163,THUOC,Thuộc,E39_114,E38_35,,
+RELATION,R22_164,THUOC,Thuộc,E39_115,E38_35,,
+RELATION,R22_165,THUOC,Thuộc,E38_36,E35_7,,
+RELATION,R22_166,THUOC,Thuộc,E39_116,E38_36,,
+RELATION,R22_167,THUOC,Thuộc,E39_117,E38_36,,
+RELATION,R22_168,THUOC,Thuộc,E39_118,E38_36,,
+RELATION,R22_169,THUOC,Thuộc,E38_37,E35_8,,
+RELATION,R22_170,THUOC,Thuộc,E39_119,E38_37,,
+RELATION,R22_171,THUOC,Thuộc,E39_120,E38_37,,
+RELATION,R22_172,THUOC,Thuộc,E39_121,E38_37,,
+RELATION,R22_173,THUOC,Thuộc,E38_38,E35_8,,
+RELATION,R23_1,BAI_BO,Bãi bỏ,E41_1,E2_1,,

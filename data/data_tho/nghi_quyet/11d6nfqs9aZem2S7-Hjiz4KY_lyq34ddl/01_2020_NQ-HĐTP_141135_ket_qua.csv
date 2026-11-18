@@ -1,0 +1,64 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,294,409,"NGHỊ QUYẾT
+Hướng dẫn áp dụng một số quy định của pháp luật trong giải quyết tranh chấp về tài sản chung của dòng họ"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,245,260,01/2020/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,294,304,NGHỊ QUYẾT
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,269,293,ngày 05 tháng 3 năm 2020
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,5651,5665,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,5232,5256,ngày 10 tháng 4 năm 2020
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,5689,5701,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,154,177,TOÀ ÁN NHÂN DÂN TỐI CAO
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,5555,5563,CHÁNH ÁN
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,5571,5586,Nguyễn Hòa Bình
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,3323,3352,Nghị quyết số 04/2017/NQ-HĐTP
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,3323,3352,Nghị quyết số 04/2017/NQ-HĐTP
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,545,585,Bộ luật Dân sự ngày 24 tháng 11 năm 2015
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,594,642,Bộ luật Tố tụng dân sự ngày 25 tháng 11 năm 2015
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,482,536,Luật Tổ chức Tòa án nhân dân ngày 24 tháng 11 năm 2014
+ENTITY,E38_1,DIEU,Điều,structure,864,890,Điều 1. Phạm vi điều chỉnh
+ENTITY,E38_2,DIEU,Điều,structure,1278,1313,Điều 2. Xác định thành viên dòng họ
+ENTITY,E38_3,DIEU,Điều,structure,1516,1633,Điều 3. Quyền khởi kiện vụ án tranh chấp về tài sản chung của dòng họ để bảo vệ quyền và lợi ích hợp pháp của dòng họ
+ENTITY,E38_4,DIEU,Điều,structure,2023,2091,Điều 4. Đương sự trong vụ án tranh chấp về tài sản chung của dòng họ
+ENTITY,E38_5,DIEU,Điều,structure,2974,3099,"Điều 5. Địa chỉ của người bị kiện, người có quyền lợi, nghĩa vụ liên quan trong vụ án tranh chấp về tài sản chung của dòng họ"
+ENTITY,E38_6,DIEU,Điều,structure,4115,4173,Điều 6. Nhập vụ án tranh chấp về tài sản chung của dòng họ
+ENTITY,E38_7,DIEU,Điều,structure,4536,4566,Điều 7. Điều khoản chuyển tiếp
+ENTITY,E38_8,DIEU,Điều,structure,5071,5096,Điều 8. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,1634,1812,1. Thành viên dòng họ có quyền khởi kiện vụ án tranh chấp về tài sản chung của dòng họ để bảo vệ quyền và lợi ích hợp pháp của dòng họ theo quy định của pháp luật tố tụng dân sự.
+ENTITY,E39_2,KHOAN,Khoản,structure,1813,2022,"2. Dòng họ không phải là nguyên đơn. Tập thể (ví dụ: chi họ, nhánh họ, hội đồng gia tộc…) không có quyền khởi kiện vụ án tranh chấp về tài sản chung của dòng họ để bảo vệ quyền và lợi ích hợp pháp của dòng họ."
+ENTITY,E39_3,KHOAN,Khoản,structure,2092,2243,1. Nguyên đơn trong vụ án tranh chấp về tài sản chung của dòng họ là người khởi kiện yêu cầu Tòa án giải quyết tranh chấp về tài sản chung của dòng họ.
+ENTITY,E39_4,KHOAN,Khoản,structure,2244,2469,"2. Bị đơn trong vụ án tranh chấp về tài sản chung của dòng họ là người bị kiện. Bị đơn có thể là thành viên dòng họ hoặc người không phải là thành viên dòng họ nhưng có quyền, nghĩa vụ liên quan đến tài sản chung của dòng họ."
+ENTITY,E39_5,KHOAN,Khoản,structure,2470,2973,"3. Người có quyền lợi, nghĩa vụ liên quan trong vụ án tranh chấp về tài sản chung của dòng họ là người tuy không khởi kiện, không bị kiện nhưng việc giải quyết vụ án có liên quan đến quyền lợi, nghĩa vụ của họ. Người có quyền lợi, nghĩa vụ liên quan bao gồm thành viên khác của dòng họ và người không phải là thành viên dòng họ. Thành viên khác của dòng họ được xác định là người có quyền lợi, nghĩa vụ liên quan nếu được đương sự đề nghị và Tòa án chấp nhận trước khi ra quyết định đưa vụ án ra xét xử."
+ENTITY,E39_6,KHOAN,Khoản,structure,3100,3582,"1. Địa chỉ nơi cư trú của người bị kiện, người có quyền lợi, nghĩa vụ liên quan trong vụ án tranh chấp về tài sản chung của dòng họ được xác định theo quy định của Bộ luật Tố tụng dân sự và hướng dẫn tại Điều 5, Điều 6 của Nghị quyết số 04/2017/NQ-HĐTP ngày 05 tháng 5 năm 2017 của Hội đồng Thẩm phán Tòa án nhân dân tối cao hướng dẫn một số quy định tại khoản 1 và khoản 3 Điều 192 Bộ luật Tố tụng dân sự số 92/2015/QH13 về trả lại đơn khởi kiện, quyền nộp đơn khởi kiện lại vụ án."
+ENTITY,E39_7,KHOAN,Khoản,structure,3583,3662,"2. Về địa chỉ của người có quyền lợi, nghĩa vụ liên quan là thành viên dòng họ:"
+ENTITY,E39_8,KHOAN,Khoản,structure,4280,4351,1. Việc nhập để giải quyết trong cùng một vụ án bảo đảm đúng pháp luật;
+ENTITY,E39_9,KHOAN,Khoản,structure,4352,4422,2. Các yêu cầu khởi kiện cùng liên quan đến tài sản chung của dòng họ;
+ENTITY,E39_10,KHOAN,Khoản,structure,4423,4535,3. Việc nhập và việc giải quyết trong cùng một vụ án không ảnh hưởng đến quyền và lợi ích hợp pháp của đương sự.
+ENTITY,E39_11,KHOAN,Khoản,structure,4567,4800,1. Đối với những vụ án tranh chấp về tài sản chung của dòng họ mà Tòa án đã thụ lý trước ngày Nghị quyết này có hiệu lực thi hành và đang trong giai đoạn chuẩn bị xét xử sơ thẩm thì áp dụng hướng dẫn của Nghị quyết này để giải quyết.
+ENTITY,E39_12,KHOAN,Khoản,structure,4801,5070,"2. Đối với bản án, quyết định của Tòa án đã có hiệu lực pháp luật trước ngày Nghị quyết này có hiệu lực thi hành thì không áp dụng hướng dẫn của Nghị quyết này để kháng nghị và xét xử theo thủ tục giám đốc thẩm hoặc tái thẩm, trừ trường hợp kháng nghị theo căn cứ khác."
+ENTITY,E39_13,KHOAN,Khoản,structure,5097,5257,1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 21 tháng 02 năm 2020 và có hiệu lực thi hành kể từ ngày 10 tháng 4 năm 2020.
+ENTITY,E39_14,KHOAN,Khoản,structure,5258,5533,"2. Trong quá trình thực hiện, nếu có vướng mắc cần phải giải thích hoặc hướng dẫn bổ sung thì đề nghị các Tòa án, cá nhân, cơ quan, tổ chức phản ánh cho Tòa án nhân dân tối cao (thông qua Vụ Pháp chế và Quản lý khoa học) để có sự giải thích hoặc hướng dẫn bổ sung kịp thời./."
+ENTITY,E40_1,DIEM,Điểm,structure,3663,3824,"a) Trường hợp đương sự cung cấp được địa chỉ của thành viên dòng họ thì Tòa án đưa họ vào tham gia tố tụng với tư cách là người có quyền lợi, nghĩa vụ liên quan;"
+ENTITY,E40_2,DIEM,Điểm,structure,3825,4114,"b) Trường hợp đương sự không cung cấp được địa chỉ của thành viên dòng họ thì Tòa án không đưa họ vào tham gia tố tụng với tư cách là người có quyền lợi, nghĩa vụ liên quan. Quyền, nghĩa vụ của thành viên dòng họ chưa tham gia tố tụng sẽ được giải quyết bằng một vụ án khác khi có yêu cầu."
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E18_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_3,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_3,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_4,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_4,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_4,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_5,,
+RELATION,R22_7,THUOC,Thuộc,E39_7,E38_5,,
+RELATION,R22_8,THUOC,Thuộc,E40_1,E39_7,,
+RELATION,R22_9,THUOC,Thuộc,E40_2,E39_7,,
+RELATION,R22_10,THUOC,Thuộc,E39_8,E38_6,,
+RELATION,R22_11,THUOC,Thuộc,E39_9,E38_6,,
+RELATION,R22_12,THUOC,Thuộc,E39_10,E38_6,,
+RELATION,R22_13,THUOC,Thuộc,E39_11,E38_7,,
+RELATION,R22_14,THUOC,Thuộc,E39_12,E38_7,,
+RELATION,R22_15,THUOC,Thuộc,E39_13,E38_8,,
+RELATION,R22_16,THUOC,Thuộc,E39_14,E38_8,,
+RELATION,R22_17,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_18,THUOC,Thuộc,E11_1,E10_1,,

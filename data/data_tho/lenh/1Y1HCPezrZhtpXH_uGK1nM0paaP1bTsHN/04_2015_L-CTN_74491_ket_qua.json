@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "document_id": "74491",
+  "document_code": "04/2015/L-CTN",
+  "file_name": "04_2015_L-CTN_74491.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 04/2015/L-CTN Về việc công bố Luật",
+    "so_hieu": "04/2015/L-CTN",
+    "loai_van_ban": "Lệnh",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "ngày 03 tháng 7 năm 2015",
+    "ngay_co_hieu_luc": "2015-07-03",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH\nNƯỚC",
+    "nguoi_ky": "Trương Tấn Sang",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 04/2015/L-CTN Về việc công bố Luật\nCHỦ TỊCH NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nSố: 04/2015/L-CTN\nHà Nội, ngày 03 tháng 7 năm 2015\nLỆNH\nVề việc công bố Luật\n______\nCHỦ TỊCH\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 88 và Điều 91 của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nCăn cứ Điều 91 của Luật tổ chức Quốc hội;\nCăn cứ Điều 57 của Luật ban hành văn bản quy phạm pháp luật,\nNAY CÔNG BỐ\nLuật nghĩa vụ quân sự\nĐã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 19 tháng 6 năm 2015./.\nCHỦ TỊCH\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTrương Tấn Sang\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 2015-07-03\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 57/2014/QH13\n[Căn cứ ban hành]: Hiến pháp năm 2013\n[Căn cứ ban hành]: Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 42,
+      "text": "Lệnh số 04/2015/L-CTN Về việc công bố Luật",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 21,
+      "text": "04/2015/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 146,
+      "end": 170,
+      "text": "ngày 03 tháng 7 năm 2015",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 719,
+      "end": 733,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 754,
+      "end": 764,
+      "text": "2015-07-03",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 788,
+      "end": 800,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 43,
+      "end": 56,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 590,
+      "end": 603,
+      "text": "CHỦ TỊCH\nNƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 639,
+      "end": 654,
+      "text": "Trương Tấn Sang",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E19_1",
+      "start": 820,
+      "end": 857,
+      "text": "Luật Tổ chức Quốc hội số 57/2014/QH13",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 877,
+      "end": 895,
+      "text": "Hiến pháp năm 2013",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 915,
+      "end": 971,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E2_1",
+      "to_id": "E19_2",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E2_1",
+      "to_id": "E19_3",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

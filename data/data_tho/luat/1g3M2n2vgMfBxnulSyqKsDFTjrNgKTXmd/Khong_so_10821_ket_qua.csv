@@ -1,0 +1,68 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,73,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,65,73,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,4365,4390,ngày 22 tháng 12 năm 1992
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,4493,4507,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,4528,4538,1993-01-02
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,4560,4570,2004-07-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,4594,4614,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,74,82,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,4392,4409,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,4627,4640,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,4787,4805,Hiến pháp năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,4847,4924,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự số 39-LCT/HĐNN8"
+ENTITY,E15_2,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,4966,5001,Bộ luật Tố tụng hình sự số Không số
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,4705,4732,Bộ luật Hình sự số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,4660,4678,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,5179,5308,"Thông tư liên tịch số 01/TTLN Hướng dẫn áp dụng một số quy định của Luật sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,5052,5129,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự số 20/2000/QH10"
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,5668,5707,Bộ luật Tố tụng hình sự số 19/2003/QH11
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,5328,5395,Quyết định số 18/2002/QĐ-TTg Ban hành Quy chế quản lý kho vật chứng
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,5415,5618,"Thông tư liên tịch số 06/1998/TTLT/TANDTC-VKSNDTC-BC Thông tư hướng dẫn một số vấn đề về bảo quản và xử lý tài sản là vật chứng, tài sản bị kê biên trong quá trình điều tra, truy tố, xét xử vụ án hình sự"
+ENTITY,E38_1,DIEU,Điều,structure,562,2607,"Điều 1. Sửa đổi, bổ sung một số điều của Bộ luật tố tụng hình sự như sau:
+1 - Khoản 4 Điều 43 về người làm chứng được sửa đổi, bổ sung như sau:
+""4. Người làm chứng đã được cơ quan điều tra, Viện kiểm sát, Toà án triệu tập, nhưng cố ý không đến mà không có lý do chính đáng, thì có thể bị dẫn giải.
+Người làm chứng từ chối hoặc trốn tránh việc khai báo mà không có lý do chính đáng, thì phải chịu trách nhiệm theo Điều 242 của Bộ luật hình sự; khai gian dối thì phải chịu trách nhiệm theo Điều 241 của Bộ luật hình sự.""
+2- Đoạn 2 khoản 1 Điều 121 về kê biên tài sản được sửa đổi như sau:
+""Những người có thẩm quyền quy định tại khoản 1 Điều 62 của Bộ luật này có quyền ra lệnh kê biên tài sản. Lệnh kê biên của những người được quy định tại điểm d khoản 1 Điều 62 của Bộ luật này phải được thông báo ngay cho Viện kiểm sát cùng cấp trước khi thi hành.""
+3- Điều 215a về việc Toà án cấp phúc thẩm áp dụng, thay đổi hoặc huỷ bỏ biện pháp ngăn chặn, được bổ sung một đoạn vào cuối điều như sau:
+""Đối với bị cáo không bị tạm giam, nhưng bị phạt tù thì Toà án quyết định bắt giam ngay, trừ các trường hợp quy định tại Điều 231 của Bộ luật này.""
+4- Điều 222 về huỷ án sơ thẩm để điều tra lại hoặc xét xử lại được bổ sung khoản 4 như sau:
+""4. Trong trường hợp huỷ án sơ thẩm để điều tra lại hoặc xét xử lại mà thời hạn tạm giam đối với bị cáo đã hết và xét thấy việc tiếp tục tạm giam bị cáo là cần thiết, thì Toà án cấp phúc thẩm ra lệnh tạm giam cho đến khi cơ quan điều tra hoặc Toà án cấp sơ thẩm thụ lý lại vụ án.
+Trong thời hạn mười lăm ngày, kể từ ngày huỷ án sơ thẩm, hồ sơ vụ án phải được chuyển cho cơ quan điều tra hoặc Toà án cấp sơ thẩm để giải quyết theo thủ tục chung.""
+5- Điều 256 về huỷ bản án hoặc quyết định để điều tra lại hoặc xét xử lại được bổ sung một đoạn vào cuối điều như sau:
+""Trong trường hợp huỷ bản án hoặc quyết định bị kháng nghị để điều tra lại hoặc để xét xử lại và xét thấy việc tiếp tục tạm giam bị cáo là cần thiết, thì Hội đồng giám đốc thẩm ra lệnh tạm giam cho đến khi Viện kiểm sát hoặc Toà án thụ lý lại vụ án."""
+ENTITY,E38_2,DIEU,Điều,structure,2608,2676,Điều 2. Bổ sung một số điều mới vào Bộ luật tố tụng hình sự như sau:
+ENTITY,E38_3,DIEU,Điều,structure,4129,4391,"Điều 3. Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, trong phạm vi chức năng của mình hướng dẫn thi hành Luật này.
+Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá IX, kỳ họp thứ 2 thông qua ngày 22 tháng 12 năm 1992."
+ENTITY,E39_1,KHOAN,Khoản,structure,2847,2949,"
+1. Còn thiếu những chứng cứ quan trọng đối với vụ án mà Viện kiểm sát không thể tự mình bổ sung được;"
+ENTITY,E39_2,KHOAN,Khoản,structure,2950,3026,2. Có căn cứ để khởi tố bị can về một tội khác hoặc có người đồng phạm khác;
+ENTITY,E39_3,KHOAN,Khoản,structure,3027,3483,"3. Có vi phạm nghiêm trọng thủ tục tố tụng. Những vấn đề cần được điều tra bổ sung phải được nói rõ trong quyết định yêu cầu điều tra bổ sung.
+2- Điều 143b. Đình chỉ hoặc tạm đình chỉ vụ án.
+1. Viện kiểm sát ra quyết định đình chỉ vụ án khi có một trong những căn cứ quy định tại Điều 89 của Bộ luật này hoặc tại Điều 16, khoản 1 Điều 48 và khoản 3 Điều 59 của Bộ luật hình sự.
+2. Viện kiểm sát quyết định tạm đình chỉ vụ án trong những trường hợp sau đây:"
+ENTITY,E40_1,DIEM,Điểm,structure,3484,3588,a) Khi bị can bị bệnh tâm thần hoặc bệnh hiểm nghèo khác mà có chứng nhận của Hội đồng giám định pháp y;
+ENTITY,E40_2,DIEM,Điểm,structure,3589,4128,"b) Khi bị can bỏ trốn mà không biết rõ bị can đang ở đâu; trong trường hợp này phải yêu cầu cơ quan điều tra truy nã bị can.
+3. Trong trường hợp vụ án có nhiều bị can mà căn cứ để đình chỉ hoặc tạm đình chỉ vụ án không liên quan đến tất cả các bị can, thì có thể đình chỉ hoặc tạm đình chỉ vụ án đối với từng bị can.
+3- Điều 160a. Thành phần Hội đồng xét xử sơ thẩm đồng thời chung thẩm
+Hội đồng xét xử sơ thẩm đồng thời chung thẩm gồm ba thẩm phán và hai hội thẩm nhân dân.
+Thẩm phán chủ toạ phiên toà điều khiển và giữ kỷ luật phiên toà."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R3_2,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_2,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_6,THUOC,Thuộc,E40_1,E39_3,,
+RELATION,R22_7,THUOC,Thuộc,E40_2,E39_3,,

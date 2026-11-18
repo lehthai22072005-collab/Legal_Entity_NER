@@ -1,0 +1,691 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,58,Pháp lệnh số Không số Thủ tục giải quyết các vụ án kinh tế
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,59,68,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,44928,44938,1994-03-16
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,44951,44965,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,44610,44633,ngày 1 tháng 7 năm 1994
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,44987,44997,2005-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,45021,45041,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,45062,45087,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,45101,45109,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,45122,45135,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,45190,45208,Hiến pháp năm 1992
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,45235,45275,Pháp lệnh số Không số Thi hành án dân sự
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,45302,45349,Luật Tổ chức Viện kiểm sát nhân dân số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,45369,45387,Hiến pháp năm 1992
+ENTITY,E23_1,VB_HUONG_DAN_AP_DUNG,Văn bản hướng dẫn áp dụng,reference,45417,45520,Thông tư liên tịch số 04/TT-LN Hướng dẫn áp dụnh Điều 12 Pháp lệnh Thủ tục giải quyết các vụ án kinh tế
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,45542,45638,Nghị định số 69/2001/NĐ-CP Quy định chi tiết thi hành Pháp lệnh Bảo vệ quyền lợi người tiêu dùng
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,45660,45763,Thông tư liên tịch số 04/TT-LN Hướng dẫn áp dụnh Điều 12 Pháp lệnh Thủ tục giải quyết các vụ án kinh tế
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,45783,45850,Quyết định số 18/2002/QĐ-TTg Ban hành Quy chế quản lý kho vật chứng
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,45870,45913,"Nghị định số 70/CP Về án phí, lệ phí toà án"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,45933,45999,Nghị định số 18/2002/NĐ-CP Ban hành Quy chế quản lý kho vật chứng.
+ENTITY,E35_1,CHUONG,Chương,structure,391,399,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,2451,2460,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,5305,5315,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,8147,8156,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,13714,13722,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,14912,14921,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,16498,16508,CHƯƠNG VII
+ENTITY,E35_8,CHUONG,Chương,structure,21482,21493,CHƯƠNG VIII
+ENTITY,E35_9,CHUONG,Chương,structure,23527,23536,CHƯƠNG IX
+ENTITY,E35_10,CHUONG,Chương,structure,30955,30963,CHƯƠNG X
+ENTITY,E35_11,CHUONG,Chương,structure,38273,38282,CHƯƠNG XI
+ENTITY,E35_12,CHUONG,Chương,structure,41990,42000,CHƯƠNG XII
+ENTITY,E35_13,CHUONG,Chương,structure,44031,44042,CHƯƠNG XIII
+ENTITY,E38_1,DIEU,Điều,structure,421,427,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,633,639,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,781,787,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,892,898,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1038,1044,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,1215,1221,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,1350,1356,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,1520,1526,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,1734,1740,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,1852,1859,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,2201,2208,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,2483,2490,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,3018,3025,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,3661,3668,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,3902,3909,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,5008,5015,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,5427,5434,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,6120,6127,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,7218,7225,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,8180,8187,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,8575,8582,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,9747,9754,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,9930,9937,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,10801,10808,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,11783,11790,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,12491,12498,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,12790,12797,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,13280,13287,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,13730,13737,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,13950,13957,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,14946,14953,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,15727,15734,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,16160,16167,Điều 33
+ENTITY,E38_34,DIEU,Điều,structure,16525,16532,Điều 34
+ENTITY,E38_35,DIEU,Điều,structure,17624,17631,Điều 35
+ENTITY,E38_36,DIEU,Điều,structure,18393,18400,Điều 36
+ENTITY,E38_37,DIEU,Điều,structure,18979,18986,Điều 37
+ENTITY,E38_38,DIEU,Điều,structure,19381,19388,Điều 38
+ENTITY,E38_39,DIEU,Điều,structure,20363,20370,Điều 39
+ENTITY,E38_40,DIEU,Điều,structure,21285,21292,Điều 40
+ENTITY,E38_41,DIEU,Điều,structure,21522,21529,Điều 41
+ENTITY,E38_42,DIEU,Điều,structure,22462,22469,Điều 42
+ENTITY,E38_43,DIEU,Điều,structure,22796,22803,Điều 43
+ENTITY,E38_44,DIEU,Điều,structure,23099,23106,Điều 44
+ENTITY,E38_45,DIEU,Điều,structure,23555,23562,Điều 45
+ENTITY,E38_46,DIEU,Điều,structure,23936,23943,Điều 46
+ENTITY,E38_47,DIEU,Điều,structure,25311,25318,Điều 47
+ENTITY,E38_48,DIEU,Điều,structure,25800,25807,Điều 48
+ENTITY,E38_49,DIEU,Điều,structure,26205,26212,Điều 49
+ENTITY,E38_50,DIEU,Điều,structure,26818,26825,Điều 50
+ENTITY,E38_51,DIEU,Điều,structure,27633,27640,Điều 51
+ENTITY,E38_52,DIEU,Điều,structure,27838,27845,Điều 52
+ENTITY,E38_53,DIEU,Điều,structure,28341,28348,Điều 53
+ENTITY,E38_54,DIEU,Điều,structure,28494,28501,Điều 54
+ENTITY,E38_55,DIEU,Điều,structure,29172,29179,Điều 55
+ENTITY,E38_56,DIEU,Điều,structure,29474,29481,Điều 56
+ENTITY,E38_57,DIEU,Điều,structure,30116,30123,Điều 57
+ENTITY,E38_58,DIEU,Điều,structure,30562,30569,Điều 58
+ENTITY,E38_59,DIEU,Điều,structure,30982,30989,Điều 59
+ENTITY,E38_60,DIEU,Điều,structure,31338,31345,Điều 60
+ENTITY,E38_61,DIEU,Điều,structure,31680,31687,Điều 61
+ENTITY,E38_62,DIEU,Điều,structure,32460,32467,Điều 62
+ENTITY,E38_63,DIEU,Điều,structure,32838,32845,Điều 63
+ENTITY,E38_64,DIEU,Điều,structure,33457,33464,Điều 64
+ENTITY,E38_65,DIEU,Điều,structure,33668,33675,Điều 65
+ENTITY,E38_66,DIEU,Điều,structure,34031,34038,Điều 66
+ENTITY,E38_67,DIEU,Điều,structure,34280,34287,Điều 67
+ENTITY,E38_68,DIEU,Điều,structure,34739,34746,Điều 68
+ENTITY,E38_69,DIEU,Điều,structure,35678,35685,Điều 69
+ENTITY,E38_70,DIEU,Điều,structure,35955,35962,Điều 70
+ENTITY,E38_71,DIEU,Điều,structure,36592,36599,Điều 71
+ENTITY,E38_72,DIEU,Điều,structure,36917,36924,Điều 72
+ENTITY,E38_73,DIEU,Điều,structure,37649,37656,Điều 73
+ENTITY,E38_74,DIEU,Điều,structure,38305,38312,Điều 74
+ENTITY,E38_75,DIEU,Điều,structure,38865,38872,Điều 75
+ENTITY,E38_76,DIEU,Điều,structure,39248,39255,Điều 76
+ENTITY,E38_77,DIEU,Điều,structure,39887,39894,Điều 77
+ENTITY,E38_78,DIEU,Điều,structure,40156,40163,Điều 78
+ENTITY,E38_79,DIEU,Điều,structure,40802,40809,Điều 79
+ENTITY,E38_80,DIEU,Điều,structure,41330,41337,Điều 80
+ENTITY,E38_81,DIEU,Điều,structure,42018,42025,Điều 81
+ENTITY,E38_82,DIEU,Điều,structure,42389,42396,Điều 82
+ENTITY,E38_83,DIEU,Điều,structure,43020,43027,Điều 83
+ENTITY,E38_84,DIEU,Điều,structure,43407,43414,Điều 84
+ENTITY,E38_85,DIEU,Điều,structure,43536,43543,Điều 85
+ENTITY,E38_86,DIEU,Điều,structure,43687,43694,Điều 86
+ENTITY,E38_87,DIEU,Điều,structure,44064,44071,Điều 87
+ENTITY,E38_88,DIEU,Điều,structure,44403,44410,Điều 88
+ENTITY,E38_89,DIEU,Điều,structure,44540,44547,Điều 89
+ENTITY,E38_90,DIEU,Điều,structure,44695,44702,Điều 90
+ENTITY,E39_1,KHOAN,Khoản,structure,2610,2727,"1- Các tranh chấp về hợp đồng kinh tế giữa pháp nhân với pháp nhân, giữa pháp nhân với cá nhân có đăng ký kinh doanh;"
+ENTITY,E39_2,KHOAN,Khoản,structure,2728,2890,"2- Các tranh chấp giữa công ty với các thành viên của công ty, giữa các thành viên của công ty với nhau liên quan đến việc thành lập, hoạt động, giải thể công ty;"
+ENTITY,E39_3,KHOAN,Khoản,structure,2891,2957,"3- Các tranh chấp liên quan đến việc mua bán cổ phiếu, trái phiếu;"
+ENTITY,E39_4,KHOAN,Khoản,structure,2958,3017,4- Các tranh chấp kinh tế khác theo quy định của pháp luật.
+ENTITY,E39_5,KHOAN,Khoản,structure,3057,3295,"1- Toà án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (gọi chung là Toà án cấp huyện) giải quyết theo thủ tục sơ thẩm những tranh chấp hợp đồng kinh tế mà giá trị tranh chấp dưới 50 triệu đồng, trừ trường hợp có nhân tố nước ngoài."
+ENTITY,E39_6,KHOAN,Khoản,structure,3296,3660,"2- Toà án nhân dân tỉnh, thành phố trực thuộc trung ương (gọi chung là Toà án cấp tỉnh) giải quyết theo thủ tục sơ thẩm những vụ án kinh tế được quy định tại Điều 12 của Pháp lệnh này, trừ những vụ án thuộc thẩm quyền của Toà án cấp huyện. Trong trường hợp cần thiết Toà án cấp tỉnh có thể lấy lên để giải quyết vụ án kinh tế thuộc thẩm quyền của Toà án cấp huyện."
+ENTITY,E39_7,KHOAN,Khoản,structure,4059,4236,"1- Nếu không biết rõ trụ sở hoặc nơi cư trú của bị đơn, thì nguyên đơn có thể yêu cầu Toà án nơi có tài sản, nơi có trụ sở hoặc nơi cư trú cuối cùng của bị đơn giải quyết vụ án;"
+ENTITY,E39_8,KHOAN,Khoản,structure,4237,4407,"2- Nếu vụ án phát sinh từ hoạt động của chi nhánh doanh nghiệp, thì nguyên đơn có thể yêu cầu Toà án nơi doanh nghiệp có trụ sở hoặc nơi có chi nhánh đó giải quyết vụ án;"
+ENTITY,E39_9,KHOAN,Khoản,structure,4408,4537,"3- Nếu vụ án phát sinh do vi phạm hợp đồng kinh tế, thì nguyên đơn có thể yêu cầu Toà án nơi thực hiện hợp đồng giải quyết vụ án;"
+ENTITY,E39_10,KHOAN,Khoản,structure,4538,4702,"4- Nếu các bị đơn có trụ sở hoặc nơi cư trú khác nhau, thì nguyên đơn có thể yêu cầu Toà án nơi có trụ sở hoặc nơi cư trú của một trong các bị đơn giải quyết vụ án;"
+ENTITY,E39_11,KHOAN,Khoản,structure,4703,4866,"5- Nếu vụ án không chỉ liên quan đến bất động sản, thì nguyên đơn có thể yêu cầu Toà án nơi có bất động sản, nơi có trụ sở hoặc cư trú của bị đơn giải quyết vụ án;"
+ENTITY,E39_12,KHOAN,Khoản,structure,4867,5007,"6- Nếu vụ án liên quan đến bất động sản ở nhiều nơi khác nhau, thì nguyên đơn có thể yêu cầu Toà án ở một trong các nơi đó giải quyết vụ án."
+ENTITY,E39_13,KHOAN,Khoản,structure,5083,5235,1- Toà án đã thụ lý vụ án phải chuyển hồ sơ vụ án cho Toà án có thẩm quyền ngay sau khi phát hiện việc giải quyết vụ án không thuộc thẩm quyền của mình.
+ENTITY,E39_14,KHOAN,Khoản,structure,5236,5304,2- Tranh chấp về thẩm quyền do Toà án cấp trên trực tiếp giải quyết.
+ENTITY,E39_15,KHOAN,Khoản,structure,5452,5513,1- Hội đồng xét xử sơ thẩm gồm hai Thẩm phán và một Hội thẩm.
+ENTITY,E39_16,KHOAN,Khoản,structure,5514,5560,2- Hội đồng xét xử phúc thẩm gồm ba Thẩm phán.
+ENTITY,E39_17,KHOAN,Khoản,structure,5561,5661,"3- Hội đồng xét xử giám đốc thẩm, tái thẩm của Toà kinh tế Toà án nhân dân tối cao gồm ba Thẩm phán."
+ENTITY,E39_18,KHOAN,Khoản,structure,5662,5870,"4- Uỷ ban Thẩm phán và Hội đồng Thẩm phán Toà án nhân dân tối cao, Uỷ ban Thẩm phán Toà án cấp tỉnh khi xét xử theo thủ tục giám đốc thẩm hoặc tái thẩm phải có ít nhất hai phần ba tổng số thành viên tham gia."
+ENTITY,E39_19,KHOAN,Khoản,structure,5871,6119,"5- Hội đồng xét xử nói tại các điểm 1, 2 và 3 Điều này quyết định theo đa số. Quyết định của Uỷ ban Thẩm phán và Hội đồng Thẩm phán Toà án nhân dân tối cao, Uỷ ban Thẩm phán Toà án cấp tỉnh phải được quá nửa tổng số thành viên biểu quyết tán thành."
+ENTITY,E39_20,KHOAN,Khoản,structure,6223,6299,"1- Thẩm phán, Hội thẩm phải từ chối tiến hành tố tụng hoặc bị thay đổi, nếu:"
+ENTITY,E39_21,KHOAN,Khoản,structure,6983,7102,"2- Kiểm sát viên, Thư ký Toà án, người giám định, người phiên dịch phải từ chối tham gia tố tụng hoặc bị thay đổi, nếu:"
+ENTITY,E39_22,KHOAN,Khoản,structure,7344,7666,"1- Trước khi mở phiên toà, việc thay đổi Thẩm phán, Hội thẩm, Thư ký Toà án, người giám định, người phiên dịch do Chánh án Toà án quyết định; việc thay đổi Kiểm sát viên do Viện trưởng Viện kiểm sát quyết định và nếu Kiểm sát viên bị thay đổi là Viện trưởng Viện kiểm sát thì Viện trưởng Viện kiểm sát cấp trên quyết định."
+ENTITY,E39_23,KHOAN,Khoản,structure,7667,7950,"2- Tại phiên toà, việc thay đổi Thẩm phán, Hội thẩm, Thư ký phiên toà, người giám định, người phiên dịch do Hội đồng xét xử quyết định, sau khi nghe ý kiến của người bị yêu cầu thay đổi. Trong trường hợp không có người thay thế ngay, thì Hội đồng xét xử ra quyết định hoãn phiên toà;"
+ENTITY,E39_24,KHOAN,Khoản,structure,8202,8307,"1- Cá nhân, pháp nhân tham gia tố tụng là nguyên đơn, bị đơn hoặc người có quyền lợi, nghĩa vụ liên quan."
+ENTITY,E39_25,KHOAN,Khoản,structure,8308,8451,"2- Đương sự là cá nhân thì tự mình hoặc có thể uỷ quyền cho người khác thực hiện các quyền, nghĩa vụ của mình trong quá trình giải quyết vụ án."
+ENTITY,E39_26,KHOAN,Khoản,structure,8452,8574,"3- Đương sự là pháp nhân thì thực hiện quyền, nghĩa vụ tố tụng thông qua người đại diện theo pháp luật hoặc theo uỷ quyền."
+ENTITY,E39_27,KHOAN,Khoản,structure,8625,8893,"1- Nguyên đơn có quyền thay đổi yêu cầu của mình. Bị đơn có quyền phản bác yêu cầu của nguyên đơn hoặc đề đạt yêu cầu có liên quan đến yêu cầu của nguyên đơn. Người có quyền lợi, nghĩa vụ liên quan có thể có yêu cầu độc lập hoặc tham gia tố tụng với bên đương sự khác."
+ENTITY,E39_28,KHOAN,Khoản,structure,8894,8919,2- Các đương sự có quyền:
+ENTITY,E39_29,KHOAN,Khoản,structure,9370,9398,3- Các đương sự có nghĩa vụ:
+ENTITY,E39_30,KHOAN,Khoản,structure,9792,9871,1- Người được uỷ quyền chỉ được thực hiện những hành vi trong phạm vi uỷ quyền.
+ENTITY,E39_31,KHOAN,Khoản,structure,9872,9929,2- Việc uỷ quyền tham gia tố tụng phải làm thành văn bản.
+ENTITY,E39_32,KHOAN,Khoản,structure,9991,10117,"1- Đương sự tự mình hoặc có thể nhờ luật sư, bào chữa viên nhân dân hoặc người khác bảo vệ quyền và lợi ích hợp pháp cho mình."
+ENTITY,E39_33,KHOAN,Khoản,structure,10118,10280,"2- Một người có thể bảo vệ quyền và lợi ích hợp pháp cho nhiều đương sự trong cùng một vụ án, nếu quyền và lợi ích hợp pháp của những người đó không đối lập nhau."
+ENTITY,E39_34,KHOAN,Khoản,structure,10281,10345,3- Người bảo vệ quyền và lợi ích hợp pháp của đương sự có quyền:
+ENTITY,E39_35,KHOAN,Khoản,structure,10635,10800,4- Người bảo vệ quyền và lợi ích hợp pháp của đương sự có nghĩa vụ sử dụng các quyền tố tụng theo quy định của pháp luật nhằm góp phần làm sáng tỏ sự thật của vụ án.
+ENTITY,E39_36,KHOAN,Khoản,structure,10826,10991,"1- Khi cần thiết, Toà án tự mình hoặc theo yêu cầu của đương sự trưng cầu giám định, Viện Kiểm sát có thể tự mình hoặc theo yêu cầu của đương sự trưng cầu giám định."
+ENTITY,E39_37,KHOAN,Khoản,structure,11067,11356,"2- Người giám định có quyền tìm hiểu tài liệu của vụ án có liên quan đến đối tượng phải giám định, yêu cầu người trưng cầu giám định cung cấp những tài liệu cần thiết cho việc giám định, tham gia vào việc tranh luận và được đặt câu hỏi về những vấn đề có liên quan đến đối tượng giám định."
+ENTITY,E39_38,KHOAN,Khoản,structure,11357,11489,"3- Người yêu cầu trưng cầu giám định hoặc Toà án, Viện kiểm sát tự mình trưng cầu giám định phải nộp tiền tạm ứng chi phí giám định."
+ENTITY,E39_39,KHOAN,Khoản,structure,11808,12056,"1- Người biết các tình tiết có liên quan đến vụ án có thể được Toà án, Viện kiểm sát triệu tập đến làm chứng. Người làm chứng có nghĩa vụ trình bày trung thực tất cả những gì mà mình biết về vụ án và phải chịu trách nhiệm về lời trình bày của mình."
+ENTITY,E39_40,KHOAN,Khoản,structure,12132,12232,2- Người yêu cầu Toà án triệu tập người làm chứng phải nộp tiền tạm ứng chi phí cho người làm chứng.
+ENTITY,E39_41,KHOAN,Khoản,structure,12517,12639,1- Trong trường hợp có người tham gia tố tụng không sử dụng được tiếng Việt thì Toà án có trách nhiệm cử người phiên dịch.
+ENTITY,E39_42,KHOAN,Khoản,structure,12640,12740,2- Người phiên dịch có nghĩa vụ phải có mặt theo giấy triệu tập của Toà án và phiên dịch trung thực.
+ENTITY,E39_43,KHOAN,Khoản,structure,12741,12789,3- Người thua kiện phải chịu chi phí phiên dịch.
+ENTITY,E39_44,KHOAN,Khoản,structure,12833,12956,"1- Nếu đương sự là cá nhân đã chết mà quyền và nghĩa vụ về tài sản của họ được thừa kế, thì người thừa kế tham gia tố tụng."
+ENTITY,E39_45,KHOAN,Khoản,structure,12957,13145,"2- Nếu đương sự là pháp nhân mà pháp nhân sáp nhập, phân chia, giải thể thì cá nhân, pháp nhân kế thừa các quyền và nghĩa vụ của pháp nhân cũ có quyền và nghĩa vụ tố tụng của pháp nhân đó."
+ENTITY,E39_46,KHOAN,Khoản,structure,13146,13279,3- Sự kế thừa quyền và nghĩa vụ tố tụng có thể được Toà án chấp nhận ở bất cứ giai đoạn nào trong quá trình giải quyết vụ án kinh tế.
+ENTITY,E39_47,KHOAN,Khoản,structure,13333,13466,"1- Trong quá trình giải quyết vụ án kinh tế, Viện kiểm sát có quyền tham gia tố tụng từ bất cứ giai đoạn nào, nếu xét thấy cần thiết."
+ENTITY,E39_48,KHOAN,Khoản,structure,13467,13713,"4- Toà án gửi cho Viện kiểm sát cùng cấp các bản sao bản án, quyết định của Toà án ngay sau khi ra các văn bản đó; chuyển cho Viện kiểm sát hồ sơ vụ án để xem xét theo thủ tục phúc thẩm, giám đốc thẩm hoặc tái thẩm theo yêu cầu của Viện kiểm sát."
+ENTITY,E39_49,KHOAN,Khoản,structure,14018,14061,1- Nguyên đơn phải nộp tiền tạm ứng án phí.
+ENTITY,E39_50,KHOAN,Khoản,structure,14062,14237,2- Người kháng cáo theo thủ tục phúc thẩm phải nộp tiền tạm ứng án phí phúc thẩm; Viện kiểm sát kháng nghị theo thủ tục phúc thẩm không phải nộp tiền tạm ứng án phí phúc thẩm.
+ENTITY,E39_51,KHOAN,Khoản,structure,14238,14291,3- Toà án quyết định mức án phí mà các bên phải chịu.
+ENTITY,E39_52,KHOAN,Khoản,structure,14292,14407,"4- Trong trường hợp rút đơn kiện trước khi mở phiên toà, nguyên đơn được trả lại 50% số tiền tạm ứng án phí đã nộp."
+ENTITY,E39_53,KHOAN,Khoản,structure,14631,14802,"5- Nếu việc giải quyết vụ án bị đình chỉ theo quy định tại các điểm a, c, d, đ, khoản 1 Điều 39 của Pháp lệnh này, thì tiền tạm ứng án phí được nộp vào ngân sách Nhà nước."
+ENTITY,E39_54,KHOAN,Khoản,structure,14803,14911,"6- Nếu việc giải quyết vụ án bị tạm đình chỉ, thì án phí được quyết định khi vụ án được tiếp tục giải quyết."
+ENTITY,E39_55,KHOAN,Khoản,structure,14971,15144,"1- Người khởi kiện phải làm đơn yêu cầu Toà án giải quyết vụ án kinh tế trong thời hạn sáu tháng, kể từ ngày phát sinh tranh chấp, trừ trường hợp pháp luật có quy định khác."
+ENTITY,E39_56,KHOAN,Khoản,structure,15145,15186,2- Đơn kiện phải có các nội dung sau đây:
+ENTITY,E39_57,KHOAN,Khoản,structure,15576,15726,3- Đơn kiện phải do nguyên đơn ký hoặc người đại diện của nguyên đơn ký. Kèm theo đơn kiện phải có các tài liệu chứng minh cho yêu cầu của nguyên đơn.
+ENTITY,E39_58,KHOAN,Khoản,structure,15809,15853,1- Người khởi kiện không có quyền khởi kiện;
+ENTITY,E39_59,KHOAN,Khoản,structure,15854,15884,2- Thời hiệu khởi kiện đã hết;
+ENTITY,E39_60,KHOAN,Khoản,structure,15885,16015,3- Sự việc đã được giải quyết bằng bản án hoặc quyết định đã có hiệu lực pháp luật của Toà án hoặc của cơ quan có thẩm quyền khác;
+ENTITY,E39_61,KHOAN,Khoản,structure,16016,16072,4- Sự việc không thuộc thẩm quyền giải quyết của Toà án;
+ENTITY,E39_62,KHOAN,Khoản,structure,16073,16159,5- Sự việc đã được các bên thoả thuận trước là phải giải quyết theo thủ tục trọng tài.
+ENTITY,E39_63,KHOAN,Khoản,structure,16559,16711,"1- Trong thời hạn mười ngày, kể từ ngày thụ lý vụ án, Toà án phải thông báo cho bị đơn và người có quyền lợi, nghĩa vụ liên quan biết nội dung đơn kiện."
+ENTITY,E39_64,KHOAN,Khoản,structure,16936,17082,"2- Trong thời hạn bốn mươi ngày, kể từ ngày thụ lý vụ án, Thẩm phán được phân công làm chủ toạ phiên toà phải ra một trong các quyết định sau đây:"
+ENTITY,E39_65,KHOAN,Khoản,structure,17256,17435,"3- Trong thời hạn mười ngày, kể từ ngày có quyết định đưa vụ án ra xét xử, Toà án phải mở phiên toà; trong trường hợp có lý do chính đáng, thì thời hạn đó không quá hai mươi ngày."
+ENTITY,E39_66,KHOAN,Khoản,structure,18411,18532,"1- Trước khi mở phiên toà, Toà án tiến hành hoà giải để các đương sự có thể thoả thuận với nhau về việc giải quyết vụ án."
+ENTITY,E39_67,KHOAN,Khoản,structure,18533,18620,"2- Nguyên đơn, bị đơn, người có quyền lợi, nghĩa vụ liên quan phải có mặt khi hoà giải."
+ENTITY,E39_68,KHOAN,Khoản,structure,18621,18829,"3- Khi các đương sự thoả thuận được với nhau về việc giải quyết vụ án, thì Toà án lập biên bản hoà giải thành và ra quyết định công nhận sự thoả thuận của các đương sự và quyết định này có hiệu lực pháp luật."
+ENTITY,E39_69,KHOAN,Khoản,structure,19080,19123,"1- Ngày, tháng, năm, địa điểm mở phiên toà;"
+ENTITY,E39_70,KHOAN,Khoản,structure,19124,19173,2- Việc xét xử được tiến hành công khai hoặc kín;
+ENTITY,E39_71,KHOAN,Khoản,structure,19174,19233,"3- Tên của các đương sự, những người tham gia tố tụng khác;"
+ENTITY,E39_72,KHOAN,Khoản,structure,19234,19257,4- Nội dung tranh chấp;
+ENTITY,E39_73,KHOAN,Khoản,structure,19258,19380,"5- Họ và tên của Thẩm phán, Hội thẩm, Thư ký phiên toà; họ và tên của Kiểm sát viên, nếu Viện kiểm sát tham gia phiên toà."
+ENTITY,E39_74,KHOAN,Khoản,structure,19425,19510,1- Toà án quyết định tạm đình chỉ việc giải quyết vụ án trong các trường hợp sau đây:
+ENTITY,E39_75,KHOAN,Khoản,structure,20192,20280,2- Toà án tiếp tục tiến hành giải quyết vụ án khi lý do của việc tạm đình chỉ không còn.
+ENTITY,E39_76,KHOAN,Khoản,structure,20281,20362,"3- Quyết định tạm đình chỉ việc giải quyết vụ án có thể bị kháng cáo, kháng nghị."
+ENTITY,E39_77,KHOAN,Khoản,structure,20403,20484,1- Toà án quyết định đình chỉ việc giải quyết vụ án trong các trường hợp sau đây:
+ENTITY,E39_78,KHOAN,Khoản,structure,21154,21284,"2- Quyết định đình chỉ việc giải quyết vụ án có thể bị kháng cáo, kháng nghị, trừ trường hợp quy định tại điểm b khoản 1 Điều này."
+ENTITY,E39_79,KHOAN,Khoản,structure,21567,21826,"1- Đương sự có quyền làm đơn yêu cầu Toà án ra quyết định áp dụng biện pháp khẩn cấp tạm thời để bảo vệ bằng chứng, bảo đảm việc thi hành án và phải chịu trách nhiệm trước pháp luật về yêu cầu của mình; nếu có lỗi trong việc gây thiệt hại thì phải bồi thường."
+ENTITY,E39_80,KHOAN,Khoản,structure,22253,22461,"2- Yêu cầu áp dụng biện pháp khẩn cấp tạm thời phải được Toà án xem xét trong thời hạn ba ngày, kể từ ngày có yêu cầu. Nếu chấp nhận yêu cầu, thì Toà án ra ngay quyết định áp dụng biện pháp khẩn cấp tạm thời."
+ENTITY,E39_81,KHOAN,Khoản,structure,22543,22599,"1- Kê biên tài sản đang tranh chấp, phong toả tài khoản;"
+ENTITY,E39_82,KHOAN,Khoản,structure,22600,22684,"2- Cấm hoặc buộc đương sự, tổ chức, cá nhân khác thực hiện một số hành vi nhất định;"
+ENTITY,E39_83,KHOAN,Khoản,structure,22685,22750,3- Cho thu hoạch và bảo quản sản vật có liên quan đến tranh chấp;
+ENTITY,E39_84,KHOAN,Khoản,structure,22751,22795,"4- Cho bán sản phẩm, hàng hoá dễ bị hư hỏng."
+ENTITY,E39_85,KHOAN,Khoản,structure,22854,22916,1- Biện pháp khẩn cấp tạm thời có thể bị thay đổi hoặc huỷ bỏ.
+ENTITY,E39_86,KHOAN,Khoản,structure,22917,23098,"2- Việc thay đổi hoặc huỷ bỏ biện pháp khẩn cấp tạm thời trước khi mở phiên toà do Thẩm phán được phân công giải quyết vụ án quyết định, tại phiên toà do Hội đồng xét xử quyết định."
+ENTITY,E39_87,KHOAN,Khoản,structure,23165,23234,1- Quyết định áp dụng biện pháp khẩn cấp tạm thời được thi hành ngay.
+ENTITY,E39_88,KHOAN,Khoản,structure,23235,23396,"2- Các đương sự có quyền khiếu nại, Viện kiểm sát có quyền kiến nghị với Chánh án Toà án đang giải quyết vụ án về quyết định áp dụng biện pháp khẩn cấp tạm thời."
+ENTITY,E39_89,KHOAN,Khoản,structure,23971,24291,"1- Khi bắt đầu phiên toà, chủ toạ phiên toà đọc quyết định đưa vụ án ra xét xử, kiểm tra sự có mặt và căn cước của những người được triệu tập đến phiên toà và giải thích cho họ biết quyền và nghĩa vụ của họ tại phiên toà. Nếu người được triệu tập mà vắng mặt, thì Hội đồng xét xử quyết định hoãn hoặc tiếp tục phiên toà."
+ENTITY,E39_90,KHOAN,Khoản,structure,24292,24698,"2- Chủ toạ phiên toà giới thiệu các thành viên Hội đồng xét xử, Kiểm sát viên, Thư ký phiên toà, người giám định, người phiên dịch và giải thích cho người tham gia tố tụng nói tại các điều 20, 22 và 23 của Pháp lệnh này về quyền yêu cầu thay đổi thành phần Hội đồng xét xử, Kiểm sát viên, Thư ký phiên toà, người giám định, người phiên dịch. Nếu có người yêu cầu, thì Hội đồng xét xử xem xét và quyết định."
+ENTITY,E39_91,KHOAN,Khoản,structure,24699,24846,"3- Chủ toạ phiên toà giải thích cho người giám định, người phiên dịch về quyền và nghĩa vụ của họ. Những người này phải cam đoan làm tròn nghĩa vụ."
+ENTITY,E39_92,KHOAN,Khoản,structure,24847,25087,"4- Người làm chứng phải cam đoan khai đúng sự thật. Nếu thấy người làm chứng có thể bị ảnh hưởng bởi lời khai của người khác, thì chủ toạ phiên toà cho cách ly người làm chứng với những người khác trước khi lấy lời khai của người làm chứng."
+ENTITY,E39_93,KHOAN,Khoản,structure,25088,25310,"5- Chủ toạ phiên toà hỏi đương sự hoặc người đại diện của đương sự, Kiểm sát viên về việc cung cấp thêm chứng cứ hoặc yêu cầu triệu tập thêm người làm chứng. Nếu có người yêu cầu, thì Hội đồng xét xử xem xét và quyết định."
+ENTITY,E39_94,KHOAN,Khoản,structure,25342,25579,"1- Hội đồng xét xử xác định đầy đủ các tình tiết của vụ án bằng cách nghe lời trình bày của nguyên đơn, bị đơn, người có quyền lợi, nghĩa vụ liên quan hoặc người đại diện của đương sự, người làm chứng, người giám định; xem xét vật chứng."
+ENTITY,E39_95,KHOAN,Khoản,structure,25580,25799,"2- Khi xét hỏi, Hội đồng xét xử hỏi trước, sau đó đến Kiểm sát viên, người bảo vệ quyền và lợi ích hợp pháp của đương sự. Những người tham gia tố tụng có quyền đề xuất với Hội đồng xét xử những vấn đề cần được hỏi thêm."
+ENTITY,E39_96,KHOAN,Khoản,structure,26229,26267,1- Hội đồng xét xử hoãn phiên toà khi:
+ENTITY,E39_97,KHOAN,Khoản,structure,26646,26817,"2- Việc xét xử vẫn được tiến hành, nếu đương sự yêu cầu xét xử vắng mặt họ hoặc đương sự không phải là nguyên đơn đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt."
+ENTITY,E39_98,KHOAN,Khoản,structure,26886,27189,"1- Tại phiên toà, nếu người khởi kiện rút đơn kiện, thì Hội đồng xét xử ra quyết định đình chỉ việc giải quyết vụ án. Nếu các đương sự thoả thuận được với nhau về việc giải quyết vụ án, thì Hội đồng xét xử ra quyết định công nhận sự thoả thuận của các đương sự. Các quyết định này có hiệu lực pháp luật."
+ENTITY,E39_99,KHOAN,Khoản,structure,27190,27632,"2- Tại phiên toà, nếu có trường hợp nói tại Điều 38 của Pháp lệnh này, thì Hội đồng xét xử ra quyết định tạm đình chỉ việc giải quyết vụ án hoặc nếu có các trường hợp nói tại các điểm a, c, d, đ, e và g khoản 1 Điều 39 của Pháp lệnh này, thì ra quyết định đình chỉ việc giải quyết vụ án. Các quyết định này có thể bị kháng cáo, kháng nghị. Toà án tiếp tục tiến hành giải quyết vụ án khi lý do của việc tạm đình chỉ giải quyết vụ án không còn."
+ENTITY,E39_100,KHOAN,Khoản,structure,27900,27952,"1- Ngày, tháng, năm và địa điểm tiến hành phiên toà;"
+ENTITY,E39_101,KHOAN,Khoản,structure,27953,28030,"2- Họ và tên của thành viên Hội đồng xét xử, Kiểm sát viên, Thư ký phiên toà;"
+ENTITY,E39_102,KHOAN,Khoản,structure,28031,28083,"3- Tên, địa chỉ của đương sự, người đại diện của họ;"
+ENTITY,E39_103,KHOAN,Khoản,structure,28084,28108,4- Yêu cầu của đương sự;
+ENTITY,E39_104,KHOAN,Khoản,structure,28109,28219,"5- Những tình tiết đã được chứng minh; những chứng cứ, căn cứ pháp luật mà Toà án dựa vào để giải quyết vụ án;"
+ENTITY,E39_105,KHOAN,Khoản,structure,28220,28270,6- Quyết định của Toà án về việc giải quyết vụ án;
+ENTITY,E39_106,KHOAN,Khoản,structure,28271,28307,7- Mức án phí mà đương sự phải chịu;
+ENTITY,E39_107,KHOAN,Khoản,structure,28308,28340,8- Quyền kháng cáo của đương sự.
+ENTITY,E39_108,KHOAN,Khoản,structure,28541,28624,1- Toà án ra các quyết định để giải quyết vấn đề phát sinh trong quá trình tố tụng.
+ENTITY,E39_109,KHOAN,Khoản,structure,28625,28793,2- Việc ra quyết định trước khi mở phiên toà do Thẩm phán được phân công làm chủ toạ phiên toà thực hiện. Việc ra quyết định tại phiên toà do Hội đồng xét xử thực hiện.
+ENTITY,E39_110,KHOAN,Khoản,structure,28794,28825,3- Nội dung của quyết định gồm:
+ENTITY,E39_111,KHOAN,Khoản,structure,29502,29672,1- Mọi diễn biến của phiên toà phải được phản ánh rõ trong biên bản phiên toà. Chủ toạ phiên toà kiểm tra biên bản phiên toà và cùng với Thư ký phiên toà ký vào biên bản.
+ENTITY,E39_112,KHOAN,Khoản,structure,29673,30115,"2- Sau năm ngày, kể từ ngày tuyên án, các đương sự, người đại diện hoặc người bảo vệ quyền và lợi ích hợp pháp của đương sự được xem biên bản phiên toà, có quyền yêu cầu sửa chữa, bổ sung biên bản. Chủ toạ phiên toà, Thư ký phiên toà và người có yêu cầu ký tên xác nhận những điều sửa chữa, bổ sung. Nếu yêu cầu sửa chữa, bổ sung biên bản phiên toà không được chấp nhận thì họ có quyền ghi ý kiến của mình bằng văn bản để đưa vào hồ sơ vụ án."
+ENTITY,E39_113,KHOAN,Khoản,structure,30171,30451,"1- Ngay sau khi phiên toà kết thúc, đương sự được Toà án cấp trích lục bản án hoặc quyết định về vụ án. Chậm nhất là bảy ngày, kể từ ngày tuyên án, ra quyết định, Toà án cấp cho đương sự bản sao bản án hoặc quyết định theo yêu cầu của họ, đồng thời gửi cho Viện kiểm sát cùng cấp."
+ENTITY,E39_114,KHOAN,Khoản,structure,30452,30561,"2- Nếu đương sự vắng mặt tại phiên toà, thì Toà án gửi ngay cho họ trích lục bản án hoặc quyết định về vụ án."
+ENTITY,E39_115,KHOAN,Khoản,structure,31019,31218,"1- Đương sự hoặc người đại diện của đương sự có quyền kháng cáo bản án, quyết định tạm đình chỉ, đình chỉ việc giải quyết vụ án của Toà án cấp sơ thẩm để yêu cầu Toà án trên một cấp xét xử phúc thẩm."
+ENTITY,E39_116,KHOAN,Khoản,structure,31219,31337,"2- Viện trưởng Viện kiểm sát cùng cấp hoặc trên một cấp có quyền kháng nghị bản án, quyết định của Toà án cấp sơ thẩm."
+ENTITY,E39_117,KHOAN,Khoản,structure,31378,31459,1- Người kháng cáo phải làm đơn kháng cáo; Viện kiểm sát kháng nghị bằng văn bản.
+ENTITY,E39_118,KHOAN,Khoản,structure,31460,31503,"2- Trong kháng cáo, kháng nghị phải nêu rõ:"
+ENTITY,E39_119,KHOAN,Khoản,structure,31720,32013,"1- Thời hạn kháng cáo là mười ngày, kể từ ngày Toà án tuyên án hoặc ra quyết định; đối với đương sự vắng mặt tại phiên toà thì thời hạn này tính từ ngày bản sao bản án, quyết định được giao cho họ hoặc được niêm yết tại trụ sở Uỷ ban nhân dân xã, phường, thị trấn nơi họ có trụ sở hoặc cư trú."
+ENTITY,E39_120,KHOAN,Khoản,structure,32014,32311,"2- Thời hạn kháng nghị của Viện kiểm sát cùng cấp là mười ngày, của Viện kiểm sát cấp trên là hai mươi ngày, kể từ ngày Toà án tuyên án hoặc ra quyết định. Nếu Kiểm sát viên không tham gia phiên toà, thì thời hạn kháng nghị tính từ ngày Viện kiểm sát cùng cấp nhận được bản sao bản án, quyết định."
+ENTITY,E39_121,KHOAN,Khoản,structure,32312,32459,"3- Nếu kháng cáo, kháng nghị quá hạn vì trở ngại khách quan, thì thời hạn kháng cáo, kháng nghị là mười ngày, kể từ ngày trở ngại đó không còn nữa."
+ENTITY,E39_122,KHOAN,Khoản,structure,32499,32576,"1- Kháng cáo, kháng nghị được gửi đến Toà án cấp sơ thẩm để giải quyết vụ án."
+ENTITY,E39_123,KHOAN,Khoản,structure,32577,32837,"2- Trong thời hạn mười ngày, kể từ ngày người kháng cáo xuất trình chứng từ về việc nộp tiền tạm ứng án phí phúc thẩm hoặc kể từ ngày nhận được kháng nghị, Toà án cấp sơ thẩm phải gửi kháng cáo, kháng nghị kèm theo toàn bộ hồ sơ vụ án cho Toà án cấp phúc thẩm."
+ENTITY,E39_124,KHOAN,Khoản,structure,34789,35112,"1- Viện kiểm sát cùng cấp phải tham gia phiên toà phúc thẩm trong trường hợp Viện kiểm sát kháng nghị. Đối với các trường hợp khác Viện kiểm sát tham gia phiên toà phúc thẩm, nếu xét thấy cần thiết. Nếu Viện kiểm sát tham gia phiên toà thì hồ sơ vụ án phải được chuyển cho Viện kiểm sát nghiên cứu trong thời hạn mười ngày."
+ENTITY,E39_125,KHOAN,Khoản,structure,35113,35266,"2- Đương sự kháng cáo, người có quyền lợi, nghĩa vụ liên quan đến việc giải quyết kháng cáo, kháng nghị phải được triệu tập tham gia phiên toà phúc thẩm."
+ENTITY,E39_126,KHOAN,Khoản,structure,35267,35416,"3- Toà án chỉ triệu tập người giám định, người làm chứng khi có yêu cầu của đương sự và khi thấy cần thiết cho việc giải quyết kháng cáo, kháng nghị."
+ENTITY,E39_127,KHOAN,Khoản,structure,35417,35677,"4- Nếu Viện kiểm sát phải tham gia phiên toà hoặc có yêu cầu tham gia phiên toà mà không tham gia được, thì Hội đồng xét xử hoãn phiên toà. Nếu những người nói tại các điểm 2 và 3 Điều này vắng mặt mà không có lý do chính đáng, thì Toà án vẫn tiến hành xét xử."
+ENTITY,E39_128,KHOAN,Khoản,structure,36030,36100,"1- Bác kháng cáo, kháng nghị và giữ nguyên bản án, quyết định sơ thẩm;"
+ENTITY,E39_129,KHOAN,Khoản,structure,36178,36446,"3- Huỷ bản án, quyết định sơ thẩm và chuyển hồ sơ vụ án cho Toà án cấp sơ thẩm xét xử lại trong trường hợp có vi phạm nghiêm trọng thủ tục tố tụng hoặc việc xác minh, thu thập chứng cứ của Toà án cấp sơ thẩm không đầy đủ mà Toà án cấp phúc thẩm không thể bổ sung được;"
+ENTITY,E39_130,KHOAN,Khoản,structure,36447,36591,4- Tạm đình chỉ việc giải quyết vụ án theo quy định tại Điều 38 hoặc đình chỉ việc giải quyết vụ án theo quy định tại Điều 39 của Pháp lệnh này.
+ENTITY,E39_131,KHOAN,Khoản,structure,36711,36801,"1- Bản án, quyết định của Toà án cấp sơ thẩm trái pháp luật không phù hợp với hồ sơ vụ án."
+ENTITY,E39_132,KHOAN,Khoản,structure,36802,36916,"2- Có chứng cứ mới cho thấy bản án, quyết định sơ thẩm sai pháp luật, không đúng với sự thật khách quan của vụ án."
+ENTITY,E39_133,KHOAN,Khoản,structure,36955,37310,"1- Sau khi xem xét kháng cáo, kháng nghị, Hội đồng xét xử phúc thẩm ra bản án, quyết định phúc thẩm. Ngoài các nội dung nói tại Điều 52 và Điều 54 của Pháp lệnh này, trừ quy định về quyền kháng cáo của đương sự, trong bản án, quyết định phúc thẩm phải nêu rõ phần quyết định của bản án, quyết định bị kháng cáo, kháng nghị, nội dung kháng cáo, kháng nghị."
+ENTITY,E39_134,KHOAN,Khoản,structure,37394,37448,"2- Bản án, quyết định phúc thẩm có hiệu lực pháp luật."
+ENTITY,E39_135,KHOAN,Khoản,structure,37449,37648,"3- Bản sao bản án, quyết định phúc thẩm phải được gửi cho đương sự và những người có quyền lợi, nghĩa vụ liên quan đến kháng cáo, kháng nghị trong thời hạn năm ngày, kể từ ngày ra bản án, quyết định."
+ENTITY,E39_136,KHOAN,Khoản,structure,37702,37913,"1- Khi phúc thẩm quyết định của Toà án cấp sơ thẩm bị kháng cáo, kháng nghị, Toà án không phải mở phiên toà, không phải triệu tập các đương sự, trừ trường hợp cần phải nghe ý kiến của họ trước khi ra quyết định."
+ENTITY,E39_137,KHOAN,Khoản,structure,37914,38068,"2- Toà án cấp phúc thẩm phải ra quyết định giải quyết việc kháng cáo hoặc kháng nghị trong thời hạn mười ngày, kể từ ngày nhận được kháng cáo, kháng nghị."
+ENTITY,E39_138,KHOAN,Khoản,structure,38069,38272,"3- Khi xem xét quyết định của Toà án cấp sơ thẩm bị kháng cáo, kháng nghị, Toà án cấp phúc thẩm có những quyền hạn được quy định tại Điều 70 của Pháp lệnh này. Quyết định phúc thẩm có hiệu lực pháp luật."
+ENTITY,E39_139,KHOAN,Khoản,structure,38367,38530,"1- Chánh án Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao có quyền kháng nghị bản án, quyết định đã có hiệu lực pháp luật của Toà án các cấp."
+ENTITY,E39_140,KHOAN,Khoản,structure,38531,38714,"2- Phó Chánh án Toà án nhân dân tối cao, Phó Viện trưởng Viện kiểm sát nhân dân tối cao có quyền kháng nghị bản án, quyết định đã có hiệu lực pháp luật của Toà án nhân dân địa phương."
+ENTITY,E39_141,KHOAN,Khoản,structure,38715,38864,"3- Chánh án Toà án cấp tỉnh, Viện trưởng Viện kiểm sát cấp tỉnh có quyền kháng nghị bản án, quyết định đã có hiệu lực pháp luật của Toà án cấp huyện."
+ENTITY,E39_142,KHOAN,Khoản,structure,39054,39097,1- Có vi phạm nghiêm trọng thủ tục tố tụng;
+ENTITY,E39_143,KHOAN,Khoản,structure,39098,39190,"2- Kết luận trong bản án, quyết định không phù hợp với những tình tiết khách quan của vụ án;"
+ENTITY,E39_144,KHOAN,Khoản,structure,39191,39247,3- Có sai lầm nghiêm trọng trong việc áp dụng pháp luật.
+ENTITY,E39_145,KHOAN,Khoản,structure,39297,39564,"1- Trong kháng nghị theo thủ tục giám đốc thẩm phải ghi rõ căn cứ kháng nghị. Kháng nghị phải được gửi cho Toà án đã ra bản án, quyết định bị kháng nghị, Toà án sẽ xét xử giám đốc thẩm, đương sự và những người có quyền lợi, nghĩa vụ liên quan đến nội dung kháng nghị."
+ENTITY,E39_146,KHOAN,Khoản,structure,39680,39766,2- Người kháng nghị có quyền rút kháng nghị trước khi mở phiên toà hoặc tại phiên toà.
+ENTITY,E39_147,KHOAN,Khoản,structure,39767,39886,"3- Người kháng nghị có quyền hoãn hoặc tạm đình chỉ thi hành bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị."
+ENTITY,E39_148,KHOAN,Khoản,structure,39962,40052,"1- Thời hạn kháng nghị là chín tháng, kể từ ngày bản án, quyết định có hiệu lực pháp luật."
+ENTITY,E39_149,KHOAN,Khoản,structure,40053,40155,"2- Trong thời hạn một tháng, kể từ ngày nhận được hồ sơ vụ án, Toà án phải mở phiên toà giám đốc thẩm."
+ENTITY,E39_150,KHOAN,Khoản,structure,40190,40334,"1- Uỷ ban Thẩm phán Toà án cấp tỉnh giám đốc thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật của Toà án cấp huyện bị kháng nghị."
+ENTITY,E39_151,KHOAN,Khoản,structure,40335,40481,"2- Toà kinh tế Toà án nhân dân tối cao giám đốc thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật của Toà án cấp tỉnh bị kháng nghị."
+ENTITY,E39_152,KHOAN,Khoản,structure,40482,40655,"3- Uỷ ban Thẩm phán Toà án nhân dân tối cao giám đốc thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật của các Toà thuộc Toà án nhân dân tối cao bị kháng nghị."
+ENTITY,E39_153,KHOAN,Khoản,structure,40656,40801,4- Hội đồng Thẩm phán Toà án nhân dân tối cao giám đốc thẩm những vụ án mà quyết định của Uỷ ban Thẩm phán Toà án nhân dân tối cao bị kháng nghị.
+ENTITY,E39_154,KHOAN,Khoản,structure,40835,41034,"1- Phiên toà giám đốc thẩm không phải triệu tập đương sự, những người có quyền lợi, nghĩa vụ liên quan đến kháng nghị, trừ trường hợp Toà án xét thấy cần phải nghe ý kiến của họ trước khi quyết định."
+ENTITY,E39_155,KHOAN,Khoản,structure,41035,41329,"2- Tại phiên toà, một thành viên Hội đồng xét xử trình bày nội dung vụ án, nội dung kháng nghị. Nếu Toà án có triệu tập người tham gia tố tụng thì họ trình bày ý kiến của mình trước khi Kiểm sát viên trình bày ý kiến về việc giải quyết vụ án. Hội đồng xét xử thảo luận và ra bản án, quyết định."
+ENTITY,E39_156,KHOAN,Khoản,structure,41423,41499,"1- Bác kháng nghị và giữ nguyên bản án, quyết định đã có hiệu lực pháp luật;"
+ENTITY,E39_157,KHOAN,Khoản,structure,41500,41591,"2- Sửa đổi một phần hoặc toàn bộ bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị;"
+ENTITY,E39_158,KHOAN,Khoản,structure,41592,41859,"3- Huỷ bản án, quyết định đã có hiệu lực pháp luật để xét xử sơ thẩm hoặc phúc thẩm lại trong trường hợp có vi phạm nghiêm trọng thủ tục tố tụng hoặc việc xác minh, thu thập chứng cứ của Toà án cấp dưới không đầy đủ mà Toà án cấp giám đốc thẩm không thể bổ sung được;"
+ENTITY,E39_159,KHOAN,Khoản,structure,41860,41989,"4- Huỷ bản án, quyết định đã có hiệu lực pháp luật và đình chỉ việc giải quyết vụ án theo quy định tại Điều 39 của Pháp lệnh này."
+ENTITY,E39_160,KHOAN,Khoản,structure,42075,42238,"1- Chánh án Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao có quyền kháng nghị bản án, quyết định đã có hiệu lực pháp luật của Toà án các cấp."
+ENTITY,E39_161,KHOAN,Khoản,structure,42239,42388,"2- Chánh án Toà án cấp tỉnh, Viện trưởng Viện kiểm sát cấp tỉnh có quyền kháng nghị bản án, quyết định đã có hiệu lực pháp luật của Toà áp cấp huyện."
+ENTITY,E39_162,KHOAN,Khoản,structure,42568,42677,1- Mới phát hiện được tình tiết quan trọng của vụ án mà đương sự đã không thể biết được khi giải quyết vụ án;
+ENTITY,E39_163,KHOAN,Khoản,structure,42678,42807,"2- Có cơ sở chứng minh kết luận của người giám định, lời dịch của người phiên dịch không đúng sự thật hoặc có giả mạo bằng chứng;"
+ENTITY,E39_164,KHOAN,Khoản,structure,42808,42894,"3- Thẩm phán, Hội thẩm, Kiểm sát viên, Thư ký Toà án cố tình làm sai lệch hồ sơ vụ án;"
+ENTITY,E39_165,KHOAN,Khoản,structure,42895,43019,"4- Bản án, quyết định của Toà án hoặc quyết định của cơ quan Nhà nước mà Toà án dựa vào đó để giải quyết vụ án đã bị huỷ bỏ."
+ENTITY,E39_166,KHOAN,Khoản,structure,43076,43196,"1- Thời hạn kháng nghị theo thủ tục tái thẩm là một năm, kể từ ngày bản án, quyết định của Toà án có hiệu lực pháp luật."
+ENTITY,E39_167,KHOAN,Khoản,structure,43197,43307,2- Bản kháng nghị và hồ sơ vụ án phải được gửi cho Viện kiểm sát cùng cấp nghiên cứu trong thời hạn mười ngày.
+ENTITY,E39_168,KHOAN,Khoản,structure,43308,43406,"3- Bản sao bản kháng nghị phải được gửi cho người có quyền lợi, nghĩa vụ liên quan đến kháng nghị."
+ENTITY,E39_169,KHOAN,Khoản,structure,43770,43828,"1- Giữ nguyên bản án, quyết định đã có hiệu lực pháp luật;"
+ENTITY,E39_170,KHOAN,Khoản,structure,43829,43902,"2- Huỷ bản án, quyết định đã có hiệu lực pháp luật để xét xử sơ thẩm lại;"
+ENTITY,E39_171,KHOAN,Khoản,structure,43903,44030,"3- Huỷ bản án, quyết định đã có hiệu lực pháp luật, đình chỉ việc giải quyết vụ án theo quy định tại Điều 39 của Pháp lệnh này."
+ENTITY,E40_1,DIEM,Điểm,structure,6300,6442,"a) Đồng thời là đương sự, người đại diện hoặc người bảo vệ quyền lợi của đương sự, người thân thích của đương sự, người làm chứng trong vụ án;"
+ENTITY,E40_2,DIEM,Điểm,structure,6443,6552,"b) Đã tham gia cùng một vụ án với tư cách là Kiểm sát viên, Thư ký Toà án, người giám định, người phiên dịch;"
+ENTITY,E40_3,DIEM,Điểm,structure,6553,6838,"c) Đã tham gia giải quyết cùng một vụ án với tư cách là Thẩm phán, Hội thẩm, trừ các thành viên của Uỷ ban Thẩm phán và Hội đồng Thẩm phán Toà án nhân dân tối cao, Uỷ ban Thẩm phán Toà án cấp tỉnh, thì được tham gia xét xử nhiều lần cùng một vụ án theo thủ tục giám đốc thẩm, tái thẩm;"
+ENTITY,E40_4,DIEM,Điểm,structure,6839,6920,"d) Trong một Hội đồng xét xử mà Thẩm phán, Hội thẩm là người thân thích với nhau;"
+ENTITY,E40_5,DIEM,Điểm,structure,6921,6982,đ) Có căn cứ cho thấy họ có thể không vô tư khi làm nhiệm vụ.
+ENTITY,E40_6,DIEM,Điểm,structure,7103,7159,a) Đã tham gia tố tụng cùng một vụ án ở cấp xét xử khác;
+ENTITY,E40_7,DIEM,Điểm,structure,7160,7217,"b) Có căn cứ quy định tại các điểm a, đ khoản 1 Điều này."
+ENTITY,E40_8,DIEM,Điểm,structure,8920,8990,"a) Đưa ra chứng cứ, được biết về các chứng cứ mà đương sự khác đưa ra;"
+ENTITY,E40_9,DIEM,Điểm,structure,8991,9045,b) Yêu cầu Toà án áp dụng biện pháp khẩn cấp tạm thời;
+ENTITY,E40_10,DIEM,Điểm,structure,9046,9068,c) Tham gia phiên toà;
+ENTITY,E40_11,DIEM,Điểm,structure,9069,9174,"d) Yêu cầu thay đổi Thẩm phán, Hội thẩm, Kiểm sát viên, Thư ký Toà án, người giám định, người phiên dịch;"
+ENTITY,E40_12,DIEM,Điểm,structure,9175,9196,đ) Hoà giải với nhau;
+ENTITY,E40_13,DIEM,Điểm,structure,9197,9225,e) Tranh luận tại phiên toà;
+ENTITY,E40_14,DIEM,Điểm,structure,9226,9269,"g) Kháng cáo bản án, quyết định của Toà án;"
+ENTITY,E40_15,DIEM,Điểm,structure,9270,9369,"h) Yêu cầu người có thẩm quyền kháng nghị bản án, quyết định theo trình tự giám đốc thẩm, tái thẩm."
+ENTITY,E40_16,DIEM,Điểm,structure,9399,9484,"a) Cung cấp đầy đủ, kịp thời những chứng cứ cần thiết liên quan đến yêu cầu của mình;"
+ENTITY,E40_17,DIEM,Điểm,structure,9485,9701,"b) Phải có mặt theo giấy triệu tập của Toà án. Bị đơn đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt không có lý do chính đáng, thì có thể bị Toà án phạt tiền từ năm mươi nghìn đồng đến một trăm nghìn đồng;"
+ENTITY,E40_18,DIEM,Điểm,structure,9702,9746,c) Chấp hành nghiêm chỉnh nội quy phiên toà.
+ENTITY,E40_19,DIEM,Điểm,structure,10346,10383,a) Tham gia tố tụng từ khi khởi kiện;
+ENTITY,E40_20,DIEM,Điểm,structure,10384,10536,"b) Đề nghị thay đổi Thẩm phán, Hội thẩm, Kiểm sát viên, Thư ký Toà án, người giám định, người phiên dịch theo quy định tại Chương III của Pháp lệnh này;"
+ENTITY,E40_21,DIEM,Điểm,structure,10537,10634,"c) Cung cấp chứng cứ, đề đạt yêu cầu, đọc hồ sơ vụ án, ghi chép những điểm cần thiết trong hồ sơ."
+ENTITY,E40_22,DIEM,Điểm,structure,15187,15216,"a) Ngày, tháng, năm viết đơn;"
+ENTITY,E40_23,DIEM,Điểm,structure,15217,15257,b) Toà án được yêu cầu giải quyết vụ án;
+ENTITY,E40_24,DIEM,Điểm,structure,15258,15288,"c) Tên của nguyên đơn, bị đơn;"
+ENTITY,E40_25,DIEM,Điểm,structure,15289,15433,"d) Địa chỉ của nguyên đơn, bị đơn; trong trường hợp không rõ địa chỉ của bị đơn, thì ghi địa chỉ nơi có trụ sở hoặc cư trú cuối cùng của bị đơn;"
+ENTITY,E40_26,DIEM,Điểm,structure,15434,15485,"đ) Tóm tắt nội dung tranh chấp, giá trị tranh chấp;"
+ENTITY,E40_27,DIEM,Điểm,structure,15486,15524,e) Quá trình thương lượng của các bên;
+ENTITY,E40_28,DIEM,Điểm,structure,15525,15575,"g) Các yêu cầu đề nghị Toà án xem xét, giải quyết."
+ENTITY,E40_29,DIEM,Điểm,structure,17083,17106,a) Đưa vụ án ra xét xử;
+ENTITY,E40_30,DIEM,Điểm,structure,17107,17145,b) Tạm đình chỉ việc giải quyết vụ án;
+ENTITY,E40_31,DIEM,Điểm,structure,17146,17180,c) Đình chỉ việc giải quyết vụ án.
+ENTITY,E40_32,DIEM,Điểm,structure,17993,18081,"a) Yêu cầu đương sự cung cấp, bổ sung chứng cứ hoặc trình bày về những vấn đề cần thiết;"
+ENTITY,E40_33,DIEM,Điểm,structure,18082,18194,"b) Yêu cầu cơ quan Nhà nước, tổ chức hữu quan, cá nhân cung cấp bằng chứng có ý nghĩa cho việc giải quyết vụ án;"
+ENTITY,E40_34,DIEM,Điểm,structure,18195,18258,c) Yêu cầu người làm chứng trình bày về những vấn đề cần thiết;
+ENTITY,E40_35,DIEM,Điểm,structure,18259,18279,d) Xác minh tại chỗ;
+ENTITY,E40_36,DIEM,Điểm,structure,18280,18303,đ) Trưng cầu giám định;
+ENTITY,E40_37,DIEM,Điểm,structure,18304,18392,e) Yêu cầu cơ quan chuyên môn định giá hoặc lập hội đồng định giá tài sản có tranh chấp.
+ENTITY,E40_38,DIEM,Điểm,structure,19511,19642,"a) Nguyên đơn hoặc bị đơn là cá nhân đã chết, pháp nhân đã giải thể màchưa có cá nhân, pháp nhân kế thừa quyền và nghĩa vụ tố tụng;"
+ENTITY,E40_39,DIEM,Điểm,structure,19643,19741,b) Đã hết thời hạn chuẩn bị xét xử mà một trong các đương sự không thể có mặt vì lý do chính đáng;
+ENTITY,E40_40,DIEM,Điểm,structure,19742,19798,c) Chưa tìm được địa chỉ của bị đơn hoặc bị đơn bỏ trốn;
+ENTITY,E40_41,DIEM,Điểm,structure,19799,19879,"d) Cần đợi kết quả giải quyết vụ án hình sự, vụ án dân sự và vụ án kinh tế khác;"
+ENTITY,E40_42,DIEM,Điểm,structure,19880,19987,"đ) Đã có Toà án thụ lý đơn yêu cầu tuyên bố phá sản doanh nghiệp, mà doanh nghiệp đó là đương sự của vụ án;"
+ENTITY,E40_43,DIEM,Điểm,structure,19988,20191,"e) Trong khi đang giải quyết vụ án có liên quan đến doanh nghiệp mà phát hiện doanh nghiệp đó lâm vào tình trạng phá sản; trong trường hợp này Toà án thông báo cho các chủ nợ, doanh nghiệp hữu quan biết."
+ENTITY,E40_44,DIEM,Điểm,structure,20485,20661,"a) Nguyên đơn hoặc bị đơn là cá nhân đã chết mà quyền, nghĩa vụ của họ không được thừa kế, pháp nhân đã giải thể mà không có cá nhân, pháp nhân kế thừa quyền, nghĩa vụ tố tụng;"
+ENTITY,E40_45,DIEM,Điểm,structure,20662,20694,b) Người khởi kiện rút đơn kiện;
+ENTITY,E40_46,DIEM,Điểm,structure,20695,20766,c) Nguyên đơn đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt;
+ENTITY,E40_47,DIEM,Điểm,structure,20767,20901,d) Sự việc đã được giải quyết bằng một bản án hoặc quyết định đã có hiệu lực pháp luật của Toà án hoặc của cơ quan có thẩm quyền khác;
+ENTITY,E40_48,DIEM,Điểm,structure,20902,20962,đ) Thời hạn khởi kiện đã hết trước ngày Toà án thụ lý vụ án;
+ENTITY,E40_49,DIEM,Điểm,structure,20963,21019,e) Sự việc không thuộc thẩm quyền giải quyết của Toà án;
+ENTITY,E40_50,DIEM,Điểm,structure,21020,21153,"g) Đã có quyết định của Toà án mở thủ tục giải quyết yêu cầu tuyên bố phá sản doanh nghiệp, mà doanh nghiệp đó là đương sự của vụ án."
+ENTITY,E40_51,DIEM,Điểm,structure,26268,26407,"a) Đương sự vắng mặt lần thứ nhất có lý do chính đáng, Kiểm sát viên vắng mặt trong trường hợp Viện kiểm sát có yêu cầu tham gia phiên toà;"
+ENTITY,E40_52,DIEM,Điểm,structure,26408,26502,b) Người làm chứng vắng mặt mà cần được lấy lời khai hoặc xác minh lại lời khai tại phiên toà;
+ENTITY,E40_53,DIEM,Điểm,structure,26503,26645,"c) Thành viên Hội đồng xét xử, Kiểm sát viên, Thư ký phiên toà, người giám định, người phiên dịch bị thay đổi mà không có ngay người thay thế."
+ENTITY,E40_54,DIEM,Điểm,structure,28826,28947,"a) Toà án xét xử vụ án; ngày, tháng, năm ra quyết định; tên, địa chỉ của các đương sự, những người tham gia tố tụng khác;"
+ENTITY,E40_55,DIEM,Điểm,structure,28948,28972,b) Yêu cầu của đương sự;
+ENTITY,E40_56,DIEM,Điểm,structure,28973,29016,c) Căn cứ pháp luật của việc ra quyết định;
+ENTITY,E40_57,DIEM,Điểm,structure,29017,29057,d) Kết luận về vấn đề cần ra quyết định;
+ENTITY,E40_58,DIEM,Điểm,structure,29058,29138,"đ) Xác định các hành vi pháp lý mà cá nhân, tổ chức có liên quan phải thực hiện;"
+ENTITY,E40_59,DIEM,Điểm,structure,29139,29171,e) Quyền kháng cáo của đương sự.
+ENTITY,E40_60,DIEM,Điểm,structure,31504,31603,"a) Nội dung phần quyết định của bản án, quyết định của Toà án cấp sơ thẩm bị kháng cáo, kháng nghị;"
+ENTITY,E40_61,DIEM,Điểm,structure,31604,31635,"b) Lý do kháng cáo, kháng nghị;"
+ENTITY,E40_62,DIEM,Điểm,structure,31636,31679,"c) Yêu cầu của người kháng cáo, kháng nghị."
+RELATION,RAP_DUNG_1,AP_DUNG,áp dụng,E30_1,E2_1,,
+RELATION,RAP_DUNG_2,AP_DUNG,áp dụng,E30_2,E2_1,,
+RELATION,RAP_DUNG_3,AP_DUNG,áp dụng,E30_3,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RDAN_CHIEU_1,DAN_CHIEU,dẫn chiếu,E29_1,E2_1,,
+RELATION,RDAN_CHIEU_2,DAN_CHIEU,dẫn chiếu,E29_2,E2_1,,
+RELATION,RDUOC_DAN_CHIEU_1,DUOC_DAN_CHIEU,được dẫn chiếu,E18_1,E2_1,,
+RELATION,RDUOC_DAN_CHIEU_2,DUOC_DAN_CHIEU,được dẫn chiếu,E18_2,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,RHUONG_DAN_AP_DUNG_1,HUONG_DAN_AP_DUNG,hướng dẫn áp dụng,E23_1,E2_1,,
+RELATION,RTHUOC_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,RTHUOC_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,RTHUOC_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,RTHUOC_4,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,RTHUOC_5,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,RTHUOC_6,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,RTHUOC_7,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,RTHUOC_8,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,RTHUOC_9,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,RTHUOC_10,THUOC,Thuộc,E38_10,E35_1,,
+RELATION,RTHUOC_11,THUOC,Thuộc,E38_11,E35_1,,
+RELATION,RTHUOC_12,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,RTHUOC_13,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,RTHUOC_14,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,RTHUOC_15,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,RTHUOC_16,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,RTHUOC_17,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,RTHUOC_18,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,RTHUOC_19,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,RTHUOC_20,THUOC,Thuộc,E38_20,E35_4,,
+RELATION,RTHUOC_21,THUOC,Thuộc,E38_21,E35_4,,
+RELATION,RTHUOC_22,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,RTHUOC_23,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,RTHUOC_24,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,RTHUOC_25,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,RTHUOC_26,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,RTHUOC_27,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,RTHUOC_28,THUOC,Thuộc,E38_28,E35_4,,
+RELATION,RTHUOC_29,THUOC,Thuộc,E38_29,E35_5,,
+RELATION,RTHUOC_30,THUOC,Thuộc,E38_30,E35_5,,
+RELATION,RTHUOC_31,THUOC,Thuộc,E38_31,E35_6,,
+RELATION,RTHUOC_32,THUOC,Thuộc,E38_32,E35_6,,
+RELATION,RTHUOC_33,THUOC,Thuộc,E38_33,E35_6,,
+RELATION,RTHUOC_34,THUOC,Thuộc,E38_34,E35_7,,
+RELATION,RTHUOC_35,THUOC,Thuộc,E38_35,E35_7,,
+RELATION,RTHUOC_36,THUOC,Thuộc,E38_36,E35_7,,
+RELATION,RTHUOC_37,THUOC,Thuộc,E38_37,E35_7,,
+RELATION,RTHUOC_38,THUOC,Thuộc,E38_38,E35_7,,
+RELATION,RTHUOC_39,THUOC,Thuộc,E38_39,E35_7,,
+RELATION,RTHUOC_40,THUOC,Thuộc,E38_40,E35_7,,
+RELATION,RTHUOC_41,THUOC,Thuộc,E38_41,E35_8,,
+RELATION,RTHUOC_42,THUOC,Thuộc,E38_42,E35_8,,
+RELATION,RTHUOC_43,THUOC,Thuộc,E38_43,E35_8,,
+RELATION,RTHUOC_44,THUOC,Thuộc,E38_44,E35_8,,
+RELATION,RTHUOC_45,THUOC,Thuộc,E38_45,E35_9,,
+RELATION,RTHUOC_46,THUOC,Thuộc,E38_46,E35_9,,
+RELATION,RTHUOC_47,THUOC,Thuộc,E38_47,E35_9,,
+RELATION,RTHUOC_48,THUOC,Thuộc,E38_48,E35_9,,
+RELATION,RTHUOC_49,THUOC,Thuộc,E38_49,E35_9,,
+RELATION,RTHUOC_50,THUOC,Thuộc,E38_50,E35_9,,
+RELATION,RTHUOC_51,THUOC,Thuộc,E38_51,E35_9,,
+RELATION,RTHUOC_52,THUOC,Thuộc,E38_52,E35_9,,
+RELATION,RTHUOC_53,THUOC,Thuộc,E38_53,E35_9,,
+RELATION,RTHUOC_54,THUOC,Thuộc,E38_54,E35_9,,
+RELATION,RTHUOC_55,THUOC,Thuộc,E38_55,E35_9,,
+RELATION,RTHUOC_56,THUOC,Thuộc,E38_56,E35_9,,
+RELATION,RTHUOC_57,THUOC,Thuộc,E38_57,E35_9,,
+RELATION,RTHUOC_58,THUOC,Thuộc,E38_58,E35_9,,
+RELATION,RTHUOC_59,THUOC,Thuộc,E38_59,E35_10,,
+RELATION,RTHUOC_60,THUOC,Thuộc,E38_60,E35_10,,
+RELATION,RTHUOC_61,THUOC,Thuộc,E38_61,E35_10,,
+RELATION,RTHUOC_62,THUOC,Thuộc,E38_62,E35_10,,
+RELATION,RTHUOC_63,THUOC,Thuộc,E38_63,E35_10,,
+RELATION,RTHUOC_64,THUOC,Thuộc,E38_64,E35_10,,
+RELATION,RTHUOC_65,THUOC,Thuộc,E38_65,E35_10,,
+RELATION,RTHUOC_66,THUOC,Thuộc,E38_66,E35_10,,
+RELATION,RTHUOC_67,THUOC,Thuộc,E38_67,E35_10,,
+RELATION,RTHUOC_68,THUOC,Thuộc,E38_68,E35_10,,
+RELATION,RTHUOC_69,THUOC,Thuộc,E38_69,E35_10,,
+RELATION,RTHUOC_70,THUOC,Thuộc,E38_70,E35_10,,
+RELATION,RTHUOC_71,THUOC,Thuộc,E38_71,E35_10,,
+RELATION,RTHUOC_72,THUOC,Thuộc,E38_72,E35_10,,
+RELATION,RTHUOC_73,THUOC,Thuộc,E38_73,E35_10,,
+RELATION,RTHUOC_74,THUOC,Thuộc,E38_74,E35_11,,
+RELATION,RTHUOC_75,THUOC,Thuộc,E38_75,E35_11,,
+RELATION,RTHUOC_76,THUOC,Thuộc,E38_76,E35_11,,
+RELATION,RTHUOC_77,THUOC,Thuộc,E38_77,E35_11,,
+RELATION,RTHUOC_78,THUOC,Thuộc,E38_78,E35_11,,
+RELATION,RTHUOC_79,THUOC,Thuộc,E38_79,E35_11,,
+RELATION,RTHUOC_80,THUOC,Thuộc,E38_80,E35_11,,
+RELATION,RTHUOC_81,THUOC,Thuộc,E38_81,E35_12,,
+RELATION,RTHUOC_82,THUOC,Thuộc,E38_82,E35_12,,
+RELATION,RTHUOC_83,THUOC,Thuộc,E38_83,E35_12,,
+RELATION,RTHUOC_84,THUOC,Thuộc,E38_84,E35_12,,
+RELATION,RTHUOC_85,THUOC,Thuộc,E38_85,E35_12,,
+RELATION,RTHUOC_86,THUOC,Thuộc,E38_86,E35_12,,
+RELATION,RTHUOC_87,THUOC,Thuộc,E38_87,E35_13,,
+RELATION,RTHUOC_88,THUOC,Thuộc,E38_88,E35_13,,
+RELATION,RTHUOC_89,THUOC,Thuộc,E38_89,E35_13,,
+RELATION,RTHUOC_90,THUOC,Thuộc,E38_90,E35_13,,
+RELATION,RTHUOC_91,THUOC,Thuộc,E39_1,E38_12,,
+RELATION,RTHUOC_92,THUOC,Thuộc,E39_2,E38_12,,
+RELATION,RTHUOC_93,THUOC,Thuộc,E39_3,E38_12,,
+RELATION,RTHUOC_94,THUOC,Thuộc,E39_4,E38_12,,
+RELATION,RTHUOC_95,THUOC,Thuộc,E39_5,E38_13,,
+RELATION,RTHUOC_96,THUOC,Thuộc,E39_6,E38_13,,
+RELATION,RTHUOC_97,THUOC,Thuộc,E39_7,E38_15,,
+RELATION,RTHUOC_98,THUOC,Thuộc,E39_8,E38_15,,
+RELATION,RTHUOC_99,THUOC,Thuộc,E39_9,E38_15,,
+RELATION,RTHUOC_100,THUOC,Thuộc,E39_10,E38_15,,
+RELATION,RTHUOC_101,THUOC,Thuộc,E39_11,E38_15,,
+RELATION,RTHUOC_102,THUOC,Thuộc,E39_12,E38_15,,
+RELATION,RTHUOC_103,THUOC,Thuộc,E39_13,E38_16,,
+RELATION,RTHUOC_104,THUOC,Thuộc,E39_14,E38_16,,
+RELATION,RTHUOC_105,THUOC,Thuộc,E39_15,E38_17,,
+RELATION,RTHUOC_106,THUOC,Thuộc,E39_16,E38_17,,
+RELATION,RTHUOC_107,THUOC,Thuộc,E39_17,E38_17,,
+RELATION,RTHUOC_108,THUOC,Thuộc,E39_18,E38_17,,
+RELATION,RTHUOC_109,THUOC,Thuộc,E39_19,E38_17,,
+RELATION,RTHUOC_110,THUOC,Thuộc,E39_20,E38_18,,
+RELATION,RTHUOC_111,THUOC,Thuộc,E40_1,E38_18,,
+RELATION,RTHUOC_112,THUOC,Thuộc,E40_2,E38_18,,
+RELATION,RTHUOC_113,THUOC,Thuộc,E40_3,E38_18,,
+RELATION,RTHUOC_114,THUOC,Thuộc,E40_4,E38_18,,
+RELATION,RTHUOC_115,THUOC,Thuộc,E40_5,E38_18,,
+RELATION,RTHUOC_116,THUOC,Thuộc,E39_21,E38_18,,
+RELATION,RTHUOC_117,THUOC,Thuộc,E40_6,E38_18,,
+RELATION,RTHUOC_118,THUOC,Thuộc,E40_7,E38_18,,
+RELATION,RTHUOC_119,THUOC,Thuộc,E39_22,E38_19,,
+RELATION,RTHUOC_120,THUOC,Thuộc,E39_23,E38_19,,
+RELATION,RTHUOC_121,THUOC,Thuộc,E39_24,E38_20,,
+RELATION,RTHUOC_122,THUOC,Thuộc,E39_25,E38_20,,
+RELATION,RTHUOC_123,THUOC,Thuộc,E39_26,E38_20,,
+RELATION,RTHUOC_124,THUOC,Thuộc,E39_27,E38_21,,
+RELATION,RTHUOC_125,THUOC,Thuộc,E39_28,E38_21,,
+RELATION,RTHUOC_126,THUOC,Thuộc,E40_8,E38_21,,
+RELATION,RTHUOC_127,THUOC,Thuộc,E40_9,E38_21,,
+RELATION,RTHUOC_128,THUOC,Thuộc,E40_10,E38_21,,
+RELATION,RTHUOC_129,THUOC,Thuộc,E40_11,E38_21,,
+RELATION,RTHUOC_130,THUOC,Thuộc,E40_12,E38_21,,
+RELATION,RTHUOC_131,THUOC,Thuộc,E40_13,E38_21,,
+RELATION,RTHUOC_132,THUOC,Thuộc,E40_14,E38_21,,
+RELATION,RTHUOC_133,THUOC,Thuộc,E40_15,E38_21,,
+RELATION,RTHUOC_134,THUOC,Thuộc,E39_29,E38_21,,
+RELATION,RTHUOC_135,THUOC,Thuộc,E40_16,E38_21,,
+RELATION,RTHUOC_136,THUOC,Thuộc,E40_17,E38_21,,
+RELATION,RTHUOC_137,THUOC,Thuộc,E40_18,E38_21,,
+RELATION,RTHUOC_138,THUOC,Thuộc,E39_30,E38_22,,
+RELATION,RTHUOC_139,THUOC,Thuộc,E39_31,E38_22,,
+RELATION,RTHUOC_140,THUOC,Thuộc,E39_32,E38_23,,
+RELATION,RTHUOC_141,THUOC,Thuộc,E39_33,E38_23,,
+RELATION,RTHUOC_142,THUOC,Thuộc,E39_34,E38_23,,
+RELATION,RTHUOC_143,THUOC,Thuộc,E40_19,E38_23,,
+RELATION,RTHUOC_144,THUOC,Thuộc,E40_20,E38_23,,
+RELATION,RTHUOC_145,THUOC,Thuộc,E40_21,E38_23,,
+RELATION,RTHUOC_146,THUOC,Thuộc,E39_35,E38_23,,
+RELATION,RTHUOC_147,THUOC,Thuộc,E39_36,E38_24,,
+RELATION,RTHUOC_148,THUOC,Thuộc,E39_37,E38_24,,
+RELATION,RTHUOC_149,THUOC,Thuộc,E39_38,E38_24,,
+RELATION,RTHUOC_150,THUOC,Thuộc,E39_39,E38_25,,
+RELATION,RTHUOC_151,THUOC,Thuộc,E39_40,E38_25,,
+RELATION,RTHUOC_152,THUOC,Thuộc,E39_41,E38_26,,
+RELATION,RTHUOC_153,THUOC,Thuộc,E39_42,E38_26,,
+RELATION,RTHUOC_154,THUOC,Thuộc,E39_43,E38_26,,
+RELATION,RTHUOC_155,THUOC,Thuộc,E39_44,E38_27,,
+RELATION,RTHUOC_156,THUOC,Thuộc,E39_45,E38_27,,
+RELATION,RTHUOC_157,THUOC,Thuộc,E39_46,E38_27,,
+RELATION,RTHUOC_158,THUOC,Thuộc,E39_47,E38_28,,
+RELATION,RTHUOC_159,THUOC,Thuộc,E39_48,E38_28,,
+RELATION,RTHUOC_160,THUOC,Thuộc,E39_49,E38_30,,
+RELATION,RTHUOC_161,THUOC,Thuộc,E39_50,E38_30,,
+RELATION,RTHUOC_162,THUOC,Thuộc,E39_51,E38_30,,
+RELATION,RTHUOC_163,THUOC,Thuộc,E39_52,E38_30,,
+RELATION,RTHUOC_164,THUOC,Thuộc,E39_53,E38_30,,
+RELATION,RTHUOC_165,THUOC,Thuộc,E39_54,E38_30,,
+RELATION,RTHUOC_166,THUOC,Thuộc,E39_55,E38_31,,
+RELATION,RTHUOC_167,THUOC,Thuộc,E39_56,E38_31,,
+RELATION,RTHUOC_168,THUOC,Thuộc,E40_22,E38_31,,
+RELATION,RTHUOC_169,THUOC,Thuộc,E40_23,E38_31,,
+RELATION,RTHUOC_170,THUOC,Thuộc,E40_24,E38_31,,
+RELATION,RTHUOC_171,THUOC,Thuộc,E40_25,E38_31,,
+RELATION,RTHUOC_172,THUOC,Thuộc,E40_26,E38_31,,
+RELATION,RTHUOC_173,THUOC,Thuộc,E40_27,E38_31,,
+RELATION,RTHUOC_174,THUOC,Thuộc,E40_28,E38_31,,
+RELATION,RTHUOC_175,THUOC,Thuộc,E39_57,E38_31,,
+RELATION,RTHUOC_176,THUOC,Thuộc,E39_58,E38_32,,
+RELATION,RTHUOC_177,THUOC,Thuộc,E39_59,E38_32,,
+RELATION,RTHUOC_178,THUOC,Thuộc,E39_60,E38_32,,
+RELATION,RTHUOC_179,THUOC,Thuộc,E39_61,E38_32,,
+RELATION,RTHUOC_180,THUOC,Thuộc,E39_62,E38_32,,
+RELATION,RTHUOC_181,THUOC,Thuộc,E39_63,E38_34,,
+RELATION,RTHUOC_182,THUOC,Thuộc,E39_64,E38_34,,
+RELATION,RTHUOC_183,THUOC,Thuộc,E40_29,E38_34,,
+RELATION,RTHUOC_184,THUOC,Thuộc,E40_30,E38_34,,
+RELATION,RTHUOC_185,THUOC,Thuộc,E40_31,E38_34,,
+RELATION,RTHUOC_186,THUOC,Thuộc,E39_65,E38_34,,
+RELATION,RTHUOC_187,THUOC,Thuộc,E40_32,E38_35,,
+RELATION,RTHUOC_188,THUOC,Thuộc,E40_33,E38_35,,
+RELATION,RTHUOC_189,THUOC,Thuộc,E40_34,E38_35,,
+RELATION,RTHUOC_190,THUOC,Thuộc,E40_35,E38_35,,
+RELATION,RTHUOC_191,THUOC,Thuộc,E40_36,E38_35,,
+RELATION,RTHUOC_192,THUOC,Thuộc,E40_37,E38_35,,
+RELATION,RTHUOC_193,THUOC,Thuộc,E39_66,E38_36,,
+RELATION,RTHUOC_194,THUOC,Thuộc,E39_67,E38_36,,
+RELATION,RTHUOC_195,THUOC,Thuộc,E39_68,E38_36,,
+RELATION,RTHUOC_196,THUOC,Thuộc,E39_69,E38_37,,
+RELATION,RTHUOC_197,THUOC,Thuộc,E39_70,E38_37,,
+RELATION,RTHUOC_198,THUOC,Thuộc,E39_71,E38_37,,
+RELATION,RTHUOC_199,THUOC,Thuộc,E39_72,E38_37,,
+RELATION,RTHUOC_200,THUOC,Thuộc,E39_73,E38_37,,
+RELATION,RTHUOC_201,THUOC,Thuộc,E39_74,E38_38,,
+RELATION,RTHUOC_202,THUOC,Thuộc,E40_38,E38_38,,
+RELATION,RTHUOC_203,THUOC,Thuộc,E40_39,E38_38,,
+RELATION,RTHUOC_204,THUOC,Thuộc,E40_40,E38_38,,
+RELATION,RTHUOC_205,THUOC,Thuộc,E40_41,E38_38,,
+RELATION,RTHUOC_206,THUOC,Thuộc,E40_42,E38_38,,
+RELATION,RTHUOC_207,THUOC,Thuộc,E40_43,E38_38,,
+RELATION,RTHUOC_208,THUOC,Thuộc,E39_75,E38_38,,
+RELATION,RTHUOC_209,THUOC,Thuộc,E39_76,E38_38,,
+RELATION,RTHUOC_210,THUOC,Thuộc,E39_77,E38_39,,
+RELATION,RTHUOC_211,THUOC,Thuộc,E40_44,E38_39,,
+RELATION,RTHUOC_212,THUOC,Thuộc,E40_45,E38_39,,
+RELATION,RTHUOC_213,THUOC,Thuộc,E40_46,E38_39,,
+RELATION,RTHUOC_214,THUOC,Thuộc,E40_47,E38_39,,
+RELATION,RTHUOC_215,THUOC,Thuộc,E40_48,E38_39,,
+RELATION,RTHUOC_216,THUOC,Thuộc,E40_49,E38_39,,
+RELATION,RTHUOC_217,THUOC,Thuộc,E40_50,E38_39,,
+RELATION,RTHUOC_218,THUOC,Thuộc,E39_78,E38_39,,
+RELATION,RTHUOC_219,THUOC,Thuộc,E39_79,E38_41,,
+RELATION,RTHUOC_220,THUOC,Thuộc,E39_80,E38_41,,
+RELATION,RTHUOC_221,THUOC,Thuộc,E39_81,E38_42,,
+RELATION,RTHUOC_222,THUOC,Thuộc,E39_82,E38_42,,
+RELATION,RTHUOC_223,THUOC,Thuộc,E39_83,E38_42,,
+RELATION,RTHUOC_224,THUOC,Thuộc,E39_84,E38_42,,
+RELATION,RTHUOC_225,THUOC,Thuộc,E39_85,E38_43,,
+RELATION,RTHUOC_226,THUOC,Thuộc,E39_86,E38_43,,
+RELATION,RTHUOC_227,THUOC,Thuộc,E39_87,E38_44,,
+RELATION,RTHUOC_228,THUOC,Thuộc,E39_88,E38_44,,
+RELATION,RTHUOC_229,THUOC,Thuộc,E39_89,E38_46,,
+RELATION,RTHUOC_230,THUOC,Thuộc,E39_90,E38_46,,
+RELATION,RTHUOC_231,THUOC,Thuộc,E39_91,E38_46,,
+RELATION,RTHUOC_232,THUOC,Thuộc,E39_92,E38_46,,
+RELATION,RTHUOC_233,THUOC,Thuộc,E39_93,E38_46,,
+RELATION,RTHUOC_234,THUOC,Thuộc,E39_94,E38_47,,
+RELATION,RTHUOC_235,THUOC,Thuộc,E39_95,E38_47,,
+RELATION,RTHUOC_236,THUOC,Thuộc,E39_96,E38_49,,
+RELATION,RTHUOC_237,THUOC,Thuộc,E40_51,E38_49,,
+RELATION,RTHUOC_238,THUOC,Thuộc,E40_52,E38_49,,
+RELATION,RTHUOC_239,THUOC,Thuộc,E40_53,E38_49,,
+RELATION,RTHUOC_240,THUOC,Thuộc,E39_97,E38_49,,
+RELATION,RTHUOC_241,THUOC,Thuộc,E39_98,E38_50,,
+RELATION,RTHUOC_242,THUOC,Thuộc,E39_99,E38_50,,
+RELATION,RTHUOC_243,THUOC,Thuộc,E39_100,E38_52,,
+RELATION,RTHUOC_244,THUOC,Thuộc,E39_101,E38_52,,
+RELATION,RTHUOC_245,THUOC,Thuộc,E39_102,E38_52,,
+RELATION,RTHUOC_246,THUOC,Thuộc,E39_103,E38_52,,
+RELATION,RTHUOC_247,THUOC,Thuộc,E39_104,E38_52,,
+RELATION,RTHUOC_248,THUOC,Thuộc,E39_105,E38_52,,
+RELATION,RTHUOC_249,THUOC,Thuộc,E39_106,E38_52,,
+RELATION,RTHUOC_250,THUOC,Thuộc,E39_107,E38_52,,
+RELATION,RTHUOC_251,THUOC,Thuộc,E39_108,E38_54,,
+RELATION,RTHUOC_252,THUOC,Thuộc,E39_109,E38_54,,
+RELATION,RTHUOC_253,THUOC,Thuộc,E39_110,E38_54,,
+RELATION,RTHUOC_254,THUOC,Thuộc,E40_54,E38_54,,
+RELATION,RTHUOC_255,THUOC,Thuộc,E40_55,E38_54,,
+RELATION,RTHUOC_256,THUOC,Thuộc,E40_56,E38_54,,
+RELATION,RTHUOC_257,THUOC,Thuộc,E40_57,E38_54,,
+RELATION,RTHUOC_258,THUOC,Thuộc,E40_58,E38_54,,
+RELATION,RTHUOC_259,THUOC,Thuộc,E40_59,E38_54,,
+RELATION,RTHUOC_260,THUOC,Thuộc,E39_111,E38_56,,
+RELATION,RTHUOC_261,THUOC,Thuộc,E39_112,E38_56,,
+RELATION,RTHUOC_262,THUOC,Thuộc,E39_113,E38_57,,
+RELATION,RTHUOC_263,THUOC,Thuộc,E39_114,E38_57,,
+RELATION,RTHUOC_264,THUOC,Thuộc,E39_115,E38_59,,
+RELATION,RTHUOC_265,THUOC,Thuộc,E39_116,E38_59,,
+RELATION,RTHUOC_266,THUOC,Thuộc,E39_117,E38_60,,
+RELATION,RTHUOC_267,THUOC,Thuộc,E39_118,E38_60,,
+RELATION,RTHUOC_268,THUOC,Thuộc,E40_60,E38_60,,
+RELATION,RTHUOC_269,THUOC,Thuộc,E40_61,E38_60,,
+RELATION,RTHUOC_270,THUOC,Thuộc,E40_62,E38_60,,
+RELATION,RTHUOC_271,THUOC,Thuộc,E39_119,E38_61,,
+RELATION,RTHUOC_272,THUOC,Thuộc,E39_120,E38_61,,
+RELATION,RTHUOC_273,THUOC,Thuộc,E39_121,E38_61,,
+RELATION,RTHUOC_274,THUOC,Thuộc,E39_122,E38_62,,
+RELATION,RTHUOC_275,THUOC,Thuộc,E39_123,E38_62,,
+RELATION,RTHUOC_276,THUOC,Thuộc,E39_124,E38_68,,
+RELATION,RTHUOC_277,THUOC,Thuộc,E39_125,E38_68,,
+RELATION,RTHUOC_278,THUOC,Thuộc,E39_126,E38_68,,
+RELATION,RTHUOC_279,THUOC,Thuộc,E39_127,E38_68,,
+RELATION,RTHUOC_280,THUOC,Thuộc,E39_128,E38_70,,
+RELATION,RTHUOC_281,THUOC,Thuộc,E39_129,E38_70,,
+RELATION,RTHUOC_282,THUOC,Thuộc,E39_130,E38_70,,
+RELATION,RTHUOC_283,THUOC,Thuộc,E39_131,E38_71,,
+RELATION,RTHUOC_284,THUOC,Thuộc,E39_132,E38_71,,
+RELATION,RTHUOC_285,THUOC,Thuộc,E39_133,E38_72,,
+RELATION,RTHUOC_286,THUOC,Thuộc,E39_134,E38_72,,
+RELATION,RTHUOC_287,THUOC,Thuộc,E39_135,E38_72,,
+RELATION,RTHUOC_288,THUOC,Thuộc,E39_136,E38_73,,
+RELATION,RTHUOC_289,THUOC,Thuộc,E39_137,E38_73,,
+RELATION,RTHUOC_290,THUOC,Thuộc,E39_138,E38_73,,
+RELATION,RTHUOC_291,THUOC,Thuộc,E39_139,E38_74,,
+RELATION,RTHUOC_292,THUOC,Thuộc,E39_140,E38_74,,
+RELATION,RTHUOC_293,THUOC,Thuộc,E39_141,E38_74,,
+RELATION,RTHUOC_294,THUOC,Thuộc,E39_142,E38_75,,
+RELATION,RTHUOC_295,THUOC,Thuộc,E39_143,E38_75,,
+RELATION,RTHUOC_296,THUOC,Thuộc,E39_144,E38_75,,
+RELATION,RTHUOC_297,THUOC,Thuộc,E39_145,E38_76,,
+RELATION,RTHUOC_298,THUOC,Thuộc,E39_146,E38_76,,
+RELATION,RTHUOC_299,THUOC,Thuộc,E39_147,E38_76,,
+RELATION,RTHUOC_300,THUOC,Thuộc,E39_148,E38_77,,
+RELATION,RTHUOC_301,THUOC,Thuộc,E39_149,E38_77,,
+RELATION,RTHUOC_302,THUOC,Thuộc,E39_150,E38_78,,
+RELATION,RTHUOC_303,THUOC,Thuộc,E39_151,E38_78,,
+RELATION,RTHUOC_304,THUOC,Thuộc,E39_152,E38_78,,
+RELATION,RTHUOC_305,THUOC,Thuộc,E39_153,E38_78,,
+RELATION,RTHUOC_306,THUOC,Thuộc,E39_154,E38_79,,
+RELATION,RTHUOC_307,THUOC,Thuộc,E39_155,E38_79,,
+RELATION,RTHUOC_308,THUOC,Thuộc,E39_156,E38_80,,
+RELATION,RTHUOC_309,THUOC,Thuộc,E39_157,E38_80,,
+RELATION,RTHUOC_310,THUOC,Thuộc,E39_158,E38_80,,
+RELATION,RTHUOC_311,THUOC,Thuộc,E39_159,E38_80,,
+RELATION,RTHUOC_312,THUOC,Thuộc,E39_160,E38_81,,
+RELATION,RTHUOC_313,THUOC,Thuộc,E39_161,E38_81,,
+RELATION,RTHUOC_314,THUOC,Thuộc,E39_162,E38_82,,
+RELATION,RTHUOC_315,THUOC,Thuộc,E39_163,E38_82,,
+RELATION,RTHUOC_316,THUOC,Thuộc,E39_164,E38_82,,
+RELATION,RTHUOC_317,THUOC,Thuộc,E39_165,E38_82,,
+RELATION,RTHUOC_318,THUOC,Thuộc,E39_166,E38_83,,
+RELATION,RTHUOC_319,THUOC,Thuộc,E39_167,E38_83,,
+RELATION,RTHUOC_320,THUOC,Thuộc,E39_168,E38_83,,
+RELATION,RTHUOC_321,THUOC,Thuộc,E39_169,E38_86,,
+RELATION,RTHUOC_322,THUOC,Thuộc,E39_170,E38_86,,
+RELATION,RTHUOC_323,THUOC,Thuộc,E39_171,E38_86,,

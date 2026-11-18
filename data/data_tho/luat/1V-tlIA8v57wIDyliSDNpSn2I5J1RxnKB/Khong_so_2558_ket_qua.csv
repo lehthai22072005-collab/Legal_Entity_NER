@@ -1,0 +1,176 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,35,Luật Quốc tịch Việt Nam số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,27,35,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,8142,8149,Tư pháp
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,8055,8079,ngày 28 tháng 6 năm 1988
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,8162,8192,"Hộ tịch, quốc tịch, chứng thực"
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,8213,8223,1988-07-15
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,8245,8255,1999-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,8279,8299,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,8320,8328,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,8342,8359,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,8372,8384,Lê Quang Đạo
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,8477,8495,Hiến pháp năm 1980
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,8404,8422,Hiến pháp năm 1980
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,9112,9151,Luật Quốc tịch Việt Nam số 07/1998/QH10
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,8517,8728,Thông tư liên tịch số 05/2010/TTLT/BTP-BNG-BCA Hướng dẫn thi hành Nghị định số 78/2009/NĐ-CP ngày 22 tháng 9 năm 2009 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quốc tịch Việt Nam
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,8748,8819,Nghị định số 37-HĐBT Quy định chi tiết thi hành Luật Quốc tịch Việt nam
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,8839,8974,Nghị định số 06/1998/NĐ-CP Sửa đổi một số điều của Nghị định 37-HĐBT ngày 05/02/1990 quy định chi tiết thi hành luật Quốc tịch Việt Nam
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,8994,9062,Quyết định số 159/2007/QĐ-CTN Về việc cho trở lại quốc tịch Việt Nam
+ENTITY,E35_1,CHUONG,Chương,structure,403,411,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,1702,1711,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,3792,3802,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,5324,5333,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,6891,6899,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,7178,7187,CHƯƠNG VI
+ENTITY,E38_1,DIEU,Điều,structure,433,829,"Điều 1. Người có quốc tịch Việt Nam.
+Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam là Nhà nước thống nhất của các dân tộc cùng sinh sống trên đất nước Việt Nam; mọi thành viên của các dân tộc đều có quốc tịch Việt Nam.
+Những người có quốc tịch Việt Nam bao gồm những người đang có quốc tịch Việt Nam cho đến ngày Luật này có hiệu lực và những người có quốc tịch Việt Nam theo quy định của Luật này."
+ENTITY,E38_2,DIEU,Điều,structure,830,1134,"Điều 2. Quan hệ giữa Nhà nước và công dân.
+Công dân Việt Nam được Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam bảo đảm các quyền của công dân và phải làm tròn nghĩa vụ của mình đối với Nhà nước và xã hội theo quy định của pháp luật.
+Nhà nước bảo hộ quyền lợi chính đáng của công dân Việt Nam ở nước ngoài."
+ENTITY,E38_3,DIEU,Điều,structure,1135,1313,"Điều 3. Công nhận công dân Việt Nam có một quốc tịch Việt Nam.
+Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam chỉ công nhận công dân Việt Nam có một quốc tịch là quốc tịch Việt Nam."
+ENTITY,E38_4,DIEU,Điều,structure,1314,1433,"Điều 4. Giữ quốc tịch khi kết hôn, ly hôn, huỷ việc kết hôn trái pháp luật và khi quốc tịch của vợ hoặc chồng thay đổi."
+ENTITY,E38_5,DIEU,Điều,structure,1743,1852,"Điều 5. Có quốc tịch Việt Nam.
+Một người có quốc tịch Việt Nam, nếu thuộc một trong những trường hợp sau đây:"
+ENTITY,E38_6,DIEU,Điều,structure,2091,2116,Điều 6. Quốc tịch trẻ em.
+ENTITY,E38_7,DIEU,Điều,structure,3082,3113,Điều 7. Vào quốc tịch Việt Nam.
+ENTITY,E38_8,DIEU,Điều,structure,3845,3947,"Điều 8. Mất quốc tịch Việt Nam.
+Công dân Việt Nam mất quốc tịch Việt Nam trong các trường hợp sau đây:"
+ENTITY,E38_9,DIEU,Điều,structure,4169,4201,Điều 9. Thôi quốc tịch Việt Nam.
+ENTITY,E38_10,DIEU,Điều,structure,4672,4705,Điều 10. Tước quốc tịch Việt Nam.
+ENTITY,E38_11,DIEU,Điều,structure,5183,5324,"Điều 11. Trở lại quốc tịch Việt Nam.
+Những người đã mất quốc tịch Việt Nam, nếu có lý do chính đáng, có thể được trở lại quốc tịch Việt Nam.
+"
+ENTITY,E38_12,DIEU,Điều,structure,5407,5469,Điều 12. Quốc tịch trẻ em khi có sự thay đổi quốc tịch cha mẹ.
+ENTITY,E38_13,DIEU,Điều,structure,5903,6230,"Điều 13. Quốc tịch trẻ em khi cha mẹ bị tước quốc tịch hoặc bị huỷ bỏ quyết định cho vào quốc tịch Việt Nam.
+Khi cha mẹ hoặc một trong hai người đó bị tước quốc tịch theo quy định tại Điều 10 hoặc bị huỷ bỏ quyết định cho vào quốc tịch Việt Nam theo quy định tại khoản 3 Điều 7 Luật này thì quốc tịch của trẻ em không thay đổi."
+ENTITY,E38_14,DIEU,Điều,structure,6231,6259,Điều 14. Quốc tịch con nuôi.
+ENTITY,E38_15,DIEU,Điều,structure,6946,6953,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,7209,7374,"Điều 16
+Trong trường hợp điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam tham gia ký kết có quy định khác thì áp dụng quy định trong điều ước quốc tế đó."
+ENTITY,E38_17,DIEU,Điều,structure,7375,7476,"Điều 17
+Luật này có hiệu lực kể từ ngày 15 tháng 7 năm 1988, đồng thời bãi bỏ những văn bản dưới đây:"
+ENTITY,E38_18,DIEU,Điều,structure,7760,7823,"Điều 18
+Hội đồng bộ trưởng quy định chi tiết thi hành Luật này."
+ENTITY,E39_1,KHOAN,Khoản,structure,1434,1603,"1- Việc kết hôn, ly hôn và việc huỷ kết hôn trái pháp luật giữa công dân Việt Nam với công dân nước ngoài hoặc người không quốc tịch không làm thay đổi quốc tịch của họ."
+ENTITY,E39_2,KHOAN,Khoản,structure,1604,1702,"2- Việc vợ hoặc chồng vào hoặc mất quốc tịch Việt Nam không làm thay đổi quốc tịch của người kia.
+"
+ENTITY,E39_3,KHOAN,Khoản,structure,1853,1867,1- Do sinh ra;
+ENTITY,E39_4,KHOAN,Khoản,structure,1868,1899,2- Được vào quốc tịch Việt Nam;
+ENTITY,E39_5,KHOAN,Khoản,structure,1900,1935,3- Được trở lại quốc tịch Việt Nam;
+ENTITY,E39_6,KHOAN,Khoản,structure,1936,2011,4- Có quốc tịch Việt Nam theo điều ước quốc tế mà Việt Nam tham gia ký kết;
+ENTITY,E39_7,KHOAN,Khoản,structure,2012,2090,5- Có quốc tịch Việt Nam trong các trường hợp khác theo quy định của Luật này.
+ENTITY,E39_8,KHOAN,Khoản,structure,2117,2243,"1- Trẻ em có cha mẹ là công dân Việt Nam thì có quốc tịch Việt Nam, không kể trẻ em đó sinh trong hay ngoài lãnh thổ Việt Nam."
+ENTITY,E39_9,KHOAN,Khoản,structure,2244,2435,"2- Trẻ em có cha hoặc mẹ là công dân Việt Nam, còn người kia là người không quốc tịch hoặc không rõ là ai thì có quốc tịch Việt Nam, không kể trẻ em đó sinh trong hay ngoài lãnh thổ Việt Nam."
+ENTITY,E39_10,KHOAN,Khoản,structure,2436,2851,"3- Trẻ em có cha hoặc mẹ là công dân Việt Nam, còn người kia là công dân nước ngoài, nếu sinh trên lãnh thổ Việt Nam hoặc khi sinh ra cha mẹ đều có nơi thường trú ở Việt Nam, thì có quốc tịch Việt Nam, trừ trường hợp cha mẹ nhất trí lựa chọn quốc tịch khác. Trong trường hợp trẻ em đó sinh ngoài lãnh thổ Việt Nam và khi sinh cha mẹ đều không có nơi thường trú ở Việt Nam, thì quốc tịch theo sự lựa chọn của cha mẹ."
+ENTITY,E39_11,KHOAN,Khoản,structure,2852,2987,4- Trẻ em sinh trên lãnh thổ Việt Nam mà cha mẹ đều là người không quốc tịch và có nơi thường trú ở Việt Nam thì có quốc tịch Việt Nam.
+ENTITY,E39_12,KHOAN,Khoản,structure,2988,3081,5- Trẻ em tìm thấy trên lãnh thổ Việt Nam mà không rõ cha mẹ là ai thì có quốc tịch Việt Nam.
+ENTITY,E39_13,KHOAN,Khoản,structure,3114,3305,"1- Công dân nước ngoài và người không quốc tịch đang cư trú ở Việt Nam, tự nguyện tuân thủ Hiến pháp và pháp luật Việt Nam, có thể được vào quốc tịch Việt Nam, nếu có những điều kiện sau đây:"
+ENTITY,E39_14,KHOAN,Khoản,structure,3388,3603,"2- Trong trường hợp có lý do chính đáng, công dân nước ngoài và người không quốc tịch có thể được vào quốc tịch Việt Nam mà không đòi hỏi có đầy đủ các điều kiện quy định tại các điểm a, b và c tại khoản 1 Điều này."
+ENTITY,E39_15,KHOAN,Khoản,structure,3604,3792,"3- Trong trường hợp những người đã vào quốc tịch Việt Nam theo quy định tại Điều này mà khai man khi xin vào quốc tịch Việt Nam thì quyết định cho vào quốc tịch Việt Nam có thể bị huỷ bỏ.
+"
+ENTITY,E39_16,KHOAN,Khoản,structure,3948,3980,1- Được thôi quốc tịch Việt Nam;
+ENTITY,E39_17,KHOAN,Khoản,structure,3981,4011,2- Bị tước quốc tịch Việt Nam;
+ENTITY,E39_18,KHOAN,Khoản,structure,4012,4088,3- Mất quốc tịch Việt Nam theo điều ước quốc tế mà Việt Nam tham gia ký kết;
+ENTITY,E39_19,KHOAN,Khoản,structure,4089,4168,4- Mất quốc tịch Việt Nam trong các trường hợp khác theo quy định của Luật này.
+ENTITY,E39_20,KHOAN,Khoản,structure,4202,4285,"1- Công dân Việt Nam, nếu có lý do chính đáng, có thể được thôi quốc tịch Việt Nam."
+ENTITY,E39_21,KHOAN,Khoản,structure,4286,4400,2- Người xin thôi quốc tịch Việt Nam chưa được thôi quốc tịch Việt Nam nếu thuộc một trong các trường hợp sau đây:
+ENTITY,E39_22,KHOAN,Khoản,structure,4560,4671,3- Nếu việc thôi quốc tịch Việt Nam làm phương hại đến an ninh quốc gia thì không được thôi quốc tịch Việt Nam.
+ENTITY,E39_23,KHOAN,Khoản,structure,4706,5000,"1- Công dân Việt Nam cư trú ngoài lãnh thổ Việt Nam có thể bị tước quốc tịch Việt Nam nếu có hành động gây phương hại nghiêm trọng đến nền độc lập dân tộc, đến sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa hoặc đến lợi ích và uy tín của nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+ENTITY,E39_24,KHOAN,Khoản,structure,5001,5182,2- Những người đã vào quốc tịch Việt Nam theo quy định tại Điều 7 Luật này dù cư trú ở đâu cũng có thể bị tước quốc tịch Việt Nam nếu có hành động như quy định tại khoản 1 Điều này.
+ENTITY,E39_25,KHOAN,Khoản,structure,5470,5642,"1- Khi cha mẹ có sự thay đổi quốc tịch: vào quốc tịch, thôi quốc tịch hoặc trở lại quốc tịch Việt Nam thì quốc tịch của trẻ em mặc nhiên thay đổi theo quốc tịch của cha mẹ."
+ENTITY,E39_26,KHOAN,Khoản,structure,5643,5758,2- Khi chỉ cha hoặc mẹ có sự thay đổi quốc tịch thì quốc tịch của trẻ em được xác định theo sự lựa chọn của cha mẹ.
+ENTITY,E39_27,KHOAN,Khoản,structure,5759,5902,3- Sự thay đổi quốc tịch của người từ 15 tuổi đến chưa đủ 18 tuổi theo quy định tại các khoản 1 và 2 Điều này phải được sự đồng ý của người đó.
+ENTITY,E39_28,KHOAN,Khoản,structure,6260,6512,"1- Trẻ em là công dân nước ngoài hoặc người không quốc tịch, nếu cha mẹ nuôi hoặc một trong hai người đó là công dân Việt Nam, thì được vào quốc tịch Việt Nam theo đơn xin của cha mẹ nuôi và được miễn các điều kiện quy định tại khoản 1 Điều 7 Luật này."
+ENTITY,E39_29,KHOAN,Khoản,structure,6513,6746,"2- Trẻ em là công dân Việt Nam, nếu cha mẹ nuôi hoặc một trong hai người đó là công dân nước ngoài và được cha mẹ đẻ hoặc người đỡ đầu đồng ý, thì được thôi quốc tịch Việt Nam theo đơn xin của cha mẹ nuôi để vào quốc tịch nước ngoài."
+ENTITY,E39_30,KHOAN,Khoản,structure,6747,6891,"3- Sự thay đổi quốc tịch của người từ 15 tuổi đến chưa đủ 18 tuổi theo quy định tại các khoản 1 và 2 Điều này phải được sự đồng ý của người đó.
+"
+ENTITY,E39_31,KHOAN,Khoản,structure,6954,7099,"1- Hội đồng bộ trưởng quyết định những trường hợp cho vào, cho thôi, cho trở lại, tước quốc tịch và huỷ bỏ quyết định cho vào quốc tịch Việt Nam."
+ENTITY,E39_32,KHOAN,Khoản,structure,7100,7178,"2- Thủ tục giải quyết các vấn đề về quốc tịch do Hội đồng bộ trưởng quy định.
+"
+ENTITY,E39_33,KHOAN,Khoản,structure,7477,7524,1- Sắc lệnh số 53/SL ngày 20 tháng 10 năm 1945;
+ENTITY,E39_34,KHOAN,Khoản,structure,7525,7571,2- Sắc lệnh số 73/SL ngày 7 tháng 12 năm 1945;
+ENTITY,E39_35,KHOAN,Khoản,structure,7572,7626,3- Điều 6 Sắc lệnh số 215/SL ngày 20 tháng 8 năm 1948;
+ENTITY,E39_36,KHOAN,Khoản,structure,7627,7674,4- Sắc lệnh số 51/SL ngày 14 tháng 12 năm 1959;
+ENTITY,E39_37,KHOAN,Khoản,structure,7675,7759,5- Nghị quyết số 1043 NQ/TVQH ngày 8 tháng 2 năm 1971 của Uỷ ban thường vụ Quốc hội.
+ENTITY,E40_1,DIEM,Điểm,structure,3306,3328,a) Từ 18 tuổi trở lên;
+ENTITY,E40_2,DIEM,Điểm,structure,3329,3348,b) Biết tiếng Việt;
+ENTITY,E40_3,DIEM,Điểm,structure,3349,3387,c) Đã cư trú ở Việt Nam ít nhất 5 năm.
+ENTITY,E40_4,DIEM,Điểm,structure,4401,4430,a) Đang làm nghĩa vụ quân sự;
+ENTITY,E40_5,DIEM,Điểm,structure,4431,4494,b) Đang nợ thuế hay một nghĩa vụ tài sản khác đối với Nhà nước;
+ENTITY,E40_6,DIEM,Điểm,structure,4495,4525,c) Đang bị khởi tố về hình sự;
+ENTITY,E40_7,DIEM,Điểm,structure,4526,4559,d) Đang phải thi hành một bản án.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_1,E38_4,,
+RELATION,R22_8,THUOC,Thuộc,E39_2,E38_4,,
+RELATION,R22_9,THUOC,Thuộc,E38_5,E35_2,,
+RELATION,R22_10,THUOC,Thuộc,E39_3,E38_5,,
+RELATION,R22_11,THUOC,Thuộc,E39_4,E38_5,,
+RELATION,R22_12,THUOC,Thuộc,E39_5,E38_5,,
+RELATION,R22_13,THUOC,Thuộc,E39_6,E38_5,,
+RELATION,R22_14,THUOC,Thuộc,E39_7,E38_5,,
+RELATION,R22_15,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_16,THUOC,Thuộc,E39_8,E38_6,,
+RELATION,R22_17,THUOC,Thuộc,E39_9,E38_6,,
+RELATION,R22_18,THUOC,Thuộc,E39_10,E38_6,,
+RELATION,R22_19,THUOC,Thuộc,E39_11,E38_6,,
+RELATION,R22_20,THUOC,Thuộc,E39_12,E38_6,,
+RELATION,R22_21,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_22,THUOC,Thuộc,E39_13,E38_7,,
+RELATION,R22_23,THUOC,Thuộc,E40_1,E39_13,,
+RELATION,R22_24,THUOC,Thuộc,E40_2,E39_13,,
+RELATION,R22_25,THUOC,Thuộc,E40_3,E39_13,,
+RELATION,R22_26,THUOC,Thuộc,E39_14,E38_7,,
+RELATION,R22_27,THUOC,Thuộc,E39_15,E38_7,,
+RELATION,R22_28,THUOC,Thuộc,E38_8,E35_3,,
+RELATION,R22_29,THUOC,Thuộc,E39_16,E38_8,,
+RELATION,R22_30,THUOC,Thuộc,E39_17,E38_8,,
+RELATION,R22_31,THUOC,Thuộc,E39_18,E38_8,,
+RELATION,R22_32,THUOC,Thuộc,E39_19,E38_8,,
+RELATION,R22_33,THUOC,Thuộc,E38_9,E35_3,,
+RELATION,R22_34,THUOC,Thuộc,E39_20,E38_9,,
+RELATION,R22_35,THUOC,Thuộc,E39_21,E38_9,,
+RELATION,R22_36,THUOC,Thuộc,E40_4,E39_21,,
+RELATION,R22_37,THUOC,Thuộc,E40_5,E39_21,,
+RELATION,R22_38,THUOC,Thuộc,E40_6,E39_21,,
+RELATION,R22_39,THUOC,Thuộc,E40_7,E39_21,,
+RELATION,R22_40,THUOC,Thuộc,E39_22,E38_9,,
+RELATION,R22_41,THUOC,Thuộc,E38_10,E35_3,,
+RELATION,R22_42,THUOC,Thuộc,E39_23,E38_10,,
+RELATION,R22_43,THUOC,Thuộc,E39_24,E38_10,,
+RELATION,R22_44,THUOC,Thuộc,E38_11,E35_3,,
+RELATION,R22_45,THUOC,Thuộc,E38_12,E35_4,,
+RELATION,R22_46,THUOC,Thuộc,E39_25,E38_12,,
+RELATION,R22_47,THUOC,Thuộc,E39_26,E38_12,,
+RELATION,R22_48,THUOC,Thuộc,E39_27,E38_12,,
+RELATION,R22_49,THUOC,Thuộc,E38_13,E35_4,,
+RELATION,R22_50,THUOC,Thuộc,E38_14,E35_4,,
+RELATION,R22_51,THUOC,Thuộc,E39_28,E38_14,,
+RELATION,R22_52,THUOC,Thuộc,E39_29,E38_14,,
+RELATION,R22_53,THUOC,Thuộc,E39_30,E38_14,,
+RELATION,R22_54,THUOC,Thuộc,E38_15,E35_5,,
+RELATION,R22_55,THUOC,Thuộc,E39_31,E38_15,,
+RELATION,R22_56,THUOC,Thuộc,E39_32,E38_15,,
+RELATION,R22_57,THUOC,Thuộc,E38_16,E35_6,,
+RELATION,R22_58,THUOC,Thuộc,E38_17,E35_6,,
+RELATION,R22_59,THUOC,Thuộc,E39_33,E38_17,,
+RELATION,R22_60,THUOC,Thuộc,E39_34,E38_17,,
+RELATION,R22_61,THUOC,Thuộc,E39_35,E38_17,,
+RELATION,R22_62,THUOC,Thuộc,E39_36,E38_17,,
+RELATION,R22_63,THUOC,Thuộc,E39_37,E38_17,,
+RELATION,R22_64,THUOC,Thuộc,E38_18,E35_6,,

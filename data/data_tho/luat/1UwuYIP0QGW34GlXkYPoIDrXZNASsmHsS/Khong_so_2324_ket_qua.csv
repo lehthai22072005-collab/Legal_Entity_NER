@@ -1,0 +1,96 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,69,"Luật Sửa đổi, bổ sung Luật Tổ chức Viện kiểm sát nhân dân số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,61,69,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,6271,6279,Kiểm sát
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,6143,6168,ngày 22 tháng 12 năm 1988
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,6292,6306,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,6327,6337,1989-01-04
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,6359,6369,1992-10-10
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,6393,6413,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,70,78,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,6172,6189,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,6197,6209,Lê Quang Đạo
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,6568,6586,Hiến pháp năm 1980
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,6628,6678,Luật Tổ chức Viện kiểm sát nhân dân số 3-LCT/HĐNN7
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,6478,6513,Bộ luật Tố tụng hình sự số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,6433,6451,Hiến pháp năm 1980
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,6811,6858,Luật Tổ chức Viện kiểm sát nhân dân số Không số
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,6700,6761,Pháp lệnh số 27-LCT/HĐNN8 Thủ tục giải quyết các vụ án dân sự
+ENTITY,E38_1,DIEU,Điều,structure,414,432,"Điều 3
+Điểm 2 mới:"
+ENTITY,E38_2,DIEU,Điều,structure,433,786,"Điều 3 Điểm 2 mới: ""2- Kiểm sát việc tuân theo pháp luật trong việc điều tra của các cơ quan điều tra, của Bộ đội biên phòng, Hải quan và Kiểm lâm"". Bổ sung điểm 6 và điểm 7: ""6. Điều tra tội phạm trong những trường hợp quy định tại khoản 3, Điều 92 Bộ luật tố tụng hình sự""; ""7. Khởi tố hoặc tham gia tố tụng những vụ án dân sự khi xét thấy cần thiết""."
+ENTITY,E38_3,DIEU,Điều,structure,787,1073,"Điều 5
+Bổ sung vào cuối khoản 3: ""Trong phạm vi chức năng nhiệm vụ của mình, Viện trưởng Viện kiểm sát nhân dân tối cao có quyền ra quyết định đình chỉ và buộc phải sửa chữa những hành vi vi phạm pháp luật có thể gây hậu quả nghiêm trọng"". Bỏ các Điều 9, 10 và 11, thay bằng Điều 9 mới:"
+ENTITY,E38_4,DIEU,Điều,structure,1074,1260,"Điều 9
+""Khi thực hiện công tác kiểm sát điều tra, quyết định việc truy tố, các Viện kiểm sát nhân dân có nhiệm vụ và quyền hạn quy định tại Điều 141 và Điều 142 Bộ luật tố tụng hình sự""."
+ENTITY,E38_5,DIEU,Điều,structure,1261,1957,"Điều 13
+Bỏ điểm 1 quy định về việc trù bị phiên toà.
+Điểm 3 mới:
+""3. Yêu cầu Toà án nhân dân cùng cấp và cấp dưới chuyển hồ sơ những vụ án cần thiết cho công tác kiểm sát xét xử"";
+Điểm 5 mới:
+""5. Kháng nghị các bản án hoặc quyết định đã có hiệu lực pháp luật của Toà án nhân dân theo thủ tục giám đốc thẩm hoặc tái thẩm quy định tại Điều 244 và Điều 263 Bộ luật tố tụng hình sự"";
+Điểm 6 mới:
+""6. Khi kháng nghị theo thủ tục giám đốc thẩm hoặc tái thẩm, Viện kiểm sát nhân dân có quyền quyết định tạm đình chỉ thi hành bản án hoặc quyết định bị kháng nghị"".
+Bổ sung hai Điều mới là Điều 13a và Điều 13b.
+Điều 13a
+""Khi thực hiện công tác kiểm sát xét xử dân sự, các Viện kiểm sát nhân dân có quyền:"
+ENTITY,E38_6,DIEU,Điều,structure,3585,3753,"Điều 14
+Bổ sung khoản 3:
+""3. Viện trưởng Viện kiểm sát nhân dân tối cao trình Hội đồng Nhà nước ý kiến của mình về những trường hợp người bị án xin ân giảm án tử hình."""
+ENTITY,E38_7,DIEU,Điều,structure,3754,3849,"Điều 16. mới
+""Khi thực hiện công tác kiểm sát thi hành án, các Viện kiểm sát nhân dân có quyền:"
+ENTITY,E38_8,DIEU,Điều,structure,4929,5278,"Điều 20
+Bổ sung đoạn 2:
+""Đối với các quyết định ghi tại điểm 6, Điều 19 Luật này, trong trường hợp không nhất trí thì cơ quan hoặc người có trách nhiệm vẫn phải chấp hành ngay, nhưng có quyền khiếu nại lên Viện kiểm sát cấp trên trực tiếp. Trong thời hạn hai mươi ngày, Viện trưởng Viện kiểm sát cấp trên trực tiếp phải xét và giải quyết khiếu nại."""
+ENTITY,E38_9,DIEU,Điều,structure,5279,5821,"Điều 22
+Khoản 1, đoạn 1 mới:
+""1. Viện kiểm sát nhân dân tối cao gồm có Viện trưởng, Phó Viện trưởng thứ nhất, các Phó Viện trưởng, các kiểm sát viên và các điều tra viên."" ...
+Khoản 2, đoạn 1 mới:
+""2. Viện kiểm sát nhân dân tối cao có Uỷ ban kiểm sát gồm Viện trưởng, các Phó Viện trưởng và một số kiểm sát viên Viện kiểm sát nhân dân tối cao do Viện trưởng chỉ định và trình Hội đồng Nhà nước phê chuẩn."" ...
+Khoản 3 mới:
+""3. Viện kiểm sát nhân dân tối cao có các Cục, Vụ, Viện, Văn phòng và các trường đào tạo cán bộ về nghiệp vụ kiểm sát."""
+ENTITY,E38_10,DIEU,Điều,structure,5822,6171,"Điều 23
+Khoản 1, đoạn 1 mới:
+""1. Viện kiểm sát nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương gồm có Viện trưởng, Phó Viện trưởng thứ nhất, các Phó Viện trưởng, các kiểm sát viên và các điều tra viên.""
+Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VIII, kỳ họp thứ 4 thông qua ngày 22 tháng 12 năm 1988./."
+ENTITY,E39_1,KHOAN,Khoản,structure,1958,2030,"1. Kiểm sát việc xét xử các vụ án dân sự, hôn nhân gia đình và lao động;"
+ENTITY,E39_2,KHOAN,Khoản,structure,2031,2096,2. Khởi tố những vụ án dân sự khi Viện trưởng xét thấy cần thiết;
+ENTITY,E39_3,KHOAN,Khoản,structure,2097,2262,"3. Tiến hành kiểm sát việc lập hồ sơ, tự mình hoặc yêu cầu Toà án trưng cầu giám định, kiểm tra xác minh những vấn đề cần làm sáng tỏ nhằm giải quyết đúng đắn vụ án;"
+ENTITY,E39_4,KHOAN,Khoản,structure,2263,2401,4. Kháng nghị theo thủ tục phúc thẩm các bản án và quyết định sơ thẩm chưa có hiệu lực pháp luật của Toà án nhân dân cùng cấp và cấp dưới;
+ENTITY,E39_5,KHOAN,Khoản,structure,2402,2893,"5. Kháng nghị các bản án và quyết định đã có hiệu lực pháp luật của Toà án nhân dân theo thủ tục giám đốc thẩm khi thấy có vi phạm pháp luật hoặc theo thủ tục tái thẩm khi thấy có tình tiết mới.
+Trong mọi trường hợp, bản kháng nghị phải được gửi cho các bên đương sự và những người có quyền và lợi ích liên quan đến việc kháng nghị"".
+Điều 13b
+""Những người sau đây có quyền kháng nghị theo thủ tục giám đốc thẩm hoặc tái thẩm các bản án và quyết định về dân sự, hôn nhân gia đình và lao động:"
+ENTITY,E39_6,KHOAN,Khoản,structure,3850,3894,1. Yêu cầu cơ quan và nhân viên thi hành án:
+ENTITY,E39_7,KHOAN,Khoản,structure,4274,4590,"2. Kiểm sát tại chỗ việc tuân theo pháp luật của các cơ quan và nhân viên hữu quan trong việc thi hành các bản án và quyết định đã có hiệu lực pháp luật của Toà án nhân dân; kiểm sát việc tuân theo pháp luật của các cơ quan, nhân viên đó trong việc giải quyết khiếu nại, tố cáo của nhân dân đối với việc thi hành án."
+ENTITY,E39_8,KHOAN,Khoản,structure,4591,4928,"3. Kiến nghị hoặc kháng nghị với các cơ quan, nhân viên hữu quan, yêu cầu sửa đổi, bãi bỏ hoặc đình chỉ những văn bản, biện pháp hoặc việc làm vi phạm pháp luật trong việc thi hành án; xử lý kỷ luật người chịu trách nhiệm về việc làm vi phạm pháp luật đó. Trong trường hợp cần thiết thì khởi tố dân sự hoặc truy cứu trách nhiệm hình sự""."
+ENTITY,E40_1,DIEM,Điểm,structure,2894,3081,a) Viện trưởng Viện kiểm sát nhân dân tối cao có quyền kháng nghị các bản án hoặc quyết định đã có hiệu lực pháp luật của Toà án nhân dân các cấp theo thủ tục giám đốc thẩm hoặc tái thẩm;
+ENTITY,E40_2,DIEM,Điểm,structure,3082,3260,b) Phó Viện trưởng Viện kiểm sát nhân dân tối cao có quyền kháng nghị các bản án hoặc quyết định đã có hiệu lực pháp luật của Toà án nhân dân cấp dưới theo thủ tục giám đốc thẩm;
+ENTITY,E40_3,DIEM,Điểm,structure,3261,3584,"c) Viện trưởng Viện kiểm sát nhân dân cấp tỉnh có quyền kháng nghị các bản án hoặc quyết định đã có hiệu lực pháp luật của Toà án nhân dân cấp dưới theo thủ tục giám đốc thẩm hoặc tái thẩm.
+Những người kháng nghị theo thủ tục giám đốc thẩm hoặc tái thẩm có quyền tạm đình chỉ thi hành bản án hoặc quyết định bị kháng nghị."""
+ENTITY,E40_4,DIEM,Điểm,structure,3895,4056,a) Tự kiểm tra việc thi hành các bản án và quyết định đã có hiệu lực pháp luật của Toà án nhân dân và thông báo kết quả kiểm tra cho Viện kiểm sát nhân dân biết;
+ENTITY,E40_5,DIEM,Điểm,structure,4057,4171,"b) Cung cấp những tài liệu, văn bản hoặc xuất trình các hồ sơ, sổ sách, giấy tờ có liên quan đến việc thi hành án;"
+ENTITY,E40_6,DIEM,Điểm,structure,4172,4273,c) Thi hành các bản án và quyết định đã có hiệu lực pháp luật của Toà án nhân dân chưa được thi hành.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_5,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_5,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_5,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_5,,
+RELATION,R22_7,THUOC,Thuộc,E39_5,E38_5,,
+RELATION,R22_8,THUOC,Thuộc,E40_1,E39_5,,
+RELATION,R22_9,THUOC,Thuộc,E40_2,E39_5,,
+RELATION,R22_10,THUOC,Thuộc,E40_3,E39_5,,
+RELATION,R22_11,THUOC,Thuộc,E39_6,E38_7,,
+RELATION,R22_12,THUOC,Thuộc,E40_4,E39_6,,
+RELATION,R22_13,THUOC,Thuộc,E40_5,E39_6,,
+RELATION,R22_14,THUOC,Thuộc,E40_6,E39_6,,
+RELATION,R22_15,THUOC,Thuộc,E39_7,E38_7,,
+RELATION,R22_16,THUOC,Thuộc,E39_8,E38_7,,

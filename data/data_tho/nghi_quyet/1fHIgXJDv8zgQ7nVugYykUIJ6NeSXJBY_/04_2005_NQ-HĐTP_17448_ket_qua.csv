@@ -1,0 +1,306 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,119,"Nghị quyết số 04/2005/NQ-HĐTP Hướng dẫn thi hành một số quy định của Bộ luật tố tụng dân sự về ""Chứng minh và chứng cứ"""
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,29,04/2005/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E4_1,NGANH,Ngành,metadata,31204,31210,Tòa án
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,30895,30919,ngày 17 tháng 9 năm 2005
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,31223,31237,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,31258,31268,2005-10-17
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,31290,31300,2013-07-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,31324,31344,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,154,177,TÒA ÁN NHÂN DÂN TỐI CAO
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,29225,29233,Chánh án
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,31357,31372,Nguyễn Văn Hiện
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,31521,31559,Bộ luật Tố tụng dân sự số 24/2004/QH11
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,31586,31691,Nghị định số 67/2005/NĐ-CP Về việc quy định chi tiết thi hành một số điều của Pháp lệnh Giám định tư pháp
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,31392,31430,Bộ luật Tố tụng dân sự số 24/2004/QH11
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,322,350,Luật tổ chức Toà án nhân dân
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,32578,32751,Nghị quyết số 04/2012/NQ-HĐTP Hướng dẫn thi hành một số quy định “Chứng minh và chứng cứ” của Bộ luật tố tụng dân sự đã được sửa đổi theo Luật sửa đổi Bộ luật tố tụng dân sự
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31713,31952,Thông tư liên tịch số 01/2010/TTLT-TANDTC-BLĐTBXH-VKSNDTC Hướng dẫn áp dụng một số quy định của pháp luật trong quá trình giải quyết tranh chấp hợp đồng bảo lãnh cho người lao động đi làm việc ở nước ngoài theo hợp đồng tại Tòa án nhân dân
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31974,32166,Thông tư liên tịch số 02/2008/TTLT-TANDTC-VKSNDTC-BVHTT-BKH-BTP Hướng dẫn áp dụng một số quy định của pháp luật trong việc giải quyết các tranh chấp về quyền sở hữu trí tuệ tại Toà án nhân dân
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32188,32345,Nghị quyết số 02/2006/NQ-HĐTP Hướng dẫn thi hành các quy định trong Phần thứ hai “Thủ tục giải quyết vụ án tại Toà án cấp sơ thẩm” của Bộ luật tố tụng dân sự
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32367,32528,"Nghị quyết số 05/2006/NQ-HĐTP Hướng dẫn thi hành một số quy định trong Phần thứ ba ""Thủ tục giải quyết vụ án tại Toà án cấp phúc thẩm"" của Bộ luật tố tụng dân sự"
+ENTITY,E35_1,CHUONG,Chương,structure,594,614,I. Cung cấp chứng cứ
+ENTITY,E35_2,CHUONG,Chương,structure,3954,3975,II. Xác định chứng cứ
+ENTITY,E35_3,CHUONG,Chương,structure,9555,9578,III. Giao nhận chứng cứ
+ENTITY,E35_4,CHUONG,Chương,structure,11821,11842,IV. Thu thập chứng cứ
+ENTITY,E35_5,CHUONG,Chương,structure,26911,26985,V. Giao nhận và thu thập chứng cứ trong giai đoạn phúc thẩm vụ việc dân sự
+ENTITY,E35_6,CHUONG,Chương,structure,28756,29136,"VI. Giao nhận chứng cứ trong giai đoạn xem xét lại bản án, quyết định đã có hiệu lực pháp luật theo thủ tục giám đốc thẩm, tái thẩm
+Sau khi bản án, quyết định của Toà án có hiệu lực pháp luật, nếu đương sự yêu cầu người có thẩm quyền xem xét lại bản án, quyết định đó theo thủ tục giám đốc thẩm, tái thẩm và nộp chứng cứ bổ sung thì việc giao nhận chứng cứ được thực hiện như sau:"
+ENTITY,E35_7,CHUONG,Chương,structure,30341,30478,"VII. Về một số mẫu văn bản tố tụng liên quan đến chứng minh và chứng cứ
+Ban hành kèm theo Nghị quyết này các mẫu văn bản tố tụng sau đây:"
+ENTITY,E35_8,CHUONG,Chương,structure,30780,31142,"VIII. Hiệu lực thi hành của nghị quyết
+Nghị quyết này đã được Hội đồng Thẩm phán Toà án nhân dân tối cao thông qua ngày 17 tháng 9 năm 2005 và có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
+Những hướng dẫn của Toà án nhân dân tối cao được ban hành trước ngày Nghị quyết này có hiệu lực về các vấn đề được hướng dẫn trong Nghị quyết này đều bãi bỏ./."
+ENTITY,E36_1,MUC,Mục,structure,30479,30523,1. Biên bản giao nhận chứng cứ (Mẫu số 01a);
+ENTITY,E36_2,MUC,Mục,structure,30524,30578,"2. Quyết định xem xét, thẩm định tại chỗ (Mẫu số 01b);"
+ENTITY,E36_3,MUC,Mục,structure,30579,30626,3. Quyết định trưng cầu giám định (Mẫu số 01c);
+ENTITY,E36_4,MUC,Mục,structure,30627,30671,4. Quyết định định giá tài sản (Mẫu số 01d);
+ENTITY,E36_5,MUC,Mục,structure,30672,30725,5. Quyết định yêu cầu cung cấp chứng cứ (Mẫu số 01đ);
+ENTITY,E36_6,MUC,Mục,structure,30726,30779,6. Quyết định uỷ thác thu thập chứng cứ (Mẫu số 01e).
+ENTITY,E36_7,MUC,Mục,structure,30103,30340,"2. Đối với Viện kiểm sát nhân dân.
+Việc giao nộp chứng cứ tại Viện kiểm sát nhân dân được thực hiện theo quy định chung của pháp luật tố tụng và hướng dẫn cụ thể của Viện kiểm sát nhân dân tối cao, nhưng phải được đóng dấu Viện kiểm sát."
+ENTITY,E36_8,MUC,Mục,structure,28595,28755,4. Trong trường hợp Toà án cấp phúc thẩm có tiến hành thu thập chứng cứ thì việc thu thập chứng cứ được thực hiện theo hướng dẫn tại Phần IV của Nghị quyết này.
+ENTITY,E36_9,MUC,Mục,structure,28202,28594,"3. Sau khi thụ lý hồ sơ vụ việc dân sự theo thủ tục phúc thẩm, nếu có đương sự giao nộp chứng cứ cho Toà án cấp phúc thẩm, thì việc giao nhận chứng cứ được thực hiện theo hướng dẫn tại các mục 2 và 4 Phần III của Nghị quyết này.
+Nếu đương sự giao nộp chứng cứ tại phiên toà, phiên họp phúc thẩm, thì việc giao nhận chứng cứ được thực hiện theo hướng dẫn tại mục 3 Phần III của Nghị quyết này."
+ENTITY,E36_10,MUC,Mục,structure,27640,28201,"2. Trong trường hợp đương sự kháng cáo có gửi kèm theo đơn kháng cáo chứng cứ bổ sung cho Toà án cấp phúc thẩm, thì Toà án cấp phúc thẩm thực hiện việc giao nhận chứng cứ đó theo hướng dẫn tại các mục 1 và 4 Phần III của Nghị quyết này. Toà án cấp phúc thẩm chuyển đơn kháng cáo, biên bản giao nhận chứng cứ bổ sung và chứng cứ bổ sung đó cho Toà án cấp sơ thẩm để tiến hành các thủ tục cần thiết và gửi kèm hồ sơ vụ việc dân sự cho Toà án cấp phúc thẩm theo quy định tại Điều 255 và các điều tương ứng về phúc thẩm quyết định giải quyết việc dân sự của BLTTDS."
+ENTITY,E36_11,MUC,Mục,structure,26986,27639,"1. Trong trường hợp khi đương sự kháng cáo có gửi kèm theo đơn kháng cáo chứng cứ bổ sung cho Toà án cấp sơ thẩm theo quy định tại khoản 2 và khoản 3 Điều 244 và các điều tương ứng về phúc thẩm quyết định giải quyết việc dân sự của BLTTDS, thì Toà án cấp sơ thẩm có trách nhiệm nhận đơn kháng cáo và chứng cứ bổ sung đó. Việc giao nhận chứng cứ bổ sung được thực hiện theo hướng dẫn tại các mục 1 và 4 Phần III của Nghị quyết này. Biên bản giao nhận chứng cứ bổ sung và chứng cứ đó phải được gửi kèm hồ sơ vụ việc dân sự cho Toà án cấp phúc thẩm theo quy định tại Điều 255 và các điều tương ứng về phúc thẩm quyết định giải quyết việc dân sự của BLTTDS."
+ENTITY,E36_12,MUC,Mục,structure,23756,23831,"8. Yêu cầu cá nhân, cơ quan, tổ chức cung cấp chứng cứ (Điều 94 của BLTTDS)"
+ENTITY,E36_13,MUC,Mục,structure,20723,20763,7. Định giá tài sản (Điều 92 của BLTTDS)
+ENTITY,E36_14,MUC,Mục,structure,19544,19587,6. Trưng cầu giám định (Điều 90 của BLTTDS)
+ENTITY,E36_15,MUC,Mục,structure,16770,16802,4. Đối chất (Điều 88 của BLTTDS)
+ENTITY,E36_16,MUC,Mục,structure,17420,17470,"5. Xem xét, thẩm định tại chỗ (Điều 89 của BLTTDS)"
+ENTITY,E36_17,MUC,Mục,structure,16056,16112,3. Lấy lời khai của người làm chứng (Điều 87 của BLTTDS)
+ENTITY,E36_18,MUC,Mục,structure,11843,11941,1. Toà án chỉ tiến hành thu thập chứng cứ trong các trường hợp do BLTTDS quy định; cụ thể như sau:
+ENTITY,E36_19,MUC,Mục,structure,11623,11820,"4. Biên bản về việc giao nhận chứng cứ phải được người có thẩm quyền của Toà án theo quy định của pháp luật tố tụng hoặc theo hướng dẫn trong Nghị quyết này ký tên, xác nhận và đóng dấu của Toà án."
+ENTITY,E36_20,MUC,Mục,structure,11190,11622,"3. Trong trường hợp đương sự giao nộp chứng cứ tại phiên toà, phiên họp, thì Thư ký Toà án thực hiện việc giao nhận chứng cứ. Nếu việc giao nhận chứng cứ trước khi mở phiên toà, phiên họp, thì Thư ký Toà án phải lập biên bản về việc giao nhận chứng cứ theo quy định tại khoản 2 Điều 84 của BLTTDS. Nếu việc giao nhận chứng cứ trong quá trình xét xử hoặc trong quá trình phiên họp, thì ghi vào biên bản phiên toà, biên bản phiên họp."
+ENTITY,E36_21,MUC,Mục,structure,10860,11189,"2. Sau khi Toà án thụ lý vụ việc dân sự, nếu đương sự giao nộp chứng cứ cho Toà án, thì Thẩm phán được Chánh án Toà án phân công giải quyết vụ việc dân sự hoặc Thư ký Toà án hoặc cán bộ của Toà án được Chánh án phân công thực hiện việc giao nhận chứng cứ do đương sự giao nộp theo hướng dẫn tại mục 1 Phần III của Nghị quyết này."
+ENTITY,E36_22,MUC,Mục,structure,9579,9973,"1. Theo quy định tại Điều 166 và Điều 312 của BLTTDS, người khởi kiện vụ án hoặc người yêu cầu Toà án giải quyết việc dân sự gửi đơn khởi kiện, đơn yêu cầu và tài liệu, chứng cứ kèm theo đến Toà án có thẩm quyền giải quyết vụ việc dân sự bằng các phương thức nộp trực tiếp tại Toà án hoặc gửi đến Toà án qua bưu điện. Việc giao nhận chứng cứ trong từng trường hợp cụ thể được thực hiện như sau:"
+ENTITY,E36_23,MUC,Mục,structure,9019,9554,"3. Đương sự giao nộp cho Toà án chứng cứ bằng tiếng dân tộc thiểu số, tiếng nước ngoài phải kèm theo bản dịch sang tiếng Việt, được công chứng, chứng thực hợp pháp. Trong trường hợp đương sự chưa dịch chứng cứ đó sang tiếng Việt hoặc đã dịch sang tiếng Việt nhưng bản dịch chưa được công chứng, chứng thực hợp pháp, thì Toà án không nhận chứng cứ đó. Toà án giải thích cho đương sự biết là họ phải tiến hành việc dịch chứng cứ sang tiếng Việt và làm thủ tục công chứng, chứng thực theo quy định của pháp luật về công chứng, chứng thực."
+ENTITY,E36_24,MUC,Mục,structure,14307,14356,2. Lấy lời khai của đương sự (Điều 86 của BLTTDS)
+ENTITY,E36_25,MUC,Mục,structure,4370,4500,"2. Để được coi là chứng cứ quy định tại Điều 81 của BLTTDS, thì việc xác định chứng cứ từ từng loại nguồn chứng cứ cụ thể như sau:"
+ENTITY,E39_1,KHOAN,Khoản,structure,615,1325,"1. Theo quy định tại khoản 1 Điều 6 của BLTTDS thì về nguyên tắc chung, cung cấp chứng cứ và chứng minh cho yêu cầu của mình là có căn cứ và hợp pháp vừa là quyền, vừa là nghĩa vụ của đương sự, của cá nhân, cơ quan, tổ chức khởi kiện, yêu cầu để bảo vệ quyền lợi ích hợp pháp của người khác. Tuy nhiên theo quy định tại Điều 79 của BLTTDS, khi có yêu cầu Toà án bảo vệ quyền, lợi ích hợp pháp của mình hoặc phản đối yêu cầu của người khác đối với mình hoặc bảo vệ lợi ích công cộng, lợi ích của Nhà nước hoặc bảo vệ quyền và lợi ích hợp pháp của người khác, thì đương sự, cá nhân, cơ quan, tổ chức khởi kiện, yêu cầu có nghĩa vụ phải đưa ra chứng cứ để chứng minh cho yêu cầu của mình là có căn cứ và hợp pháp."
+ENTITY,E39_2,KHOAN,Khoản,structure,1326,1534,2. Việc cung cấp chứng cứ và chứng minh cho yêu cầu của mình là có căn cứ và hợp pháp được hướng dẫn tại mục 1 Phần I của Nghị quyết này có thể được thực hiện trong quá trình Toà án giải quyết vụ việc dân sự.
+ENTITY,E39_3,KHOAN,Khoản,structure,1535,2267,"3. Trong quá trình giải quyết vụ việc dân sự, Toà án phải giải thích cho đương sự biết, nếu đương sự có nghĩa vụ đưa ra chứng cứ để chứng minh mà không đưa ra được chứng cứ hoặc không đưa ra đủ chứng cứ, thì Toà án tiến hành giải quyết vụ việc dân sự theo thủ tục chung. Toà án căn cứ vào tài liệu, chứng cứ đã thu thập được có trong hồ sơ vụ việc dân sự và nếu vụ việc dân sự được xét xử, giải quyết tại phiên toà, phiên họp thì Toà án chỉ căn cứ vào tài liệu, chứng cứ đã được kiểm tra, xem xét tại phiên toà, phiên họp, kết quả việc hỏi tại phiên toà, phiên họp, xem xét đầy đủ ý kiến của người tham gia tố tụng, Kiểm sát viên để quyết định. Đương sự phải chịu hậu quả của việc không chứng minh được hoặc chứng minh không đầy đủ."
+ENTITY,E39_4,KHOAN,Khoản,structure,2268,3287,"4. Trong quá trình giải quyết vụ việc dân sự, nếu thấy chứng cứ mà đương sự giao nộp chưa đủ cơ sở để giải quyết, thì Toà án yêu cầu đương sự giao nộp bổ sung chứng cứ theo quy định tại khoản 1 Điều 85 của BLTTDS. Khi yêu cầu đương sự giao nộp bổ sung chứng cứ, Toà án cần phải nêu cụ thể chứng cứ cần giao nộp bổ sung.
+Ví dụ 1: Trong vụ án ly hôn Toà án phải giải quyết yêu cầu nuôi con chưa thành niên. Nếu đương sự chưa nộp cho Toà án giấy khai sinh (hoặc bản sao giấy khai sinh) của con chưa thành niên, thì Thẩm phán yêu cầu đương sự nộp bổ sung giấy khai sinh (hoặc bản sao giấy khai sinh) để làm căn cứ cho việc giao con cho người mẹ hay người cha trông nom, nuôi dưỡng, chăm sóc, giáo dục và quyết định mức cấp dưỡng nuôi con.
+Ví dụ 2: Trong vụ án tranh chấp về hợp đồng vận chuyển hàng hoá mà theo đơn khởi kiện thì ngoài hợp đồng còn có phụ lục hợp đồng, nhưng nguyên đơn mới nộp cho Toà án bản hợp đồng, thì Thẩm phán yêu cầu nguyên đơn nộp bổ sung bản phụ lục hợp đồng đó, để có cơ sở giải quyết tranh chấp."
+ENTITY,E39_5,KHOAN,Khoản,structure,3288,3953,"5. Trong quá trình giải quyết vụ việc dân sự, Toà án cần giải thích cho đương sự biết quy định tại Điều 7 của BLTTDS về trách nhiệm cung cấp chứng cứ của cá nhân, cơ quan, tổ chức có thẩm quyền. Khi biết chứng cứ đang do cá nhân, cơ quan, tổ chức lưu giữ, quản lý, thì căn cứ vào quy định tại Điều này, đương sự có quyền yêu cầu cá nhân, cơ quan, tổ chức cung cấp chứng cứ. Nếu cá nhân, cơ quan, tổ chức không cung cấp được chứng cứ cho đương sự, thì phải thông báo bằng văn bản có ghi rõ lý do của việc không cung cấp được chứng cứ cho đương sự biết để họ chứng minh với Toà án là họ đã thu thập chứng cứ nhưng không có kết quả và yêu cầu Toà án thu thập chứng cứ."
+ENTITY,E39_6,KHOAN,Khoản,structure,3976,4369,"1. Theo quy định tại Điều 81 của BLTTDS, thì một trong những điều kiện của chứng cứ là phải được đương sự và cá nhân, cơ quan, tổ chức khác giao nộp cho Toà án hoặc do Toà án thu thập được theo trình tự, thủ tục do BLTTDS quy định; do đó, việc giao nộp chứng cứ và việc thu thập chứng cứ phải thực hiện theo đúng quy định tại các điều luật tương ứng của BLTTDS và hướng dẫn tại Nghị quyết này."
+ENTITY,E39_7,KHOAN,Khoản,structure,29137,29491,"1. Đối với Toà án nhân dân.
+1.1. Đối với các trường hợp thuộc thẩm quyền kháng nghị của Chánh án Toà án nhân dân cấp tỉnh, thì Thẩm tra viên Phòng giám đốc kiểm tra Toà án nhân dân cấp tỉnh có trách nhiệm thực hiện việc giao nhận chứng cứ.
+Thẩm tra viên lập biên bản giao nhận chứng cứ và Trưởng phòng giám đốc kiểm tra xác nhận, ký tên, đóng dấu Toà án."
+ENTITY,E39_8,KHOAN,Khoản,structure,29492,29612,"1.2. Đối với các trường hợp thuộc thẩm quyền kháng nghị của Chánh án Toà án nhân dân tối cao, thì cần phân biệt như sau:"
+ENTITY,E39_9,KHOAN,Khoản,structure,26654,26910,"8.5. Trong trường hợp Toà án không trực tiếp yêu cầu cá nhân, cơ quan, tổ chức đang quản lý, lưu giữ cung cấp cho mình chứng cứ, thì Toà án chỉ cần gửi quyết định yêu cầu cung cấp chứng cứ cho cá nhân, cơ quan, tổ chức mà mình có yêu cầu cung cấp chứng cứ."
+ENTITY,E39_10,KHOAN,Khoản,structure,25297,26653,"8.4. Thư ký Toà án hoặc cán bộ Toà án được Chánh án phân công có thể trực tiếp yêu cầu cá nhân, cơ quan, tổ chức đang quản lý, lưu giữ cung cấp cho mình chứng cứ. Người trực tiếp yêu cầu phải có giấy giới thiệu của Toà án và quyết định yêu cầu cung cấp chứng cứ. Nếu cá nhân, cơ quan, tổ chức đang quản lý, lưu giữ chứng cứ có yêu cầu thì người trực tiếp yêu cầu cung cấp chứng cứ phải xuất trình Giấy chứng minh Thẩm phán hoặc Thẻ công chức hoặc một loại giấy tờ tuỳ thân khác.
+Trong trường hợp cá nhân, cơ quan, tổ chức đang quản lý, lưu giữ chứng cứ thực hiện được việc giao nộp ngay chứng cứ, thì lập biên bản về việc giao nhận chứng cứ theo quy định tại khoản 2 Điều 84 của BLTTDS, trừ việc đóng dấu của Toà án sẽ được thực hiện sau. Nếu cơ quan, tổ chức giao nộp chứng cứ có dấu thì đề nghị đại diện có thẩm quyền của cơ quan, tổ chức ký tên và đóng dấu xác nhận. Nếu cá nhân, cơ quan, tổ chức đang quản lý, lưu giữ chứng cứ từ chối việc giao nộp chứng cứ thì lập biên bản về việc đó và ghi rõ lý do của việc từ chối đó.
+Trong trường hợp cá nhân, cơ quan, tổ chức đang quản lý, lưu giữ chứng cứ chưa thực hiện được việc giao nộp chứng cứ ngay, thì lập biên bản về việc đó và yêu cầu họ cung cấp đầy đủ, kịp thời chứng cứ theo yêu cầu của Toà án trong thời hạn được ghi trong quyết định (trong thời hạn mười lăm ngày, kể từ ngày nhận được quyết định)."
+ENTITY,E39_11,KHOAN,Khoản,structure,24722,24937,"8.3. Khi xét thấy yêu cầu Toà án tiến hành thu thập chứng cứ của đương sự là có căn cứ, thì Thẩm phán ra quyết định yêu cầu cung cấp chứng cứ. Quyết định yêu cầu cung cấp chứng cứ phải có các nội dung chính sau đây:"
+ENTITY,E39_12,KHOAN,Khoản,structure,24189,24327,"8.2. Đơn yêu cầu Toà án tiến hành thu thập chứng cứ đang do cá nhân, cơ quan, tổ chức quản lý, lưu giữ phải có các nội dung chính sau đây:"
+ENTITY,E39_13,KHOAN,Khoản,structure,23832,24188,"8.1. Chỉ trong trường hợp đương sự đã áp dụng các biện pháp cần thiết để thu thập chứng cứ (đã sử dụng mọi cách thức và khả năng cho phép để yêu cầu cá nhân, cơ quan, tổ chức đang quản lý, lưu giữ chứng cứ cung cấp cho mình chứng cứ mà vẫn không được cá nhân, cơ quan, tổ chức cung cấp), thì mới có quyền làm đơn yêu cầu Toà án tiến hành thu thập chứng cứ."
+ENTITY,E39_14,KHOAN,Khoản,structure,23596,23755,"7.6. Trong trường hợp có người cản trở việc tiến hành định giá, thì việc xử lý được thực hiện theo hướng dẫn tại tiểu mục 5.5 mục 5 Phần IV của Nghị quyết này."
+ENTITY,E39_15,KHOAN,Khoản,structure,23480,23595,7.5. Toà án có thể cử một Thư ký Toà án để giúp việc cho Hội đồng định giá ghi biên bản về việc tiến hành định giá.
+ENTITY,E39_16,KHOAN,Khoản,structure,21602,22197,"7.2. Toà án phải xem xét tài sản cần định giá là loại tài sản nào, có liên quan đến cơ quan chuyên môn nào, Hội đồng định giá cần phải có bao nhiêu thành viên và trong trường hợp cụ thể này cần cử đại diện của cơ quan nào làm Chủ tịch Hội đồng định giá. Trên cơ sở đó, Toà án có công văn gửi cho các cơ quan chuyên môn đề nghị cử cán bộ làm Chủ tịch và uỷ viên Hội đồng định giá. Trong công văn cần nêu rõ tài sản cần định giá, yêu cầu cụ thể đối với Chủ tịch, uỷ viên Hội đồng định giá và thời hạn cơ quan chuyên môn có công văn trả lời cho Toà án biết việc cử người tham gia Hội đồng định giá."
+ENTITY,E39_17,KHOAN,Khoản,structure,22198,22679,"7.3. Sau khi nhận được các công văn trả lời của các cơ quan chuyên môn về việc cử người làm Chủ tịch và uỷ viên Hội đồng định giá, Thẩm phán phải kiểm tra những người được cử có đáp ứng các yêu cầu cụ thể mà Toà án nêu trong công văn hay chưa, có ai trong số họ là người thân thích với đương sự trong vụ án hay không. Nếu có người chưa đáp ứng các yêu cầu cụ thể hay là người thân thích với đương sự trong vụ án thì đề nghị cơ quan chuyên môn đã cử người đó cử người khác thay thế."
+ENTITY,E39_18,KHOAN,Khoản,structure,22680,22805,"7.4. Căn cứ vào Điều 92 của BLTTDS, Thẩm phán ra quyết định định giá. Quyết định định giá phải có các nội dung chính sau đây:"
+ENTITY,E39_19,KHOAN,Khoản,structure,20764,20852,7.1. Toà án ra quyết định định giá tài sản đang tranh chấp trong các trường hợp sau đây:
+ENTITY,E39_20,KHOAN,Khoản,structure,20612,20722,"6.3. Quyết định trưng cầu giám định phải được gửi cho các đương sự, tổ chức giám định tư pháp, giám định viên."
+ENTITY,E39_21,KHOAN,Khoản,structure,19588,19806,"6.1. Sự thoả thuận lựa chọn hoặc yêu cầu Toà án trưng cầu giám định phải được thể hiện bằng văn bản (có thể làm bằng văn bản riêng, có thể ghi trong bản khai, có thể ghi trong biên bản ghi lời khai, biên bản đối chất)."
+ENTITY,E39_22,KHOAN,Khoản,structure,19807,20118,"6.2. Thẩm phán phải căn cứ vào Điều 90 của BLTTDS, Pháp lệnh giám định tư pháp, Nghị định số 67/2005/NĐ-CP ngày 19-5-2005 của Chính phủ quy định chi tiết thi hành một số điều của Pháp lệnh giám định tư pháp để ra quyết định trưng cầu giám định. Quyết định trưng cầu giám định phải có các nội dung chính sau đây:"
+ENTITY,E39_23,KHOAN,Khoản,structure,17885,18449,"5.3. Quyết định xem xét, thẩm định tại chỗ phải được gửi cho Uỷ ban nhân dân cấp xã hoặc cơ quan, tổ chức nơi có đối tượng cần xem xét, thẩm định kèm theo văn bản đề nghị Uỷ ban nhân dân hoặc cơ quan, tổ chức cử đại diện tham gia việc xem xét, thẩm định tại chỗ. Vào ngày, giờ đã định trong quyết định xem xét, thẩm định tại chỗ, nếu chưa có đại diện của Uỷ ban nhân dân hoặc cơ quan, tổ chức, thì Thẩm phán phải liên hệ để họ có mặt. Trong trường hợp vắng mặt đại diện của Uỷ ban nhân dân hoặc cơ quan, tổ chức, thì thẩm phán hoãn việc xem xét, thẩm định tại chỗ."
+ENTITY,E39_24,KHOAN,Khoản,structure,18450,18698,"5.4. Quyết định xem xét, thẩm định tại chỗ phải được giao hoặc gửi cho đương sự để họ biết và chứng kiến việc xem xét, thẩm định tại chỗ. Tuy nhiên, nếu có đương sự vắng mặt thì việc xem xét, thẩm định tại chỗ vẫn được tiến hành theo thủ tục chung."
+ENTITY,E39_25,KHOAN,Khoản,structure,18699,19396,"5.5. Nếu có người nào cản trở Toà án tiến hành việc xem xét, thẩm định tại chỗ, thì Thẩm phán yêu cầu đại diện Uỷ ban nhân dân hoặc cơ quan, tổ chức có biện pháp can thiệp, hỗ trợ kịp thời để thực hiện việc xem xét, thẩm định tại chỗ. Trong trường hợp cần thiết Thẩm phán yêu cầu lực lượng Cảnh sát bảo vệ và hỗ trợ tư pháp thuộc Công an nhân dân có thẩm quyền để có các biện pháp can thiệp, hỗ trợ, theo quy định tại Thông tư số 15/2003/TT-BCA(V19) ngày 10-9-2003 của Bộ Công an ""Hướng dẫn hoạt động hỗ trợ tư pháp của lực lượng Cảnh sát bảo vệ và hỗ trợ tư pháp thuộc Công an nhân dân"". Thẩm phán phải lập biên bản về việc đương sự cản trở việc xem xét, thẩm định tại chỗ và lưu vào hồ sơ vụ án."
+ENTITY,E39_26,KHOAN,Khoản,structure,19397,19543,"5.6. Thẩm phán tự mình hoặc Thư ký Toà án ghi biên bản xem xét, thẩm định tại chỗ. Biên bản phải làm đúng quy định tại khoản 2 Điều 89 của BLTTDS."
+ENTITY,E39_27,KHOAN,Khoản,structure,17616,17694,"5.2. Quyết định xem xét, thẩm định tại chỗ phải có các nội dung chính sau đây:"
+ENTITY,E39_28,KHOAN,Khoản,structure,17471,17614,"5.1. Khi đương sự có yêu cầu xem xét, thẩm định tại chỗ và xét thấy có căn cứ, thì Thẩm phán ra quyết định tiến hành xem xét, thẩm định tại chỗ"
+ENTITY,E39_29,KHOAN,Khoản,structure,16803,17205,"4.1. Khi đương sự có yêu cầu hoặc khi xét thấy có sự mâu thuẫn trong lời khai của các đương sự, người làm chứng, Thẩm phán tiến hành đối chất giữa các đương sự với nhau, giữa đương sự với người làm chứng hoặc giữa những người làm chứng với nhau theo thứ tự hợp lý (tuỳ từng trường hợp cụ thể mà tiến hành đối chất về từng vấn đề một hoặc để từng người trình bày về các vấn đề cần đối chất theo thứ tự)."
+ENTITY,E39_30,KHOAN,Khoản,structure,17206,17419,"4.2. Thẩm phán tự mình hoặc Thư ký Toà án ghi biên bản đối chất. Biên bản phải có chữ ký của những người tham gia đối chất, Thẩm phán tiến hành đối chất, Thư ký Toà án ghi biên bản đối chất và đóng dấu của Toà án."
+ENTITY,E39_31,KHOAN,Khoản,structure,16113,16524,"3.1. Khi đương sự có yêu cầu bằng văn bản lấy lời khai của người làm chứng, thì Toà án tiến hành lấy lời khai của người làm chứng đó. Khi xét thấy cần thiết tuy đương sự không có yêu cầu, Thẩm phán có thể tiến hành lấy lời khai của người làm chứng. Được coi là ""cần thiết"" nếu việc lấy lời khai của người làm chứng bảo đảm cho việc giải quyết vụ việc dân sự được toàn diện, chính xác, công minh, đúng pháp luật."
+ENTITY,E39_32,KHOAN,Khoản,structure,16525,16769,3.2. Thẩm phán tiến hành lấy lời khai của người làm chứng tại trụ sở Toà án hoặc ngoài trụ sở Toà án và được thực hiện như việc lấy lời khai của đương sự quy định tại khoản 2 Điều 86 của BLTTDS và hướng dẫn tại mục 2 Phần IV của Nghị quyết này.
+ENTITY,E39_33,KHOAN,Khoản,structure,14357,14755,"2.1. Khi đương sự chưa có bản khai hoặc nội dung của bản khai chưa đầy đủ, thì Thẩm phán yêu cầu đương sự phải tự viết bản khai hoặc bản khai bổ sung và ký tên của mình. Chỉ trong trường hợp đương sự không thể tự viết được, thì Thẩm phán tự mình hoặc Thư ký Toà án ghi lại lời khai của đương sự vào biên bản. Biên bản ghi lời khai của đương sự phải làm đúng quy định tại khoản 2 Điều 86 của BLTTDS."
+ENTITY,E39_34,KHOAN,Khoản,structure,14756,15683,"2.2. Việc lấy lời khai của đương sự phải do Thẩm phán tiến hành. Thư ký Toà án chỉ có thể giúp Thẩm phán ghi lời khai của đương sự vào biên bản. Thẩm phán lấy lời khai của đương sự tại trụ sở Toà án. Chỉ trong những trường hợp đương sự không thể đến Toà án được vì những lý do khách quan, chính đáng (đang bị tạm giam, đang chấp hành hình phạt tù, bị ốm đau, bệnh tật ...), thì Thẩm phán có thể lấy lời khai của đương sự ngoài trụ sở Toà án.
+Việc lấy lời khai của đương sự ngoài trụ sở Toà án phải bảo đảm đúng quy định của pháp luật, quy định đối với cán bộ, công chức của ngành Toà án nhân dân và bảo đảm khách quan (ví dụ: lấy lời khai của đương sự đang bị tạm giam phải được thực hiện tại Trại tạm giam theo bố trí của Ban Giám thị Trại tạm giam; lấy lời khai của đương sự bị ốm đau nhưng không đi điều trị tại cơ sở y tế phải được thực hiện tại nơi họ đang điều trị và nếu xét thấy cần thiết thì mời người chứng kiến ...)."
+ENTITY,E39_35,KHOAN,Khoản,structure,15684,16055,"2.3. Đối với đương sự quy định tại khoản 4 và khoản 5 Điều 57 của BLTTDS, thì việc bảo vệ quyền và lợi ích hợp pháp của những người này tại Toà án do người đại diện hợp pháp của họ thực hiện. Trong trường hợp lấy lời khai của họ thì phải có mặt người đại diện hợp pháp của họ và người đại diện hợp pháp của họ phải ký tên hoặc điểm chỉ xác nhận vào biên bản ghi lời khai."
+ENTITY,E39_36,KHOAN,Khoản,structure,14164,14306,"1.5. Toà án chỉ tiến hành biện pháp để thu thập chứng cứ mà đương sự có yêu cầu, trừ các trường hợp được hướng dẫn tại tiểu mục 1.2 mục 1 này."
+ENTITY,E39_37,KHOAN,Khoản,structure,13796,14163,"1.4. Khi đương sự có yêu cầu Toà án tiến hành thu thập chứng cứ, Toà án cần phải giải thích cho đương sự biết về nghĩa vụ nộp tiền tạm ứng chi phí tương ứng (chi phí giám định, tiền tạm ứng chi phí định giá...). Toà án chỉ tiến hành thu thập chứng cứ khi đương sự đã nộp tiền tạm ứng chi phí tương ứng, nếu thuộc trường hợp họ phải nộp tiền tạm ứng chi phí tương ứng."
+ENTITY,E39_38,KHOAN,Khoản,structure,13282,13795,"1.3. Đương sự có yêu cầu Toà án tiến hành một hoặc một số biện pháp để thu thập chứng cứ phải được thể hiện bằng văn bản (có thể làm bằng văn bản riêng, có thể ghi trong bản khai, có thể ghi trong biên bản ghi lời khai, biên bản đối chất). Trong trường hợp đương sự trực tiếp đến Toà án yêu cầu thì phải lập biên bản ghi rõ yêu cầu của đương sự. Trường hợp yêu cầu Toà án tiến hành thu thập chứng cứ bằng biện pháp yêu cầu cá nhân, cơ quan, tổ chức cung cấp chứng cứ (Điều 94 của BLTTDS) thì phải làm đơn yêu cầu."
+ENTITY,E39_39,KHOAN,Khoản,structure,11942,12053,"1.1. Chỉ khi đương sự có yêu cầu, thì Toà án mới tiến hành một hoặc một số biện pháp thu thập chứng cứ sau đây:"
+ENTITY,E39_40,KHOAN,Khoản,structure,9974,10434,"1.1. Trong trường hợp người khởi kiện, người yêu cầu giao nộp trực tiếp đơn khởi kiện, đơn yêu cầu và chứng cứ kèm theo tại Toà án, thì cán bộ bộ phận chuyên môn, nghiệp vụ của Toà án được Chánh án Toà án phân công nhận đơn chịu trách nhiệm nhận đơn và chứng cứ kèm theo đó. Cán bộ Toà án phải ghi việc nhận đơn và chứng cứ kèm theo vào sổ nhận đơn, đồng thời phải tiến hành lập biên bản về việc giao nhận chứng cứ theo quy định tại khoản 2 Điều 84 của BLTTDS."
+ENTITY,E39_41,KHOAN,Khoản,structure,10435,10859,"1.2. Trong trường hợp người khởi kiện, người yêu cầu gửi đơn khởi kiện, đơn yêu cầu kèm theo chứng cứ qua bưu điện, thì cán bộ Toà án phải ghi vào sổ nhận đơn, phải đối chiếu chứng cứ theo danh mục chứng cứ gửi kèm theo đơn khởi kiện hoặc ghi trong đơn khởi kiện để ghi vào sổ nhận đơn chứng cứ đó; nếu thấy chứng cứ nào còn thiếu hoặc không đầy đủ so với danh mục thì phải thông báo ngay cho họ biết để họ giao nộp bổ sung."
+ENTITY,E39_42,KHOAN,Khoản,structure,8846,9018,"2.8. Kết quả định giá tài sản, nếu việc định giá tài sản được tiến hành theo đúng thủ tục quy định tại Điều 92 của BLTTDS và hướng dẫn tại mục 7 Phần IV của Nghị quyết này."
+ENTITY,E39_43,KHOAN,Khoản,structure,7021,7083,2.7. Tập quán nếu được cộng đồng nơi có tập quán đó thừa nhận.
+ENTITY,E39_44,KHOAN,Khoản,structure,6833,7020,"2.6. Biên bản ghi kết quả thẩm định tại chỗ, nếu việc thẩm định tại chỗ được tiến hành theo đúng thủ tục quy định tại Điều 89 của BLTTDS và hướng dẫn tại mục 5 Phần IV của Nghị quyết này."
+ENTITY,E39_45,KHOAN,Khoản,structure,6531,6832,"2.5. Kết luận giám định, nếu việc giám định đó được tiến hành theo đúng thủ tục quy định tại Pháp lệnh giám định tư pháp và Nghị định số 67/2005/NĐ-CP ngày 19-5-2005 của Chính phủ quy định chi tiết thi hành một số điều của Pháp lệnh giám định tư pháp và hướng dẫn tại mục 6 Phần IV của Nghị quyết này."
+ENTITY,E39_46,KHOAN,Khoản,structure,6243,6530,"2.4. Lời khai của đương sự, lời khai của người làm chứng nếu được ghi bằng văn bản, băng ghi âm, đĩa ghi âm, băng ghi hình, đĩa ghi hình và được xuất trình theo đúng thủ tục quy định tại khoản 2 Điều 83 của BLTTDS và hướng dẫn tại tiểu mục 2.2 mục 2 này hoặc khai bằng lời tại phiên toà."
+ENTITY,E39_47,KHOAN,Khoản,structure,6061,6242,2.3. Vật chứng phải là hiện vật gốc liên quan đến vụ việc dân sự; nếu không phải là hiện vật gốc hoặc không liên quan đến vụ việc thì không phải là chứng cứ trong vụ việc dân sự đó.
+ENTITY,E39_48,KHOAN,Khoản,structure,4501,4738,"2.1. Các tài liệu đọc được nội dung phải là bản chính hoặc bản sao có công chứng, chứng thực hợp pháp hoặc do cơ quan, tổ chức có thẩm quyền cung cấp, xác nhận. Bản chính có thể là bản gốc hoặc bản được dùng làm cơ sở lập ra các bản sao."
+ENTITY,E39_49,KHOAN,Khoản,structure,4739,6060,"2.2. Các tài liệu nghe được, nhìn được phải được xuất trình kèm theo văn bản xác nhận xuất xứ của tài liệu đó hoặc văn bản về sự việc liên quan tới việc thu âm, thu hình đó. Các tài liệu này có thể là băng ghi âm, đĩa ghi âm, băng ghi hình, đĩa ghi hình, phim, ảnh ... Nếu đương sự không xuất trình các văn bản nêu trên, thì tài liệu nghe được, nhìn được mà đương sự giao nộp không được coi là chứng cứ.
+Ví dụ 1: Trong vụ tai nạn giao thông, người bị hại hoặc người đại diện hợp pháp của người bị hại được một người cung cấp băng ghi hình về hiện trường vụ tai nạn giao thông. Trong trường hợp này cùng với việc giao nộp băng ghi hình đó, người bị hại hoặc người đại diện hợp pháp của người bị hại phải xuất trình cho Toà án bản xác nhận của người đã cung cấp cho mình về xuất xứ của băng ghi hình đó.
+Ví dụ 2: Ông A cho ông B vay năm triệu đồng với thời hạn 12 tháng. Việc vay tài sản không lập thành văn bản, nhưng được ông A ghi âm lại toàn bộ nội dung thoả thuận về việc vay tài sản, việc giao nhận tiền và thời điểm thanh toán nợ giữa ông A và ông B để làm bằng chứng cho việc vay tài sản của ông B. Đến hạn trả nợ ông B không trả số tiền đó cho ông A. Ông A khởi kiện ông B ra Toà án. Trong trường hợp này cùng với việc giao nộp băng ghi âm, ông A phải gửi văn bản trình bày về sự việc liên quan tới việc thu âm đó."
+ENTITY,E40_1,DIEM,Điểm,structure,7084,7222,"a) Cộng đồng là tập thể những người cùng sống, có những điểm giống nhau, gắn bó thành một khối trong sinh hoạt xã hội tại nơi có tập quán;"
+ENTITY,E40_2,DIEM,Điểm,structure,7223,7417,"b) Tập quán là thói quen đã thành nếp trong đời sống xã hội, trong sản xuất và sinh hoạt thường ngày, được cộng đồng nơi có tập quán đó thừa nhận và làm theo như một quy ước chung của cộng đồng;"
+ENTITY,E40_3,DIEM,Điểm,structure,7418,7667,"c) Tập quán thương mại là thói quen được thừa nhận rộng rãi trong hoạt động thương mại trên một vùng, miền hoặc một lĩnh vực thương mại, có nội dung rõ ràng được các bên thừa nhận để xác định quyền và nghĩa vụ của các bên trong hoạt động thương mại;"
+ENTITY,E40_4,DIEM,Điểm,structure,7668,7821,"d) Tập quán thương mại quốc tế là thông lệ, cách làm lặp đi, lặp lại nhiều lần trong buôn bán quốc tế và được các tổ chức quốc tế có liên quan thừa nhận;"
+ENTITY,E40_5,DIEM,Điểm,structure,12054,12161,a) Ghi lời khai của đương sự trong trường hợp đương sự không thể tự viết được (khoản 1 Điều 86 của BLTTDS);
+ENTITY,E40_6,DIEM,Điểm,structure,12162,12227,b) Lấy lời khai của người làm chứng (khoản 1 Điều 87 của BLTTDS);
+ENTITY,E40_7,DIEM,Điểm,structure,12228,12269,c) Đối chất (khoản 1 Điều 88 của BLTTDS);
+ENTITY,E40_8,DIEM,Điểm,structure,12270,12329,"d) Xem xét, thẩm định tại chỗ (khoản 1 Điều 89 của BLTTDS);"
+ENTITY,E40_9,DIEM,Điểm,structure,12330,12408,"đ) Trưng cầu giám định, giám định bổ sung, giám định lại (Điều 90 của BLTTDS);"
+ENTITY,E40_10,DIEM,Điểm,structure,12409,12491,e) Trưng cầu giám định chứng cứ bị tố cáo là giả mạo (khoản 1 Điều 91 của BLTTDS);
+ENTITY,E40_11,DIEM,Điểm,structure,12492,12548,g) Định giá tài sản (điểm a khoản 1 Điều 92 của BLTTDS);
+ENTITY,E40_12,DIEM,Điểm,structure,12549,12599,h) Uỷ thác thu thập chứng cứ (Điều 93 của BLTTDS);
+ENTITY,E40_13,DIEM,Điểm,structure,12600,12916,"i) Thu thập chứng cứ do cá nhân, cơ quan, tổ chức đang quản lý, lưu giữ trong trường hợp đương sự đã áp dụng các biện pháp cần thiết để thu thập chứng cứ mà vẫn không thể tự mình thu thập được (khoản 1 Điều 94 của BLTTDS).
+1.2. Toà án chỉ có thể tự mình tiến hành một hoặc một số biện pháp thu thập chứng cứ sau đây:"
+ENTITY,E40_14,DIEM,Điểm,structure,12917,13005,a) Lấy lời khai của người làm chứng khi xét thấy cần thiết (khoản 1 Điều 87 của BLTTDS);
+ENTITY,E40_15,DIEM,Điểm,structure,13006,13125,"b) Đối chất khi xét thấy có sự mâu thuẫn trong lời khai của các đương sự, người làm chứng (khoản 1 Điều 88 của BLTTDS);"
+ENTITY,E40_16,DIEM,Điểm,structure,17695,17757,"a) Ngày, tháng, năm ra quyết định và tên Toà án ra quyết định;"
+ENTITY,E40_17,DIEM,Điểm,structure,17758,17818,"b) Đối tượng và những vấn đề cần xem xét, thẩm định tại chỗ;"
+ENTITY,E40_18,DIEM,Điểm,structure,20119,20181,"a) Ngày, tháng, năm ra quyết định và tên Toà án ra quyết định;"
+ENTITY,E40_19,DIEM,Điểm,structure,20182,20381,"b) Tên, địa chỉ của tổ chức giám định nếu Toà án trưng cầu tổ chức giám định hoặc họ, tên, địa chỉ của người giám định viên được trưng cầu giám định nếu Toà án trưng cầu người đó tiến hành giám định;"
+ENTITY,E40_20,DIEM,Điểm,structure,20382,20431,c) Nguồn gốc và đặc điểm của đối tượng giám định;
+ENTITY,E40_21,DIEM,Điểm,structure,20432,20495,d. Tên các tài liệu có liên quan hoặc mẫu so sánh gửi kèm theo;
+ENTITY,E40_22,DIEM,Điểm,structure,20496,20526,đ) Những vấn đề cần giám định;
+ENTITY,E40_23,DIEM,Điểm,structure,20527,20575,e) Các yêu cầu cụ thể cần có kết luận giám định;
+ENTITY,E40_24,DIEM,Điểm,structure,20853,20973,a) Theo yêu cầu của một hoặc các bên đương sự vì lý do các bên không thoả thuận được về giá của tài sản đang tranh chấp;
+ENTITY,E40_25,DIEM,Điểm,structure,22806,22872,"a) Ngày, tháng, năm ra quyết định và tên của Toà án ra quyết định;"
+ENTITY,E40_26,DIEM,Điểm,structure,22873,22897,b) Tài sản cần định giá;
+ENTITY,E40_27,DIEM,Điểm,structure,22898,22976,"c) Họ, tên, cơ quan công tác của Chủ tịch và các thành viên Hội đồng định giá;"
+ENTITY,E40_28,DIEM,Điểm,structure,22977,23011,d) Nhiệm vụ của Hội đồng định giá;
+ENTITY,E40_29,DIEM,Điểm,structure,24328,24357,"a) Ngày, tháng, năm viết đơn;"
+ENTITY,E40_30,DIEM,Điểm,structure,24358,24420,b) Tên Toà án mà đương sự yêu cầu tiến hành thu thập chứng cứ;
+ENTITY,E40_31,DIEM,Điểm,structure,24421,24483,"c) Tên, địa chỉ của người có yêu cầu Toà án thu thập chứng cứ;"
+ENTITY,E40_32,DIEM,Điểm,structure,24484,24516,d) Vấn đề cụ thể cần chứng minh;
+ENTITY,E40_33,DIEM,Điểm,structure,24517,24549,đ) Chứng cứ cụ thể cần thu thập;
+ENTITY,E40_34,DIEM,Điểm,structure,24550,24606,e) Lý do vì sao tự mình không thu thập được chứng cứ đó;
+ENTITY,E40_35,DIEM,Điểm,structure,24938,25000,"a) Ngày, tháng, năm ra quyết định và tên Toà án ra quyết định;"
+ENTITY,E40_36,DIEM,Điểm,structure,25001,25053,"b) Tên, địa chỉ của người yêu cầu cung cấp chứng cứ;"
+ENTITY,E40_37,DIEM,Điểm,structure,25054,25124,"c) Lý do của việc yêu cầu cá nhân, cơ quan, tổ chức cung cấp chứng cứ;"
+ENTITY,E40_38,DIEM,Điểm,structure,25125,25201,"d) Tên, địa chỉ của cá nhân, cơ quan, tổ chức có nghĩa vụ cung cấp chứng cứ;"
+ENTITY,E40_39,DIEM,Điểm,structure,25202,25250,đ) Chứng cứ cụ thể cần được cung cấp cho Toà án;
+ENTITY,E40_40,DIEM,Điểm,structure,29613,29811,"a) Nếu đương sự nộp chứng cứ bổ sung tại Phòng tiếp dân Toà án nhân dân tối cao, thì cán bộ Phòng tiếp dân lập biên bản giao nhận chứng cứ và Trưởng phòng tiếp dân xác nhận, ký tên, đóng dấu Toà án."
+ENTITY,E40_41,DIEM,Điểm,structure,29812,30102,"b) Nếu đương sự nộp chứng cứ bổ sung cho Thẩm tra viên Toà dân sự, Toà kinh tế, Toà lao động được phân công tiếp đương sự, thì Thẩm tra viên lập biên bản giao nhận chứng cứ và Chánh toà hoặc Phó Chánh toà Toà chuyên trách tương ứng được Chánh toà uỷ quyền xác nhận, ký tên, đóng dấu Toà án."
+ENTITY,E40_42,DIEM,Điểm,structure,25251,25296,e) Thời hạn thực hiện việc cung cấp chứng cứ.
+ENTITY,E40_43,DIEM,Điểm,structure,24607,24721,"g) Họ, tên, địa chỉ của cá nhân; tên, địa chỉ của cơ quan, tổ chức đang quản lý, lưu giữ chứng cứ cần thu thập đó."
+ENTITY,E40_44,DIEM,Điểm,structure,23012,23479,"đ) Thời gian, địa điểm tiến hành định giá.
+Để việc định giá tiến hành đúng thời gian, địa điểm ghi trong Quyết định định giá, Toà án cần liên hệ trước với các thành viên Hội đồng định giá để họ biết, sắp xếp lịch công tác và tham gia định giá. Trong trường hợp việc định giá không được tiến hành đúng thời gian ghi trong Quyết định định giá, thì Toà án phải thông báo thời gian tiến hành định giá cho các thành viên Hội đồng định giá và những người có liên quan biết."
+ENTITY,E40_45,DIEM,Điểm,structure,20974,21601,"b) Các bên đương sự thoả thuận về giá của tài sản đang tranh chấp, nhưng có căn cứ rõ ràng chứng minh rằng mức giá mà các bên đương sự thoả thuận thấp hơn giá thị trường tại địa phương nơi có tài sản đang tranh chấp hoặc thấp hơn khung giá do cơ quan nhà nước có thẩm quyền quy định đối với tài sản cùng loại, nhằm mục đích trốn thuế hoặc giảm mức đóng án phí.
+Trong trường hợp Toà án cấp phúc thẩm, Toà án cấp giám đốc thẩm, tái thẩm huỷ bản án sơ thẩm để xét xử sơ thẩm lại thì việc định giá tài sản lại chỉ được thực hiện khi một hoặc các bên đương sự có yêu cầu. Việc định giá tài sản lại được thực hiện theo thủ tục chung."
+ENTITY,E40_46,DIEM,Điểm,structure,20576,20611,g) Thời hạn trả kết luận giám định.
+ENTITY,E40_47,DIEM,Điểm,structure,17819,17884,"c) Thời gian, địa điểm tiến hành việc xem xét, thẩm định tại chỗ."
+ENTITY,E40_48,DIEM,Điểm,structure,7822,8845,"đ) Chỉ chấp nhận tập quán không trái pháp luật, đạo đức xã hội. Đối với những vấn đề mà đương sự viện dẫn tập quán nhưng đã có văn bản quy phạm pháp luật quy định, thì Toà án phải áp dụng quy định của văn bản quy phạm pháp luật đó để giải quyết mà không áp dụng tập quán.
+Ví dụ: Trong một số đồng bào dân tộc thiểu số có tập quán khi người mẹ chết chỉ các con gái có quyền, còn các con trai không có quyền hưởng phần di sản của người mẹ quá cố để lại. Trong vụ tranh chấp di sản thừa kế do người mẹ để lại, nếu người con gái viện dẫn tập quán đó để bác bỏ quyền thừa kế của các thừa kế là con trai, thì tập quán này không được chấp nhận. Vì đây là tập quán lạc hậu về hôn nhân và gia đình cần vận động xoá bỏ theo quy định tại phụ lục B ""Danh mục phong tục, tập quán lạc hậu về hôn nhân và gia đình của các dân tộc bị nghiêm cấm áp dụng hoặc cần vận động xoá bỏ"" ban hành kèm theo Nghị định số 32/2002/NĐ-CP ngày 27-3-2002 của Chính phủ quy định việc áp dụng Luật hôn nhân và gia đình năm 2000 đối với các dân tộc thiểu số."
+ENTITY,E40_49,DIEM,Điểm,structure,13126,13281,c) Định giá tài sản trong trường hợp các bên thoả thuận mức giá thấp nhằm mục đích trốn thuế hoặc giảm mức đóng án phí (điểm b khoản 1 Điều 92 của BLTTDS).
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R6_2,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_2,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R22_1,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_2,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_7,E35_6,,
+RELATION,R22_6,THUOC,Thuộc,E39_3,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_4,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_5,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_6,E35_2,,
+RELATION,R22_10,THUOC,Thuộc,E36_1,E35_7,,
+RELATION,R22_11,THUOC,Thuộc,E36_2,E35_7,,
+RELATION,R22_12,THUOC,Thuộc,E36_3,E35_7,,
+RELATION,R22_13,THUOC,Thuộc,E36_4,E35_7,,
+RELATION,R22_14,THUOC,Thuộc,E36_5,E35_7,,
+RELATION,R22_15,THUOC,Thuộc,E36_6,E35_7,,
+RELATION,R22_16,THUOC,Thuộc,E36_7,E35_6,,
+RELATION,R22_17,THUOC,Thuộc,E39_8,E35_6,,
+RELATION,R22_18,THUOC,Thuộc,E40_40,E39_8,,
+RELATION,R22_19,THUOC,Thuộc,E40_41,E39_8,,
+RELATION,R22_20,THUOC,Thuộc,E36_8,E35_5,,
+RELATION,R22_21,THUOC,Thuộc,E36_9,E35_5,,
+RELATION,R22_22,THUOC,Thuộc,E36_10,E35_5,,
+RELATION,R22_23,THUOC,Thuộc,E36_11,E35_5,,
+RELATION,R22_24,THUOC,Thuộc,E40_35,E39_11,,
+RELATION,R22_25,THUOC,Thuộc,E40_36,E39_11,,
+RELATION,R22_26,THUOC,Thuộc,E40_37,E39_11,,
+RELATION,R22_27,THUOC,Thuộc,E40_38,E39_11,,
+RELATION,R22_28,THUOC,Thuộc,E40_39,E39_11,,
+RELATION,R22_29,THUOC,Thuộc,E40_42,E39_11,,
+RELATION,R22_30,THUOC,Thuộc,E40_29,E39_12,,
+RELATION,R22_31,THUOC,Thuộc,E40_30,E39_12,,
+RELATION,R22_32,THUOC,Thuộc,E40_31,E39_12,,
+RELATION,R22_33,THUOC,Thuộc,E40_32,E39_12,,
+RELATION,R22_34,THUOC,Thuộc,E40_33,E39_12,,
+RELATION,R22_35,THUOC,Thuộc,E40_34,E39_12,,
+RELATION,R22_36,THUOC,Thuộc,E40_43,E39_12,,
+RELATION,R22_37,THUOC,Thuộc,E36_12,E35_4,,
+RELATION,R22_38,THUOC,Thuộc,E39_13,E36_12,,
+RELATION,R22_39,THUOC,Thuộc,E39_12,E36_12,,
+RELATION,R22_40,THUOC,Thuộc,E39_11,E36_12,,
+RELATION,R22_41,THUOC,Thuộc,E39_10,E36_12,,
+RELATION,R22_42,THUOC,Thuộc,E39_9,E36_12,,
+RELATION,R22_43,THUOC,Thuộc,E40_25,E39_18,,
+RELATION,R22_44,THUOC,Thuộc,E40_26,E39_18,,
+RELATION,R22_45,THUOC,Thuộc,E40_27,E39_18,,
+RELATION,R22_46,THUOC,Thuộc,E40_28,E39_18,,
+RELATION,R22_47,THUOC,Thuộc,E40_44,E39_18,,
+RELATION,R22_48,THUOC,Thuộc,E40_24,E39_19,,
+RELATION,R22_49,THUOC,Thuộc,E40_45,E39_19,,
+RELATION,R22_50,THUOC,Thuộc,E36_13,E35_4,,
+RELATION,R22_51,THUOC,Thuộc,E39_19,E36_13,,
+RELATION,R22_52,THUOC,Thuộc,E39_16,E36_13,,
+RELATION,R22_53,THUOC,Thuộc,E39_17,E36_13,,
+RELATION,R22_54,THUOC,Thuộc,E39_18,E36_13,,
+RELATION,R22_55,THUOC,Thuộc,E39_15,E36_13,,
+RELATION,R22_56,THUOC,Thuộc,E39_14,E36_13,,
+RELATION,R22_57,THUOC,Thuộc,E40_18,E39_22,,
+RELATION,R22_58,THUOC,Thuộc,E40_19,E39_22,,
+RELATION,R22_59,THUOC,Thuộc,E40_20,E39_22,,
+RELATION,R22_60,THUOC,Thuộc,E40_21,E39_22,,
+RELATION,R22_61,THUOC,Thuộc,E40_22,E39_22,,
+RELATION,R22_62,THUOC,Thuộc,E40_23,E39_22,,
+RELATION,R22_63,THUOC,Thuộc,E40_46,E39_22,,
+RELATION,R22_64,THUOC,Thuộc,E36_14,E35_4,,
+RELATION,R22_65,THUOC,Thuộc,E39_21,E36_14,,
+RELATION,R22_66,THUOC,Thuộc,E39_22,E36_14,,
+RELATION,R22_67,THUOC,Thuộc,E39_20,E36_14,,
+RELATION,R22_68,THUOC,Thuộc,E40_16,E39_27,,
+RELATION,R22_69,THUOC,Thuộc,E40_17,E39_27,,
+RELATION,R22_70,THUOC,Thuộc,E40_47,E39_27,,
+RELATION,R22_71,THUOC,Thuộc,E36_15,E35_4,,
+RELATION,R22_72,THUOC,Thuộc,E39_29,E36_15,,
+RELATION,R22_73,THUOC,Thuộc,E39_30,E36_15,,
+RELATION,R22_74,THUOC,Thuộc,E36_16,E35_4,,
+RELATION,R22_75,THUOC,Thuộc,E39_28,E36_16,,
+RELATION,R22_76,THUOC,Thuộc,E39_27,E36_16,,
+RELATION,R22_77,THUOC,Thuộc,E39_23,E36_16,,
+RELATION,R22_78,THUOC,Thuộc,E39_24,E36_16,,
+RELATION,R22_79,THUOC,Thuộc,E39_25,E36_16,,
+RELATION,R22_80,THUOC,Thuộc,E39_26,E36_16,,
+RELATION,R22_81,THUOC,Thuộc,E36_17,E35_4,,
+RELATION,R22_82,THUOC,Thuộc,E39_31,E36_17,,
+RELATION,R22_83,THUOC,Thuộc,E39_32,E36_17,,
+RELATION,R22_84,THUOC,Thuộc,E40_5,E39_39,,
+RELATION,R22_85,THUOC,Thuộc,E40_6,E39_39,,
+RELATION,R22_86,THUOC,Thuộc,E40_7,E39_39,,
+RELATION,R22_87,THUOC,Thuộc,E40_8,E39_39,,
+RELATION,R22_88,THUOC,Thuộc,E40_9,E39_39,,
+RELATION,R22_89,THUOC,Thuộc,E40_10,E39_39,,
+RELATION,R22_90,THUOC,Thuộc,E40_11,E39_39,,
+RELATION,R22_91,THUOC,Thuộc,E40_12,E39_39,,
+RELATION,R22_92,THUOC,Thuộc,E40_13,E39_39,,
+RELATION,R22_93,THUOC,Thuộc,E40_14,E39_39,,
+RELATION,R22_94,THUOC,Thuộc,E40_15,E39_39,,
+RELATION,R22_95,THUOC,Thuộc,E36_18,E35_4,,
+RELATION,R22_96,THUOC,Thuộc,E39_39,E36_18,,
+RELATION,R22_97,THUOC,Thuộc,E39_38,E36_18,,
+RELATION,R22_98,THUOC,Thuộc,E39_37,E36_18,,
+RELATION,R22_99,THUOC,Thuộc,E39_36,E36_18,,
+RELATION,R22_100,THUOC,Thuộc,E36_19,E35_3,,
+RELATION,R22_101,THUOC,Thuộc,E36_20,E35_3,,
+RELATION,R22_102,THUOC,Thuộc,E36_21,E35_3,,
+RELATION,R22_103,THUOC,Thuộc,E36_22,E35_3,,
+RELATION,R22_104,THUOC,Thuộc,E39_40,E36_22,,
+RELATION,R22_105,THUOC,Thuộc,E39_41,E36_22,,
+RELATION,R22_106,THUOC,Thuộc,E36_23,E35_2,,
+RELATION,R22_108,THUOC,Thuộc,E40_49,E39_39,,
+RELATION,R22_109,THUOC,Thuộc,E36_24,E35_4,,
+RELATION,R22_110,THUOC,Thuộc,E39_33,E36_24,,
+RELATION,R22_111,THUOC,Thuộc,E39_34,E36_24,,
+RELATION,R22_112,THUOC,Thuộc,E39_35,E36_24,,
+RELATION,R22_114,THUOC,Thuộc,E40_1,E39_43,,
+RELATION,R22_115,THUOC,Thuộc,E40_2,E39_43,,
+RELATION,R22_116,THUOC,Thuộc,E40_3,E39_43,,
+RELATION,R22_117,THUOC,Thuộc,E40_4,E39_43,,
+RELATION,R22_118,THUOC,Thuộc,E40_48,E39_43,,
+RELATION,R22_125,THUOC,Thuộc,E36_25,E35_2,,
+RELATION,R22_126,THUOC,Thuộc,E39_48,E36_25,,
+RELATION,R22_127,THUOC,Thuộc,E39_49,E36_25,,
+RELATION,R22_128,THUOC,Thuộc,E39_47,E36_25,,
+RELATION,R22_129,THUOC,Thuộc,E39_46,E36_25,,
+RELATION,R22_130,THUOC,Thuộc,E39_45,E36_25,,
+RELATION,R22_131,THUOC,Thuộc,E39_44,E36_25,,
+RELATION,R22_132,THUOC,Thuộc,E39_43,E36_25,,
+RELATION,R22_133,THUOC,Thuộc,E39_42,E36_25,,

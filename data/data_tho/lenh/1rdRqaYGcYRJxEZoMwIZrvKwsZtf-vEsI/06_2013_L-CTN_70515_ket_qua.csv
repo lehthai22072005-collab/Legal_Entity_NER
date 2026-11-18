@@ -1,0 +1,23 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,74,Lệnh số 06/2013/L-CTN Công bố Luật sửa đổi Luật thuế thu nhập doanh nghiệp
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,06/2013/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,209,234,ngày 28 tháng 06 năm 2013
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,953,967,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,988,998,2013-06-28
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1022,1034,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,75,88,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,824,832,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,873,888,Trương Tấn Sang
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,1288,1344,Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12
+ENTITY,E14_2,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,1399,1445,"Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1054,1110,Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1130,1167,Luật Tổ chức Quốc hội số 30/2001/QH10
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1187,1233,"Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)"
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R2_2,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_2,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_3,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

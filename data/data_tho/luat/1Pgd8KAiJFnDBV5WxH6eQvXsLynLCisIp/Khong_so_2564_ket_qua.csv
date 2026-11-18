@@ -1,0 +1,157 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,61,"Luật Thuế xuất khẩu, thuế nhập khẩu hàng mậu dịch số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,53,61,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,6849,6874,ngày 29 tháng 12 năm 1987
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,6940,6954,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,6975,6985,1987-12-29
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,7007,7017,1992-01-04
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,7041,7061,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,7082,7090,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,7104,7121,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,7134,7146,Lê Quang Đạo
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,7293,7311,Hiến pháp năm 1980
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,7211,7238,Bộ luật Hình sự số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,7166,7184,Hiến pháp năm 1980
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,7361,7476,"Nghị định số 134/2016/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật thuế xuất khẩu, thuế nhập khẩu"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,7526,7633,Thông tư số 43 TC/CTN Hướng dẫn quản lý thu thuế đối với các cơ quan hành chính và các đoàn thể làm kinh tế
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,8427,8478,"Luật Thuế Xuất khẩu, Thuế Nhập khẩu số 64-LTC/HĐNN8"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,7655,7699,Luật Thuế Tiêu thụ đặc biệt số 270B-NQ/HĐNN8
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,7721,7810,"Luật Sửa đổi, bổ sung một số điều của Luật thuế xuất khẩu, thuế nhập khẩu số 04/1998/QH10"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,7830,7937,Thông tư số 43 TC/CTN Hướng dẫn quản lý thu thuế đối với các cơ quan hành chính và các đoàn thể làm kinh tế
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,7957,8053,"Nghị định số 8/HĐBT Quy định chi tiết thi hành Luật thuế xuất khẩu, Thuế nhập khẩu hàng mậu dịch"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,8073,8241,"Thông tư số 48/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò dầu khí theo quy định của luật dầu khí"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,8261,8377,"Quyết định số 126/HĐBT Quy định bổ sung một số điều trong việc thi hành Luật thuế xuất khẩu, nhập khẩu hàng mậu dịch"
+ENTITY,E35_1,CHUONG,Chương,structure,557,565,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,1481,1491,CHƯƠNG II.
+ENTITY,E35_3,CHUONG,Chương,structure,2136,2146,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,2991,3000,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,4641,4649,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,5622,5631,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,6502,6512,CHƯƠNG VII
+ENTITY,E38_1,DIEU,Điều,structure,610,776,"Điều 1
+Tất cả hàng hoá mua bán, trao đổi với nước ngoài, khi xuất khẩu hoặc nhập khẩu qua biên giới Việt Nam đều là đối tượng chịu thuế xuất khẩu hoặc thuế nhập khẩu."
+ENTITY,E38_2,DIEU,Điều,structure,777,1007,"Điều 2
+Tất cả những tổ chức kinh tế được phép xuất khẩu, nhập khẩu hàng hoá, dưới đây gọi là tổ chức xuất, nhập khẩu, khi có hàng hoá xuất khẩu hoặc nhập khẩu qua biên giới Việt Nam đều phải nộp thuế xuất khẩu hoặc thuế nhập khẩu."
+ENTITY,E38_3,DIEU,Điều,structure,1008,1481,"Điều 3
+Đối với những hàng hoá xuất khẩu hoặc nhập khẩu mà có sự thoả thuận riêng về thuế xuất khẩu, thuế nhập khẩu giữa Chính phủ Việt Nam với nước ngoài, thì thuế xuất khẩu, thuế nhập khẩu thực hiện theo sự thoả thuận đó.
+Đối với hàng hoá xuất khẩu hoặc nhập khẩu thuộc các xí nghiệp có vốn đầu tư nước ngoài tại Việt Nam cũng như hàng xuất khẩu, hàng nhập khẩu trên cơ sở hợp đồng hợp tác kinh doanh thì thuế xuất khẩu, thuế nhập khẩu áp dụng theo quy định của Luật này.
+"
+ENTITY,E38_4,DIEU,Điều,structure,1509,1563,"Điều 4
+Căn cứ để tính thuế xuất khẩu, thuế nhập khẩu :"
+ENTITY,E38_5,DIEU,Điều,structure,1727,1763,"Điều 5
+Cơ sở để định giá tính thuế :"
+ENTITY,E38_6,DIEU,Điều,structure,2157,2530,"Điều 6
+Căn cứ vào chính sách khuyến khích xuất, nhập khẩu đối với khu vực và đối với nhóm hàng, mặt hàng xuất khẩu hoặc nhập khẩu, Nhà nước quy định nhóm hàng, mặt hàng chịu thuế và thuế suất đối với từng nhóm hàng, mặt hàng.
+Danh mục nhóm hàng, mặt hàng chịu thuế, thuế suất đối với từng nhóm hàng, mặt hàng do Hội đồng Nhà nước quy định trong Biểu thuế kèm theo Luật này."
+ENTITY,E38_7,DIEU,Điều,structure,2531,2643,"Điều 7
+Thuế suất đối với hàng hoá xuất khẩu, nhập khẩu gồm hai mức : thuế suất tối thiểu và thuế suất phổ thông."
+ENTITY,E38_8,DIEU,Điều,structure,3037,3127,"Điều 8
+Thuế xuất khẩu, thuế nhập khẩu được giảm hoặc miễn trong những trường hợp sau đây :"
+ENTITY,E38_9,DIEU,Điều,structure,4270,4390,"Điều 9
+Thuế xuất khẩu, thuế nhập khẩu được xét hoàn lại cho các tổ chức xuất, nhập khẩu trong những trường hợp sau đây :"
+ENTITY,E38_10,DIEU,Điều,structure,4668,4767,"Điều 10
+Hội đồng bộ trưởng tổ chức thực hiện công tác thuế xuất khẩu, thuế nhập khẩu hàng mậu dịch."
+ENTITY,E38_11,DIEU,Điều,structure,4768,4951,"Điều 11
+Tổ chức xuất, nhập khẩu mỗi lần có hàng hoá được phép xuất khẩu hoặc nhập khẩu phải lập tờ khai và nộp thuế.
+Cơ quan thu thuế có trách nhiệm kiểm tra, làm thủ tục và thu thuế."
+ENTITY,E38_12,DIEU,Điều,structure,4952,5622,"Điều 12
+Thời điểm tính thuế xuất khẩu, thuế nhập khẩu là ngày đăng ký tờ khai hàng hoá xuất, nhập khẩu.
+Trong thời hạn 8 giờ kể từ khi đăng ký tờ khai hàng hoá xuất, nhập khẩu, cơ quan thu thuế thông báo chính thức cho tổ chức nộp thuế số thuế phải nộp.
+Trong thời hạn 72 giờ kể từ khi nhận được thông báo chính thức, tổ chức nộp thuế phải nộp xong thuế.
+Trong trường hợp tổ chức nộp thuế không đồng ý với số thuế đã thông báo chính thức thì vẫn phải nộp đủ số thuế đó, đồng thời có quyền khiếu nại lên cơ quan thu thuế trung ương giải quyết ; nếu vẫn không đồng ý thì khiếu nại lên Bộ trưởng Bộ tài chính. Quyết định của Bộ trưởng Bộ tài chính là quyết định cuối cùng.
+"
+ENTITY,E38_13,DIEU,Điều,structure,5650,5657,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,6534,6620,"Điều 14
+Luật thuế xuất khẩu, thuế nhập khẩu có hiệu lực kể từ ngày 1 tháng 2 năm 1988."
+ENTITY,E38_15,DIEU,Điều,structure,6621,6683,"Điều 15
+Những quy định trước đây trái với Luật này đều bãi bỏ."
+ENTITY,E38_16,DIEU,Điều,structure,6684,6875,"Điều 16
+Hội đồng bộ trưởng quy định chi tiết thi hành Luật này.
+Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VIII, kỳ họp thứ 2, thông qua ngày 29 tháng 12 năm 1987."
+ENTITY,E39_1,KHOAN,Khoản,structure,1564,1634,"1- Số lượng từng mặt hàng ghi trong tờ khai hàng hoá xuất, nhập khẩu ;"
+ENTITY,E39_2,KHOAN,Khoản,structure,1635,1672,2- Giá tính thuế bằng đồng Việt Nam ;
+ENTITY,E39_3,KHOAN,Khoản,structure,1673,1726,"3- Thuế suất nhóm hàng, mặt hàng ghi trong Biểu thuế."
+ENTITY,E39_4,KHOAN,Khoản,structure,1764,1837,"1- Đối với hàng hoá xuất khẩu là giá bán tại cửa khẩu đi, theo hợp đồng ;"
+ENTITY,E39_5,KHOAN,Khoản,structure,1838,2136,"2- Đối với hàng hoá nhập khẩu là giá mua tại cửa khẩu đến, kể cả phí vận tải, phí bảo hiểm, theo hợp đồng.
+Trong trường hợp mua hoặc bán theo các phương thức khác thì căn cứ vào giá ghi trên các chứng từ hợp lệ.
+Tỷ giá giữa đồng Việt Nam với tiền nước ngoài do Ngân hàng Nhà nước Việt Nam công bố.
+"
+ENTITY,E39_6,KHOAN,Khoản,structure,2644,2851,1- Thuế suất tối thiểu áp dụng đối với hàng hoá xuất khẩu hoặc nhập khẩu với các nước có ký kết điều khoản ưu đãi trong quan hệ buôn bán với Việt Nam và những trường hợp khác do Hội đồng bộ trưởng quy định ;
+ENTITY,E39_7,KHOAN,Khoản,structure,2852,2991,"2- Thuế suất phổ thông áp dụng đối với hàng hoá xuất khẩu hoặc nhập khẩu với các nước khác, ngoài những nước ghi tại khoản 1 của Điều này.
+"
+ENTITY,E39_8,KHOAN,Khoản,structure,3128,3282,"1- Được giảm thuế đối với hàng hoá do chuyên chở, bốc xếp bị hư hỏng hoặc bị mất mát mà có lý do xác đáng được cơ quan Nhà nước có thẩm quyền chứng nhận ;"
+ENTITY,E39_9,KHOAN,Khoản,structure,3283,3323,2- Được miễn thuế trong các trường hợp :
+ENTITY,E39_10,KHOAN,Khoản,structure,3683,4269,"3- Được miễn hoặc giảm thuế theo quyết định của cơ quan Nhà nước quản lý đầu tư nước ngoài đối với hàng xuất khẩu, hàng nhập khẩu của xí nghiệp có vốn đầu tư nước ngoài cũng như hàng xuất khẩu, hàng nhập khẩu trên cơ sở hợp đồng hợp tác kinh doanh, trong từng trường hợp đặc biệt cần khuyến khích đầu tư.
+Đối với hàng hoá đã được giảm thuế hoặc miễn thuế nhưng sau đó lý do miễn, giảm có thay đổi khác so với quy định của Điều này, thì vẫn thu đủ thuế xuất khẩu hoặc thuế nhập khẩu.
+Hội đồng bộ trưởng quy định thẩm quyền, thủ tục xét giảm thuế, miễn thuế, thu đủ thuế ghi tại Điều này."
+ENTITY,E39_11,KHOAN,Khoản,structure,4391,4482,"1- Hàng nhập khẩu đã nộp thuế mà còn lưu kho, lưu bãi ở cửa khẩu nhưng được phép tái xuất ;"
+ENTITY,E39_12,KHOAN,Khoản,structure,4483,4572,"2- Hàng đã nộp thuế xuất khẩu nhưng được phép không xuất, hoặc không được phép xuất nữa ;"
+ENTITY,E39_13,KHOAN,Khoản,structure,4573,4641,"3- Hàng đã nộp thuế xuất khẩu theo tờ khai, nhưng thực xuất ít hơn.
+"
+ENTITY,E39_14,KHOAN,Khoản,structure,5658,5763,"1- Tổ chức nộp thuế nào chậm nộp thuế thì mỗi ngày nộp chậm bị phạt 5 phần nghìn (0,5%) số thuế nộp chậm."
+ENTITY,E39_15,KHOAN,Khoản,structure,5764,5882,2- Tổ chức nộp thuế nào có hành vi gian lận trong việc nộp thuế thì bị xử phạt theo một hoặc nhiều hình thức sau đây :
+ENTITY,E39_16,KHOAN,Khoản,structure,6306,6502,"3- Cá nhân nào có hành vi vi phạm các quy định về tính thuế, thu thuế hoặc nộp thuế thì tuỳ theo mức độ nhẹ hoặc nặng mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị xử phạt theo Bộ luật hình sự.
+"
+ENTITY,E40_1,DIEM,Điểm,structure,3324,3425,"a) Hàng hoá nhập dùng cho học tập, nghiên cứu khoa học của các trường, các viện nghiên cứu khoa học ;"
+ENTITY,E40_2,DIEM,Điểm,structure,3426,3497,"b) Hàng tạm nhập tái xuất, tạm xuất tái nhập để dự hội chợ, triển lãm ;"
+ENTITY,E40_3,DIEM,Điểm,structure,3498,3538,c) Hàng viện trợ có tính chất nhân đạo ;
+ENTITY,E40_4,DIEM,Điểm,structure,3539,3597,d) Hàng vận chuyển quá cảnh hoặc mượn đường qua Việt Nam ;
+ENTITY,E40_5,DIEM,Điểm,structure,3598,3682,"đ) Hàng là nguyên liệu, vật liệu nhập khẩu để gia công cho nước ngoài rồi xuất khẩu."
+ENTITY,E40_6,DIEM,Điểm,structure,5883,5896,a) Cảnh cáo ;
+ENTITY,E40_7,DIEM,Điểm,structure,5897,6305,"b) Phạt tiền từ 2 đến 5 lần số thuế gian lận.
+Cơ quan thu thuế được quyền áp dụng các biện pháp xử phạt theo quy định tại khoản 1, khoản 2 của Điều này.
+Trong trường hợp tổ chức nộp thuế không đồng ý với quyết định của cơ quan thu thuế thì vẫn phải chấp hành biện pháp xử lý đó, đồng thời có quyền khiếu nại lên cơ quan thu thuế trung ương. Quyết định của cơ quan thu thuế trung ương là quyết định cuối cùng."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_2,,
+RELATION,R22_7,THUOC,Thuộc,E39_1,E38_4,,
+RELATION,R22_8,THUOC,Thuộc,E39_2,E38_4,,
+RELATION,R22_9,THUOC,Thuộc,E39_3,E38_4,,
+RELATION,R22_10,THUOC,Thuộc,E38_5,E35_2,,
+RELATION,R22_11,THUOC,Thuộc,E39_4,E38_5,,
+RELATION,R22_12,THUOC,Thuộc,E39_5,E38_5,,
+RELATION,R22_13,THUOC,Thuộc,E38_6,E35_3,,
+RELATION,R22_14,THUOC,Thuộc,E38_7,E35_3,,
+RELATION,R22_15,THUOC,Thuộc,E39_6,E38_7,,
+RELATION,R22_16,THUOC,Thuộc,E39_7,E38_7,,
+RELATION,R22_17,THUOC,Thuộc,E38_8,E35_4,,
+RELATION,R22_18,THUOC,Thuộc,E39_8,E38_8,,
+RELATION,R22_19,THUOC,Thuộc,E39_9,E38_8,,
+RELATION,R22_20,THUOC,Thuộc,E40_1,E39_9,,
+RELATION,R22_21,THUOC,Thuộc,E40_2,E39_9,,
+RELATION,R22_22,THUOC,Thuộc,E40_3,E39_9,,
+RELATION,R22_23,THUOC,Thuộc,E40_4,E39_9,,
+RELATION,R22_24,THUOC,Thuộc,E40_5,E39_9,,
+RELATION,R22_25,THUOC,Thuộc,E39_10,E38_8,,
+RELATION,R22_26,THUOC,Thuộc,E38_9,E35_4,,
+RELATION,R22_27,THUOC,Thuộc,E39_11,E38_9,,
+RELATION,R22_28,THUOC,Thuộc,E39_12,E38_9,,
+RELATION,R22_29,THUOC,Thuộc,E39_13,E38_9,,
+RELATION,R22_30,THUOC,Thuộc,E38_10,E35_5,,
+RELATION,R22_31,THUOC,Thuộc,E38_11,E35_5,,
+RELATION,R22_32,THUOC,Thuộc,E38_12,E35_5,,
+RELATION,R22_33,THUOC,Thuộc,E38_13,E35_6,,
+RELATION,R22_34,THUOC,Thuộc,E39_14,E38_13,,
+RELATION,R22_35,THUOC,Thuộc,E39_15,E38_13,,
+RELATION,R22_36,THUOC,Thuộc,E40_6,E39_15,,
+RELATION,R22_37,THUOC,Thuộc,E40_7,E39_15,,
+RELATION,R22_38,THUOC,Thuộc,E39_16,E38_13,,
+RELATION,R22_39,THUOC,Thuộc,E38_14,E35_7,,
+RELATION,R22_40,THUOC,Thuộc,E38_15,E35_7,,
+RELATION,R22_41,THUOC,Thuộc,E38_16,E35_7,,

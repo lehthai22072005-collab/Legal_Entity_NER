@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "document_id": "8051",
+  "document_code": "04/NQ-1997-QH10",
+  "file_name": "04_NQ-1997-QH10_8051.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Nghị quyết số 04/NQ-1997-QH10 Phê chuẩn đề nghị của Chủ tịch nước về danh sách Phó Chủ tịch và các uỷ viên của Hội đồng Quốc phòng và An ninh",
+    "so_hieu": "04/NQ-1997-QH10",
+    "loai_van_ban": "Nghị quyết",
+    "co_quan_ban_hanh": "Quốc hội",
+    "ngay_ban_hanh": "ngày 29 tháng 9 năm 1997",
+    "ngay_co_hieu_luc": "1997-10-14",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH QUỐC HỘI",
+    "nguoi_ky": "Nông Đức Mạnh",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Nghị quyết số 04/NQ-1997-QH10 Phê chuẩn đề nghị của Chủ tịch nước về danh sách Phó Chủ tịch và các uỷ viên của Hội đồng Quốc phòng và An ninh\nQUỐC HỘI\n-------------------\nSố: 04/1997/NQ-QH10\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n-------------------\nHà Nội, ngày 29 tháng 9 năm 1997\nNGHỊ QUYẾT\nPhê chuẩn đề nghị của chủ tịch nước về danh sách phó chủ tịch\nvà các uỷ viên của Hội đồng quốc phòng và an ninh\n_____________\nCăn cứ vào Điều 84, Điều 103, Điều 104 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992; Điều 71 của Luật tổ chức Quốc hội; Điều 15 của Nội quy kỳ họp Quốc hội;\nCăn cứ vào biên bản xác định kết quả bỏ phiếu của Quốc hội phê chuẩn đề nghị của Chủ tịch nước về Danh sách Phó Chủ tịch và các thành viên Hội đồng Quốc phòng và an ninh, ngày 29 tháng 9 năm 1997.\nQUYẾT NGHỊ\nPhê chuẩn đề nghị của Chủ tịch nước về Danh sách Phó Chủ tịch và các Uỷ viên của Hội đồng quốc phòng và an ninh, gồm có:\nPhó chủ tịch:\nÔng Phan Văn Khải\nUỷ viên:\nÔng Nông Đức Mạnh\nÔng Nguyễn Mạnh Cầm\nÔng Phạm Văn Trà\nÔng Lê Minh Hương\nNghị quyết này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá X, kỳ họp thứ nhất thông qua trong phiên họp ngày 29 tháng 9 năm 1997./.\nCHỦ TỊCH QUỐC HỘI\n(Đã ký)\nNông Đức Mạnh\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 1997-10-14\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 66-LCT/HĐNN8\n[Căn cứ ban hành]: Hiến pháp năm 1992\n[Văn bản áp dụng]: Quyết định số 2323/2000/QĐ-UB Về việc một số cơ chế, chính sách khuyến khích đầu tư phát triển TTCN",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 141,
+      "text": "Nghị quyết số 04/NQ-1997-QH10 Phê chuẩn đề nghị của Chủ tịch nước về danh sách Phó Chủ tịch và các uỷ viên của Hội đồng Quốc phòng và An ninh",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 14,
+      "end": 29,
+      "text": "04/NQ-1997-QH10",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 10,
+      "text": "Nghị quyết",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 282,
+      "end": 306,
+      "text": "ngày 29 tháng 9 năm 1997",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 1316,
+      "end": 1330,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 1351,
+      "end": 1361,
+      "text": "1997-10-14",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 1385,
+      "end": 1397,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 572,
+      "end": 580,
+      "text": "Quốc hội",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 1212,
+      "end": 1229,
+      "text": "CHỦ TỊCH QUỐC HỘI",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 1238,
+      "end": 1251,
+      "text": "Nông Đức Mạnh",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E19_1",
+      "start": 1417,
+      "end": 1454,
+      "text": "Luật Tổ chức Quốc hội số 66-LCT/HĐNN8",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 455,
+      "end": 545,
+      "text": "Điều 84, Điều 103, Điều 104 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_1",
+      "start": 1512,
+      "end": 1611,
+      "text": "Quyết định số 2323/2000/QĐ-UB Về việc một số cơ chế, chính sách khuyến khích đầu tư phát triển TTCN",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E2_1",
+      "to_id": "E19_2",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R18_1",
+      "from_id": "E30_1",
+      "to_id": "E2_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

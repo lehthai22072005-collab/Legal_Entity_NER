@@ -1,0 +1,345 @@
+{
+  "schema_version": "1.0",
+  "document_id": "70429",
+  "document_code": "34/2014/L-CTN",
+  "file_name": "34_2014_L-CTN_70429.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 34/2014/L-CTN Công bố Luật giáo dục nghề nghiệp",
+    "so_hieu": "34/2014/L-CTN",
+    "loai_van_ban": "Lệnh",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại",
+    "ngay_ban_hanh": "2014-12-09",
+    "ngay_co_hieu_luc": "ngày 09 tháng 12 năm 2014",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Hết hiệu lực một phần",
+    "co_quan_ban_hanh": "Chủ tịch nước",
+    "chuc_danh": "Chủ tịch nước",
+    "nguoi_ky": "Trương Tấn Sang"
+  },
+  "full_text": "Lệnh số 34/2014/L-CTN Công bố Luật giáo dục nghề nghiệp\nCHỦ TỊCH NƯỚC\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAMĐộc lập - Tự do - Hạnh phúc\nSố: 34/2014/L-CTN\nHà Nội, ngày 09 tháng 12 năm 2014\nLỆNH\nVề việc công bố Luật\n__________\nCHỦ TỊCH\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 88 và Điều 91 của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nCăn cứ Điều 91 của Luật tổ chức Quốc hội;\nCăn cứ Điều 57 của Luật ban hành văn bản quy phạm pháp luật,\nNAY CÔNG BỐ\nLuật giáo dục nghề nghiệp\nĐã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 27 tháng 11 năm 2014./.\nCHỦ TỊCH\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTrương Tấn Sang\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày ban hành]: 2014-12-09\n[Tình trạng hiệu lực]: Hết hiệu lực một phần\n[Căn cứ ban hành]: Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 30/2001/QH10\n[Căn cứ ban hành]: Hiến pháp năm 2013\n[Văn bản áp dụng]: Luật Giáo dục nghề nghiệp số 74/2014/QH13\n[Văn bản áp dụng]: Quyết định số 51/2024/QĐ-UBND Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trường Cao đẳng Huế\n[Văn bản áp dụng]: Thông tư số 08/2018/TT-BLĐTBXH Quy định định mức kinh tế - kỹ thuật về đào tạo trình độ trung cấp, trình độ cao đẳng cho các nghề: Điện công nghiệp; Kỹ thuật máy lạnh và điều hòa không khí; Vận hành máy thi công nền; Vận hành cần, cầu trục; Kỹ thuật xây dựng; Bảo vệ thực vật; Chế biến và bảo quản thủy sản; Quản trị mạng máy tính; Quản trị kinh doanh xăng dầu và gas\n[Văn bản được quy định chi tiết, hướng dẫn thi hành]: Hiến pháp năm 2013\n[Văn bản được quy định chi tiết, hướng dẫn thi hành]: Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12\n[Văn bản sửa đổi bổ sung]: Luật Giáo dục số 43/2019/QH14",
+  "structural_units": [
+    {
+      "id": "unit_preamble",
+      "type": "PREAMBLE",
+      "title": "Phần mở đầu và Căn cứ ban hành",
+      "start": 0,
+      "end": 676,
+      "parent_id": null
+    }
+  ],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 55,
+      "text": "Lệnh số 34/2014/L-CTN Công bố Luật giáo dục nghề nghiệp",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 21,
+      "text": "34/2014/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 773,
+      "end": 783,
+      "text": "2014-12-09",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 741,
+      "end": 755,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 158,
+      "end": 183,
+      "text": "ngày 09 tháng 12 năm 2014",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 807,
+      "end": 828,
+      "text": "Hết hiệu lực một phần",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 56,
+      "end": 69,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 56,
+      "end": 69,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 661,
+      "end": 676,
+      "text": "Trương Tấn Sang",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E19_1",
+      "start": 848,
+      "end": 904,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 924,
+      "end": 961,
+      "text": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 981,
+      "end": 999,
+      "text": "Hiến pháp năm 2013",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_1",
+      "start": 1019,
+      "end": 1060,
+      "text": "Luật Giáo dục nghề nghiệp số 74/2014/QH13",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_2",
+      "start": 1080,
+      "end": 1200,
+      "text": "Quyết định số 51/2024/QĐ-UBND Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trường Cao đẳng Huế",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_3",
+      "start": 1220,
+      "end": 1587,
+      "text": "Thông tư số 08/2018/TT-BLĐTBXH Quy định định mức kinh tế - kỹ thuật về đào tạo trình độ trung cấp, trình độ cao đẳng cho các nghề: Điện công nghiệp; Kỹ thuật máy lạnh và điều hòa không khí; Vận hành máy thi công nền; Vận hành cần, cầu trục; Kỹ thuật xây dựng; Bảo vệ thực vật; Chế biến và bảo quản thủy sản; Quản trị mạng máy tính; Quản trị kinh doanh xăng dầu và gas",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    },
+    {
+      "id": "E14_1",
+      "start": 1642,
+      "end": 1660,
+      "text": "Hiến pháp năm 2013",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E14_2",
+      "start": 1715,
+      "end": 1771,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E32_1",
+      "start": 1799,
+      "end": 1828,
+      "text": "Luật Giáo dục số 43/2019/QH14",
+      "code": "VB_SUA_DOI_BO_SUNG",
+      "label": "Văn bản sửa đổi bổ sung",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "RCAN_CU_BAN_HANH_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "RCAN_CU_BAN_HANH_2",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "RCAN_CU_BAN_HANH_3",
+      "from_id": "E19_3",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "RAP_DUNG_1",
+      "from_id": "E30_1",
+      "to_id": "E2_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "RAP_DUNG_2",
+      "from_id": "E30_2",
+      "to_id": "E2_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "RAP_DUNG_3",
+      "from_id": "E30_3",
+      "to_id": "E2_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1",
+      "from_id": "E14_1",
+      "to_id": "E2_1",
+      "code": "DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Được quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_2",
+      "from_id": "E14_2",
+      "to_id": "E2_1",
+      "code": "DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Được quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "RSUA_DOI_BO_SUNG_1",
+      "from_id": "E32_1",
+      "to_id": "E2_1",
+      "code": "SUA_DOI_BO_SUNG",
+      "label": "Sửa đổi bổ sung"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": [],
+    "annotation_status": "silver_automated_not_gold",
+    "source_vbpl_item_id": "70429",
+    "source_folder": "34_2014_L-CTN_70429",
+    "source_data_url": "https://vbpl.vn/van-ban/chi-tiet/lenh-so-34-2014-l-ctn-cong-bo-luat-giao-duc-nghe-nghiep--70429",
+    "vbpl_relation_provenance": [
+      {
+        "source_label": "Căn cứ ban hành",
+        "original_direction": "outgoing",
+        "other_document_id": "12803",
+        "other_title": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/12803"
+      },
+      {
+        "source_label": "Căn cứ ban hành",
+        "original_direction": "outgoing",
+        "other_document_id": "22840",
+        "other_title": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/22840"
+      },
+      {
+        "source_label": "Căn cứ ban hành",
+        "original_direction": "outgoing",
+        "other_document_id": "32801",
+        "other_title": "Hiến pháp năm 2013",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/32801"
+      },
+      {
+        "source_label": "Văn bản áp dụng",
+        "original_direction": "incoming",
+        "other_document_id": "46822",
+        "other_title": "Luật Giáo dục nghề nghiệp số 74/2014/QH13",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/46822"
+      },
+      {
+        "source_label": "Văn bản áp dụng",
+        "original_direction": "incoming",
+        "other_document_id": "169241",
+        "other_title": "Quyết định số 51/2024/QĐ-UBND Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trường Cao đẳng Huế",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/169241"
+      },
+      {
+        "source_label": "Văn bản áp dụng",
+        "original_direction": "incoming",
+        "other_document_id": "131149",
+        "other_title": "Thông tư số 08/2018/TT-BLĐTBXH Quy định định mức kinh tế - kỹ thuật về đào tạo trình độ trung cấp, trình độ cao đẳng cho các nghề: Điện công nghiệp; Kỹ thuật máy lạnh và điều hòa không khí; Vận hành máy thi công nền; Vận hành cần, cầu trục; Kỹ thuật xây dựng; Bảo vệ thực vật; Chế biến và bảo quản thủy sản; Quản trị mạng máy tính; Quản trị kinh doanh xăng dầu và gas",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/131149"
+      },
+      {
+        "source_label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+        "original_direction": "outgoing",
+        "other_document_id": "32801",
+        "other_title": "Hiến pháp năm 2013",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/32801"
+      },
+      {
+        "source_label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+        "original_direction": "outgoing",
+        "other_document_id": "12803",
+        "other_title": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/12803"
+      },
+      {
+        "source_label": "Văn bản sửa đổi bổ sung",
+        "original_direction": "incoming",
+        "other_document_id": "136042",
+        "other_title": "Luật Giáo dục số 43/2019/QH14",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/136042"
+      }
+    ],
+    "generation_notes": []
+  }
+}

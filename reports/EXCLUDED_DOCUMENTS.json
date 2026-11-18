@@ -1,0 +1,13 @@
+[
+  {
+    "document_id": "01_2019_NQ-HĐTP_134278",
+    "file_id": "1SCBE6Tz9kQk-QOGmTbBCG-O2p61sm0k0",
+    "reason": "Conflicting nonidentical exports of same document ID; requires review"
+  },
+  {
+    "document_id": "545_2007_UBTVQH12_13014",
+    "category": "nghi_quyet",
+    "file_id": "1m9UypFqCoI-Vu-NwnD2zBjOMUAFdOCX_",
+    "reason": "No original DOCX and no explicit exported-body boundary; scope needs review"
+  }
+]

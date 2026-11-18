@@ -1,0 +1,54 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,261,382,"NGHỊ QUYẾT
+Về việc điều chỉnh quy hoạch sử dụng đất đến năm 2010
+và kế hoạch sử dụng đất 5 năm (2006 - 2010) tỉnh Gia Lai"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,150,163,01/2008/NQ-CP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,261,271,NGHỊ QUYẾT
+ENTITY,E4_1,NGANH,Ngành,metadata,14286,14310,Tài nguyên và Môi trường
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,235,260,ngày 08 tháng 01 năm 2008
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,13951,13965,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,13986,13996,2008-01-31
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,14020,14032,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,411,420,CHÍNH PHỦ
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,13853,13862,THỦ TƯỚNG
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,13871,13886,Nguyễn Tấn Dũng
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,485,523,Luật đất đai ngày 26 tháng 11 năm 2003
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,428,476,Luật tổ chức Chính phủ ngày 25 tháng 12 năm 2001
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,14082,14180,Nghị định số 151/2020/NĐ-CP về việc bãi bỏ một số văn bản quy phạm pháp luật do Chính phủ ban hành
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,14200,14276,Nghị quyết số 33/2008/NQ-HĐND Kế hoạch sử dụng đất đai năm 2009 tỉnh Gia Lai
+ENTITY,E38_1,DIEU,Điều,structure,723,833,Điều 1. Xét duyệt điều chỉnh quy hoạch sử dụng đất đến năm 2010 tỉnh Gia Lai với các chỉ tiêu chủ yếu như sau:
+ENTITY,E38_2,DIEU,Điều,structure,5843,5944,Điều 2. Xét duyệt kế hoạch sử dụng đất 5 năm (2006 - 2010) của tỉnh với các chỉ tiêu chủ yếu như sau:
+ENTITY,E38_3,DIEU,Điều,structure,12672,12751,"Điều 3. Căn cứ vào Nghị quyết này, Ủy ban nhân dân tỉnh Gia Lai có trách nhiệm:"
+ENTITY,E38_4,DIEU,Điều,structure,13674,13838,"Điều 4. Bộ trưởng Bộ Tài nguyên và Môi trường, Chủ tịch Ủy ban nhân dân tỉnh Gia Lai, Thủ trưởng các Bộ, ngành liên quan chịu trách nhiệm thi hành Nghị quyết này./."
+ENTITY,E39_1,KHOAN,Khoản,structure,834,867,"1. Diện tích, cơ cấu các loại đất"
+ENTITY,E39_2,KHOAN,Khoản,structure,3649,3689,2. Diện tích chuyển mục đích sử dụng đất
+ENTITY,E39_3,KHOAN,Khoản,structure,4301,4330,3. Diện tích đất phải thu hồi
+ENTITY,E39_4,KHOAN,Khoản,structure,4814,4876,4. Diện tích đất chưa sử dụng đưa vào sử dụng cho các mục đích
+ENTITY,E39_5,KHOAN,Khoản,structure,5945,5996,1. Phân bố diện tích các loại đất trong kỳ kế hoạch
+ENTITY,E39_6,KHOAN,Khoản,structure,9612,9651,2. Kế hoạch chuyển mục đích sử dụng đất
+ENTITY,E39_7,KHOAN,Khoản,structure,10539,10562,3. Kế hoạch thu hồi đất
+ENTITY,E39_8,KHOAN,Khoản,structure,11399,11443,4. Kế hoạch đưa đất chưa sử dụng vào sử dụng
+ENTITY,E39_9,KHOAN,Khoản,structure,12752,12914,"1. Tổ chức thực hiện quy hoạch, kế hoạch sử dụng đất phải gắn với mục tiêu phát triển kinh tế - xã hội, nhiệm vụ quốc phòng, an ninh, bảo vệ môi trường sinh thái."
+ENTITY,E39_10,KHOAN,Khoản,structure,12915,13157,"2. Việc giao đất, cho thuê đất, chuyển mục đích sử dụng đất phải theo đúng thẩm quyền và phải căn cứ vào quy hoạch, kế hoạch sử dụng đất đã được cấp có thẩm quyền xét duyệt, bảo đảm sử dụng đất đúng mục đích, tiết kiệm, hợp lý và có hiệu quả."
+ENTITY,E39_11,KHOAN,Khoản,structure,13158,13371,"3. Tăng cường công tác thanh tra, kiểm tra việc quản lý sử dụng đất đai, giải quyết kịp thời các tranh chấp về đất đai, kiên quyết xử lý các trường hợp vi phạm pháp luật đất đai, vi phạm quy hoạch sử dụng đất đai."
+ENTITY,E39_12,KHOAN,Khoản,structure,13372,13510,4. Có các giải pháp cụ thể để huy động vốn và các nguồn lực đáp ứng nhu cầu vốn đầu tư cho việc thực hiện phương án quy hoạch sử dụng đất.
+ENTITY,E39_13,KHOAN,Khoản,structure,13511,13673,"5. Trong trường hợp phải điều chỉnh các chỉ tiêu chủ yếu của quy hoạch, kế hoạch sử dụng đất thì Ủy ban nhân dân tỉnh Gia Lai trình Chính phủ xem xét, quyết định."
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_4,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E26_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_2,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,R22_7,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,R22_8,THUOC,Thuộc,E39_8,E38_2,,
+RELATION,R22_9,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_10,THUOC,Thuộc,E39_10,E38_3,,
+RELATION,R22_11,THUOC,Thuộc,E39_11,E38_3,,
+RELATION,R22_12,THUOC,Thuộc,E39_12,E38_3,,
+RELATION,R22_13,THUOC,Thuộc,E39_13,E38_3,,
+RELATION,R22_14,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_15,THUOC,Thuộc,E11_1,E10_1,,

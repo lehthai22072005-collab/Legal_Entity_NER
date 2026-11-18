@@ -1,0 +1,52 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,74,Pháp lệnh số Không số Sửa đổi điều 6 Pháp lệnh lực lượng cảnh sát nhân dân
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,9,Pháp lệnh
+ENTITY,E4_1,NGANH,Ngành,metadata,1454,1461,Công an
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,1506,1516,1995-07-06
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1474,1488,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1245,1268,ngày 1 tháng 8 năm 1995
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,1538,1548,2006-07-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1572,1592,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,75,100,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1362,1370,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1379,1392,Nông Đức Mạnh
+ENTITY,E38_1,DIEU,Điều,structure,554,560,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1209,1215,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1270,1276,Điều 3
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1612,1630,Hiến pháp năm 1992
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,1650,1759,"Nghị định số 77/1998/NĐ-CP Về sửa đổi, bổ sung một số điều của Nghị định số 40/CP ngày 5/7/1996 của Chính phủ"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,1779,1878,Nghị định số 152/2005/NĐ-CP Quy định về xử lý vi phạm hành chính trong lĩnh vực giao thông đường bộ
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,1898,2044,Nghị định số 49-CP Về việc quy định xử phạt hành chính về hành vi vi phạm trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,2064,2202,Nghị định số 49/CP Quy định xử phạt hành chính về hành vi vi phạm trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,2222,2336,"Nghị định số 76/1998/NĐ-CP Về việc sửa đổi, bổ sung một số điều của Nghị định số 39/CP ngày 5/7/1996 của Chính phủ"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,2356,2466,"Nghị định số 78/1998/NĐ-CP Về bổ sung, sửa đổi một số điều của Nghị định số 49/CP ngày 26/7/1995 của Chính phủ"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,2486,2562,"Nghị định số 40/CP Về đảm bảo trật tự, an toàn giao thông đường thủy nội địa"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,2582,2667,Nghị định số 15/2003/NĐ-CP Quy định xử phạt vi phạm hành chính về giao thông đường bộ
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,2687,2822,"Nghị định số 92/2003/NĐ-CP Về việc sửa đổi, bổ sung khoản 3 Điều 41, Nghị định số 15/2003/NĐ-CP ngày 19 tháng 02 năm 2003 của Chính phủ"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,2842,2908,Nghị định số 39/CP Về bảo đảm trật tự an toàn giao thông đường sắt
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,2928,3030,Nghị định số 123/2005/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực phòng cháy và chữa cháy
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,3050,3196,Nghị định số 39/2001/NĐ-CP Quy định xử phạt hành chính về hành vi vi phạm trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,3251,3269,Hiến pháp năm 1992
+ENTITY,E31_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3319,3465,Nghị định số 49-CP Về việc quy định xử phạt hành chính về hành vi vi phạm trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị
+ENTITY,E31_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3515,3591,"Nghị định số 40/CP Về đảm bảo trật tự, an toàn giao thông đường thủy nội địa"
+ENTITY,E42_1,VB_DUOC_SUA_DOI_BO_SUNG,Văn bản được sửa đổi bổ sung,reference,3624,3682,Pháp lệnh số Không số Lực lượng Cảnh sát nhân dân Việt Nam
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,3703,3740,Luật Công an nhân dân số 54/2005/QH11
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RAP_DUNG_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,RAP_DUNG_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,RAP_DUNG_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,RAP_DUNG_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,RAP_DUNG_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,RAP_DUNG_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,RAP_DUNG_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,RAP_DUNG_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,RAP_DUNG_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,RAP_DUNG_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,RAP_DUNG_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,RAP_DUNG_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_1,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_2,E2_1,,
+RELATION,RDUOC_SUA_DOI_BO_SUNG_1,DUOC_SUA_DOI_BO_SUNG,Được sửa đổi bổ sung,E42_1,E2_1,,
+RELATION,RTHAY_THE_1,THAY_THE,Thay thế,E43_1,E2_1,,

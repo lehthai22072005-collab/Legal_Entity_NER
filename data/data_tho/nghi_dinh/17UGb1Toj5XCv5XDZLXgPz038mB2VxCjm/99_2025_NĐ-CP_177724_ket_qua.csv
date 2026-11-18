@@ -1,0 +1,420 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,247,352,"NGHỊ ĐỊNH
+Quy định chi tiết một số điều của
+Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,200,213,99/2025/NĐ-CP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,247,256,NGHỊ ĐỊNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,222,246,ngày 06 tháng 5 năm 2025
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,45641,45655,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,45258,45282,ngày 01 tháng 7 năm 2025
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,45551,45560,THỦ TƯỚNG
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,45679,45691,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,123,132,CHÍNH PHỦ
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,45561,45576,Phạm Minh Chính
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,417,503,"Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp ngày 27 tháng 6 năm 2024"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,417,503,"Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp ngày 27 tháng 6 năm 2024"
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,360,408,Luật Tổ chức Chính phủ ngày 18 tháng 02 năm 2025
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,45742,45816,Nghị định số 60/2026/NĐ-CP Quy định về tổ hợp công nghiệp an ninh quốc gia
+ENTITY,E35_1,CHUONG,Chương,structure,673,696,"Chương I
+QUY ĐỊNH CHUNG"
+ENTITY,E35_2,CHUONG,Chương,structure,1835,1935,"Chương II
+ĐIỀU KIỆN, HÌNH THỨC THAM GIA HOẠT ĐỘNG CÔNG NGHIỆP QUỐC PHÒNG, AN NINH CỦA CƠ SỞ HUY ĐỘNG"
+ENTITY,E35_3,CHUONG,Chương,structure,18542,18582,"Chương III
+TỔ HỢP CÔNG NGHIỆP QUỐC PHÒNG"
+ENTITY,E35_4,CHUONG,Chương,structure,33951,34020,"Chương IV
+XUẤT KHẨU SẢN PHẨM, DỊCH VỤ CÔNG NGHIỆP QUỐC PHÒNG, AN NINH"
+ENTITY,E35_5,CHUONG,Chương,structure,45164,45192,"Chương V
+ĐIỀU KHOẢN THI HÀNH"
+ENTITY,E36_1,MUC,Mục,structure,18583,18654,"Mục 1
+CHỨC NĂNG, NHIỆM VỤ, THÀNH PHẦN CỦA TỔ HỢP CÔNG NGHIỆP QUỐC PHÒNG"
+ENTITY,E36_2,MUC,Mục,structure,21764,21808,"Mục 2
+HẠT NHÂN TỔ HỢP CÔNG NGHIỆP QUỐC PHÒNG"
+ENTITY,E36_3,MUC,Mục,structure,27897,27993,"Mục 3
+CHÍNH SÁCH ĐỐI VỚI TỔ HỢP CÔNG NGHIỆP QUỐC PHÒNG VÀ HẠT NHÂN TỔ HỢP CÔNG NGHIỆP QUỐC PHÒNG"
+ENTITY,E38_1,DIEU,Điều,structure,697,723,Điều 1. Phạm vi điều chỉnh
+ENTITY,E38_2,DIEU,Điều,structure,1176,1201,Điều 2. Đối tượng áp dụng
+ENTITY,E38_3,DIEU,Điều,structure,1936,2041,"Điều 3. Điều kiện chung áp dụng đối với cơ sở huy động tham gia hoạt động công nghiệp quốc phòng, an ninh"
+ENTITY,E38_4,DIEU,Điều,structure,2545,2665,"Điều 4. Điều kiện, hình thức, trình tự tham gia hoạt động cung cấp dịch vụ thanh toán và cấp tín dụng của cơ sở huy động"
+ENTITY,E38_5,DIEU,Điều,structure,7092,7311,"Điều 5. Điều kiện, hình thức, trình tự tham gia hoạt động đào tạo, bồi dưỡng nguồn nhân lực; cung cấp sản phẩm, dịch vụ về quản trị doanh nghiệp, an toàn thông tin, công nghệ cao, công nghệ chiến lược của cơ sở huy động"
+ENTITY,E38_6,DIEU,Điều,structure,12448,12838,"Điều 6. Điều kiện, hình thức, trình tự tham gia nghiên cứu, sản xuất chi tiết, phụ tùng, vật tư, bán thành phẩm sản phẩm quốc phòng, an ninh; nghiên cứu, ứng dụng công nghệ cao, công nghệ nền, công nghệ lõi; chuyển giao công nghệ cho cơ sở công nghiệp quốc phòng nòng cốt, cơ sở công nghiệp an ninh nòng cốt; cung ứng, dự trữ, bảo quản vật tư sản xuất quốc phòng, an ninh của cơ sở huy động"
+ENTITY,E38_7,DIEU,Điều,structure,15788,16009,"Điều 7. Điều kiện, hình thức, trình tự tham gia sản xuất sản phẩm phục vụ quốc phòng, an ninh thông qua liên doanh, liên kết với cơ sở công nghiệp quốc phòng nòng cốt, cơ sở công nghiệp an ninh nòng cốt của cơ sở huy động"
+ENTITY,E38_8,DIEU,Điều,structure,18655,18716,"Điều 8. Chức năng, nhiệm vụ của tổ hợp công nghiệp quốc phòng"
+ENTITY,E38_9,DIEU,Điều,structure,20973,21025,Điều 9. Thành phần của tổ hợp công nghiệp quốc phòng
+ENTITY,E38_10,DIEU,Điều,structure,21809,21907,Điều 10. Điều kiện cơ sở công nghiệp quốc phòng nòng cốt là hạt nhân tổ hợp công nghiệp quốc phòng
+ENTITY,E38_11,DIEU,Điều,structure,23070,23127,Điều 11. Công nhận hạt nhân tổ hợp công nghiệp quốc phòng
+ENTITY,E38_12,DIEU,Điều,structure,24950,25011,Điều 12. Hủy công nhận hạt nhân tổ hợp công nghiệp quốc phòng
+ENTITY,E38_13,DIEU,Điều,structure,25895,25958,Điều 13. Trách nhiệm của hạt nhân tổ hợp công nghiệp quốc phòng
+ENTITY,E38_14,DIEU,Điều,structure,27994,28064,Điều 14. Chính sách của Nhà nước đối với tổ hợp công nghiệp quốc phòng
+ENTITY,E38_15,DIEU,Điều,structure,30630,30709,Điều 15. Chính sách của Nhà nước đối với hạt nhân tổ hợp công nghiệp quốc phòng
+ENTITY,E38_16,DIEU,Điều,structure,34021,34089,"Điều 16. Sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh xuất khẩu"
+ENTITY,E38_17,DIEU,Điều,structure,35411,35493,"Điều 17. Yêu cầu trong xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh"
+ENTITY,E38_18,DIEU,Điều,structure,37079,37157,"Điều 18. Quy trình xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh"
+ENTITY,E38_19,DIEU,Điều,structure,37349,37435,"Điều 19. Xây dựng danh mục sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh xuất khẩu"
+ENTITY,E38_20,DIEU,Điều,structure,38681,38738,"Điều 20. Đàm phán, ký kết hợp đồng với đối tác nước ngoài"
+ENTITY,E38_21,DIEU,Điều,structure,39194,39271,"Điều 21. Cấp phép xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh"
+ENTITY,E38_22,DIEU,Điều,structure,40894,40989,"Điều 22. Sửa đổi, bổ sung giấy phép xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh"
+ENTITY,E38_23,DIEU,Điều,structure,42469,42555,"Điều 23. Gia hạn giấy phép xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh"
+ENTITY,E38_24,DIEU,Điều,structure,43942,44032,"Điều 24. Miễn thuế, thông quan sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh xuất khẩu"
+ENTITY,E38_25,DIEU,Điều,structure,45193,45219,Điều 25. Hiệu lực thi hành
+ENTITY,E38_26,DIEU,Điều,structure,45284,45313,Điều 26. Trách nhiệm thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,838,932,"1. Điều kiện, hình thức tham gia hoạt động công nghiệp quốc phòng, an ninh của cơ sở huy động."
+ENTITY,E39_2,KHOAN,Khoản,structure,933,1002,"2. Chức năng, nhiệm vụ, thành phần của tổ hợp công nghiệp quốc phòng."
+ENTITY,E39_3,KHOAN,Khoản,structure,1003,1045,3. Hạt nhân tổ hợp công nghiệp quốc phòng.
+ENTITY,E39_4,KHOAN,Khoản,structure,1046,1111,4. Chính sách của Nhà nước đối với tổ hợp công nghiệp quốc phòng.
+ENTITY,E39_5,KHOAN,Khoản,structure,1112,1175,"5. Xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh."
+ENTITY,E39_6,KHOAN,Khoản,structure,1202,1477,"1. Nghị định này áp dụng đối với tổ chức, doanh nghiệp, cá nhân có liên quan trong việc tham gia hoạt động công nghiệp quốc phòng, an ninh của cơ sở huy động, tham gia hoạt động của tổ hợp công nghiệp quốc phòng và xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh."
+ENTITY,E39_7,KHOAN,Khoản,structure,1478,1834,"2. Chương II Nghị định này không áp dụng đối với doanh nghiệp, tổ chức ngoài lực lượng vũ trang và doanh nghiệp có phần vốn góp của Nhà nước do Bộ Quốc phòng, Bộ Công an quản lý không thuộc trường hợp được huy động tham gia hoạt động công nghiệp quốc phòng, an ninh quy định tại khoản 5 Điều 2 Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp."
+ENTITY,E39_8,KHOAN,Khoản,structure,2042,2274,"1. Được thành lập theo quy định của pháp luật Việt Nam; hoạt động trên lãnh thổ Việt Nam, có cơ sở vật chất, nhân lực, trang thiết bị đáp ứng yêu cầu tham gia hoạt động công nghiệp quốc phòng, an ninh đối với lĩnh vực được huy động."
+ENTITY,E39_9,KHOAN,Khoản,structure,2275,2382,"2. Đảm bảo bí mật theo quy định của pháp luật về bảo vệ bí mật nhà nước trong lĩnh vực quốc phòng, an ninh."
+ENTITY,E39_10,KHOAN,Khoản,structure,2383,2544,"3. Không đang bị truy cứu trách nhiệm hình sự hoặc đã bị kết án về tội phạm hình sự, kể cả trường hợp đã được xóa án tích theo quy định của pháp luật về hình sự."
+ENTITY,E39_11,KHOAN,Khoản,structure,2666,2870,"1. Cơ sở huy động tham gia hoạt động công nghiệp quốc phòng, an ninh lĩnh vực cung cấp dịch vụ thanh toán và cấp tín dụng phải đáp ứng các điều kiện quy định tại Điều 3 Nghị định này và các điều kiện sau:"
+ENTITY,E39_12,KHOAN,Khoản,structure,3636,3862,"2. Việc tham gia hoạt động công nghiệp quốc phòng, an ninh lĩnh vực cung cấp dịch vụ thanh toán và cấp tín dụng của cơ sở huy động được thực hiện theo quyết định giao nhiệm vụ của Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an."
+ENTITY,E39_13,KHOAN,Khoản,structure,3863,3884,3. Trình tự tham gia:
+ENTITY,E39_14,KHOAN,Khoản,structure,7312,7506,"1. Cơ sở huy động tham gia hoạt động công nghiệp quốc phòng, an ninh lĩnh vực đào tạo, bồi dưỡng nguồn nhân lực phải đáp ứng các điều kiện quy định tại Điều 3 Nghị định này và các điều kiện sau:"
+ENTITY,E39_15,KHOAN,Khoản,structure,7952,8179,"2. Cơ sở huy động tham gia hoạt động cung cấp sản phẩm, dịch vụ về quản trị doanh nghiệp, an toàn thông tin, công nghệ cao, công nghệ chiến lược phải đáp ứng các điều kiện quy định tại Điều 3 Nghị định này và các điều kiện sau:"
+ENTITY,E39_16,KHOAN,Khoản,structure,8634,8898,"3. Cơ sở huy động tham gia đào tạo, bồi dưỡng nguồn nhân lực, cung cấp sản phẩm, dịch vụ về quản trị doanh nghiệp, an toàn thông tin, công nghệ cao, công nghệ chiến lược thông qua hợp đồng đặt hàng với cơ quan, đơn vị, doanh nghiệp thuộc Bộ Quốc phòng, Bộ Công an."
+ENTITY,E39_17,KHOAN,Khoản,structure,8899,9161,"4. Cơ quan, đơn vị, doanh nghiệp thuộc Bộ Quốc phòng, Bộ Công an hoạt động trong lĩnh vực công nghiệp quốc phòng, an ninh gửi văn bản về nhu cầu đặt hàng kèm theo các điều kiện tương ứng quy định tại các khoản 1 và khoản 2 Điều này đến các tổ chức, doanh nghiệp."
+ENTITY,E39_18,KHOAN,Khoản,structure,9162,9201,"5. Cơ sở huy động lập 01 bộ hồ sơ, gồm:"
+ENTITY,E39_19,KHOAN,Khoản,structure,9685,10089,"6. Hồ sơ quy định tại khoản 5 Điều này nộp trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc trên môi trường điện tử đến cơ quan, đơn vị, doanh nghiệp thuộc Bộ Quốc phòng, Bộ Công an có nhu cầu; trường hợp nộp hồ sơ qua môi trường điện tử, việc tiếp nhận, giải quyết thủ tục hành chính thực hiện theo quy định của pháp luật về thực hiện thủ tục hành chính trên môi trường điện tử. Trình tự thực hiện như sau:"
+ENTITY,E39_20,KHOAN,Khoản,structure,12839,13001,"1. Cơ sở huy động phải đáp ứng các điều kiện quy định tại Điều 3 Nghị định này và tư cách hợp lệ của nhà thầu, nhà đầu tư theo quy định của pháp luật về đấu thầu."
+ENTITY,E39_21,KHOAN,Khoản,structure,13002,13526,"2. Cơ sở huy động tham gia nghiên cứu, sản xuất chi tiết, phụ tùng, vật tư, bán thành phẩm sản phẩm quốc phòng, an ninh; nghiên cứu, ứng dụng công nghệ cao, công nghệ nền, công nghệ lõi; cung ứng, dự trữ, bảo quản vật tư để phục vụ hoạt động công nghiệp quốc phòng, an ninh hợp tác thông qua hợp đồng nghiên cứu, cung cấp sản phẩm, dịch vụ. Cơ sở huy động tham gia chuyển giao công nghệ cho cơ sở công nghiệp quốc phòng nòng cốt, cơ sở công nghiệp an ninh nòng cốt hợp tác thông qua hình thức hợp đồng chuyển giao công nghệ."
+ENTITY,E39_22,KHOAN,Khoản,structure,13527,13828,"3. Cơ quan, đơn vị, doanh nghiệp thuộc Bộ Quốc phòng, Bộ Công an căn cứ nhiệm vụ, kế hoạch sản xuất kinh doanh được cấp có thẩm quyền phê duyệt thông báo bằng văn bản về nhu cầu hợp tác đến các tổ chức, doanh nghiệp kèm theo các điều kiện quy định tại khoản 1 Điều này tương ứng với lĩnh vực tham gia."
+ENTITY,E39_23,KHOAN,Khoản,structure,13829,13850,4. Trình tự tham gia:
+ENTITY,E39_24,KHOAN,Khoản,structure,16010,16430,"1. Cơ sở huy động tham gia sản xuất sản phẩm phục vụ quốc phòng, an ninh thông qua liên doanh, liên kết với cơ sở công nghiệp quốc phòng nòng cốt, cơ sở công nghiệp an ninh nòng cốt phải đáp ứng các điều kiện quy định tại Điều 3 Nghị định này và có nguồn lực tài chính, cơ sở vật chất, nhân lực, trang thiết bị có khả năng tham gia một phần hoặc toàn bộ khâu sản xuất tạo ra sản phẩm, bán thành phẩm quốc phòng, an ninh."
+ENTITY,E39_25,KHOAN,Khoản,structure,16431,16706,"2. Cơ sở huy động tham gia sản xuất sản phẩm phục vụ quốc phòng, an ninh liên doanh, liên kết với cơ sở công nghiệp quốc phòng nòng cốt, cơ sở công nghiệp an ninh nòng cốt thông qua một trong các hình thức: Hợp đồng hợp tác kinh doanh, hợp đồng liên doanh, hợp đồng liên kết."
+ENTITY,E39_26,KHOAN,Khoản,structure,16707,16728,3. Trình tự tham gia:
+ENTITY,E39_27,KHOAN,Khoản,structure,18717,18978,"1. Nghiên cứu, thiết kế, chế tạo, sản xuất, sửa chữa, cải hoán, cải tiến, hiện đại hóa, tăng hạn sử dụng vũ khí trang bị kỹ thuật; sản xuất vật tư kỹ thuật phục vụ sản xuất quốc phòng; trong đó, tập trung các loại vũ khí trang bị kỹ thuật có ý nghĩa chiến lược."
+ENTITY,E39_28,KHOAN,Khoản,structure,18979,19234,"2. Nghiên cứu, làm chủ công nghệ chiến lược, công nghệ nền, công nghệ lõi, công nghệ lưỡng dụng; chuyển giao, tiếp nhận chuyển giao công nghệ phục vụ phát triển vũ khí trang bị kỹ thuật, đặc biệt là các loại vũ khí trang bị kỹ thuật có ý nghĩa chiến lược."
+ENTITY,E39_29,KHOAN,Khoản,structure,19235,19393,"3. Huy động tối đa các nguồn lực của Nhà nước và tổ chức, doanh nghiệp thuộc các thành phần kinh tế tham gia hoạt động của tổ hợp công nghiệp quốc phòng, gồm:"
+ENTITY,E39_30,KHOAN,Khoản,structure,20130,20609,"4. Nghiên cứu, sản xuất sản phẩm phục vụ công nghiệp quốc gia, có ứng dụng công nghệ cao, hiện đại thuộc các lĩnh vực: Trí tuệ nhân tạo; chuỗi khối; công nghệ bán dẫn; công nghệ lượng tử; công nghệ sinh học; công nghệ nano; công nghệ robot; Internet vạn vật (IoT); công nghệ vật liệu tiên tiến, siêu bền, siêu nhẹ, siêu chịu nhiệt; công nghệ viễn thông thế hệ mới và công nghệ mới nổi. Chuyển giao công nghệ phù hợp cho phát triển kinh tế - xã hội giúp gia tăng giá trị sản phẩm."
+ENTITY,E39_31,KHOAN,Khoản,structure,20610,20972,"5. Đổi mới công nghệ, phát triển nguồn nhân lực, chuyển đổi số, nâng cao năng lực quản trị doanh nghiệp, đẩy mạnh hợp tác quốc tế về công nghiệp quốc phòng tập trung vào các quốc gia có trình độ khoa học và công nghệ phát triển, tham gia chuỗi giá trị sản xuất toàn cầu để nâng cao năng lực cạnh tranh quốc tế, ưu tiên các lĩnh vực quy định tại khoản 4 Điều này."
+ENTITY,E39_32,KHOAN,Khoản,structure,21026,21068,1. Hạt nhân tổ hợp công nghiệp quốc phòng.
+ENTITY,E39_33,KHOAN,Khoản,structure,21069,21182,2. Thành phần khác của tổ hợp công nghiệp quốc phòng gồm một hoặc các loại hình cơ sở công nghiệp quốc phòng sau:
+ENTITY,E39_34,KHOAN,Khoản,structure,21409,21540,"3. Việc công nhận, hủy công nhận hạt nhân tổ hợp công nghiệp quốc phòng được thực hiện theo quy định tại Điều 11, 12 Nghị định này."
+ENTITY,E39_35,KHOAN,Khoản,structure,21541,21763,"4. Cơ chế phối hợp giữa hạt nhân tổ hợp công nghiệp quốc phòng và thành phần khác của tổ hợp công nghiệp quốc phòng thực hiện theo quy định tại khoản 2 Điều 44 Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp."
+ENTITY,E39_36,KHOAN,Khoản,structure,21908,22097,"1. Chủ trì nghiên cứu, sản xuất thành công ít nhất một loại vũ khí trang bị kỹ thuật có công nghệ hiện đại, có tính tích hợp hệ thống được đưa vào trang bị trong Quân đội nhân dân Việt Nam."
+ENTITY,E39_37,KHOAN,Khoản,structure,22098,22330,"2. Có khả năng ứng dụng, phát triển hoặc tạo ra công nghệ chiến lược, công nghệ nền, công nghệ lõi trong nghiên cứu, thiết kế, chế tạo, sản xuất, sửa chữa, cải hoán, cải tiến, hiện đại hóa, tăng hạn sử dụng vũ khí trang bị kỹ thuật."
+ENTITY,E39_38,KHOAN,Khoản,structure,22331,22407,3. Có đơn vị nghiên cứu phát triển sản phẩm quốc phòng trong cơ cấu tổ chức.
+ENTITY,E39_39,KHOAN,Khoản,structure,22408,22585,"4. Có hệ thống phòng thí nghiệm, dây chuyền, trang thiết bị đáp ứng yêu cầu nghiên cứu, thiết kế, chế tạo, sản xuất và hoàn chỉnh vũ khí trang bị kỹ thuật có ý nghĩa chiến lược."
+ENTITY,E39_40,KHOAN,Khoản,structure,22586,22718,"5. Có nhân lực đảm bảo hoạt động quản lý, điều hành, nghiên cứu, thiết kế, chế tạo, sản xuất và hoàn chỉnh vũ khí trang bị kỹ thuật."
+ENTITY,E39_41,KHOAN,Khoản,structure,22719,23069,"6. Ngoài các điều kiện quy định tại khoản 1, 2, 3, 4, 5 Điều này, cơ sở công nghiệp quốc phòng nòng cốt là doanh nghiệp phải có tỷ lệ chi cho nghiên cứu và phát triển, đổi mới công nghệ phục vụ công nghiệp quốc phòng trong 03 năm gần nhất tính đến thời điểm nộp hồ sơ đạt tối thiểu 02% tổng doanh thu từ sản phẩm, dịch vụ phục vụ quốc phòng, an ninh."
+ENTITY,E39_42,KHOAN,Khoản,structure,23128,23366,1. Cơ sở công nghiệp quốc phòng nòng cốt đề nghị công nhận là hạt nhân tổ hợp công nghiệp quốc phòng nộp 01 bộ hồ sơ trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc trên môi trường điện tử đến Cơ quan chuyên trách về công nghiệp quốc phòng.
+ENTITY,E39_43,KHOAN,Khoản,structure,23367,23441,"2. Hồ sơ đề nghị công nhận là hạt nhân tổ hợp công nghiệp quốc phòng, gồm:"
+ENTITY,E39_44,KHOAN,Khoản,structure,24120,24378,"3. Trường hợp thành phần hồ sơ không đủ theo quy định tại khoản 2 Điều này, trong thời hạn 05 ngày, kể từ ngày nhận được hồ sơ, Cơ quan chuyên trách về công nghiệp quốc phòng thông báo bằng văn bản yêu cầu cơ sở công nghiệp quốc phòng nòng cốt bổ sung hồ sơ."
+ENTITY,E39_45,KHOAN,Khoản,structure,25012,25370,"1. Trên cơ sở kết quả thực hiện nhiệm vụ của tổ hợp công nghiệp quốc phòng, Cơ quan chuyên trách về công nghiệp quốc phòng đánh giá năng lực của hạt nhân tổ hợp công nghiệp quốc phòng và xem xét đề nghị hủy công nhận hạt nhân tổ hợp công nghiệp quốc phòng nếu tổ hợp công nghiệp quốc phòng không hoàn thành nhiệm vụ quy định tại khoản 1 Điều 8 Nghị định này."
+ENTITY,E39_46,KHOAN,Khoản,structure,25371,25894,"2. Trường hợp có cơ sở đề nghị hủy công nhận hạt nhân tổ hợp công nghiệp quốc phòng quy định tại khoản 1 Điều này, Cơ quan chuyên trách về công nghiệp quốc phòng báo cáo Bộ trưởng Bộ Quốc phòng xem xét, trình Thủ tướng Chính phủ quyết định hủy công nhận hạt nhân tổ hợp công nghiệp quốc phòng. Trong thời hạn 05 ngày, kể từ ngày có quyết định của Thủ tướng Chính phủ, Cơ quan chuyên trách về công nghiệp quốc phòng thông báo đến cơ sở công nghiệp quốc phòng nòng cốt bị hủy công nhận hạt nhân tổ hợp công nghiệp quốc phòng."
+ENTITY,E39_47,KHOAN,Khoản,structure,25959,26026,1. Lập danh sách thành phần khác của tổ hợp công nghiệp quốc phòng:
+ENTITY,E39_48,KHOAN,Khoản,structure,26374,26529,"2. Ban hành, sửa đổi, bổ sung và kiểm tra, giám sát thực hiện quy chế hoạt động, quy chế khen thưởng và các quy chế khác của tổ hợp công nghiệp quốc phòng."
+ENTITY,E39_49,KHOAN,Khoản,structure,26530,26730,"3. Xây dựng chương trình, đề án, dự án nghiên cứu, chế tạo, sản xuất vũ khí trang bị kỹ thuật phù hợp với chức năng, nhiệm vụ của tổ hợp công nghiệp quốc phòng trình Bộ trưởng Bộ Quốc phòng phê duyệt."
+ENTITY,E39_50,KHOAN,Khoản,structure,26731,26806,4. Xây dựng kế hoạch triển khai nhiệm vụ của tổ hợp công nghiệp quốc phòng.
+ENTITY,E39_51,KHOAN,Khoản,structure,26807,26969,5. Thực hiện chức năng điều phối hoạt động của tổ hợp công nghiệp quốc phòng thông qua hình thức ký hợp đồng với các thành phần của tổ hợp công nghiệp quốc phòng.
+ENTITY,E39_52,KHOAN,Khoản,structure,26970,27148,"6. Kiểm tra, đánh giá chất lượng, nghiệm thu sản phẩm do các thành phần của tổ hợp công nghiệp quốc phòng sản xuất, đảm bảo hoàn thành nhiệm vụ của tổ hợp công nghiệp quốc phòng."
+ENTITY,E39_53,KHOAN,Khoản,structure,27149,27265,"7. Hoàn chỉnh sản phẩm đảm bảo chất lượng, số lượng và các chỉ tiêu, tính năng chiến thuật, kỹ thuật được phê duyệt."
+ENTITY,E39_54,KHOAN,Khoản,structure,27266,27456,"8. Bảo đảm bí mật nhà nước trong quá trình ký kết hợp đồng liên doanh, liên kết với các thành phần khác của tổ hợp công nghiệp quốc phòng và trong hợp tác với đối tác trong nước, nước ngoài."
+ENTITY,E39_55,KHOAN,Khoản,structure,27457,27637,9. Báo cáo kết quả triển khai thực hiện nhiệm vụ của tổ hợp công nghiệp quốc phòng về Cơ quan chuyên trách về công nghiệp quốc phòng và chịu trách nhiệm về các nội dung đã báo cáo.
+ENTITY,E39_56,KHOAN,Khoản,structure,27638,27896,10. Chịu trách nhiệm quản lý các nguồn tài chính đã tiếp nhận dành riêng cho thực hiện nhiệm vụ của tổ hợp công nghiệp quốc phòng độc lập với các nhiệm vụ khác; báo cáo Bộ Quốc phòng kết quả thực hiện thông qua Cơ quan chuyên trách về công nghiệp quốc phòng.
+ENTITY,E39_57,KHOAN,Khoản,structure,28065,28325,"1. Bộ Quốc phòng ban hành chiến lược phát triển tổ hợp công nghiệp quốc phòng; giao nhiệm vụ, kế hoạch dài hạn sản xuất quốc phòng và quản lý việc thực hiện chức năng, nhiệm vụ của tổ hợp công nghiệp quốc phòng thông qua hạt nhân tổ hợp công nghiệp quốc phòng."
+ENTITY,E39_58,KHOAN,Khoản,structure,28326,28413,"2. Thúc đẩy liên doanh, liên kết giữa các thành phần của tổ hợp công nghiệp quốc phòng:"
+ENTITY,E39_59,KHOAN,Khoản,structure,28994,29481,"3. Bộ Quốc phòng xây dựng đề án, chương trình phát triển công nghệ chiến lược, công nghệ số, công nghệ nền, công nghệ lõi thuộc lĩnh vực quản lý trên cơ sở danh mục và chương trình khoa học và công nghệ cấp quốc gia được phê duyệt để thiết kế, chế tạo, sản xuất vũ khí trang bị kỹ thuật, ưu tiên vũ khí trang bị kỹ thuật có ý nghĩa chiến lược và giao cho tổ hợp công nghiệp quốc phòng triển khai thực hiện. Kinh phí triển khai đề án, chương trình được bố trí từ nguồn ngân sách nhà nước."
+ENTITY,E39_60,KHOAN,Khoản,structure,29482,29839,"4. Trên cơ sở chương trình phát triển công nghệ và công nghiệp chiến lược quốc gia, Bộ Quốc phòng xây dựng đề án, chương trình phát triển công nghệ chiến lược để nghiên cứu, thiết kế, chế tạo, sản xuất vũ khí trang bị kỹ thuật và giao tổ hợp công nghiệp quốc phòng triển khai thực hiện. Kinh phí triển khai thực hiện được bố trí từ nguồn ngân sách nhà nước."
+ENTITY,E39_61,KHOAN,Khoản,structure,29840,30113,"5. Ưu tiên nguồn lực đầu tư kết cấu hạ tầng, trang thiết bị cho tổ hợp công nghiệp quốc phòng; đảm bảo kinh phí để đầu tư cơ sở hạ tầng, trang thiết bị trọng điểm phục vụ nghiên cứu, sản xuất vũ khí trang bị kỹ thuật, nhất là vũ khí trang bị kỹ thuật có ý nghĩa chiến lược."
+ENTITY,E39_62,KHOAN,Khoản,structure,30114,30331,"6. Hạt nhân tổ hợp công nghiệp quốc phòng và thành phần khác của tổ hợp công nghiệp quốc phòng được sử dụng cơ sở hạ tầng, trang thiết bị do Nhà nước đầu tư để thực hiện các nhiệm vụ của tổ hợp công nghiệp quốc phòng."
+ENTITY,E39_63,KHOAN,Khoản,structure,30332,30629,"7. Bộ Quốc phòng ưu tiên bố trí kinh phí triển khai các chương trình đào tạo, bồi dưỡng trong nước và nước ngoài để phát triển nguồn nhân lực chất lượng cao cho tổ hợp công nghiệp quốc phòng, đặc biệt là nguồn nhân lực phục vụ nghiên cứu, phát triển vũ khí trang bị kỹ thuật có ý nghĩa chiến lược."
+ENTITY,E39_64,KHOAN,Khoản,structure,30987,31189,"1. Được Nhà nước giao chủ trì thực hiện đề án, chương trình nghiên cứu, thiết kế, chế tạo, sản xuất vũ khí trang bị kỹ thuật có ý nghĩa chiến lược và vũ khí trang bị kỹ thuật theo chuyên ngành sản phẩm:"
+ENTITY,E39_65,KHOAN,Khoản,structure,31782,31886,"2. Tự chủ điều phối trong thực hiện các nhiệm vụ nghiên cứu, sản xuất của tổ hợp công nghiệp quốc phòng:"
+ENTITY,E39_66,KHOAN,Khoản,structure,32457,32781,"3. Trường hợp triển khai các đề án, chương trình nghiên cứu, chế tạo vũ khí trang bị kỹ thuật quy định tại điểm a khoản 1 Điều này do Nhà nước giao nhiệm vụ, đặt hàng, hạt nhân tổ hợp công nghiệp quốc phòng được hỗ trợ kinh phí từ ngân sách nhà nước để thực hiện các nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo như sau:"
+ENTITY,E39_67,KHOAN,Khoản,structure,33141,33427,"4. Được sử dụng Quỹ đầu tư phát triển của doanh nghiệp để thực hiện các dự án đầu tư cơ sở hạ tầng, trang thiết bị phục vụ hoạt động khoa học, công nghệ và đổi mới sáng tạo phù hợp với nhiệm vụ của tổ hợp công nghiệp quốc phòng; không đánh giá hiệu quả kinh tế đối với dự án đầu tư này."
+ENTITY,E39_68,KHOAN,Khoản,structure,33428,33816,"5. Được sử dụng cơ sở hạ tầng do Nhà nước đầu tư phục vụ nghiên cứu khoa học và phát triển công nghệ. Các đơn vị quản lý cơ sở hạ tầng do Nhà nước đầu tư ưu tiên sắp xếp, tạo điều kiện cho hạt nhân tổ hợp công nghiệp quốc phòng sử dụng cơ sở hạ tầng do mình quản lý. Chi phí sử dụng cơ sở hạ tầng được thanh toán từ kinh phí thực hiện nhiệm vụ nghiên cứu khoa học và phát triển công nghệ."
+ENTITY,E39_69,KHOAN,Khoản,structure,33817,33950,"6. Được đề xuất các cơ chế, chính sách đặc thù để tháo gỡ khó khăn, vướng mắc trong quá trình vận hành tổ hợp công nghiệp quốc phòng."
+ENTITY,E39_70,KHOAN,Khoản,structure,34090,34255,"1. Vũ khí trang bị kỹ thuật, phương tiện kỹ thuật nghiệp vụ quy định tại các khoản 7 và khoản 10 Điều 2 Luật Công nghiệp quốc phòng an ninh và động viên công nghiệp."
+ENTITY,E39_71,KHOAN,Khoản,structure,34256,34364,2. Vật tư kỹ thuật quy định tại khoản 9 Điều 2 Luật Công nghiệp quốc phòng an ninh và động viên công nghiệp.
+ENTITY,E39_72,KHOAN,Khoản,structure,34365,34413,"3. Máy móc, trang thiết bị, dây chuyền sản xuất."
+ENTITY,E39_73,KHOAN,Khoản,structure,34414,34578,"4. Tài liệu kỹ thuật gồm: Tài liệu thiết kế, tài liệu công nghệ và các tài liệu tập hợp thông tin, dữ liệu về kỹ thuật của sản phẩm công nghiệp quốc phòng, an ninh."
+ENTITY,E39_74,KHOAN,Khoản,structure,34579,34814,"5. Dịch vụ tư vấn cho các hoạt động nghiên cứu, thiết kế, phát triển sản phẩm; xây dựng phòng thí nghiệm, dây chuyền sản xuất, cơ sở hạ tầng phục vụ nghiên cứu, sản xuất và các hoạt động khác liên quan đến sản xuất quốc phòng, an ninh."
+ENTITY,E39_75,KHOAN,Khoản,structure,34815,35096,"6. Dịch vụ kỹ thuật, gồm: Các dịch vụ liên quan đến việc cung cấp giải pháp kỹ thuật, nghiên cứu, thiết kế, sản xuất, sửa chữa, cải hoán, cải tiến, hiện đại hóa, tăng hạn sử dụng, kiểm tra, đánh giá, lắp đặt, triển khai, bảo trì, bảo dưỡng sản phẩm công nghiệp quốc phòng, an ninh."
+ENTITY,E39_76,KHOAN,Khoản,structure,35097,35184,7. Sản phẩm liên quan đến sở hữu trí tuệ theo quy định của pháp luật về sở hữu trí tuệ.
+ENTITY,E39_77,KHOAN,Khoản,structure,35185,35410,"8. Các sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh khác theo yêu cầu, nhiệm vụ của Bộ Quốc phòng, Bộ Công an và các chương trình, thỏa thuận hợp tác với Chính phủ và cơ quan quốc phòng, an ninh, cơ yếu, mật mã các nước."
+ENTITY,E39_78,KHOAN,Khoản,structure,35494,35785,"1. Tổ chức, cá nhân tham gia hoạt động xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh phải tuân thủ các quy định của pháp luật có liên quan, cam kết của Việt Nam về bản quyền, quyền sở hữu trí tuệ và các Điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+ENTITY,E39_79,KHOAN,Khoản,structure,35786,35978,"2. Doanh nghiệp xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh phải là cơ sở công nghiệp quốc phòng nòng cốt, cơ sở công nghiệp an ninh nòng cốt có chức năng xuất khẩu, nhập khẩu."
+ENTITY,E39_80,KHOAN,Khoản,structure,35979,36358,"3. Đối tác nước ngoài phải cung cấp các giấy tờ, gồm: Giấy chứng nhận thành lập doanh nghiệp hoặc đăng ký kinh doanh do cơ quan có thẩm quyền nước sở tại cấp được hợp pháp hóa lãnh sự theo quy định của pháp luật về hợp pháp hóa lãnh sự; giấy chứng nhận người sử dụng cuối cùng do cơ quan có thẩm quyền nước ngoài nơi người sử dụng cuối cùng cấp; văn bản cam kết mục đích sử dụng."
+ENTITY,E39_81,KHOAN,Khoản,structure,36359,36831,"4. Đối tác nước ngoài trước khi đàm phán, ký kết hợp đồng nhập khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh phải được thẩm định về lai lịch, chức năng, nhiệm vụ, năng lực bởi cơ quan chức năng có thẩm quyền thuộc Bộ Quốc phòng, Bộ Công an theo phạm vi quản lý. Trong thời hạn 15 ngày, kể từ ngày nhận được văn bản đề nghị thẩm định của doanh nghiệp xuất khẩu, cơ quan chức năng có thẩm quyền của Bộ Quốc phòng, Bộ Công an có văn bản trả lời về kết quả thẩm định."
+ENTITY,E39_82,KHOAN,Khoản,structure,36832,37078,"5. Đối tác nước ngoài không phải thực hiện thủ tục quy định tại khoản 4 Điều này khi được Chính phủ, cơ quan quốc phòng, an ninh, cơ yếu, mật mã các nước ủy quyền, chỉ định nhập khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh của Việt Nam."
+ENTITY,E39_83,KHOAN,Khoản,structure,37158,37239,"1. Xây dựng danh mục sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh xuất khẩu."
+ENTITY,E39_84,KHOAN,Khoản,structure,37240,37292,"2. Đàm phán, ký kết hợp đồng với đối tác nước ngoài."
+ENTITY,E39_85,KHOAN,Khoản,structure,37293,37348,"3. Thực hiện cấp phép xuất khẩu, miễn thuế, thông quan."
+ENTITY,E39_86,KHOAN,Khoản,structure,37436,38093,"1. Theo giai đoạn 05 năm, căn cứ danh mục nhóm sản phẩm vũ khí trang bị kỹ thuật có ý nghĩa chiến lược, phương tiện kỹ thuật nghiệp vụ đặc biệt, Bộ Quốc phòng, Bộ Công an trong phạm vi nhiệm vụ, quyền hạn của mình xây dựng danh mục vũ khí trang bị kỹ thuật có ý nghĩa chiến lược, phương tiện kỹ thuật nghiệp vụ đặc biệt xuất khẩu kèm theo tính năng chiến thuật, kỹ thuật của sản phẩm trình Thủ tướng Chính phủ phê duyệt; trong trường hợp có nhu cầu đột xuất, Cơ quan chuyên trách về công nghiệp quốc phòng, Cơ quan chuyên trách về công nghiệp an ninh báo cáo, đề xuất Bộ Quốc phòng, Bộ Công an trình Thủ tướng Chính phủ ban hành quyết định bổ sung danh mục."
+ENTITY,E39_87,KHOAN,Khoản,structure,38094,38680,"2. Theo giai đoạn 03 năm, Cơ quan chuyên trách về công nghiệp quốc phòng, Cơ quan chuyên trách về công nghiệp an ninh báo cáo, đề xuất Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an trong phạm vi nhiệm vụ, quyền hạn của mình ban hành danh mục sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh xuất khẩu không thuộc trường hợp quy định tại khoản 1 Điều này; trong trường hợp có nhu cầu đột xuất, Cơ quan chuyên trách về công nghiệp quốc phòng, Cơ quan chuyên trách về công nghiệp an ninh báo cáo, đề xuất Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an ban hành quyết định bổ sung danh mục."
+ENTITY,E39_88,KHOAN,Khoản,structure,38739,39051,"1. Căn cứ danh mục sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh xuất khẩu đã được phê duyệt theo quy định tại Điều 19 Nghị định này và nhu cầu của đối tác nước ngoài hoặc theo yêu cầu, nhiệm vụ của Bộ Quốc phòng, Bộ Công an, doanh nghiệp xuất khẩu đàm phán, ký kết hợp đồng xuất khẩu với đối tác nước ngoài."
+ENTITY,E39_89,KHOAN,Khoản,structure,39052,39193,2. Doanh nghiệp xuất khẩu có trách nhiệm thỏa thuận với đối tác thời điểm hợp đồng có hiệu lực khi được cấp có thẩm quyền cấp phép xuất khẩu.
+ENTITY,E39_90,KHOAN,Khoản,structure,39272,39557,"1. Doanh nghiệp xuất khẩu lập 01 bộ hồ sơ đề nghị cấp phép xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh nộp trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc trên môi trường điện tử đến cơ quan chức năng quản lý thương mại của Bộ Quốc phòng, Bộ Công an theo phạm vi quản lý."
+ENTITY,E39_91,KHOAN,Khoản,structure,39558,39649,"2. Hồ sơ đề nghị cấp phép xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh, gồm:"
+ENTITY,E39_92,KHOAN,Khoản,structure,40322,40592,"3. Trường hợp thành phần hồ sơ không đầy đủ theo quy định tại khoản 2 Điều này, trong thời hạn 05 ngày, kể từ ngày nhận được hồ sơ, cơ quan chức năng quản lý thương mại của Bộ Quốc phòng, Bộ Công an theo phạm vi quản lý có văn bản yêu cầu doanh nghiệp xuất khẩu bổ sung."
+ENTITY,E39_93,KHOAN,Khoản,structure,40990,41410,"1. Trong trường hợp có sự thay đổi về chủng loại, số lượng sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh xuất khẩu, doanh nghiệp xuất khẩu lập 01 bộ hồ sơ đề nghị sửa đổi, bổ sung giấy phép xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh nộp trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc trên môi trường điện tử đến cơ quan chức năng quản lý thương mại của Bộ Quốc phòng, Bộ Công an theo phạm vi quản lý."
+ENTITY,E39_94,KHOAN,Khoản,structure,41411,41520,"2. Hồ sơ đề nghị sửa đổi, bổ sung giấy phép xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh, gồm:"
+ENTITY,E39_95,KHOAN,Khoản,structure,41863,42133,"3. Trường hợp thành phần hồ sơ không đầy đủ theo quy định tại khoản 2 Điều này, trong thời hạn 05 ngày, kể từ ngày nhận được hồ sơ, cơ quan chức năng quản lý thương mại của Bộ Quốc phòng, Bộ Công an theo phạm vi quản lý có văn bản yêu cầu doanh nghiệp xuất khẩu bổ sung."
+ENTITY,E39_96,KHOAN,Khoản,structure,42556,42975,"1. Trong trường hợp cần phải gia hạn, trước ngày giấy phép xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh hết hạn, doanh nghiệp xuất khẩu lập 01 bộ hồ sơ đề nghị gia hạn giấy phép xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh nộp trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc trên môi trường điện tử đến cơ quan chức năng quản lý thương mại của Bộ Quốc phòng, Bộ Công an theo phạm vi quản lý."
+ENTITY,E39_97,KHOAN,Khoản,structure,42976,43068,"2. Hồ sơ gia hạn giấy phép xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh, gồm:"
+ENTITY,E39_98,KHOAN,Khoản,structure,43354,43624,"3. Trường hợp thành phần hồ sơ không đầy đủ theo quy định tại khoản 2 Điều này, trong thời hạn 05 ngày, kể từ ngày nhận được hồ sơ, cơ quan chức năng quản lý thương mại của Bộ Quốc phòng, Bộ Công an theo phạm vi quản lý có văn bản yêu cầu doanh nghiệp xuất khẩu bổ sung."
+ENTITY,E39_99,KHOAN,Khoản,structure,44033,44577,"1. Căn cứ giấy phép xuất khẩu sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh và đề nghị của doanh nghiệp xuất khẩu trực thuộc Bộ Quốc phòng, Bộ Công an hoặc đơn vị đầu mối trực thuộc Bộ Quốc phòng, Bộ Công an được giao quản lý doanh nghiệp xuất khẩu, cơ quan chức năng quản lý thương mại của Bộ Quốc phòng, Bộ Công an theo phạm vi quản lý gửi văn bản đề nghị miễn thuế xuất khẩu đến cơ quan hải quan có thẩm quyền để thực hiện miễn thuế đối với sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh xuất khẩu theo quy định của pháp luật về thuế."
+ENTITY,E39_100,KHOAN,Khoản,structure,44578,44898,"2. Sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh xuất khẩu có yêu cầu bảo mật theo văn bản xác nhận của Bộ trưởng Bộ Quốc phòng hoặc Bộ trưởng Bộ Công an được miễn khai hải quan và miễn kiểm tra thực tế. Quy trình đề nghị miễn khai hải quan và miễn kiểm tra thực tế thực hiện theo quy định của pháp luật về hải quan."
+ENTITY,E39_101,KHOAN,Khoản,structure,44899,45163,"3. Các sản phẩm, dịch vụ công nghiệp quốc phòng, an ninh xuất khẩu không thuộc trường hợp quy định tại khoản 2 Điều này được ưu tiên trong kiểm tra, giám sát hải quan theo quy định của pháp luật về hải quan đối với hàng hóa chuyên dùng phục vụ quốc phòng, an ninh."
+ENTITY,E40_1,DIEM,Điểm,structure,2871,3117,"a) Là tổ chức tín dụng; có địa điểm trụ sở chính và mạng lưới hoạt động, cơ cấu tổ chức quản lý, cơ sở vật chất, hệ thống công nghệ thông tin bảo đảm cung cấp dịch vụ thanh toán và cấp tín dụng theo quy định của pháp luật về các tổ chức tín dụng;"
+ENTITY,E40_2,DIEM,Điểm,structure,3118,3267,"b) Đội ngũ nhân sự chuyên trách có trình độ chuyên môn, nghiệp vụ về thanh toán và cấp tín dụng; có kinh nghiệm tham gia phục vụ quốc phòng, an ninh;"
+ENTITY,E40_3,DIEM,Điểm,structure,3268,3405,"c) Được phép cung ứng dịch vụ thanh toán và cấp tín dụng, tham gia hệ thống thanh toán trong nước và quốc tế theo quy định của pháp luật;"
+ENTITY,E40_4,DIEM,Điểm,structure,3406,3556,"d) Có quy định nội bộ về lĩnh vực thanh toán và cấp tín dụng liên quan đến tham gia hoạt động công nghiệp quốc phòng, an ninh đảm bảo an toàn, bí mật;"
+ENTITY,E40_5,DIEM,Điểm,structure,3557,3635,đ) Hoạt động kinh doanh có lợi nhuận 03 năm liên tục liền trước năm nộp hồ sơ.
+ENTITY,E40_6,DIEM,Điểm,structure,3885,3926,"a) Tổ chức tín dụng lập 01 bộ hồ sơ, gồm:"
+ENTITY,E40_7,DIEM,Điểm,structure,4896,5293,"b) Hồ sơ quy định tại điểm a khoản này nộp trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc trên môi trường điện tử đến cơ quan chức năng quản lý tài chính trực thuộc Bộ Quốc phòng, Bộ Công an theo phạm vi quản lý; trường hợp nộp hồ sơ qua môi trường điện tử, việc tiếp nhận, giải quyết thủ tục hành chính thực hiện theo quy định của pháp luật về thực hiện thủ tục hành chính trên môi trường điện tử;"
+ENTITY,E40_8,DIEM,Điểm,structure,5294,5538,"c) Trường hợp thành phần hồ sơ không đầy đủ theo quy định tại điểm a khoản này, trong thời hạn 05 ngày kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận, xử lý hồ sơ thông báo bằng văn bản hướng dẫn tổ chức tín dụng nộp bổ sung và hoàn chỉnh hồ sơ;"
+ENTITY,E40_9,DIEM,Điểm,structure,6179,6746,"d) Trường hợp nhiệm vụ có sử dụng ngân sách nhà nước, cơ quan, đơn vị, doanh nghiệp thực hiện hoạt động công nghiệp quốc phòng, an ninh có nhu cầu cung cấp dịch vụ thanh toán và cấp tín dụng lựa chọn ký hợp đồng với các tổ chức tín dụng được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an giao nhiệm vụ. Đối với nhiệm vụ có yêu cầu đặc biệt về tổ chức tín dụng, cơ quan, đơn vị, doanh nghiệp đề nghị cơ quan chức năng quản lý tài chính trực thuộc Bộ Quốc phòng, Bộ Công an theo phạm vi quản lý báo cáo Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an xem xét, quyết định;"
+ENTITY,E40_10,DIEM,Điểm,structure,6747,7091,"đ) Trường hợp không sử dụng ngân sách nhà nước, cơ quan, đơn vị, doanh nghiệp có nhu cầu cung cấp dịch vụ thanh toán và cấp tín dụng lựa chọn tổ chức tín dụng phù hợp với yêu cầu nhiệm vụ; ưu tiên lựa chọn tổ chức tín dụng đã được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an giao nhiệm vụ tham gia cung cấp dịch vụ thanh toán và cấp tín dụng."
+ENTITY,E40_11,DIEM,Điểm,structure,7507,7589,"a) Có ngành, nghề đào tạo phù hợp với nhu cầu của công nghiệp quốc phòng, an ninh;"
+ENTITY,E40_12,DIEM,Điểm,structure,7590,7951,"b) Có cơ sở vật chất, trang thiết bị phục vụ giảng dạy, nghiên cứu, thực hành; đội ngũ giảng viên, giáo viên có trình độ chuyên môn, kinh nghiệm giảng dạy, nghiên cứu phù hợp với ngành nghề cần đào tạo, bồi dưỡng nguồn nhân lực phục vụ công nghiệp quốc phòng, an ninh và đáp ứng điều kiện theo quy định của pháp luật về giáo dục, giáo dục nghề nghiệp, dạy nghề."
+ENTITY,E40_13,DIEM,Điểm,structure,8180,8336,"a) Đối với doanh nghiệp phải đủ điều kiện đầu tư, kinh doanh ngành, nghề cung cấp sản phẩm, dịch vụ tương ứng lĩnh vực tham gia theo quy định của pháp luật;"
+ENTITY,E40_14,DIEM,Điểm,structure,8337,8456,"b) Đối với tổ chức không phải là doanh nghiệp phải có chức năng cung cấp sản phẩm, dịch vụ tương ứng lĩnh vực tham gia;"
+ENTITY,E40_15,DIEM,Điểm,structure,8457,8633,"c) Đã cung cấp sản phẩm hoặc dịch vụ cho các tổ chức, doanh nghiệp có quy mô tổ chức hoặc quy mô sản xuất tương đương trở lên với các tổ chức, doanh nghiệp có nhu cầu cung cấp."
+ENTITY,E40_16,DIEM,Điểm,structure,9202,9327,"a) Văn bản đề nghị tham gia hoạt động công nghiệp quốc phòng, an ninh theo Mẫu số 02 Phụ lục ban hành kèm theo Nghị định này;"
+ENTITY,E40_17,DIEM,Điểm,structure,9328,9539,"b) Bản sao quyết định thành lập kèm theo văn bản quy định về chức năng, nhiệm vụ đối với tổ chức hoặc giấy chứng nhận đăng ký doanh nghiệp kèm theo giấy phép hoạt động, giấy phép kinh doanh đối với doanh nghiệp;"
+ENTITY,E40_18,DIEM,Điểm,structure,9540,9684,"c) Tài liệu chứng minh năng lực cơ sở vật chất, nhân lực, trang thiết bị, kinh nghiệm của tổ chức, doanh nghiệp tương ứng với lĩnh vực tham gia."
+ENTITY,E40_19,DIEM,Điểm,structure,10090,10927,"a) Trường hợp huy động cơ sở tham gia đào tạo nguồn nhân lực, cung cấp sản phẩm, dịch vụ về quản trị doanh nghiệp, an toàn thông tin, công nghệ cao phục vụ các chương trình, dự án sử dụng ngân sách nhà nước được xác định độ Tuyệt mật: Trong thời hạn 20 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan, đơn vị, doanh nghiệp quy định tại khoản 4 Điều này thẩm định, đánh giá việc đáp ứng điều kiện tham gia của tổ chức, doanh nghiệp, báo cáo Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an theo phạm vi quản lý. Trong thời hạn 07 ngày, kể từ ngày nhận được báo cáo, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an xem xét, quyết định. Trong thời hạn 05 ngày kể từ ngày Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quyết định, cơ quan, đơn vị, doanh nghiệp quy định tại khoản 4 Điều này thông báo kết quả cho tổ chức, doanh nghiệp bằng văn bản;"
+ENTITY,E40_20,DIEM,Điểm,structure,10928,11813,"b) Trường hợp huy động cơ sở tham gia đào tạo nguồn nhân lực, cung cấp sản phẩm, dịch vụ về quản trị doanh nghiệp, an toàn thông tin, công nghệ cao phục vụ các chương trình, dự án sử dụng ngân sách nhà nước được xác định độ Tối mật: Trong thời hạn 20 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan, đơn vị, doanh nghiệp quy định tại khoản 4 Điều này thẩm định, đánh giá việc đáp ứng điều kiện tham gia của tổ chức, doanh nghiệp, báo cáo cơ quan, đơn vị, doanh nghiệp cấp trên trực thuộc Bộ Quốc phòng, Bộ Công an. Trong thời hạn 07 ngày kể từ ngày nhận được báo cáo, cơ quan, đơn vị, doanh nghiệp trực thuộc Bộ Quốc phòng, Bộ Công an xem xét, quyết định. Trong thời hạn 05 ngày, kể từ ngày cơ quan, đơn vị, doanh nghiệp trực thuộc Bộ Quốc phòng, Bộ Công an quyết định, cơ quan đơn vị, doanh nghiệp quy định tại khoản 4 Điều này thông báo kết quả cho tổ chức, doanh nghiệp bằng văn bản;"
+ENTITY,E40_21,DIEM,Điểm,structure,12025,12447,"c) Trường hợp không thuộc quy định tại các điểm a, b khoản này, cơ quan, đơn vị, doanh nghiệp quy định tại khoản 4 Điều này thẩm định hồ sơ và trực tiếp đàm phán, ký kết hợp đồng với các tổ chức, doanh nghiệp đáp ứng điều kiện theo quy định tại các khoản 1 và khoản 2 Điều này để triển khai thực hiện. Trong quá trình thực hiện, cơ quan, đơn vị, doanh nghiệp phải tuân thủ quy định của pháp luật về bảo vệ bí mật nhà nước."
+ENTITY,E40_22,DIEM,Điểm,structure,13851,13897,"a) Tổ chức, doanh nghiệp lập 01 bộ hồ sơ, gồm:"
+ENTITY,E40_23,DIEM,Điểm,structure,14346,14709,"b) Hồ sơ quy định tại điểm a khoản này nộp trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc trên môi trường điện tử đến cơ quan, đơn vị, doanh nghiệp quy định tại khoản 3 Điều này; trường hợp nộp hồ sơ qua môi trường điện tử, việc tiếp nhận, giải quyết thủ tục hành chính thực hiện theo quy định của pháp luật về thực hiện thủ tục hành chính trên môi trường điện tử;"
+ENTITY,E40_24,DIEM,Điểm,structure,14710,15401,"c) Trong thời hạn 20 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan, đơn vị, doanh nghiệp quy định tại khoản 3 Điều này thẩm định, đánh giá và lựa chọn tổ chức, doanh nghiệp đủ năng lực, báo cáo cơ quan, đơn vị, doanh nghiệp cấp trên trực thuộc Bộ Quốc phòng, Bộ Công an. Trong thời hạn 07 ngày, kể từ ngày nhận được báo cáo, cơ quan, đơn vị, doanh nghiệp trực thuộc Bộ Quốc phòng, Bộ Công an xem xét, quyết định danh sách cơ sở huy động theo nhu cầu huy động. Trong thời hạn 05 ngày, kể từ ngày cơ quan, đơn vị, doanh nghiệp trực thuộc Bộ Quốc phòng, Bộ Công an quyết định, cơ quan đơn vị, doanh nghiệp quy định tại khoản 3 Điều này thông báo kết quả cho tổ chức, doanh nghiệp bằng văn bản;"
+ENTITY,E40_25,DIEM,Điểm,structure,15634,15787,"d) Trên cơ sở danh sách cơ sở huy động được phê duyệt, việc huy động được thực hiện theo hình thức chỉ định thầu theo quy định của pháp luật về đấu thầu."
+ENTITY,E40_26,DIEM,Điểm,structure,16729,17088,"a) Cơ sở công nghiệp quốc phòng nòng cốt, cơ sở công nghiệp an ninh nòng cốt được giao nhiệm vụ sản xuất sản phẩm phục vụ quốc phòng, an ninh thông báo bằng văn bản về nhu cầu liên doanh, liên kết để sản xuất sản phẩm phục vụ quốc phòng, an ninh kèm theo các điều kiện quy định tại khoản 1 Điều này và các điều kiện khác đảm bảo hoàn thành nhiệm vụ được giao;"
+ENTITY,E40_27,DIEM,Điểm,structure,17089,17340,"b) Tổ chức, doanh nghiệp có nhu cầu gửi văn bản đề nghị được tham gia liên doanh, liên kết đến cơ sở công nghiệp quốc phòng nòng cốt, cơ sở công nghiệp an ninh nòng cốt kèm theo tài liệu chứng minh việc đáp ứng điều kiện quy định tại điểm a khoản này;"
+ENTITY,E40_28,DIEM,Điểm,structure,17341,17517,"c) Đối với hình thức liên kết không góp vốn, cơ sở công nghiệp quốc phòng nòng cốt, cơ sở công nghiệp an ninh nòng cốt lựa chọn doanh nghiệp đủ điều kiện, ký hợp đồng liên kết;"
+ENTITY,E40_29,DIEM,Điểm,structure,17518,18541,"d) Đối với hình thức liên doanh, liên kết có góp vốn, cơ sở công nghiệp quốc phòng nòng cốt, cơ sở công nghiệp an ninh nòng cốt lựa chọn tổ chức, doanh nghiệp đáp ứng điều kiện theo quy định tại điểm a khoản này và xây dựng phương án liên doanh, liên kết báo cáo cơ quan đại diện chủ sở hữu quyết định chủ trương. Phương án liên doanh, liên kết bao gồm nội dung chính sau: Mục tiêu, phạm vi hoạt động, sự cần thiết, hiệu quả kinh tế, hiệu quả xã hội; đóng góp của các bên tham gia và phân chia kết quả hợp tác kinh doanh giữa các bên; quyền và nghĩa vụ của các bên tham gia; tình hình tài chính và kết quả hoạt động sản xuất, kinh doanh của doanh nghiệp tham gia; mức vốn đóng góp của mỗi bên, nguồn vốn đóng góp của cơ sở công nghiệp quốc phòng nòng cốt, cơ sở công nghiệp an ninh nòng cốt; phương án bảo đảm an ninh, an toàn, bảo mật. Đối với phương án liên doanh hình thành pháp nhân mới, phương án liên doanh phải có thêm các nội dung sau: Tên pháp nhân, tổ chức và cơ chế quản lý, điều lệ của pháp nhân mới hình thành."
+ENTITY,E40_30,DIEM,Điểm,structure,19394,19676,"a) Xây dựng cơ chế thu hút, đào tạo, bồi dưỡng và sử dụng nguồn nhân lực chất lượng cao trong nước và nước ngoài để nâng cao năng lực nghiên cứu, sản xuất vũ khí trang bị kỹ thuật của tổ hợp công nghiệp quốc phòng, ưu tiên là các loại vũ khí trang bị kỹ thuật có ý nghĩa chiến lược;"
+ENTITY,E40_31,DIEM,Điểm,structure,19677,19820,"b) Sử dụng hiệu quả ngân sách nhà nước và nguồn vốn từ các tổ chức tài chính, doanh nghiệp thuộc các thành phần kinh tế và các tổ chức quốc tế;"
+ENTITY,E40_32,DIEM,Điểm,structure,19821,19915,"c) Thực hiện tiếp nhận chuyển giao công nghệ từ các tổ chức, cá nhân trong nước và nước ngoài;"
+ENTITY,E40_33,DIEM,Điểm,structure,19916,20056,d) Xây dựng phương án và sử dụng hiệu quả hệ thống cơ sở hạ tầng do Nhà nước đầu tư để thực hiện nhiệm vụ của tổ hợp công nghiệp quốc phòng;
+ENTITY,E40_34,DIEM,Điểm,structure,20057,20129,đ) Huy động các nguồn lực hợp pháp khác để thực hiện nhiệm vụ được giao.
+ENTITY,E40_35,DIEM,Điểm,structure,21183,21277,a) Cơ sở công nghiệp quốc phòng nòng cốt không phải là hạt nhân tổ hợp công nghiệp quốc phòng;
+ENTITY,E40_36,DIEM,Điểm,structure,21278,21315,b) Cơ sở công nghiệp quốc phòng khác;
+ENTITY,E40_37,DIEM,Điểm,structure,21316,21347,c) Cơ sở công nghiệp động viên;
+ENTITY,E40_38,DIEM,Điểm,structure,21348,21408,d) Cơ sở huy động tham gia hoạt động công nghiệp quốc phòng.
+ENTITY,E40_39,DIEM,Điểm,structure,23442,23572,a) Văn bản đề nghị công nhận là hạt nhân tổ hợp công nghiệp quốc phòng theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định này;
+ENTITY,E40_40,DIEM,Điểm,structure,23573,23677,b) Bản sao Quyết định của Thủ tướng chính phủ phê duyệt danh sách cơ sở công nghiệp quốc phòng nòng cốt;
+ENTITY,E40_41,DIEM,Điểm,structure,23678,24038,"c) Tài liệu về: Tên, loại hình, địa chỉ, địa bàn hoạt động, ngành nghề, lĩnh vực hoạt động của cơ sở công nghiệp quốc phòng nòng cốt; các sản phẩm, dịch vụ và nhiệm vụ quốc phòng được Bộ Quốc phòng hoặc cơ quan, đơn vị, doanh nghiệp trực thuộc Bộ Quốc phòng giao nhiệm vụ, đặt hàng hoặc chỉ định thầu trong 05 năm gần nhất tính đến thời điểm đề nghị công nhận;"
+ENTITY,E40_42,DIEM,Điểm,structure,24039,24119,d) Tài liệu chứng minh đáp ứng các điều kiện quy định tại Điều 10 Nghị định này.
+ENTITY,E40_43,DIEM,Điểm,structure,26027,26201,"a) Ban hành tiêu chí thành phần khác của tổ hợp công nghiệp quốc phòng phù hợp với quy định tại khoản 1 Điều 44 Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp;"
+ENTITY,E40_44,DIEM,Điểm,structure,26202,26373,"b) Lập danh sách thành phần khác của tổ hợp công nghiệp quốc phòng báo cáo Cơ quan chuyên trách về công nghiệp quốc phòng xem xét, trình Bộ trưởng Bộ Quốc phòng phê duyệt."
+ENTITY,E40_45,DIEM,Điểm,structure,28414,28548,"a) Ban hành quy chuẩn, tiêu chuẩn kỹ thuật, chiến thuật trong lĩnh vực quân sự đối với các sản phẩm của tổ hợp công nghiệp quốc phòng;"
+ENTITY,E40_46,DIEM,Điểm,structure,28549,28697,"b) Các bộ, ngành theo chức năng quản lý có trách nhiệm hỗ trợ cung cấp cơ sở dữ liệu của các doanh nghiệp để xây dựng tổ hợp công nghiệp quốc phòng;"
+ENTITY,E40_47,DIEM,Điểm,structure,28698,28993,"c) Tạo điều kiện cho các thành phần của tổ hợp công nghiệp quốc phòng tham gia các chương trình xúc tiến thương mại quân sự, chương trình đào tạo, chương trình khảo sát trong nước và nước ngoài liên quan đến nhóm, chuyên ngành sản phẩm vũ khí trang bị kỹ thuật của tổ hợp công nghiệp quốc phòng."
+ENTITY,E40_48,DIEM,Điểm,structure,31190,31599,"a) Bộ trưởng Bộ Quốc phòng phê duyệt đề án, chương trình 10 năm về nghiên cứu, thiết kế, chế tạo, sản xuất vũ khí trang bị kỹ thuật có ý nghĩa chiến lược; phê duyệt chương trình 05 năm về nghiên cứu, thiết kế, chế tạo, sản xuất vũ khí trang bị kỹ thuật theo chuyên ngành sản phẩm, giao hạt nhân tổ hợp công nghiệp quốc phòng chủ trì thực hiện phù hợp với chức năng, nhiệm vụ của tổ hợp công nghiệp quốc phòng;"
+ENTITY,E40_49,DIEM,Điểm,structure,31600,31781,b) Hạt nhân tổ hợp công nghiệp quốc phòng được Nhà nước giao ngân sách để chủ trì thực hiện chương trình quy định tại điểm a khoản này đối với trường hợp sử dụng ngân sách nhà nước.
+ENTITY,E40_50,DIEM,Điểm,structure,31887,32162,"a) Được quyết định phương án kỹ thuật và quyết định giá sản phẩm, dịch vụ giao nhiệm vụ, đặt hàng các thành phần của tổ hợp công nghiệp quốc phòng thực hiện; bảo đảm tổng chi phí thực hiện sản phẩm của hạt nhân tổ hợp công nghiệp quốc phòng không vượt giá sản phẩm được giao;"
+ENTITY,E40_51,DIEM,Điểm,structure,32163,32307,"b) Chủ động lựa chọn, ký hợp đồng với các thành phần của tổ hợp công nghiệp quốc phòng để hoàn thành nhiệm vụ của tổ hợp công nghiệp quốc phòng;"
+ENTITY,E40_52,DIEM,Điểm,structure,32308,32456,"c) Được chủ động xây dựng cơ chế thu hút các tổ chức, doanh nghiệp tham gia tổ hợp công nghiệp quốc phòng phù hợp với chức năng, nhiệm vụ được giao."
+ENTITY,E40_53,DIEM,Điểm,structure,32782,32945,"a) Hỗ trợ tối đa 50% tổng kinh phí nghiên cứu, phát triển công nghệ phục vụ đề án, chương trình nghiên cứu, chế tạo vũ khí trang bị kỹ thuật có ý nghĩa chiến lược;"
+ENTITY,E40_54,DIEM,Điểm,structure,32946,33140,"b) Hỗ trợ tối đa 30% tổng kinh phí nghiên cứu, phát triển công nghệ phục vụ đề án, chương trình nghiên cứu, chế tạo vũ khí trang bị kỹ thuật không thuộc trường hợp quy định tại điểm a khoản này."
+ENTITY,E40_55,DIEM,Điểm,structure,39650,39909,"a) Văn bản đề nghị cấp phép xuất khẩu của doanh nghiệp xuất khẩu trực thuộc Bộ Quốc phòng, Bộ Công an hoặc đơn vị đầu mối trực thuộc Bộ Quốc phòng, Bộ Công an được giao quản lý doanh nghiệp xuất khẩu theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định này;"
+ENTITY,E40_56,DIEM,Điểm,structure,39910,40028,b) Hợp đồng xuất khẩu với đối tác nước ngoài (bản sao có công chứng hoặc chứng thực; kèm theo bản dịch ra tiếng Việt);
+ENTITY,E40_57,DIEM,Điểm,structure,40029,40321,c) Kết quả thẩm định thông tin về đối tác nước ngoài của cơ quan chức năng đối với trường hợp không thuộc quy định tại khoản 5 Điều 17 Nghị định này; giấy chứng nhận người sử dụng cuối cùng do cơ quan có thẩm quyền nước ngoài nơi người sử dụng cuối cùng cấp; văn bản cam kết mục đích sử dụng.
+ENTITY,E40_58,DIEM,Điểm,structure,41521,41761,"a) Văn bản đề nghị của doanh nghiệp xuất khẩu trực thuộc Bộ Quốc phòng, Bộ Công an hoặc đơn vị đầu mối trực thuộc Bộ Quốc phòng, Bộ Công an được giao quản lý doanh nghiệp xuất khẩu theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này;"
+ENTITY,E40_59,DIEM,Điểm,structure,41762,41805,b) Bản sao giấy phép xuất khẩu đã được cấp;
+ENTITY,E40_60,DIEM,Điểm,structure,41806,41862,"c) Tài liệu liên quan đến nội dung cần sửa đổi, bổ sung."
+ENTITY,E40_61,DIEM,Điểm,structure,43069,43309,"a) Văn bản đề nghị của doanh nghiệp xuất khẩu trực thuộc Bộ Quốc phòng, Bộ Công an hoặc đơn vị đầu mối trực thuộc Bộ Quốc phòng, Bộ Công an được giao quản lý doanh nghiệp xuất khẩu theo Mẫu số 06 tại Phụ lục ban hành kèm theo Nghị định này;"
+ENTITY,E40_62,DIEM,Điểm,structure,43310,43353,b) Bản sao giấy phép xuất khẩu đã được cấp.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E25_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,R22_9,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,R22_10,THUOC,Thuộc,E38_3,E35_2,,
+RELATION,R22_11,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,R22_12,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_13,THUOC,Thuộc,E39_10,E38_3,,
+RELATION,R22_14,THUOC,Thuộc,E38_4,E35_2,,
+RELATION,R22_15,THUOC,Thuộc,E39_11,E38_4,,
+RELATION,R22_16,THUOC,Thuộc,E40_1,E39_11,,
+RELATION,R22_17,THUOC,Thuộc,E40_2,E39_11,,
+RELATION,R22_18,THUOC,Thuộc,E40_3,E39_11,,
+RELATION,R22_19,THUOC,Thuộc,E40_4,E39_11,,
+RELATION,R22_20,THUOC,Thuộc,E40_5,E39_11,,
+RELATION,R22_21,THUOC,Thuộc,E39_12,E38_4,,
+RELATION,R22_22,THUOC,Thuộc,E39_13,E38_4,,
+RELATION,R22_23,THUOC,Thuộc,E40_6,E39_13,,
+RELATION,R22_24,THUOC,Thuộc,E40_7,E39_13,,
+RELATION,R22_25,THUOC,Thuộc,E40_8,E39_13,,
+RELATION,R22_26,THUOC,Thuộc,E40_9,E39_13,,
+RELATION,R22_27,THUOC,Thuộc,E40_10,E39_13,,
+RELATION,R22_28,THUOC,Thuộc,E38_5,E35_2,,
+RELATION,R22_29,THUOC,Thuộc,E39_14,E38_5,,
+RELATION,R22_30,THUOC,Thuộc,E40_11,E39_14,,
+RELATION,R22_31,THUOC,Thuộc,E40_12,E39_14,,
+RELATION,R22_32,THUOC,Thuộc,E39_15,E38_5,,
+RELATION,R22_33,THUOC,Thuộc,E40_13,E39_15,,
+RELATION,R22_34,THUOC,Thuộc,E40_14,E39_15,,
+RELATION,R22_35,THUOC,Thuộc,E40_15,E39_15,,
+RELATION,R22_36,THUOC,Thuộc,E39_16,E38_5,,
+RELATION,R22_37,THUOC,Thuộc,E39_17,E38_5,,
+RELATION,R22_38,THUOC,Thuộc,E39_18,E38_5,,
+RELATION,R22_39,THUOC,Thuộc,E40_16,E39_18,,
+RELATION,R22_40,THUOC,Thuộc,E40_17,E39_18,,
+RELATION,R22_41,THUOC,Thuộc,E40_18,E39_18,,
+RELATION,R22_42,THUOC,Thuộc,E39_19,E38_5,,
+RELATION,R22_43,THUOC,Thuộc,E40_19,E39_19,,
+RELATION,R22_44,THUOC,Thuộc,E40_20,E39_19,,
+RELATION,R22_45,THUOC,Thuộc,E40_21,E39_19,,
+RELATION,R22_46,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_47,THUOC,Thuộc,E39_20,E38_6,,
+RELATION,R22_48,THUOC,Thuộc,E39_21,E38_6,,
+RELATION,R22_49,THUOC,Thuộc,E39_22,E38_6,,
+RELATION,R22_50,THUOC,Thuộc,E39_23,E38_6,,
+RELATION,R22_51,THUOC,Thuộc,E40_22,E39_23,,
+RELATION,R22_52,THUOC,Thuộc,E40_23,E39_23,,
+RELATION,R22_53,THUOC,Thuộc,E40_24,E39_23,,
+RELATION,R22_54,THUOC,Thuộc,E40_25,E39_23,,
+RELATION,R22_55,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_56,THUOC,Thuộc,E39_24,E38_7,,
+RELATION,R22_57,THUOC,Thuộc,E39_25,E38_7,,
+RELATION,R22_58,THUOC,Thuộc,E39_26,E38_7,,
+RELATION,R22_59,THUOC,Thuộc,E40_26,E39_26,,
+RELATION,R22_60,THUOC,Thuộc,E40_27,E39_26,,
+RELATION,R22_61,THUOC,Thuộc,E40_28,E39_26,,
+RELATION,R22_62,THUOC,Thuộc,E40_29,E39_26,,
+RELATION,R22_63,THUOC,Thuộc,E36_1,E35_3,,
+RELATION,R22_64,THUOC,Thuộc,E38_8,E36_1,,
+RELATION,R22_65,THUOC,Thuộc,E39_27,E38_8,,
+RELATION,R22_66,THUOC,Thuộc,E39_28,E38_8,,
+RELATION,R22_67,THUOC,Thuộc,E39_29,E38_8,,
+RELATION,R22_68,THUOC,Thuộc,E40_30,E39_29,,
+RELATION,R22_69,THUOC,Thuộc,E40_31,E39_29,,
+RELATION,R22_70,THUOC,Thuộc,E40_32,E39_29,,
+RELATION,R22_71,THUOC,Thuộc,E40_33,E39_29,,
+RELATION,R22_72,THUOC,Thuộc,E40_34,E39_29,,
+RELATION,R22_73,THUOC,Thuộc,E39_30,E38_8,,
+RELATION,R22_74,THUOC,Thuộc,E39_31,E38_8,,
+RELATION,R22_75,THUOC,Thuộc,E38_9,E36_1,,
+RELATION,R22_76,THUOC,Thuộc,E39_32,E38_9,,
+RELATION,R22_77,THUOC,Thuộc,E39_33,E38_9,,
+RELATION,R22_78,THUOC,Thuộc,E40_35,E39_33,,
+RELATION,R22_79,THUOC,Thuộc,E40_36,E39_33,,
+RELATION,R22_80,THUOC,Thuộc,E40_37,E39_33,,
+RELATION,R22_81,THUOC,Thuộc,E40_38,E39_33,,
+RELATION,R22_82,THUOC,Thuộc,E39_34,E38_9,,
+RELATION,R22_83,THUOC,Thuộc,E39_35,E38_9,,
+RELATION,R22_84,THUOC,Thuộc,E36_2,E35_3,,
+RELATION,R22_85,THUOC,Thuộc,E38_10,E36_2,,
+RELATION,R22_86,THUOC,Thuộc,E39_36,E38_10,,
+RELATION,R22_87,THUOC,Thuộc,E39_37,E38_10,,
+RELATION,R22_88,THUOC,Thuộc,E39_38,E38_10,,
+RELATION,R22_89,THUOC,Thuộc,E39_39,E38_10,,
+RELATION,R22_90,THUOC,Thuộc,E39_40,E38_10,,
+RELATION,R22_91,THUOC,Thuộc,E39_41,E38_10,,
+RELATION,R22_92,THUOC,Thuộc,E38_11,E36_2,,
+RELATION,R22_93,THUOC,Thuộc,E39_42,E38_11,,
+RELATION,R22_94,THUOC,Thuộc,E39_43,E38_11,,
+RELATION,R22_95,THUOC,Thuộc,E40_39,E39_43,,
+RELATION,R22_96,THUOC,Thuộc,E40_40,E39_43,,
+RELATION,R22_97,THUOC,Thuộc,E40_41,E39_43,,
+RELATION,R22_98,THUOC,Thuộc,E40_42,E39_43,,
+RELATION,R22_99,THUOC,Thuộc,E39_44,E38_11,,
+RELATION,R22_100,THUOC,Thuộc,E38_12,E36_2,,
+RELATION,R22_101,THUOC,Thuộc,E39_45,E38_12,,
+RELATION,R22_102,THUOC,Thuộc,E39_46,E38_12,,
+RELATION,R22_103,THUOC,Thuộc,E38_13,E36_2,,
+RELATION,R22_104,THUOC,Thuộc,E39_47,E38_13,,
+RELATION,R22_105,THUOC,Thuộc,E40_43,E39_47,,
+RELATION,R22_106,THUOC,Thuộc,E40_44,E39_47,,
+RELATION,R22_107,THUOC,Thuộc,E39_48,E38_13,,
+RELATION,R22_108,THUOC,Thuộc,E39_49,E38_13,,
+RELATION,R22_109,THUOC,Thuộc,E39_50,E38_13,,
+RELATION,R22_110,THUOC,Thuộc,E39_51,E38_13,,
+RELATION,R22_111,THUOC,Thuộc,E39_52,E38_13,,
+RELATION,R22_112,THUOC,Thuộc,E39_53,E38_13,,
+RELATION,R22_113,THUOC,Thuộc,E39_54,E38_13,,
+RELATION,R22_114,THUOC,Thuộc,E39_55,E38_13,,
+RELATION,R22_115,THUOC,Thuộc,E39_56,E38_13,,
+RELATION,R22_116,THUOC,Thuộc,E36_3,E35_3,,
+RELATION,R22_117,THUOC,Thuộc,E38_14,E36_3,,
+RELATION,R22_118,THUOC,Thuộc,E39_57,E38_14,,
+RELATION,R22_119,THUOC,Thuộc,E39_58,E38_14,,
+RELATION,R22_120,THUOC,Thuộc,E40_45,E39_58,,
+RELATION,R22_121,THUOC,Thuộc,E40_46,E39_58,,
+RELATION,R22_122,THUOC,Thuộc,E40_47,E39_58,,
+RELATION,R22_123,THUOC,Thuộc,E39_59,E38_14,,
+RELATION,R22_124,THUOC,Thuộc,E39_60,E38_14,,
+RELATION,R22_125,THUOC,Thuộc,E39_61,E38_14,,
+RELATION,R22_126,THUOC,Thuộc,E39_62,E38_14,,
+RELATION,R22_127,THUOC,Thuộc,E39_63,E38_14,,
+RELATION,R22_128,THUOC,Thuộc,E38_15,E36_3,,
+RELATION,R22_129,THUOC,Thuộc,E39_64,E38_15,,
+RELATION,R22_130,THUOC,Thuộc,E40_48,E39_64,,
+RELATION,R22_131,THUOC,Thuộc,E40_49,E39_64,,
+RELATION,R22_132,THUOC,Thuộc,E39_65,E38_15,,
+RELATION,R22_133,THUOC,Thuộc,E40_50,E39_65,,
+RELATION,R22_134,THUOC,Thuộc,E40_51,E39_65,,
+RELATION,R22_135,THUOC,Thuộc,E40_52,E39_65,,
+RELATION,R22_136,THUOC,Thuộc,E39_66,E38_15,,
+RELATION,R22_137,THUOC,Thuộc,E40_53,E39_66,,
+RELATION,R22_138,THUOC,Thuộc,E40_54,E39_66,,
+RELATION,R22_139,THUOC,Thuộc,E39_67,E38_15,,
+RELATION,R22_140,THUOC,Thuộc,E39_68,E38_15,,
+RELATION,R22_141,THUOC,Thuộc,E39_69,E38_15,,
+RELATION,R22_142,THUOC,Thuộc,E38_16,E35_4,,
+RELATION,R22_143,THUOC,Thuộc,E39_70,E38_16,,
+RELATION,R22_144,THUOC,Thuộc,E39_71,E38_16,,
+RELATION,R22_145,THUOC,Thuộc,E39_72,E38_16,,
+RELATION,R22_146,THUOC,Thuộc,E39_73,E38_16,,
+RELATION,R22_147,THUOC,Thuộc,E39_74,E38_16,,
+RELATION,R22_148,THUOC,Thuộc,E39_75,E38_16,,
+RELATION,R22_149,THUOC,Thuộc,E39_76,E38_16,,
+RELATION,R22_150,THUOC,Thuộc,E39_77,E38_16,,
+RELATION,R22_151,THUOC,Thuộc,E38_17,E35_4,,
+RELATION,R22_152,THUOC,Thuộc,E39_78,E38_17,,
+RELATION,R22_153,THUOC,Thuộc,E39_79,E38_17,,
+RELATION,R22_154,THUOC,Thuộc,E39_80,E38_17,,
+RELATION,R22_155,THUOC,Thuộc,E39_81,E38_17,,
+RELATION,R22_156,THUOC,Thuộc,E39_82,E38_17,,
+RELATION,R22_157,THUOC,Thuộc,E38_18,E35_4,,
+RELATION,R22_158,THUOC,Thuộc,E39_83,E38_18,,
+RELATION,R22_159,THUOC,Thuộc,E39_84,E38_18,,
+RELATION,R22_160,THUOC,Thuộc,E39_85,E38_18,,
+RELATION,R22_161,THUOC,Thuộc,E38_19,E35_4,,
+RELATION,R22_162,THUOC,Thuộc,E39_86,E38_19,,
+RELATION,R22_163,THUOC,Thuộc,E39_87,E38_19,,
+RELATION,R22_164,THUOC,Thuộc,E38_20,E35_4,,
+RELATION,R22_165,THUOC,Thuộc,E39_88,E38_20,,
+RELATION,R22_166,THUOC,Thuộc,E39_89,E38_20,,
+RELATION,R22_167,THUOC,Thuộc,E38_21,E35_4,,
+RELATION,R22_168,THUOC,Thuộc,E39_90,E38_21,,
+RELATION,R22_169,THUOC,Thuộc,E39_91,E38_21,,
+RELATION,R22_170,THUOC,Thuộc,E40_55,E39_91,,
+RELATION,R22_171,THUOC,Thuộc,E40_56,E39_91,,
+RELATION,R22_172,THUOC,Thuộc,E40_57,E39_91,,
+RELATION,R22_173,THUOC,Thuộc,E39_92,E38_21,,
+RELATION,R22_174,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,R22_175,THUOC,Thuộc,E39_93,E38_22,,
+RELATION,R22_176,THUOC,Thuộc,E39_94,E38_22,,
+RELATION,R22_177,THUOC,Thuộc,E40_58,E39_94,,
+RELATION,R22_178,THUOC,Thuộc,E40_59,E39_94,,
+RELATION,R22_179,THUOC,Thuộc,E40_60,E39_94,,
+RELATION,R22_180,THUOC,Thuộc,E39_95,E38_22,,
+RELATION,R22_181,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_182,THUOC,Thuộc,E39_96,E38_23,,
+RELATION,R22_183,THUOC,Thuộc,E39_97,E38_23,,
+RELATION,R22_184,THUOC,Thuộc,E40_61,E39_97,,
+RELATION,R22_185,THUOC,Thuộc,E40_62,E39_97,,
+RELATION,R22_186,THUOC,Thuộc,E39_98,E38_23,,
+RELATION,R22_187,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,R22_188,THUOC,Thuộc,E39_99,E38_24,,
+RELATION,R22_189,THUOC,Thuộc,E39_100,E38_24,,
+RELATION,R22_190,THUOC,Thuộc,E39_101,E38_24,,
+RELATION,R22_191,THUOC,Thuộc,E38_25,E35_5,,
+RELATION,R22_192,THUOC,Thuộc,E38_26,E35_5,,
+RELATION,R22_193,THUOC,Thuộc,E12_1,E8_1,,
+RELATION,R22_194,THUOC,Thuộc,E8_1,E10_1,,

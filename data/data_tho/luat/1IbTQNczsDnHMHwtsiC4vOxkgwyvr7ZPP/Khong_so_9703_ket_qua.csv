@@ -1,0 +1,78 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,69,"Luật Sửa đổi, bổ sung một số điều của luật Thuế Doanh thu số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,61,69,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,3261,3286,ngày 28 tháng 10 năm 1995
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,9738,9752,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,9773,9783,1996-01-01
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,9805,9815,1999-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,9839,9859,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,292,300,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,9873,9890,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,9903,9916,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,10009,10027,Hiến pháp năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,10069,10138,"Luật Sửa đổi, bổ sung một số điều của Luật Thuế Doanh thu số Không số"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,9936,9954,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,10188,10315,"Nghị định số 96/CP Quy định chi tiết thi hành Luật Thuế doanh thu và Luật Sửa đổi, bổ sung một số  điều của Luật Thuế doanh thu"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,10365,10545,"Thông tư số 97/TC-TCT Hướng dẫn thi hành Nghị định 96/CP ngày 27/12/1995 quy định chi tiết thi hành Luật thuế doanh thu và Luật sửa đổi, bổ sung một số điều của Luật thuế doanh thu"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,10565,10745,"Thông tư số 97/TC-TCT Hướng dẫn thi hành Nghị định 96/CP ngày 27/12/1995 quy định chi tiết thi hành Luật thuế doanh thu và Luật sửa đổi, bổ sung một số điều của Luật thuế doanh thu"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,10765,10999,Thông tư số 31/2001/TT-BTC Hướng dẫn thực hiện ưu đãi về thuế quy định tại quyết định số 128/2000/qđ/ttg ngày 20/11/2000 của thủ tướng chính phủ về một số chính sách và biện pháp khuyến khích đầu tư và phát triển công nghiệp phần mềm.
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,11019,11187,"Thông tư số 48/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò dầu khí theo quy định của luật dầu khí"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,11207,11334,"Nghị định số 96/CP Quy định chi tiết thi hành Luật Thuế doanh thu và Luật Sửa đổi, bổ sung một số  điều của Luật Thuế doanh thu"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,11354,11555,"Thông tư số 83/TC-TCT Hướng dẫn thực hiện nghĩa vụ thuế doanh thu và lợi tức của các tổ chức và cá nhân nước ngoài tiến hành hoạt động cung cấp dịch vụ chuyển phát nhanh hàng hoá, bưu phẩm tại Việt Nam"
+ENTITY,E38_1,DIEU,Điều,structure,536,604,"Điều 1
+Sửa đổi, bổ sung một số điều của Luật thuế doanh thu như sau:"
+ENTITY,E38_2,DIEU,Điều,structure,2599,2796,"Điều 2
+Sửa đổi, bổ sung thuế suất thuế doanh thu đối với một số ngành nghề kinh doanh trong Biểu thuế doanh thu hiện hành và ban hành kèm theo Luật này Biểu thuế doanh thu đã được sửa đổi, bổ sung."
+ENTITY,E38_3,DIEU,Điều,structure,2797,2854,"Điều 3
+Luật này có hiệu lực từ ngày 01 tháng 01 năm 1996."
+ENTITY,E38_4,DIEU,Điều,structure,2855,2972,"Điều 4
+Chính phủ sửa đổ, bổ sung các văn bản quy định chi tiết thi hành Luật thuế doanh thu cho phù hợp với Luật này."
+ENTITY,E39_1,KHOAN,Khoản,structure,605,777,"1- Điều 2 được sửa đổi, bổ sung:
+""Điều 2
+Những hoạt động sau đây không thuộc diện chịu thuế doanh thu:
+1- Sản xuất nông nghiệp thuộc diện chịu thuế sử dụng đất nông nghiệp;"
+ENTITY,E39_2,KHOAN,Khoản,structure,778,838,2- Sản xuất hàng hoá thuộc diện chịu thuế tiêu thụ đặc biệt;
+ENTITY,E39_3,KHOAN,Khoản,structure,839,870,3- Sản xuất hàng hoá xuất khẩu;
+ENTITY,E39_4,KHOAN,Khoản,structure,871,1193,"4- Hoạt động tín dụng.""
+2- Điều 8 được sửa đổi, bổ sung:
+""Điều 8
+1- Doanh thu tính thuế là toàn bộ tiền thu từ hoạt động kinh doanh ở Việt Nam, không phân biết ngành, nghề, hình thức kinh doanh, có cơ sở kinh doanh ở Việt Nam hay ở nước ngoài.
+Doanh thu tính thuế đối với một số hoạt động kinh doanh được quy định như sau:"
+ENTITY,E40_1,DIEM,Điểm,structure,1194,1251,a) Doanh thu đối với hoạt động sản xuất là tiền bán hàng;
+ENTITY,E40_2,DIEM,Điểm,structure,1252,1388,"b) Doanh thu đối với hoạt động gia công là tiền gia công bao gồm tiền công, tiền nhiên liệu, động lực, vật liệu phụ và các chi phí khác;"
+ENTITY,E40_3,DIEM,Điểm,structure,1389,1602,"c) Doanh thu đối với hoạt động xây dựng là tiền thu về xây dựng.
+Đối với hoạt động lắp đặt máy móc, thiết bị toàn bộ gắn với xây dựng, doanh thu tính thuế đối với hoạt động này không tính giá trị máy móc thiết bị;"
+ENTITY,E40_4,DIEM,Điểm,structure,1603,1704,"d) Doanh thu đối với hoạt động vận tải là tiền thu cước phí vận chuyển hàng hoá, hành khách, hành lý;"
+ENTITY,E40_5,DIEM,Điểm,structure,1705,1778,e) Doanh thu đối với hoạt động ăn uống là tiền thu về kinh doanh ăn uống;
+ENTITY,E40_6,DIEM,Điểm,structure,1779,1909,g) Doanh thu đối với hoạt động kinh doanh thương nghiệp là tiền bán hàng hoặc là số chênh lệch giữa giá bán hàng với giá mua hàng;
+ENTITY,E40_7,DIEM,Điểm,structure,1910,2012,"h) Doanh thu đối với hoạt động đại lý bán hàng hoặc uỷ thác mua, bán hàng là tiền hoa hồng được hưởng;"
+ENTITY,E40_8,DIEM,Điểm,structure,2013,2085,i) Doanh thu đối với hoạt động dịch vụ là tiền thu về hoạt động dịch vụ;
+ENTITY,E40_9,DIEM,Điểm,structure,2086,2598,"k) Doanh thu đối với hoạt động bảo hiểm là tiền thu về kinh doanh bảo hiểm.
+2- Cơ sở kinh doanh có doanh thu bằng ngoại tệ, được nộp thuế bằng ngoại tệ hoặc bằng đồng tiền Việt Nam, quy đổi theo tỷ giá mua vào do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm nộp thuế.
+3- Trong trường hợp trao đổi hàng hoá, dịch vụ hoặc tự cung ứng hàng hoá, tự cung ứng dịch vụ, thì hàng hoá, dịch vụ trao đổi hoặc tự cung ứng phải được tính thành tiền tại thời điểm phát sinh, theo giá thị trường để làm căn cứ tính thuế."""
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E40_1,E39_4,,
+RELATION,R22_8,THUOC,Thuộc,E40_2,E39_4,,
+RELATION,R22_9,THUOC,Thuộc,E40_3,E39_4,,
+RELATION,R22_10,THUOC,Thuộc,E40_4,E39_4,,
+RELATION,R22_11,THUOC,Thuộc,E40_5,E39_4,,
+RELATION,R22_12,THUOC,Thuộc,E40_6,E39_4,,
+RELATION,R22_13,THUOC,Thuộc,E40_7,E39_4,,
+RELATION,R22_14,THUOC,Thuộc,E40_8,E39_4,,
+RELATION,R22_15,THUOC,Thuộc,E40_9,E39_4,,

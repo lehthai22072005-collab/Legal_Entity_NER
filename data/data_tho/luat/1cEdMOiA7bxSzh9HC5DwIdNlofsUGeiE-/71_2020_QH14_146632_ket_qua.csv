@@ -1,0 +1,106 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,148,"Luật Sửa đổi, bổ sung một số điều của Luật Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS) số 71/2020/QH14"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,136,148,71/2020/QH14
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,18653,18657,Y tế
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,15261,15286,ngày 16 tháng 11 năm 2020
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,18670,18678,HIV/AIDS
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,14781,14805,ngày 01 tháng 7 năm 2021
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,15409,15421,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,149,157,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,15288,15305,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,15314,15333,Nguyễn Thị Kim Ngân
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,527,637,"Luật Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS) số 64/2006/QH11"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,420,469,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,15471,15600,"Nghị định 141/2024/NĐ-CP hướng dẫn Luật Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS)"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,15622,15778,Thông tư số 58/2025/TT-BYT quy định việc phân cấp thực hiện nhiệm vụ và giải quyết thủ tục hành chính trong lĩnh vực phòng bệnh thuộc thẩm quyền của Bộ Y tế
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,15798,16108,"Nghị định số 124/2021/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 115/2018/NĐ-CP ngày 04 tháng 9 năm 2018 của Chính phủ quy định xử phạt vi phạm hành chính về an toàn thực phẩm và Nghị định số 117/2020/NĐ-CP ngày 28 tháng 9 năm 2020 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực y tế"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,16128,16268,"Thông tư số 07/2023/TT-BYT hướng dẫn quy trình, phương pháp giám sát dịch tễ học HIV/AIDS và giám sát các bệnh lây truyền qua đường tình dục"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,16288,16475,"Nghị định số 63/2021/NĐ-CP quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của Luật Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS)."
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,16495,16624,"Nghị định 141/2024/NĐ-CP hướng dẫn Luật Phòng, chống nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS)"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,16644,16734,"Thông tư số 05/2023/TT-BYT quy định chế độ báo cáo định kỳ hoạt động phòng, chống HIV/AIDS"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,16754,16844,Thông tư số 26/2023/TT-BYT hướng dẫn quản lý thuốc methadone do Bộ trưởng Bộ Y tế ban hành
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,16864,17024,"Quyết định số 24/2023/QĐ-TTg về điều kiện xác định người bị phơi nhiễm với HIV, người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp do Thủ tướng Chính phủ ban hành"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,17044,17218,Thông tư số 63/2024/TT-BTC Bãi bỏ Thông tư số 101/2007/TT-BTC ngày 20 tháng 8 năm 2007 của Bộ trưởng Bộ Tài chính hướng dẫn quản lý và sử dụng Quỹ hỗ trợ người nhiễm HIV/AIDS
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,17238,17489,"Thông tư số 09/2021/TT-BYT quy định quy trình, thời điểm, số lần xét nghiệm HIV cho phụ nữ mang thai; chăm sóc, điều trị đối với phụ nữ nhiễm HIV trong thời kỳ mang thai, khi sinh con, cho con bú và các biện pháp nhằm giảm lây nhiễm HIV từ mẹ sang con"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,17509,17650,Nghị quyết số 11/2022/NQ-HĐND về quy định chính sách hỗ trợ đóng bảo hiểm y tế cho các nhóm đối tượng xã hội trên địa bàn thành phố Hải Phòng
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,17670,17994,Nghị quyết số 31/2025/NQ-HĐND Quy định mức hỗ trợ kinh phí cùng chi trả chi phí sử dụng thuốc kháng vi rút HIV đối với người nhiễm HIV điều trị tại các cơ sở y tế công lập và mức hỗ trợ đối với nhân viên tiếp cận cộng đồng thực hiện các biện pháp can thiệp giảm tác hại trong dự phòng lây nhiễm HIV trên địa bàn tỉnh Lào Cai
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,18014,18224,"Nghị quyết số 181/2025/NQ-HĐND Quy định chính sách hỗ trợ người thuộc hộ nghèo, người bệnh tâm thần, người bị nhiễm HIV/AIDS và một số đối tượng có hoàn cảnh khó khăn khi khám bệnh, chữa bệnh tại các cơ sở y tế"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,18244,18382,"Thông tư số 04/2023/TT-BYT quy định hình thức, quy trình thông báo kết quả xét nghiệm HIV dương tính và tiếp cận thông tin người nhiễm HIV"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,18402,18535,"Nghị quyết số 71/2022/NQ-HĐND Một số cơ chế, chính sách đối với lĩnh vực Y tế công lập trên địa bàn tỉnh Hà Tĩnh, giai đoạn 2022-2025"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,18555,18643,Quy định một số nội dung chi hỗ trợ cho người nhiễm HIV/AIDS trên địa bàn tỉnh Vĩnh Long
+ENTITY,E38_1,DIEU,Điều,structure,639,645,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,14717,14723,Điều 2
+ENTITY,E39_1,KHOAN,Khoản,structure,775,827,"1. Sửa đổi, bổ sung một số khoản của Điều 2 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,1575,1635,"2. Sửa đổi, bổ sung điểm b và điểm c khoản 2 Điều 4 như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,1864,1908,"3. Sửa đổi, bổ sung khoản 2 Điều 11 như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,2774,2827,"4. Sửa đổi, bổ sung một số khoản của Điều 12 như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,4551,4587,"5. Sửa đổi, bổ sung Điều 18 như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,5268,5304,"6. Sửa đổi, bổ sung Điều 20 như sau:"
+ENTITY,E39_7,KHOAN,Khoản,structure,6518,6554,"7. Sửa đổi, bổ sung Điều 21 như sau:"
+ENTITY,E39_8,KHOAN,Khoản,structure,7241,7296,"8. Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 27 như sau:"
+ENTITY,E39_9,KHOAN,Khoản,structure,7690,7726,"9. Sửa đổi, bổ sung Điều 29 như sau:"
+ENTITY,E39_10,KHOAN,Khoản,structure,8400,8437,"10. Sửa đổi, bổ sung Điều 30 như sau:"
+ENTITY,E39_11,KHOAN,Khoản,structure,11416,11470,"11. Sửa đổi, bổ sung một số khoản của Điều 35 như sau:"
+ENTITY,E39_12,KHOAN,Khoản,structure,12577,12614,"12. Sửa đổi, bổ sung Điều 36 như sau:"
+ENTITY,E39_13,KHOAN,Khoản,structure,13156,13201,"13. Sửa đổi, bổ sung khoản 2 Điều 39 như sau:"
+ENTITY,E39_14,KHOAN,Khoản,structure,13779,13816,"14. Sửa đổi, bổ sung Điều 43 như sau:"
+ENTITY,E39_15,KHOAN,Khoản,structure,14112,14149,"15. Sửa đổi, bổ sung Điều 45 như sau:"
+ENTITY,E39_16,KHOAN,Khoản,structure,14686,14716,16. Bãi bỏ Điều 42 và Điều 44.
+ENTITY,E39_17,KHOAN,Khoản,structure,14745,14806,1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2021.
+ENTITY,E39_18,KHOAN,Khoản,structure,14807,15163,"2. Kể từ ngày Luật này có hiệu lực thi hành, toàn bộ tài sản, tài chính của Quỹ hỗ trợ, điều trị, chăm sóc người nhiễm HIV được sử dụng để hỗ trợ, điều trị, chăm sóc người nhiễm HIV theo quyết định của Bộ trưởng Bộ Y tế đối với Quỹ ở trung ương và theo quyết định của Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương đối với Quỹ ở địa phương."
+ENTITY,E40_1,DIEM,Điểm,structure,828,865,"a) Sửa đổi, bổ sung khoản 11 như sau:"
+ENTITY,E40_2,DIEM,Điểm,structure,1089,1173,"b) Sửa đổi, bổ sung khoản 14, khoản 15 và bổ sung khoản 16 vào sau khoản 15 như sau:"
+ENTITY,E40_3,DIEM,Điểm,structure,2828,2900,"a) Sửa đổi, bổ sung khoản 3 và bổ sung khoản 3a vào sau khoản 3 như sau:"
+ENTITY,E40_4,DIEM,Điểm,structure,3452,3488,"b) Sửa đổi, bổ sung khoản 5 như sau:"
+ENTITY,E40_5,DIEM,Điểm,structure,3899,3935,"c) Sửa đổi, bổ sung khoản 7 như sau:"
+ENTITY,E40_6,DIEM,Điểm,structure,11471,11507,"a) Sửa đổi, bổ sung khoản 1 như sau:"
+ENTITY,E40_7,DIEM,Điểm,structure,11990,12026,"b) Sửa đổi, bổ sung khoản 3 như sau:"
+ENTITY,E40_8,DIEM,Điểm,structure,12126,12162,"c) Sửa đổi, bổ sung khoản 5 như sau:"
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E40_1,E39_1,,
+RELATION,R22_3,THUOC,Thuộc,E40_2,E39_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E40_3,E39_4,,
+RELATION,R22_8,THUOC,Thuộc,E40_4,E39_4,,
+RELATION,R22_9,THUOC,Thuộc,E40_5,E39_4,,
+RELATION,R22_10,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_11,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_12,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_13,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_14,THUOC,Thuộc,E39_9,E38_1,,
+RELATION,R22_15,THUOC,Thuộc,E39_10,E38_1,,
+RELATION,R22_16,THUOC,Thuộc,E39_11,E38_1,,
+RELATION,R22_17,THUOC,Thuộc,E40_6,E39_11,,
+RELATION,R22_18,THUOC,Thuộc,E40_7,E39_11,,
+RELATION,R22_19,THUOC,Thuộc,E40_8,E39_11,,
+RELATION,R22_20,THUOC,Thuộc,E39_12,E38_1,,
+RELATION,R22_21,THUOC,Thuộc,E39_13,E38_1,,
+RELATION,R22_22,THUOC,Thuộc,E39_14,E38_1,,
+RELATION,R22_23,THUOC,Thuộc,E39_15,E38_1,,
+RELATION,R22_24,THUOC,Thuộc,E39_16,E38_1,,
+RELATION,R22_25,THUOC,Thuộc,E39_17,E38_2,,
+RELATION,R22_26,THUOC,Thuộc,E39_18,E38_2,,
+RELATION,R22_27,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_28,THUOC,Thuộc,E11_1,E10_1,,

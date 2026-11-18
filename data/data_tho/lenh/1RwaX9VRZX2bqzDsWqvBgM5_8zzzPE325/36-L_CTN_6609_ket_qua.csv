@@ -1,0 +1,29 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,309,552,"LỆNH
+Công bố Pháp lệnh Quy định danh hiệu vinh dự Nhà nước 'Bà mẹ Việt Nam anh hùng';
+Pháp lệnh ưu đãi người hoạt động cách mạng, liệt sĩ và gia đình liệt sĩ, thương binh,
+bệnh binh, người hoạt động kháng chiến, người có công giúp đỡ cách mạng"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,16,36-L/CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,309,313,LỆNH
+ENTITY,E4_1,NGANH,Ngành,metadata,1567,1599,Lao động - Thương binh và Xã hội
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,1617,1627,1994-09-10
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1640,1654,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1675,1685,1994-09-10
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1709,1721,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,1742,1755,Chủ tịch nước
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1742,1755,Chủ tịch nước
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1768,1778,Lê Đức Anh
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2275,2444,"Pháp lệnh số Không số Ưu đãi người hoạt động cách mạng, liệt sỹ và gia đình liệt sỹ, thương binh, bệnh binh, người hoạt động kháng chiến, người có công giúp đỡ cách mạng"
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2471,2554,"Pháp lệnh số Không số Quy định danh hiệu vinh dự Nhà nước ""Bà mẹ Việt Nam anh hùng"""
+ENTITY,E18_3,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2581,2642,Pháp lệnh số Không số Khai thác và bảo vệ công trình thuỷ lợi
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1798,1816,Hiến pháp năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1836,1873,Luật Tổ chức Quốc hội số 66-LCT/HĐNN8
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,1893,2072,"Quyết định số 16/2014/QĐ-UBND V/v Ban hành Quy chế phối hợp giữa các ngành, các cấp trong công tác phòng ngừa, xử lý vi phạm công trình đê điều thủy lợi trên địa bàn tỉnh Nam Định"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,2092,2248,Quyết định số 161/QĐ-UBTC Về việc giao nhiệm vụ khai thác và bảo vệ công trình thủy lợi trên địa bàn tỉnh Lâm Đồng cho Công ty khai thác công trình thủy lợi
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,R6_2,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_2,E2_1,,
+RELATION,R6_3,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_3,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,

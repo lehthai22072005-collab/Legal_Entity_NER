@@ -1,0 +1,13 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,139,Nghị quyết số 04/2002/QH11 Phê chuẩn đề nghị của Chủ tịch nước về danh sách Phó Chủ tịch và các Uỷ viên của Hội đồng Quốc phòng và an ninh.
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,26,04/2002/QH11
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,258,282,ngày 08 tháng 8 năm 2002
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1427,1441,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1462,1472,2002-08-08
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1496,1508,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,640,648,Quốc hội
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,466,744,"các điều 84, 103 và 104 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khoá X, kỳ họp thứ 10, Điều 81 của Luật tổ chức Quốc hội và Điều 15 của Nội quy kỳ họp Quốc hội"
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,753,935,và biên bản xác định kết quả bỏ phiếu của Quốc hội phê chuẩn đề nghị của Chủ tịch nước về Danh sách Phó Chủ tịch và các Uỷ viên Hội đồng quốc phòng và an ninh ngày 8 tháng 8 năm 2002
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,

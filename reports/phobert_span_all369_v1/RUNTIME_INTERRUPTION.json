@@ -1,0 +1,10 @@
+{
+  "status": "RUNTIME_TERMINATED_DURING_EPOCH_12",
+  "completed_epochs": 11,
+  "last_observed_epoch": 12,
+  "last_observed_step": 981,
+  "selected_checkpoint_epoch": 11,
+  "checkpoint_restored_locally": true,
+  "final_metrics_pending": true,
+  "model_sha256": "e99e2fd7cde7d386869e5444e7ff02460f9660090377d00dca7215adcb3ba01f"
+}

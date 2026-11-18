@@ -1,0 +1,164 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,269,358,"NGHỊ QUYẾT
+Hướng dẫn áp dụng một số quy định của pháp luật về lãi, lãi suất, phạt vi phạm"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,156,171,01/2019/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,269,279,NGHỊ QUYẾT
+ENTITY,E4_1,NGANH,Ngành,metadata,24045,24077,Lao động - Thương binh và Xã hội
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,243,268,ngày 11 tháng 01 năm 2019
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,24090,24104,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,22777,22801,ngày 15 tháng 3 năm 2019
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,24128,24140,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,109,151,"HỘI ĐỒNG THẨM PHÁN
+TÒA ÁN NHÂN DÂN TỐI CAO"
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,23951,23959,CHÁNH ÁN
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,23968,23983,Nguyễn Hòa Bình
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,24160,24186,Bộ luật Dân sự số Không số
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,24206,24237,Luật Thương mại số 36/2005/QH11
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,422,476,Luật Tổ chức Tòa án nhân dân ngày 24 tháng 11 năm 2014
+ENTITY,E38_1,DIEU,Điều,structure,665,1244,"Điều 1. Phạm vi điều chỉnh
+Nghị quyết này hướng dẫn áp dụng một số quy định của pháp luật về lãi, lãi suất, phạt vi phạm trong hợp đồng vay tài sản; lãi suất trung bình trên thị trường; quyết định lãi, lãi suất trong bản án, quyết định của Toà án.
+Hợp đồng vay tài sản hướng dẫn trong Nghị quyết này bao gồm hợp đồng cho vay tài sản là tiền giữa tổ chức tín dụng với khách hàng (sau đây gọi là hợp đồng tín dụng) và hợp đồng vay tài sản là tiền giữa cá nhân, pháp nhân không phải là tổ chức tín dụng với nhau (sau đây gọi là hợp đồng vay tài sản không phải là hợp đồng tín dụng)."
+ENTITY,E38_2,DIEU,Điều,structure,1245,1346,"Điều 2. Áp dụng pháp luật về lãi, lãi suất trong hợp đồng vay tài sản không phải là hợp đồng tín dụng"
+ENTITY,E38_3,DIEU,Điều,structure,7673,8070,"Điều 3. Xác định lãi, lãi suất trong hợp đồng vay tài sản không phải là hợp đồng tín dụng thuộc trường hợp áp dụng Bộ luật Dân sự năm 1995
+Hợp đồng vay tài sản không phải là hợp đồng tín dụng xác lập trước ngày 01-01-2006 thuộc trường hợp áp dụng Bộ luật Dân sự năm 1995 theo hướng dẫn tại Điều 2 Nghị quyết này thì tại thời điểm xét xử sơ thẩm, lãi, lãi suất trong hợp đồng được xác định như sau:"
+ENTITY,E38_4,DIEU,Điều,structure,9764,10161,"Điều 4. Xác định lãi, lãi suất trong hợp đồng vay tài sản không phải là hợp đồng tín dụng thuộc trường hợp áp dụng Bộ luật Dân sự năm 2005
+Hợp đồng vay tài sản không phải là hợp đồng tín dụng xác lập trước ngày 01-01-2017 thuộc trường hợp áp dụng Bộ luật Dân sự năm 2005 theo hướng dẫn tại Điều 2 Nghị quyết này thì tại thời điểm xét xử sơ thẩm, lãi, lãi suất trong hợp đồng được xác định như sau:"
+ENTITY,E38_5,DIEU,Điều,structure,11746,12184,"Điều 5. Xác định lãi, lãi suất trong hợp đồng vay tài sản không phải là hợp đồng tín dụng thuộc trường hợp áp dụng Bộ luật Dân sự năm 2015
+Hợp đồng vay tài sản không phải là hợp đồng tín dụng xác lập kể từ ngày 01-01-2017 hoặc xác lập trước ngày 01-01-2017 nhưng thuộc trường hợp áp dụng Bộ luật Dân sự năm 2015 theo hướng dẫn tại Điều 2 Nghị quyết này thì tại thời điểm xét xử sơ thẩm, lãi, lãi suất trong hợp đồng được xác định như sau:"
+ENTITY,E38_6,DIEU,Điều,structure,14572,14635,Điều 6. Xác định thời điểm xét xử sơ thẩm và thời gian chậm trả
+ENTITY,E38_7,DIEU,Điều,structure,15840,15906,"Điều 7. Áp dụng pháp luật về lãi, lãi suất trong hợp đồng tín dụng"
+ENTITY,E38_8,DIEU,Điều,structure,16516,16599,"Điều 8. Xác định lãi, lãi suất trong hợp đồng tín dụng tại thời điểm xét xử sơ thẩm"
+ENTITY,E38_9,DIEU,Điều,structure,18139,18760,"Điều 9. Xử lý thỏa thuận về lãi, lãi suất cao hơn mức lãi, lãi suất được pháp luật quy định
+Hợp đồng vay tài sản có thỏa thuận về lãi suất, lãi trên nợ gốc quá hạn, lãi trên nợ lãi quá hạn cao hơn mức lãi suất, lãi trên nợ gốc quá hạn, lãi trên nợ lãi quá hạn được pháp luật quy định thì mức lãi suất, lãi trên nợ gốc quá hạn, lãi trên nợ lãi quá hạn vượt quá không có hiệu lực; số tiền lãi đã trả vượt quá mức lãi suất, lãi trên nợ gốc quá hạn, lãi trên nợ lãi quá hạn quy định được trừ vào số tiền nợ gốc tại thời điểm trả lãi; số tiền lãi đã trả vượt quá còn lại sau khi đã trừ hết nợ gốc thì được trả lại cho bên vay."
+ENTITY,E38_10,DIEU,Điều,structure,18761,19044,"Điều 10. Điều chỉnh lãi, lãi suất
+Trường hợp các bên có thỏa thuận về việc điều chỉnh lãi, lãi suất cho vay thì lãi, lãi suất cho vay được xác định theo thỏa thuận của các bên và văn bản quy phạm pháp luật quy định về lãi, lãi suất có hiệu lực tại thời điểm điều chỉnh lãi, lãi suất."
+ENTITY,E38_11,DIEU,Điều,structure,19045,19848,"Điều 11. Xác định lãi suất trung bình quy định tại Điều 306 của Luật Thương mại năm 2005
+Trường hợp hợp đồng thuộc phạm vi điều chỉnh tại Điều 306 của Luật Thương mại năm 2005 thì khi xác định lãi suất chậm trả đối với số tiền chậm trả, Tòa án căn cứ vào mức lãi suất nợ quá hạn trung bình trên thị trường của ít nhất 03 (ba) ngân hàng thương mại (Ngân hàng thương mại cổ phần Ngoại thương Việt Nam, Ngân hàng thương mại cổ phần Công thương Việt Nam, Ngân hàng Nông nghiệp và phát triển nông thôn Việt Nam,...) có trụ sở, chi nhánh hoặc phòng giao dịch tại tỉnh, thành phố trực thuộc trung ương nơi Tòa án đang giải quyết, xét xử có trụ sở tại thời điểm thanh toán (thời điểm xét xử sơ thẩm) để quyết định mức lãi suất chậm trả, trừ trường hợp các bên có thoả thuận khác hoặc pháp luật có quy định khác."
+ENTITY,E38_12,DIEU,Điều,structure,19849,19917,Điều 12. Xử lý việc không trả nợ đúng hạn trong hợp đồng vay tài sản
+ENTITY,E38_13,DIEU,Điều,structure,20659,20728,"Điều 13. Quyết định lãi, lãi suất trong bản án, quyết định của Tòa án"
+ENTITY,E38_14,DIEU,Điều,structure,22615,22641,Điều 14. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,1347,1550,"1. Hợp đồng vay tài sản không phải là hợp đồng tín dụng được xác lập trước ngày 01-01-2017 (ngày Bộ luật Dân sự năm 2015 bắt đầu có hiệu lực) thì việc áp dụng pháp luật về lãi, lãi suất xác định như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,5657,5919,"2. Hợp đồng vay tài sản không phải là hợp đồng tín dụng được xác lập kể từ ngày 01-01-2017 thì áp dụng quy định về lãi, lãi suất của Bộ luật Dân sự năm 2015 và văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn áp dụng Bộ luật Dân sự năm 2015 để giải quyết."
+ENTITY,E39_3,KHOAN,Khoản,structure,5920,6116,"3. Hợp đồng vay tài sản không phải là hợp đồng tín dụng có lãi, lãi suất phù hợp với quy định của Bộ luật Dân sự năm 2015 hướng dẫn tại khoản 1 Điều này khi thuộc một trong các trường hợp sau đây:"
+ENTITY,E39_4,KHOAN,Khoản,structure,8071,8577,"1. Hợp đồng vay không có lãi mà khi đến hạn bên vay không trả nợ hoặc trả không đầy đủ thì bên vay có nghĩa vụ trả lãi trên nợ gốc quá hạn theo lãi suất tiết kiệm có kỳ hạn do Ngân hàng Nhà nước quy định tại thời điểm trả nợ tương ứng với thời gian chậm trả, nếu các bên có thỏa thuận về việc trả lãi đối với nợ gốc quá hạn.
+Tiền lãi trên nợ gốc quá hạn chưa trả = (nợ gốc quá hạn chưa trả) x (lãi suất tiết kiệm có kỳ hạn do Ngân hàng Nhà nước quy định tại thời điểm trả nợ) x (thời gian chậm trả nợ gốc)."
+ENTITY,E39_5,KHOAN,Khoản,structure,8578,8696,"2. Hợp đồng vay có lãi mà khi đến hạn bên vay không trả hoặc trả không đầy đủ thì lãi, lãi suất được xác định như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,9634,9763,"3. Khi xác định lãi, lãi suất theo hướng dẫn tại khoản 1 và khoản 2 Điều này thì Tòa án không được tính lãi trên nợ lãi chưa trả."
+ENTITY,E39_7,KHOAN,Khoản,structure,10162,10640,"1. Hợp đồng vay không có lãi mà khi đến hạn bên vay không trả nợ hoặc trả không đầy đủ thì bên vay có nghĩa vụ trả lãi trên nợ gốc quá hạn theo lãi suất cơ bản do Ngân hàng Nhà nước công bố tại thời điểm trả nợ tương ứng với thời gian chậm trả, nếu các bên có thỏa thuận về việc trả lãi đối với nợ gốc quá hạn.
+Tiền lãi trên nợ gốc quá hạn chưa trả = (nợ gốc quá hạn chưa trả) x (lãi suất cơ bản do Ngân hàng nhà nước công bố tại thời điểm trả nợ) x (thời gian chậm trả nợ gốc)."
+ENTITY,E39_8,KHOAN,Khoản,structure,10641,10759,"2. Hợp đồng vay có lãi mà khi đến hạn bên vay không trả hoặc trả không đầy đủ thì lãi, lãi suất được xác định như sau:"
+ENTITY,E39_9,KHOAN,Khoản,structure,11619,11745,"3. Khi xác định lãi, lãi suất theo hướng dẫn tại khoản 1 và khoản 2 Điều này, Tòa án không được tính lãi trên nợ lãi chưa trả."
+ENTITY,E39_10,KHOAN,Khoản,structure,12185,12783,"1. Hợp đồng vay không có lãi mà khi đến hạn bên vay không trả nợ hoặc trả không đầy đủ thì theo yêu cầu của bên cho vay, Tòa án xác định bên vay phải trả tiền lãi trên nợ gốc quá hạn theo mức lãi suất quy định tại khoản 2 Điều 468 của Bộ luật Dân sự năm 2015 trên số tiền chậm trả tại thời điểm trả nợ tương ứng với thời gian chậm trả nợ gốc, trừ trường hợp có thoả thuận khác hoặc luật có quy định khác.
+Tiền lãi trên nợ gốc quá hạn chưa trả = (nợ gốc quá hạn chưa trả) x (lãi suất theo quy định tại khoản 2 Điều 468 của Bộ luật Dân sự năm 2015 tại thời điểm trả nợ) x (thời gian chậm trả nợ gốc);"
+ENTITY,E39_11,KHOAN,Khoản,structure,12784,12902,"2. Hợp đồng vay có lãi mà khi đến hạn bên vay không trả hoặc trả không đầy đủ thì lãi, lãi suất được xác định như sau:"
+ENTITY,E39_12,KHOAN,Khoản,structure,14636,14834,1. “Thời điểm xét xử sơ thẩm” hướng dẫn tại Nghị quyết này là ngày Tòa án ra Quyết định công nhận sự thỏa thuận của các đương sự hoặc ngày Tòa án tuyên án khi xét xử sơ thẩm hoặc xét xử sơ thẩm lại.
+ENTITY,E39_13,KHOAN,Khoản,structure,14835,14933,"2. “Thời điểm trả nợ” hướng dẫn tại các điều 3, 4 và 5 Nghị quyết này là thời điểm xét xử sơ thẩm."
+ENTITY,E39_14,KHOAN,Khoản,structure,14934,15028,"3. “Thời gian chậm trả” hướng dẫn tại các điều 3, 4 và 5 Nghị quyết này được xác định như sau:"
+ENTITY,E39_15,KHOAN,Khoản,structure,15907,16181,"1. Lãi, lãi suất trong hợp đồng tín dụng do các bên thỏa thuận nhưng phải phù hợp với quy định của Luật Các tổ chức tín dụng và văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn áp dụng Luật Các tổ chức tín dụng tại thời điểm xác lập hợp đồng, thời điểm tính lãi suất."
+ENTITY,E39_16,KHOAN,Khoản,structure,16182,16515,"2. Khi giải quyết tranh chấp hợp đồng tín dụng, Tòa án áp dụng quy định của Luật Các tổ chức tín dụng, văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn áp dụng Luật Các tổ chức tín dụng để giải quyết mà không áp dụng quy định về giới hạn lãi suất của Bộ luật Dân sự năm 2005, Bộ luật Dân sự năm 2015 để xác định lãi, lãi suất."
+ENTITY,E39_17,KHOAN,Khoản,structure,16600,16723,"1. Tại thời điểm xét xử sơ thẩm, lãi, lãi suất trong hợp đồng tín dụng xác lập trước ngày 01-01-2017 được xác định như sau:"
+ENTITY,E39_18,KHOAN,Khoản,structure,17272,17395,"2. Tại thời điểm xét xử sơ thẩm, lãi, lãi suất trong hợp đồng tín dụng xác lập kể từ ngày 01-01-2017 được xác định như sau:"
+ENTITY,E39_19,KHOAN,Khoản,structure,17808,17951,"3. Thời gian chậm trả tiền nợ gốc bắt đầu kể từ ngày chuyển nợ quá hạn đến thời điểm xét xử sơ thẩm, trừ trường hợp các bên có thỏa thuận khác."
+ENTITY,E39_20,KHOAN,Khoản,structure,17952,18138,"4. Thời gian chậm trả tiền lãi trên nợ gốc bắt đầu kể từ ngày tiếp theo liền kề của ngày phải trả lãi trên nợ gốc đến thời điểm xét xử sơ thẩm, trừ trường hợp các bên có thỏa thuận khác."
+ENTITY,E39_21,KHOAN,Khoản,structure,19918,20119,"1. Hợp đồng vay tài sản có thỏa thuận xử lý đối với hành vi không trả nợ đúng hạn của bên vay thì Toà án xem xét, quyết định theo nguyên tắc chỉ xử lý một lần đối với mỗi hành vi không trả nợ đúng hạn."
+ENTITY,E39_22,KHOAN,Khoản,structure,20120,20658,"2. Hợp đồng vay tài sản vừa có thỏa thuận phạt vi phạm, vừa có thỏa thuận lãi trên nợ gốc quá hạn hoặc hình thức khác áp dụng đối với hành vi không trả nợ đúng hạn của bên vay thì Tòa án căn cứ quy định tương ứng của Bộ luật Dân sự, Luật Các tổ chức tín dụng và văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn áp dụng Bộ luật Dân sự, Luật Các tổ chức tín dụng tại thời điểm xác lập hợp đồng, thời điểm tính lãi suất để xem xét, quyết định xử lý đối với hành vi không trả nợ đúng hạn theo nguyên tắc hướng dẫn tại khoản 1 Điều này."
+ENTITY,E39_23,KHOAN,Khoản,structure,20729,21035,"1. Khi giải quyết vụ án hình sự, hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động, cùng với việc quyết định khoản tiền mà bên có nghĩa vụ về tài sản phải thanh toán cho bên được thi hành án thì Toà án phải quyết định trong bản án hoặc quyết định (Phần quyết định) như sau:"
+ENTITY,E39_24,KHOAN,Khoản,structure,22340,22614,"2. “Mức lãi suất hai bên thỏa thuận” hướng dẫn tại khoản 1 điều này là mức lãi suất nợ quá hạn các bên thỏa thuận trong hợp đồng hoặc tại Tòa án. Trường hợp, các bên không có thỏa thuận về mức lãi suất nợ quá hạn thì mức lãi suất nợ quá hạn bằng 150% mức lãi suất trong hạn."
+ENTITY,E39_25,KHOAN,Khoản,structure,22642,22802,1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 11 tháng 01 năm 2019 và có hiệu lực thi hành kể từ ngày 15 tháng 3 năm 2019.
+ENTITY,E39_26,KHOAN,Khoản,structure,22803,23118,"2. Đối với những vụ án hình sự, hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động đã được Tòa án thụ lý trước ngày Nghị quyết này có hiệu lực nhưng kể từ ngày Nghị quyết này có hiệu lực mới xét xử sơ thẩm, phúc thẩm, giám đốc thẩm, tái thẩm thì áp dụng Nghị quyết này để giải quyết."
+ENTITY,E39_27,KHOAN,Khoản,structure,23119,23546,"3. Đối với những vụ án hình sự, hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động đã được Toà án thụ lý giải quyết và bản án, quyết định của Toà án đã có hiệu lực pháp luật trước ngày Nghị quyết này có hiệu lực thi hành thì không áp dụng hướng dẫn tại Nghị quyết này để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm trừ trường hợp bản án, quyết định của Toà án bị kháng nghị theo căn cứ khác."
+ENTITY,E40_1,DIEM,Điểm,structure,1551,2659,"a) Hợp đồng được thực hiện xong là hợp đồng mà các bên đã hoàn thành xong các quyền, nghĩa vụ theo thỏa thuận và các quyền, nghĩa vụ khác phát sinh từ hợp đồng mà pháp luật có quy định.
+Hợp đồng được thực hiện xong trước ngày 01-01-2017 mà có tranh chấp thì áp dụng Bộ luật Dân sự năm 2005, Nghị quyết số 45/2005/QH11 ngày 14-6-2005 của Quốc hội về việc thi hành Bộ luật Dân sự và văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn áp dụng Bộ luật Dân sự năm 2005 để giải quyết;
+Ví dụ 1: Ngày 20-12-2015, ông A ký hợp đồng cho bà B vay 10.000.000.000 đồng, thời hạn vay 01 năm, lãi suất thỏa thuận là 18%/năm; hợp đồng có hiệu lực và bà B đã trả xong nợ gốc và lãi theo đúng thỏa thuận trong hợp đồng. Ngày 20-02-2018, bà B khởi kiện yêu cầu ông A trả lại tiền lãi do mức lãi suất vượt quá 150% mức lãi suất cơ bản theo Quyết định số 2868/QĐ-NHNN ngày 29-11-2010 của Ngân hàng Nhà nước Việt Nam (quy định mức lãi suất cơ bản là 9%/năm, tương ứng với mức 150% lãi suất cơ bản là 13,5%/năm). Trường hợp này, Tòa án phải áp dụng Điều 476 của Bộ luật Dân sự năm 2005 để xác định lãi suất, lãi suất vượt quá."
+ENTITY,E40_2,DIEM,Điểm,structure,2660,3582,"b) Hợp đồng chưa được thực hiện là hợp đồng mà các bên chưa phải thực hiện quyền, nghĩa vụ theo thỏa thuận và các quyền, nghĩa vụ khác phát sinh từ hợp đồng mà pháp luật có quy định.
+Hợp đồng chưa được thực hiện mà lãi, lãi suất phù hợp với quy định của Bộ luật Dân sự năm 2015 thì áp dụng quy định của Bộ luật Dân sự năm 2015 và văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn áp dụng Bộ luật Dân sự năm 2015 để giải quyết; trường hợp lãi, lãi suất không phù hợp với quy định của Bộ luật Dân sự năm 2015 thì áp dụng quy định của Bộ luật Dân sự năm 2005, Nghị quyết số 45/2005/QH11 ngày 14-6-2005 của Quốc hội về việc thi hành Bộ luật Dân sự và văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn áp dụng Bộ luật Dân sự năm 2005 để giải quyết, trừ trường hợp các bên có thỏa thuận về việc sửa đổi, bổ sung về lãi, lãi suất phù hợp với Bộ luật Dân sự năm 2015 và để áp dụng quy định của Bộ luật Dân sự năm 2015."
+ENTITY,E40_3,DIEM,Điểm,structure,3583,5656,"c) Hợp đồng đang được thực hiện là hợp đồng mà các bên chưa thực hiện xong quyền, nghĩa vụ theo thỏa thuận và các quyền, nghĩa vụ khác phát sinh từ hợp đồng mà pháp luật có quy định.
+Hợp đồng đang được thực hiện mà lãi, lãi suất không phù hợp với quy định của Bộ luật Dân sự năm 2015 thì áp dụng quy định của Bộ luật Dân sự năm 2005, Nghị quyết số 45/2005/QH11 ngày 14-6-2005 của Quốc hội về việc thi hành Bộ luật Dân sự và văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn áp dụng Bộ luật Dân sự năm 2005 để giải quyết.
+Hợp đồng đang được thực hiện mà lãi, lãi suất phù hợp với quy định của Bộ luật Dân sự năm 2015 thì việc áp dụng pháp luật để xác định lãi, lãi suất như sau:
+Đối với khoảng thời gian trước ngày 01-01-2006 thì áp dụng quy định của Bộ luật Dân sự năm 1995, Nghị quyết ngày 28-10-1995 của Quốc hội về việc thi hành Bộ luật Dân sự và các văn bản quy phạm pháp luật hướng dẫn áp dụng Bộ luật Dân sự năm 1995.
+Đối với khoảng thời gian từ ngày 01-01-2006 đến trước ngày 01-01-2017 thì áp dụng quy định của Bộ luật Dân sự năm 2005, Nghị quyết số 45/2005/QH11 ngày 14-6-2005 của Quốc hội về việc thi hành Bộ luật Dân sự và văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn áp dụng Bộ luật Dân sự năm 2005.
+Đối với khoảng thời gian từ ngày 01-01-2017 thì áp dụng quy định của Bộ luật Dân sự năm 2015 và văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn áp dụng Bộ luật Dân sự năm 2015.
+Ví dụ 2: Ngày 01-01-2003, ông A cho bà B vay 100.000.000 đồng (hợp đồng vay không kỳ hạn), lãi suất thỏa thuận là 18%/năm. Ngày 01-01-2018, ông A khởi kiện yêu cầu bà B trả gốc và lãi theo hợp đồng. Trường hợp này, từ ngày 01-01-2003 đến trước ngày 01-01-2006, Tòa án áp dụng Điều 473 của Bộ luật Dân sự năm 1995 và các văn bản quy phạm pháp luật hướng dẫn áp dụng Bộ luật Dân sự năm 1995 để xác định lãi, lãi suất; từ ngày 01-01-2006 đến trước ngày 01-01-2017, Tòa án áp dụng Điều 476 của Bộ luật Dân sự năm 2005 để xác định lãi, lãi suất; kể từ ngày 01-01-2017 đến thời điểm xét xử sơ thẩm, Tòa án áp dụng Điều 468 của Bộ luật Dân sự năm 2015 để giải quyết."
+ENTITY,E40_4,DIEM,Điểm,structure,6117,6511,"a) Mức lãi suất thỏa thuận không vượt quá mức lãi suất giới hạn quy định tại Điều 468 của Bộ luật Dân sự năm 2015.
+Ví dụ 3: Ngày 20-01-2016, ông A ký hợp đồng cho bà B vay 100.000.000 đồng, lãi suất thỏa thuận là 18%/năm. Mức lãi suất 18%/năm không vượt quá mức lãi suất giới hạn quy định tại Điều 468 của Bộ luật Dân sự năm 2015 nên thỏa thuận này phù hợp quy định của Bộ luật Dân sự năm 2015."
+ENTITY,E40_5,DIEM,Điểm,structure,6512,7177,"b) Lãi, lãi suất theo thỏa thuận được Bộ luật Dân sự năm 2015 quy định nhưng không được pháp luật trước ngày Bộ luật Dân sự năm 2015 có hiệu lực thi hành quy định.
+Ví dụ 4: Ngày 20-01-2016, ông A ký hợp đồng cho bà B vay 100.000.000 đồng, lãi suất thỏa thuận là 18%/năm, lãi trên nợ lãi theo mức lãi suất là 0,1%/năm. Thỏa thuận lãi trên nợ lãi là nội dung không được Bộ luật Dân sự năm 1995, Bộ luật Dân sự năm 2005 và văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn áp dụng Bộ luật Dân sự năm 1995, Bộ luật Dân sự năm 2005 quy định nhưng được Bộ luật Dân sự năm 2015 quy định nên thỏa thuận lãi trên nợ lãi là phù hợp quy định của Bộ luật Dân sự năm 2015."
+ENTITY,E40_6,DIEM,Điểm,structure,7178,7672,"c) Lãi, lãi suất được Bộ luật Dân sự năm 2015 quy định nhưng pháp luật trước ngày Bộ luật Dân sự năm 2015 có hiệu lực thi hành quy định khác.
+Ví dụ 5: Ngày 20-01-2016, ông A ký hợp đồng cho bà B vay 100.000.000 đồng không có lãi, thời hạn vay là 03 năm. Trường hợp các bên không có thỏa thuận về việc trả lãi đối với nợ gốc quá hạn thì việc tính lãi đối với nợ gốc quá hạn chưa trả từ ngày tiếp theo của ngày đến hạn trả nợ (ngày 21-01-2019) là phù hợp với quy định của Bộ luật Dân sự năm 2015."
+ENTITY,E40_7,DIEM,Điểm,structure,8697,9295,"a) Lãi trên nợ gốc trong hạn chưa trả theo lãi suất thỏa thuận nhưng không được vượt quá 50% của lãi suất cao nhất do Ngân hàng Nhà nước quy định đối với loại cho vay tương ứng tại thời điểm xác lập hợp đồng tương ứng với thời gian vay chưa trả lãi. Trường hợp các bên không xác định rõ lãi suất thì áp dụng lãi suất tiết kiệm có kỳ hạn do Ngân hàng Nhà nước quy định tại thời điểm trả nợ.
+Tiền lãi trên nợ gốc trong hạn chưa trả = (nợ gốc chưa trả) x (lãi suất theo thỏa thuận) hoặc (lãi suất tiết kiệm có kỳ hạn do Ngân hàng Nhà nước quy định tại thời điểm trả nợ) x (thời gian vay chưa trả lãi);"
+ENTITY,E40_8,DIEM,Điểm,structure,9296,9633,"b) Lãi trên nợ gốc quá hạn chưa trả theo lãi suất tiết kiệm có kỳ hạn do Ngân hàng Nhà nước quy định tại thời điểm trả nợ tương ứng với thời gian chậm trả.
+Tiền lãi trên nợ gốc quá hạn chưa trả = (nợ gốc quá hạn chưa trả) x (lãi suất tiết kiệm có kỳ hạn do Ngân hàng Nhà nước quy định tại thời điểm trả nợ) x (thời gian chậm trả nợ gốc);"
+ENTITY,E40_9,DIEM,Điểm,structure,10760,11308,"a) Lãi trên nợ gốc trong hạn chưa trả theo lãi suất thỏa thuận nhưng không vượt quá 150% lãi suất cơ bản do Ngân hàng Nhà nước công bố tại thời điểm xác lập hợp đồng tương ứng với thời gian vay chưa trả lãi. Trường hợp các bên không xác định rõ lãi suất thì áp dụng lãi suất cơ bản do Ngân hàng Nhà nước công bố tại thời điểm trả nợ.
+Tiền lãi trên nợ gốc trong hạn chưa trả = (nợ gốc chưa trả) x (lãi suất theo thỏa thuận hoặc lãi suất cơ bản do Ngân hàng Nhà nước công bố tại thời điểm xác lập hợp đồng) x (thời gian vay chưa trả lãi trên nợ gốc);"
+ENTITY,E40_10,DIEM,Điểm,structure,11309,11618,"b) Lãi trên nợ gốc quá hạn chưa trả theo lãi suất cơ bản do Ngân hàng Nhà nước công bố tại thời điểm trả nợ tương ứng với thời gian chậm trả.
+Tiền lãi trên nợ gốc quá hạn chưa trả = (nợ gốc quá hạn chưa trả) x (lãi suất cơ bản do Ngân hàng Nhà nước công bố tại thời điểm trả nợ) x (thời gian chậm trả nợ gốc);"
+ENTITY,E40_11,DIEM,Điểm,structure,12903,13621,"a) Lãi trên nợ gốc trong hạn chưa trả theo lãi suất thỏa thuận nhưng không vượt quá mức lãi suất quy định tại khoản 1 Điều 468 của Bộ luật Dân sự năm 2015 tương ứng với thời hạn vay chưa trả lãi trên nợ gốc tại thời điểm xác lập hợp đồng. Trường hợp các bên có thỏa thuận về việc trả lãi nhưng không xác định rõ lãi suất và có tranh chấp thì lãi suất được xác định bằng 50% mức lãi suất giới hạn quy định tại khoản 1 Điều 468 của Bộ luật Dân sự năm 2015 tại thời điểm trả nợ.
+Tiền lãi trên nợ gốc trong hạn chưa trả = (nợ gốc chưa trả) x (lãi suất theo thỏa thuận hoặc 50% mức lãi suất giới hạn quy định tại khoản 1 Điều 468 của Bộ luật Dân sự năm 2015 tại thời điểm trả nợ) x (thời gian vay chưa trả lãi trên nợ gốc)."
+ENTITY,E40_12,DIEM,Điểm,structure,13622,14077,"b) Trường hợp chậm trả lãi trên nợ gốc trong hạn thì còn phải trả lãi trên nợ lãi theo mức lãi suất quy định tại khoản 2 Điều 468 của Bộ luật Dân sự năm 2015 tại thời điểm trả nợ tương ứng với thời gian chậm trả tiền lãi trên nợ gốc, trừ trường hợp có thoả thuận khác.
+Tiền lãi trên nợ lãi chưa trả = (nợ lãi chưa trả) x (lãi suất quy định tại khoản 2 Điều 468 của Bộ luật Dân sự năm 2015 tại thời điểm trả nợ) x (thời gian chậm trả tiền lãi trên nợ gốc);"
+ENTITY,E40_13,DIEM,Điểm,structure,14078,14571,"c) Lãi trên nợ gốc quá hạn chưa trả bằng 150% mức lãi suất vay do các bên thỏa thuận trong hợp đồng tương ứng với thời gian chậm trả, trừ trường hợp có thoả thuận khác. Mức lãi suất trên nợ gốc quá hạn do các bên thỏa thuận không được vượt quá 150% mức lãi suất quy định tại khoản 1 Điều 468 Bộ luật Dân sự năm 2015.
+Tiền lãi trên nợ gốc quá hạn chưa trả = (nợ gốc quá hạn chưa trả) x (lãi suất do các bên thỏa thuận hoặc 150% lãi suất vay do các bên thỏa thuận) x (thời gian chậm trả nợ gốc)."
+ENTITY,E40_14,DIEM,Điểm,structure,15029,15453,"a) Đối với hợp đồng vay không kỳ hạn thì thời gian chậm trả nợ gốc bắt đầu kể từ ngày tiếp theo liền kề của ngày hết “thời gian hợp lý” đến thời điểm xét xử sơ thẩm. “Thời gian hợp lý” quy định tại Điều 474 của Bộ luật Dân sự năm 1995, Điều 477 của Bộ luật Dân sự năm 2005, Điều 469 của Bộ luật Dân sự năm 2015 do Tòa án căn cứ vào từng trường hợp cụ thể để xem xét, quyết định nhưng không quá 03 tháng kể từ ngày thông báo;"
+ENTITY,E40_15,DIEM,Điểm,structure,15454,15643,"b) Đối với hợp đồng vay có kỳ hạn thì thời gian chậm trả nợ gốc bắt đầu kể từ ngày tiếp theo liền kề của ngày hết kỳ hạn vay đến thời điểm xét xử sơ thẩm, trừ trường hợp có thỏa thuận khác;"
+ENTITY,E40_16,DIEM,Điểm,structure,15644,15839,"c) Thời gian chậm trả tiền lãi trên nợ gốc chưa trả bắt đầu kể từ ngày tiếp theo liền kề của ngày phải trả lãi trên nợ gốc đến thời điểm xét xử sơ thẩm, trừ trường hợp các bên có thỏa thuận khác."
+ENTITY,E40_17,DIEM,Điểm,structure,16724,17031,"a) Lãi trên nợ gốc trong hạn chưa trả được xác định theo lãi suất các bên thỏa thuận nhưng phải phù hợp với Luật Các tổ chức tín dụng và văn bản quy phạm pháp luật quy định về lãi suất áp dụng cho hợp đồng tín dụng tại thời điểm xác lập hợp đồng, thời điểm tính lãi suất tương ứng với thời hạn vay chưa trả."
+ENTITY,E40_18,DIEM,Điểm,structure,17032,17271,b) Lãi trên nợ gốc quá hạn chưa trả được xác định theo thỏa thuận của các bên nhưng phải phù hợp với Luật Các tổ chức tín dụng và văn bản quy phạm pháp luật quy định về lãi suất áp dụng cho hợp đồng tín dụng tại thời điểm xác lập hợp đồng.
+ENTITY,E40_19,DIEM,Điểm,structure,17396,17489,"a) Lãi trên nợ gốc, lãi trên nợ gốc quá hạn được xác định theo quy định tại khoản 1 Điều này."
+ENTITY,E40_20,DIEM,Điểm,structure,17490,17807,"b) Trường hợp khách hàng không trả đúng hạn tiền lãi trên nợ gốc theo thỏa thuận tại hợp đồng tín dụng, thì phải trả lãi chậm trả theo mức lãi suất do tổ chức tín dụng và khách hàng thỏa thuận nhưng không vượt quá mức lãi suất giới hạn mà pháp luật quy định tương ứng với thời gian chậm trả lãi trên nợ gốc trong hạn."
+ENTITY,E40_21,DIEM,Điểm,structure,21036,21526,"a) Đối với trường hợp chậm thực hiện nghĩa vụ trong hợp đồng mà các bên có thỏa thuận về việc trả lãi thì quyết định kể từ ngày tiếp theo của ngày xét xử sơ thẩm cho đến khi thi hành án xong, bên phải thi hành án còn phải chịu khoản tiền lãi của số tiền còn phải thi hành án theo mức lãi suất các bên thỏa thuận nhưng phải phù hợp với quy định của pháp luật; nếu không có thỏa thuận về mức lãi suất thì quyết định theo mức lãi suất quy định tại khoản 2 Điều 468 của Bộ luật Dân sự năm 2015."
+ENTITY,E40_22,DIEM,Điểm,structure,21527,22339,"b) Đối với trường hợp khoản tiền phải thu nộp vào ngân sách Nhà nước mà pháp luật có quy định nghĩa vụ trả lãi; hoặc khoản tiền bồi thường thiệt hại ngoài hợp đồng; hoặc trường hợp chậm thực hiện nghĩa vụ về tài sản trong hoặc ngoài hợp đồng khác mà các bên không thỏa thuận về việc trả lãi thì quyết định kể từ ngày bản án, quyết định có hiệu lực pháp luật (đối với các trường hợp cơ quan thi hành án có quyền chủ động ra quyết định thi hành án) hoặc kể từ ngày có đơn yêu cầu thi hành án của người được thi hành án (đối với các khoản tiền phải trả cho người được thi hành án) cho đến khi thi hành án xong, bên phải thi hành án còn phải chịu khoản tiền lãi của số tiền còn phải thi hành án theo mức lãi suất quy định tại Điều 357, Điều 468 của Bộ luật Dân sự năm 2015, trừ trường hợp pháp luật có quy định khác."
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E2_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,R22_7,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_8,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,R22_9,THUOC,Thuộc,E39_7,E38_4,,
+RELATION,R22_10,THUOC,Thuộc,E39_8,E38_4,,
+RELATION,R22_11,THUOC,Thuộc,E39_9,E38_4,,
+RELATION,R22_12,THUOC,Thuộc,E39_10,E38_5,,
+RELATION,R22_13,THUOC,Thuộc,E39_11,E38_5,,
+RELATION,R22_14,THUOC,Thuộc,E39_12,E38_6,,
+RELATION,R22_15,THUOC,Thuộc,E39_13,E38_6,,
+RELATION,R22_16,THUOC,Thuộc,E39_14,E38_6,,
+RELATION,R22_17,THUOC,Thuộc,E39_15,E38_7,,
+RELATION,R22_18,THUOC,Thuộc,E39_16,E38_7,,
+RELATION,R22_19,THUOC,Thuộc,E39_17,E38_8,,
+RELATION,R22_20,THUOC,Thuộc,E39_18,E38_8,,
+RELATION,R22_21,THUOC,Thuộc,E39_19,E38_8,,
+RELATION,R22_22,THUOC,Thuộc,E39_20,E38_8,,
+RELATION,R22_23,THUOC,Thuộc,E39_21,E38_12,,
+RELATION,R22_24,THUOC,Thuộc,E39_22,E38_12,,
+RELATION,R22_25,THUOC,Thuộc,E39_23,E38_13,,
+RELATION,R22_26,THUOC,Thuộc,E39_24,E38_13,,
+RELATION,R22_27,THUOC,Thuộc,E39_25,E38_14,,
+RELATION,R22_28,THUOC,Thuộc,E39_26,E38_14,,
+RELATION,R22_29,THUOC,Thuộc,E39_27,E38_14,,
+RELATION,R22_30,THUOC,Thuộc,E40_1,E39_1,,
+RELATION,R22_31,THUOC,Thuộc,E40_2,E39_1,,
+RELATION,R22_32,THUOC,Thuộc,E40_3,E39_1,,
+RELATION,R22_33,THUOC,Thuộc,E40_4,E39_3,,
+RELATION,R22_34,THUOC,Thuộc,E40_5,E39_3,,
+RELATION,R22_35,THUOC,Thuộc,E40_6,E39_3,,
+RELATION,R22_36,THUOC,Thuộc,E40_7,E39_5,,
+RELATION,R22_37,THUOC,Thuộc,E40_8,E39_5,,
+RELATION,R22_38,THUOC,Thuộc,E40_9,E39_8,,
+RELATION,R22_39,THUOC,Thuộc,E40_10,E39_8,,
+RELATION,R22_40,THUOC,Thuộc,E40_11,E39_11,,
+RELATION,R22_41,THUOC,Thuộc,E40_12,E39_11,,
+RELATION,R22_42,THUOC,Thuộc,E40_13,E39_11,,
+RELATION,R22_43,THUOC,Thuộc,E40_14,E39_14,,
+RELATION,R22_44,THUOC,Thuộc,E40_15,E39_14,,
+RELATION,R22_45,THUOC,Thuộc,E40_16,E39_14,,
+RELATION,R22_46,THUOC,Thuộc,E40_17,E39_17,,
+RELATION,R22_47,THUOC,Thuộc,E40_18,E39_17,,
+RELATION,R22_48,THUOC,Thuộc,E40_19,E39_18,,
+RELATION,R22_49,THUOC,Thuộc,E40_20,E39_18,,
+RELATION,R22_50,THUOC,Thuộc,E40_21,E39_23,,
+RELATION,R22_51,THUOC,Thuộc,E40_22,E39_23,,

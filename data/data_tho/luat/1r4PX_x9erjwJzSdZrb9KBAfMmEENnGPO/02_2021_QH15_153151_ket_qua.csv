@@ -1,0 +1,90 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,77,"Luật sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự số 02/2021/QH15"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,65,77,02/2021/QH15
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,3547,3572,ngày 12 tháng 11 năm 2021
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,3425,3450,ngày 01 tháng 12 năm 2021
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,3682,3694,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,292,300,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,3574,3591,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,3592,3606,Vương Đình Huệ
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,2554,2607,Luật Tổ chức Cơ quan điều tra hình sự số 99/2015/QH13
+ENTITY,E15_2,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,348,388,Bộ luật Tố tụng hình sự số 101/2015/QH13
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,241,290,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E27_1,VB_HOP_NHAT,Văn bản hợp nhất,reference,3715,3771,Văn bản hợp nhất số 46/VBHN-VPQH Bộ luật Tố tụng hình sự
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,3793,3923,Thông tư liên tịch số 05/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP-BTP Quy định chi tiết và hướng dẫn thi hành tổ chức phiên tòa trực tuyến
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,3943,4073,"Thông tư số 19/2022/TT-BCA Quy định việc tiếp nhận, phân loại, xử lý đơn khiếu nại, đơn kiến nghị, phản ánh trong Công an nhân dân"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,4093,4254,"Nghị định số 250/2025/NĐ-CP Quy định chi tiết việc thành lập và hoạt động của Hội đồng định giá tài sản; trình tự, thủ tục định giá tài sản trong tổ tụng hình sự"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,4274,4404,Thông tư liên tịch số 05/2021/TTLT-TANDTC-VKSNDTC-BCA-BQP-BTP Quy định chi tiết và hướng dẫn thi hành tổ chức phiên tòa trực tuyến
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,4424,4565,"Thông tư số 88/2024/TT-BCA Quy định về phân công trách nhiệm, quan hệ phối hợp, quy trình xác minh, giải quyết vụ cháy trong Công an nhân dân"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,4585,4737,"Thông tư liên tịch số 03/2023/TTLT-BCA-VKSNDTC-TANDTC Quy định về phối hợp thông báo hoặc gửi, cung cấp thông tin, tài liệu liên quan đến người phạm tội"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,4757,5023,"Thông tư liên tịch số 01/2021/TTLT-VKSNDTC-BCA-BQP-BNN&PTNT-BTC Quy định chi tiết việc áp dụng căn cứ tạm đình chỉ vì lý do bất khả kháng do thiên tai, dịch bệnh theo điểm c khoản 1 Điều 148, điểm d khoản 1 Điều 229 và điểm d khoản 1 Điều 247 Bộ luật Tố tụng hình sự"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,5043,5213,"Thông tư liên tịch số 05/2025/TTLT-BCA-BQP- VKSNDTC-TANDTC Quy định về phối hợp giữa các cơ quan tiến hành tố tụng trong điều tra, truy tố, xét xử vắng mặt bị can, bị cáo"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,5233,5506,"Thông tư số 129/2021/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 28/2020/TT-BCA ngày 26/3/2020 của Bộ trưởng Bộ Công an quy định trình tự, thủ tục tiếp nhận, phân loại, xử lý, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố của lực lượng Công an nhân dân"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,5526,6531,"Thông tư số 78/2025/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 85/2020/TT-BCA ngày 03 tháng 8 năm 2020 của Bộ trưởng Bộ Công an quy định việc tiếp nhận, xử lý, giải quyết tố cáo và quản lý công tác giải quyết tố cáo trong Công an nhân dân; Thông tư số 145/2020/TT-BCA ngày 29 tháng 12 năm 2020 của Bộ trưởng Bộ Công an quy định thẩm quyền, trình tự, thủ tục, biện pháp bảo vệ tính mạng, sức khỏe, tài sản, danh dự, nhân phẩm của người tố cáo về hành vi tham nhũng, lãng phí; Thông tư số 98/2021/TT-BCA ngày 20 tháng 10 năm 2021 của Bộ trưởng Bộ Công an quy định về công tác tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh trong Công an nhân dân; Thông tư số 19/2022/TT-BCA ngày 29 tháng 4 năm 2022 của Bộ trưởng Bộ Công an quy định việc tiếp nhận, phân loại, xử lý đơn khiếu nại, đơn kiến nghị, phản ánh trong Công an nhân dân; Thông tư số 23/2022/TT-BCA ngày 16 tháng 5 năm 2022 của Bộ trưởng Bộ Công an quy định thẩm quyền, trình tự, thủ tục giải quyết khiếu nại trong Công an nhân dân"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,6551,6888,"Thông tư liên tịch số 01/2024/TTLT-VKSNDTC-BCA-BQP- BNN&PTNT-BTC bãi bỏ Thông tư liên ngành 03/TTLN hướng dẫn thi hành các quy định của Luật tố tụng hình sự về tiếp nhận, giải quyết tố giác và tin báo tội phạm do Viện kiểm sát nhân dân tối cao - Bộ Công an - Bộ Quốc phòng - Bộ Nông nghiệp và Phát triển nông thôn - Bộ Tài chính ban hành"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,6908,7182,"Thông tư liên tịch số 01/2022/TTLT-VKSNDTC-TANDTC-BCA-BQP-BLĐTBXH Quy định về phối hợp giữa các cơ quan có thẩm quyền trong tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố, điều tra, truy tố, xét xử sơ thẩm các vụ án xâm hại tình dục người dưới 18 tuổi"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,7202,7320,"Thông tư số 72/2024/TT-BCA Quy định quy trình điều tra, giải quyết tai nạn giao thông đường bộ của Cảnh sát giao thông"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,7340,7585,"Thông tư số 02/2025/TT-VKSTC Quy định thẩm quyền của Viện kiểm sát nhân dân các cấp trong thực hành quyền công tố và kiểm sát việc tuân theo pháp luật trong giải quyết vụ việc, vụ án hình sự do Viện trưởng Viện kiểm sát nhân dân tối cao ban hành"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,7605,7904,"Thông tư liên tịch số 01/2025/TTLT-KTNN -VKSNDTC-BCA-BQP quy định về phối hợp giữa Kiểm toán nhà nước, Cơ quan điều tra, Viện kiểm sát trong việc trao đổi, chuyển thông tin và kiến nghị xem xét, khởi tố vụ việc có dấu hiệu tội phạm được phát hiện thông qua hoạt động kiểm toán của Kiểm toán nhà nước"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,7924,8046,Thông tư số 98/2024/TT-BCA Quy định quy trình khám nghiệm hiện trường trong tố tụng hình sự của lực lượng Công an nhân dân
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,8066,8147,"Nghị định số 142/2024/NĐ-CP Quy định về quản lý kho vật chứng và tài liệu, đồ vật"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,8167,8338,"Thông tư số 03/2025/TT-VKSTC quy định về tiếp nhận nhiệm vụ, thực hiện thẩm quyền của Viện kiểm sát nhân dân các cấp do Viện trưởng Viện kiểm sát nhân dân tối cao ban hành"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,8358,8516,Thông tư liên tịch số 01/2025/TTLT-BCA-BQP-BTP - BNN&PTNT-BTC-VKSNDTC-TANDTC Quy định quan hệ phối hợp trong hoạt động giám định tư pháp trong tố tụng hình sự
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,8536,8872,"Thông tư liên tịch số 01/2024/TTLT-VKSNDTC-BCA-BQP-BNN&PTNT-BTC Bãi bỏ Thông tư liên ngành 03/TTLN hướng dẫn thi hành các quy định của Luật tố tụng hình sự về tiếp nhận, giải quyết tố giác và tin báo tội phạm do Viện kiểm sát nhân dân tối cao - Bộ Công an - Bộ Quốc phòng - Bộ Nông nghiệp và Phát triển nông thôn - Bộ Tài chính ban hành"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,8892,9153,"Thông tư liên tịch số 29/2025/TTLT-BTP-BCA-BQP-BTC-TANDTC-VKSNDTC Sửa đổi, bổ sung một số điều của Thông tư liên tịch số 10/2018/TTLT-BTP-BCA-BQP-BTC-TANDTC-VKSNDTC ngày 29 tháng 6 năm 2018 quy định về phối hợp thực hiện trợ giúp pháp lý trong hoạt động tố tụng"
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,9173,9335,"Thông tư liên tịch số 02/2023/TTLT-BCA-VKSNDTC-TANDTC Quy định về phối hợp trao đổi thông tin trong điều tra, truy tố, xét xử tội rửa tiền và tội tài trợ khủng bố"
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,9355,9585,"Nghị quyết số 225/2025/QH15 Về việc thi hành Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Tòa án nhân dân, Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Viện kiểm sát nhân dân, các luật tố tụng và luật khác có liên quan"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,9605,9816,"Thông tư số 68/2023/TT-BCA Quy định quy trình tiếp nhận, phân loại, giải quyết khiếu nại, tố cáo trong tố tụng hình sự thuộc thẩm quyền giải quyết của người có thẩm quyền tiến hành tố tụng trong Công an nhân dân"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,9836,10380,"Thông tư liên tịch số 01/2021/TTLT-BCA-BQP-BTC-BNN&PTNT-VKSNDTC Sửa đổi, bổ sung một số điều của Thông tư liên tịch số 01/2017/TTLT-BCA-BQP-BTC-BNNPTNT-VKSNDTC ngày 29/12/2017 của Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Tài chính, Bộ trưởng Bộ Nông nghiệp và phát triển nông thôn, Viện trưởng Viện kiểm sát nhân dân tối cao quy định việc phối hợp giữa các cơ quan có thẩm quyền trong việc thực hiện một số quy định của Bộ luật Tố tụng hình sự năm 2015 về tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,10400,10542,"Quyết định số 147/2025/QĐ-UBND Ban hành Quy chế quản lý, khai thác và sử dụng Cơ sở dữ liệu công chứng, chứng thực trên địa bàn tỉnh Đồng Tháp"
+ENTITY,E38_1,DIEU,Điều,structure,390,396,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,2494,2500,Điều 2
+ENTITY,E39_1,KHOAN,Khoản,structure,455,500,"1. Sửa đổi, bổ sung khoản 3 Điều 146 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,782,840,2. Bổ sung điểm c vào sau điểm b khoản 1 Điều 148 như sau:
+ENTITY,E39_3,KHOAN,Khoản,structure,1168,1213,"3. Sửa đổi, bổ sung khoản 1 Điều 155 như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,1499,1544,"4. Sửa đổi, bổ sung khoản 8 Điều 157 như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,1720,1778,5. Bổ sung điểm d vào sau điểm c khoản 1 Điều 229 như sau:
+ENTITY,E39_6,KHOAN,Khoản,structure,2079,2137,6. Bổ sung điểm d vào sau điểm c khoản 1 Điều 247 như sau:
+ENTITY,E39_7,KHOAN,Khoản,structure,2522,2616,"1. Sửa đổi, bổ sung Điều 44 của Luật Tổ chức Cơ quan điều tra hình sự số 99/2015/QH13 như sau:"
+ENTITY,E39_8,KHOAN,Khoản,structure,3389,3451,2. Luật này có hiệu lực thi hành từ ngày 01 tháng 12 năm 2021.
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R3_2,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_2,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R15_1,HOP_NHAT,Hợp nhất,E27_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E30_19,E2_1,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E30_20,E2_1,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E30_21,E2_1,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E30_22,E2_1,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E30_23,E2_1,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E30_24,E2_1,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E30_25,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,R22_8,THUOC,Thuộc,E39_8,E38_2,,
+RELATION,R22_9,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_10,THUOC,Thuộc,E11_1,E10_1,,

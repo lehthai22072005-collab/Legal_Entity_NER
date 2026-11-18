@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0",
+  "document_id": "177710",
+  "document_code": "05/2025/L-CTN",
+  "file_name": "05_2025_L-CTN_177710.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 05/2025/L-CTN Về việc công bố Pháp lệnh Quản lý, bảo vệ Khu Di tích Lăng Chủ tịch Hồ Chí Minh",
+    "so_hieu": "05/2025/L-CTN",
+    "loai_van_ban": "Lệnh",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "ngày 24 tháng 3 năm 2025",
+    "ngay_co_hieu_luc": "2025-03-24",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH\nNƯỚC",
+    "nguoi_ky": "Lương Cường",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 05/2025/L-CTN Về việc công bố Pháp lệnh Quản lý, bảo vệ Khu Di tích Lăng Chủ tịch Hồ Chí Minh\nCHỦ TỊCH NƯỚC\nSố: 05/2025/L-CTN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nHà Nội, ngày 24 tháng 3 năm 2025\nLỆNH\nVề việc công bố Pháp lệnh\nCHỦ TỊCH\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 88 và Điều 91 của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nCăn cứ Điều 80 của Luật Ban hành văn bản quy phạm pháp luật;\nNAY CÔNG BỐ:\nPháp lệnh Quản lý, bảo vệ Khu Di tích Lăng Chủ tịch Hồ Chí Minh\nĐã được Ủy ban Thường vụ Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV thông qua ngày 13 tháng 3 năm 2025./.\nCHỦ TỊCH\nNƯỚC CÔNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nLương Cường\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 2025-03-24\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Hiến pháp năm 2013\n[Căn cứ ban hành]: Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 101,
+      "text": "Lệnh số 05/2025/L-CTN Về việc công bố Pháp lệnh Quản lý, bảo vệ Khu Di tích Lăng Chủ tịch Hồ Chí Minh",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 21,
+      "text": "05/2025/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 205,
+      "end": 229,
+      "text": "ngày 24 tháng 3 năm 2025",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 774,
+      "end": 788,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 809,
+      "end": 819,
+      "text": "2025-03-24",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 843,
+      "end": 855,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 102,
+      "end": 115,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 649,
+      "end": 662,
+      "text": "CHỦ TỊCH\nNƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 698,
+      "end": 709,
+      "text": "Lương Cường",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E19_1",
+      "start": 875,
+      "end": 893,
+      "text": "Hiến pháp năm 2013",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 913,
+      "end": 969,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E2_1",
+      "to_id": "E19_2",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

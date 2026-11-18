@@ -1,0 +1,65 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,88,"Luật Sửa đổi, bổ sung một số điều của Luật thuế chuyển quyền sử dụng đất số 17/1999/QH10"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,76,88,17/1999/QH10
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,186,211,ngày 21 tháng 12 năm 1999
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,4844,4858,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,4272,4297,ngày 01 tháng 01 năm 2000
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,4882,4894,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,388,396,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,4741,4758,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,4766,4779,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,367,471,Luật đất đai đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam thông qua ngày 14 tháng 7 năm 1993
+ENTITY,E14_2,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,511,616,Luật đất đai đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam thông qua ngày 02 tháng 12 năm 1998
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,660,786,Luật thuế chuyển quyền sử dụng đất đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam thông qua ngày 22 tháng 6 năm 1994
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,367,471,Luật đất đai đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam thông qua ngày 14 tháng 7 năm 1993
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,296,354,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,511,616,Luật đất đai đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam thông qua ngày 02 tháng 12 năm 1998
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,4916,5021,"Lệnh số 03/L-CTN Về việc công bố Luật sửa đổi, bổ sung một số điều của Luật thuế chuyển quyền sử dụng đất"
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,5043,5284,"Thông tư số 88/2004/TT-BTC Sửa đổi, bổ sung Thông tư số 128/2003/TT-BTC ngày 22/12/2003 của Bộ Tài chính hướng dẫn thi hành Nghị định số 164/2003/NĐ-CP ngày 22/12/2003 của Chính phủ quy định chi tiết thi hành Luật thuế thu nhập doanh nghiệp."
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,5306,5477,Thông tư số 134/2007/TT-BTC Hướng dẫn thi hành Nghị định số 24/2007/NĐ-CP ngày 14 tháng 2 năm 2007 của Chính phủ quy định chi tiết thi hành Luật thuế thu nhập doanh nghiệp
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,5497,5638,"Quyết định số 1844/2007/QĐ-UBND Ban hành Quy định về cấp Giấy chứng nhận quyền sử dụng đất cho hộ gia đình, cá nhân trên địa bàn tỉnh Yên Bái"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,5658,5896,Thông tư số 104/2000/TT-BTC hướng dẫn thi hành nghị định số 19/2000/NÐ-CP ngày 8/6/2000 của chính phủ quy định chi tiết thi hành luật thuế chuyển quyền sử dụng đất và luật sửa đổi bổ sung một số điều của luật thuế chuyển quyền sử dụng đất
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,5916,6000,Quyết định số 24/2001/QĐ-TTg Về việc phê duyệt kết quả Tổng kiểm kê đất đai năm 2000
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,6020,6153,Thông tư số 13/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các hình thức đầu tư theo Luật đầu tư nước ngoài tại Việt Nam
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,6173,6321,"Quyết định số 29/2007/QĐ-UBND Ban hành cơ chế, chính sách khuyến khích phát triển cây chè, cây mía trên địa bàn tỉnh Tuyên Quang giai đoạn 2007-2010"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,6341,6550,"Quyết định số 172/2001/QĐ-TTg Về việc xử lý giãn nợ, khoanh nợ, xóa nợ thuế và các khoản phải nộp ngân sách nhà nước đối với những doanh nghiệp, cơ sở sản xuất kinh doanh có khó khăn do nguyên nhân khách quan."
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,6570,6721,"Quyết định số 128/2000/QĐ-UB Về đền bù, hỗ trợ giá trị thiệt hại về nhà, đất cho các hộ diện giải tỏa để thực hiện dự án đường Liên Chiểu - Thuận Phước"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,6741,6911,"Quyết định số 747/QĐ-UB Về việc ban hành quy định tạm thời về trình tự, thủ tục mua bán nhà ở, chuyện nhượng quyền sử dụng đất ở tại đô thị không nhằm mục đích kinh doanh"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,6931,7099,"Thông tư số 48/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò dầu khí theo quy định của luật dầu khí"
+ENTITY,E38_1,DIEU,Điều,structure,788,794,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,4159,4165,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,4231,4237,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,4471,4477,Điều 4
+ENTITY,E39_1,KHOAN,Khoản,structure,865,905,"1. Điều 2 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,1823,1854,2. Điều 7 được sửa đổi như sau:
+ENTITY,E39_3,KHOAN,Khoản,structure,2114,2155,"3. Điều 11 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,2686,2727,"4. Điều 14 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,3491,3532,"5. Điều 15 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,3893,3925,6. Điều 16 được sửa đổi như sau:
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_3,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E14_2,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E29_3,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_8,THUOC,Thuộc,E11_1,E10_1,,

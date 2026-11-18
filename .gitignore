@@ -1,0 +1,18 @@
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+.DS_Store
+# Track the accepted model through Git LFS (.gitattributes), not regular Git.
+checkpoints/**/*.pt
+!checkpoints/phobert_span_all369_v1/model.pt
+resources/**/*.bin
+*.tar
+*.tar.gz
+colab/COLAB_HANDOFF.json
+AGENTS.md
+PROJECT_CONTEXT.md

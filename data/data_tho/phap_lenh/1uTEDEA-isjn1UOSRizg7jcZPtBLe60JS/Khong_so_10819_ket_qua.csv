@@ -1,0 +1,237 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,50,Pháp lệnh số Không số Bảo vệ và kiểm dịch thực vật
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,51,60,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,19491,19501,1993-02-04
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,19647,19661,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,19522,19532,1993-02-15
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,19554,19564,2002-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,19588,19608,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,19448,19473,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,5031,5039,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,19621,19634,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,23899,23917,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,19681,19699,Hiến pháp năm 1992
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,23137,23233,Nghị định số 69/2001/NĐ-CP Quy định chi tiết thi hành Pháp lệnh Bảo vệ quyền lợi người tiêu dùng
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,23255,23412,"Chỉ thị số 09/CT-UB-KT Về việc tổ chức quản lý các hoạt động sản xuất, gia công, kinh doanh, sử dụng thuốc bảo vệ thực vật trên địa bàn thành phố Hồ Chí Minh"
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,23434,23490,Chỉ thị số 09-CT.UB Về việc thực hiện kiểm dịch thực vật
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,23512,23647,Chỉ thị số 29/1998/CT-TTg Về tăng cường công tác quản lý việc sử dụng thuốc bảo vệ thực vật và các chất hữu cơ gây ô nhiễm khó phân huỷ
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,23669,23733,Lệnh số 08-L/CTN Công bố Pháp lệnh Bảo vệ và kiểm dịch thực phẩm
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,23755,23844,"Chỉ thị số 23/1998/CT-UBND V/v Tăng cường công tác quản lý, sử dụng thuốc bảo vệ thực vật"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,19719,19898,"Quyết định số 07/2001/QĐ-BNN-BVTV Về việc Đăng ký chính thức, đăng ký bổ sung và đăng ký đặc cách một số loại thuốc bảo vệ thực vật được phép sử dụng và hạn chế sử dụng ở Việt Nam"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,19918,20007,Quyết định số 88/2001/QĐ-BNN Về việc ban hành danh mục thuốc bảo vệ thực vật trên cây chè
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,20027,20162,Quyết định số 34/2001/QĐ-BNN-VP V/v ban hành Quy định về điều kiện kinh doanh trong một số lĩnh vực thuộc ngành trồng trọt và chăn nuôi
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,20182,20357,"Quyết định số 88/2000/QĐ-BNN-BVTV V/v đăng ký chính thức, đăng ký bổ sung và đăng ký đặc cách một số loại thuốc bảo vệ thực vật được phép sử dụng và hạn chế sử dụng ở Việt Nam"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,20377,20478,Quyết định số 125/2000/QĐ/BNN-BVTV Về việc đăng ký đặc cách một loại thuốc bảo vệ thực vật ở Việt Nam
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,20498,20662,Quyết định số 118/2000/QĐ-BNN-BVTV Ban hành quy định về các thao tác kỹ thuật kiểm tra vật thể thuộc diện kiểm dịch thực vật và thủ tục lập hồ sơ kiểm dịch thực vật
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,20682,20809,"Quyết định số 124/2001/QĐ-BNN Về việc ban hành Qui định kiểm tra Nhà nước chất lượng thuốc bảo vệ thực vật xuất khẩu, nhập khẩu"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,20829,20961,"Quyết định số 17/2001/QĐ-BNN-BVTV Ban hành Danh mục thuốc bảo vệ thực vật được phép sử dụng, hạn chế sử dụng, cấm sử dụng ở Việt Nam"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,20981,21037,Chỉ thị số 09-CT.UB Về việc thực hiện kiểm dịch thực vật
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,21057,21381,"Quyết định số 49/2000/QĐ-BNN-BVTV Về việc sửa đổi một số tên thuốc bảo vệ thực vật, tên đơn vị đăng ký sản phẩm trong danh mục thuốc bảo vệ thực vật được phép sử dụng, hạn chế sử dụng ở Việt Nam ban hành kèm theo Quyết định số 33/2000/QĐ/BNN-BVTV ngày 03 tháng 4 năm 2000 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,21401,21519,"Quyết định số 1082/NN-BVTV-QĐ về việc cấm nhập khẩu, sử dụng một số thuốc bảo vệ thực vật trong nông nghiệp ở Việt Nam"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,21539,21647,"Quyết định số 348/TTg Về chức năng, nhiệm vụ của Cục Thú y trực thuộc Bộ Nông nghiệp và Phát triển nông thôn"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,21667,21957,Quyết định số 136/1999/QĐ-BNN-BVTV Về việc sửa đổi một số tên thuốc bảo vệ thực vật được đăng ký bổ sung vào danh mục thuộc bảo vệ thực vật được phép sử dụng ở Việt Nam ban hành kèm theo Quyết định số 121/1999/QĐ-BNN-BVTV ngày 25/08/1999 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,21977,22094,Quyết định số 46/2001/QĐ/BNN-BVTV V/v đăng ký đặc cách một số loại thuốc bảo vệ thực vật được phép sử dụng ở Việt Nam
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,22114,22252,Quyết định số 11/2000/QĐ-BNN-BVTV V/v đăng ký chính thức và đăng ký bổ sung một số loại thuốc bảo vệ thực vật được phép sử dụng ở Việt Nam
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,22272,22412,"Quyết định số 29/1999/QĐ-BNN/BVTV Về việc Ban hành danh mục thuốc bảo vệ thực vật được phép sử dụng, hạn chế sử dụng, cấm sử dụng ở Việt Nam"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,22432,22576,"Chỉ thị số 07/NN-BVTV-CT Về việc cấm nhập trái phép, lưu hành và sử dụng côn trùng lạ Tenebrio molitor (L.) làm thức ăn cho chim cảnh ở Việt Nam"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,22596,22844,"Quyết định số 165/1999/QĐ/BNN-BVTV Về việc: ban hành Quy định về thủ tục thẩm định sản xuất, gia công, đăng ký, xuất khẩu, nhập khẩu; về buôn bán, lưu chứa, tiêu huỷ, nhãn thuốc, bao bì đóng gói, hội thảo, quảng cáo và sử dụng thuốc bảo vệ thực vật"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,22864,23003,"Quyết định số 17/2001/QĐ-BNNPTNT Về việc ban hành danh mục thuốc bảo vệ thực vật được phép sử dụng, hạn chế sử dụng, cấm sử dụng ở Việt Nam"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,23023,23115,Nghị định số 78-CP Về xử phạt vi phạm hành chính trong lĩnh vực bảo vệ và kiểm dịch thực vật
+ENTITY,E31_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,23967,24105,Quyết định số 11/2000/QĐ-BNN-BVTV V/v đăng ký chính thức và đăng ký bổ sung một số loại thuốc bảo vệ thực vật được phép sử dụng ở Việt Nam
+ENTITY,E31_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,24155,24319,Quyết định số 118/2000/QĐ-BNN-BVTV Ban hành quy định về các thao tác kỹ thuật kiểm tra vật thể thuộc diện kiểm dịch thực vật và thủ tục lập hồ sơ kiểm dịch thực vật
+ENTITY,E31_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,24369,24470,Quyết định số 125/2000/QĐ/BNN-BVTV Về việc đăng ký đặc cách một loại thuốc bảo vệ thực vật ở Việt Nam
+ENTITY,E31_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,24520,24647,"Quyết định số 124/2001/QĐ-BNN Về việc ban hành Qui định kiểm tra Nhà nước chất lượng thuốc bảo vệ thực vật xuất khẩu, nhập khẩu"
+ENTITY,E31_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,24697,24987,Quyết định số 136/1999/QĐ-BNN-BVTV Về việc sửa đổi một số tên thuốc bảo vệ thực vật được đăng ký bổ sung vào danh mục thuộc bảo vệ thực vật được phép sử dụng ở Việt Nam ban hành kèm theo Quyết định số 121/1999/QĐ-BNN-BVTV ngày 25/08/1999 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn
+ENTITY,E31_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,25037,25145,"Quyết định số 348/TTg Về chức năng, nhiệm vụ của Cục Thú y trực thuộc Bộ Nông nghiệp và Phát triển nông thôn"
+ENTITY,E31_7,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,25195,25370,"Quyết định số 88/2000/QĐ-BNN-BVTV V/v đăng ký chính thức, đăng ký bổ sung và đăng ký đặc cách một số loại thuốc bảo vệ thực vật được phép sử dụng và hạn chế sử dụng ở Việt Nam"
+ENTITY,E31_8,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,25420,25537,Quyết định số 46/2001/QĐ/BNN-BVTV V/v đăng ký đặc cách một số loại thuốc bảo vệ thực vật được phép sử dụng ở Việt Nam
+ENTITY,E31_9,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,25587,25911,"Quyết định số 49/2000/QĐ-BNN-BVTV Về việc sửa đổi một số tên thuốc bảo vệ thực vật, tên đơn vị đăng ký sản phẩm trong danh mục thuốc bảo vệ thực vật được phép sử dụng, hạn chế sử dụng ở Việt Nam ban hành kèm theo Quyết định số 33/2000/QĐ/BNN-BVTV ngày 03 tháng 4 năm 2000 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn"
+ENTITY,E31_10,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,25961,26105,"Chỉ thị số 07/NN-BVTV-CT Về việc cấm nhập trái phép, lưu hành và sử dụng côn trùng lạ Tenebrio molitor (L.) làm thức ăn cho chim cảnh ở Việt Nam"
+ENTITY,E31_11,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,26155,26290,Quyết định số 34/2001/QĐ-BNN-VP V/v ban hành Quy định về điều kiện kinh doanh trong một số lĩnh vực thuộc ngành trồng trọt và chăn nuôi
+ENTITY,E31_12,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,26340,26472,"Quyết định số 17/2001/QĐ-BNN-BVTV Ban hành Danh mục thuốc bảo vệ thực vật được phép sử dụng, hạn chế sử dụng, cấm sử dụng ở Việt Nam"
+ENTITY,E31_13,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,26522,26770,"Quyết định số 165/1999/QĐ/BNN-BVTV Về việc: ban hành Quy định về thủ tục thẩm định sản xuất, gia công, đăng ký, xuất khẩu, nhập khẩu; về buôn bán, lưu chứa, tiêu huỷ, nhãn thuốc, bao bì đóng gói, hội thảo, quảng cáo và sử dụng thuốc bảo vệ thực vật"
+ENTITY,E35_1,CHUONG,Chương,structure,428,436,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,3195,3204,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,6491,6501,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,11965,11974,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,14211,14219,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,17243,17252,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,19167,19177,CHƯƠNG VII
+ENTITY,E38_1,DIEU,Điều,structure,458,464,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,654,660,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1751,1757,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,2066,2072,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,2278,2284,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,2811,2817,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,3093,3099,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,3253,3259,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,3621,3627,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,3818,3825,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,4589,4596,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,6093,6100,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,6521,6528,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,7221,7228,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,7667,7674,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,7975,7982,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,8548,8555,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,9089,9096,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,9841,9848,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,10761,10768,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,11250,11257,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,11493,11500,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,11659,11666,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,11789,11796,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,11997,12004,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,12352,12359,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,12595,12602,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,12843,12850,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,13682,13689,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,13910,13917,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,14278,14285,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,15699,15706,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,16332,16339,Điều 33
+ENTITY,E38_34,DIEU,Điều,structure,16689,16696,Điều 34
+ENTITY,E38_35,DIEU,Điều,structure,17282,17289,Điều 35
+ENTITY,E38_36,DIEU,Điều,structure,17521,17528,Điều 36
+ENTITY,E38_37,DIEU,Điều,structure,18308,18315,Điều 37
+ENTITY,E38_38,DIEU,Điều,structure,18912,18919,Điều 38
+ENTITY,E38_39,DIEU,Điều,structure,19199,19206,Điều 39
+ENTITY,E39_1,KHOAN,Khoản,structure,722,797,1- Tài nguyên thực vật bao gồm thực vật có ích và sản phẩm thực vật có ích.
+ENTITY,E39_2,KHOAN,Khoản,structure,798,918,"2- Sinh vật gây hại bao gồm sâu bệnh, cỏ, cây, chuột, chim và các nguyên nhân sinh học khác làm hại tài nguyên thực vật."
+ENTITY,E39_3,KHOAN,Khoản,structure,919,1033,"3- Đối tượng kiểm dịch thực vật là loại sinh vật gây hại tài nguyên thực vật phải được trừ diệt, không để lây lan."
+ENTITY,E39_4,KHOAN,Khoản,structure,1034,1221,"4- Vật thể thuộc diện kiểm dịch thực vật là thực vật, sản phẩm thực vật, phương tiện sản xuất, bảo quản, vận chuyển hoặc những hiện vật khác có khả năng mang đối tượng kiểm dịch thực vật."
+ENTITY,E39_5,KHOAN,Khoản,structure,1222,1346,"5- Chủ tài nguyên thực vật là tổ chức, cá nhân có quyền sở hữu, quyền sử dụng hoặc trực tiếp quản lý tài nguyên thực vật đó."
+ENTITY,E39_6,KHOAN,Khoản,structure,1347,1507,"6- Chủ vật thể thuộc diện kiểm dịch thực vật là tổ chức, cá nhân có quyền sở hữu, quyền sử dụng hoặc trực tiếp quản lý vật thể thuộc diện kiểm dịch thực vật đó."
+ENTITY,E39_7,KHOAN,Khoản,structure,1508,1659,"7- Thuốc bảo vệ thực vật là chế phẩm có nguồn gốc từ hoá chất, thực vật, động vật, vi sinh vật dùng để phòng, trừ sinh vật gây hại tài nguyên thực vật."
+ENTITY,E39_8,KHOAN,Khoản,structure,1660,1750,"8- Giống cây bao gồm hạt, củ, cây, bộ phận của cây hoặc các sinh chất khác dùng làm giống."
+ENTITY,E39_9,KHOAN,Khoản,structure,3327,3439,"1- Điều tra, phát hiện, dự tính, dự báo, và thông báo thời gian phát sinh, mức độ gây hại của sinh vật gây hại ;"
+ENTITY,E39_10,KHOAN,Khoản,structure,3440,3516,"2- Quyết định và hướng dẫn biện pháp phòng ngừa, trừ diệt sinh vật gây hại ;"
+ENTITY,E39_11,KHOAN,Khoản,structure,3517,3620,"3- Hướng dẫn việc áp dụng tiến bộ khoa học và công nghệ vào việc phòng ngừa, trừ diệt sinh vật gây hại."
+ENTITY,E39_12,KHOAN,Khoản,structure,3881,4005,"1- Yêu cầu cơ quan bảo vệ và kiểm dịch thực vật thông báo về tình hình sinh vật gây hại trong vùng và biện pháp phòng, trừ ;"
+ENTITY,E39_13,KHOAN,Khoản,structure,4006,4231,"2- Lựa chọn và áp dụng các biện pháp phòng, trừ phù hợp với lợi ích và khả năng của mình, trừ trường hợp cơ quan bảo vệ và kiểm dịch thực vật có thẩm quyền quyết định biện pháp khác để bảo vệ tài nguyên thực vật của cả vùng ;"
+ENTITY,E39_14,KHOAN,Khoản,structure,4232,4420,"3- Xây dựng và thực hiện kế hoạch phòng, trừ sinh vật gây hại ; phát hiện và thông báo với cơ quan bảo vệ và kiểm dịch thực vật về tình hình sinh vật gây hại tài nguyên thực vật của mình ;"
+ENTITY,E39_15,KHOAN,Khoản,structure,4421,4588,"4- áp dụng kịp thời các biện pháp phòng, trừ để ngăn ngừa sinh vật gây hại tài nguyên thực vật của mình và không để lây lan phá hại tài nguyên thực vật của người khác."
+ENTITY,E39_16,KHOAN,Khoản,structure,4827,5274,"1- Khi sinh vật gây hại phát triển với tốc độ nhanh, mật độ cao, trên phạm vi rộng, có nguy cơ gây thiệt hại nghiêm trọng tài nguyên thực vật, thì cơ quan bảo vệ và kiểm dịch thực vật cấp tỉnh báo cáo để Chủ tịch Uỷ ban nhân dân cấp tỉnh quyết định công bố dịch trong phạm vị địa phương mình và báo cáo Chính phủ. Trường hợp vùng dịch thuộc phạm vi từ hai tỉnh trở lên thì Bộ trưởng Bộ nông nghiệp và công nghiệp thực phẩm quyết định công bố dịch."
+ENTITY,E39_17,KHOAN,Khoản,structure,5726,5891,"2- Chủ tài nguyên thực vật, tổ chức, cá nhân có liên quan ở nơi có dịch phải thực hiện các biện pháp để dập tắt dịch, khắc phục hậu quả và phòng tránh dịch tái diễn."
+ENTITY,E39_18,KHOAN,Khoản,structure,5892,5991,"3- Khi hết dịch, cơ quan nào quyết định công bố dịch thì cơ quan đó bãi bỏ quyết định công bố dịch."
+ENTITY,E39_19,KHOAN,Khoản,structure,14363,14522,"1- Xây dựng và chỉ đạo thực hiện quy hoạch, kế hoạch về bảo vệ thực vật, kiểm dịch thực vật, thuốc bảo vệ thực vật trong phạm vi cả nước và ở từng địa phương ;"
+ENTITY,E39_20,KHOAN,Khoản,structure,14523,14647,"2- Quy định và tổ chức thực hiện các chế độ, thể lệ về công tác bảo vệ thực vật, kiểm dịch thực vật, thuốc bảo vệ thực vật ;"
+ENTITY,E39_21,KHOAN,Khoản,structure,14648,14786,"3- Theo dõi, phát hiện, xác minh sinh vật gây hại tài nguyên thực vật ; chỉ đạo việc ngăn chặn, dập tắt dịch gây hại tài nguyên thực vật ;"
+ENTITY,E39_22,KHOAN,Khoản,structure,14787,14810,4- Kiểm dịch thực vật ;
+ENTITY,E39_23,KHOAN,Khoản,structure,14811,14860,"5- Kiểm định, kiểm nghiệm thuốc bảo vệ thực vật ;"
+ENTITY,E39_24,KHOAN,Khoản,structure,14861,15048,"6- Cấp, thu hồi giấy chứng nhận hành nghề về bảo vệ thực vật, thuốc bảo vệ thực vật và khử trùng vật thể thuộc diện kiểm dịch thực vật ; giấy phép, giấy chứng nhận về kiểm dịch thực vật ;"
+ENTITY,E39_25,KHOAN,Khoản,structure,15049,15204,"7- Kiểm tra, thanh tra việc chấp hành chế độ, thể lệ về bảo vệ thực vật, kiểm dịch thực vật, thuốc bảo vệ thực vật và xử lý các vi phạm chế độ, thể lệ đó ;"
+ENTITY,E39_26,KHOAN,Khoản,structure,15205,15324,"8- Giải quyết tranh chấp, khiếu nại, tố cáo trong lĩnh vực bảo vệ thực vật, kiểm dịch thực vật, thuốc bảo vệ thực vật ;"
+ENTITY,E39_27,KHOAN,Khoản,structure,15325,15603,"9- Tuyên truyền, phổ biến kiến thức, vận động nhân dân hiểu và làm công tác bảo vệ thực vật, kiểm dịch thực vật, thuốc bảo vệ thực vật ; tổ chức nghiên cứu khoa học, đào tạo, bồi dưỡng nghiệp vụ cho người làm công tác bảo vệ thực vật, kiểm dịch thực vật, thuốc bảo vệ thực vật ;"
+ENTITY,E39_28,KHOAN,Khoản,structure,15604,15698,"10- Hợp tác quốc tế trong lĩnh vực bảo vệ thực vật, kiểm dịch thực vật, thuốc bảo vệ thực vật."
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,26791,26852,Pháp lệnh số 36/2001/PL-UBTVQH10 Bảo vệ và kiểm dịch thực vật
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RDAN_CHIEU_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,RDAN_CHIEU_2,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,RDAN_CHIEU_3,DAN_CHIEU,Dẫn chiếu,E29_3,E2_1,,
+RELATION,RDAN_CHIEU_4,DAN_CHIEU,Dẫn chiếu,E29_4,E2_1,,
+RELATION,RDAN_CHIEU_5,DAN_CHIEU,Dẫn chiếu,E29_5,E2_1,,
+RELATION,RDAN_CHIEU_6,DAN_CHIEU,Dẫn chiếu,E29_6,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_1,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_2,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_3,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_4,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_5,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_6,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_7,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_7,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_8,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_8,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_9,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_9,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_10,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_10,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_11,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_11,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_12,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_12,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_13,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_13,E2_1,,
+RELATION,RTHAY_THE_1,THAY_THE,Thay thế,E43_1,E2_1,,
+RELATION,RTHUOC_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,RTHUOC_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,RTHUOC_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,RTHUOC_4,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,RTHUOC_5,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,RTHUOC_6,THUOC,Thuộc,E39_4,E38_2,,
+RELATION,RTHUOC_7,THUOC,Thuộc,E39_5,E38_2,,
+RELATION,RTHUOC_8,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,RTHUOC_9,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,RTHUOC_10,THUOC,Thuộc,E39_8,E38_2,,
+RELATION,RTHUOC_11,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,RTHUOC_12,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,RTHUOC_13,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,RTHUOC_14,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,RTHUOC_15,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,RTHUOC_16,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,RTHUOC_17,THUOC,Thuộc,E39_9,E38_8,,
+RELATION,RTHUOC_18,THUOC,Thuộc,E39_10,E38_8,,
+RELATION,RTHUOC_19,THUOC,Thuộc,E39_11,E38_8,,
+RELATION,RTHUOC_20,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,RTHUOC_21,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,RTHUOC_22,THUOC,Thuộc,E39_12,E38_10,,
+RELATION,RTHUOC_23,THUOC,Thuộc,E39_13,E38_10,,
+RELATION,RTHUOC_24,THUOC,Thuộc,E39_14,E38_10,,
+RELATION,RTHUOC_25,THUOC,Thuộc,E39_15,E38_10,,
+RELATION,RTHUOC_26,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,RTHUOC_27,THUOC,Thuộc,E39_16,E38_11,,
+RELATION,RTHUOC_28,THUOC,Thuộc,E39_17,E38_11,,
+RELATION,RTHUOC_29,THUOC,Thuộc,E39_18,E38_11,,
+RELATION,RTHUOC_30,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,RTHUOC_31,THUOC,Thuộc,E38_13,E35_3,,
+RELATION,RTHUOC_32,THUOC,Thuộc,E38_14,E35_3,,
+RELATION,RTHUOC_33,THUOC,Thuộc,E38_15,E35_3,,
+RELATION,RTHUOC_34,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,RTHUOC_35,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,RTHUOC_36,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,RTHUOC_37,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,RTHUOC_38,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,RTHUOC_39,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,RTHUOC_40,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,RTHUOC_41,THUOC,Thuộc,E38_23,E35_3,,
+RELATION,RTHUOC_42,THUOC,Thuộc,E38_24,E35_3,,
+RELATION,RTHUOC_43,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,RTHUOC_44,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,RTHUOC_45,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,RTHUOC_46,THUOC,Thuộc,E38_28,E35_4,,
+RELATION,RTHUOC_47,THUOC,Thuộc,E38_29,E35_4,,
+RELATION,RTHUOC_48,THUOC,Thuộc,E38_30,E35_4,,
+RELATION,RTHUOC_49,THUOC,Thuộc,E38_31,E35_5,,
+RELATION,RTHUOC_50,THUOC,Thuộc,E39_19,E38_31,,
+RELATION,RTHUOC_51,THUOC,Thuộc,E39_20,E38_31,,
+RELATION,RTHUOC_52,THUOC,Thuộc,E39_21,E38_31,,
+RELATION,RTHUOC_53,THUOC,Thuộc,E39_22,E38_31,,
+RELATION,RTHUOC_54,THUOC,Thuộc,E39_23,E38_31,,
+RELATION,RTHUOC_55,THUOC,Thuộc,E39_24,E38_31,,
+RELATION,RTHUOC_56,THUOC,Thuộc,E39_25,E38_31,,
+RELATION,RTHUOC_57,THUOC,Thuộc,E39_26,E38_31,,
+RELATION,RTHUOC_58,THUOC,Thuộc,E39_27,E38_31,,
+RELATION,RTHUOC_59,THUOC,Thuộc,E39_28,E38_31,,
+RELATION,RTHUOC_60,THUOC,Thuộc,E38_32,E35_5,,
+RELATION,RTHUOC_61,THUOC,Thuộc,E38_33,E35_5,,
+RELATION,RTHUOC_62,THUOC,Thuộc,E38_34,E35_5,,
+RELATION,RTHUOC_63,THUOC,Thuộc,E38_35,E35_6,,
+RELATION,RTHUOC_64,THUOC,Thuộc,E38_36,E35_6,,
+RELATION,RTHUOC_65,THUOC,Thuộc,E38_37,E35_6,,
+RELATION,RTHUOC_66,THUOC,Thuộc,E38_38,E35_6,,
+RELATION,RTHUOC_67,THUOC,Thuộc,E38_39,E35_7,,
+RELATION,RAP_DUNG_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,RAP_DUNG_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,RAP_DUNG_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,RAP_DUNG_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,RAP_DUNG_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,RAP_DUNG_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,RAP_DUNG_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,RAP_DUNG_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,RAP_DUNG_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,RAP_DUNG_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,RAP_DUNG_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,RAP_DUNG_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,RAP_DUNG_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,RAP_DUNG_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,RAP_DUNG_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,RAP_DUNG_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,RAP_DUNG_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,RAP_DUNG_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,RAP_DUNG_19,AP_DUNG,Áp dụng,E30_19,E2_1,,
+RELATION,RAP_DUNG_20,AP_DUNG,Áp dụng,E30_20,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,

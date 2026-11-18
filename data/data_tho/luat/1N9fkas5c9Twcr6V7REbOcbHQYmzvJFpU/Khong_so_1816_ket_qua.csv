@@ -1,0 +1,287 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,37,Luật Doanh nghiệp tư nhân số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,29,37,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,13839,13864,ngày 21 tháng 12 năm 1990
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,13930,13944,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,13965,13975,1991-04-15
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,13997,14007,2000-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,14031,14051,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,14072,14080,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,14094,14111,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,14124,14136,Lê Quang Đạo
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,14286,14304,Hiến pháp năm 1980
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,14201,14231,Luật Công đoàn số 40-LCT/HĐNN8
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,14156,14174,Hiến pháp năm 1980
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,14471,14587,Quyết định số 102/QĐ-UB Ban hành quy định về việc đặt chi nhánh văn phòng đại diện của doanh nghiệp tại tỉnh Lào Cai
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,14637,14727,Chỉ thị số 03/CT-UB Về việc triển khai thực hiện Luật Doanh nghiệp tư nhân và Luật Công ty
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,14355,14421,Luật Sửa đổi một số điều của Luật Doanh nghiệp tư nhân số Không số
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,19921,19954,Luật Doanh nghiệp số 13/1999/QH10
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14749,14786,Pháp lệnh số Không số Hợp đồng dân sự
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14808,15084,Thông tư số 141-PLDS/KT Hướng dẫn thi hành Điều 3 Nghị định số 221/HĐBT ngày 23/7/1991 của Hội đồng Bộ trưởng cụ thể hoá một số Điều trong Luật doanh nghiệp tư nhân và Điều 4 Nghị định số 222/HĐBT ngày 23/7/1991 của Hội đồng Bộ trưởng cụ thể hoá một số điều trong Luật Công ty
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,15106,15240,"Quyết định số 126/QĐ-UB Ban hành “Quy định quản lý, vận chuyển, bảo quản và sử dụng vật liệu nổ công nghiệp trên địa bàn tỉnh Lào Cai”"
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,15262,15358,"Chỉ thị số 01/CT-UB Về việc ký kết và thực hiện hợp đồng kinh tế 
+trong lĩnh vực xây dựng cơ bản"
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,15380,15466,"Nghị định số 06-CP Về cụ thể hoá một số điều trong pháp lệnh hành nghề y, dược tư nhân"
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,15488,15644,"Thông tư số 11/TT-CNCL Hướng dẫn thực hiện Nghị định số 27/CP ngày 20/4/1995 của Chính phủ về quản lý, sản xuất, cung ứng và sử dụng vật liệu nổ công nghiệp"
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,15666,15741,Chỉ thị số 620/CT-TTg Về việc tăng cường quản lý hoạt động tư vấn pháp luật
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,15763,16016,"Thông tư số 96/TC-TCT Hướng dẫn thu thuế đối với các trường hợp chuyển nhượng vốn của các chủ đầu tư trong các doanh nghiệp được thành lập theo Luật công ty, Luật  doanh nghiệp tư nhân, Luật đầu tư nước ngoài tại Việt Nam, Luật khuyến khích đầu tư trong"
+ENTITY,E29_9,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,16038,16117,Nghị định số 03/2000/NĐ-CP Hướng dẫn thi hành một số điều của Luật Doanh nghiệp
+ENTITY,E29_10,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,16139,16187,Nghị định số 02/2000/NĐ-CP Về đăng ký kinh doanh
+ENTITY,E29_11,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,16209,16341,"Thông tư liên tịch số 05/1998/TTLT-BKHĐT-BTP Hướng dẫn thủ tục thành lập và đăng ký kinh doanh đối với doanh nghiệp tư nhân, công ty"
+ENTITY,E29_12,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,16363,16496,"Nghị định số 87/CP Về tăng cường quản lý các hoạt động văn hoá và dịch vụ văn hoá, đẩy mạnh bài trừ một số tệ nạn xã hội nghiêm trọng"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,16516,16606,Chỉ thị số 03/CT-UB Về việc triển khai thực hiện Luật Doanh nghiệp tư nhân và Luật Công ty
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,16626,16829,Quyết định 46/QĐ-UB-KT năm 1995 quy định về thủ tục cấp giấp phép thành lập và giấy chứng nhận đăng ký kinh doanh đối với doanh nghiệp tư nhân và công ty do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,16849,17016,"Quyết định số 469 QĐ/UB Về việc giao nhiệm vụ thụ lý hồ sơ thành lập doanh nghiệp, đặt và cho phép đặt chi nhánh hoặc văn phòng đại diện của các loại hình doanh nghiệp"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,17036,17174,"Nghị định số 26/1998/NĐ-CP Về việc điều chỉnh mức vốn pháp định đối với doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn, công ty cổ phần"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,17194,17291,Nghị định số 221/HĐBT Ban hành Quy định về cụ thể hoá một số điều trong Luật Doanh nghiệp tư nhân
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,17311,17438,"Quyết định số 333-CTHĐBT Về tổ chức, quản lý các hoạt động điều tra địa chất, thăm dò, khai thác mỏ, chế tác và buôn bán đá quý"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,17458,17588,"Quyết định số 136/QĐ-UBND Ban hành quy định tạm thời về tổ chức
+ và hoạt động kinh doanh dịch vụ cầm đồ trên địa bàn tỉnh Bến Tre."
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,17608,17679,Chỉ thị số 25/CT-UB về việc lưu thông pháo trên thị trường tỉnh Bến Tre
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,17699,17774,Quyết định số 108/1998/QĐ-UB V/v: Thành lập Hội đồng đầu tư Tỉnh Bình Phước
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,17794,17953,"Quyết định số 592-QĐ/UB Cấp chứng chỉ hành nghề kinh doanh các loại vật tư và dịch vụ kỹ thuật chuyên ngành nông, lâm nghiệp trên địa bàn thành phố Hải Phòng"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,17973,18110,"Quyết định số 343/QĐ-UB V/v Ban hành quy định về thủ tục cấp giấy phép thành lập Doanh nghiệp tư nhân, Công ty trên địa bàn tỉnh Hưng Yên"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,18130,18343,"Quyết định số 1679/QĐ- UB-KT Về việc ban hành bản quy định về phân công, phân cấp quản lý Nhà nước đối với các doanh nghiệp thành lập theo Luật doanh nghiệp tư nhân, Luật Công ty trên địa bàn thành phố Hồ Chí Minh"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,18363,18483,Quyết định số 623/QĐ-UB Ban hành quy định về việc quản lý lưu hành và sử dụng xe cơ giới nhỏ trên địa bàn tỉnh Vĩnh Phú.
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,18503,18590,"Nghị định số 40/1998/NĐ-CP Về kinh doanh vận tải biển của công ty, doanh nghiệp tư nhân"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,18610,18775,"Nghị định số 361-HĐBT Về việc bổ sung, sửa đổi một số điểm trong các quy định ban hành kèm theo Nghị định 221-HĐBT và 222-HĐBT ngày 23-07-1991 của Hội đồng Bộ trưởng"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,18795,18890,"Quyết định số 3652/QĐ.UB Về việc ban hành quy định đăng ký, cấp giấy phép hành nghề công nghiệp"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,18910,19123,"Quyết định số 1679/QĐ- UB-KT Về việc ban hành bản quy định về phân công, phân cấp quản lý Nhà nước đối với các doanh nghiệp thành lập theo Luật doanh nghiệp tư nhân, Luật Công ty trên địa bàn thành phố Hồ Chí Minh"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,19143,19390,"Quyết định 1679/QĐ-UB-KT năm 1996 quy định về phân công, phân cấp quản lý nhà nước đối với các doanh nghiệp thành lập theo luật doanh nghiệp tư nhân, luật công ty trên địa bàn thành phố Hồ Chí Minh do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,19410,19465,Nghị định số 192-CP Về ban hành Quy chế Khu công nghiệp
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,19485,19649,Quyết định số 46/QĐ-UB-KT Về việc ban hành quy định về thủ tục cấp giấp phép thành lập và giấy chứng nhận đăng ký kinh doanh đối với doanh nghiệp tư nhân và công ty
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,19669,19777,Quyết định số 200/QĐ-UB về việc ban hành quy định tổ chức thi hành Luật Doanh nghiệp tư nhân và Luật Công ty
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,19797,19871,Quyết định số 2607/VHTT-QĐ-XBI ban hành Quy chế về tổ chức và hoạt động in
+ENTITY,E35_1,CHUONG,Chương,structure,416,424,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,2306,2315,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,8445,8455,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,12455,12464,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,13344,13352,CHƯƠNG V
+ENTITY,E38_1,DIEU,Điều,structure,446,549,"Điều 1
+Công dân Việt Nam đủ 18 tuổi có quyền thành lập doanh nghiệp tư nhân theo quy định của Luật này."
+ENTITY,E38_2,DIEU,Điều,structure,550,957,"Điều 2
+Doanh nghiệp tư nhân là đơn vị kinh doanh có mức vốn không thấp hơn vốn pháp định, do một cá nhân làm chủ và tự chịu trách nhiệm bằng toàn bộ tài sản của mình về mọi hoạt động của doanh nghiệp.
+""Kinh doanh"" nói trong Luật này là việc thực hiện một, một số hoặc tất cả các công đoạn của quá trình đầu tư, từ sản xuất đến tiêu thụ sản phẩm hoặc thực hiện dịch vụ trên thị trường nhằm mục đích sinh lợi."
+ENTITY,E38_3,DIEU,Điều,structure,958,1301,"Điều 3
+Nhà nước công nhận sự tồn tại lâu dài và phát triển của doanh nghiệp tư nhân, thừa nhận sự bình đẳng trước pháp luật của doanh nghiệp tư nhân với các doanh nghiệp khác và tính sinh lợi hợp pháp của việc kinh doanh.
+Trong khuôn khổ pháp luật, chủ doanh nghiệp tư nhân có quyền tự do kinh doanh và chủ động trong mọi hoạt động kinh doanh."
+ENTITY,E38_4,DIEU,Điều,structure,1302,1451,"Điều 4
+Quyền sở hữu về tư liệu sản xuất, quyền thừa kế về vốn, tài sản, các quyền và lợi ích hợp pháp khác của chủ doanh nghiệp được Nhà nước bảo hộ."
+ENTITY,E38_5,DIEU,Điều,structure,1452,1626,"Điều 5
+Ngoài một số ngành, nghề mà pháp luật cấm kinh doanh, việc thành lập doanh nghiệp tư nhân trong các ngành nghề dưới đây phải được Chủ tịch Hội đồng bộ trưởng cho phép:"
+ENTITY,E38_6,DIEU,Điều,structure,2000,2155,"Điều 6
+Người mất trí, người đang bị truy cứu trách nhiệm hình sự hoặc bị kết án tù mà chưa được xoá án, thì không được phép thành lập doanh nghiệp tư nhân."
+ENTITY,E38_7,DIEU,Điều,structure,2156,2306,"Điều 7
+Nghiêm cấm viên chức tại chức trong bộ máy Nhà nước, các sĩ quan tại ngũ trong các lực lượng vũ trang nhân dân thành lập doanh nghiệp tư nhân.
+"
+ENTITY,E38_8,DIEU,Điều,structure,2378,2604,"Điều 8
+Cá nhân muốn thành lập doanh nghiệp tư nhân, phải gửi đơn xin phép thành lập doanh nghiệp đến Uỷ ban nhân dân có thẩm quyền cấp giấy phép theo quy định của Hội đồng bộ trưởng.
+Đơn xin thành lập doanh nghiệp phải ghi rõ:"
+ENTITY,E38_9,DIEU,Điều,structure,2933,3055,"Điều 9
+Cá nhân có quyền thành lập doanh nghiệp tư nhân, phải có đủ các điều kiện sau đây mới được cấp giấy phép thành lập:"
+ENTITY,E38_10,DIEU,Điều,structure,3471,3841,"Điều 10
+Uỷ ban nhân dân nhận đơn phải cấp hoặc từ chối cấp giấy phép thành lập doanh nghiệp trong thời hạn ba mươi ngày, kể từ ngày nhận đơn; nếu từ chối cấp giấy phép thì phải nói rõ lý do. Trong trường hợp người xin phép thành lập doanh nghiệp tư nhân thấy việc từ chối cấp giấy phép là không thoả đáng, thì có quyền khiếu nại lên Trọng tài kinh tế cấp trên trực tiếp."
+ENTITY,E38_11,DIEU,Điều,structure,3842,4780,"Điều 11
+Trong thời hạn sáu mươi ngày, kể từ ngày được giấy phép thành lập, chủ doanh nghiệp tư nhân phải đăng ký kinh doanh tại Trọng tài kinh tế cùng cấp Uỷ ban nhân dân đã cấp giấy phép thành lập.
+Hồ sơ đăng ký kinh doanh bao gồm: giấy phép thành lập, giấy chứng nhận của ngân hàng về số tiền Việt Nam, ngoại tệ, vàng của chủ doanh nghiệp có trong tài khoản ở ngân hàng; giấy chứng nhận của cơ quan công chứng về trị giá tài sản bằng hiện vật thuộc sở hữu của chủ doanh nghiệp tư nhân tương ứng với vốn đầu tư ban đầu đã ghi trong giấy phép thành lập và giấy tờ chứng thực về trụ sở giao dịch của doanh nghiệp.
+Quá thời hạn sáu mươi ngày quy định tại đoạn 1, Điều này mà chưa đăng ký, nếu muốn tiếp tục thành lập doanh nghiệp tư nhân, thì chủ doanh nghiệp phải làm lại thủ tục xin phép thành lập. Trong trường hợp có lý do chính đáng, Uỷ ban nhân dân đã cấp giấy phép thành lập có thể gia hạn giấy phép thành lập không quá ba mươi ngày."
+ENTITY,E38_12,DIEU,Điều,structure,4781,5271,"Điều 12
+Khi đăng ký kinh doanh, doanh nghiệp tư nhân được ghi tên vào sổ đăng ký kinh doanh và được cấp giấy chứng nhận đăng ký kinh doanh. Kể từ thời điểm đó, doanh nghiệp tư nhân được tiến hành hoạt động kinh doanh.
+Trong thời hạn bảy ngày, kể từ ngày cấp giấy chứng nhận đăng ký kinh doanh, Trọng tài kinh tế phải gửi bản sao giấy chứng nhận đăng ký kinh doanh kèm theo hồ sơ của doanh nghiệp cho các cơ quan thuế, tài chính, thống kê và cơ quan quản lý ngành kinh tế, kỹ thuật cùng cấp."
+ENTITY,E38_13,DIEU,Điều,structure,5272,5583,"Điều 13
+Trong thời hạn ba mươi ngày, kể từ ngày được cấp giấy chứng nhận đăng ký kinh doanh, chủ doanh nghiệp tư nhân được Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương cấp giấy phép phải đăng báo địa phương và báo hàng ngày của trung ương về các điểm chủ yếu sau đây:"
+ENTITY,E38_14,DIEU,Điều,structure,5864,6076,"Điều 14
+Trong trường hợp cần đặt chi nhánh hoặc văn phòng đại diện ngoài tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương, nơi doanh nghiệp đặt trụ sở chính, chủ doanh nghiệp tư nhân phải:"
+ENTITY,E38_15,DIEU,Điều,structure,6539,6958,"Điều 15
+Khi thay đổi mục tiêu, ngành, nghề kinh doanh, vốn đầu tư ban đầu và các nội dung khác trong hồ sơ đăng ký kinh doanh, chủ doanh nghiệp tư nhân phải khai báo lại với Trọng tài kinh tế đã đăng ký kinh doanh. Đối với doanh nghiệp tư nhân được Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương cấp giấy phép, thì chủ doanh nghiệp còn phải đăng báo về những nội dung thay đổi."
+ENTITY,E38_16,DIEU,Điều,structure,6959,7783,"Điều 16
+Chủ doanh nghiệp tư nhân chỉ được giải thể doanh nghiệp của mình, nếu bảo đảm thanh toán hết các khoản nợ của doanh nghiệp và thanh lý hết hợp đồng mà doanh nghiệp đã ký kết.
+Muốn giải thể doanh nghiệp, chủ doanh nghiệp phải gửi đơn đến Uỷ ban nhân dân đã cấp giấy phép thành lập và thông báo việc xin phép giải thể doanh nghiệp trên báo địa phương và báo hàng ngày của trung ương. Đơn và thông báo phải ghi rõ trình tự và thủ tục thanh lý tài sản, thời hạn thanh toán các khoản nợ và thanh lý các hợp đồng.
+Uỷ ban nhân dân chỉ chấp thuận đơn xin giải thể nếu sau mười lăm ngày, kể từ ngày kết thúc thời hạn thanh toán các khoản nợ, thanh lý các hợp đồng đã ghi trong đơn và thông báo việc xin phép giải thể mà không có đơn khiếu nại.
+Việc giải thể doanh nghiệp chỉ được bắt đầu khi đơn xin giải thể được chấp thuận."
+ENTITY,E38_17,DIEU,Điều,structure,7784,8445,"Điều 17
+Doanh nghiệp tư nhân gặp khó khăn hoặc bị thua lỗ trong hoạt động kinh doanh đến mức tại một thời điểm tổng số trị giá các tài sản còn lại của doanh nghiệp không đủ thanh toán tổng số các khoản nợ đến hạn, là doanh nghiệp đang lâm vào tình trạng phá sản.
+Doanh nghiệp nói tại đoạn 1, Điều này có thể bị Trọng tài kinh tế tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương, nơi doanh nghiệp đặt trụ sở chính tuyên bố phá sản theo đơn xin phá sản của chủ doanh nghiệp; hoặc đơn yêu cầu của một hoặc nhiều chủ nợ; hoặc kiến nghị của cơ quan có thẩm quyền.
+Trình tự và thủ tục phá sản thực hiện theo quy định của pháp luật về phá sản.
+"
+ENTITY,E38_18,DIEU,Điều,structure,8499,8801,"Điều 18
+Doanh nghiệp tư nhân được đặt tên theo ngành, nghề kinh doanh hoặc đặt tên riêng. Trên bảng hiệu, hoá đơn, quảng cáo, báo cáo, tài liệu, giấy tờ giao dịch khác của doanh nghiệp tư nhân phải ghi tên doanh nghiệp, kèm theo các chữ ""doanh nghiệp tư nhân"" và số vốn đầu tư ban đầu của doanh nghiệp."
+ENTITY,E38_19,DIEU,Điều,structure,8802,9135,"Điều 19
+Chủ doanh nghiệp tư nhân trực tiếp hoặc thuê người khác quản lý, điều hành hoạt động kinh doanh, nhưng tự mình vẫn phải chịu trách nhiệm về mọi hoạt động kinh doanh của doanh nghiệp.
+Chủ doanh nghiệp tư nhân là nguyên đơn, bị đơn trước Trọng tài kinh tế hoặc Toà án trong các tranh chấp và vụ kiện liên quan đến doanh nghiệp."
+ENTITY,E38_20,DIEU,Điều,structure,9136,9567,"Điều 20
+Vốn đầu tư ban đầu của doanh nghiệp tư nhân do chủ doanh nghiệp tự khai. Vốn là tiền Việt Nam, ngoại tệ hoặc vàng phải gửi ở ngân hàng, nơi chủ doanh nghiệp mở tài khoản và được ngân hàng chứng nhận. Vốn là tài sản bằng hiện vật thì phải có chứng nhận của cơ quan công chứng.
+Vốn đầu tư ban đầu và tài sản khác mà chủ doanh nghiệp tư nhân sử dụng vào việc kinh doanh phải được ghi chép vào sổ sách kế toán của doanh nghiệp."
+ENTITY,E38_21,DIEU,Điều,structure,9568,9781,"Điều 21
+Trong quá trình hoạt động, chủ doanh nghiệp tư nhân có quyền tăng hoặc giảm vốn đầu tư ban đầu nhưng không được thấp hơn vốn pháp định. Việc tăng hoặc giảm vốn đều phải ghi chép đầy đủ vào sổ sách kế toán."
+ENTITY,E38_22,DIEU,Điều,structure,9782,9853,"Điều 22
+Theo quy định của pháp luật, chủ doanh nghiệp tư nhân có quyền:"
+ENTITY,E38_23,DIEU,Điều,structure,10215,10556,"Điều 23
+Chủ doanh nghiệp tư nhân có quyền cho thuê toàn bộ doanh nghiệp của mình. Trước khi cho thuê, chủ doanh nghiệp phải báo cáo bằng văn bản với Trọng tài kinh tế đã cấp giấy chứng nhận đăng ký kinh doanh. Trong thời hạn cho thuê, chủ doanh nghiệp tư nhân vẫn phải chịu trách nhiệm trước pháp luật với tư cách là chủ sở hữu doanh nghiệp."
+ENTITY,E38_24,DIEU,Điều,structure,10557,10807,"Điều 24
+Chủ doanh nghiệp tư nhân có quyền bán hoặc sáp nhập doanh nghiệp của mình vào doanh nghiệp khác. Trước khi bán hoặc sáp nhập, chủ doanh nghiệp phải gửi đơn đến Uỷ ban nhân dân đã cấp giấy phép thành lập doanh nghiệp nêu rõ lý do, có kèm theo:"
+ENTITY,E38_25,DIEU,Điều,structure,11733,11778,"Điều 25
+Chủ doanh nghiệp tư nhân có nghĩa vụ:"
+ENTITY,E38_26,DIEU,Điều,structure,12479,12799,"Điều 26
+Người thành lập doanh nghiệp tư nhân mà không có giấy phép, kinh doanh mà không đăng ký; kinh doanh không đúng ngành, nghề ghi trong giấy phép hoặc vi phạm các quy định khác của Luật này, thì tuỳ theo mức độ nhẹ hoặc nặng mà bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+ENTITY,E38_27,DIEU,Điều,structure,12800,13344,"Điều 27
+Người lợi dụng chức vụ, quyền hạn cấp giấy phép thành lập doanh nghiệp tư nhân cho người bị cấm, cho người không được phép thành lập doanh nghiệp; không cấp giấy phép thành lập hoặc giấy đăng ký kinh doanh cho người đủ điều kiện thành lập doanh nghiệp hoặc đăng ký; chứng nhận sai về vốn gửi ở ngân hàng hoặc về trị giá tài sản bằng hiện vật cho chủ doanh nghiệp tư nhân hoặc vi phạm các quy định khác của Luật này, thì tuỳ theo mức độ nhẹ hoặc nặng mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.
+"
+ENTITY,E38_28,DIEU,Điều,structure,13374,13737,"Điều 28
+Luật này có hiệu lực kể từ ngày 15 tháng 4 năm 1991.
+Những quy định trước đây trái với Luật này đều bãi bỏ.
+Trong thời hạn một trăm tám mươi ngày, kể từ ngày 15 tháng 4 năm 1991, chủ doanh nghiệp tư nhân đã được cơ quan có thẩm quyền cấp giấy phép thành lập trước ngày đó phải làm lại các thủ tục thành lập và đăng ký kinh doanh theo quy định của Luật này"
+ENTITY,E39_1,KHOAN,Khoản,structure,1627,1686,"1- Sản xuất và lưu thông thuốc nổ, thuốc độc, hoá chất độc;"
+ENTITY,E39_2,KHOAN,Khoản,structure,1687,1724,2- Khai thác các loại khoáng sản quý;
+ENTITY,E39_3,KHOAN,Khoản,structure,1725,1774,"3- Sản xuất và cung ứng điện, nước có quy mô lớn;"
+ENTITY,E39_4,KHOAN,Khoản,structure,1775,1891,"4- Sản xuất các phương tiện phát sóng truyền tin; dịch vụ bưu chính viễn thông, truyền thanh, truyền hình, xuất bản;"
+ENTITY,E39_5,KHOAN,Khoản,structure,1892,1936,5- Vận tải viễn dương và vận tải hàng không;
+ENTITY,E39_6,KHOAN,Khoản,structure,1937,1979,"6- Chuyên kinh doanh xuất khẩu, nhập khẩu;"
+ENTITY,E39_7,KHOAN,Khoản,structure,1980,1999,7- Du lịch quốc tế.
+ENTITY,E39_8,KHOAN,Khoản,structure,2605,2665,"1- Họ, tên, tuổi và địa chỉ thường trú của chủ doanh nghiệp;"
+ENTITY,E39_9,KHOAN,Khoản,structure,2666,2701,2- Trụ sở dự định của doanh nghiệp;
+ENTITY,E39_10,KHOAN,Khoản,structure,2702,2745,"3- Mục tiêu, ngành, nghề kinh doanh cụ thể;"
+ENTITY,E39_11,KHOAN,Khoản,structure,2746,2852,"4- Vốn đầu tư ban đầu, trong đó ghi rõ phần vốn bằng tiền Việt Nam, ngoại tệ, vàng, tài sản bằng hiện vật;"
+ENTITY,E39_12,KHOAN,Khoản,structure,2853,2932,"5- Biện pháp bảo vệ môi trường.
+Đơn phải kèm theo phương án kinh doanh ban đầu."
+ENTITY,E39_13,KHOAN,Khoản,structure,3056,3152,"1- Mục tiêu, ngành, nghề kinh doanh rõ ràng; có trụ sở giao dịch và phương án kinh doanh cụ thể;"
+ENTITY,E39_14,KHOAN,Khoản,structure,3153,3311,"2- Có đủ vốn đầu tư ban đầu phù hợp với quy mô và ngành, nghề kinh doanh. Vốn đầu tư ban đầu không được thấp hơn vốn pháp định do Hội đồng bộ trưởng quy định;"
+ENTITY,E39_15,KHOAN,Khoản,structure,3312,3470,"3- Bản thân hoặc người được thuê làm quản lý, điều hành hoạt động kinh doanh có trình độ chuyên môn tương ứng mà pháp luật đòi hỏi đối với một số ngành, nghề."
+ENTITY,E39_16,KHOAN,Khoản,structure,5584,5632,"1- Họ, tên chủ doanh nghiệp và tên doanh nghiệp;"
+ENTITY,E39_17,KHOAN,Khoản,structure,5633,5660,2- Trụ sở của doanh nghiệp;
+ENTITY,E39_18,KHOAN,Khoản,structure,5661,5697,"3- Mục tiêu, ngành, nghề kinh doanh;"
+ENTITY,E39_19,KHOAN,Khoản,structure,5698,5720,4- Vốn đầu tư ban đầu;
+ENTITY,E39_20,KHOAN,Khoản,structure,5721,5831,"5- Ngày được cấp giấy phép thành lập, ngày được cấp giấy chứng nhận đăng ký kinh doanh, số đăng ký kinh doanh;"
+ENTITY,E39_21,KHOAN,Khoản,structure,5832,5863,6- Thời điểm bắt đầu hoạt động.
+ENTITY,E39_22,KHOAN,Khoản,structure,6077,6322,"1- Xin phép Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương, nơi đặt chi nhánh hoặc văn phòng đại diện và đăng ký kinh doanh tại Trọng tài kinh tế cùng cấp như quy định tại Điều 8 và Điều 11 của Luật này;"
+ENTITY,E39_23,KHOAN,Khoản,structure,6323,6538,"2- Thông báo bằng văn bản cho Uỷ ban nhân dân đã cấp giấy phép thành lập về việc mở chi nhánh hoặc văn phòng đại diện trong thời hạn mười lăm ngày, kể từ ngày chi nhánh hoặc văn phòng đại diện được cấp giấy đăng ký."
+ENTITY,E39_24,KHOAN,Khoản,structure,9854,9897,"1- Lựa chọn ngành, nghề, quy mô kinh doanh;"
+ENTITY,E39_25,KHOAN,Khoản,structure,9898,9941,2- Lựa chọn hình thức và cách thức vay vốn;
+ENTITY,E39_26,KHOAN,Khoản,structure,9942,10018,"3- Lựa chọn khách hàng, trực tiếp giao dịch, ký kết hợp đồng với khách hàng;"
+ENTITY,E39_27,KHOAN,Khoản,structure,10019,10079,4- Tuyển dụng và thuê mướn lao động theo yêu cầu kinh doanh;
+ENTITY,E39_28,KHOAN,Khoản,structure,10080,10109,5- Sử dụng ngoại tệ thu được;
+ENTITY,E39_29,KHOAN,Khoản,structure,10110,10159,6- Quyết định việc sử dụng phần thu nhập còn lại;
+ENTITY,E39_30,KHOAN,Khoản,structure,10160,10214,7- Chủ động trong các hoạt động kinh doanh đã đăng ký.
+ENTITY,E39_31,KHOAN,Khoản,structure,10808,10994,"1- Giấy xác nhận của các chủ nợ về việc chủ doanh nghiệp thanh toán hết các khoản nợ, giấy cam kết của doanh nghiệp khác hoặc ngân hàng chịu trách nhiệm về các khoản nợ của doanh nghiệp;"
+ENTITY,E39_32,KHOAN,Khoản,structure,10995,11732,"2- Giấy xác nhận của các khách hàng về việc doanh nghiệp đã thanh lý hết các hợp đồng hoặc giấy cam kết của doanh nghiệp khác về việc tiếp tục thực hiện các hợp đồng mà doanh nghiệp đã ký kết.
+Uỷ ban nhân dân chỉ chấp thuận việc bán hoặc sáp nhập doanh nghiệp sau khi chủ doanh nghiệp đã đăng báo đơn xin ba lần liên tiếp, cách nhau năm ngày mà không có đơn khiếu nại trong mười lăm ngày kế tiếp. Việc bán hoặc sáp nhập doanh nghiệp chỉ được thực hiện sau khi đơn đã được chấp thuận.
+Sau khi hoàn tất thủ tục bán hoặc sáp nhập doanh nghiệp vào một doanh nghiệp khác, chủ doanh nghiệp tư nhân phải khai báo với Trọng tài kinh tế đã cấp giấy chứng nhận đăng ký kinh doanh để xoá tên trong sổ đăng ký kinh doanh và phải thông báo công khai."
+ENTITY,E39_33,KHOAN,Khoản,structure,11779,11821,1- Khai báo đúng vốn đầu tư để kinh doanh;
+ENTITY,E39_34,KHOAN,Khoản,structure,11822,11873,"2- Kinh doanh theo ngành, nghề ghi trong giấy phép;"
+ENTITY,E39_35,KHOAN,Khoản,structure,11874,12052,"3- Ưu tiên sử dụng lao động trong nước; bảo đảm quyền, lợi ích của người lao động theo quy định của pháp luật lao động; tôn trọng quyền của tổ chức công đoàn theo Luật công đoàn;"
+ENTITY,E39_36,KHOAN,Khoản,structure,12053,12111,4- Bảo đảm chất lượng hàng hoá theo tiêu chuẩn đã đăng ký;
+ENTITY,E39_37,KHOAN,Khoản,structure,12112,12248,"5- Tuân thủ quy định của Nhà nước về bảo vệ môi trường, bảo vệ di tích lịch sử, văn hoá, danh lam thắng cảnh và trật tự, an toàn xã hội;"
+ENTITY,E39_38,KHOAN,Khoản,structure,12249,12382,"6- Ghi chép sổ sách kế toán và quyết toán theo quy định của pháp luật về kế toán, thống kê và chịu sự kiểm tra của cơ quan tài chính;"
+ENTITY,E39_39,KHOAN,Khoản,structure,12383,12455,"7- Nộp thuế và thực hiện các nghĩa vụ khác theo quy định của pháp luật.
+"
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E2_1,E29_6,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E2_1,E29_7,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E2_1,E29_8,,
+RELATION,R17_9,DAN_CHIEU,Dẫn chiếu,E2_1,E29_9,,
+RELATION,R17_10,DAN_CHIEU,Dẫn chiếu,E2_1,E29_10,,
+RELATION,R17_11,DAN_CHIEU,Dẫn chiếu,E2_1,E29_11,,
+RELATION,R17_12,DAN_CHIEU,Dẫn chiếu,E2_1,E29_12,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E2_1,E30_19,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E2_1,E30_20,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E2_1,E30_21,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E2_1,E30_22,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_1,E38_5,,
+RELATION,R22_9,THUOC,Thuộc,E39_2,E38_5,,
+RELATION,R22_10,THUOC,Thuộc,E39_3,E38_5,,
+RELATION,R22_11,THUOC,Thuộc,E39_4,E38_5,,
+RELATION,R22_12,THUOC,Thuộc,E39_5,E38_5,,
+RELATION,R22_13,THUOC,Thuộc,E39_6,E38_5,,
+RELATION,R22_14,THUOC,Thuộc,E39_7,E38_5,,
+RELATION,R22_15,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_16,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_17,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_18,THUOC,Thuộc,E39_8,E38_8,,
+RELATION,R22_19,THUOC,Thuộc,E39_9,E38_8,,
+RELATION,R22_20,THUOC,Thuộc,E39_10,E38_8,,
+RELATION,R22_21,THUOC,Thuộc,E39_11,E38_8,,
+RELATION,R22_22,THUOC,Thuộc,E39_12,E38_8,,
+RELATION,R22_23,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_24,THUOC,Thuộc,E39_13,E38_9,,
+RELATION,R22_25,THUOC,Thuộc,E39_14,E38_9,,
+RELATION,R22_26,THUOC,Thuộc,E39_15,E38_9,,
+RELATION,R22_27,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_28,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_29,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_30,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_31,THUOC,Thuộc,E39_16,E38_13,,
+RELATION,R22_32,THUOC,Thuộc,E39_17,E38_13,,
+RELATION,R22_33,THUOC,Thuộc,E39_18,E38_13,,
+RELATION,R22_34,THUOC,Thuộc,E39_19,E38_13,,
+RELATION,R22_35,THUOC,Thuộc,E39_20,E38_13,,
+RELATION,R22_36,THUOC,Thuộc,E39_21,E38_13,,
+RELATION,R22_37,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_38,THUOC,Thuộc,E39_22,E38_14,,
+RELATION,R22_39,THUOC,Thuộc,E39_23,E38_14,,
+RELATION,R22_40,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_41,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,R22_42,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_43,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,R22_44,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,R22_45,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,R22_46,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,R22_47,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,R22_48,THUOC,Thuộc,E39_24,E38_22,,
+RELATION,R22_49,THUOC,Thuộc,E39_25,E38_22,,
+RELATION,R22_50,THUOC,Thuộc,E39_26,E38_22,,
+RELATION,R22_51,THUOC,Thuộc,E39_27,E38_22,,
+RELATION,R22_52,THUOC,Thuộc,E39_28,E38_22,,
+RELATION,R22_53,THUOC,Thuộc,E39_29,E38_22,,
+RELATION,R22_54,THUOC,Thuộc,E39_30,E38_22,,
+RELATION,R22_55,THUOC,Thuộc,E38_23,E35_3,,
+RELATION,R22_56,THUOC,Thuộc,E38_24,E35_3,,
+RELATION,R22_57,THUOC,Thuộc,E39_31,E38_24,,
+RELATION,R22_58,THUOC,Thuộc,E39_32,E38_24,,
+RELATION,R22_59,THUOC,Thuộc,E38_25,E35_3,,
+RELATION,R22_60,THUOC,Thuộc,E39_33,E38_25,,
+RELATION,R22_61,THUOC,Thuộc,E39_34,E38_25,,
+RELATION,R22_62,THUOC,Thuộc,E39_35,E38_25,,
+RELATION,R22_63,THUOC,Thuộc,E39_36,E38_25,,
+RELATION,R22_64,THUOC,Thuộc,E39_37,E38_25,,
+RELATION,R22_65,THUOC,Thuộc,E39_38,E38_25,,
+RELATION,R22_66,THUOC,Thuộc,E39_39,E38_25,,
+RELATION,R22_67,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_68,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,R22_69,THUOC,Thuộc,E38_28,E35_5,,

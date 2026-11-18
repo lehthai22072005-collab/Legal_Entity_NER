@@ -1,0 +1,17 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,61,Lệnh số 32/2015/L-CTN Về việc công bố Nghị quyết của Quốc hội
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,32/2015/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,882,892,2015-12-09
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,850,864,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,165,190,ngày 09 tháng 12 năm 2015
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,916,928,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,62,75,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,62,75,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,770,785,Trương Tấn Sang
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,948,1004,Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1024,1061,Luật Tổ chức Quốc hội số 57/2014/QH13
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1081,1099,Hiến pháp năm 2013
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,

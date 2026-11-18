@@ -1,0 +1,99 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,79,"Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm số 139/2025/QH15"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,66,79,139/2025/QH15
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,16723,16748,ngày 10 tháng 12 năm 2025
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,16462,16487,ngày 01 tháng 01 năm 2026
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,16866,16878,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,80,88,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,16750,16767,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,16776,16790,Trần Thanh Mẫn
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,422,462,Luật Kinh doanh bảo hiểm số 08/2022/QH15
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,245,294,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,337,364,Nghị quyết số 203/2025/QH15
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,16928,17126,"Nghị định 78/2026/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 174/2024/NĐ-CP ngày 30 tháng 12 năm 2024 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực kinh doanh bảo hiểm"
+ENTITY,E27_1,VB_HOP_NHAT,Văn bản hợp nhất,reference,17147,17229,Văn bản hợp nhất số 31/VBHN-VPQH hợp nhất Luật Kinh doanh bảo hiểm số 08/2022/QH15
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,17251,17384,"Thông tư số 31/2026/TT-BTC Quy định về phân cấp thực hiện một số nhiệm vụ, quyền hạn trong lĩnh vực quản lý nhà nước của Bộ Tài chính"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,17404,17602,"Nghị định 78/2026/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 174/2024/NĐ-CP ngày 30 tháng 12 năm 2024 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực kinh doanh bảo hiểm"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,17622,17947,"Thông tư số 96/2026/TT-BTC Sửa đổi, bổ sung một số điều của Thông tư số 67/2023/TT-BTC ngày 02 tháng 11 năm 2023 của Bộ trưởng Bộ Tài chính hướng dẫn một số điều của Luật Kinh doanh bảo hiểm, Nghị định số 46/2023/NĐ-CP ngày 01 tháng 7 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của Luật Kinh doanh bảo hiểm"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,17967,18065,Quyết định số 2175/QĐ-BTC Phê chuẩn doanh nghiệp bảo hiểm triển khai thí điểm bảo hiểm nông nghiệp
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,18085,18405,"Thông tư số 151/2025/TT-BTС Sửa đổi, bổ sung một số điều của Thông tư số 69/2022/TT-BTC ngày 16 tháng 11 năm 2022 của Bộ trưởng Bộ Tài chính quy định chi tiết về chứng chỉ bảo hiểm, chứng chỉ đại lý bảo hiểm, chứng chỉ môi giới bảo hiểm, chứng chỉ về phụ trợ bảo hiểm được sửa đổi, bổ sung bởi Thông tư số 85/2024/TT-BTС"
+ENTITY,E38_1,DIEU,Điều,structure,464,470,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,15593,15599,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,16400,16406,Điều 3
+ENTITY,E39_1,KHOAN,Khoản,structure,530,580,1. Bổ sung khoản 3 vào sau khoản 2 Điều 3 như sau:
+ENTITY,E39_2,KHOAN,Khoản,structure,950,1011,"2. Sửa đổi, bổ sung điểm b và điểm c khoản 3 Điều 63 như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,1370,1406,"3. Sửa đổi, bổ sung Điều 73 như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,3128,3179,"4. Sửa đổi, bổ sung điểm b khoản 3 Điều 74 như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,3307,3343,"5. Sửa đổi, bổ sung Điều 81 như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,7056,7109,"6. Sửa đổi, bổ sung một số khoản của Điều 82 như sau:"
+ENTITY,E39_7,KHOAN,Khoản,structure,8146,8199,"7. Sửa đổi, bổ sung một số khoản của Điều 87 như sau:"
+ENTITY,E39_8,KHOAN,Khoản,structure,9310,9347,"8. Sửa đổi, bổ sung Điều 101 như sau:"
+ENTITY,E39_9,KHOAN,Khoản,structure,10917,10962,"9. Sửa đổi, bổ sung khoản 1 Điều 127 như sau:"
+ENTITY,E39_10,KHOAN,Khoản,structure,11727,11765,"10. Sửa đổi, bổ sung Điều 134 như sau:"
+ENTITY,E39_11,KHOAN,Khoản,structure,11988,12042,11. Bổ sung khoản 3a vào sau khoản 3 Điều 138 như sau:
+ENTITY,E39_12,KHOAN,Khoản,structure,12482,12535,"12. Sửa đổi, bổ sung điểm đ khoản 2 Điều 151 như sau:"
+ENTITY,E39_13,KHOAN,Khoản,structure,12767,12805,"13. Sửa đổi, bổ sung Điều 154 như sau:"
+ENTITY,E39_14,KHOAN,Khoản,structure,14041,14102,"14. Sửa đổi, bổ sung một số điểm, khoản của Điều 156 như sau:"
+ENTITY,E39_15,KHOAN,Khoản,structure,15234,15280,"15. Sửa đổi, bổ sung khoản 2 Điều 157 như sau:"
+ENTITY,E39_16,KHOAN,Khoản,structure,15683,15774,1. Thay thế cụm từ “hoạt động đầu tư xây dựng” bằng cụm từ “hoạt động xây dựng” tại Điều 8.
+ENTITY,E39_17,KHOAN,Khoản,structure,15775,15853,2. Thay thế cụm từ “an toàn thông tin” bằng cụm từ “an ninh mạng” tại Điều 11.
+ENTITY,E39_18,KHOAN,Khoản,structure,15854,15956,"3. Thay thế cụm từ “thanh tra, kiểm tra” bằng cụm từ “kiểm tra chuyên ngành” tại Điều 152 và Điều 153."
+ENTITY,E39_19,KHOAN,Khoản,structure,15957,16063,4. Thay thế cụm từ “pháp luật về thanh tra” bằng cụm từ “pháp luật về kiểm tra chuyên ngành” tại Điều 153.
+ENTITY,E39_20,KHOAN,Khoản,structure,16064,16116,"5. Bỏ cụm từ “, an toàn thông tin mạng” tại Điều 13."
+ENTITY,E39_21,KHOAN,Khoản,structure,16117,16242,"6. Bỏ cụm từ “, dịch vụ phụ trợ bảo hiểm qua biên giới” tại Điều 6, cụm từ “, hoạt động dịch vụ phụ trợ bảo hiểm” tại Điều 9."
+ENTITY,E39_22,KHOAN,Khoản,structure,16243,16367,"7. Bãi bỏ điểm a khoản 1 và khoản 4 Điều 64, Điều 69, khoản 3 Điều 71, khoản 3 Điều 117, điểm a khoản 1 và khoản 4 Điều 133."
+ENTITY,E39_23,KHOAN,Khoản,structure,16368,16399,8. Bãi bỏ Điều 143 và Điều 155.
+ENTITY,E39_24,KHOAN,Khoản,structure,16426,16534,"1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026, trừ trường hợp quy định tại khoản 2 Điều này."
+ENTITY,E39_25,KHOAN,Khoản,structure,16535,16626,2. Khoản 6 và khoản 8 Điều 2 của Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.
+ENTITY,E40_1,DIEM,Điểm,structure,7110,7146,"a) Sửa đổi, bổ sung khoản 4 như sau:"
+ENTITY,E40_2,DIEM,Điểm,structure,7703,7739,"b) Sửa đổi, bổ sung khoản 6 như sau:"
+ENTITY,E40_3,DIEM,Điểm,structure,8200,8272,"a) Sửa đổi, bổ sung khoản 3 và bổ sung khoản 3a vào sau khoản 3 như sau:"
+ENTITY,E40_4,DIEM,Điểm,structure,8915,8962,"b) Sửa đổi, bổ sung khoản 5 và khoản 6 như sau:"
+ENTITY,E40_5,DIEM,Điểm,structure,14103,14139,"a) Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E40_6,DIEM,Điểm,structure,14400,14476,"b) Sửa đổi, bổ sung điểm b và bổ sung điểm c vào sau điểm b khoản 3 như sau:"
+ENTITY,E40_7,DIEM,Điểm,structure,14908,14951,c) Bổ sung khoản 4 vào sau khoản 3 như sau:
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R15_1,HOP_NHAT,Hợp nhất,E27_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E40_1,E39_6,,
+RELATION,R22_8,THUOC,Thuộc,E40_2,E39_6,,
+RELATION,R22_9,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_10,THUOC,Thuộc,E40_3,E39_7,,
+RELATION,R22_11,THUOC,Thuộc,E40_4,E39_7,,
+RELATION,R22_12,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_13,THUOC,Thuộc,E39_9,E38_1,,
+RELATION,R22_14,THUOC,Thuộc,E39_10,E38_1,,
+RELATION,R22_15,THUOC,Thuộc,E39_11,E38_1,,
+RELATION,R22_16,THUOC,Thuộc,E39_12,E38_1,,
+RELATION,R22_17,THUOC,Thuộc,E39_13,E38_1,,
+RELATION,R22_18,THUOC,Thuộc,E39_14,E38_1,,
+RELATION,R22_19,THUOC,Thuộc,E40_5,E39_14,,
+RELATION,R22_20,THUOC,Thuộc,E40_6,E39_14,,
+RELATION,R22_21,THUOC,Thuộc,E40_7,E39_14,,
+RELATION,R22_22,THUOC,Thuộc,E39_15,E38_1,,
+RELATION,R22_23,THUOC,Thuộc,E39_16,E38_2,,
+RELATION,R22_24,THUOC,Thuộc,E39_17,E38_2,,
+RELATION,R22_25,THUOC,Thuộc,E39_18,E38_2,,
+RELATION,R22_26,THUOC,Thuộc,E39_19,E38_2,,
+RELATION,R22_27,THUOC,Thuộc,E39_20,E38_2,,
+RELATION,R22_28,THUOC,Thuộc,E39_21,E38_2,,
+RELATION,R22_29,THUOC,Thuộc,E39_22,E38_2,,
+RELATION,R22_30,THUOC,Thuộc,E39_23,E38_2,,
+RELATION,R22_31,THUOC,Thuộc,E39_24,E38_3,,
+RELATION,R22_32,THUOC,Thuộc,E39_25,E38_3,,
+RELATION,R22_33,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_34,THUOC,Thuộc,E11_1,E10_1,,

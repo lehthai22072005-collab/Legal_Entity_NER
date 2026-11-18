@@ -1,0 +1,662 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,41,Luật Bầu cử Đại biểu Quốc hội số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,33,41,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,49389,49413,ngày 15 tháng 4 năm 1997
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,49520,49534,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,49555,49565,1997-04-17
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,49589,49601,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,42,50,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,49417,49434,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,49442,49455,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,49694,49712,Hiến pháp năm 1992
+ENTITY,E16_1,VB_BI_TAC_DONG_HIEU_LUC_TOAN_BO,Văn bản bị tác động hiệu lực toàn bộ,reference,49753,49798,Luật Bầu cử Đại biểu Quốc hội số 67-LCT/HĐNN8
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,49621,49639,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,49982,50096,Nghị quyết số Không số Về việc bãi nhiệm chức vụ Phó Chủ tịch Quốc hội và Đại biểu Quốc hội của ông Nguyễn Hà Phan
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,50146,50328,"Thông tư số 05/2011/TT-BNV Hướng dẫn tổ chức, hoạt động của các tổ chức phụ trách bầu cử đại biểu Quốc hội khóa XIII và bầu cử đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2011 – 2016"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,49849,49932,"Luật Sửa đổi, bổ sung một số điều của Luật bầu cử Đại biểu Quốc hội số 31/2001/QH10"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,50350,50476,"Quyết định số 45/2006/QĐ-UBND Về việc Quy định nhiệm vụ, quyền hạn về công tác nội vụ của Ủy ban nhân dân xã, phường, thị trấn"
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,50498,50690,"Thông tư số 14/2011/TT-BTC Quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí bầu cử đại biểu Quốc hội khóa XIII và bầu cử đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2011-2016"
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,50712,50818,Nghị quyết số 64/2013/QH13 Quy định một số điểm thi hành Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,50840,50878,"Luật Cán bộ, công chức số 22/2008/QH12"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,50898,51027,Nghị quyết số 1077/2007/NQ-UBTVQH11 Công bố ngày bầu cử đại biểu Quốc hội khoá XII và thành lập Hội đồng bầu cử đại biểu Quốc hội
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,51047,51134,Nghị quyết số 01/NQ-1997-QHX Xác nhận tư cách đại biểu của các Đại biểu Quốc hội khoá X
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,51154,51389,"Thông tư số 556/2007/TT-TTCP Hướng dẫn việc kê khai, xác minh và công khai kết luận xác minh tài sản, thu nhập phục vụ bầu cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân và bầu, phê chuẩn các chức danh tại Quốc hội, Hội đồng nhân dân"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,51409,51523,Nghị quyết số Không số Về việc bãi nhiệm chức vụ Phó Chủ tịch Quốc hội và Đại biểu Quốc hội của ông Nguyễn Hà Phan
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,51543,51725,"Thông tư số 05/2011/TT-BNV Hướng dẫn tổ chức, hoạt động của các tổ chức phụ trách bầu cử đại biểu Quốc hội khóa XIII và bầu cử đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2011 – 2016"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,51745,51842,Nghị quyết số 01A/2007/QH12 Xác nhận tư cách đại biểu quốc hội của các đại biểu Quốc hội khoá XII
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,51862,52033,Thông tư số 01/2007/TT-BNV Hướng dẫn một số nội dung về tổ chức bầu cử đại biểu Quốc hội khóa XII và bầu cử bổ sung đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2004 - 2009
+ENTITY,E35_1,CHUONG,Chương,structure,314,322,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,2383,2392,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,5059,5069,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,13829,13838,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,16939,16947,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,35879,35888,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,38384,38394,CHƯƠNG VII
+ENTITY,E35_8,CHUONG,Chương,structure,45909,45920,CHƯƠNG VIII
+ENTITY,E35_9,CHUONG,Chương,structure,48412,48421,CHƯƠNG IX
+ENTITY,E35_10,CHUONG,Chương,structure,48992,49000,CHƯƠNG X
+ENTITY,E36_1,MUC,Mục,structure,17013,17018,MỤC 1
+ENTITY,E36_2,MUC,Mục,structure,19333,19338,MỤC 2
+ENTITY,E36_3,MUC,Mục,structure,31999,32004,MỤC 3
+ENTITY,E36_4,MUC,Mục,structure,34913,34918,MỤC 4
+ENTITY,E36_5,MUC,Mục,structure,35905,35910,MỤC I
+ENTITY,E36_6,MUC,Mục,structure,36652,36657,MỤC 2
+ENTITY,E36_7,MUC,Mục,structure,38410,38415,MỤC 1
+ENTITY,E36_8,MUC,Mục,structure,40409,40414,MỤC 2
+ENTITY,E36_9,MUC,Mục,structure,41625,41630,MỤC 3
+ENTITY,E36_10,MUC,Mục,structure,43437,43442,MỤC 4
+ENTITY,E36_11,MUC,Mục,structure,45494,45499,MỤC 5
+ENTITY,E38_1,DIEU,Điều,structure,344,500,"Điều 1
+Việc bầu cử đại biểu Quốc hội nước Công hoà xã hội chủ nghĩa Việt Nam được tiến hành theo nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín."
+ENTITY,E38_2,DIEU,Điều,structure,501,813,"Điều 2
+Công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam, không phân biệt dân tộc, nam nữ, thành phần xã hội, tín ngưỡng, tôn giáo, trình độ văn hoá, nghề nghiệp, thời hạn cư trú, đủ mười tám tuổi trở lên đều có quyền bầu cử và đủ 21 tuổi trở lên đều có quyền ứng cử đại biểu Quốc hội theo quy định của pháp luật."
+ENTITY,E38_3,DIEU,Điều,structure,814,867,"Điều 3
+Đại biểu Quốc hội có những tiêu chuẩn sau đây:"
+ENTITY,E38_4,DIEU,Điều,structure,1577,1826,"Điều 4
+Uỷ ban thường vụ Quốc hội công bố và chủ trì việc bầu cử đại biểu Quốc hội; giám sát việc bầu cử đại biểu Quốc hội, bảo đảm cho việc bầu cử được tiến hành dân chủ, đúng pháp luật.
+Chính phủ chỉ đạo công tác bầu cử theo quy định của pháp luật."
+ENTITY,E38_5,DIEU,Điều,structure,1827,1981,"Điều 5
+Mặt trận Tổ quốc Việt Nam tổ chức hiệp thương lựa chọn, giới thiệu người ứng cử đại biểu Quốc hội; tham gia giám sát việc bầu cử đại biểu Quốc hội."
+ENTITY,E38_6,DIEU,Điều,structure,1982,2302,"Điều 6
+Thường trực Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương, huyện, quận, thị xã, thành phố thuộc tỉnh, Chủ tịch, Phó Chủ tịch Hội đồng nhân dân xã, phường, thị trấn, Uỷ ban nhân dân các cấp trong phạm vi nhiệm vụ và quyền hạn của mình có trách nhiệm thực hiện công tác bầu cử theo quy định của pháp luật."
+ENTITY,E38_7,DIEU,Điều,structure,2303,2383,"Điều 7
+Kinh phí tổ chức bầu cử đại biểu Quốc hội do ngân sách nhà nước bảo đảm.
+"
+ENTITY,E38_8,DIEU,Điều,structure,2449,2455,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,3051,3480,"Điều 9
+Căn cứ vào số lượng đại biểu Quốc hội quy định tại Điều 8 của Luật này, căn cứ vào nhiệm vụ và quyền hạn của Quốc hội, để bảo đảm tỷ lệ đại diện hợp lý của các tầng lớp nhân dân trong Quốc hội, sau khi trao đổi ý kiến với Ban thường trực Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam và đại diện các tổ chức chính trị - xã hội, chậm nhất là tám mươi ngày trước ngày bầu cử, Uỷ ban thường vụ Quốc hội dự kiến lần thứ nhất về:"
+ENTITY,E38_10,DIEU,Điều,structure,3702,3911,"Điều 10
+Số đại biểu Quốc hội là người dân tộc thiểu số do Uỷ ban thường vụ Quốc hội dự kiến theo đề nghị của Hội đồng dân tộc của Quốc hội, bảo đảm để các thành phần dân tộc thiểu số có số đại biểu thích đáng."
+ENTITY,E38_11,DIEU,Điều,structure,3912,4288,"Điều 11
+Đại biểu Quốc hội được bầu theo đơn vị bầu cử. ở mỗi đơn vị bầu cử được bầu không quá ba đại biểu. Tỉnh, thành phố trực thuộc trung ương được chia thành các đơn vị bầu cử.
+Số đơn vị bầu cử, danh sách các đơn vị và số đại biểu của mỗi đơn vị được tính căn cứ theo số dân do Uỷ ban thường vụ Quốc hội ấn định và được công bố chậm nhất là bảy mươi ngày trước ngày bầu cử."
+ENTITY,E38_12,DIEU,Điều,structure,4289,5059,"Điều 12
+Mỗi đơn vị bầu cử chia thành nhiều khu vực bỏ phiếu. Việc chia khu vực bỏ phiếu do Uỷ ban nhân dân xã, phường, thị trấn quyết định và do Uỷ ban nhân dân cấp trên trực tiếp phê chuẩn.
+Mỗi khu vực bỏ phiếu có từ ba trăm đến hai nghìn cử tri. ở miền núi, hải đảo và những nơi dân cư không tập trung thì dù chưa có tới ba trăm cử tri cũng được thành lập một khu vực bỏ phiếu.
+Đơn vị vũ trang nhân dân thành lập những khu vực bỏ phiếu riêng, trừ trường hợp quy định tại đoạn 3 Điều 17 của Luật này.
+Bệnh viện, nhà hộ sinh, nhà an dưỡng, nhà nuôi người tàn tật có từ năm mươi cử tri trở lên có thể thành lập khu vực bỏ phiếu riêng.
+Cơ sở giáo dục, cơ sở chữa bệnh đối với những người đang chấp hành quyết định xử lý hành chính có thể thành lập khu vực bỏ phiếu riêng.
+"
+ENTITY,E38_13,DIEU,Điều,structure,5099,5304,"Điều 13
+Các tổ chức phụ trách bầu cử đại biểu Quốc hội gồm có:
+Hội đồng bầu cử ở trung ương;
+Uỷ ban bầu cử ở tỉnh, thành phố trực thuộc trung ương;
+Ban bầu cử ở đơn vị bầu cử;
+Tổ bầu cử ở khu vực bỏ phiếu."
+ENTITY,E38_14,DIEU,Điều,structure,5305,5691,"Điều 14
+Chậm nhất là chín mươi ngày trước ngày bầu cử, Uỷ ban thường vụ Quốc hội thành lập Hội đồng bầu cử từ mười lăm đến hai mươi một người, gồm Chủ tịch, các Phó Chủ tịch, Tổng thư ký và các uỷ viên là đại diện Uỷ ban thường vụ Quốc hội, Chính phủ, Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam, một số cơ quan, tổ chức hữu quan.
+Hội đồng bầu cử có những nhiệm vụ và quyền hạn sau đây:"
+ENTITY,E38_15,DIEU,Điều,structure,7273,7783,"Điều 15
+Chậm nhất là tám mươi ngày trước ngày bầu cử, Thường trực Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương sau khi thống nhất với Uỷ ban nhân dân và Ban thường trực Uỷ ban Mặt trận Tổ quốc cùng cấp quyết định thành lập Uỷ ban bầu cử từ bảy đến mười một người, gồm Chủ tịch, các Phó Chủ tịch, Thư ký và các uỷ viên là đại diện Thường trực Hội đồng nhân dân, Uỷ ban nhân dân, Uỷ ban Mặt trận Tổ quốc cùng cấp, một số cơ quan, tổ chức hữu quan.
+Uỷ ban bầu cử có những nhiệm vụ và quyền hạn sau đây:"
+ENTITY,E38_16,DIEU,Điều,structure,9423,9956,"Điều 16
+Chậm nhất là sáu mươi ngày trước ngày bầu cử, Thường trực Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương sau khi thống nhất với Uỷ ban nhân dân và Ban Thường trực Uỷ ban Mặt trận Tổ quốc cùng cấp quyết định thành lập ở mỗi đơn vị bầu cử một Ban bầu cử từ chín đến mười lăm người, gồm Trưởng ban, các Phó Trưởng ban, Thư ký và các uỷ viên là đại diện Thường trực Hội đồng nhân dân, Uỷ ban nhân dân, Uỷ ban Mặt trận Tổ quốc cùng cấp, một số cơ quan, tổ chức hữu quan.
+Ban bầu cử có những nhiệm vụ và quyền hạn sau đây:"
+ENTITY,E38_17,DIEU,Điều,structure,10951,12116,"Điều 17
+Chậm nhất là ba mươi ngày trước ngày bầu cử, Chủ tịch Hội đồng nhân dân xã, phường, thị trấn sau khi thống nhất với Uỷ ban nhân dân và Ban thường trực Uỷ ban Mặt trận Tổ quốc cùng cấp quyết định thành lập ở mỗi khu vực bỏ phiếu một Tổ bầu cử từ năm đến mười một người, gồm Tổ trưởng, Tổ phó, Thư ký và các uỷ viên là đại diện Hội đồng nhân dân, Uỷ ban nhân dân, Uỷ ban Mặt trận Tổ quốc cùng cấp và đại diện cử tri ở địa phương.
+Đơn vị vũ trang nhân dân thành lập ở mỗi khu vực bỏ phiếu của mình một Tổ bầu cử từ năm đến chín người, gồm Tổ trường, Tổ phó, Thư ký và các uỷ viên là đại diện Chỉ huy đơn vị và đại diện quân nhân.
+Trong trường hợp đơn vị vũ trang nhân dân và địa phương có chung một khu vực bỏ phiếu thì Chủ tịch Hội đồng nhân dân xã, phường, thị trấn sau khi thống nhất với Uỷ ban nhân dân, Ban thường trực Uỷ ban Mặt trận Tổ quốc cùng cấp và Chỉ huy đơn vị vũ trang nhân dân quyết định thành lập Tổ bầu cử từ năm đến mười một người, gồm đại diện Hội đồng nhân dân, Uỷ ban nhân dân, Uỷ ban Mặt trận Tổ quốc cùng cấp, đại diện Chỉ huy đơn vị, đại diện quân nhân và đại diện cử tri ở địa phương.
+Tổ bầu cử có những nhiệm vụ và quyền hạn sau đây:"
+ENTITY,E38_18,DIEU,Điều,structure,12772,12886,"Điều 18
+Hội đồng bầu cử, Uỷ ban bầu cử, Ban bầu cử và Tổ bầu cử không được vận động bầu cử cho những người ứng cử."
+ENTITY,E38_19,DIEU,Điều,structure,12887,13353,"Điều 19
+Các tổ chức phụ trách bầu cử làm việc theo chế độ tập thể; các cuộc họp được tiến hành khi có ít nhất hai phần ba tổng số thành viên tham dự; các quyết định được thông qua khi có quá nửa số thành viên biểu quyết tán thành.
+Các tổ chức phụ trách bầu cử có thể trưng tập cán bộ, công chức của cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội giúp việc theo quyết định của Chủ tịch Hội đồng bầu cử, Chủ tịch Uỷ ban bầu cử hoặc của Trưởng ban bầu cử."
+ENTITY,E38_20,DIEU,Điều,structure,13354,13580,"Điều 20
+Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đơn vị vũ trang nhân dân có trách nhiệm tạo điều kiện thuận lợi để các tổ chức phụ trách bầu cử thực hiện nhiệm vụ và quyền hạn của mình."
+ENTITY,E38_21,DIEU,Điều,structure,13581,13829,"Điều 21
+Hội đồng bầu cử hết nhiệm vụ sau khi đã trình Quốc hội khoá mới biên bản tổng kết cuộc bầu cử và hồ sơ, tài liệu về bầu cử. Các Uỷ ban bầu cử, Ban bầu cử, Tổ bầu cử hết nhiệm vụ sau khi Hội đồng bầu cử công bố kết quả bầu cử trong cả nước.
+"
+ENTITY,E38_22,DIEU,Điều,structure,13856,14065,"Điều 22
+Trong thời gian lập danh sách cử tri, công dân có quyền bầu cử đại biểu Quốc hội đều được ghi tên vào danh sách cử tri.
+Mỗi cử tri chỉ được ghi tên vào danh sách ở một nơi mình thường trú hoặc tạm trú."
+ENTITY,E38_23,DIEU,Điều,structure,14066,14073,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,14860,15348,"Điều 24
+Danh sách cử tri do Uỷ ban nhân dân xã, phường, thị trấn lập theo khu vực bỏ phiếu.
+Danh sách cử tri trong đơn vị vũ trang nhân dân do Chỉ huy đơn vị lập theo khu vực bỏ phiếu. Quân nhân có hộ khẩu thường trú ở địa phương gần khu vực đóng quân có thể được Chỉ huy đơn vị cấp giấy chứng nhận để được ghi tên vào danh sách cử tri và tham gia bỏ phiếu ở địa phương đó. Khi cấp giấy chứng nhận, Chỉ huy đơn vị phải ghi ngay vào danh sách bên cạnh tên người đó ""Bỏ phiếu ở nơi cư trú""."
+ENTITY,E38_25,DIEU,Điều,structure,15349,15632,"Điều 25
+Chậm nhất là ba mươi ngày trước ngày bầu cử, cơ quan lập danh sách cử tri phải niêm yếu danh sách đó tại trụ sở Uỷ ban nhân dân xã, phường, thị trấn và những nơi công cộng của khu vực bỏ phiếu, đồng thời thông báo rộng rãi việc niêm yết để nhân dân kiểm tra danh sách cử tri."
+ENTITY,E38_26,DIEU,Điều,structure,15633,16507,"Điều 26
+Khi kiểm tra danh sách cử tri, nếu thấy có sai sót thì trong thời hạn hai mươi ngày kể từ ngày niêm yết, mọi người có quyền khiếu nại, tố cáo hoặc kiến nghị bằng miệng hoặc bằng văn bản với cơ quan lập danh sách cử tri. Cơ quan lập danh sách cử tri phải tiếp nhận và ghi vào sổ những khiếu nại, tố cáo hoặc kiến nghị đó. Trong thời hạn ba ngày kể từ ngày nhận được khiếu nại, tố cáo hoặc kiến nghị, cơ quan lập danh sách cử tri phải giải quyết và thông báo cho người khiếu nại, tố cáo hoặc kiến nghị biết kết quả giải quyết.
+Trong trường hợp người khiếu nại, tố cáo hoặc kiến nghị không đồng ý về cách giải quyết của cơ quan lập danh sách cử tri thì có quyền khiếu nại lên Toà án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh. Trong thời hạn năm ngày kể từ ngày nhận được khiếu nại. Toà án phải giải quyết xong. Quyết định của Toà án đó là quyết định cuối cùng."
+ENTITY,E38_27,DIEU,Điều,structure,16508,16939,"Điều 27
+Từ khi niêm yết danh sách cử tri cho đến ngày bầu cử, nếu cử tri nào vì đi nơi khác, không thể tham gia bỏ phiếu ở nơi đã được ghi tên vào danh sách cử tri thì có quyền xin giấy chứng nhận của Uỷ ban nhân dân xã, phường, thị trấn nơi đó để được ghi tên vào danh sách cử tri và tham gia bỏ phiếu ở nơi mới đến. Khi cấp giấy chứng nhận, Uỷ ban nhân dân phải ghi ngay vào danh sách bên cạnh tên cử tri ""Đi bỏ phiếu nơi khác"".
+"
+ENTITY,E38_28,DIEU,Điều,structure,17042,17049,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,18597,18661,"Điều 29
+Những người sau đây không được ứng cử đại biểu Quốc hội:"
+ENTITY,E38_30,DIEU,Điều,structure,19394,20183,"Điều 30
+Hội nghị hiệp thương lần thứ nhất ở trung ương do Đoàn Chủ tịch Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam tổ chức chậm nhất là bảy mươi lăm ngày trước ngày bầu cử, thành phần gồm Đoàn Chủ tịch Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam, đại diện Ban lãnh đạo các tổ chức thành viên của Mặt trận.
+Hội nghị hiệp thương thoả thuận về cơ cấu, thành phần và số lượng người của cơ quan, tổ chức, đơn vị ở trung ương được bầu làm đại biểu Quốc hội trên cơ sở dự kiến lần thứ nhất do Uỷ ban thường vụ Quốc hội gửi đến. Đại diện Hội đồng bầu cử, Uỷ ban thường vụ Quốc hội và Chính phủ được mời dự Hội nghị này.
+Biên bản Hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến, kết quả của Hội nghị và được gửi ngay đến Uỷ ban thường vụ Quốc hội và Hội đồng bầu cử."
+ENTITY,E38_31,DIEU,Điều,structure,20184,21163,"Điều 31
+Hội nghị hiệp thương lần thứ nhất ở tỉnh, thành phố trực thuộc trung ương do Ban thường trực Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương tổ chức chậm nhất là bảy mươi lăm ngày trước ngày bầu cử; thành phần gồm Ban thường trực Uỷ ban Mặt trận Tổ quốc, đại diện Ban lãnh đạo các tổ chức thành viên của Mặt trận và đại diện Ban thường trực Uỷ ban Mặt trận Tổ quốc huyện, quận, thị xã, thành phố thuộc tỉnh.
+Hội nghị hiệp thương thoả thuận về cơ cấu, thành phần và số lượng người của cơ quan, tổ chức, đơn vị ở địa phương được bầu làm đại biểu Quốc hội trên cơ sở dự kiến lần thứ nhất do Uỷ ban thường vụ Quốc hội gửi đến. Đại diện Uỷ ban bầu cử, Thường trực Hội đồng nhân dân và Uỷ ban nhân dân được mới dự Hội nghị này.
+Biên bản Hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến, kết quả của Hội nghị và được gửi ngay đến Uỷ ban thường vụ Quốc hội, Ban thường trực Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam và Uỷ ban bầu cử."
+ENTITY,E38_32,DIEU,Điều,structure,21164,21475,"Điều 32
+Căn cứ vào kết quả hiệp thương lần thứ nhất quy định tại các điều 30 và 31 của Luật này, chậm nhất là bảy mươi ngày trước ngày bầu cử, Uỷ ban thường vụ Quốc hội dự kiến lần thứ hai cơ cấu, thành phần, số lượng người của cơ quan, tổ chức, đơn vị ở trung ương và địa phương được bầu làm đại biểu Quốc hội."
+ENTITY,E38_33,DIEU,Điều,structure,21476,21722,"Điều 33
+Trên cơ sở dự kiến lần thứ hai của Uỷ ban thường vụ Quốc hội, căn cứ vào tiêu chuẩn đại biểu Quốc hội, cơ quan, tổ chức, đơn vị ở trung ương và địa phương được phân bổ số lượng đại biểu tiến hành giới thiệu người ứng cử đại biểu Quốc hội."
+ENTITY,E38_34,DIEU,Điều,structure,21723,21847,"Điều 34
+Việc giới thiệu người ứng cử đại biểu Quốc hội của các cơ quan, tổ chức, đơn vị ở trung ương được tiến hành như sau:"
+ENTITY,E38_35,DIEU,Điều,structure,23254,23378,"Điều 35
+Việc giới thiệu người ứng cử đại biểu Quốc hội của các cơ quan, tổ chức, đơn vị ở địa phương được tiến hành như sau:"
+ENTITY,E38_36,DIEU,Điều,structure,24759,25625,"Điều 36
+Cơ quan, tổ chức, đơn vị ở trung ương giới thiệu người ứng cử đại biểu Quốc hội phải chuyển biên bản Hội nghị cử tri nơi công tác và biên bản hội nghị Ban lãnh đạo của cơ quan, tổ chức, đơn vị mình nhận xét về người được giới thiệu đến Ban thường trực Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam. Ban thường trực Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam ghi tên người được giới thiệu vào danh sách hiệp thương.
+Cơ quan, tổ chức, đơn vị ở địa phương giới thiệu người ứng cử đại biểu Quốc hội phải chuyển biên bản Hội nghị cử trị nơi công tác và biên bản hội nghị Ban lãnh đạo cơ quan, tổ chức, đơn vị mình nhận xét về người được giới thiệu đến Ban thường trực Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương. Ban thường trực Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương ghi tên người được giới thiệu và danh sách hiệp thương."
+ENTITY,E38_37,DIEU,Điều,structure,25626,26344,"Điều 37
+Hội nghị hiệp thương lần thứ hai ở trung ương do Đoàn Chủ tịch Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam tổ chức chậm nhất là năm mươi lăm ngày trước ngày bầu cử; thành phần Hội nghị như quy định tại Điều 30 của Luật này.
+Hội nghị hiệp thương căn cứ vào tiêu chuẩn đại biểu Quốc hội, cơ cấu, thành phần và số lượng đại biểu được bầu của các cơ quan, tổ chức, đơn vị ở trung ương đã được Uỷ ban thường vụ Quốc hội dự kiến lần thứ hai để lập danh sách sơ bộ những người ứng cử đại biểu Quốc hội và gửi lấy ý kiến cử tri ở nơi cư trú.
+Biên bản Hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến, kết quả của Hội nghị và được gửi ngay đến Uỷ ban thường vụ Quốc hội và Hội đồng bầu cử."
+ENTITY,E38_38,DIEU,Điều,structure,26345,27216,"Điều 38
+Hội nghị hiệp thương lần thứ hai ở tỉnh, thành phố trực thuộc trung ương do Ban thường trực Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương tổ chức chậm nhất là năm mươi lăm ngày trước ngày bầu cử; thành phần Hội nghị như quy định tại Điều 31 của Luật này.
+Hội nghị hiệp thương căn cứ vào tiêu chuẩn đại biểu Quốc hội, cơ cấu, thành phần và số lượng đại biểu được bầu của các cơ quan, tổ chức, đơn vị ở địa phương đã được Uỷ ban thường vụ Quốc hội dự kiến lần thứ hai để lập danh sách sơ bộ những người ứng cử đại biểu Quốc hội và gửi lấy ý kiến cử tri ở nơi cư trú; đối với người tự ứng cử thì còn được gửi lấy ý kiến cử tri nơi người đó làm việc (nếu có).
+Biên bản Hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến, kết quả của Hội nghị và được gửi ngay đến Uỷ ban thường vụ Quốc hội, Hội đồng bầu cử và Uỷ ban bầu cử."
+ENTITY,E38_39,DIEU,Điều,structure,27217,27224,Điều 39
+ENTITY,E38_40,DIEU,Điều,structure,28834,28947,"Điều 40
+Trách nhiệm xác minh và trả lợi các vụ việc mà cử tri nêu lên đối với người ứng cử được quy định như sau:"
+ENTITY,E38_41,DIEU,Điều,structure,30331,30639,"Điều 41
+Căn cứ vào kết quả hiệp thương lần thứ hai quy định tại các Điều 37 và 38 của Luật này, chậm nhất là bốn mươi ngày trước ngày bầu cử Uỷ ban thường vụ Quốc hội dự kiến lần thứ ba cơ cấu, thành phần, số lượng người của cơ quan, tổ chức, đơn vị ở trung ương và địa phương được bầu làm đại biểu Quốc hội."
+ENTITY,E38_42,DIEU,Điều,structure,30640,31297,"Điều 42
+Hội nghị hiệp thương lần thứ ba ở Trung ương do Đoàn Chủ tịch Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam tổ chức chậm nhất là ba mươi lăm ngày trước ngày bầu cử; thành phần Hội nghị như quy định tại Điều 30 của Luật này.
+Hội nghị hiệp thương căn cứ vào tiêu chuẩn đại biểu Quốc hội, cơ cấu, thành phần và số lượng đại biểu được bầu của các cơ quan, tổ chức, đơn vị ở trung ương đã được Uỷ ban thường vụ Quốc hội dự kiến lần thứ ba và kết quả lấy ý kiến cử tri để lựa chọn, lập danh sách chính thức những người ứng cử đại biểu Quốc hội.
+Biên bản Hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến và kết quả của Hội nghị."
+ENTITY,E38_43,DIEU,Điều,structure,31298,31999,"Điều 43
+Hội nghị Hiệp thương lần thứ ba ở tỉnh, thành phố trực thuộc trung ương do Ban thường trực Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương tổ chức chậm nhất là ba mươi lăm ngày trước ngày bầu cử; thành phần Hội nghị như quy định tại Điều 31 của Luật này.
+Hội nghị hiệp thương căn cứ vào tiêu chuẩn đại biểu Quốc hội, cơ cấu, thành phần và số lượng đại biểu được bầu của cơ quan, tổ chức, đơn vị ở địa phương đã được Uỷ ban thường vụ Quốc hội dự kiến lần thứ ba và kết quả lấy ý kiến cử tri để lựa chọn, lập danh sách chính thức những người ứng cử đại biểu Quốc hội.
+Biên bản Hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến và kết quả của Hội nghị.
+"
+ENTITY,E38_44,DIEU,Điều,structure,32034,32347,"Điều 44
+Chậm nhất là ba mươi ngày trước ngày bầu cử, Ban thường trực Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam gửi đến Hội đồng bầu cử biên bản hội nghị hiệp thương lần thứ ba và danh sách chính thức những người được Đoàn Chủ tịch Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam giới thiệu ứng cử đại biểu Quốc hội."
+ENTITY,E38_45,DIEU,Điều,structure,32348,32681,"Điều 45
+Chậm nhất là ba mươi ngày trước ngày bầu cử, Ban thường trực Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc Trung ương gửi đến Uỷ ban bầu cử biên bản Hội nghị hiệp thương lần thứ ba và danh sách chính thức những người được Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương giới thiệu ứng cử đại biểu Quốc hội."
+ENTITY,E38_46,DIEU,Điều,structure,32682,33638,"Điều 46
+Căn cứ vào danh sách chính thức những người ứng cử được Đoàn Chủ tịch Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam giới thiệu, Hội đồng bầu cử gửi tới các Uỷ ban bầu cử hữu quan danh sách những người được giới thiệu về ứng cử tại địa phương.
+Hội đồng bầu cử lập và công bố danh sách những người ứng cử theo từng đơn vị bầu cử trong cả nước theo danh sách chính thức do Ban thường trực Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam và Uỷ ban bầu cử gửi đến chậm nhất là hai mươi lăm ngày trước ngày bầu cử.
+Trong danh sách những người ứng cử phải ghi rõ họ, tên, ngày, tháng, năm sinh, quê quán, nơi thường trú, dân tộc, tôn giáo, trình độ văn hoá, chuyên môn, nghề nghiệp, chức vụ, nơi làm việc của người ứng cử. Danh sách những người ứng cử được xếp theo vần chữ cái A, B, C...
+Số người trong danh sách ứng cử ở mỗi đơn vị bầu cử phải nhiều hơn số đại biểu được bầu ở đơn vị đó.
+Người ứng cử chỉ được ghi tên vào danh sách ứng cử ở một đơn vị bầu cử."
+ENTITY,E38_47,DIEU,Điều,structure,33639,33795,"Điều 47
+Chậm nhất là hai mươi ngày trước ngày bầu cử, Ban bầu cử phải niêm yết danh sách người ứng cử ở địa phương mình theo quyết định của Hội đồng bầu cử."
+ENTITY,E38_48,DIEU,Điều,structure,33796,34120,"Điều 48
+Người ứng cử không được làm thành viên Ban bầu cử hoặc Tổ bầu cử ở đơn vị mình ứng cử. Nếu đã là thành viên của Ban bầu cử hoặc Tổ bầu cử ở đơn vị mình ứng cử thì người ứng cử phải được rút khỏi danh sách thành viên của tổ chức phụ trách bầu cử đó kể từ ngày được ghi tên vào danh sách chính thức những người ứng cử."
+ENTITY,E38_49,DIEU,Điều,structure,34121,34128,Điều 49
+ENTITY,E38_50,DIEU,Điều,structure,34949,35155,"Điều 50
+Hội đồng bầu cử chỉ đạo công tác thông tin, tuyên truyền và vận động bầu cử trong phạm vi cả nước; Uỷ ban bầu cử chỉ đạo thực hiện công tác thông tin, tuyên truyền và vận động bầu cử tại địa phương."
+ENTITY,E38_51,DIEU,Điều,structure,35156,35383,"Điều 51
+Cơ quan Nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đơn vị vũ trang nhân dân, cơ quan thông tin báo chí trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tuyên truyền về cuộc bầu cử."
+ENTITY,E38_52,DIEU,Điều,structure,35384,35763,"Điều 52
+Người có tên trong danh sách ứng cử đại biểu Quốc hội có quyền vận động bầu cử thông qua việc gặp gỡ, tiếp xúc với cử tri và các phương tiện thông tin đại chúng để báo cáo với cử tri dự kiến thực hiện trách nhiệm của người đại biểu nếu được bầu làm đại biểu Quốc hội.
+Mặt trận Tổ quốc Việt Nam tổ chức để những người ứng cử gặp gỡ, tiếp xúc với cử tri và vận động bầu cử."
+ENTITY,E38_53,DIEU,Điều,structure,35764,35879,"Điều 53
+Việc vận động bầu cử được tiến hành dân chủ, bình đẳng, đúng pháp luật và bảo đảm trật tự, an toàn xã hội.
+"
+ENTITY,E38_54,DIEU,Điều,structure,35923,36143,"Điều 54
+Việc bỏ phiếu bầu cử đại biểu Quốc hội được tiến hành cùng một ngày trong cả nước.
+Ngày bầu cử phải là ngày chủ nhật, do Uỷ ban thường vụ Quốc hội ấn định và công bố chậm nhất là chín mươi ngày trước ngày bầu cử."
+ENTITY,E38_55,DIEU,Điều,structure,36144,36413,"Điều 55
+Trong trường hợp đặc biệt cần hoãn ngày bỏ phiếu hoặc bỏ phiếu sớm hơn ngày quy định ở khu vực bỏ phiếu nào thì Ban bầu cử sau khi lấy ý kiến của Tổ bầu cử ở khu vực bỏ phiếu đó phải kịp thời báo cáo Uỷ ban bầu cử để đề nghị Hội đồng bầu cử xem xét, quyết định."
+ENTITY,E38_56,DIEU,Điều,structure,36414,36652,"Điều 56
+Trong thời hạn mười ngày trước ngày bầu cử, Tổ bầu cử phải thường xuyên thông báo cho cử tri biết ngày bầu cử, nơi bỏ phiếu, thời gian bỏ phiếu bằng hình thức niêm yết, phát thanh và các phương tiện thông tin khác của địa phương.
+"
+ENTITY,E38_57,DIEU,Điều,structure,36676,36992,"Điều 57
+Việc bỏ phiếu bắt đầu từ bảy giờ sáng đến bảy giờ tối. Tuỳ tình hình địa phương, Tổ bầu cử có thể quyết định cho bắt đầu sớm hơn nhưng không được trước năm giờ sáng hoặc kết thúc muộn hơn nhưng không được quá mười giờ đêm.
+Trước khi bỏ phiếu, Tổ bầu cử phải kiểm tra hòm phiếu trước sự chứng kiến của cử tri."
+ENTITY,E38_58,DIEU,Điều,structure,36993,37156,"Điều 58
+Mỗi cử tri có quyền bỏ một phiếu bầu.
+Cử tri phải tự mình đi bầu, không được bầu bằng cách gửi thư, trừ những trường hợp quy định tại Điều 59 của Luật này."
+ENTITY,E38_59,DIEU,Điều,structure,37157,37584,"Điều 59
+Cử tri không thể tự viết được phiếu bầu thì nhờ người khác viết hộ, nhưng phải tự mình bỏ phiếu; người viết hộ phải bảo đảm bí mật phiếu bầu của cử tri; nếu cử tri vì tàn tật không tự bỏ phiếu được thì nhờ người khác bỏ phiếu vào hòm phiếu.
+Trong trường hợp cử tri ốm đau, già yếu, tàn tật không thể đến phòng bỏ phiếu được thì Tổ bầu cử mang hòm phiếu phụ và phiếu bầu đến chỗ ở của cử tri để cử tri nhận phiếu và bầu."
+ENTITY,E38_60,DIEU,Điều,structure,37585,37739,"Điều 60
+Khi cử tri viết phiếu bầu, không ai được đến xem, kể cả thành viên Tổ bầu cử; nếu viết hỏng, cử tri có quyền đề nghị Tổ bầu cử đổi phiếu bầu khác."
+ENTITY,E38_61,DIEU,Điều,structure,37740,37851,"Điều 61
+Mọi người đều phải tuân theo nội quy của phòng bỏ phiếu; không được vận động bầu cử tại phòng bỏ phiếu."
+ENTITY,E38_62,DIEU,Điều,structure,37852,38043,"Điều 62
+Khi đã hết giờ bỏ phiếu, nếu còn cử tri có mặt tại phòng bỏ phiếu mà chưa kịp bỏ phiếu thì chỉ sau khi số cử tri này bỏ phiếu xong, Tổ bầu cử mới được tuyên bố kết thúc cuộc bỏ phiếu."
+ENTITY,E38_63,DIEU,Điều,structure,38044,38384,"Điều 63
+Trong ngày bầu cử, việc bỏ phiếu phải được tiến hành liên tục. Trong trường hợp có sự kiện bất ngờ làm gián đoạn việc bỏ phiếu, thì Tổ bầu cử lập tức niêm phong hòm phiếu, tài liệu liên quan trực tiếp đến cuộc bầu cử, kịp thời báo cáo cho Ban bầu cử biết, đồng thời phải có những biện pháp cần thiết để việc bỏ phiếu được tiếp tục.
+"
+ENTITY,E38_64,DIEU,Điều,structure,38432,38932,"Điều 64
+Việc kiểm phiếu phải được tiến hành tại phòng bỏ phiếu ngay sau khi cuộc bỏ phiếu kết thúc.
+Trước khi mở hòm phiếu, Tổ bầu cử phải thống kê, lập biên bản, niêm phong số phiếu không sử dụng đến và phải mời hai cử tri không phải là người ứng cử chứng kiến việc kiểm phiếu.
+Người ứng cử, đại diện cơ quan, tổ chức, đơn vị giới thiệu người ứng cử hoặc người được uỷ nhiệm có quyền chứng kiến việc kiểm phiếu và khiếu nại về việc kiểm phiếu. Các phóng viên báo chí được chứng kiến việc kiểm phiếu."
+ENTITY,E38_65,DIEU,Điều,structure,38933,38983,"Điều 65
+Những phiếu sau đây là phiếu không hợp lệ:"
+ENTITY,E38_66,DIEU,Điều,structure,39262,39437,"Điều 66
+Trong trường hợp có phiếu nghi là không hợp lệ thì Tổ trưởng Tổ bầu cử đưa ra để toàn Tổ giải quyết.
+Tổ bầu cử không được gạch xoá hoặc sửa các tên ghi trên phiếu bầu."
+ENTITY,E38_67,DIEU,Điều,structure,39438,39694,"Điều 67
+Những khiếu nại tại chỗ về việc kiểm phiếu do Tổ bầu cử nhận, giải quyết và ghi cách giải quyết vào biên bản.
+Trong trường hợp Tổ bầu cử không giải quyết được thì phải ghi rõ ý kiến của Tổ vào biên bản giải quyết khiếu nại và chuyển đến Ban bầu cử."
+ENTITY,E38_68,DIEU,Điều,structure,39695,40409,"Điều 68
+Sau khi kiểm phiếu xong, Tổ bầu cử phải lập biên bản kết quả kiểm phiếu.
+Biên bản phải ghi rõ:
+Tổng số cử tri của khu vực bỏ phiếu;
+Số cử tri đã tham gia bỏ phiếu;
+Tỷ lệ cử tri đã tham gia bỏ phiếu so với tổng số cử tri;
+Số phiếu hợp lệ;
+Số phiếu không hợp lệ;
+Số phiếu bầu cho mỗi người ứng cử;
+Những khiếu nại nhận được, những khiếu nại đã giải quyết và cách giải quyết, những khiếu nại chuyển đến Ban bầu cử.
+Biên bản được lập thành 4 bản, có chữ ký của Tổ trưởng, Thư ký và hai cử tri được mời chứng kiến việc kiểm phiếu. Biên bản được gửi đến Ban bầu cử và Chủ tịch Hội đồng nhân dân, Uỷ ban nhân dân, ban thường trực Uỷ ban mặt trận Tổ quốc xã, phường, thị trấn chậm nhất là ba ngày sau ngày bầu cử.
+"
+ENTITY,E38_69,DIEU,Điều,structure,40446,41389,"Điều 69
+Sau khi nhận được biên bản kết quả kiểm phiếu của các Tổ bầu cử, Ban bầu cử kiểm tra các biên bản đó và lập biên bản xác định kết quả bầu cử ở đơn vị bầu cử của mình.
+Biên bản phải ghi rõ:
+Số đại biểu Quốc hội được ấn định cho đơn vị bầu cử;
+Số người ứng cử;
+Tổng số cử tri của đơn vị bầu cử;
+Số cử tri đã tham gia bỏ phiếu;
+Tỷ lệ cử tri đã tham gia bỏ phiếu so với tổng số cử tri;
+Số phiếu hợp lệ;
+Số phiếu không hợp lệ;
+Số phiếu bầu cho mỗi người ứng cử;
+Danh sách những người trúng cử;
+Những khiếu nại do các Tổ bầu cử đã giải quyết, những khiếu nại do Ban bầu cử giải quyết, những khiếu nại chuyển đến Uỷ ban bầu cử, Hội đồng bầu cư.
+Biên bản được thành lập thành năm bản, có chữ ký của Trưởng ban, các Phó Trưởng ban và Thư ký. Biên bản được gửi đến Hội đồng bầu cử, Uỷ ban bầu cử, Thường trực Hội đồng nhân dân, Uỷ ban nhân dân, Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc Trung ương chậm nhất là năm ngày sau ngày bầu cử."
+ENTITY,E38_70,DIEU,Điều,structure,41390,41625,"Điều 70
+Trong số đại biểu mà đơn vị bầu cử được bầu, người ứng cử được quá nửa số phiếu hợp lệ và được nhiều phiếu hơn là người trúng cử. Trong trường hợp nhiều người được số phiếu bằng nhau thì người nhiều tuổi hơn là người trúng cử.
+"
+ENTITY,E38_71,DIEU,Điều,structure,41660,42361,"Điều 71
+Trong cuộc bầu cử đầu tiên, nếu số người trúng cử chưa đủ số đại biểu được bầu do Uỷ ban thường vụ Quốc hội ấn định cho đơn vị bầu cử thì Ban bầu cử phải ghi rõ vào biên bản và báo cáo ngay cho Uỷ ban bầu cử để đề nghị Hội đồng bầu cử xem xét, quyết định việc bầu cử thêm ở đơn vị bầu cử đó.
+Trong trường hợp bầu cử thêm thì ngày bầu cử được tiến hành chậm nhất là hai mươi ngày sau cuộc bầu cử đầu tiên. Trong cuộc bầu cử thêm cử tri chỉ chọn bầu trong danh sách những người đã ứng cử lần đầu nhưng không trúng cử. Người trúng cử là người được quá nửa số phiếu hợp lệ và được nhiều phiếu hơn. Nếu bầu cử thêm mà vẫn chưa đủ số đại biểu theo quy định thì không tổ chức bầu cử thêm lần thứ hai."
+ENTITY,E38_72,DIEU,Điều,structure,42362,42949,"Điều 72
+Ở mỗi đơn vị bầu cử, nếu số cử tri đi bỏ phiếu chưa được quá nửa số cử tri ghi trong danh sách cử tri thì Ban bầu cử ghi rõ vào biên bản và báo cáo ngay cho Uỷ ban bầu cử để đề nghị Hội đồng bầu cử xem xét, quyết định việc bầu cử lại ở đơn vị bầu cử đó.
+Trong trường hợp bầu cử lại ngày bầu cử được tiến hành chậm nhất là mười lăm ngày sau cuộc bầu cử đầu tiên. Trong cuộc bầu cử lại cử tri chỉ chọn bầu trong danh sách những người đã ứng cử lần đầu. Nếu bầu cử lại mà số cử tri đi bầu vẫn chưa được quá nửa số cử tri ghi trong danh sách thì không tổ chức bầu cử lại lần thứ hai."
+ENTITY,E38_73,DIEU,Điều,structure,42950,43279,"Điều 73
+Hội đồng bầu cử từ mình hoặc theo đề nghị của Chính phủ, Uỷ ban Trung ương Mặt trận Tổ quốc Việt Nam, Uỷ ban bầu cử huỷ bỏ kết quả bầu cử ở đơn vị bầu cử có vi phạm pháp luật nghiêm trọng và quyết định ngày bầu cử lại ở đơn vị bầu cử đó. Trong cuộc bầu cử lại, cử tri chỉ chọn bầu danh sách những người đã ứng cử lần đầu."
+ENTITY,E38_74,DIEU,Điều,structure,43280,43437,"Điều 74
+Việc bầu cử thêm hoặc bầu cử lại vẫn căn cứ vào danh sách cử tri đã lập trong cuộc bầu cử đầu tiên và được tiến hành theo các quy định của Luật này.
+"
+ENTITY,E38_75,DIEU,Điều,structure,43469,44480,"Điều 75
+Sau khi nhận và kiểm tra biên bản xác định kết quả bầu cử của các Ban bầu cử và giải quyết những khiếu nại (nếu có), Uỷ ban bầu cử lập biên bản xác định kết quả bầu cử ở địa phương.
+Biên bản phải ghi rõ
+Số lượng đơn vị bầu cử;
+Số người ứng cử;
+Tổng số cử tri của địa phương;
+Số cử tri đã tham gia bỏ phiếu;
+Tỷ lệ cử tri đã tham gia bỏ phiếu so với tổng số cử tri;
+Số phiếu hợp lệ;
+Số phiếu không hợp lệ;
+Số phiếu bầu cho mỗi người ứng cử;
+Danh sách những người trúng cử;
+Những khiếu nại do Tổ bầu cử, Ban bầu cử đã giải quyết;
+Những khiếu nại do Uỷ ban bầu cử đã giải quyết;
+Những việc quan trọng đã xảy ra và cách giải quyết;
+Những khiếu nại, tố cáo và kiến nghị chuyển lên Hội đồng bầu cử.
+Biên bản được lập thành năm bản, có chữ ký của Chủ tịch, Thư ký Uỷ ban bầu cử. Biên bản được gửi đến Hội đồng bầu cử, Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam, Thường trực Hội đồng nhân dân, Uỷ ban nhân dân, Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương chậm nhất là bảy ngày sau ngày bầu cử."
+ENTITY,E38_76,DIEU,Điều,structure,44481,45338,"Điều 76
+Sau khi nhận và kiểm tra biên bản xác định kết quả bầu cử của các Ban bầu cử, Uỷ ban bầu cử và giải quyết các khiếu nại, tố cáo (nếu có), Hội đồng bầu cử lập biên bản tổng kết cuộc bầu cử trong cả nước.
+Biên bản phải ghi rõ:
+Tổng số đại biểu Quốc hội được bầu;
+Tổng số người ứng cử;
+Tổng số cử tri;
+Tổng số cử tri đã tham gia bỏ phiếu;
+Tỷ lệ cử tri đã tham gia bỏ phiếu so với tổng số cử tri;
+Số phiếu hợp lệ;
+Số phiếu không hợp lệ;
+Số phiếu bầu cho mỗi người ứng cử;
+Danh sách những người trúng cử;
+Những khiếu nại, tố cáo do Hội đồng bầu cử giải quyết;
+Những việc quan trọng đã xảy ra và cách giải quyết.
+Biên bản được lập thành năm bản, có chữ ký của Chủ tịch, Tổng thư ký Hội đồng bầu cử. Biên bản được gửi đến Uỷ ban thường vụ Quốc hội, Chính phủ, Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam; một bản trình Quốc hội khoá mới và một bản lưu trữ."
+ENTITY,E38_77,DIEU,Điều,structure,45339,45494,"Điều 77
+Hội đồng bầu cử căn cứ vào biên bản tổng kết cuộc bầu cử trong cả nước công bố kết quả bầu cử và danh sách những người trúng cử đại biểu Quốc hội.
+"
+ENTITY,E38_78,DIEU,Điều,structure,45539,45546,Điều 78
+ENTITY,E38_79,DIEU,Điều,structure,45960,46222,"Điều 79
+Trong nhiệm kỳ, nếu đơn vị bầu cử nào khuyết đại biểu Quốc hội thì Uỷ ban thường vụ Quốc hội có thể quyết định việc bầu cử bổ sung đại biểu Quốc hội tại đơn vị đó; nếu thời giam còn lại của nhiệm kỳ Quốc hội dưới hai năm thì không tổ chức bầu cử bổ sung."
+ENTITY,E38_80,DIEU,Điều,structure,46223,46607,"Điều 80
+Uỷ ban thường vụ Quốc hội thành lập Uỷ ban bầu cử bổ sung từ năm đến bẩy người, gồm Chủ tịch, Phó Chủ tịch, Tổng thư ký và các uỷ viên là đại diện Uỷ ban thường vụ Quốc hội, Chính phủ, Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam, một số cơ quan, tổ chức hữu quan.
+Uỷ ban thường vụ Quốc hội quyết định ngày bầu cử bổ sung và công bố chậm nhất là ba mươi ngày trước ngày bầu cử."
+ENTITY,E38_81,DIEU,Điều,structure,46608,46748,"Điều 81
+Danh sách cử tri do Uỷ ban nhân dân xã, phường, thị trấn lập phải được công bố chậm nhất là mười lăm ngày trước ngày bầu cử bổ sung."
+ENTITY,E38_82,DIEU,Điều,structure,46749,47176,"Điều 82
+Chậm nhất là hai mươi ngày trước ngày bầu cử bổ sung, Thường trực Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương sau khi thống nhất với Uỷ ban nhân dân và Ban thường trực Uỷ ban Mặt trận Tổ quốc cùng cấp quyết định thành lập ở dơn vị bầu cử Ban bầu cử bổ sung từ ba đến năm người, gồm Trưởng ban, Phó Trưởng ban, Thư ký và các uỷ viên là đại diện chính quyền địa phương và Uỷ ban Mặt trận Tổ quốc ở địa phương."
+ENTITY,E38_83,DIEU,Điều,structure,47177,47594,"Điều 83
+Chậm nhất là mười lăm ngày trước ngày bầu cử bổ sung, Chủ tịch Hội đồng nhân dân xã, phường, thị trấn sau khi thống nhất với Uỷ ban nhân dân và Ban thường trực Uỷ ban Mặt trận Tổ quốc cùng cấp quyết định thành lập ở mỗi khu vực bỏ phiếu Tổ bầu cử bổ sung từ năm đến bảy người, gồm Tổ trưởng, Tổ phó, Thư ký và các Uỷ viên là đại diện Hội đồng nhân dân, Uỷ ban nhân dân và Uỷ ban Mặt trận Tổ quốc ở địa phương."
+ENTITY,E38_84,DIEU,Điều,structure,47595,48139,"Điều 84
+Nhiệm vụ và quyền hạn của Uỷ ban bầu cử bổ sung, Ban bầu cử bổ sung, Tổ bầu cử bổ sung được áp dụng theo quy định tương ứng về Hội đồng bầu cử, Uỷ ban bầu cử, Ban bầu cử, Tổ bầu cả; thể thức bỏ phiếu, trình tự bầu cử và xác định kết quả bầu cử bổ sung được áp dụng theo các quy định tương ứng của Luật này.
+Căn cứ vào những nguyên tắc của Luật này, Uỷ ban thường vụ Quốc hội phối hợp với Đoàn Chủ tịch Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam quy định về việc hiệp thương, giới thiệu người ứng cử đại biểu Quốc hội để bầu cử bổ sung."
+ENTITY,E38_85,DIEU,Điều,structure,48140,48276,"Điều 85
+Danh sách người ứng cử đại biểu Quốc hội ở đơn vị khuyết đại biểu được công bố chậm nhất là mười ngày trước ngày bầu cử bổ sung."
+ENTITY,E38_86,DIEU,Điều,structure,48277,48412,"Điều 86
+Những khiếu nại, tố cáo, kiến nghị về bầu cử bổ sung và việc giải quyết được áp dụng theo các quy định tương ứng của Luật này.
+"
+ENTITY,E38_87,DIEU,Điều,structure,48446,48815,"Điều 87
+Người nào dùng thủ đoạn lừa gạt, mua chuộc hoặc cưỡng ép làm trở ngại việc bầu cử, ứng cử đại biểu Quốc hội của công dân; người có trách nhiệm trong công tác bầu cử mà giả mạo giấy tờ, gian lận phiếu bầu hoặc dùng thủ đoạn khác để làm sai lệch kết quả bầu cử thì tuỳ theo mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự."
+ENTITY,E38_88,DIEU,Điều,structure,48816,48992,"Điều 88
+Người nào cản trở hoặc trả thù người khiếu nại, tố cáo về bầu cử thì tuỳ theo mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự.
+"
+ENTITY,E38_89,DIEU,Điều,structure,49021,49170,"Điều 89
+Luật này có hiệu lực kể từ ngày công bố.
+Luật này thay thế Luật bầu cử đại biểu Quốc hội đã được Quốc hội thông qua ngày 15 tháng 4 năm 1992."
+ENTITY,E38_90,DIEU,Điều,structure,49171,49416,"Điều 90
+Uỷ ban thường vụ Quốc hội, Chính phủ, Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam hướng dẫn thi hành Luật này.
+Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá IX, kỳ họp thứ 11 thông qua ngày 15 tháng 4 năm 1997./."
+ENTITY,E39_1,KHOAN,Khoản,structure,868,1096,"1- Trung thành với Tổ quốc và Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam, phấn đấu thực hiện công cuộc đổi mới, vì sự nghiệp công nghiệp hoá, hiện đại hoá đất nước, làm cho dân giàu, nước mạnh, xã hội công bằng, văn minh;"
+ENTITY,E39_2,KHOAN,Khoản,structure,1097,1312,"2- Có phẩm chất đạo đức tốt, cần kiệm liên chính, chí công vô tư, gương mẫu chấp hành pháp luật; kiên quyết đấu tranh chống mọi biểu hiện quan liệu, hách dịch, cửa quyền, tham nhũng và các hành vi vi phạm pháp luật;"
+ENTITY,E39_3,KHOAN,Khoản,structure,1313,1433,"3- Có trình độ và năng lực thực hiện nhiệm vụ đại biểu Quốc hội, tham gia quyết định các vấn đề quan trọng của đất nước;"
+ENTITY,E39_4,KHOAN,Khoản,structure,1434,1523,"4- Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến của nhân dân, được nhân dân tín nhiệm;"
+ENTITY,E39_5,KHOAN,Khoản,structure,1524,1576,5- Có điều kiện tham gia các hoạt động của Quốc hội.
+ENTITY,E39_6,KHOAN,Khoản,structure,2456,2559,1- Tổng số đại biểu Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam không quá bốn trăm năm mươi người.
+ENTITY,E39_7,KHOAN,Khoản,structure,2560,2645,"2- Căn cứ để phân bổ đại biểu Quốc hội của mỗi tỉnh, thành phố trực thuộc trung ương:"
+ENTITY,E39_8,KHOAN,Khoản,structure,2882,3050,"3- Căn cứ vào quy định tại các khoản 1 và 2 Điều này, Uỷ ban thường vụ Quốc hội dự kiến số lượng đại biểu Quốc hội được bầu ở mỗi tỉnh, thành phố trực thuộc trung ương."
+ENTITY,E39_9,KHOAN,Khoản,structure,3481,3521,"1- Cơ cấu, thành phần đại biểu Quốc hội;"
+ENTITY,E39_10,KHOAN,Khoản,structure,3522,3701,"2- Số lượng đại biểu Quốc hội được bầu của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, lực lượng vũ trang nhân dân, cơ quan nhà nước ở trung ương và địa phương."
+ENTITY,E39_11,KHOAN,Khoản,structure,5692,5826,"1- Lãnh đạo việc tổ chức bầu cử trong cả nước; kiểm tra, đôn đốc việc thi hành các quy định của pháp luật về bầu cử đại biểu Quốc hội;"
+ENTITY,E39_12,KHOAN,Khoản,structure,5827,5890,"2- Chỉ đạo công tác thông tin, tuyên truyền và vận động bầu cử;"
+ENTITY,E39_13,KHOAN,Khoản,structure,5891,5968,"3- Chỉ đạo công tác bảo vệ an ninh, trật tự an toàn xã hội trong cuộc bầu cử;"
+ENTITY,E39_14,KHOAN,Khoản,structure,5969,6275,"4- Nhận và xem xét hồ sơ của người được tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, lực lượng vũ trang nhân dân, cơ quan nhà nước ở trung ương giới thiệu ứng cử đại biểu Quốc hội; gửi tiểu sử tóm tắt của những người ứng cử đến Ban thường trực Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam;"
+ENTITY,E39_15,KHOAN,Khoản,structure,6276,6359,5- Nhận hồ sơ và danh sách người ứng cử đại biểu Quốc hội do Uỷ ban bầu cử gửi đến;
+ENTITY,E39_16,KHOAN,Khoản,structure,6360,6421,6- Quy định mẫu thẻ cử tri và phiếu bầu cử đại biểu Quốc hội;
+ENTITY,E39_17,KHOAN,Khoản,structure,6422,6525,7- Lập và công bố danh sách những người ứng cử đại biểu Quốc hội theo từng đơn vị bầu cử trong cả nước;
+ENTITY,E39_18,KHOAN,Khoản,structure,6526,6811,"8- Xét và giải quyết khiếu nại, tố cáo về công tác của Uỷ ban bầu cử, Ban bầu cử và Tổ bầu cử; xét và giải quyết khiếu nại, tố cáo về bầu cử do Uỷ ban bầu cử hoặc Ban bầu cử chuyển đến; xét và giải quyết khiếu nại, tố cáo về người ứng cử; xét và giải quyết khiếu nại về kết quả bầu cử;"
+ENTITY,E39_19,KHOAN,Khoản,structure,6812,6951,"9- Nhận và kiểm tra biên bản xác định kết quả bầu cử do Uỷ ban bầu cử, Ban bầu cử gửi đến; làm biên bản tổng kết cuộc bầu cử trong cả nước;"
+ENTITY,E39_20,KHOAN,Khoản,structure,6952,7046,"10- Xét và quyết định việc bầu cử lại, bầu cử thêm hoặc huỷ bỏ kết quả bầu cử ở đơn vị bầu cử;"
+ENTITY,E39_21,KHOAN,Khoản,structure,7047,7088,11- Công bố kết quả bầu cử trong cả nước;
+ENTITY,E39_22,KHOAN,Khoản,structure,7089,7135,12- Cấp giấy chứng nhận cho đại biểu trúng cử;
+ENTITY,E39_23,KHOAN,Khoản,structure,7136,7272,"13- Trình Uỷ ban thường vụ Quốc hội và Quốc hội khoá mới biên bản tổng kết cuộc bầu cử trong cả nước và những hồ sơ, tài liệu về bầu cử."
+ENTITY,E39_24,KHOAN,Khoản,structure,7784,7963,"1- Chỉ đạo việc chuẩn bị và tổ chức bầu cử ở các đơn vị bầu cử; kiểm tra, đôn đốc việc thi hành những quy định của pháp luật về bầu cử đại biểu Quốc hội của Ban bầu cử, Tổ bầu cử;"
+ENTITY,E39_25,KHOAN,Khoản,structure,7964,8050,"2- Chỉ đạo thực hiện công tác thông tin, tuyên truyền và vận động bầu cử ở địa phương;"
+ENTITY,E39_26,KHOAN,Khoản,structure,8051,8151,"3- Chỉ đạo thực hiện công tác bảo vệ an ninh, trật tự an toàn xã hội trong cuộc bầu cử ở địa phương;"
+ENTITY,E39_27,KHOAN,Khoản,structure,8152,8589,"4- Nhận và xem xét hồ sơ của người được tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, lực lượng vũ trang nhân dân, cơ quan nhà nước ở địa phương giới thiệu ứng cử đại biểu Quốc hội và hồ sơ của người tự ứng cử đại biểu Quốc hội; gửi danh sách trích ngang và tiểu sử tóm tắt của những người được giới thiệu ứng cử và những người tự ứng cử đến Ban thường trực Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương;"
+ENTITY,E39_28,KHOAN,Khoản,structure,8590,8672,5- In tài liệu bầu cử; in thẻ cử tri và phiếu bầu cử theo mẫu của Hội đồng bầu cử;
+ENTITY,E39_29,KHOAN,Khoản,structure,8673,8755,6- Lập danh sách những người ứng cử theo đơn vị bầu cử và báo cáo Hội đồng bầu cử;
+ENTITY,E39_30,KHOAN,Khoản,structure,8756,8806,7- Kiểm tra việc lập và niêm yết danh sách cử tri;
+ENTITY,E39_31,KHOAN,Khoản,structure,8807,9020,"8- Xét và giải quyết khiếu nại, tố cáo về công tác của Ban bầu cử, Tổ bầu cử; xét và giải quyết khiếu nại, tố cáo về bầu cử do Ban bầu cử, Tổ bầu cử chuyển đến; xét và giải quyết khiếu nại, tố cáo về người ứng cử;"
+ENTITY,E39_32,KHOAN,Khoản,structure,9021,9144,9- Nhận và kiểm tra biên bản xác định kết quả bầu cử của các Ban bầu cử; lập biên bản xác định kết quả bầu cử ở địa phương;
+ENTITY,E39_33,KHOAN,Khoản,structure,9145,9187,10- Thông báo kết quả bầu cử ở địa phương;
+ENTITY,E39_34,KHOAN,Khoản,structure,9188,9272,11- Báo cáo tình hình tổ chức và tiến hành bầu cử theo quy định của Hội đồng bầu cử;
+ENTITY,E39_35,KHOAN,Khoản,structure,9273,9344,"12- Chuyển hồ sơ, biên bản xác định kết quả bầu cử đến Hội đồng bầu cử;"
+ENTITY,E39_36,KHOAN,Khoản,structure,9345,9422,"13- Tổ chức việc bầu cử lại, bầu cử thêm theo quyết định của Hội đồng bầu cử."
+ENTITY,E39_37,KHOAN,Khoản,structure,9957,10065,"1- Kiểm tra, đôn đốc việc thi hành các quy định của pháp luật về bầu cử đại biểu Quốc hội của các Tổ bầu cử;"
+ENTITY,E39_38,KHOAN,Khoản,structure,10066,10118,"2- Kiểm tra, đơn đốc việc bố trí các phòng bỏ phiếu;"
+ENTITY,E39_39,KHOAN,Khoản,structure,10119,10169,3- Kiểm tra việc lập và niêm yết danh sách cử tri;
+ENTITY,E39_40,KHOAN,Khoản,structure,10170,10266,"4- Phân phối thẻ cử tri, phiếu bầu cử cho các Tổ bầu cử chậm nhất là năm ngày trước ngày bầu cử;"
+ENTITY,E39_41,KHOAN,Khoản,structure,10267,10328,5- Niêm yết danh sách những người ứng cử trong đơn vị bầu cử;
+ENTITY,E39_42,KHOAN,Khoản,structure,10329,10381,6- Kiểm tra công việc bầu cử tại các phòng bỏ phiếu;
+ENTITY,E39_43,KHOAN,Khoản,structure,10382,10575,"7- Nhận và kiểm tra biên bản kết quả kiểm phiếu do các Tổ bầu cử gửi đến; làm biên bản xác định kết quả bầu cử ở đơn vị bầu cử để gửi đến Hội đồng bẩu cử, Uỷ ban bầu cử và thông báo kết quả đó;"
+ENTITY,E39_44,KHOAN,Khoản,structure,10576,10713,"8- Nhận và chuyển đến Uỷ ban bầu cử khiếu nại, tố cáo về người ứng cử; xét và giải quyết khiếu nại, tố cáo về công tác của các Tổ bầu cử;"
+ENTITY,E39_45,KHOAN,Khoản,structure,10714,10814,9- Báo cáo tình hình tổ chức và tiến hành bầu cử theo quy định của Hội đồng bầu cử và Uỷ ban bầu cử;
+ENTITY,E39_46,KHOAN,Khoản,structure,10815,10908,"10- Giao hồ sơ, tài liệu về bầu cử cho Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương;"
+ENTITY,E39_47,KHOAN,Khoản,structure,10909,10950,"11- Tổ chức việc bầu cử lại, bầu cử thêm."
+ENTITY,E39_48,KHOAN,Khoản,structure,12117,12163,1- Tổ chức việc bầu cử trong khu vực bỏ phiếu;
+ENTITY,E39_49,KHOAN,Khoản,structure,12164,12211,2- Bố trí phòng bỏ phiếu và chuẩn bị hòm phiếu;
+ENTITY,E39_50,KHOAN,Khoản,structure,12212,12402,"3- Phát thẻ cử tri cho cử tri chậm nhất là hai ngày trước ngày bầu cử, trừ những trường hợp quy định tại khoản 2 Điều 23 của Luật này; phát phiếu bầu cử cho cử tri có đóng dấu của Tổ bầu cử;"
+ENTITY,E39_51,KHOAN,Khoản,structure,12403,12443,4- Bảo đảm trật tự trong phòng bỏ phiếu;
+ENTITY,E39_52,KHOAN,Khoản,structure,12444,12515,5- Kiểm phiếu và làm biên bản kết quả kiểm phiếu để gửi đến Ban bầu cử;
+ENTITY,E39_53,KHOAN,Khoản,structure,12516,12614,"6- Giao biên bản kết quả kiểm phiếu và toàn bộ phiếu bầu cho Uỷ ban nhân dân xã, phường, thị trấn;"
+ENTITY,E39_54,KHOAN,Khoản,structure,12615,12720,7- Báo cáo tình hình tổ chức và tiến hành bầu cử theo quy định của các tổ chức phụ trách bầu cử cấp trên;
+ENTITY,E39_55,KHOAN,Khoản,structure,12721,12771,"8- Tổ chức thực hiện việc bầu cử lại, bầu cử thêm."
+ENTITY,E39_56,KHOAN,Khoản,structure,14074,14294,"1- Người đang bị tước quyền bầu cử theo bản án, quyết định của Toà án đã có hiệu lực pháp luật, người đang phải chấp hành hình phạt tù, người đang bị tạm giam và người mất trí thì không được ghi tên vào danh sách cử tri."
+ENTITY,E39_57,KHOAN,Khoản,structure,14295,14586,"2- Người thuộc các trường hợp quy định tại khoản 1 Điều này nếu đến trước thời điểm bắt đầu bỏ phiếu hai mươi bốn giờ được khôi phục lại quyền bầu cử, được trả lại tự do hoặc được cơ quan có thẩm quyền xác nhận không còn mất trí thì được bổ sung vào danh sách cử tri và được phát thẻ cử tri."
+ENTITY,E39_58,KHOAN,Khoản,structure,14587,14859,"3- Người đã có tên trong danh sách cử tri mà đến thời điểm bắt đầu bỏ phiếu bị Toà án tước quyền bầu cử, phải chấp hành hình phạt tù, bị bắt tạm giam hoặc bị mất trí thì Uỷ ban nhân dân xã, phường, thị trấn xoá tên người đó trong danh sách cử tri và bị thu hồi thẻ cử tri."
+ENTITY,E39_59,KHOAN,Khoản,structure,17050,17249,"1- Công dân ứng cử đại biểu Quốc hội (người được giới thiệu ứng cử và người tự ứng cử) theo quy định của Luật này phải nộp hồ sơ ứng cử chậm nhất là sáu mươi ngày trước ngày bầu cử.
+Hồ sơ ứng cử gồm:"
+ENTITY,E39_60,KHOAN,Khoản,structure,17460,17867,"2- Người được tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, lực lượng vũ trang nhân dân, cơ quan nhà nước ở trung ương giới thiệu ứng cử thì nộp hồ sở tại Hội đồng bầu cử.
+Người được tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, lực lượng vũ trang nhân dân, cơ quan nhà nước ở địa phương giới thiệu ứng cử và người tự ứng cử thì nộp hồ sơ tại Uỷ ban bầu cử nơi mình ứng cử."
+ENTITY,E39_61,KHOAN,Khoản,structure,17868,18596,"3- Sau khi nhận và xem xét hồ sơ của những người ứng cử, nếu thấy hợp lệ theo quy định của Luật này thì Hội đồng bầu cử chuyển tiểu sử tóm tắt của những người được các tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, lực lương vũ trang nhân dân, cơ quan nhà nước ở trung ương giới thiệu đến Ban thường trực Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam; Uỷ ban bầu cử chuyển tiểu sử tóm tắt của những người được các tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, lực lượng vũ trang nhân dân, cơ quan nhà nước ở địa phương giới thiệu ứng cử và tiểu sử tóm tắt của những người tự ứng cử đến Ban thường trực Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương để đưa vào danh sách hiệp thương."
+ENTITY,E39_62,KHOAN,Khoản,structure,18662,18734,1- Người thuộc các trường hợp quy định tại khoản 1 Điều 23 của Luật này;
+ENTITY,E39_63,KHOAN,Khoản,structure,18735,18771,2- Người đang bị khởi tố về hình sự;
+ENTITY,E39_64,KHOAN,Khoản,structure,18772,18839,"3- Ngươi đang phải chấp hành bản án, quyết định hình sự của Toà án;"
+ENTITY,E39_65,KHOAN,Khoản,structure,18840,18928,"4- Người đã chấp hành xong bản án, quyết định hình sự của Toà án những chưa được xoá án;"
+ENTITY,E39_66,KHOAN,Khoản,structure,18929,19333,"5- Người đang chấp hành quyết định xử lý hành chính về giáo dục tại xã, phường, thị trấn, tại cơ sở giáo dục, cơ sở chữa bệnh hoặc đang bị quản chế hành chính.
+Những người đã có tên trong danh sách ứng cử đại biểu Quốc hội mà đến thời điểm bắt đầu bầu cử bị khởi tố về hình sự, bị bắt giữ vì phạm tội quả tang, bị mất trí thì Hội đồng bầu cử xoá tên trong danh sách những người ứng cử đại biểu Quốc hội.
+"
+ENTITY,E39_67,KHOAN,Khoản,structure,21848,22245,"1- Ban lãnh đạo tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội dự kiến người của tổ chức mình ứng cử đại biểu Quốc hội, tổ chức lấy ý kiến nhận xét của Hội nghị cử tri nơi người đó công tác. Trên cơ sở ý kiến của Hội nghị cử tri, Ban lãnh đạo tổ chức hội nghị Ban thường vụ mở rộng hoặc Đoàn Chủ tịch mở rộng để thảo luận, giới thiệu người của tổ chức mình ứng cử đại biểu Quốc hội;"
+ENTITY,E39_68,KHOAN,Khoản,structure,22246,22703,"2- ở cơ quan nhà nước thì Ban lãnh đạo cơ quan phối hợp với Ban chấp hành công đoàn cơ quan dự kiến người của cơ quan mình ứng cử đại biểu Quốc hội, tổ chức lấy ý kiến nhận xét của Hội nghị cử tri nơi người đó công tác. Trên cơ sở ý kiến của Hội nghị cử tri, Ban lãnh đạo cơ quan tổ chức hội nghị gồm lãnh đạo cơ quan, Ban chấp hành công đoàn, đại diện lãnh đạo các đơn vị trực thuộc để thảo luận, giới thiệu người của cơ quan mình ứng cử đại biểu Quốc hội;"
+ENTITY,E39_69,KHOAN,Khoản,structure,22704,23253,"3- ở đơn vị vũ trang nhân dân thì lãnh đạo, chỉ huy đơn vị dự kiến người của đơn vị mình ứng cử đại biểu Quốc hội, tổ chức lấy ý kiến nhận xét của Hội nghị cử tri nơi người đó công tác. Trên cơ sở ý kiến của Hội nghị cử tri, lãnh đạo, chỉ huy đơn vị tổ chức Hội nghị gồm lãnh đạo, chỉ huy đơn vị, đại diện Ban chấp hành công đoàn (nếu có), đại diện quân nhân và chỉ huy cấp dưới trực tiếp để thảo luận, giới thiệu người của đơn vị mình ứng cử đại biểu Quốc hội.
+Hội nghị cử tri nói tại điều này được tiến hành theo quy định tại Điều 39 của Luật này."
+ENTITY,E39_70,KHOAN,Khoản,structure,23379,23749,"1- Ban lãnh đạo tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội dự kiến người của tổ chức mình ứng cử đại biểu Quốc hội, tổ chức lấy ý kiến nhận xét của Hội nghị cử tri nơi người đó công tác. Trên cơ sở ý kiến của Hội nghị cử tri, Ban lãnh đạo tổ chức hội nghị Ban thường vụ mở rộng để thảo luận, giới thiệu người của tổ chức mình ứng cử đại biểu Quốc hội;"
+ENTITY,E39_71,KHOAN,Khoản,structure,23750,24207,"2- ở cơ quan nhà nước thì Ban lãnh đạo cơ quan phối hợp với ban chấp hành công đoàn cơ quan dự kiến người của cơ quan mình ứng cử đại biểu Quốc hội, tổ chức lấy ý kiến nhận xét của Hội nghị cử tri nơi người đó công tác. Trên cơ sở ý kiến của Hội nghị cử tri, Ban lãnh đạo cơ quan tổ chức hội nghị gồm lãnh đạo cơ quan, Ban chấp hành công đoàn, đại diện lãnh đạo các đơn vị trực thuộc để thảo luận, giới thiệu người của cơ quan mình ứng cử đại biểu Quốc hội;"
+ENTITY,E39_72,KHOAN,Khoản,structure,24208,24758,"3- ở đơn vị lực lượng vũ trang thì lãnh đạo, chỉ huy đơn vị dự kiến người của đơn vị mình ứng cử đại biểu Quốc hội, tổ chức lấy ý kiến nhận xét của Hội nghị cử tri nơi người đó công tác. Trên cơ sở ý kiến của Hội nghị cử tri, lãnh đạo, chỉ huy đơn vị tổ chức hội nghị gồm lãnh đạo, chỉ huy đơn vị, đại diện Ban chấp hành công đoàn (nếu có), đại diện quân nhân và chỉ huy cấp dưới trực tiếp để thảo luận, giới thiệu người của đơn vị mình ứng cử đại biểu Quốc hội.
+Hội nghị cử tri nói tại Điều này được tiến hành theo quy định tại Điều 39 của Luật này."
+ENTITY,E39_73,KHOAN,Khoản,structure,27225,27606,"1- Hội nghị cử tri ở xã, phường, thị trấn được tổ chức theo đơn vị thôn, xóm, tổ dân phố, buôn, bản, ấp nơi cư trú thường xuyên của người ứng cử do Ban thường trực Uỷ ban Mặt trận Tổ quốc xã, phường, thị trấn phối hợp với Uỷ ban nhân dân cùng cấp triệu tập và chủ trì.
+Người ứng cử đại biểu Quốc hội, đại diện cơ quan, tổ chức, đơn vị có người ứng cử được mời tham dự Hội nghị này."
+ENTITY,E39_74,KHOAN,Khoản,structure,27607,28030,"2- Hội nghị cử tri ở tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội do Ban lãnh đạo tổ chức triệu tập và chủ trì; Hội nghị cử tri ở cơ quan nhà nước do Ban lãnh đạo phối hợp với Ban chấp hành công đoàn cơ quan triệu tập và chủ trì; Hội nghị cử tri ở đơn vị vũ trang nhân dân là Hội nghị quân nhân do lãnh đạo, chỉ huy đơn vị triệu tập và chủ trì.
+Người ứng cử đại biểu Quốc hội được mời tham dự Hội nghị này."
+ENTITY,E39_75,KHOAN,Khoản,structure,28031,28672,"3- Tại các hội nghị quy định tại các khoản 1 và 2 Điều này, cử tri đối chiếu với tiêu chuẩn đại biểu Quốc hội nhận xét, bày tỏ sự tín nhiệm đối với người ứng cử đại biểu Quốc hội bằng cách giơ tay hoặc bỏ phiếu kín theo quyết định của Hội nghị.
+Biên bản Hội nghị cử tri lấy ý kiến về những người do cơ quan, tổ chức, đơn vị ở trung ương giới thiệu được gửi đến Ban thường trực Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam. Biên bản Hội nghị cử tri lấy ý kiến về những người do cơ quan, tổ chức, đơn vị ở địa phương giới thiệu và những người tự ứng cử được gửi đến Ban thường trực Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương."
+ENTITY,E39_76,KHOAN,Khoản,structure,28673,28833,4- Việc tổ chức Hội nghị cử tri quy định Điều này do Uỷ ban thường vụ Quốc hội phối hợp với Đoàn Chủ tịch Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam hướng dẫn.
+ENTITY,E39_77,KHOAN,Khoản,structure,28948,29554,"1- Đối với vụ việc ở nơi công tác thì cơ quan, tổ chức, đơn vị trực tiếp quản lý người ứng cử có trách nhiệm xác minh và trả lời bằng văn bản cho Ban thường trực Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam, Ban thường trực Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc Trung ương.
+Trường hợp người ứng cử là người đứng đầu cơ quan, tổ chức, đơn vị thì cơ quan cấp trên trực tiếp có trách nhiệm xác minh và trả lời. Nếu cơ quan, tổ chức, đơn vị không có cơ quan cấp trên trực tiếp quản lý thì cơ quan có thẩm quyền ra quyết định thành lập cơ quan, tổ chức, đơn vị đó có trách nhiệm xác minh và trả lời."
+ENTITY,E39_78,KHOAN,Khoản,structure,29555,29866,"2- Đối với vụ việc ở khu dân cư thì cơ quan, tổ chức, đơn vị giới thiệu người ứng cử phối hợp với Uỷ ban nhân dân xã, phường, thị trấn xác minh và trả lời bằng văn bản cho Ban thường trực Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam. Ban thường trực Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương."
+ENTITY,E39_79,KHOAN,Khoản,structure,29867,30154,"3- Đối với người tự ứng cử thì Uỷ ban bầu cử phối hợp với cơ quan, tổ chức, đơn vị trực tiếp quản lý người đó hoặc Uỷ ban nhân dân xã, phường, thị trấn nơi người đó cư trú xác minh và trả lời bằng văn bản cho Ban thường trực Uỷ ban Mặt trận Tổ quốc tỉnh, thành phố trực thuộc trung ương."
+ENTITY,E39_80,KHOAN,Khoản,structure,30155,30330,"4- Chậm nhất là bốn mươi ngày trước ngày bầu cử, việc xác minh và trả lời về các vụ việc mà cử tri nêu lên đối với người ứng cử quy định tại Điều này phải được tiến hành xong."
+ENTITY,E39_81,KHOAN,Khoản,structure,34129,34700,"1. Kể từ ngày công bố danh sách những người ứng cử, công dân có quyền khiếu nại, tố cáo về người ứng cử, khiếu nại, kiến nghị về những sai sót trong việc lập danh sách những người ứng cử với Ban bầu cử, Uỷ ban bầu cử, Hội đồng bầu cử. Ban bầu cử, Uỷ ban bầu cử, Hội đồng bầu cử phải ghi vào sổ và giải quyết khiếu nại, tố cáo, kiến nghị theo thẩm quyền.
+Trong trường hợp người khiếu nại, tố cáo, kiến nghị không đồng ý với kết quả giải quyết của Ban bầu cử, Uỷ ban bầu cử thì có quyền khiếu nại với Hội đồng bầu cử. Quyết định của Hội đồng bầu cử là quyết định cuối cùng."
+ENTITY,E39_82,KHOAN,Khoản,structure,34701,34913,"2. Trong thời hạn mười ngày trước ngày bầu cử, Hội đồng bầu cử, Uỷ ban bầu cử, Ban bầu cử ngưng việc xem xét, giải quyết mọi khiếu nại, tố cáo, kiến nghị về người ứng cử và việc lập danh sách những người ứng cử.
+"
+ENTITY,E39_83,KHOAN,Khoản,structure,38984,39035,1. Phiếu không theo mẫu quy định do Tổ bầu cử phát;
+ENTITY,E39_84,KHOAN,Khoản,structure,39036,39072,2. Phiếu không có dấu của Tổ bầu cử;
+ENTITY,E39_85,KHOAN,Khoản,structure,39073,39145,3. Phiếu để số người được bầu quá số đại biểu mà đơn vị bầu cử được bầu;
+ENTITY,E39_86,KHOAN,Khoản,structure,39146,39191,4. Phiếu gạch xoá hết tên những người ứng cử;
+ENTITY,E39_87,KHOAN,Khoản,structure,39192,39261,"5. Phiếu có ghi tên người ngoài danh sách ứng cử, phiếu có viết thêm."
+ENTITY,E39_88,KHOAN,Khoản,structure,45547,45689,1. Mọi khiếu nại về kết quả bầu cử phải được gửi đến Hội đồng bầu cử chậm nhất là mười ngày kể từ ngày Hội đồng bầu cử công bố kết quả bầu cử.
+ENTITY,E39_89,KHOAN,Khoản,structure,45690,45909,"2. Hội đồng bầu cử có trách nhiệm xem xét, giải quyết khiếu nại về kết quả bầu cử trong thời hạn ba mươi ngày kể từ ngày nhận được khiếu nại.
+Quyết định giải quyết khiếu nại của Hội đồng bầu cử là quyết định cuối cùng.
+"
+ENTITY,E40_1,DIEM,Điểm,structure,2646,2748,"a) Mỗi tỉnh, thành phố trực thuộc trung ương có ít nhất ba đại biểu cư trú và làm việc tại địa phương;"
+ENTITY,E40_2,DIEM,Điểm,structure,2749,2827,b) Số đại biểu tiếp theo được tính theo số dân và đặc điểm của mỗi địa phương;
+ENTITY,E40_3,DIEM,Điểm,structure,2828,2881,c) Thủ đô Hà Nội được phân bố số đại biểu thích đáng.
+ENTITY,E40_4,DIEM,Điểm,structure,17250,17268,a) Đơn xin ứng cử;
+ENTITY,E40_5,DIEM,Điểm,structure,17269,17418,"b) Sơ yếu lý lịch có chứng nhận của cơ quan, tổ chức, đơn vi nơi người đó công tác hoặc Uỷ ban nhân dân xã, phường, thị trấn nơi người đó thường trú;"
+ENTITY,E40_6,DIEM,Điểm,structure,17419,17459,c) Tiểu sử tóm tắt và ba ảnh mầu cỡ 4x6.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R4_1,BI_TAC_DONG_HIEU_LUC_TOAN_BO,Bị tác động hiệu lực toàn bộ,E2_1,E16_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_1,E38_3,,
+RELATION,R22_7,THUOC,Thuộc,E39_2,E38_3,,
+RELATION,R22_8,THUOC,Thuộc,E39_3,E38_3,,
+RELATION,R22_9,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,R22_10,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_11,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_12,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_13,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_14,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_15,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_16,THUOC,Thuộc,E39_6,E38_8,,
+RELATION,R22_17,THUOC,Thuộc,E39_7,E38_8,,
+RELATION,R22_18,THUOC,Thuộc,E40_1,E39_7,,
+RELATION,R22_19,THUOC,Thuộc,E40_2,E39_7,,
+RELATION,R22_20,THUOC,Thuộc,E40_3,E39_7,,
+RELATION,R22_21,THUOC,Thuộc,E39_8,E38_8,,
+RELATION,R22_22,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_23,THUOC,Thuộc,E39_9,E38_9,,
+RELATION,R22_24,THUOC,Thuộc,E39_10,E38_9,,
+RELATION,R22_25,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_26,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_27,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_28,THUOC,Thuộc,E38_13,E35_3,,
+RELATION,R22_29,THUOC,Thuộc,E38_14,E35_3,,
+RELATION,R22_30,THUOC,Thuộc,E39_11,E38_14,,
+RELATION,R22_31,THUOC,Thuộc,E39_12,E38_14,,
+RELATION,R22_32,THUOC,Thuộc,E39_13,E38_14,,
+RELATION,R22_33,THUOC,Thuộc,E39_14,E38_14,,
+RELATION,R22_34,THUOC,Thuộc,E39_15,E38_14,,
+RELATION,R22_35,THUOC,Thuộc,E39_16,E38_14,,
+RELATION,R22_36,THUOC,Thuộc,E39_17,E38_14,,
+RELATION,R22_37,THUOC,Thuộc,E39_18,E38_14,,
+RELATION,R22_38,THUOC,Thuộc,E39_19,E38_14,,
+RELATION,R22_39,THUOC,Thuộc,E39_20,E38_14,,
+RELATION,R22_40,THUOC,Thuộc,E39_21,E38_14,,
+RELATION,R22_41,THUOC,Thuộc,E39_22,E38_14,,
+RELATION,R22_42,THUOC,Thuộc,E39_23,E38_14,,
+RELATION,R22_43,THUOC,Thuộc,E38_15,E35_3,,
+RELATION,R22_44,THUOC,Thuộc,E39_24,E38_15,,
+RELATION,R22_45,THUOC,Thuộc,E39_25,E38_15,,
+RELATION,R22_46,THUOC,Thuộc,E39_26,E38_15,,
+RELATION,R22_47,THUOC,Thuộc,E39_27,E38_15,,
+RELATION,R22_48,THUOC,Thuộc,E39_28,E38_15,,
+RELATION,R22_49,THUOC,Thuộc,E39_29,E38_15,,
+RELATION,R22_50,THUOC,Thuộc,E39_30,E38_15,,
+RELATION,R22_51,THUOC,Thuộc,E39_31,E38_15,,
+RELATION,R22_52,THUOC,Thuộc,E39_32,E38_15,,
+RELATION,R22_53,THUOC,Thuộc,E39_33,E38_15,,
+RELATION,R22_54,THUOC,Thuộc,E39_34,E38_15,,
+RELATION,R22_55,THUOC,Thuộc,E39_35,E38_15,,
+RELATION,R22_56,THUOC,Thuộc,E39_36,E38_15,,
+RELATION,R22_57,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,R22_58,THUOC,Thuộc,E39_37,E38_16,,
+RELATION,R22_59,THUOC,Thuộc,E39_38,E38_16,,
+RELATION,R22_60,THUOC,Thuộc,E39_39,E38_16,,
+RELATION,R22_61,THUOC,Thuộc,E39_40,E38_16,,
+RELATION,R22_62,THUOC,Thuộc,E39_41,E38_16,,
+RELATION,R22_63,THUOC,Thuộc,E39_42,E38_16,,
+RELATION,R22_64,THUOC,Thuộc,E39_43,E38_16,,
+RELATION,R22_65,THUOC,Thuộc,E39_44,E38_16,,
+RELATION,R22_66,THUOC,Thuộc,E39_45,E38_16,,
+RELATION,R22_67,THUOC,Thuộc,E39_46,E38_16,,
+RELATION,R22_68,THUOC,Thuộc,E39_47,E38_16,,
+RELATION,R22_69,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,R22_70,THUOC,Thuộc,E39_48,E38_17,,
+RELATION,R22_71,THUOC,Thuộc,E39_49,E38_17,,
+RELATION,R22_72,THUOC,Thuộc,E39_50,E38_17,,
+RELATION,R22_73,THUOC,Thuộc,E39_51,E38_17,,
+RELATION,R22_74,THUOC,Thuộc,E39_52,E38_17,,
+RELATION,R22_75,THUOC,Thuộc,E39_53,E38_17,,
+RELATION,R22_76,THUOC,Thuộc,E39_54,E38_17,,
+RELATION,R22_77,THUOC,Thuộc,E39_55,E38_17,,
+RELATION,R22_78,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,R22_79,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,R22_80,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,R22_81,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,R22_82,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,R22_83,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_84,THUOC,Thuộc,E39_56,E38_23,,
+RELATION,R22_85,THUOC,Thuộc,E39_57,E38_23,,
+RELATION,R22_86,THUOC,Thuộc,E39_58,E38_23,,
+RELATION,R22_87,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,R22_88,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,R22_89,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_90,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,R22_91,THUOC,Thuộc,E36_1,E35_5,,
+RELATION,R22_92,THUOC,Thuộc,E38_28,E36_1,,
+RELATION,R22_93,THUOC,Thuộc,E39_59,E38_28,,
+RELATION,R22_94,THUOC,Thuộc,E40_4,E39_59,,
+RELATION,R22_95,THUOC,Thuộc,E40_5,E39_59,,
+RELATION,R22_96,THUOC,Thuộc,E40_6,E39_59,,
+RELATION,R22_97,THUOC,Thuộc,E39_60,E38_28,,
+RELATION,R22_98,THUOC,Thuộc,E39_61,E38_28,,
+RELATION,R22_99,THUOC,Thuộc,E38_29,E36_1,,
+RELATION,R22_100,THUOC,Thuộc,E39_62,E38_29,,
+RELATION,R22_101,THUOC,Thuộc,E39_63,E38_29,,
+RELATION,R22_102,THUOC,Thuộc,E39_64,E38_29,,
+RELATION,R22_103,THUOC,Thuộc,E39_65,E38_29,,
+RELATION,R22_104,THUOC,Thuộc,E39_66,E38_29,,
+RELATION,R22_105,THUOC,Thuộc,E36_2,E35_5,,
+RELATION,R22_106,THUOC,Thuộc,E38_30,E36_2,,
+RELATION,R22_107,THUOC,Thuộc,E38_31,E36_2,,
+RELATION,R22_108,THUOC,Thuộc,E38_32,E36_2,,
+RELATION,R22_109,THUOC,Thuộc,E38_33,E36_2,,
+RELATION,R22_110,THUOC,Thuộc,E38_34,E36_2,,
+RELATION,R22_111,THUOC,Thuộc,E39_67,E38_34,,
+RELATION,R22_112,THUOC,Thuộc,E39_68,E38_34,,
+RELATION,R22_113,THUOC,Thuộc,E39_69,E38_34,,
+RELATION,R22_114,THUOC,Thuộc,E38_35,E36_2,,
+RELATION,R22_115,THUOC,Thuộc,E39_70,E38_35,,
+RELATION,R22_116,THUOC,Thuộc,E39_71,E38_35,,
+RELATION,R22_117,THUOC,Thuộc,E39_72,E38_35,,
+RELATION,R22_118,THUOC,Thuộc,E38_36,E36_2,,
+RELATION,R22_119,THUOC,Thuộc,E38_37,E36_2,,
+RELATION,R22_120,THUOC,Thuộc,E38_38,E36_2,,
+RELATION,R22_121,THUOC,Thuộc,E38_39,E36_2,,
+RELATION,R22_122,THUOC,Thuộc,E39_73,E38_39,,
+RELATION,R22_123,THUOC,Thuộc,E39_74,E38_39,,
+RELATION,R22_124,THUOC,Thuộc,E39_75,E38_39,,
+RELATION,R22_125,THUOC,Thuộc,E39_76,E38_39,,
+RELATION,R22_126,THUOC,Thuộc,E38_40,E36_2,,
+RELATION,R22_127,THUOC,Thuộc,E39_77,E38_40,,
+RELATION,R22_128,THUOC,Thuộc,E39_78,E38_40,,
+RELATION,R22_129,THUOC,Thuộc,E39_79,E38_40,,
+RELATION,R22_130,THUOC,Thuộc,E39_80,E38_40,,
+RELATION,R22_131,THUOC,Thuộc,E38_41,E36_2,,
+RELATION,R22_132,THUOC,Thuộc,E38_42,E36_2,,
+RELATION,R22_133,THUOC,Thuộc,E38_43,E36_2,,
+RELATION,R22_134,THUOC,Thuộc,E36_3,E35_5,,
+RELATION,R22_135,THUOC,Thuộc,E38_44,E36_3,,
+RELATION,R22_136,THUOC,Thuộc,E38_45,E36_3,,
+RELATION,R22_137,THUOC,Thuộc,E38_46,E36_3,,
+RELATION,R22_138,THUOC,Thuộc,E38_47,E36_3,,
+RELATION,R22_139,THUOC,Thuộc,E38_48,E36_3,,
+RELATION,R22_140,THUOC,Thuộc,E38_49,E36_3,,
+RELATION,R22_141,THUOC,Thuộc,E39_81,E38_49,,
+RELATION,R22_142,THUOC,Thuộc,E39_82,E38_49,,
+RELATION,R22_143,THUOC,Thuộc,E36_4,E35_5,,
+RELATION,R22_144,THUOC,Thuộc,E38_50,E36_4,,
+RELATION,R22_145,THUOC,Thuộc,E38_51,E36_4,,
+RELATION,R22_146,THUOC,Thuộc,E38_52,E36_4,,
+RELATION,R22_147,THUOC,Thuộc,E38_53,E36_4,,
+RELATION,R22_148,THUOC,Thuộc,E36_5,E35_6,,
+RELATION,R22_149,THUOC,Thuộc,E38_54,E36_5,,
+RELATION,R22_150,THUOC,Thuộc,E38_55,E36_5,,
+RELATION,R22_151,THUOC,Thuộc,E38_56,E36_5,,
+RELATION,R22_152,THUOC,Thuộc,E36_6,E35_6,,
+RELATION,R22_153,THUOC,Thuộc,E38_57,E36_6,,
+RELATION,R22_154,THUOC,Thuộc,E38_58,E36_6,,
+RELATION,R22_155,THUOC,Thuộc,E38_59,E36_6,,
+RELATION,R22_156,THUOC,Thuộc,E38_60,E36_6,,
+RELATION,R22_157,THUOC,Thuộc,E38_61,E36_6,,
+RELATION,R22_158,THUOC,Thuộc,E38_62,E36_6,,
+RELATION,R22_159,THUOC,Thuộc,E38_63,E36_6,,
+RELATION,R22_160,THUOC,Thuộc,E36_7,E35_7,,
+RELATION,R22_161,THUOC,Thuộc,E38_64,E36_7,,
+RELATION,R22_162,THUOC,Thuộc,E38_65,E36_7,,
+RELATION,R22_163,THUOC,Thuộc,E39_83,E38_65,,
+RELATION,R22_164,THUOC,Thuộc,E39_84,E38_65,,
+RELATION,R22_165,THUOC,Thuộc,E39_85,E38_65,,
+RELATION,R22_166,THUOC,Thuộc,E39_86,E38_65,,
+RELATION,R22_167,THUOC,Thuộc,E39_87,E38_65,,
+RELATION,R22_168,THUOC,Thuộc,E38_66,E36_7,,
+RELATION,R22_169,THUOC,Thuộc,E38_67,E36_7,,
+RELATION,R22_170,THUOC,Thuộc,E38_68,E36_7,,
+RELATION,R22_171,THUOC,Thuộc,E36_8,E35_7,,
+RELATION,R22_172,THUOC,Thuộc,E38_69,E36_8,,
+RELATION,R22_173,THUOC,Thuộc,E38_70,E36_8,,
+RELATION,R22_174,THUOC,Thuộc,E36_9,E35_7,,
+RELATION,R22_175,THUOC,Thuộc,E38_71,E36_9,,
+RELATION,R22_176,THUOC,Thuộc,E38_72,E36_9,,
+RELATION,R22_177,THUOC,Thuộc,E38_73,E36_9,,
+RELATION,R22_178,THUOC,Thuộc,E38_74,E36_9,,
+RELATION,R22_179,THUOC,Thuộc,E36_10,E35_7,,
+RELATION,R22_180,THUOC,Thuộc,E38_75,E36_10,,
+RELATION,R22_181,THUOC,Thuộc,E38_76,E36_10,,
+RELATION,R22_182,THUOC,Thuộc,E38_77,E36_10,,
+RELATION,R22_183,THUOC,Thuộc,E36_11,E35_7,,
+RELATION,R22_184,THUOC,Thuộc,E38_78,E36_11,,
+RELATION,R22_185,THUOC,Thuộc,E39_88,E38_78,,
+RELATION,R22_186,THUOC,Thuộc,E39_89,E38_78,,
+RELATION,R22_187,THUOC,Thuộc,E38_79,E35_8,,
+RELATION,R22_188,THUOC,Thuộc,E38_80,E35_8,,
+RELATION,R22_189,THUOC,Thuộc,E38_81,E35_8,,
+RELATION,R22_190,THUOC,Thuộc,E38_82,E35_8,,
+RELATION,R22_191,THUOC,Thuộc,E38_83,E35_8,,
+RELATION,R22_192,THUOC,Thuộc,E38_84,E35_8,,
+RELATION,R22_193,THUOC,Thuộc,E38_85,E35_8,,
+RELATION,R22_194,THUOC,Thuộc,E38_86,E35_8,,
+RELATION,R22_195,THUOC,Thuộc,E38_87,E35_9,,
+RELATION,R22_196,THUOC,Thuộc,E38_88,E35_9,,
+RELATION,R22_197,THUOC,Thuộc,E38_89,E35_10,,
+RELATION,R22_198,THUOC,Thuộc,E38_90,E35_10,,

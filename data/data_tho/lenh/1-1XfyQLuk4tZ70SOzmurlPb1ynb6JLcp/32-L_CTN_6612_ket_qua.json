@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "document_id": "6612",
+  "document_code": "32-L/CTN",
+  "file_name": "32-L_CTN_6612.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 32-L/CTN Công bố Pháp lệnh bảo vệ công trình quốc phòng và khu quân sự",
+    "so_hieu": "32-L/CTN",
+    "loai_van_ban": "Lệnh",
+    "nganh": "Quốc phòng",
+    "linh_vuc": "Chưa phân loại",
+    "ngay_ban_hanh": "1994-06-03",
+    "ngay_co_hieu_luc": "ngày 19 tháng 5 năm 1994",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "co_quan_ban_hanh": "Chủ tịch nước",
+    "chuc_danh": "Chủ tịch nước",
+    "nguoi_ky": "Lê Đức Anh"
+  },
+  "full_text": "Lệnh số 32-L/CTN Công bố Pháp lệnh bảo vệ công trình quốc phòng và khu quân sự\nUỶ BAN THƯỜNG VỤ QUỐC HỘI\n-----\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n-------\nSố: 32-L/CTN\nHà Nội, ngày 19 tháng 5 năm 1994\nLỆNH\nCông bố Pháp lệnh bảo vệ công trình quốc phòng và khu quân sự\n__________________________\nCHỦ TỊCH\nNƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ vào Điều 103 và Điều 106 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992;\nCăn cứ vào Điều 78 của Luật tổ chức Quốc hội;\nNAY CÔNG BỐ :\nPháp lệnh bảo vệ công trình quốc phòng và khu quân sự đã được Uỷ ban thường vụ Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá IX thông qua ngày 19 tháng 5 năm 1994./.\nCHỦ TỊCH NƯỚC\n(Đã ký)\nLê Đức Anh\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày ban hành]: 1994-06-03\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 66-LCT/HĐNN8\n[Căn cứ ban hành]: Hiến pháp năm 1992\n[Văn bản áp dụng]: Quyết định số 20/2022/QĐ-UBND Ban hành Quy định khu vực bảo vệ; khu vực cấm tập trung đông người, cấm ghi âm, ghi hình, chụp ảnh trên địa bàn tỉnh Bình Thuận\n[Văn bản áp dụng]: Quyết định số 05/2023/QĐ-UBND Ban hành Quỵ định khu vực bảo vệ, khu vực cấm tập trung đông người, khu vực cấm ghi âm, ghi hình, chụp ảnh trên địa bàn tỉnh Thái Bình\n[Văn bản được dẫn chiếu]: Pháp lệnh số 32-L/CTN Bảo vệ công trình quốc phòng và khu quân sự\n[Văn bản thay thế]: Luật Quản lý, bảo vệ công trình quốc phòng và khu quân sự số 25/2023/QH15",
+  "structural_units": [
+    {
+      "id": "unit_preamble",
+      "type": "PREAMBLE",
+      "title": "Phần mở đầu và Căn cứ ban hành",
+      "start": 0,
+      "end": 733,
+      "parent_id": null
+    }
+  ],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 78,
+      "text": "Lệnh số 32-L/CTN Công bố Pháp lệnh bảo vệ công trình quốc phòng và khu quân sự",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 16,
+      "text": "32-L/CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E4_1",
+      "start": 53,
+      "end": 63,
+      "text": "quốc phòng",
+      "code": "NGANH",
+      "label": "Ngành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 830,
+      "end": 840,
+      "text": "1994-06-03",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 798,
+      "end": 812,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 203,
+      "end": 227,
+      "text": "ngày 19 tháng 5 năm 1994",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 864,
+      "end": 876,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 701,
+      "end": 714,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 701,
+      "end": 714,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 723,
+      "end": 733,
+      "text": "Lê Đức Anh",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E19_1",
+      "start": 896,
+      "end": 933,
+      "text": "Luật Tổ chức Quốc hội số 66-LCT/HĐNN8",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 953,
+      "end": 971,
+      "text": "Hiến pháp năm 1992",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_1",
+      "start": 991,
+      "end": 1148,
+      "text": "Quyết định số 20/2022/QĐ-UBND Ban hành Quy định khu vực bảo vệ; khu vực cấm tập trung đông người, cấm ghi âm, ghi hình, chụp ảnh trên địa bàn tỉnh Bình Thuận",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_2",
+      "start": 1168,
+      "end": 1332,
+      "text": "Quyết định số 05/2023/QĐ-UBND Ban hành Quỵ định khu vực bảo vệ, khu vực cấm tập trung đông người, khu vực cấm ghi âm, ghi hình, chụp ảnh trên địa bàn tỉnh Thái Bình",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    },
+    {
+      "id": "E18_1",
+      "start": 1359,
+      "end": 1424,
+      "text": "Pháp lệnh số 32-L/CTN Bảo vệ công trình quốc phòng và khu quân sự",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E43_1",
+      "start": 1445,
+      "end": 1518,
+      "text": "Luật Quản lý, bảo vệ công trình quốc phòng và khu quân sự số 25/2023/QH15",
+      "code": "VB_THAY_THE",
+      "label": "Văn bản thay thế",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "RCAN_CU_BAN_HANH_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "RCAN_CU_BAN_HANH_2",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "RAP_DUNG_1",
+      "from_id": "E30_1",
+      "to_id": "E2_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "RAP_DUNG_2",
+      "from_id": "E30_2",
+      "to_id": "E2_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "RDUOC_DAN_CHIEU_1",
+      "from_id": "E18_1",
+      "to_id": "E2_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "RTHAY_THE_1",
+      "from_id": "E43_1",
+      "to_id": "E2_1",
+      "code": "THAY_THE",
+      "label": "Thay thế"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": [],
+    "annotation_status": "silver_automated_not_gold",
+    "source_vbpl_item_id": "6612",
+    "source_folder": "32-L_CTN_6612",
+    "source_data_url": "https://vbpl.vn/van-ban/chi-tiet/lenh-so-32-l-ctn-cong-bo-phap-lenh-bao-ve-cong-trinh-quoc-phong-va-khu-quan-su--6612",
+    "vbpl_relation_provenance": [
+      {
+        "source_label": "Căn cứ ban hành",
+        "original_direction": "outgoing",
+        "other_document_id": "11232",
+        "other_title": "Luật Tổ chức Quốc hội số 66-LCT/HĐNN8",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/11232"
+      },
+      {
+        "source_label": "Căn cứ ban hành",
+        "original_direction": "outgoing",
+        "other_document_id": "11234",
+        "other_title": "Hiến pháp năm 1992",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/11234"
+      },
+      {
+        "source_label": "Văn bản áp dụng",
+        "original_direction": "incoming",
+        "other_document_id": "154949",
+        "other_title": "Quyết định số 20/2022/QĐ-UBND Ban hành Quy định khu vực bảo vệ; khu vực cấm tập trung đông người, cấm ghi âm, ghi hình, chụp ảnh trên địa bàn tỉnh Bình Thuận",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/154949"
+      },
+      {
+        "source_label": "Văn bản áp dụng",
+        "original_direction": "incoming",
+        "other_document_id": "160100",
+        "other_title": "Quyết định số 05/2023/QĐ-UBND Ban hành Quỵ định khu vực bảo vệ, khu vực cấm tập trung đông người, khu vực cấm ghi âm, ghi hình, chụp ảnh trên địa bàn tỉnh Thái Bình",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/160100"
+      },
+      {
+        "source_label": "Văn bản được dẫn chiếu",
+        "original_direction": "outgoing",
+        "other_document_id": "10430",
+        "other_title": "Pháp lệnh số 32-L/CTN Bảo vệ công trình quốc phòng và khu quân sự",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/10430"
+      },
+      {
+        "source_label": "Văn bản thay thế",
+        "original_direction": "incoming",
+        "other_document_id": "169571",
+        "other_title": "Luật Quản lý, bảo vệ công trình quốc phòng và khu quân sự số 25/2023/QH15",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/169571"
+      }
+    ],
+    "generation_notes": []
+  }
+}

@@ -1,0 +1,526 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,24,Luật Đất đai số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,16,24,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,30808,30833,ngày 29 tháng 12 năm 1987
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,30899,30913,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,30934,30944,1987-12-29
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,30966,30976,1993-10-15
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,31000,31020,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,31041,31049,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,31063,31080,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,31093,31105,Lê Quang Đạo
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,31252,31270,Hiến pháp năm 1980
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,31170,31197,Bộ luật Hình sự số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,31125,31143,Hiến pháp năm 1980
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,31320,31414,Thông tư liên tịch số 07/LB-TT Hướng dẫn việc sản xuất gạch ngói nung nhằm bảo vệ đất canh tác
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,31464,31582,Quyết định số 72/QĐ-QLXĐT Về việc trợ cấp cho cán bộ công nhân viên chức trong biên chế Nhà nước xin cấp đất làm nhà ở
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,35983,36007,Luật Đất đai số Không số
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31604,31702,Nghị định số 53/2017/NĐ-CP Quy định các loại giấy tờ hợp pháp về đất đai để cấp giấy phép xây dựng
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31724,31755,Pháp lệnh số 51-LCT/HĐNN8 Nhà ở
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31777,31845,"Pháp lệnh số Không số Sửa đổi, bổ sung Pháp lệnh về Thuế Nông nghiệp"
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31867,32011,"Thông tư liên tịch số 05/2005/TTLT-BTP-BTNMT Thông tư hướng dẫn việc đăng ký thế chấp, bảo lãnh bằng quyền sử dụng đất, tài sản gắn liền với đất"
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32033,32180,"Thông tư số 91 TC/QLCS hướng dẫn thực hiện đền bù, hỗ trợ để giải phóng mặt bằng phục vụ việc khôi phục quốc lộ i đoạn tp hồ chí minh đến nha trang"
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32202,32316,Quyết định số 11/2011/QĐ-UBND Công bố bộ thủ tục hành chính cấp tỉnh thuộc Ban quản lý Khu kinh tế tỉnh Bình Phước
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32338,32426,"Nghị định số 164/2004/NĐ-CP Về kê biên, đấu giá quyền sử dụng đất để bảo đảm thi hành án"
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32448,32595,"Quyết định số 499/2010/QĐ-UBND Về việc ban hành Quy định về bồi thường, hỗ trợ và tái định cư khi Nhà nước thu hồi đất trên địa bàn tỉnh Quảng Ninh"
+ENTITY,E29_9,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32617,32659,Luật Bảo vệ và phát triển rừng số Không số
+ENTITY,E29_10,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32681,32746,Chỉ thị số 42/CT-UB V/v tăng cường chỉ đạo thực hiện Luật đất đai
+ENTITY,E29_11,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32768,32815,Pháp lệnh số 22-LCT/HĐNN8 Tài nguyên khoáng sản
+ENTITY,E29_12,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32837,32975,"Thông tư liên tịch số 04/2006/TTLT-BTP-BTNMT Hướng dẫn việc công chứng, chứng thực hợp đồng, văn bản thực hiện quyền của người sử dụng đất"
+ENTITY,E29_13,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32997,33285,"Thông tư liên tịch số 15/2013/TTLT-BTP-BGTVT-BTNMT-BCA Hướng dẫn việc trao đổi, cung cấp thông tin về tài sản bảo đảm giữa cơ quan đăng ký giao dịch bảo đảm với tổ chức hành nghề công chứng, cơ quan thi hành án dân sự và cơ quan đăng ký quyền sở hữu, quyền sử dụng, quyền lưu hành tài sản"
+ENTITY,E29_14,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33307,33427,"Thông tư liên tịch số 20/2011/TTLT-BTP-BTNMT Hướng dẫn việc đăng ký thế chấp quyền sử dụng đất, tài sản gắn liền với đất"
+ENTITY,E29_15,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33449,33737,"Thông tư liên tịch số 03/2006/TTLT-BTP-BTNMT Sửa đổi, bổ sung một số quy định của Thông tư liên tịch số 05/2005/TTLT-BTP-BTNMT ngày 16 tháng 6 năm 2005 của Bộ Tư pháp và Bộ Tài nguyên và Môi trường hướng dẫn việc đăng ký thế chấp, bảo lãnh bằng quyền sử dụng đất, tài sản gắn liền với đất"
+ENTITY,E29_16,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33759,33880,"Quyết định số 708/2006/QĐ-UBND Ban hành Quy định về việc cấp giấy chứng nhận quyền sử dụng đất ở cho hộ gia đình, cá nhân"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,33900,33980,Quyết định số 490-QĐ Công nhận 30 di tích lịch sử văn hoá và danh lam thắng cảnh
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,34000,34110,Quyết định số 260/QĐ-UB Về việc ban hành Bản quy định tạm thời về giải quyết tranh chấp đất đai tại thành phố.
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,34130,34328,"Quyết định số 810/QĐ-UB Về việc phê duyệt đơn giá đền bù vật kiến trúc khi thu hồi đất, giải phóng mặt bằng thực hiện Dự án đầu tư phát triển hạ tầng kỹ thuật Khu đô thị mới Ngã Năm - Sân bay Cát Bi"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,34348,34486,Quyết định số 225/QĐ-UB Về việc uỷ quyền cho Trưởng Ban quản lý ruộng đất TP cấp giấy chứng nhận quyền sử dụng đất trên địa bàn thành phố.
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,34506,34657,"Quyết định số 750 QĐ/UB Cho phép hợp thức hóa quyền sử dụng đất và quyền sở hữu nhà cửa trong đô thị (Nội thành, thị xã, thị trấn và trục đường ven đô)"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,34677,34767,Quyết định số 34-VH/QĐ Về việc công nhận 58 di tích lịch sử văn hoá và danh lam thắng cảnh
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,34787,34869,Quyết định số 734-QĐ/BT Công nhận 9 di tích lịch sử văn hoá và danh lam thắng cảnh
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,34889,35053,Quyết định số 263/QĐ-UB Ban hành quy định về phương thức và đơn giá đền bù thiệt hại phục vụ việc giải phóng mặt bằng giao đất cho khu công nghiệp NOMURA - HAIPHONG
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,35073,35244,Quyết định số 811/QĐ-UB Về việc Hỗ trợ các hộ nông dân có đất nông nghiệp bị thu hồi thuộc Dự án đầu tư phát triển hạ tầng kỹ thuật Khu đô thị mới Ngã Năm - sân bay Cát Bi
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,35264,35358,Thông tư liên tịch số 07/LB-TT Hướng dẫn việc sản xuất gạch ngói nung nhằm bảo vệ đất canh tác
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,35378,35460,Quyết định số 393/QĐ-UB Về việc ban hành bảng trị giá đất để tính lệ phí trước bạ.
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,35480,35584,Quyết định số 187/QĐ-UB Về việc quy định mức giá cấp quyền sử dụng đất tại thị trấn Cát Bà huyện Cát Hải
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,35604,35687,Quyết định số 776-QĐ/BT Công nhận 11 di tích lịch sử văn hoá và danh lam thắng cảnh
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,35707,35796,Quyết định số 201-QĐ/ĐKTK Về việc ban hành Quy định cấp giấy chứng nhận quyền sử dụng đất
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,35816,35933,Quyết định số 239/QĐ-UB Về việc ban hành quy định tạm thời về thu tiền sử dụng đất khi chuyển sang mục đích xây dựng.
+ENTITY,E35_1,CHUONG,Chương,structure,1080,1088,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,4166,4175,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,13989,13999,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,28095,28104,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,28770,28778,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,30524,30533,CHƯƠNG VI
+ENTITY,E36_1,MUC,Mục,structure,14028,14033,MỤC I
+ENTITY,E36_2,MUC,Mục,structure,19578,19583,MỤC 2
+ENTITY,E36_3,MUC,Mục,structure,21366,21371,MỤC 3
+ENTITY,E36_4,MUC,Mục,structure,25877,25882,MỤC 4
+ENTITY,E36_5,MUC,Mục,structure,26231,26236,MỤC 5
+ENTITY,E38_1,DIEU,Điều,structure,1110,1575,"Điều 1
+Đất đai thuộc sở hữu toàn dân, do Nhà nước thống nhất quản lý.
+Nhà nước giao đất cho các nông trường, lâm trường, hợp tác xã, tập đoàn sản xuất nông nghiệp, lâm nghiệp, xí nghiệp, đơn vị vũ trang nhân dân, cơ quan nhà nước, tổ chức xã hội và cá nhân-dưới đây gọi là người sử dụng đất-để sử dụng ổn định, lâu dài.
+Nhà nước còn giao đất để sử dụng có thời hạn hoặc tạm thời.
+Người đang sử dụng đất đai hợp pháp được tiếp tục sử dụng theo quy định của Luật này."
+ENTITY,E38_2,DIEU,Điều,structure,1576,1970,"Điều 2
+Nhà nước khuyến khích đầu tư lao động, vật tư, tiền vốn và áp dụng các thành tựu khoa học - kỹ thuật vào việc:
+- Thâm canh, tăng vụ, nâng cao hiệu quả kinh tế của việc sử dụng đất;
+- Khai hoang, vỡ hoá, lấn biển, phủ xanh đất trống đồi núi trọc để mở rộng diện tích đất sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thuỷ sản và làm muối;
+- Bảo vệ, cải tạo đất, làm tăng độ mầu mỡ của đất."
+ENTITY,E38_3,DIEU,Điều,structure,1971,2273,"Điều 3
+Nhà nước bảo đảm cho người sử dụng đất được hưởng những quyền lợi hợp pháp trên đất được giao, kể cả quyền chuyển, nhượng, bán thành quả lao động, kết quả đầu tư trên đất được giao khi không còn sử dụng đất và đất đó được giao cho người khác sử dụng theo trình tự, thủ tục do pháp luật quy định."
+ENTITY,E38_4,DIEU,Điều,structure,2274,2495,"Điều 4
+Mọi người sử dụng đất có trách nhiệm thực hiện các chính sách của Nhà nước nhằm bảo vệ, cải tạo, bồi bổ và sử dụng đất đai hợp lý, tiết kiệm.
+Người sử dụng đất phải nộp thuế sử dụng đất theo quy định của pháp luật."
+ENTITY,E38_5,DIEU,Điều,structure,2496,2737,"Điều 5
+Nghiêm cấm việc mua, bán, lấn, chiếm đất đai, phát canh thu tô dưới mọi hình thức, nhận đất được giao mà không sử dụng, sử dụng không đúng mục đích, tự tiện sử dụng đất nông nghiệp, đất có rừng vào mục đích khác, làm huỷ hoại đất đai."
+ENTITY,E38_6,DIEU,Điều,structure,2738,3461,"Điều 6
+Quốc hội thực hiện quyền quyết định, quyền giám sát tối cao đối với việc quản lý và sử dụng đất đai trong cả nước.
+Hội đồng bộ trưởng thực hiện quyền quản lý Nhà nước đối với việc sử dụng, bảo vệ và cải tạo đất đai.
+Hội đồng nhân dân, Uỷ ban nhân dân các cấp thực hiện việc quản lý Nhà nước đối với đất đai trong địa phương mình theo thẩm quyền được quy định trong Luật này.
+Thủ trưởng các ngành trong phạm vi quyền hạn và trách nhiệm của mình tổ chức và quản lý việc sử dụng đất đai do Nhà nước giao cho các tổ chức thuộc ngành mình sử dụng.
+Cơ quan quản lý đất đai ở Trung ương và địa phương có nhiệm vụ giúp Hội đồng bộ trưởng và Uỷ ban nhân dân các cấp thực hiện việc thống nhất quản lý Nhà nước đối với đất đai."
+ENTITY,E38_7,DIEU,Điều,structure,3462,3980,"Điều 7
+Mặt trận Tổ quốc, Công đoàn, Hội nông dân tập thể, Đoàn thanh niên Cộng sản Hồ Chí Minh, Hội liên hiệp phụ nữ, các hội khoa học và các tổ chức xã hội khác cũng như mọi công dân đều có nhiệm vụ hỗ trợ các cơ quan Nhà nước trong việc thực hiện các biện pháp nhằm bảo vệ và sử dụng đất đai hợp lý, tiết kiệm.
+Các cơ quan Nhà nước trong phạm vi nhiệm vụ và quyền hạn của mình có trách nhiệm xem xét đầy đủ các kiến nghị của các tổ chức xã hội và cá nhân trong việc thực hiện các biện pháp bảo vệ và sử dụng đất đai."
+ENTITY,E38_8,DIEU,Điều,structure,3981,4066,"Điều 8
+Căn cứ vào mục đích sử dụng chủ yếu, đất đai được phân thành các loại sau đây:"
+ENTITY,E38_9,DIEU,Điều,structure,4199,4252,"Điều 9
+Việc quản lý Nhà nước đối với đất đai bao gồm:"
+ENTITY,E38_10,DIEU,Điều,structure,4721,5042,"Điều 10
+Dưới sự chỉ đạo thống nhất của Hội đồng bộ trưởng, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương tổ chức, chỉ đạo Uỷ ban nhân huyện, quận, thị xã, thành phố thuộc tỉnh điều tra, khảo sát, đo đạc, phân hạng đất đai, lập bản đồ địa chính xã và đơn vị hành chính tương đương."
+ENTITY,E38_11,DIEU,Điều,structure,5043,5050,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,6264,6335,"Điều 12
+Việc quyết định giao đất phải tuân theo những quy định sau đây:"
+ENTITY,E38_13,DIEU,Điều,structure,6977,6984,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,9383,9481,"Điều 14
+Nhà nước thu hồi toàn bộ hoặc một phần đất đã giao sử dụng trong những trường hợp sau đây:"
+ENTITY,E38_15,DIEU,Điều,structure,10091,10438,"Điều 15
+Cơ quan Nhà nước có thẩm quyền quyết định giao đất nào thì có quyền thu hồi đất đó.
+Trong trường hợp có nhu cầu khẩn cấp của chiến tranh hoặc chống thiên tai thì việc thu hồi đất do Uỷ ban nhân dân cấp huyện, quận, thị xã, thành phố thuộc tỉnh trở lên quyết định theo đề nghị của cơ quan chỉ huy quân sự hoặc cơ quan chỉ huy chống bão lụt."
+ENTITY,E38_16,DIEU,Điều,structure,10439,10524,"Điều 16
+Việc chuyển quyền sử dụng đất đai chỉ thực hiện trong các trường hợp sau đây:"
+ENTITY,E38_17,DIEU,Điều,structure,11058,11287,"Điều 17
+Người được thừa kế nhà ở hoặc người chưa có chỗ ở, khi được người khác chuyển nhượng nhà để ở, sau khi được cơ quan Nhà nước có thẩm quyền công nhận quyền sở hữu đối với nhà ở, thì được quyền sử dụng đất ở có ngôi nhà đó."
+ENTITY,E38_18,DIEU,Điều,structure,11288,11295,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,11841,11993,"Điều 19
+Hội đồng bộ trưởng định kỳ tổ chức việc thống kê đất đai về số lượng và chất lượng để phục vụ kịp thời cho các yêu cầu quản lý, sử dụng đất đai."
+ENTITY,E38_20,DIEU,Điều,structure,11994,12325,"Điều 20
+Hội đồng bộ trưởng và Uỷ ban nhân dân các cấp tổ chức việc thanh tra đất đai trong địa phận quản lý của mình.
+Cơ quan quản lý đất đai ở trung ương và địa phương giúp Hội đồng bộ trưởng và Uỷ ban nhân dân các cấp thực hiện thanh tra đất đai.
+Khi thực hiện việc thanh tra đất đai, đoàn thanh tra hoặc thanh tra viên có quyền:"
+ENTITY,E38_21,DIEU,Điều,structure,12589,12715,"Điều 21
+Các tranh chấp về quyền sử dụng đất đai do Uỷ ban nhân nơi có đất đai bị tranh chấp giải quyết theo quy định dưới đây:"
+ENTITY,E38_22,DIEU,Điều,structure,13807,13989,"Điều 22
+Khi giải quyết tranh chấp về nhà ở, vật kiến trúc khác hoặc cây lâu năm thì Toà án nhân dân giải quyết cả quyền sử dụng đất có nhà ở, vật kiến trúc khác hoặc cây lâu năm đó.
+"
+ENTITY,E38_23,DIEU,Điều,structure,14066,14254,"Điều 23
+Đất nông nghiệp là đất được xác định chủ yếu dùng vào sản xuất nông nghiệp như trồng trọt, chăn nuôi, kể cả nuôi trồng thuỷ sản hoặc nghiên cứu thí nghiệm về trồng trọt, chăn nuôi."
+ENTITY,E38_24,DIEU,Điều,structure,14255,14305,"Điều 24
+Người sử dụng đất nông nghiệp có nghĩa vụ:"
+ENTITY,E38_25,DIEU,Điều,structure,14528,14805,"Điều 25
+Đất lâm nghiệp là đất được xác chủ yếu dùng vào sản xuất lâm nghiệp như trồng rừng, khai thác rừng, khoanh nuôi, tu bổ, cải tạo rừng, nghiên cứu thí nghiệm về lâm nghiệp; đất rừng cấm, vườn quốc gia; đất trồng rừng để phòng hộ đầu nguồn, bảo vệ đất, cải tạo môi trường."
+ENTITY,E38_26,DIEU,Điều,structure,14806,14855,"Điều 26
+Người sử dụng đất lâm nghiệp có nghĩa vụ:"
+ENTITY,E38_27,DIEU,Điều,structure,15173,15223,"Điều 27
+Đất làm kinh tế gia đình quy định như sau:"
+ENTITY,E38_28,DIEU,Điều,structure,16252,16788,"Điều 28
+Đất sản xuất của nông dân cá thể quy định như sau:
+Các hộ nông dân cá thể được Nhà nước giao đất ổn định, lâu dài để sản xuất nông nghiệp, lâm nghiệp trên cơ sở đất đai đang sử dụng.
+Căn cứ vào khả năng đất đai, kế hoạch sử dụng đất của địa phương và khả năng sử dụng đất của từng loại hộ, Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương quy định mức đất giao cho các loại hộ nông dân cá thể ở địa phương trên cơ sở bình quân đất nông nghiệp, đất lâm nghiệp tính theo nhân khẩu ở mỗi xã."
+ENTITY,E38_29,DIEU,Điều,structure,16789,16796,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,17814,18259,"Điều 30
+Nhà nước khuyến khích mọi tổ chức và cá nhân thuộc các thành phần kinh tế đầu tư vốn để sử dụng đất đai vào sản xuất nông nghiệp, lâm nghiệp ở các vùng còn nhiều đất chưa sử dụng hoặc hiệu quả sử dụng đất còn thấp.
+Nhà nước có các chính sách về đầu tư, xây dựng cơ sở vật chất - kỹ thuật, tuyển dụng và thuê mượn lao động, miễn giảm thuế và giá cả nông sản để khuyến khích mọi người tận dụng đất đai vào sản xuất nông nghiệp, lâm nghiệp."
+ENTITY,E38_31,DIEU,Điều,structure,18260,19182,"Điều 31
+Việc sử dụng đất vườn quy định như sau:
+Đất vườn được tính vào đất làm kinh tế gia đình xã viên hoặc đất giao cho nông dân còn sản xuất cá thể, phần còn lại người có vườn vẫn được tiếp tục sử dụng để sản xuất nông nghiệp, lâm nghiệp.
+Nhà nước có chính sách khuyến khích và bảo vệ lợi ích của mọi tổ chức và cá nhân thâm canh, tăng sản lượng cây trồng trên đất vườn, sử dụng đất trống, đồi núi trọc để lập vườn theo quy hoạch.
+Không được lập vườn trên đất trồng lúa, trừ trường hợp có phép của uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh theo kế hoạch sử dụng đất đã được Hội đồng nhân dân cùng cấp thông qua.
+Căn cứ vào yêu cầu phát triển kinh tế quốc dân, khả năng đất đai và tập quán canh tác ở từng địa phương, Hội đồng bộ trưởng quy định các hình thức tổ chức sản xuất và các chính sách thích hợp đối với đất vườn ở mỗi vùng nhằm phát triển sản xuất, ổn định đời sống và tăng sản phẩm cho xã hội."
+ENTITY,E38_32,DIEU,Điều,structure,19183,19578,"Điều 32
+Chùa, nhà thờ, thánh thất tôn giáo đang sử dụng đất hoặc chưa được giao đất sử dụng nếu có yêu cầu chính đáng và có khả năng sử dụng có hiệu quả thì Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương căn cứ vào chính sách tôn giáo của Nhà nước và khả năng đất đai của địa phương để quyết định diện tích đất được giao cho chùa, nhà thờ, thánh thất đó.
+"
+ENTITY,E38_33,DIEU,Điều,structure,19599,19697,"Điều 33
+Đất khu dân cư là đất được xác định để xây dựng các thành thị và các khu dân cư nông thôn."
+ENTITY,E38_34,DIEU,Điều,structure,19698,20216,"Điều 34
+Việc sử dụng đất khu dân cư ở thành thị phải tuân theo những quy định về từng loại đất nói trong Luật này, đồng thời phải phù hợp với quy hoạch chung của thành phố, thị xã, thị trấn.
+Đối với thành phố, thị xã, thị trấn có quy hoạch giao đất cho nhân dân tự làm nhà ở thì Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương và đơn vụ hành chính tương đương quy định mức đất giao cho mỗi hộ.
+Việc sử dụng đất để xây dựng nhà ở trong thành phố, thị xã, thị trấn phải theo đúng quy định của Hội đồng bộ trưởng."
+ENTITY,E38_35,DIEU,Điều,structure,20217,21366,"Điều 35
+Việc sử dụng đất khu dân cư ở nông thôn phải theo quy hoạch thuận tiện cho sản xuất, đời sống của nhân dân và quản lý xã hội. Phải tận dụng những khu dân cư sẵn có, hạn chế việc mở rộng khu dân cư trên đất nông nghiệp.
+Chỉ được giao đất ở trong khu dân cư cho những hộ chưa có nhà ở.
+Căn cứ vào khả năng đất đai ở từng vùng, Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương quy định mức đất được giao cho mỗi hộ, nhưng không được quá mức quy định cho từng vùng như sau:
+a) Đồng bằng Bắc bộ và đồng bằng miền Trung từ Thanh Hoá đến Thuận Hải: 200 m2.
+b) Trung du, Đông Nam bộ và đồng bằng sông Cửu Long: 300 m2.
+c) Miền núi và Tây Nguyên: 400 m2.
+Đối với những vùng nhân dân có tập quán nhiều thế hệ cùng chung sống trong một hộ hoặc những nơi phải giao đất ở vào đất quanh năm ngập nước thì theo đề nghị của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương, Hội đồng bộ trưởng có thể quy định mức đất ở cao hơn, nhưng nói chung không vượt quá một lần rưỡi, trong trường hợp cá biệt, cũng không được vượt quá hai lần mức đất quy định cho từng vùng tại Điều này.
+"
+ENTITY,E38_36,DIEU,Điều,structure,21388,21920,"Điều 36
+Đất chuyên dùng là đất được xác định dùng vào các mục đích không phải là nông nghiệp, lâm nghiệp hoặc đất khu dân cư như: đất xây dựng các công trình công nghiệp, khoa học - kỹ thuật, giao thông, thuỷ lợi, văn hoá, xã hội, dịch vụ, đất dùng cho nhu cầu an ninh, quốc phòng, đất dùng cho thăm dò, khai thác khoáng sản, đất làm muối, đất làm đồ gốm gạch, ngói và các vật liệu xây dựng khác, đất di tích lịch sử, văn hoá và danh lam thắng cảnh, đất nghĩa địa, đất có mặt nước sử dụng vào các mục đích không phải là nông nghiệp."
+ENTITY,E38_37,DIEU,Điều,structure,21921,22228,"Điều 37
+Việc sử dụng đất để xây dựng các công trình công nghiệp, khoa học - kỹ thuật, giao thông, thuỷ lợi, văn hoá, xã hội, dịch vụ, người việc tuân theo các quy định của Luật này, còn phải tuân theo các yêu cầu sử dụng đất được xác định trong luận chứng kinh tế - kỹ thuật và thiết kế của từng công trình."
+ENTITY,E38_38,DIEU,Điều,structure,22229,22503,"Điều 38
+Việc sử dụng đất vào mục đích an ninh, quốc phòng phải tuân theo đúng quy hoạch, kế hoạch đã được cơ quan Nhà nước có thẩm quyền xét duyệt. Khi sử dụng đất phải triệt để tiết kiệm và hạn chế đến mức thấp nhất những trở ngại cho việc sử dụng đất đai của vùng lân cận."
+ENTITY,E38_39,DIEU,Điều,structure,22504,22892,"Điều 39
+Chỉ những tổ chức được Nhà nước giao nhiệm vụ thăm dò, khai thác khoáng sản mới được sử dụng đất để thực hiện mục đích này.
+Đất thăm dò, khai thác khoáng sản, kể cả thăm dò, khai thác đá chỉ được giao sử dụng trong thời gian thăm dò, khai thác khoáng sản; khi sử dụng xong phải trả lại đất với trạng thái được quy định trong quyết định giao đất của cơ quan Nhà nước có thẩm quyền."
+ENTITY,E38_40,DIEU,Điều,structure,22893,23238,"Điều 40
+Nhà nước giao đất làm muối cho các tổ chức hoặc cá nhân để sản xuất muối; đất này được giao trên cơ sở đất đang sử dụng.
+Những vùng đất làm muối có năng suất, chất lượng cao phải được bảo vệ, ưu tiên cho việc sản xuất muối.
+Nhà nước khuyến khích việc sử dụng những vùng đất có khả năng làm muối để phục vụ cho nhu cầu về muối của xã hội."
+ENTITY,E38_41,DIEU,Điều,structure,23239,24078,"Điều 41
+Việc sử dụng đất làm đồ gốm, gạch, ngói và các vật liệu xây dựng khác được giao có thời hạn.
+Đất làm gạch, ngói trước hết phải lấy từ đất đồi núi không sản xuất nông nghiệp, gò, bãi hoang, lòng sông, ao hồ cần khơi sâu, ven sông ngòi không sản xuất, đê bối cần huỷ bỏ, đất lấy từ cải tạo đồng ruộng.
+Trong trường hợp không còn các nguồn đất nói trên thì có thể sử dụng những loại đất xấu, nhưng phải triệt để tiết kiệm. Khi sử dụng xong phải cải tạo ngay để sản xuất nông nghiệp, nuôi trồng thuỷ sản.
+Đất làm đồ gốm hoặc gạch, ngói không nung được chọn ở những vùng đất thích hợp nhưng không gây thiệt hại cho sản xuất nông nghiệp, lâm nghiệp.
+Chỉ những tổ chức hoặc cá nhân được phép của cơ quan Nhà nước có thẩm quyền quy định tại Điều 13 của Luật này mới được sử dụng đất để làm đồ gốm, gạch, ngói và các vật liệu xây dựng khác."
+ENTITY,E38_42,DIEU,Điều,structure,24079,24627,"Điều 42
+Đất di tích lịch sử, văn hoá, danh lam thắng cảnh là đất có di tích lịch sử, văn hoá, danh lam thắng cảnh theo quy định của pháp luật.
+Đất này phải được bảo vệ nghiêm ngặt.
+Trong trường hợp đặc biệt cần thiết phải sử dụng đất có di tích lịch sử, văn hoá, danh lam thắng cảnh vào mục đích khác thì phải được phép của cơ quan Nhà nước có thẩm quyền quyết định giao đất và phải được sự đồng ý của Bộ trưởng Bộ văn hoá.
+Trong trường hợp không được sự đồng ý của Bộ trưởng Bộ văn hoá thì chủ công trình có quyền kiến nghị lên Hội đồng bộ trưởng."
+ENTITY,E38_43,DIEU,Điều,structure,24628,24777,"Điều 43
+Đất làm nghĩa địa phải được quy hoạch thành khu tập trung, xa dân cư, thuận tiện cho việc chôn cất, thăm viếng, hợp vệ sinh và tiết kiệm đất."
+ENTITY,E38_44,DIEU,Điều,structure,24778,25068,"Điều 44
+Đất có mặt nước quy định trong Điều này gồm những đất thuộc vùng lãnh hải, nội thuỷ, sông, đầm, hồ lớn không thuộc sản xuất nông nghiệp.
+Căn cứ mục đích sử dụng chủ yếu đã xác định cho từng vùng đất có mặt nước, Nhà nước giao đất này cho các tổ chức và cá nhân thích hợp để sử dụng."
+ENTITY,E38_45,DIEU,Điều,structure,25069,25119,"Điều 45
+Người sử dụng đất chuyên dùng có nghĩa vụ:"
+ENTITY,E38_46,DIEU,Điều,structure,25360,25877,"Điều 46
+Người được giao đất nông nghiệp, đất có rừng để xây dựng công trình công nghiệp, khoa học - kỹ thuật, giao thông, thuỷ lợi, văn hoá, xã hội, dịch vụ, an ninh, quốc phòng, thăm dò, khai thác khoáng sản, làm đồ gốm, gạch, ngói hoặc vật liệu xây dựng khác phải đền bù thiệt hại về đất nông nghiệp, đất có rừng cho Nhà nước.
+Hội đồng bộ trưởng và Uỷ ban nhân dân các cấp được sử dụng khoản đền bù này vào việc khai hoang, vỡ hoá, thâm canh, bảo vệ, cải tạo đất, mở mang diện tích đất nông nghiệp, đất lâm nghiệp.
+"
+ENTITY,E38_47,DIEU,Điều,structure,25900,26231,"Điều 47
+Đất chưa sử dụng là đất chưa được xác định để dùng vào mục đích nông nghiệp, lâm nghiệp, khu dân cư, chuyên dùng và Nhà nước chưa giao cho ai sử dụng ổn định, lâu dài.
+Hội đồng bộ trưởng lập quy hoạch, kế hoạch và có chính sách khuyến khích các tổ chức và cá nhân đưa đất chưa sử dụng vào sản xuất nông nghiệp, lâm nghiệp.
+"
+ENTITY,E38_48,DIEU,Điều,structure,26281,26440,"Điều 48
+Ngoài những nghĩa vụ đối với từng loại đất được quy định tại Điều 24, Điều 26 và Điều 45 của Luật này, người sử dụng đất còn có những nghĩa vụ sau đây:"
+ENTITY,E38_49,DIEU,Điều,structure,27062,27115,"Điều 49
+Người sử dụng đất có những quyền lợi sau đây:"
+ENTITY,E38_50,DIEU,Điều,structure,28244,28455,"Điều 50
+Việc giao đất cho tổ chức, cá nhân nước ngoài, tổ chức quốc tế, tổ chức liên doanh, hợp tác của Việt Nam và nước ngoài để sử dụng do Hội đồng bộ trưởng nước Cộng hoà xã hội chủ nghĩa Việt Nam quyết định."
+ENTITY,E38_51,DIEU,Điều,structure,28456,28770,"Điều 51
+Tổ chức, cá nhân nước ngoài, tổ chức quốc tế, tổ chức liên doanh, hợp tác của Việt Nam và nước ngoài được giao đất để sử dụng phải tuân theo các quy định của Luật này, trừ trường hợp điều ước quốc tế ký kết giữa nước Cộng hoà xã hội chủ nghĩa Việt Nam với nước ngoài hoặc tổ chức quốc tế có quy định khác.
+"
+ENTITY,E38_52,DIEU,Điều,structure,28802,29077,"Điều 52
+Địa phương, tổ chức và cá nhân có nhiều thành tích trong việc quản lý, bảo vệ, cải tạo, bồi bổ đất đai, mở rộng diện tích đất nông nghiệp, phủ xanh đất trống đồi núi trọc, tiết kiệm đất trong xây dựng cơ bản thì được khen thưởng, theo quy định của Hội đồng bộ trưởng."
+ENTITY,E38_53,DIEU,Điều,structure,29078,29272,"Điều 53
+Người nào mua, bán, lấn, chiếm đất đai, phát canh thu tô, huỷ hoại đất đai hoặc có hành vi khác vi phạm pháp luật đất đai thì bị xử phạt hành chính bằng một hoặc nhiều hình thức sau đây:"
+ENTITY,E38_54,DIEU,Điều,structure,29690,30027,"Điều 54
+Người nào lợi dụng chức vụ, quyền hạn hoặc vượt quá quyền hạn giao đất, thu hồi đất, cho phép chuyển mục đích sử dụng đất trái với quy định của pháp luật, thiếu tinh thần trách nhiệm làm thiệt hại đến tài nguyên đất đai, bao che cho người có hành vi vi phạm pháp luật đất đai, thì bị xử lý bằng một trong những hình thức sau đây:"
+ENTITY,E38_55,DIEU,Điều,structure,30317,30524,"Điều 55
+Người nào có hành vi vi phạm pháp luật đất đai mà gây thiệt hại cho người khác thì ngoài việc bị xử phạt theo quy định tại Điều 53 và Điều 54 của Luật này còn phải bồi thường cho người bị thiệt hại.
+"
+ENTITY,E38_56,DIEU,Điều,structure,30555,30617,"Điều 56
+Những quy định trước đây trái với Luật này đều bãi bỏ."
+ENTITY,E38_57,DIEU,Điều,structure,30618,30681,"Điều 57
+Hội đồng bộ trưởng quy định chi tiết thi hành Luật này."
+ENTITY,E39_1,KHOAN,Khoản,structure,4067,4086,1- Đất nông nghiệp;
+ENTITY,E39_2,KHOAN,Khoản,structure,4087,4105,2- Đất lâm nghiệp;
+ENTITY,E39_3,KHOAN,Khoản,structure,4106,4124,3- Đất khu dân cư;
+ENTITY,E39_4,KHOAN,Khoản,structure,4125,4144,4- Đất chuyên dùng;
+ENTITY,E39_5,KHOAN,Khoản,structure,4145,4166,"5- Đất chưa sử dụng.
+"
+ENTITY,E39_6,KHOAN,Khoản,structure,4253,4326,"1- Điều tra, khảo sát, đo đạc, phân hạng đất đai và lập bản đồ địa chính;"
+ENTITY,E39_7,KHOAN,Khoản,structure,4327,4377,2- Quy hoạch và kế hoạch hoá việc sử dụng đất đai;
+ENTITY,E39_8,KHOAN,Khoản,structure,4378,4480,"3- Quy định các chế độ, thể lệ về quản lý, sử dụng đất đai và tổ chức thực hiện các chế độ, thể lệ ấy;"
+ENTITY,E39_9,KHOAN,Khoản,structure,4481,4508,4- Giao đất và thu hồi đất;
+ENTITY,E39_10,KHOAN,Khoản,structure,4509,4610,"5- Đăng ký đất đai, lập và giữ sổ địa chính, thống kê đất đai, cấp giấy chứng nhận quyền sử dụng đất;"
+ENTITY,E39_11,KHOAN,Khoản,structure,4611,4686,"6- Thanh tra việc chấp hành các chế dộ, thể lệ về quản lý, sử dụng đất đai;"
+ENTITY,E39_12,KHOAN,Khoản,structure,4687,4720,7- Giải quyết tranh chấp đất đai.
+ENTITY,E39_13,KHOAN,Khoản,structure,5051,5083,"1- Việc lập quy hoạch, kế hoạch:"
+ENTITY,E39_14,KHOAN,Khoản,structure,5320,5393,"2- Thẩm quyền phê chuẩn và xét duyệt quy hoạch, kế hoạch sử dụng đất đai:"
+ENTITY,E39_15,KHOAN,Khoản,structure,6336,6469,1- Căn cứ vào quy hoạch và kế hoạch sử dụng đất đã được cơ quan Nhà nước có thẩm xét duyệt quy định tại khoản 2 Điều 11 của Luật này;
+ENTITY,E39_16,KHOAN,Khoản,structure,6470,6647,2- Căn cứ vào kế hoạch hàng năm chuyển loại đất từ mục đích sử dụng này sang mục đích sử dụng khác đã được cơ Nhà nước có thẩm quyền xét duyệt quy định tại Điều 13 của Luật này;
+ENTITY,E39_17,KHOAN,Khoản,structure,6648,6793,3- Căn cứ vào yêu cầu sử dụng đất đai ghi trong luận chứng kinh tế - kỹ thuật và trong thiết kế đã được cơ quan Nhà nước có thẩm quyền xét duyệt;
+ENTITY,E39_18,KHOAN,Khoản,structure,6794,6976,"4- Việc quyết định giao đất đang sử dụng cho người khác chỉ được tiến hành sau khi có quyết định thu hồi đất đó của cơ quan Nhà nước có thẩm quyền, quy định tại Điều 15 của Luật này."
+ENTITY,E39_19,KHOAN,Khoản,structure,6985,7125,"1- Hội đồng Nhà nước phê chuẩn kế hoạch hàng năm của Hội đồng bộ trưởng về việc giao đất nông nghiệp, đất có rừng sử dụng vào mục đích khác."
+ENTITY,E39_20,KHOAN,Khoản,structure,7126,7645,"2- Hội đồng bộ trưởng xét duyệt kế hoạch hàng năm của Uỷ ban nhân dân các tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương về việc giao đất nông nghiệp, đất có rừng để sử dụng vào mục đích khác.
+Hội đồng bộ trưởng căn cứ vào quy hoạch, kế hoạch sử dụng đất đai đã được Quốc hội phê chuẩn và kế hoạch hàng năm chuyển đất nông nghiệp, đất có rừng để sử dụng vào mục đích khác đã được Hội đồng Nhà nước phê chuẩn, quyết định việc giao đất để sử dụng vào mọi mục đích trong những trường hợp cần thiết."
+ENTITY,E39_21,KHOAN,Khoản,structure,7646,7747,"3- Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương quyết định:"
+ENTITY,E39_22,KHOAN,Khoản,structure,8611,8677,"4- Uỷ ban nhân dân huyện, thị xã, thành phố thuộc tỉnh quyết định:"
+ENTITY,E39_23,KHOAN,Khoản,structure,9095,9192,"5- Uỷ ban nhân dân quận có thẩm quyền giao đất quy định tại điểm a, điểm b, khoản 4 của Điều này."
+ENTITY,E39_24,KHOAN,Khoản,structure,9193,9382,"6- Hội đồng bộ trưởng quy định trình tự, thủ tục giao các loại đất. Cơ quan quản lý đất đai của trung ương và địa phương, giúp Hội đồng bộ trưởng và Uỷ ban nhân các cấp trong việc giao đất."
+ENTITY,E39_25,KHOAN,Khoản,structure,9482,9579,"1- Tổ chức sử dụng đất bị giải thể, chuyển đi nơi khác, hoặc bị thu hẹp mà giảm nhu cầu sản xuất;"
+ENTITY,E39_26,KHOAN,Khoản,structure,9580,9655,2- Tất cả số người trong hộ sử dụng đất đã chuyển đi nơi khác hoặc đã chết;
+ENTITY,E39_27,KHOAN,Khoản,structure,9656,9709,3- Người sử dụng đất tự nguyện trả lại đất được giao;
+ENTITY,E39_28,KHOAN,Khoản,structure,9710,9741,4- Thời hạn sử dụng đất đã hết;
+ENTITY,E39_29,KHOAN,Khoản,structure,9742,9887,5- Người sử dụng đất không sử dụng đất được giao trong 6 tháng liền mà không được cơ quan Nhà nước có thẩm quyền quyết định giao đất đó cho phép;
+ENTITY,E39_30,KHOAN,Khoản,structure,9888,9960,6- Người sử dụng đất vi phạm nghiêm trọng những quy định về sử dụng đất;
+ENTITY,E39_31,KHOAN,Khoản,structure,9961,10029,7- Đất giao không đúng thẩm quyền quy định tại Điều 13 của Luật này;
+ENTITY,E39_32,KHOAN,Khoản,structure,10030,10090,8- Cần sử dụng đất cho nhu cầu của Nhà nước hoặc của xã hội.
+ENTITY,E39_33,KHOAN,Khoản,structure,10525,10610,"1- Khi hộ nông dân vào hoặc ra hợp tác xã, tập đoàn sản xuất nông nghiệp, lâm nghiệp;"
+ENTITY,E39_34,KHOAN,Khoản,structure,10611,10723,"2- Khi hợp tác xã, tập đoàn sản xuất nông nghiệp và cá nhân thoả thuận đổi đất cho nhau để tổ chức lại sản xuất;"
+ENTITY,E39_35,KHOAN,Khoản,structure,10724,11057,"3- Khi người được giao đất chuyển đi nơi khác hoặc đã chết mà thành viên trong hộ của người đó vẫn còn tiếp tục sử dụng đất đó.
+Việc chuyển quyền sử dụng đất đai nói trong Điều này, nếu ở nông thôn thì do Uỷ ban nhân dân xã quyết định, nếu ở thành thị thì do Uỷ ban nhân dân huyện, quận, thị xã, thành phố trực thuộc tỉnh quyết định."
+ENTITY,E39_36,KHOAN,Khoản,structure,11296,11544,"1- Khi được cơ quan Nhà nước có thẩm quyền giao đất, cho phép chuyển quyền sử dụng, thay đổi mục đích sử dụng hoặc đang sử dụng đất hợp pháp mà chưa đăng ký thì người sử dụng phải xin đăng ký đất đai tại cơ quan Nhà nước nói ở khoản 2 của Điều này."
+ENTITY,E39_37,KHOAN,Khoản,structure,11545,11758,"2- Uỷ ban nhân dân quận, thành phố thuộc tỉnh, thị xã, thị trấn và Uỷ ban nhân dân xã thuộc huyện lập, giữ sổ địa chính, vào sổ địa chính cho người sử dụng đất và tự mình đăng ký đất chưa sử dụng vào sổ địa chính."
+ENTITY,E39_38,KHOAN,Khoản,structure,11759,11840,"3- Sau khi đăng ký, người sử dụng đất được cấp giấy chứng nhận quyền sử dụng đất."
+ENTITY,E39_39,KHOAN,Khoản,structure,12326,12420,1- Yêu cầu các tổ chức và cá nhân có liên quan cung cấp tài liệu cần thiết cho việc thanh tra;
+ENTITY,E39_40,KHOAN,Khoản,structure,12421,12493,2- Tạm thời đình chỉ việc sử dụng phần đất sử dụng không đúng pháp luật;
+ENTITY,E39_41,KHOAN,Khoản,structure,12494,12588,3- Kiến nghị với cơ quan Nhà nước có thẩm quyền xử lý những hành vi vi phạm pháp luật đất đai.
+ENTITY,E39_42,KHOAN,Khoản,structure,12716,12807,"1- Uỷ ban nhân dân xã, thị trấn giải quyết các tranh chấp đất đai giữa cá nhân với cá nhân."
+ENTITY,E39_43,KHOAN,Khoản,structure,12808,12929,2- Uỷ ban nhân dân huyện giải quyết các tranh chấp giữa cá nhân với tổ chức và giữa các tổ chức thuộc quyền mình quản lý.
+ENTITY,E39_44,KHOAN,Khoản,structure,12930,13053,"3- Uỷ ban nhân dân quận, thị xã, thành phố thuộc tỉnh giải quyết các tranh chấp quy định tại khoản 1, khoản 2 của Điều này."
+ENTITY,E39_45,KHOAN,Khoản,structure,13054,13290,"4- Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương và đơn vị hành chính tương đương giải quyết các tranh chấp giữa cá nhân với tổ chức, giữa tổ chức với nhau, nếu tổ chức đó thuộc quyền quản lý của mình hoặc trực thuộc Trung ương."
+ENTITY,E39_46,KHOAN,Khoản,structure,13291,13514,"5- Trong trường hợp không đồng ý với quyết định của Uỷ ban nhân dân đã giải quyết tranh chấp, đương sự có quyền khiếu nại lên cơ quan chính quyền cấp trên. Quyết định của chính quyền cấp trên trực tiếp có hiệu lực thi hành."
+ENTITY,E39_47,KHOAN,Khoản,structure,13515,13806,"6- Việc tranh chấp quyền sử dụng đất có liên quan đến địa giới giữa các đơn vị hành chính do Uỷ ban nhân dân các đơn vị đó cùng phối hợp giải quyết. Trong trường hợp không đạt được sự nhất trí thì thẩm quyền giải quyết theo quy định tại khoản 11, Điều 83 và khoản 26, Điều 107 của Hiến pháp."
+ENTITY,E39_48,KHOAN,Khoản,structure,14306,14412,"1- Đưa diện tích được giao vào sản xuất nông nghiệp theo quy hoạch, kế hoạch, không được bỏ hoang, bỏ hoá;"
+ENTITY,E39_49,KHOAN,Khoản,structure,14413,14527,"2- Thực hiện các biện pháp thâm canh, tăng vụ, bảo vệ, cải tạo, bồi bổ đất đai và kết hợp nông nghiệp, lâm nghiệp."
+ENTITY,E39_50,KHOAN,Khoản,structure,14856,15003,"1- Nghiêm chỉnh chấp hành pháp luật về quản lý khai thác, bảo vệ rừng và đất lâm nghiệp, không tự tiện phá rừng, đốt rừng, làm huỷ hoại môi trường."
+ENTITY,E39_51,KHOAN,Khoản,structure,15004,15172,"2- Trồng rừng phủ xanh diện tích được giao theo quy hoạch, kế hoạch; thực hiện các biện pháp về thâm canh, bảo vệ đất, chống xói mòn và kết hợp lâm nghiệp, nông nghiệp."
+ENTITY,E39_52,KHOAN,Khoản,structure,15224,15746,"1- Các hợp tác xã, tập đoàn sản xuất nông nghiệp, lâm nghiệp được giao lại cho các hộ thành viên của mình một diện tích đất nông nghiệp, đất lâm nghiệp trong số đất được Nhà nước giao sử dụng ổn định, lâu dài để các hộ này làm kinh tế gia đình.
+Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương quy định mức đất nông nghiệp, đất lâm nghiệp được giao cho mỗi hộ ở từng vùng trong địa phương mình, mỗi người không quá 10% đất nông nghiệp, đất lâm nghiệp bình quân cho nhân khẩu của xã."
+ENTITY,E39_53,KHOAN,Khoản,structure,15747,16073,"2- Các nông trường, lâm trường, trạm, trại nông nghiệp, lâm nghiệp được giao lại cho các hộ thành viên của mình một diện tích đất nông nghiệp, lâm nghiệp trong số đất được Nhà nước giao sử dụng ổn định, lâu dài để các hộ này làm kinh tế gia đình, nhưng mỗi hộ nhiều nhất cũng không vượt quá mức quy định cho từng vùng như sau:"
+ENTITY,E39_54,KHOAN,Khoản,structure,16797,17194,"1- Ở những nơi còn đất chưa sử dụng thì Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh có thể giao loại đất này cho các tổ chức hoặc các hộ thành viên của hợp tác xã, tập đoàn sản xuất nông nghiệp, lâm nghiệp, tiểu, thủ công nghiệp, ngư nghiệp, nghề muối, nông trường, lâm trường, trạm, trại nông nghiệp, lâm nghiệp, công nhân, viên chức và nhân dân để sản xuất nông nghiệp, lâm nghiệp."
+ENTITY,E39_55,KHOAN,Khoản,structure,17195,17420,"2- Đối với đất trống, đồi núi trọc, rừng nghèo kiệt thì được giao theo chính sách giao đất, giao rừng để trồng trọt và chăn nuôi; đất giao cho mỗi tổ chức và cá nhân là căn cứ vào khả năng sử dụng, không hạn chế về diện tích."
+ENTITY,E39_56,KHOAN,Khoản,structure,17421,17649,"3- Khi giao đất nói ở khoản 1 và khoản 2 của Điều này phải xác định rõ mục đích và thời hạn sử dụng để người sử dụng đất yên tâm sản xuất, có thu hoạch thoả đáng so với công sức đã đầu tư đối với từng loại cây trồng và vật nuôi."
+ENTITY,E39_57,KHOAN,Khoản,structure,17650,17813,4- Đất được giao nói trong Điều này không tính vào mức đất làm kinh tế gia đình hoặc mức đất giao cho nông dân cá thể quy định tại Điều 27 và Điều 28 của Luật này.
+ENTITY,E39_58,KHOAN,Khoản,structure,25120,25224,1- Chấp hành nghiêm chỉnh các quy định của Hội đồng bộ trưởng về việc sử dụng từng loại đất chuyên dùng;
+ENTITY,E39_59,KHOAN,Khoản,structure,25225,25359,"2- Thực hiện các biện pháp để tiết kiệm đất đai, bảo vệ môi trường và không trở ngại cho sản xuất, đời sống của nhân dân vùng lân cận."
+ENTITY,E39_60,KHOAN,Khoản,structure,26441,26538,"1- Sử dụng đất đúng mục đích, đúng ranh giới và các điều kiện khác đã được quy định khi giao đất;"
+ENTITY,E39_61,KHOAN,Khoản,structure,26539,26690,"2- Thực hiện việc bảo vệ, cải tạo và bồi bổ đất đai, không được làm những việc có hại đến môi trường và lợi ích hợp pháp của người sử dụng đất lân cận;"
+ENTITY,E39_62,KHOAN,Khoản,structure,26691,26782,3- Thi hành nghiêm chỉnh quyết định của cơ quan Nhà nước có thẩm quyền về việc thu hồi đất;
+ENTITY,E39_63,KHOAN,Khoản,structure,26783,26972,"4- Đền bù thiệt hại thực tế cho người đang sử dụng đất bị thu hồi để giao cho mình, bồi hoàn thành quả lao động và kết quả đầu tư đã làm tăng giá trị của đất đó theo quy định của pháp luật;"
+ENTITY,E39_64,KHOAN,Khoản,structure,26973,27061,"5- Nộp thuế, nộp lệ phí địa chính khi làm thủ tục địa chính theo quy định của pháp luật."
+ENTITY,E39_65,KHOAN,Khoản,structure,27116,27249,"1- Được sử dụng đất ổn định, lâu dài, có thời hạn hoặc tạm thời nhưng đã được cơ quan Nhà nước có thẩm quyền quyết định khi giao đất;"
+ENTITY,E39_66,KHOAN,Khoản,structure,27250,27719,"2- Hưởng thành quả lao động, kết quả đầu tư trên đất được giao, được quyền chuyển, nhượng, bán nhà ở, vật kiến trúc khác, cây lâu năm mà người sử dụng đất có được một cách hợp pháp trên đất được giao; trong trường hợp đất đang sử dụng được thu hồi theo khoản 1, khoản 2 và khoản 3, Điều 14 của Luật này để giao cho người khác thì được đền bù thiệt hại thực tế, được bồi hoàn thành quả lao động, kết quả đầu tư đã làm tăng giá trị của đất đó theo quy định của pháp luật;"
+ENTITY,E39_67,KHOAN,Khoản,structure,27720,27798,3- Hưởng các lợi ích do công trình công cộng bảo vệ hoặc cải tạo đất mang lại;
+ENTITY,E39_68,KHOAN,Khoản,structure,27799,27870,4- Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo và bồi bổ đất;
+ENTITY,E39_69,KHOAN,Khoản,structure,27871,27998,5- Khi đất đang sử dụng bị thu hồi vì nhu cầu của Nhà nước hoặc xã hội thì được đền bù thiệt hại thực tế và được giao đất khác;
+ENTITY,E39_70,KHOAN,Khoản,structure,27999,28095,"6- Được Nhà nước bảo vệ khi bị người khác xâm phạm đến quyền sử dụng đất đai hợp pháp của mình.
+"
+ENTITY,E39_71,KHOAN,Khoản,structure,29273,29285,1- Cảnh cáo;
+ENTITY,E39_72,KHOAN,Khoản,structure,29286,29355,2- Phạt tiền từ 20% đến 30% giá trị thiệt hại do việc vi phạm gây ra;
+ENTITY,E39_73,KHOAN,Khoản,structure,29356,29393,3- Tịch thu toàn bộ tiền mua bán đất;
+ENTITY,E39_74,KHOAN,Khoản,structure,29394,29689,"4- Thu hồi phần đất sử dụng trái pháp luật.
+Việc xử lý hành chính quy định trong Điều này do Uỷ ban nhân dân các cấp có thẩm quyền quyết định theo quy định của pháp luật.
+Nếu hành vi vi phạm gây hậu quả nghiêm trọng hoặc đã bị xử lý hành chính mà còn vi phạm thì bị xử phạt theo Bộ luật hình sự."
+ENTITY,E39_75,KHOAN,Khoản,structure,30028,30040,1- Cảnh cáo;
+ENTITY,E39_76,KHOAN,Khoản,structure,30041,30054,2- Phạt tiền;
+ENTITY,E39_77,KHOAN,Khoản,structure,30055,30068,3- Cách chức;
+ENTITY,E39_78,KHOAN,Khoản,structure,30069,30316,"4- Buộc thôi việc.
+Việc xử lý kỷ luật quy định trong Điều này do cơ quan chính quyền quyết định theo phân cấp quản lý cán bộ.
+Nếu hành vi vi phạm gây hậu quả nghiêm trọng hoặc đã bị xử lý kỷ luật mà còn vi phạm thì bị xử phạt theo Bộ luật hình sự."
+ENTITY,E40_1,DIEM,Điểm,structure,5084,5160,"a) Hội đồng bộ trưởng lập quy hoạch, kế hoạch sử dụng đất đai trong cả nước;"
+ENTITY,E40_2,DIEM,Điểm,structure,5161,5250,"b) Uỷ ban nhân dân các cấp lập quy hoạch, kế hoạch sử dụng đất đai trong địa phương mình;"
+ENTITY,E40_3,DIEM,Điểm,structure,5251,5319,"c) Các ngành lập quy hoạch, kế hoạch sử dụng đất đai của ngành mình."
+ENTITY,E40_4,DIEM,Điểm,structure,5394,5620,"a) Quốc hội phê chuẩn quy hoạch, kế hoạch sử dụng đất đai trong cả nước; Hội đồng nhân dân các cấp phê chuẩn quy hoạch, kế hoạch sử dụng đất đai của địa phương mình trước khi trình lên chính quyền cấp trên trực tiếp xét duyệt;"
+ENTITY,E40_5,DIEM,Điểm,structure,5621,5829,"b) Hội đồng bộ trưởng xét duyệt quy hoạch, kế hoạch sử dụng đất đai của các ngành ở Trung ương và quy hoạch kế hoạch sử dụng đất đai của tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương;"
+ENTITY,E40_6,DIEM,Điểm,structure,5830,5943,"c) Uỷ ban nhân dân cấp trên xét duyệt quy hoạch, kế hoạch sử dụng đất đai của Uỷ ban nhân dân cấp dưới trực tiếp;"
+ENTITY,E40_7,DIEM,Điểm,structure,5944,6073,"d) Uỷ ban nhân dân mỗi cấp cùng với các ngành cấp trên xét duyệt quy hoạch, kế hoạch sử dụng đất đai của ngành đó tại địa phương;"
+ENTITY,E40_8,DIEM,Điểm,structure,6074,6263,"e) Trong trường hợp cần bổ sung, điều chỉnh quy hoạch, kế hoạch sử dụng đất đai phải được sự đồng ý của cơ quan Nhà nước có thẩm quyền quy định tại các điểm a, b, c, d khoản 2 của Điều này."
+ENTITY,E40_9,DIEM,Điểm,structure,7748,7843,"a) Giao đất cho các tổ chức kinh tế quốc doanh để sử dụng vào mục đích nông nghiệp, lâm nghiệp;"
+ENTITY,E40_10,DIEM,Điểm,structure,7844,8257,"b) Giao đất để sử dụng vào mục đích khác không phải sản xuất nông nghiệp, lâm nghiệp trong phạm vi sau đây:
+Từ 1 ha trở xuống đối với đất nông nghiệp, đất có rừng, đất khu dân cư và từ 2 ha trở xuống đối với đất hoang, đồi núi cho mỗi công trình không theo tuyến.
+Từ 3 ha trở xuống đối với đất nông nghiệp, đất có rừng, đất khu dân cư và từ 5 ha trở xuống đối với đất hoang, đồi núi cho mỗi công trình theo tuyến."
+ENTITY,E40_11,DIEM,Điểm,structure,8258,8347,"c) Giao đất chuyên dùng để sử dụng vào mục đích chuyên dùng, trừ đất thuộc vùng lãnh hải."
+ENTITY,E40_12,DIEM,Điểm,structure,8348,8498,d) Xét duyệt kế hoạch giao đất khu dân cư nông thôn để nhân dân làm nhà ở theo định mức hàng năm đã được Hội đồng bộ trưởng xét duyệt cho mỗi loại xã.
+ENTITY,E40_13,DIEM,Điểm,structure,8499,8610,đ) Giao đất khu dân cư thuộc nội thành nội thị theo quy hoạch đã được cơ quan Nhà nước có thẩm quyền xét duyệt.
+ENTITY,E40_14,DIEM,Điểm,structure,8678,8795,"a) Giao đất cho các hợp tác xã, tập đoàn sản xuất và cá nhân để sử dụng lâu dài vào sản xuất nông nghiệp, lâm nghiệp;"
+ENTITY,E40_15,DIEM,Điểm,structure,8796,8918,"b) Giao đất chưa sử dụng cho các tổ chức và cá nhân sử dụng có thời hạn hoặc tạm thời để sản xuất nông nghiệp, lâm nghiệp;"
+ENTITY,E40_16,DIEM,Điểm,structure,8919,9094,"c) Giao đất khu dân cư nông thôn cho nhân dân làm nhà ở theo kế hoạch đã được Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính tương đương xét duyệt."
+ENTITY,E40_17,DIEM,Điểm,structure,16074,16153,a) Đồng bằng Bắc bộ và đồng bằng miền Trung từ Thanh Hoá đến Thuận Hải: 200 m2;
+ENTITY,E40_18,DIEM,Điểm,structure,16154,16214,"b) Trung du, Đông Nam bộ và đồng bằng sông Cửu Long: 500 m2;"
+ENTITY,E40_19,DIEM,Điểm,structure,16215,16251,c) Miền núi và Tây Nguyên: 1.000 m2.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E2_1,E29_6,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E2_1,E29_7,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E2_1,E29_8,,
+RELATION,R17_9,DAN_CHIEU,Dẫn chiếu,E2_1,E29_9,,
+RELATION,R17_10,DAN_CHIEU,Dẫn chiếu,E2_1,E29_10,,
+RELATION,R17_11,DAN_CHIEU,Dẫn chiếu,E2_1,E29_11,,
+RELATION,R17_12,DAN_CHIEU,Dẫn chiếu,E2_1,E29_12,,
+RELATION,R17_13,DAN_CHIEU,Dẫn chiếu,E2_1,E29_13,,
+RELATION,R17_14,DAN_CHIEU,Dẫn chiếu,E2_1,E29_14,,
+RELATION,R17_15,DAN_CHIEU,Dẫn chiếu,E2_1,E29_15,,
+RELATION,R17_16,DAN_CHIEU,Dẫn chiếu,E2_1,E29_16,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_10,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_11,THUOC,Thuộc,E39_1,E38_8,,
+RELATION,R22_12,THUOC,Thuộc,E39_2,E38_8,,
+RELATION,R22_13,THUOC,Thuộc,E39_3,E38_8,,
+RELATION,R22_14,THUOC,Thuộc,E39_4,E38_8,,
+RELATION,R22_15,THUOC,Thuộc,E39_5,E38_8,,
+RELATION,R22_16,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_17,THUOC,Thuộc,E39_6,E38_9,,
+RELATION,R22_18,THUOC,Thuộc,E39_7,E38_9,,
+RELATION,R22_19,THUOC,Thuộc,E39_8,E38_9,,
+RELATION,R22_20,THUOC,Thuộc,E39_9,E38_9,,
+RELATION,R22_21,THUOC,Thuộc,E39_10,E38_9,,
+RELATION,R22_22,THUOC,Thuộc,E39_11,E38_9,,
+RELATION,R22_23,THUOC,Thuộc,E39_12,E38_9,,
+RELATION,R22_24,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_25,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_26,THUOC,Thuộc,E39_13,E38_11,,
+RELATION,R22_27,THUOC,Thuộc,E40_1,E39_13,,
+RELATION,R22_28,THUOC,Thuộc,E40_2,E39_13,,
+RELATION,R22_29,THUOC,Thuộc,E40_3,E39_13,,
+RELATION,R22_30,THUOC,Thuộc,E39_14,E38_11,,
+RELATION,R22_31,THUOC,Thuộc,E40_4,E39_14,,
+RELATION,R22_32,THUOC,Thuộc,E40_5,E39_14,,
+RELATION,R22_33,THUOC,Thuộc,E40_6,E39_14,,
+RELATION,R22_34,THUOC,Thuộc,E40_7,E39_14,,
+RELATION,R22_35,THUOC,Thuộc,E40_8,E39_14,,
+RELATION,R22_36,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_37,THUOC,Thuộc,E39_15,E38_12,,
+RELATION,R22_38,THUOC,Thuộc,E39_16,E38_12,,
+RELATION,R22_39,THUOC,Thuộc,E39_17,E38_12,,
+RELATION,R22_40,THUOC,Thuộc,E39_18,E38_12,,
+RELATION,R22_41,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_42,THUOC,Thuộc,E39_19,E38_13,,
+RELATION,R22_43,THUOC,Thuộc,E39_20,E38_13,,
+RELATION,R22_44,THUOC,Thuộc,E39_21,E38_13,,
+RELATION,R22_45,THUOC,Thuộc,E40_9,E39_21,,
+RELATION,R22_46,THUOC,Thuộc,E40_10,E39_21,,
+RELATION,R22_47,THUOC,Thuộc,E40_11,E39_21,,
+RELATION,R22_48,THUOC,Thuộc,E40_12,E39_21,,
+RELATION,R22_49,THUOC,Thuộc,E40_13,E39_21,,
+RELATION,R22_50,THUOC,Thuộc,E39_22,E38_13,,
+RELATION,R22_51,THUOC,Thuộc,E40_14,E39_22,,
+RELATION,R22_52,THUOC,Thuộc,E40_15,E39_22,,
+RELATION,R22_53,THUOC,Thuộc,E40_16,E39_22,,
+RELATION,R22_54,THUOC,Thuộc,E39_23,E38_13,,
+RELATION,R22_55,THUOC,Thuộc,E39_24,E38_13,,
+RELATION,R22_56,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_57,THUOC,Thuộc,E39_25,E38_14,,
+RELATION,R22_58,THUOC,Thuộc,E39_26,E38_14,,
+RELATION,R22_59,THUOC,Thuộc,E39_27,E38_14,,
+RELATION,R22_60,THUOC,Thuộc,E39_28,E38_14,,
+RELATION,R22_61,THUOC,Thuộc,E39_29,E38_14,,
+RELATION,R22_62,THUOC,Thuộc,E39_30,E38_14,,
+RELATION,R22_63,THUOC,Thuộc,E39_31,E38_14,,
+RELATION,R22_64,THUOC,Thuộc,E39_32,E38_14,,
+RELATION,R22_65,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_66,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,R22_67,THUOC,Thuộc,E39_33,E38_16,,
+RELATION,R22_68,THUOC,Thuộc,E39_34,E38_16,,
+RELATION,R22_69,THUOC,Thuộc,E39_35,E38_16,,
+RELATION,R22_70,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_71,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,R22_72,THUOC,Thuộc,E39_36,E38_18,,
+RELATION,R22_73,THUOC,Thuộc,E39_37,E38_18,,
+RELATION,R22_74,THUOC,Thuộc,E39_38,E38_18,,
+RELATION,R22_75,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,R22_76,THUOC,Thuộc,E38_20,E35_2,,
+RELATION,R22_77,THUOC,Thuộc,E39_39,E38_20,,
+RELATION,R22_78,THUOC,Thuộc,E39_40,E38_20,,
+RELATION,R22_79,THUOC,Thuộc,E39_41,E38_20,,
+RELATION,R22_80,THUOC,Thuộc,E38_21,E35_2,,
+RELATION,R22_81,THUOC,Thuộc,E39_42,E38_21,,
+RELATION,R22_82,THUOC,Thuộc,E39_43,E38_21,,
+RELATION,R22_83,THUOC,Thuộc,E39_44,E38_21,,
+RELATION,R22_84,THUOC,Thuộc,E39_45,E38_21,,
+RELATION,R22_85,THUOC,Thuộc,E39_46,E38_21,,
+RELATION,R22_86,THUOC,Thuộc,E39_47,E38_21,,
+RELATION,R22_87,THUOC,Thuộc,E38_22,E35_2,,
+RELATION,R22_88,THUOC,Thuộc,E36_1,E35_3,,
+RELATION,R22_89,THUOC,Thuộc,E38_23,E36_1,,
+RELATION,R22_90,THUOC,Thuộc,E38_24,E36_1,,
+RELATION,R22_91,THUOC,Thuộc,E39_48,E38_24,,
+RELATION,R22_92,THUOC,Thuộc,E39_49,E38_24,,
+RELATION,R22_93,THUOC,Thuộc,E38_25,E36_1,,
+RELATION,R22_94,THUOC,Thuộc,E38_26,E36_1,,
+RELATION,R22_95,THUOC,Thuộc,E39_50,E38_26,,
+RELATION,R22_96,THUOC,Thuộc,E39_51,E38_26,,
+RELATION,R22_97,THUOC,Thuộc,E38_27,E36_1,,
+RELATION,R22_98,THUOC,Thuộc,E39_52,E38_27,,
+RELATION,R22_99,THUOC,Thuộc,E39_53,E38_27,,
+RELATION,R22_100,THUOC,Thuộc,E40_17,E39_53,,
+RELATION,R22_101,THUOC,Thuộc,E40_18,E39_53,,
+RELATION,R22_102,THUOC,Thuộc,E40_19,E39_53,,
+RELATION,R22_103,THUOC,Thuộc,E38_28,E36_1,,
+RELATION,R22_104,THUOC,Thuộc,E38_29,E36_1,,
+RELATION,R22_105,THUOC,Thuộc,E39_54,E38_29,,
+RELATION,R22_106,THUOC,Thuộc,E39_55,E38_29,,
+RELATION,R22_107,THUOC,Thuộc,E39_56,E38_29,,
+RELATION,R22_108,THUOC,Thuộc,E39_57,E38_29,,
+RELATION,R22_109,THUOC,Thuộc,E38_30,E36_1,,
+RELATION,R22_110,THUOC,Thuộc,E38_31,E36_1,,
+RELATION,R22_111,THUOC,Thuộc,E38_32,E36_1,,
+RELATION,R22_112,THUOC,Thuộc,E36_2,E35_3,,
+RELATION,R22_113,THUOC,Thuộc,E38_33,E36_2,,
+RELATION,R22_114,THUOC,Thuộc,E38_34,E36_2,,
+RELATION,R22_115,THUOC,Thuộc,E38_35,E36_2,,
+RELATION,R22_116,THUOC,Thuộc,E36_3,E35_3,,
+RELATION,R22_117,THUOC,Thuộc,E38_36,E36_3,,
+RELATION,R22_118,THUOC,Thuộc,E38_37,E36_3,,
+RELATION,R22_119,THUOC,Thuộc,E38_38,E36_3,,
+RELATION,R22_120,THUOC,Thuộc,E38_39,E36_3,,
+RELATION,R22_121,THUOC,Thuộc,E38_40,E36_3,,
+RELATION,R22_122,THUOC,Thuộc,E38_41,E36_3,,
+RELATION,R22_123,THUOC,Thuộc,E38_42,E36_3,,
+RELATION,R22_124,THUOC,Thuộc,E38_43,E36_3,,
+RELATION,R22_125,THUOC,Thuộc,E38_44,E36_3,,
+RELATION,R22_126,THUOC,Thuộc,E38_45,E36_3,,
+RELATION,R22_127,THUOC,Thuộc,E39_58,E38_45,,
+RELATION,R22_128,THUOC,Thuộc,E39_59,E38_45,,
+RELATION,R22_129,THUOC,Thuộc,E38_46,E36_3,,
+RELATION,R22_130,THUOC,Thuộc,E36_4,E35_3,,
+RELATION,R22_131,THUOC,Thuộc,E38_47,E36_4,,
+RELATION,R22_132,THUOC,Thuộc,E36_5,E35_3,,
+RELATION,R22_133,THUOC,Thuộc,E38_48,E36_5,,
+RELATION,R22_134,THUOC,Thuộc,E39_60,E38_48,,
+RELATION,R22_135,THUOC,Thuộc,E39_61,E38_48,,
+RELATION,R22_136,THUOC,Thuộc,E39_62,E38_48,,
+RELATION,R22_137,THUOC,Thuộc,E39_63,E38_48,,
+RELATION,R22_138,THUOC,Thuộc,E39_64,E38_48,,
+RELATION,R22_139,THUOC,Thuộc,E38_49,E36_5,,
+RELATION,R22_140,THUOC,Thuộc,E39_65,E38_49,,
+RELATION,R22_141,THUOC,Thuộc,E39_66,E38_49,,
+RELATION,R22_142,THUOC,Thuộc,E39_67,E38_49,,
+RELATION,R22_143,THUOC,Thuộc,E39_68,E38_49,,
+RELATION,R22_144,THUOC,Thuộc,E39_69,E38_49,,
+RELATION,R22_145,THUOC,Thuộc,E39_70,E38_49,,
+RELATION,R22_146,THUOC,Thuộc,E38_50,E35_4,,
+RELATION,R22_147,THUOC,Thuộc,E38_51,E35_4,,
+RELATION,R22_148,THUOC,Thuộc,E38_52,E35_5,,
+RELATION,R22_149,THUOC,Thuộc,E38_53,E35_5,,
+RELATION,R22_150,THUOC,Thuộc,E39_71,E38_53,,
+RELATION,R22_151,THUOC,Thuộc,E39_72,E38_53,,
+RELATION,R22_152,THUOC,Thuộc,E39_73,E38_53,,
+RELATION,R22_153,THUOC,Thuộc,E39_74,E38_53,,
+RELATION,R22_154,THUOC,Thuộc,E38_54,E35_5,,
+RELATION,R22_155,THUOC,Thuộc,E39_75,E38_54,,
+RELATION,R22_156,THUOC,Thuộc,E39_76,E38_54,,
+RELATION,R22_157,THUOC,Thuộc,E39_77,E38_54,,
+RELATION,R22_158,THUOC,Thuộc,E39_78,E38_54,,
+RELATION,R22_159,THUOC,Thuộc,E38_55,E35_5,,
+RELATION,R22_160,THUOC,Thuộc,E38_56,E35_6,,
+RELATION,R22_161,THUOC,Thuộc,E38_57,E35_6,,

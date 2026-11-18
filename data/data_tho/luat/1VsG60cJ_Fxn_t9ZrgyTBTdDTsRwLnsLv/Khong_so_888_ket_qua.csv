@@ -1,0 +1,358 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,41,Luật Bầu cử Đại biểu Quốc hội số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,33,41,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,18376,18401,ngày 31 tháng 12 năm 1959
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,18485,18499,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,18520,18530,1960-01-13
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,18552,18562,1980-12-18
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,18586,18606,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,63,71,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,17143,17151,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,18403,18412,Xuân Thủy
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,18797,18815,Hiến pháp năm 1959
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,18648,18704,Sắc lệnh số 51 Về việc ấn định thể lệ cuộc tổng tuyển cử
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,18724,18742,Hiến pháp năm 1959
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,18866,18934,Nghị quyết số Không số Về việc sửa đổi Luật Bầu cử Đại biểu Quốc hội
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,19518,19559,Luật Bầu cử Đại biểu Quốc hội số Không số
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18956,19034,Luật Tổ chức Hội đồng nhân dân và Uỷ ban hành chính các cấp số Số hiệu: 51/LCT
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,19056,19151,Thông tư số 08-BYT/TT Về việc hướng dẫn việc xác định những người mất trí không có quyền bầu cử
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,19171,19253,Nghị quyết số Không số Về việc xác nhận tư cách đại biểu của các đại biểu Quốc hội
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,19273,19368,Thông tư số 08-BYT/TT Về việc hướng dẫn việc xác định những người mất trí không có quyền bầu cử
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,19388,19468,Nghị quyết số 1039-NQ/TVQH Về việc tổ chức cuộc bầu cử Đại biểu Quốc hội khoá IV
+ENTITY,E35_1,CHUONG,Chương,structure,103,111,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,936,945,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,2924,2934,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,5002,5011,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,8350,8358,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,10322,10331,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,12619,12629,CHƯƠNG VII
+ENTITY,E35_8,CHUONG,Chương,structure,17419,17430,CHƯƠNG VIII
+ENTITY,E35_9,CHUONG,Chương,structure,17999,18008,CHƯƠNG IX
+ENTITY,E36_1,MUC,Mục,structure,10348,10353,MỤC 1
+ENTITY,E36_2,MUC,Mục,structure,10817,10822,MỤC 2
+ENTITY,E36_3,MUC,Mục,structure,12645,12650,MỤC 1
+ENTITY,E36_4,MUC,Mục,structure,14203,14208,MỤC 2
+ENTITY,E36_5,MUC,Mục,structure,16479,16484,MỤC 3
+ENTITY,E38_1,DIEU,Điều,structure,129,271,"Điều 1
+Việc bầu cử đại biểu Quốc hội nước Việt Nam dân chủ cộng hoà tiến hành theo nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín."
+ENTITY,E38_2,DIEU,Điều,structure,272,608,"Điều 2
+Công dân nước Việt Nam dân chủ cộng hoà, không phân biệt dân tộc, nòi giống, nam nữ, thành phần xã hội, tôn giáo, tín ngưỡng, tình trạng tài sản, trình độ văn hoá, nghề nghiệp, thời hạn cư trú, từ mười tám tuổi trở lên, đều có quyền bầu cử đại biểu Quốc hội, và từ hai mươi mốt tuổi trở lên đều có quyền ứng cử đại biểu Quốc hội."
+ENTITY,E38_3,DIEU,Điều,structure,609,712,"Điều 3
+Công dân đang ở trong Quân đội có quyền bầu cử và ứng cử đại biểu Quốc hội theo Điều 2 Luật này."
+ENTITY,E38_4,DIEU,Điều,structure,713,855,"Điều 4
+Những người bị Toà án hoặc pháp luật tước quyền bầu cử ứng cử và những người mất trí không có quyền bầu cử và ứng cử đại biểu Quốc hội."
+ENTITY,E38_5,DIEU,Điều,structure,856,936,"Điều 5
+Kinh phí về tổ chức bầu cử đại biểu Quốc hội do ngân sách Nhà nước chịu.
+"
+ENTITY,E38_6,DIEU,Điều,structure,963,1198,"Điều 6
+Lúc lập danh sách cử tri, những công dân có quyền bầu cử đại biểu Quốc hội cư trú thường xuyên hay tạm thời ở đâu đều được ghi tên vào danh sách cử tri ở nơi đó.
+Mỗi cử tri chỉ được ghi tên vào danh sách cử tri ở một nơi cư trú."
+ENTITY,E38_7,DIEU,Điều,structure,1199,1466,"Điều 7
+Danh sách cử tri do các Uỷ ban hành chính thị xã, khu phố, xã, thị trấn lập theo khu vực bỏ phiếu.
+Danh sách cử tri ở các đơn vị Quân đội và Công an nhân dân võ trang do các Ban chỉ huy đơn vị Quân đội và Công an nhân dân võ trang lập cho mỗi khu vực bỏ phiếu."
+ENTITY,E38_8,DIEU,Điều,structure,1467,1777,"Điều 8
+Chậm nhất là ba mươi ngày trước ngày bầu cử, phải niêm yết danh sách cử tri tại trụ sở các Uỷ ban hành chính thị xã, khu phố, xã, thị trấn hay là tại những nơi công cộng của khu vực bỏ phiếu. Đồng thời phải thông báo cho nhân dân biết việc niêm yết và phải vận động nhân dân tham gia kiểm tra danh sách."
+ENTITY,E38_9,DIEU,Điều,structure,1778,2499,"Điều 9
+Khi kiểm tra danh sách cử tri, nếu thấy có sai lầm hoặc thiếu sót thì trong thời hạn hai mươi ngày kể từ ngày niêm yết, nhân dân có quyền khiếu nại hoặc báo cáo bằng miệng hoặc bằng giấy lên cơ quan lập danh sách. Cơ quan lập danh sách cử tri phải ghi vào một quyển sổ những khiếu nại hoặc báo cáo miệng. Trong thời hạn ba ngày, kể từ ngày nhận được khiếu nại hoặc báo cáo, cơ quan lập danh sách phải giải quyết xong.
+Nếu người khiếu nại hoặc báo cáo chưa đồng ý về cách giải quyết đó, thì có quyền khiếu nại lên Toà án nhân dân huyện, châu, thị xã hoặc thành phố. Trong thời hạn ba ngày, kể từ ngày nhận được khiếu nại, Toà án nhân dân phải giải quyết xong; quyết định của Toà án nhân dân là quyết định cuối cùng."
+ENTITY,E38_10,DIEU,Điều,structure,2500,2924,"Điều 10
+Từ khi công bố danh sách cử tri cho đến ngày bầu cử, nếu cử tri nào vì đi nơi khác không thể tham gia bỏ phiếu được ở nơi đã được ghi tên vào danh sách cử tri, thì có quyền xin giấy chứng nhận của Uỷ ban hành chính nơi đó để được ghi tên vào danh sách cử tri và tham gia bỏ phiếu nơi mới đến. Khi cấp giấy chứng nhận, Uỷ ban hành chính phải ghi ngay vào danh sách, bên cạnh tên người cử tri: ""Đi bỏ phiếu nơi khác"".
+"
+ENTITY,E38_11,DIEU,Điều,structure,2969,3380,"Điều 11
+Đại biểu Quốc hội do từng đơn vị bầu cử bầu ra.
+Số đại biểu định cho mỗi đơn vị bầu cử là căn cứ vào số dân của đơn vị đó: cứ năm vạn (50.000) dân được cử một đại biểu; nếu số lẻ còn lại quá hai vạn năm nghìn (25.000) thì được thêm một đại biểu.
+ở những khu vực công nghiệp tập trung và ở những thành phố trực thuộc trung ương thì có thể từ một vạn (10.000) đến ba vạn (30.000) dân được cử một đại biểu."
+ENTITY,E38_12,DIEU,Điều,structure,3381,3719,"Điều 12
+Dựa vào dân số dân tộc thiểu số so với dân số toàn quốc, số đại biểu Quốc hội dành cho các dân tộc thiểu số bằng khoảng một phần bảy tổng số đại biểu Quốc hội.
+Số đại biểu Quốc hội dành cho các dân tộc thiểu số do Uỷ ban thường vụ Quốc hội phân phối, nhằm bảo đảm cho các dân tộc thiểu số có số đại biểu tương xứng trong Quốc hội."
+ENTITY,E38_13,DIEU,Điều,structure,3720,4025,"Điều 13
+Đơn vị bầu cử là tỉnh, thành phố trực thuộc trung ương, khu (không chia tỉnh) và khu công nghiệp tập trung nói ở Điều 11.
+Những tỉnh, thành phố trực thuộc trung ương, khu hay là khu công nghiệp tập trung, dân số đông, số đại biểu có từ mười người trở lên thì có thể chia thành nhiều đơn vị bầu cử."
+ENTITY,E38_14,DIEU,Điều,structure,4026,4206,"Điều 14
+Số đơn vị bầu cử, danh sách các đơn vị và số đại biểu cho mỗi đơn vị do Uỷ ban thường vụ Quốc hội quyết định, và phải được công bố chậm nhất là hai tháng trước ngày bầu cử."
+ENTITY,E38_15,DIEU,Điều,structure,4207,4746,"Điều 15
+Mỗi đơn vị bầu cử sẽ chia thành nhiều khu vực bỏ phiếu. Mỗi khu vực bỏ phiếu gồm từ năm trăm (500) đến hai nghìn năm trăm (2.500) dân. Việc chia khu vực bỏ phiếu nhằm bảo đảm sự thuận tiện đi bỏ phiếu của nhân dân.
+Đặc biệt ở những nơi như miền núi, hải đảo, v.v... có những thôn, xóm cách xa nhau thì dù số dân chưa tới năm trăm (500) người, cũng có thể thành lập một khu vực bỏ phiếu.
+Các nhà thương, nhà đỡ đẻ, nhà an dưỡng, nhà nuôi người tàn tật có từ năm mươi (50) cử tri trở lên, có thể tổ chức thành khu vực bỏ phiếu riêng."
+ENTITY,E38_16,DIEU,Điều,structure,4747,4903,"Điều 16
+Việc chia khu vực bỏ phiếu sẽ do các Uỷ ban hành chính thị xã, khu phố, xã, thị trấn định và phải được Uỷ ban hành chính cấp trên trực tiếp chuẩn y."
+ENTITY,E38_17,DIEU,Điều,structure,4904,5002,"Điều 17
+Các đơn vị Quân đội và Công an nhân dân vũ trang sẽ tổ chức thành khu vực bỏ phiếu riêng.
+"
+ENTITY,E38_18,DIEU,Điều,structure,5051,5212,"Điều 18
+Phụ trách tổ chức việc bầu cử đại biểu Quốc hội:
+ở trung ương có Hội đồng bầu cử;
+ở mỗi đơn vị bầu cử có Ban bầu cử;
+ở mỗi khu vực bỏ phiếu có Tổ bầu cử."
+ENTITY,E38_19,DIEU,Điều,structure,5213,5546,"Điều 19
+Chậm nhất là năm mươi nhăm ngày trước ngày bầu cử, Uỷ ban thường vụ Quốc hội thành lập Hội đồng bầu cử gồm hai mươi nhăm người, đại biểu cho các chính đảng, các đoàn thể nhân dân trong cả nước.
+Hội đồng bầu ra một Chủ tịch, một hoặc nhiều Phó Chủ tịch, và một hoặc nhiều Thư ký.
+Nhiệm vụ và quyền hạn Hội đồng bầu cử như sau:"
+ENTITY,E38_20,DIEU,Điều,structure,6001,6400,"Điều 20
+Chậm nhất là bốn mươi nhăm ngày trước ngày bầu cử, Uỷ ban hành chính tỉnh, khu (không chia tỉnh) và thành phố trực thuộc trung ương thành lập ở mỗi đơn vị bầu cử một Ban bầu cử gồm từ chín đến mười lăm người, đại biểu cho các chính đảng, các đoàn thể nhân dân ở địa phương.
+Ban bầu cử bầu ra một Trưởng ban, một Phó ban và một hoặc nhiều Thư ký.
+Nhiệm vụ và quyền hạn của Ban bầu cử như sau:"
+ENTITY,E38_21,DIEU,Điều,structure,7223,7761,"Điều 21
+Chậm nhất là hai mươi ngày trước ngày bầu cử, các Uỷ ban hành chính thị xã, khu phố, xã, thị trấn, thành lập ở mỗi khu vực bỏ phiếu một Tổ bầu cử gồm từ năm đến mười một người, đại biểu cho các tầng lớp nhân dân ở địa phương. Các đơn vị Quân đội và các đơn vị Công an nhân dân vũ trang thành lập ở mỗi khu vực bỏ phiếu của mình một Tổ bầu cử gồm từ năm đến chín đại biểu của quân nhân hoặc công an nhân dân vũ trang.
+Tổ bầu cử bầu ra một Tổ trưởng, một Tổ phó và một hoặc nhiều Thư ký.
+Nhiệm vụ và quyền hạn của Tổ bầu cử như sau:"
+ENTITY,E38_22,DIEU,Điều,structure,8141,8241,"Điều 22
+Hội đồng bầu cử, Ban bầu cử, Tổ bầu cử không được vận động bầu cử cho những người ra ứng cử."
+ENTITY,E38_23,DIEU,Điều,structure,8242,8350,"Điều 23
+Hội đồng bầu cử, Ban bầu cử, Tổ bầu cử hết nhiệm vụ sau khi cuộc bầu cử đại biểu Quốc hội kết thúc.
+"
+ENTITY,E38_24,DIEU,Điều,structure,8383,8553,"Điều 24
+ở mỗi đơn vị bầu cử, các chính đảng, các đoàn thể nhân dân có thể riêng biệt hoặc liên hiệp với nhau mà giới thiệu người ra ứng cử. Cá nhân có quyền tự ra ứng cử."
+ENTITY,E38_25,DIEU,Điều,structure,8554,8623,"Điều 25
+Mỗi người ứng cử chỉ được ghi tên ứng cử ở một đơn vị bầu cử."
+ENTITY,E38_26,DIEU,Điều,structure,8624,8723,"Điều 26
+Người ứng cử không được tham gia vào Ban bầu cử hoặc Tổ bầu cử thuộc đơn vị mình ra ứng cử."
+ENTITY,E38_27,DIEU,Điều,structure,8724,8866,"Điều 27
+Chậm nhất là ba mươi ngày trước ngày bầu cử, các chính đảng, các đoàn thể nhân dân giới thiệu người ra ứng cử phải nộp tại ban bầu cử:"
+ENTITY,E38_28,DIEU,Điều,structure,9273,9418,"Điều 28
+Khi hết hạn ứng cử, Ban bầu cử phải lập danh sách những người ứng cử và công bố danh sách đó, ít nhất là hai mươi ngày trước ngày bầu cử."
+ENTITY,E38_29,DIEU,Điều,structure,9419,10029,"Điều 29
+Kể từ ngày danh sách người ứng cử được công bố, ai thấy trong danh sách có sai lầm hoặc thiếu sót thì có quyền khiếu nại hoặc báo cáo bằng miệng hay bằng giấy lên Ban bầu cử. Ban bầu cử phải ghi những khiếu nại hoặc báo cáo ấy vào một quyền sổ. Trong thời hạn ba ngày, kể từ ngày nhận được khiếu nại hoặc báo cáo, Ban bầu cử phải giải quyết xong. Người khiếu nại hoặc báo cáo nếu chưa đồng ý, có quyền khiếu nại hoặc báo cáo lên Hội đồng bầu cử. Hội đồng bầu cử phải giải quyết trong thời hạn ba ngày, kể từ ngày nhận được khiếu nại hoặc báo cáo; quyết định của Hội đồng bầu cử là quyết định cuối cùng."
+ENTITY,E38_30,DIEU,Điều,structure,10030,10322,"Điều 30
+Các chính đảng, các đoàn thể nhân dân cũng như mỗi công dân Việt Nam đều có quyền, trong phạm vi pháp luật, tự do cổ động bằng mít tinh, hội nghị, báo chí và mọi hình thức khác để giới thiệu người ứng cử.
+Người ứng cử có quyền tự do cổ động cho bản thân mình trong phạm vi pháp luật.
+"
+ENTITY,E38_31,DIEU,Điều,structure,10366,10586,"Điều 31
+Việc bầu cử đại biểu Quốc hội tiến hành thống nhất một ngày trong cả nước.
+Ngày bầu cử phải là ngày chủ nhật hay là ngày nghỉ và do Uỷ ban thường vụ Quốc hội ấn định và công bố ít nhất là hai tháng trước ngày ấy."
+ENTITY,E38_32,DIEU,Điều,structure,10587,10817,"Điều 32
+Trong thời hạn mười lăm ngày trước ngày bầu cử, Tổ bầu cử phải thường xuyên báo cáo cho cử tri biết ngày bầu cử, nơi bỏ phiếu và thời gian bỏ phiếu bằng niêm yết, phát thanh và mọi phương tiện thông thường của địa phương.
+"
+ENTITY,E38_33,DIEU,Điều,structure,10841,11054,"Điều 33
+Cuộc bỏ phiếu bắt đầu từ bảy giờ sáng đến bảy giờ tối. Tuỳ tình hình địa phương, Tổ bầu cử có thể quyết định cho khai mạc sớm hay là bế mạc muộn hơn giờ quy định, nhưng không được kéo dài quá mười giờ đêm."
+ENTITY,E38_34,DIEU,Điều,structure,11055,11197,"Điều 34
+Cử tri phải tự mình đi bầu, không được nhờ người bầu thay, không được bầu bằng cách gửi thư.
+Mỗi cử tri chỉ có quyền bỏ một phiếu bầu."
+ENTITY,E38_35,DIEU,Điều,structure,11198,11687,"Điều 35
+Cử tri không biết chữ hoặc vì tàn tật không thể tự viết phiếu được, có thể tuỳ ý nhờ người viết hộ, nhưng phải tự tay mình bỏ phiếu; nếu tàn tật không thể tự mình bỏ phiếu lấy được, cử tri có thể nhờ người bỏ phiếu vào hòm phiếu.
+Cử tri ốm đau, già yếu, tàn tật, không thể đến phòng bỏ phiếu được, có thể đề nghị Tổ bầu cử mang hòm phiếu và phiếu bầu đến tận nhà mình để bỏ phiếu. Trường hợp này, Tổ bầu cử có thể tổ chức hòm bỏ phiếu phụ để đem đến nhà cử tri tiếp nhận phiếu bầu."
+ENTITY,E38_36,DIEU,Điều,structure,11688,11766,"Điều 36
+Lúc viết phiếu không ai được đến gần để xem kể cả nhân viên Tổ bầu cử."
+ENTITY,E38_37,DIEU,Điều,structure,11767,11845,"Điều 37
+Nếu viết hỏng, cử tri có thể đề nghị Tổ bầu cứ đổi cho một phiếu khác."
+ENTITY,E38_38,DIEU,Điều,structure,11846,11915,"Điều 38
+Cấm tuyên truyền cổ động cho người ứng cử tại phòng bỏ phiếu."
+ENTITY,E38_39,DIEU,Điều,structure,11916,12017,"Điều 39
+Để bảo đảm trật tự cho việc bỏ phiếu mọi người đều phải tuân theo nội quy của phòng bỏ phiếu."
+ENTITY,E38_40,DIEU,Điều,structure,12018,12193,"Điều 40
+Khi đã hết giờ bỏ phiếu, mà còn một số cử tri có mặt ở phòng bỏ phiếu chưa kịp bỏ phiếu thì cần để số cử tri này bỏ phiếu cho xong mới tuyên bố kết thúc cuộc bỏ phiếu."
+ENTITY,E38_41,DIEU,Điều,structure,12194,12475,"Điều 41
+Trong ngày bầu cử, cuộc bỏ phiếu phải liên tục. Nếu có trường hợp bất ngờ làm gián đoạn việc bỏ phiếu thì Tổ bầu cử lập tức phải niêm phong các giấy tờ và hòm phiếu lại, báo cáo cho Ban bầu cử biết, đồng thời phải có những biện pháp cần thiết để tiếp tục lại cuộc bỏ phiếu."
+ENTITY,E38_42,DIEU,Điều,structure,12476,12619,"Điều 42
+Nếu vì lý do đặc biệt cần hoãn ngày bỏ phiếu, Tổ bầu cử phải kịp thời báo cáo cho Ban bầu cử biết để đề nghị Hội đồng bầu cử xét định.
+"
+ENTITY,E38_43,DIEU,Điều,structure,12662,12950,"Điều 43
+Phiếu bầu phải được đếm và kiểm soát tại phòng bỏ phiếu. Lúc kiểm phiếu, Tổ bầu cử phải mời hai cử tri không ra ứng cử có mặt tại đó chứng kiến.
+Người ứng cử (hoặc người được người ứng cử chính thức uỷ nhiệm) và các phóng viên báo chí, điện ảnh, nhiếp ảnh được vào xem kiểm phiếu."
+ENTITY,E38_44,DIEU,Điều,structure,12951,12995,"Điều 44
+Những phiếu sau đây là không hợp lệ:"
+ENTITY,E38_45,DIEU,Điều,structure,13137,13345,"Điều 45
+Những phiếu bầu có biên tên một hoặc nhiều người không ứng cử vẫn được coi là hợp lệ, song tên những người không ứng cử này thì không kể.
+Tổ bầu cử không được xoá hoặc chữa các tên ghi trên phiếu bầu."
+ENTITY,E38_46,DIEU,Điều,structure,13346,13453,"Điều 46
+Nếu có sự nghi ngờ phiếu nào không hợp lệ thì Tổ trưởng Tổ bầu cử đưa vấn đề ra toàn Tổ giải quyết."
+ENTITY,E38_47,DIEU,Điều,structure,13454,13648,"Điều 47
+Những khiếu nại tại chỗ về việc kiểm phiếu do Tổ bầu cử tiếp nhận, giải quyết và ghi cách giải quyết vào biên bản. Nếu Tổ không giải quyết được thì phải đưa lên Ban bầu cử để giải quyết."
+ENTITY,E38_48,DIEU,Điều,structure,13649,14203,"Điều 48
+Kiểm phiếu xong, Tổ bầu cử phải lập biên bản ghi:
+- Tổng số cử tri,
+- Số cử tri đã đi bầu,
+- Số phiếu hợp lệ,
+- Số phiếu không hợp lệ,
+- Số phiếu trắng tức là phiếu mà tên họ tất cả các người ứng cử đều bị gách xoá,
+- Số phiếu bầu cho mỗi người ứng cử,
+- Những khiếu nại nhận được và cách giải quyết, những khiếu nại chưa giải quyết được.
+Biên bản làm thành hai bản có chữ ký của Tổ trưởng, Thư ký và hai cử tri được mời chứng kiến cuộc kiểm phiếu. Một bản gửi đến Ban bầu cử, một bản gửi đến Uỷ ban hành chính thị xã, khu phố, xã hoặc thị trấn.
+"
+ENTITY,E38_49,DIEU,Điều,structure,14262,15133,"Điều 49
+Sau khi nhận được biên bản của Tổ bầu cử, Ban bầu cử kiểm tra các biên bản đó và xác định kết quả bầu cử của các khu vực bỏ phiếu thuộc đơn vị bầu cử của mình.
+Biên bản phải ghi rõ:
+- Số đại biểu Quốc hội ấn định cho đơn vị bầu cử,
+- Số người ứng cử,
+- Tổng số cử tri trong đơn vị bầu cử,
+- Số cử tri đã đi bầu, tỷ lệ so với tổng số,
+- Số phiếu hợp lệ,
+- Số phiếu không hợp lệ,
+- Số phiếu trắng tức là phiếu mà tên họ tất cả các người ứng cử đều bị gách xoá,
+- Số phiếu bầu cho mỗi người ứng cử,
+- Danh sách những người trúng cử,
+- Những khiếu nại do Tổ bầu cử đã giải quyết, những khiếu nại do Ban bầu cử đã giải quyết, những khiếu nại chuyển lên cấp trên để giải quyết.
+Biên bản làm thành hai bản, có chữ ký của Trưởng ban, Phó ban và các Thư ký. Một bản gửi lên Hội đồng bầu cử, một bản gửi lên Uỷ ban hành chính thành phố trực thuộc trung ương, tỉnh hoặc khu."
+ENTITY,E38_50,DIEU,Điều,structure,15134,15372,"Điều 50
+Trong số đại biểu mà đơn vị được cử, những người ra ứng cử được quá nửa số phiếu hợp lệ và được nhiều phiếu hơn cả là trúng cử; nếu nhiều người được một số phiếu bằng nhau thì, theo thứ tự tuổi, người nhiều tuổi hơn được trúng cử."
+ENTITY,E38_51,DIEU,Điều,structure,15373,15750,"Điều 51
+Nếu trong cuộc bầu cử đầu tiên, số người trúng cử chưa đủ số đại biểu quy định thì Ban bầu cử phải ghi rõ điểm này vào biên bản và báo cáo cho Hội đồng bầu cử, đồng thời định ngày bầu cử thêm những đại biểu còn thiếu, chậm nhất không được quá mười lăm ngày, sau cuộc bầu cử đầu tiên. Trong cuộc bầu thêm, chỉ chọn bầu trong số người đã ra ứng cử (nhưng không trúng cử)."
+ENTITY,E38_52,DIEU,Điều,structure,15751,16101,"Điều 52
+Trong mỗi đơn vị bầu cử, nếu số phiếu bầu chưa được quá nửa số cử tri ghi trong danh sách thì Ban bầu cử phải ghi rõ điểm này vào biên bản và báo cáo ngay cho Hội đồng bầu cử để quyết định ngày bầu lại, chậm nhất không được quá mười lăm ngày sau cuộc bầu cử đầu tiên. Trong cuộc bầu lại, chỉ chọn bầu trong số những người đã ra ứng cử kỳ đầu."
+ENTITY,E38_53,DIEU,Điều,structure,16102,16479,"Điều 53
+Việc bầu lại hoặc bầu thêm vẫn theo danh sách cử tri đã được sắp xếp trong cuộc bầu cử đầu tiên, và phải theo những điều đã được quy định trong Luật này, trừ điều kiện phải được quá nửa số phiếu hợp lệ thì người ứng cử mới được trúng cử quy định trong điều 50 và điều kiện phải có quá nửa số cử tri đi bầu thì cuộc bầu cử mới không phải bầu lại quy định trong Điều 52.
+"
+ENTITY,E38_54,DIEU,Điều,structure,16528,17261,"Điều 54
+Sau khi nhận được biện bản của các Ban bầu cử và giải quyết xong những đơn khiếu nại nếu có, Hội đồng bầu cử làm biên bản tổng kết cuộc bầu cử trong cả nước.
+Biên bản tổng kết phải ghi rõ:
+- Tổng số đại biểu Quốc hội,
+- Tổng số người ứng cử,
+- Tổng số cử tri,
+- Số cử tri đã đi bầu, tỷ lệ so với tổng số,
+- Số phiếu hợp lệ,
+- Số phiếu không hợp lệ,
+- Số phiếu trắng tức là phiếu mà tên họ tất cả các người ứng cử đều bị gách xoá,
+- Danh sách những người trúng cử, và số phiếu bầu cho mỗi người,
+- Các việc quan trọng đã xảy ra và cách giải quyết.
+Biên bản làm thành hai bản, có chữ ký của Chủ tịch, các Phó Chủ tịch và Thư ký của Hội đồng bầu cử. Một bản gửi đến Uỷ ban thường vụ Quốc hội, một bản gửi đến Hội đồng Chính phủ."
+ENTITY,E38_55,DIEU,Điều,structure,17262,17419,"Điều 55
+Trong nhiệm kỳ, nếu khuyết một đại biểu Quốc hội thì Uỷ ban thường vụ Quốc hội có thể ấn định ngày bầu cử bổ sung đại biểu mới cho đơn vị bầu cử đó.
+"
+ENTITY,E38_56,DIEU,Điều,structure,17446,17604,"Điều 56
+Người nào dùng thủ đoạn lừa gạt, mua chuộc hoặc cưỡng ép làm trở ngại đến quyền tự do bầu cử và ứng cử của công dân thì có thể bị phạt tù đến hai năm."
+ENTITY,E38_57,DIEU,Điều,structure,17605,17848,"Điều 57
+Nhân viên trong các Hội đồng bầu cử, Ban bầu cử, Tổ bầu cử và nhân viên trong các tổ chức chính quyền phạm tội giả mạo giấy tờ, gian lận phiếu hoặc dùng mọi thủ đoạn khác để làm sai lạc kết quả cuộc bầu cử có thể bị phạt tù đến ba năm."
+ENTITY,E38_58,DIEU,Điều,structure,17849,17999,"Điều 58
+Mỗi người đều có quyền tố cáo các việc làm trái phép trong lúc bầu cử. Ai cản trở hoặc trả thù người tố cáo thì có thể bị phạt tù đến ba năm.
+"
+ENTITY,E38_59,DIEU,Điều,structure,18029,18165,"Điều 59
+Nay bãi bỏ sắc lệnh số 51-SL ngày 17 tháng 10 năm 1945 và những quy định về bầu cử đại biểu Quốc hội đã ban hành trước Luật này."
+ENTITY,E38_60,DIEU,Điều,structure,18166,18220,"Điều 60
+Chính phủ quy định chi tiết thi hành Luật này."
+ENTITY,E39_1,KHOAN,Khoản,structure,5547,5631,1- Kiểm tra và đôn đốc việc thi hành luật lệ bầu cử đại biểu Quốc hội trong cả nước;
+ENTITY,E39_2,KHOAN,Khoản,structure,5632,5707,"2- Xét và giải quyết những khiếu nại về công tác của Ban bầu cử,
+Tổ bầu cử;"
+ENTITY,E39_3,KHOAN,Khoản,structure,5708,5827,"3- Tiếp nhận và kiểm tra biên bản bầu cử do các Ban bầu cử gửi đến, làm biên bản ghi kết quả cuộc bầu cử trong cả nước;"
+ENTITY,E39_4,KHOAN,Khoản,structure,5828,5874,4- Tuyên bố kết quả cuộc bầu cử trong cả nước;
+ENTITY,E39_5,KHOAN,Khoản,structure,5875,5920,5- Cấp giấy chứng nhận cho đại biểu trúng cử;
+ENTITY,E39_6,KHOAN,Khoản,structure,5921,6000,6- Trình Quốc hội biên bản tổng kết bầu cử cùng những hồ sơ tài liệu về bầu cử.
+ENTITY,E39_7,KHOAN,Khoản,structure,6401,6490,1- Kiểm tra và đôn đốc các Tổ bầu cử chấp hành đúng đắn luật lệ bầu cử đại biểu Quốc hội;
+ENTITY,E39_8,KHOAN,Khoản,structure,6491,6545,2- Kiểm tra và đôn đốc việc bố trí các phòng bỏ phiếu;
+ENTITY,E39_9,KHOAN,Khoản,structure,6546,6609,3- Xét và giải quyết những khiếu nại về công tác của Tổ bầu cử;
+ENTITY,E39_10,KHOAN,Khoản,structure,6610,6701,"4- In và phân phối phiếu bầu cử cho các Tổ bầu cử, chậm nhất là bảy ngày trước ngày bầu cử;"
+ENTITY,E39_11,KHOAN,Khoản,structure,6702,6752,5- Kiểm tra việc lập và niêm yết danh sách cử tri;
+ENTITY,E39_12,KHOAN,Khoản,structure,6753,6887,"6- Tiếp nhận đơn ứng cử, lập và niêm yết danh sách người ứng cử, xét và giải quyết những khiếu nại về việc lập danh sách người ứng cử;"
+ENTITY,E39_13,KHOAN,Khoản,structure,6888,6940,7- Kiểm tra công việc bầu cử tại các phòng bỏ phiếu;
+ENTITY,E39_14,KHOAN,Khoản,structure,6941,7101,"8- Tiếp nhận, kiểm tra biên bản kiểm phiếu do các Tổ bầu cử gửi đến, làm biên bản ghi kết quả bầu cử trong đơn vị để gửi lên Hội đồng bầu cử và tuyêm bố quả đó;"
+ENTITY,E39_15,KHOAN,Khoản,structure,7102,7222,"9- Giao tài liệu hồ sơ về bầu cử cho Uỷ ban hành chính các tỉnh,
+khu (không chia tỉnh), thành phố trực thuộc trung ương."
+ENTITY,E39_16,KHOAN,Khoản,structure,7762,7814,1- Phụ trách công tác bầu cử trong khu vực bỏ phiếu;
+ENTITY,E39_17,KHOAN,Khoản,structure,7815,7865,2- Bố trí phòng bỏ phiếu và chuẩn bị hòm bỏ phiếu;
+ENTITY,E39_18,KHOAN,Khoản,structure,7866,7928,3- Phát phiếu bầu cử có đóng dấu của Tổ bầu cử cho các cử tri;
+ENTITY,E39_19,KHOAN,Khoản,structure,7929,7969,4- Bảo đảm trật tự trong phòng bỏ phiếu;
+ENTITY,E39_20,KHOAN,Khoản,structure,7970,8033,5- Kiểm phiếu và làm biên bản kiểm phiếu để gửi lên Ban bầu cử;
+ENTITY,E39_21,KHOAN,Khoản,structure,8034,8140,"6- Giao biên bản kiểm phiếu và tất cả những phiếu bầu cho Uỷ ban hành chính thị xã, khu phố, xã, thị trấn."
+ENTITY,E39_22,KHOAN,Khoản,structure,8867,8899,1- Giấy giới thiệu người ứng cử;
+ENTITY,E39_23,KHOAN,Khoản,structure,8900,9014,"2- Đơn ứng cử của những người được giới thiệu, có ghi tên, tuổi,
+nghề nghiệp, nguyên quán, địa chỉ, nơi ra ứng cử;"
+ENTITY,E39_24,KHOAN,Khoản,structure,9015,9272,"3- Giấy chứng nhận người ứng cử có đủ điều kiện ứng cử.
+Chậm nhất là ba mươi ngày trước ngày bầu cử, cá nhân tự ra ứng cử phải nộp tại Ban bầu cử, đơn ứng cử và giấy chứng nhận có đủ điều kiện ứng cử.
+Khi nhận đơn ứng cử, Ban bầu cử phải cấp giấy biên nhận."
+ENTITY,E39_25,KHOAN,Khoản,structure,12996,13055,1- Không phải là phiếu theo mẫu quy định do Tổ bầu cử phát;
+ENTITY,E39_26,KHOAN,Khoản,structure,13056,13086,2- Không có dấu của Tổ bầu cử;
+ENTITY,E39_27,KHOAN,Khoản,structure,13087,13136,3- Ghi tên người ứng cử quá số đại biểu được bầu.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_9,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_10,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_11,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_12,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_13,THUOC,Thuộc,E38_11,E35_3,,
+RELATION,R22_14,THUOC,Thuộc,E38_12,E35_3,,
+RELATION,R22_15,THUOC,Thuộc,E38_13,E35_3,,
+RELATION,R22_16,THUOC,Thuộc,E38_14,E35_3,,
+RELATION,R22_17,THUOC,Thuộc,E38_15,E35_3,,
+RELATION,R22_18,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,R22_19,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,R22_20,THUOC,Thuộc,E38_18,E35_4,,
+RELATION,R22_21,THUOC,Thuộc,E38_19,E35_4,,
+RELATION,R22_22,THUOC,Thuộc,E39_1,E38_19,,
+RELATION,R22_23,THUOC,Thuộc,E39_2,E38_19,,
+RELATION,R22_24,THUOC,Thuộc,E39_3,E38_19,,
+RELATION,R22_25,THUOC,Thuộc,E39_4,E38_19,,
+RELATION,R22_26,THUOC,Thuộc,E39_5,E38_19,,
+RELATION,R22_27,THUOC,Thuộc,E39_6,E38_19,,
+RELATION,R22_28,THUOC,Thuộc,E38_20,E35_4,,
+RELATION,R22_29,THUOC,Thuộc,E39_7,E38_20,,
+RELATION,R22_30,THUOC,Thuộc,E39_8,E38_20,,
+RELATION,R22_31,THUOC,Thuộc,E39_9,E38_20,,
+RELATION,R22_32,THUOC,Thuộc,E39_10,E38_20,,
+RELATION,R22_33,THUOC,Thuộc,E39_11,E38_20,,
+RELATION,R22_34,THUOC,Thuộc,E39_12,E38_20,,
+RELATION,R22_35,THUOC,Thuộc,E39_13,E38_20,,
+RELATION,R22_36,THUOC,Thuộc,E39_14,E38_20,,
+RELATION,R22_37,THUOC,Thuộc,E39_15,E38_20,,
+RELATION,R22_38,THUOC,Thuộc,E38_21,E35_4,,
+RELATION,R22_39,THUOC,Thuộc,E39_16,E38_21,,
+RELATION,R22_40,THUOC,Thuộc,E39_17,E38_21,,
+RELATION,R22_41,THUOC,Thuộc,E39_18,E38_21,,
+RELATION,R22_42,THUOC,Thuộc,E39_19,E38_21,,
+RELATION,R22_43,THUOC,Thuộc,E39_20,E38_21,,
+RELATION,R22_44,THUOC,Thuộc,E39_21,E38_21,,
+RELATION,R22_45,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,R22_46,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_47,THUOC,Thuộc,E38_24,E35_5,,
+RELATION,R22_48,THUOC,Thuộc,E38_25,E35_5,,
+RELATION,R22_49,THUOC,Thuộc,E38_26,E35_5,,
+RELATION,R22_50,THUOC,Thuộc,E38_27,E35_5,,
+RELATION,R22_51,THUOC,Thuộc,E39_22,E38_27,,
+RELATION,R22_52,THUOC,Thuộc,E39_23,E38_27,,
+RELATION,R22_53,THUOC,Thuộc,E39_24,E38_27,,
+RELATION,R22_54,THUOC,Thuộc,E38_28,E35_5,,
+RELATION,R22_55,THUOC,Thuộc,E38_29,E35_5,,
+RELATION,R22_56,THUOC,Thuộc,E38_30,E35_5,,
+RELATION,R22_57,THUOC,Thuộc,E36_1,E35_6,,
+RELATION,R22_58,THUOC,Thuộc,E38_31,E36_1,,
+RELATION,R22_59,THUOC,Thuộc,E38_32,E36_1,,
+RELATION,R22_60,THUOC,Thuộc,E36_2,E35_6,,
+RELATION,R22_61,THUOC,Thuộc,E38_33,E36_2,,
+RELATION,R22_62,THUOC,Thuộc,E38_34,E36_2,,
+RELATION,R22_63,THUOC,Thuộc,E38_35,E36_2,,
+RELATION,R22_64,THUOC,Thuộc,E38_36,E36_2,,
+RELATION,R22_65,THUOC,Thuộc,E38_37,E36_2,,
+RELATION,R22_66,THUOC,Thuộc,E38_38,E36_2,,
+RELATION,R22_67,THUOC,Thuộc,E38_39,E36_2,,
+RELATION,R22_68,THUOC,Thuộc,E38_40,E36_2,,
+RELATION,R22_69,THUOC,Thuộc,E38_41,E36_2,,
+RELATION,R22_70,THUOC,Thuộc,E38_42,E36_2,,
+RELATION,R22_71,THUOC,Thuộc,E36_3,E35_7,,
+RELATION,R22_72,THUOC,Thuộc,E38_43,E36_3,,
+RELATION,R22_73,THUOC,Thuộc,E38_44,E36_3,,
+RELATION,R22_74,THUOC,Thuộc,E39_25,E38_44,,
+RELATION,R22_75,THUOC,Thuộc,E39_26,E38_44,,
+RELATION,R22_76,THUOC,Thuộc,E39_27,E38_44,,
+RELATION,R22_77,THUOC,Thuộc,E38_45,E36_3,,
+RELATION,R22_78,THUOC,Thuộc,E38_46,E36_3,,
+RELATION,R22_79,THUOC,Thuộc,E38_47,E36_3,,
+RELATION,R22_80,THUOC,Thuộc,E38_48,E36_3,,
+RELATION,R22_81,THUOC,Thuộc,E36_4,E35_7,,
+RELATION,R22_82,THUOC,Thuộc,E38_49,E36_4,,
+RELATION,R22_83,THUOC,Thuộc,E38_50,E36_4,,
+RELATION,R22_84,THUOC,Thuộc,E38_51,E36_4,,
+RELATION,R22_85,THUOC,Thuộc,E38_52,E36_4,,
+RELATION,R22_86,THUOC,Thuộc,E38_53,E36_4,,
+RELATION,R22_87,THUOC,Thuộc,E36_5,E35_7,,
+RELATION,R22_88,THUOC,Thuộc,E38_54,E36_5,,
+RELATION,R22_89,THUOC,Thuộc,E38_55,E36_5,,
+RELATION,R22_90,THUOC,Thuộc,E38_56,E35_8,,
+RELATION,R22_91,THUOC,Thuộc,E38_57,E35_8,,
+RELATION,R22_92,THUOC,Thuộc,E38_58,E35_8,,
+RELATION,R22_93,THUOC,Thuộc,E38_59,E35_9,,
+RELATION,R22_94,THUOC,Thuộc,E38_60,E35_9,,

@@ -1,0 +1,209 @@
+{
+  "schema_version": "1.0",
+  "document_id": "21013",
+  "document_code": "07/2003/L-CTN",
+  "file_name": "07_2003_L-CTN_21013.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 07/2003/L-CTN Về việc công bố Pháp lệnh Hành nghề y, dược tư nhân",
+    "so_hieu": "07/2003/L-CTN",
+    "loai_van_ban": "Lệnh",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "ngay_ban_hanh": "ngày 25 tháng 12 năm 2001",
+    "ngay_co_hieu_luc": "2003-04-20",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH NƯỚC",
+    "nguoi_ky": "Trần Đức Lương",
+    "nganh": "Y  tế",
+    "linh_vuc": "Lĩnh vực thực hiện chính sách bảo hiểm y tế"
+  },
+  "full_text": "Lệnh số 07/2003/L-CTN Về việc công bố Pháp lệnh Hành nghề y, dược tư nhân\nLỆNH CỦA CHỦ TỊCH NƯỚC\nVề việc công bố Pháp lệnh Hành nghề y, dược tư nhân\n--------------------------\nCHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ vào Điều 103 và Điều 106 của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sưa đổi, bổ sung theo Nghị quyết số 51/2001 /QH10 ngày 25 tháng 12 năm 2001 của Quốc hội Khóa X, kỳ họp thứ 10;\nCăn cứ vào Điều 19 của Luật Tổ chức Quốc hội;\nCăn cứ vào Điều 51 của Luật Ban hành văn bản quy phạm pháp luật,\nNAY CÔNG BỐ:\nPháp lệnh Hành nghề y, dược tư nhân.\nĐã được Ủy ban Thường vụ Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam Khóa XI thông qua ngày 25 tháng 02 năm 2003./.\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Ngành]: Y  tế\n[Lĩnh vực]: Lĩnh vực thực hiện chính sách bảo hiểm y tế\n[Ngày có hiệu lực]: 2003-04-20\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Người ký]: Trần Đức Lương\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 30/2001/QH10\n[Căn cứ ban hành]: Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)\n[Căn cứ ban hành]: Luật Ban hành Văn bản quy phạm pháp luật số Không số\n[Văn bản được dẫn chiếu]: Pháp lệnh số 07/2003/PL-UBTVQH11 Hành nghề y, dược tư nhân",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 73,
+      "text": "Lệnh số 07/2003/L-CTN Về việc công bố Pháp lệnh Hành nghề y, dược tư nhân",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 21,
+      "text": "07/2003/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E4_1",
+      "start": 783,
+      "end": 788,
+      "text": "Y  tế",
+      "code": "NGANH",
+      "label": "Ngành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 378,
+      "end": 403,
+      "text": "ngày 25 tháng 12 năm 2001",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 801,
+      "end": 844,
+      "text": "Lĩnh vực thực hiện chính sách bảo hiểm y tế",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 865,
+      "end": 875,
+      "text": "2003-04-20",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 899,
+      "end": 911,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 176,
+      "end": 224,
+      "text": "CHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 176,
+      "end": 189,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 924,
+      "end": 938,
+      "text": "Trần Đức Lương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E18_1",
+      "start": 1160,
+      "end": 1218,
+      "text": "Pháp lệnh số 07/2003/PL-UBTVQH11 Hành nghề y, dược tư nhân",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 958,
+      "end": 995,
+      "text": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 1015,
+      "end": 1061,
+      "text": "Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 1081,
+      "end": 1133,
+      "text": "Luật Ban hành Văn bản quy phạm pháp luật số Không số",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R6_1",
+      "from_id": "E2_1",
+      "to_id": "E18_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E2_1",
+      "to_id": "E19_2",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E2_1",
+      "to_id": "E19_3",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

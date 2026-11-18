@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0",
+  "document_id": "17816",
+  "document_code": "06/2004/L-CTN",
+  "file_name": "06_2004_L-CTN_17816.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 06/2004/L-CTN Về việc công bố Pháp lệnh của Uỷ ban Thường vụ Quốc hội",
+    "so_hieu": "06/2004/L-CTN",
+    "loai_van_ban": "Lệnh",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "ngay_ban_hanh": "Ngày 12 tháng 05 năm 2004",
+    "ngay_co_hieu_luc": "2004-05-25",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH NƯỚC",
+    "nguoi_ky": "Trần Đức Lương",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 06/2004/L-CTN Về việc công bố Pháp lệnh của Uỷ ban Thường vụ Quốc hội\nCHỦ TỊCH NƯỚC\n-------\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\n---------\nSố: 06/2004/L-CTN\nHà Nội, Ngày 12 tháng 05 năm 2004\nLỆNH\nVề việc công bố Pháp lệnh của Uỷ ban Thường vụ Quốc hội\nCHỦ TỊCH NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 103 và Điều 106 của Hiếp pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25/12/2001 của Quốc hội Khoá X, kỳ họp thứ 10;\nCăn cứ vào Điều 19 của Luật Tổ chức Quốc hội;\nCăn cứ vào Điều 51 của Luật Ban hành văn bản quy phạm pháp luật.\nNAY CÔNG BỐ:\nPháp lệnh Thú y.\nĐã được Uỷ ban Thường vụ Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam Khoá XI thông qua ngày 29 tháng 04 năm 2004./.\nCHỦ TỊCH NƯỚC\n(đã ký)\nTrần Đức Lương\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 2004-05-25\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 30/2001/QH10\n[Căn cứ ban hành]: Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)\n[Căn cứ ban hành]: Luật Ban hành Văn bản quy phạm pháp luật số Không số\n[Văn bản được dẫn chiếu]: Pháp lệnh số 18/2004/PL-UBTVQH11 Thú y\n[Văn bản quy định chi tiết, hướng dẫn thi hành]: Quyết định số 456/QĐ-BNN-NTTS V/v Ban hành một số quy định về điều kiện sản xuất giống, nuôi tôm chân trắng\n[Văn bản áp dụng]: Quyết định số 456/QĐ-BNN-NTTS V/v Ban hành một số quy định về điều kiện sản xuất giống, nuôi tôm chân trắng",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 77,
+      "text": "Lệnh số 06/2004/L-CTN Về việc công bố Pháp lệnh của Uỷ ban Thường vụ Quốc hội",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 21,
+      "text": "06/2004/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 199,
+      "end": 224,
+      "text": "Ngày 12 tháng 05 năm 2004",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 898,
+      "end": 912,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 933,
+      "end": 943,
+      "text": "2004-05-25",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 967,
+      "end": 979,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 286,
+      "end": 334,
+      "text": "CHỦ TỊCH NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 797,
+      "end": 810,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 819,
+      "end": 833,
+      "text": "Trần Đức Lương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E18_1",
+      "start": 1201,
+      "end": 1239,
+      "text": "Pháp lệnh số 18/2004/PL-UBTVQH11 Thú y",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 999,
+      "end": 1036,
+      "text": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 1056,
+      "end": 1102,
+      "text": "Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 1122,
+      "end": 1174,
+      "text": "Luật Ban hành Văn bản quy phạm pháp luật số Không số",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E24_1",
+      "start": 1289,
+      "end": 1396,
+      "text": "Quyết định số 456/QĐ-BNN-NTTS V/v Ban hành một số quy định về điều kiện sản xuất giống, nuôi tôm chân trắng",
+      "code": "VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_1",
+      "start": 1416,
+      "end": 1523,
+      "text": "Quyết định số 456/QĐ-BNN-NTTS V/v Ban hành một số quy định về điều kiện sản xuất giống, nuôi tôm chân trắng",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R6_1",
+      "from_id": "E2_1",
+      "to_id": "E18_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E2_1",
+      "to_id": "E19_2",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E2_1",
+      "to_id": "E19_3",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R12_1",
+      "from_id": "E2_1",
+      "to_id": "E24_1",
+      "code": "QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R18_1",
+      "from_id": "E2_1",
+      "to_id": "E30_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

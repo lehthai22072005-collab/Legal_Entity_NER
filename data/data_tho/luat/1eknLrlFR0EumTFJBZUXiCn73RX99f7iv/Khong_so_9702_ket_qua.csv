@@ -1,0 +1,91 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,78,"Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức Tòa án nhân dân số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,70,78,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,5596,5621,ngày 28 tháng 10 năm 1995
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,5687,5701,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,5722,5732,1996-07-01
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,5754,5764,2002-04-12
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,5788,5808,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,305,313,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,5822,5839,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,5852,5865,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,5958,5976,Hiến pháp năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,6018,6096,"Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức Tòa án nhân dân số Không số"
+ENTITY,E15_2,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,6138,6178,Luật Tổ chức Tòa án nhân dân số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,5885,5903,Hiến pháp năm 1992
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,6816,6860,Luật Tổ chức Tòa án nhân dân số 33/2002/QH10
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,6200,6250,"Pháp lệnh số 01/1998/PL-UBTVQH10 Cán bộ, công chức"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,6270,6419,"Nghị định số 47/CP Về việc giải quyết bồi thường thiệt hại do công chức, viên chức Nhà nước, người có thẩm quyền của cơ quan tiến hành tố tụng gây ra"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,6439,6571,"Nghị quyết số 01/2001/NQ-HĐTP Hướng dẫn áp dụng một số quy định của các điều 139, 193, 194, 278, 279 và 289 Bộ luật Hình sự năm 1999"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,6591,6766,"Quyết định số 1990/2001/QĐ.UBT Về việc điều chỉnh địa giới ấp của các xã: Long An, Phú Đức, Long Phước, Phú Quới, Thạnh Quới và xã Đồng Phú thuộc huyện Long Hồ, tỉnh Vĩnh Long"
+ENTITY,E38_1,DIEU,Điều,structure,436,514,"Điều 1:
+Sửa đổi, bổ sung một số điều của Luật tổ chức Toà án nhân dân như sau:"
+ENTITY,E38_2,DIEU,Điều,structure,5279,5393,"Điều 2
+Luật này có hiệu lực kể từ ngày 01 tháng 7 năm 1996.
+Những quy định trước đây trái với Luật này đều bãi bỏ."
+ENTITY,E38_3,DIEU,Điều,structure,5394,5497,"Điều 3
+Chính phủ, Toà án nhân dân tối cao trong phạm vị chức năng của mình hướng dẫn thi hành Luật này."
+ENTITY,E39_1,KHOAN,Khoản,structure,515,1376,"1. Điều 1 được bổ sung:
+""Điều 1
+Toà án nhân dân tối cao, các Toà án nhân dân địa phương, các Toà án quân sự và các Toà án khác do luật định là các cơ quan xét xử của nước Cộng hoà xã hội chủ nghĩa Việt Nam.
+Toà án xét xử những vụ án hình sự, dân sự, hôn nhân và gia đình, lao động, kinh tế, hành chính và giải quyết những việc khác theo quy định của pháp luật.
+Trong phạm vi chức năng của mình, Toà án có nhiệm vụ bảo vệ pháp chế xã hội chủ nghĩa; bảo vệ chế độ xã hội chủ nghĩa và quyền làm chủ của nhân dân; bảo vệ tài sản của Nhà nước, của tập thể; bảo vệ tính mạng, tài sản, tự do, danh dự và nhân phẩm của công dân.
+Bằng hoạt động của mình, Toà án góp phần giáo dụng công dân trung thành với Tổ quốc, chấp hành nghiêm chỉnh pháp luật, tôn trọng những quy tắc của cuộc sống xã hội, ý thức đấu tranh chống và phòng ngừa tội phạm, các vi phạm pháp luật khác""."
+ENTITY,E39_2,KHOAN,Khoản,structure,1377,1709,"2. Điều 8 được bổ sung:
+""Điều 8
+Toà án xét xử theo nguyên tắc mọi công dân đều bình đẳng trước pháp luật, không phân biệt nam nữ, dân tộc, tín ngưỡng, tôn giáo, thành phần xã hội, địa vị xã hội; cá nhân, cơ quan, tổ chức, đơn vị vũ trang và các cơ sở sản xuất, kinh doanh thuộc mọi thành phần kinh tế đều bình đẳng trước pháp luật""."
+ENTITY,E39_3,KHOAN,Khoản,structure,1710,2200,"3. Khoản 2 Điều 17 được bổ sung:
+""2 - Cơ cấu tổ chức của Toà án nhân dân tối cáo gồm:
+- Hội đồng Thẩm phán Toà án nhân dân tối cao;
+- Uỷ ban Thẩm phán Toà án nhân dân tối cao;
+- Toà án quân sự trung ương, Toà hình sự, Toà dân sự, Toà kinh tế, Toà lao động, Toà hành chính và các Toà phúc thẩm Toà án nhân dân tối cao; trong trường hợp cần thiết, Uỷ ban thường vụ Quốc hội quyết định thành lập các Toà chuyên trách khác theo đề nghị của Chánh án Toà án nhân dân tối cao;
+- Bộ máy giúp việc""."
+ENTITY,E39_4,KHOAN,Khoản,structure,2201,2890,"4. Điều 23 được bổ sung:
+""Điều 23
+1. Toà hình sự, Toà dân sự, Toà kinh tế, Toà lao động, Toà hành chính Toà án nhân dân tối cao có Chánh toà, các Phó Chánh toà, Thẩm phán, Thư ký Toà án.
+2. Toà hình sự, Toà dân sự, Toà hành chính Toà án nhân dân tối cao có nhiệm vụ, quyền hạn sau đây:
+- Sơ thẩm đồng thời chung thẩm những vụ án theo quy định của pháp luật tố tụng;
+- Giám đốc thẩm, tái thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị theo quy định của pháp luật tố tụng;
+3. Toà kinh tế, Toà lao động Toà án nhân dân tối cao giám đốc thẩm, tái thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị theo quy định của pháp luật tố tụng""."
+ENTITY,E39_5,KHOAN,Khoản,structure,2891,3513,"5. Khoản 2 Điều 24 được bổ sung:
+""2 - Các Toà phúc thẩm Toà án nhân dân tối cao có nhiệm vụ, quyền hạn sau đây:
+- Phúc thẩm những vụ án mà bản án, quyết định sơ thẩm chưa có hiệu lực pháp luật của Toà án cấp dưới trực tiếp bị kháng cáo, kháng nghị theo quy định của pháp luật tố tụng;
+- Giải quyết khiếu nại đối với các quyết định của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương về tuyên bố phá sản doanh nghiệp theo quy định của pháp luật;
+- Giải quyết khiếu nại đối với các quyết định của Toà án nhân dân tỉnh, thành phố trực thuộc Trung ương về việc giải quyết các cuộc đình công theo quy định của pháp luật""."
+ENTITY,E39_6,KHOAN,Khoản,structure,3514,3942,"6. Khoản 1 Điều 27 được bổ sung:
+""1 - Cơ cấu tổ chức của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương gồm:
+- Uỷ ban Thẩm phán;
+- Toà hình sự, Toà dân sự, Toà kinh tế, Toà lao động, Toà hành chính; trong trường hợp cần thiết Uỷ ban thường vụ Quốc hội quyết định thành lập các Toà chuyên trách khác theo đề nghị của Bộ trưởng Bộ tư pháp sau khi thống nhất ý kiến với Chánh án Toà án nhân dân tối cao;
+- Bộ máy giúp việc""."
+ENTITY,E39_7,KHOAN,Khoản,structure,3943,5278,"7. Điều 30 được bổ sung:
+""1 - Các Toà chuyên trách của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương có Chánh toà, Phó Chánh toà, các Thẩm phán, Thư ký Toà án.
+2 - Toà hình sự, Toà dân sự, Toà hành chính của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương có nhiệm vụ quyền hạn sau đây:
+- Sơ thẩm những vụ án theo quy định của pháp luật tố tụng;
+- Phúc thẩm những vụ án mà bản án, quyết định sơ thẩm chưa có hiệu lực pháp luật của Toà án cấp dưới bị kháng cáo, kháng nghị theo quy định của pháp luật tố tụng.
+3 - Toà kinh tế Toà án nhân dân tỉnh, thành phố trực thuộc trung ương có nhiệm vụ, quyền hạn sau đây:
+- Sơ thẩm những vụ án kinh tế theo quy định của pháp luật tố tụng;
+- Phúc thẩm những vụ án kinh tế mà bản án, quyết định sơ thẩm chưa có hiệu lực pháp luật của Toà án cấp dưới bị kháng cáo, kháng nghị theo quy định của pháp luật tố tụng;
+- Giải quyết việc phá sản doanh nghiệp theo quy định của pháp luật.
+4 - Toà lao động Toà án nhân dân tỉnh, thành phố trực thuộc trung ương có nhiệm vụ, quyền hạn sau đây:
+- Sơ thẩm những vụ án lao động theo quy định của pháp luật tố tụng;
+- Phúc thẩm những vụ án lao động mà bản án, quyết định sơ thẩm chưa có hiệu lực pháp luật của Toà án cấp dưới bị kháng cáo, kháng nghị theo quy định của pháp luật tố tụng;
+- Giải quyết các cuộc đình công theo quy định của pháp luật""."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R3_2,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_2,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_7,E38_1,,

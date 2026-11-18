@@ -1,0 +1,216 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,40,67,"PHÁP LỆNH
+Về dân quân tự vệ"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,40,49,PHÁP LỆNH
+ENTITY,E4_1,NGANH,Ngành,metadata,15329,15339,Quốc phòng
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,15196,15221,ngày 09 tháng 01 năm 1996
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,15352,15366,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,15387,15397,1996-01-22
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,15419,15429,2005-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,15453,15473,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,15294,15319,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,15487,15495,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,15508,15521,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,17863,17881,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,459,517,Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,534,629,Nghị quyết của Quốc hội khoá IX kỳ họp thứ 6 và kỳ họp thứ 8 về chương trình xây dựng pháp luật
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,13712,14060,"Nghị quyết của Hội đồng nhân dân, Uỷ ban nhân dân phối hợp với Mặt trận Tổ quốc cùng cấp, động viên các đoàn thể nhân dân, các tổ chức kinh tế, tổ chức xã hội và nhân dân đóng góp theo khả năng và hình thức thích hợp để lập quỹ quốc phòng, an ninh ở địa phương. Chủ tịch Uỷ ban nhân dân các cấp có trách nhiệm quản lý chặt chẽ việc sử dụng quỹ này."
+ENTITY,E19_4,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,15541,15559,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,17931,18046,"Quyết định số 78/QĐ-UB Về việc thực hiện chế độ đối với Phó chỉ huy trưởng Ban chỉ huy quân sự xã, phường, thị trấn"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,18096,18174,Nghị định số 35/CP Quy định chi tiết việc thi hành Pháp lệnh về dân quân tự vệ
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,17001,17094,Chỉ thị số 15/CT-UB Về việc tổ chức triển khai và thực hiện Pháp lệnh Dân quân tự vệ Việt Nam
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,17116,17237,Chỉ thị số 17/2001/CT-UB V/v “Tăng cường công tác Dân quân tự vệ và một số công tác quốc phòng năm 2001 trên địa bàn tỉnh
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,17259,17342,Chỉ thị số 27/2000/CT-UB Về việc sơ kết 4 năm thực hiện Pháp lệnh về Dân quân tự vệ
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,17364,17497,Chỉ thị số 16-CT/TW Về tăng cường sự lãnh đạo của Đảng đối với lực lượng dân quân tự vệ và lực lượng dự động viên trong tình hình mới
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,17519,17689,"Chỉ thị số 20/2000/CT-TTg Về việc tăng cường chỉ đạo, tổ chức thực hiện Nghị định số 19/CPngày 12 tháng 3 năm 1994 của Chính phủ về công tác quốc phòngtrong tình hình mới"
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,17711,17808,Chỉ thị số 11/2004/CT-UB V/v “Tăng cường công tác dân quân tự vệ và giáo dục quốc phòng năm 2004”
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,15579,15667,Nghị quyết số 06/1998/NQ-HĐ Về thành lập Quỹ an ninh - quốc phòng trên địa bàn thành phố
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,15687,15854,"Nghị định số 46/2000/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 35/CP ngày 14/6/1996 của Chính phủ quy định chi tiết việc thi hành Pháp lệnh về Dân quân tự vệ"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,15874,16072,"Quyết định số 81/2001/QĐ-UB Về việc sửa đổi, bổ sung quyết định số 59/QĐ-UB ngày 13/8/1998 và quyết định số 36/2000 ngày 07/4/2000 của UBND tỉnh về việc qui định số lượng cán bộ xã, phường, thị trấn"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,16092,16210,"Quyết định số 40/1998/QĐ-UB V/v “Biên chế Phó Chỉ huy Trưởng Quân sự chuyên trách BCH Quân sự Xã, Thị trấn trong Tỉnh”"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,16230,16293,Quyết định số 38/QĐ-UB Về việc thành lập quỹ an ninh quốc phòng
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,16313,16378,Nghị quyết số 39 /NQ-HĐND12 Về xây dựng Quỹ quốc phòng địa phương
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,16398,16513,"Quyết định số 78/QĐ-UB Về việc thực hiện chế độ đối với Phó chỉ huy trưởng Ban chỉ huy quân sự xã, phường, thị trấn"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,16533,16650,"Quyết định số 11/2000/QĐ-UB V/v Bổ nhiệm chức danh Xã đội trưởng, Phường đội trưởng và cán bộ tự vệ trên địa bàn Tỉnh"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,16670,16881,"Quyết định số 45/2008/QĐ-UBND Về việc sửa đổi Điều 2 Quyết định số 23/2008/QĐ-UBND ngày 21/5/2008 của UBND tỉnh về việc Quy định một số chế độ, tiêu chuẩn đối với lực lượng Dân quân tự vệ trên địa bàn Bình Phước"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,16901,16979,Nghị định số 35/CP Quy định chi tiết việc thi hành Pháp lệnh về dân quân tự vệ
+ENTITY,E35_1,CHUONG,Chương,structure,673,702,"Chương I
+NHỮNG QUY ĐỊNH CHUNG"
+ENTITY,E35_2,CHUONG,Chương,structure,3891,3980,"Chương II
+TỔ CHỨC, BIÊN CHẾ, TRANG BỊ, HUẤN LUYỆN, HOẠT ĐỘNG
+CỦA LỰC LƯỢNG DÂN QUÂN TỰ VỆ"
+ENTITY,E35_3,CHUONG,Chương,structure,8841,8886,"Chương III
+QUẢN LÝ NHÀ NƯỚC VỀ DÂN QUÂN TỰ VỆ"
+ENTITY,E35_4,CHUONG,Chương,structure,11513,11573,"Chương IV
+CHẾ ĐỘ CHÍNH SÁCH ĐỐI VỚI LỰC LƯỢNG DÂN QUÂN TỰ VỆ"
+ENTITY,E35_5,CHUONG,Chương,structure,14281,14318,"Chương V
+KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM"
+ENTITY,E35_6,CHUONG,Chương,structure,14965,14994,"Chương VI
+ĐIỀU KHOẢN THI HÀNH"
+ENTITY,E36_1,MUC,Mục,structure,3981,4014,"Mục 1
+TỔ CHỨC, BIÊN CHẾ, TRANG BỊ"
+ENTITY,E36_2,MUC,Mục,structure,6023,6068,"Mục II
+GIÁO DỤC CHÍNH TRỊ, HUẤN LUYỆN QUÂN SỰ"
+ENTITY,E36_3,MUC,Mục,structure,7103,7159,"Mục III
+HOẠT ĐỘNG CHIẾN ĐẤU CỦA LỰC LƯỢNG DÂN QUÂN TỰ VỆ"
+ENTITY,E38_1,DIEU,Điều,structure,703,709,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1382,1388,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1611,1617,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1797,1803,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,2183,2189,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,2389,2395,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,2685,2691,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,3596,3602,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,3789,3795,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,4015,4022,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,4268,4275,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,4562,4569,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,4684,4691,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,5864,5871,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,6069,6076,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,6430,6437,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,7160,7167,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,7466,7473,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,7886,7893,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,8198,8205,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,8636,8643,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,8887,8894,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,9274,9281,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,10359,10366,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,11160,11167,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,11574,11581,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,13139,13146,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,13693,13700,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,14319,14326,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,14478,14485,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,14725,14732,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,14995,15002,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,15115,15122,Điều 33
+ENTITY,E39_1,KHOAN,Khoản,structure,2396,2586,"1- Các xã, phường, thị trấn, cơ quan Nhà nước, đơn vị hành chính sự nghiệp, doanh nghiệp Nhà nước, tổ chức chính trị-xã hội phải tổ chức lực lượng dân quân tự vệ để bảo vệ địa phương, cơ sở."
+ENTITY,E39_2,KHOAN,Khoản,structure,2587,2684,2- Việc tổ chức tự vệ trong doanh nghiệp thuộc các thành phần kinh tế khác do Chính phủ quy định.
+ENTITY,E39_3,KHOAN,Khoản,structure,2734,2878,"1- Sẵn sàng chiến đấu và chiến đấu tiêu diệt, tiêu hao lực lượng địch, làm nòng cốt cho phong trào toàn dân đánh giặc, bảo vệ địa phương, cơ sở;"
+ENTITY,E39_4,KHOAN,Khoản,structure,2879,3241,"2- Phối hợp với công an, Bộ đội Biên phòng, bộ đội thường trực và các đoàn thể nhân dân giữu vững chủ quyền lãnh thổ, an ninh chính trị, trật tự an toàn xã hội; bảo vệ các công trình quốc phòng, các kho vũ khí trang bị kỹ thuật, phát hiện và thu giữ các loại vũ khí trang bị quân sự tồn giữ bất hợp pháp ở địa phương; tham gia xây dựng cơ sở vững mạnh toàn diện;"
+ENTITY,E39_5,KHOAN,Khoản,structure,3242,3338,"3- Bổ sung cho quân đội, phối hợp với quân đội chiến đấu, phục vụ chiến đấu, phục vụ tiền tuyến;"
+ENTITY,E39_6,KHOAN,Khoản,structure,3339,3595,"4- Gương mẫu chấp hành và vận động nhân dân thực hiện đường lối, chủ trương, chính sách của Đảng, pháp luật của Nhà nước; xung kích trong lao động sản xuất, bảo vệ sản xuất, phòng chống, khắc phục hậu quả thiên tai, địch hoạ và các sự cố nghiêm trọng khác."
+ENTITY,E39_7,KHOAN,Khoản,structure,4276,4462,"1- Tổ chức lực lượng dân quân tự vệ bao gồm: lực lượng nòng cốt là lực lượng chiến đấu; lực lượng rộng rãi là lực lượng phục vụ chiến đấu, đồng thời là lực lượng chiến đấu khi cần thiết."
+ENTITY,E39_8,KHOAN,Khoản,structure,4463,4561,"2- Quy mô, cơ cấu tổ chức lực lượng dân quân tự vệ ở từng địa phương, cơ sở do Chính phủ quy định."
+ENTITY,E39_9,KHOAN,Khoản,structure,4692,5008,"1- Ban chỉ huy quân sự xã, phường, thị trấn và các doanh nghiệp Nhà nước gồm có chỉ huy trưởng, chính trị viên, phó chỉ huy trưởng, có trách nhiệm làm tham mưu giúp Uỷ ban nhân dân, giám đốc doanh nghiệp chỉ đạo về công tác quốc phòng, trực tiếp chỉ đạo, chỉ huy lực lượng dân quân tự vệ trong xây dựng và hoạt động."
+ENTITY,E39_10,KHOAN,Khoản,structure,5009,5241,"2- Đối với xã, phường, thị trấn: chỉ huy trưởng là thành viên Uỷ ban nhân dân phụ trách công tác quốc phòng; chính trị viên là cán bộ kiêm nhiệm; phó chỉ huy trưởng là cán bộ chuyên trách hoặc bán chuyên trách do Chính phủ quy định."
+ENTITY,E39_11,KHOAN,Khoản,structure,5608,5863,"3- Đối với các cơ quan Nhà nước, đơn vị hành chính sự nghiệp, tổ chức chính trị-xã hội thì thủ trưởng cơ quan có trách nhiệm chỉ đạo và phân công người phụ trách chỉ huy lực lượng tự vệ của cơ quan mình và báo cáo danh sách cho cơ quan quân sự địa phương."
+ENTITY,E39_12,KHOAN,Khoản,structure,6438,6566,"1- Thời gian tập trung học tập chính trị, huấn luyện quân sự hàng năm cho cán bộ, chiến sỹ dân quân tự vệ được quy định như sau:"
+ENTITY,E39_13,KHOAN,Khoản,structure,6960,7102,"2- Khi có yêu cầu cần thiết hoặc khi có chiến tranh, thời gian huấn luyện cho các đối tượng nói trên có thể kéo dài hơn do Chính phủ quy định."
+ENTITY,E39_14,KHOAN,Khoản,structure,8948,9018,1- Tổ chức xây dựng và chỉ đạo hoạt động của lực lượng dân quân tự vệ;
+ENTITY,E39_15,KHOAN,Khoản,structure,9019,9093,2- Ban hành và hướng dẫn thi hành các văn bản pháp luật về dân quân tự vệ;
+ENTITY,E39_16,KHOAN,Khoản,structure,9094,9162,"3- Quy định các chế độ, chính sách đối với lực lượng dân quân tự vệ;"
+ENTITY,E39_17,KHOAN,Khoản,structure,9163,9228,"4- Kiểm tra, thanh tra việc thi hành pháp luật về dân quân tự vệ;"
+ENTITY,E39_18,KHOAN,Khoản,structure,9229,9273,"5- Sơ kết, tổng kết công tác dân quân tự vệ."
+ENTITY,E39_19,KHOAN,Khoản,structure,9282,9363,1- Chính phủ thống nhất quản lý Nhà nước về dân quân tự vệ trong phạm vi cả nước.
+ENTITY,E39_20,KHOAN,Khoản,structure,9364,9725,"2- Bộ Quốc phòng giúp Chính phủ quản lý Nhà nước về tổ chức, xây dựng, hoạt động của lực lượng dân quân tự vệ; hướng dẫn, chỉ đạo, đôn đốc, kiểm tra việc thực hiện của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân các cấp, các tổ chức kinh tế, tổ chức chính trị-xã hội trong việc tổ chức, xây dựng và hoạt động của lực lượng dân quân tự vệ."
+ENTITY,E39_21,KHOAN,Khoản,structure,9922,10358,"3- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi, nhiệm vụ và quyền hạn của mình có trách nhiệm phối hợp với Bộ Quốc phòng thực hiện quản lý Nhà nước về tổ chức, xây dựng, hoạt động của lực lượng dân quân tự vệ; theo dõi và đôn đốc các đơn vị cơ sở trong ngành mình xây dựng tự vệ theo kế hoạch của cơ quan quân sự địa phương; giải quyết những vấn đề có liên quan đến tổ chức, xây dựng và hoạt động của dân quân tự vệ."
+ENTITY,E39_22,KHOAN,Khoản,structure,11582,11911,"1- Phó chỉ huy trưởng chuyên trách ban chỉ huy quân sự xã, phường, thị trấn hàng tháng được hưởng một khoản phụ cấp bằng mức phụ cấp của các chức danh chuyên môn và chức danh khác thuộc Uỷ ban nhân dân, Phó chỉ huy trưởng bán chuyên trách được hưởng một khoản phụ cấp bằng một nửa mức phụ cấp của phó chỉ huy trưởng chuyên trách."
+ENTITY,E39_23,KHOAN,Khoản,structure,11912,12043,"2- Cán bộ, chiến sĩ dân quân tự vệ trong thời gian tham gia lực lượng dân quân tự vệ được hoãn nghĩa vụ lao động công ích hàng năm."
+ENTITY,E39_24,KHOAN,Khoản,structure,12044,12299,"3- Cán bộ, chiến sĩ dân quân tự vệ trong thời gian làm nhiệm vụ huấn luyện quân sự, thường trực sẵn sàng chiến đấu, chiến đấu, phục vụ chiến đấu, phòng, chống, khắc phục hậu quả thiên tai, địch hoạ và các sự cố nghiêm trọng khác được hưởng chế độ như sau:"
+ENTITY,E39_25,KHOAN,Khoản,structure,12963,13138,"4- Cán bộ chỉ huy quân sự xã, phường, thị trấn khi đi huấn luyện tại trường quân sự tỉnh, thì gia đình được trợ cấp, cứ mỗi ngày bằng hệ số 0,1 mức lương hàng tháng tối thiểu."
+ENTITY,E39_26,KHOAN,Khoản,structure,13147,13244,"1- Kinh phí hàng năm cho việc xây dựng, hoạt động của dân quân được đảm bảo từ các nguồn sau đây:"
+ENTITY,E39_27,KHOAN,Khoản,structure,13376,13544,"2- Kinh phí hàng năm cho việc xây dựng, hoạt động của tự vệ ở các cơ quan Nhà nước, đơn vị hành chính sự nghiệp, tổ chức chính trị-xã hội do ngân sách Nhà nước bảo đảm."
+ENTITY,E39_28,KHOAN,Khoản,structure,13545,13692,"3- Kinh phí cho việc xây dựng, hoạt động của lực lượng tự vệ ở các doanh nghiệp, do doanh nghiệp bảo đảm và được tính vào chi phí quản lý sản xuất."
+ENTITY,E40_1,DIEM,Điểm,structure,12300,12455,a) Dân quân được hưởng một khoản tiền tương đương giá trị ngày công lao động ở từng địa phương; tự vệ được hưởng nguyên lương và các phụ cấp khác (nếu có);
+ENTITY,E40_2,DIEM,Điểm,structure,12456,12681,"b) Trường hợp bị tai nạn, ốm đau hoặc bị chết thì được hưởng các chế độ bảo hiểm xã hội như đối với công nhân viên chức Nhà nước. Đối với tự vệ do quỹ bảo hiểm xã hội bảo đảm; đối với dân quân do ngân sách địa phương bảo đảm;"
+ENTITY,E40_3,DIEM,Điểm,structure,12682,12962,"c) Khi bị thương, hy sinh trong lúc làm nhiệm vụ chiến đấu, phục vụ chiến đấu, giữ gìn an ninh chính trị, trật tự an toàn xã hội, dũng cảm cứu người, cứu tài sản của Nhà nước và nhân dân thì bản thân và gia đình được hưởng các chế độ chính sách ưu đãi theo quy định của pháp luật."
+ENTITY,E40_4,DIEM,Điểm,structure,13245,13307,a) Ngân sách Nhà nước chi cho ngân sách quốc phòng địa phương;
+ENTITY,E40_5,DIEM,Điểm,structure,13308,13375,"b) Ngân sách địa phương, bao gồm cả ngân sách xã, phường, thị trấn."
+ENTITY,E42_1,VB_THAY_THE,Văn bản thay thế,reference,18195,18242,Pháp lệnh số 19/2004/PL-UBTVQH11 Dân quân tự vệ
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R7_4,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_4,E2_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E29_3,E2_1,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E29_4,E2_1,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E29_5,E2_1,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E29_6,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_1,E38_6,,
+RELATION,R22_8,THUOC,Thuộc,E39_2,E38_6,,
+RELATION,R22_9,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_3,E38_7,,
+RELATION,R22_11,THUOC,Thuộc,E39_4,E38_7,,
+RELATION,R22_12,THUOC,Thuộc,E39_5,E38_7,,
+RELATION,R22_13,THUOC,Thuộc,E39_6,E38_7,,
+RELATION,R22_14,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_15,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,R22_16,THUOC,Thuộc,E36_1,E35_2,,
+RELATION,R22_17,THUOC,Thuộc,E38_10,E36_1,,
+RELATION,R22_18,THUOC,Thuộc,E38_11,E36_1,,
+RELATION,R22_19,THUOC,Thuộc,E39_7,E38_11,,
+RELATION,R22_20,THUOC,Thuộc,E39_8,E38_11,,
+RELATION,R22_21,THUOC,Thuộc,E38_12,E36_1,,
+RELATION,R22_22,THUOC,Thuộc,E38_13,E36_1,,
+RELATION,R22_23,THUOC,Thuộc,E39_9,E38_13,,
+RELATION,R22_24,THUOC,Thuộc,E39_10,E38_13,,
+RELATION,R22_25,THUOC,Thuộc,E39_11,E38_13,,
+RELATION,R22_26,THUOC,Thuộc,E38_14,E36_1,,
+RELATION,R22_27,THUOC,Thuộc,E36_2,E35_2,,
+RELATION,R22_28,THUOC,Thuộc,E38_15,E36_2,,
+RELATION,R22_29,THUOC,Thuộc,E38_16,E36_2,,
+RELATION,R22_30,THUOC,Thuộc,E39_12,E38_16,,
+RELATION,R22_31,THUOC,Thuộc,E39_13,E38_16,,
+RELATION,R22_32,THUOC,Thuộc,E36_3,E35_2,,
+RELATION,R22_33,THUOC,Thuộc,E38_17,E36_3,,
+RELATION,R22_34,THUOC,Thuộc,E38_18,E36_3,,
+RELATION,R22_35,THUOC,Thuộc,E38_19,E36_3,,
+RELATION,R22_36,THUOC,Thuộc,E38_20,E36_3,,
+RELATION,R22_37,THUOC,Thuộc,E38_21,E36_3,,
+RELATION,R22_38,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,R22_39,THUOC,Thuộc,E39_14,E38_22,,
+RELATION,R22_40,THUOC,Thuộc,E39_15,E38_22,,
+RELATION,R22_41,THUOC,Thuộc,E39_16,E38_22,,
+RELATION,R22_42,THUOC,Thuộc,E39_17,E38_22,,
+RELATION,R22_43,THUOC,Thuộc,E39_18,E38_22,,
+RELATION,R22_44,THUOC,Thuộc,E38_23,E35_3,,
+RELATION,R22_45,THUOC,Thuộc,E39_19,E38_23,,
+RELATION,R22_46,THUOC,Thuộc,E39_20,E38_23,,
+RELATION,R22_47,THUOC,Thuộc,E39_21,E38_23,,
+RELATION,R22_48,THUOC,Thuộc,E38_24,E35_3,,
+RELATION,R22_49,THUOC,Thuộc,E38_25,E35_3,,
+RELATION,R22_50,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_51,THUOC,Thuộc,E39_22,E38_26,,
+RELATION,R22_52,THUOC,Thuộc,E39_23,E38_26,,
+RELATION,R22_53,THUOC,Thuộc,E39_24,E38_26,,
+RELATION,R22_54,THUOC,Thuộc,E40_1,E39_24,,
+RELATION,R22_55,THUOC,Thuộc,E40_2,E39_24,,
+RELATION,R22_56,THUOC,Thuộc,E40_3,E39_24,,
+RELATION,R22_57,THUOC,Thuộc,E39_25,E38_26,,
+RELATION,R22_58,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,R22_59,THUOC,Thuộc,E39_26,E38_27,,
+RELATION,R22_60,THUOC,Thuộc,E40_4,E39_26,,
+RELATION,R22_61,THUOC,Thuộc,E40_5,E39_26,,
+RELATION,R22_62,THUOC,Thuộc,E39_27,E38_27,,
+RELATION,R22_63,THUOC,Thuộc,E39_28,E38_27,,
+RELATION,R22_64,THUOC,Thuộc,E38_28,E35_4,,
+RELATION,R22_65,THUOC,Thuộc,E38_29,E35_5,,
+RELATION,R22_66,THUOC,Thuộc,E38_30,E35_5,,
+RELATION,R22_67,THUOC,Thuộc,E38_31,E35_5,,
+RELATION,R22_68,THUOC,Thuộc,E38_32,E35_6,,
+RELATION,R22_69,THUOC,Thuộc,E38_33,E35_6,,
+RELATION,R24_1,THAY_THE,Thay thế,E42_1,E2_1,,

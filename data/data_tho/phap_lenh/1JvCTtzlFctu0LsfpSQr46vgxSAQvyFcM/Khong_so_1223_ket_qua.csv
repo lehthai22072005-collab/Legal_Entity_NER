@@ -1,0 +1,25 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,136,201,"PHÁP LỆNH
+Sửa đổi và bổ sung pháp lệnh quy định cụ thể về tổ chức"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,136,145,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,1137,1161,ngày 15 tháng 1 năm 1970
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1229,1243,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1264,1274,1970-01-27
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,1296,1306,1981-07-13
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1330,1350,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,263,288,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1364,1372,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1385,1397,Trường Chinh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,1684,1731,Luật Tổ chức Viện kiểm sát nhân dân số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1417,1464,Luật Tổ chức Viện kiểm sát nhân dân số Không số
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,1486,1629,Pháp lệnh số 18/LCT Công bố Pháp lệnh sửa đổi và bổ sung Pháp Lệnh quy định cụ thể về tổ chức của Viện kiểm sát nhân dân tối cao ngày 16-4-1962
+ENTITY,E38_1,DIEU,Điều,structure,488,494,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,816,822,Điều 2
+ENTITY,E42_1,VB_DUOC_SUA_DOI_BO_SUNG,Văn bản được sửa đổi bổ sung,reference,1764,1845,Pháp lệnh số 12/LCT Quy định cụ thể về tổ chức của Viện kiểm sát nhân dân tối cao
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,1866,1916,Luật Tổ chức Viện kiểm sát nhân dân số 3-LCT/HĐNN7
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R24_1,DUOC_SUA_DOI_BO_SUNG,Được sửa đổi bổ sung,E42_1,E2_1,,
+RELATION,R25_1,THAY_THE,Thay thế,E43_1,E2_1,,

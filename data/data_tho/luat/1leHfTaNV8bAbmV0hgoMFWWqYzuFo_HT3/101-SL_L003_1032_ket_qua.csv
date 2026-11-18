@@ -1,0 +1,30 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,56,Luật Về việc quy định quyền tự do hội họp số 101-SL/L003
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,45,56,101-SL/L003
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,2712,2744,Lao động - Thương binh và Xã hội
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,83,92,20-5-1957
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,2757,2771,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,2792,2802,1957-06-26
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,2826,2838,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,228,236,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,122,135,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,2631,2642,Hồ Chí Minh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,2893,2911,Hiến pháp năm 1946
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,2931,2949,Hiến pháp năm 1946
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,2969,3029,"Quyết định số 60/HĐBT Về quản lý hoạt động báo chí, xuất bản"
+ENTITY,E38_1,DIEU,Điều,structure,313,319,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,429,435,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,814,820,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,985,991,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1059,1065,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,1659,1665,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,1917,1923,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,2417,2423,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,2510,2516,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,2567,2574,Điều 10
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

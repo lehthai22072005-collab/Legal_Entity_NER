@@ -1,0 +1,40 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,55,Luật Sửa đổi và bổ sung Luật Nghĩa vụ quân sự số 50/LCT
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,49,55,50/LCT
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,4037,4062,ngày 26 tháng 10 năm 1962
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,4148,4162,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,4183,4193,1962-11-10
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,4215,4225,1982-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,4249,4269,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,3960,3968,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,4629,4642,Chủ tịch nước
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,4064,4075,Hồ Chí Minh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,4324,4342,Hiến pháp năm 1959
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,4384,4417,Luật Nghĩa vụ quân sự số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,4437,4455,Hiến pháp năm 1959
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,4505,4538,Luật Nghĩa vụ quân sự số Không số
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,4560,4615,Luật Sửa đổi và bổ sung Luật Nghĩa vụ quân sự số 45/LCT
+ENTITY,E38_1,DIEU,Điều,structure,246,252,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,2466,2472,Điều 2
+ENTITY,E39_1,KHOAN,Khoản,structure,380,542,"1. Điều 7 (mới): Lứa tuổi tuyển vào quân đội thường trực trong thời bình là từ mười tám đến hai mươi nhăm tuổi, trong thời chiến là từ mười tám đến bốn nhăm tuổi."
+ENTITY,E39_2,KHOAN,Khoản,structure,639,740,2. Điều 10 (mới): Thời hạn phục vụ tại ngũ của hạ sĩ quan và binh sĩ trong bộ đội lục quân là ba năm.
+ENTITY,E39_3,KHOAN,Khoản,structure,1397,1537,"3. Điều 28 (mới): Sĩ quan, hạ sĩ quan và binh sĩ dự bị hàng năm phải tham gia huấn luyện quân sự theo mệnh lệnh của Bộ trưởng Bộ quốc phòng."
+ENTITY,E39_4,KHOAN,Khoản,structure,1978,2159,"4. Điều 32 (mới): Sau khi Chủ tịch nước Việt Nam dân chủ cộng hoà công bố lệnh tổng động viên hoặc động viên cục bộ, Bộ trưởng Bộ quốc phòng ra các mệnh lệnh cần thiết để thực hiện."
+ENTITY,E39_5,KHOAN,Khoản,structure,2602,2684,1. Điều 27b: Bộ trưởng Bộ quốc phòng lãnh đạo công tác tuyển binh trong toàn quốc.
+ENTITY,E39_6,KHOAN,Khoản,structure,3034,3125,2. Điều 32b: Việc gọi quân nhân dự bị ra phục vụ tại ngũ trong thời chiến quy định như sau:
+ENTITY,E39_7,KHOAN,Khoản,structure,3583,3942,"3. Điều 34b: Trong thời bình, theo quyết định của Hội đồng Chính phủ, Bộ trưởng Bộ quốc phòng tổ chức động viên thực tập cho các địa phương, cơ quan, đơn vị sản xuất và các tổ chức khác. Những người có nghĩa vụ quân sự có nhiệm vụ chấp hành nghiêm chỉnh các mệnh lệnh về động viên thực tập của Bộ trưởng Bộ quốc phòng và Chủ tịch Uỷ ban hành chính địa phương."
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E26_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_2,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,R22_7,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,R22_8,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_9,THUOC,Thuộc,E11_1,E10_1,,

@@ -1,0 +1,43 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,157,161,LỆNH
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,16,38-L/CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,157,161,LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,1106,1116,1994-12-10
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1129,1143,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,666,691,ngày 02 tháng 12 năm 1994
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1167,1179,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,1200,1213,Chủ tịch nước
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1227,1240,Chủ tịch nước
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1253,1263,Lê Đức Anh
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2270,2320,Pháp lệnh số Không số Bảo vệ công trình giao thông
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2347,2418,Pháp lệnh số Không số Khai thác và bảo vệ công trình khí tượng thuỷ văn
+ENTITY,E18_3,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2445,2487,Pháp lệnh số Không số Bảo hộ Quyền Tác giả
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1283,1320,Luật Tổ chức Quốc hội số 66-LCT/HĐNN8
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1340,1358,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2621,2710,Quyết định số 2923-QĐ/ĐB về việc cấp giấy phép thi công công trình liên quan đến đường bộ
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2760,2822,Quyết định số 2487/ĐBVN Về việc công bố trọng tải trên quốc lộ
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2872,2980,Thông tư số 11/2007/TT-BTNMT Hướng dẫn cấp giấy phép hoạt động của công trình khí tượng thuỷ văn chuyên dung
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,2509,2571,Quyết định số 2487/ĐBVN Về việc công bố trọng tải trên quốc lộ
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,1378,1479,Thông tư số 39/2013/TT-BTNMT Ban hành Định mức kinh tế - kỹ thuật công tác tư liệu khí tượng thủy văn
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,1499,1607,Thông tư số 11/2007/TT-BTNMT Hướng dẫn cấp giấy phép hoạt động của công trình khí tượng thuỷ văn chuyên dung
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,1627,1776,"Quyết định số 185/2008/QĐ-UBND ban hành quy chế quản lý, khai thác và bảo vệ các trạm thủy văn, trạm đo mưa chuyên dùng trên địa bàn tỉnh Ninh Thuận."
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,1796,1885,Quyết định số 2923-QĐ/ĐB về việc cấp giấy phép thi công công trình liên quan đến đường bộ
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,1905,2016,"Nghị định số 102/2008/NĐ-CP Về việc thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,2036,2161,Quyết định số 07/2009/QĐ-UBND Ban hành quy định quản lý nhà nước về hoạt động khí tượng thủy văn trên địa bàn tỉnh Bình Thuận
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,2181,2243,Quyết định số 2487/ĐBVN Về việc công bố trọng tải trên quốc lộ
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,R6_2,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_2,E2_1,,
+RELATION,R6_3,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_3,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_3,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,

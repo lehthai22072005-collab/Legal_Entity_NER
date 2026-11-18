@@ -1,0 +1,79 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,264,346,"PHÁP LỆNH
+SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA 04 PHÁP LỆNH CÓ LIÊN QUAN ĐẾN QUY HOẠCH"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,213,229,01/2018/UBTVQH14
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,264,273,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,238,263,ngày 22 tháng 12 năm 2018
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,6492,6506,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,6318,6343,ngày 01 tháng 01 năm 2019
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,6530,6551,Hết hiệu lực một phần
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,6454,6479,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,6345,6353,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,6362,6381,Nguyễn Thị Kim Ngân
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,676,724,Pháp lệnh Quản lý thị trường số 11/2016/UBTVQH13
+ENTITY,E15_2,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,769,836,Pháp lệnh Ưu đãi người có công với cách mạng số 26/2005/PL-UBTVQH11
+ENTITY,E15_3,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,726,767,Pháp lệnh Thư viện số 31/2000/PL-UBTVQH10
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,6654,6813,Nghị quyết số 16/2019/NQ-HĐND Quy định mức quà tặng cho các đối tượng nhân ngày Thương binh - Liệt sĩ 27/7 và Tết Nguyên đán hàng năm trên địa bàn tỉnh Phú Yên
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,6833,6955,"Quyết định số '14/2025/QĐ-UBND Quy định chức năng, nhiệm vụ và cơ cấu tổ chức của Chi cục Quản lý thị trường tỉnh Lâm Đồng"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,6975,7076,Thông tư số 25/2023/TT-BCT quy định số hiệu công chức làm việc tại cơ quan Quản lý thị trường các cấp
+ENTITY,E38_1,DIEU,Điều,structure,910,983,"Điều 1. Sửa đổi, bổ sung một số điều của Pháp lệnh Công nghiệp quốc phòng"
+ENTITY,E38_2,DIEU,Điều,structure,1498,1561,Điều 12. Kế hoạch xây dựng và phát triển công nghiệp quốc phòng
+ENTITY,E38_3,DIEU,Điều,structure,2838,2922,Điều 13. Thẩm quyền phê duyệt kế hoạch xây dựng và phát triển công nghiệp quốc phòng
+ENTITY,E38_4,DIEU,Điều,structure,3237,3339,"Điều 14. Xây dựng, phê duyệt và tổ chức thực hiện chương trình, dự án đầu tư về công nghiệp quốc phòng"
+ENTITY,E38_5,DIEU,Điều,structure,3784,3890,"Điều 15. Thanh tra, kiểm tra việc thực hiện kế hoạch, chương trình, dự án đầu tư về công nghiệp quốc phòng"
+ENTITY,E38_6,DIEU,Điều,structure,5056,5135,"Điều 2. Sửa đổi, bổ sung điểm a khoản 1 Điều 4 của Pháp lệnh Quản lý thị trường"
+ENTITY,E38_7,DIEU,Điều,structure,5282,5345,"Điều 3. Sửa đổi, bổ sung khoản 1 Điều 24 của Pháp lệnh Thư viện"
+ENTITY,E38_8,DIEU,Điều,structure,5618,5719,"Điều 4. Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 34a của Pháp lệnh Ưu đãi người có công với cách mạng"
+ENTITY,E38_9,DIEU,Điều,structure,6254,6279,Điều 5. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,984,1027,"1. Sửa đổi, bổ sung khoản 1 Điều 6 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,1391,1430,"2. Sửa đổi, bổ sung Chương III như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,1562,1715,1. Kế hoạch xây dựng và phát triển công nghiệp quốc phòng phải tuân thủ nguyên tắc được quy định tại Điều 4 Pháp lệnh này và đáp ứng các yêu cầu sau đây:
+ENTITY,E39_4,KHOAN,Khoản,structure,2074,2159,2. Căn cứ để xây dựng kế hoạch xây dựng và phát triển công nghiệp quốc phòng bao gồm:
+ENTITY,E39_5,KHOAN,Khoản,structure,2582,2657,3. Nội dung kế hoạch xây dựng và phát triển công nghiệp quốc phòng bao gồm:
+ENTITY,E39_6,KHOAN,Khoản,structure,2923,3011,1. Thủ tướng Chính phủ phê duyệt kế hoạch xây dựng và phát triển công nghiệp quốc phòng.
+ENTITY,E39_7,KHOAN,Khoản,structure,3012,3236,"2. Bộ Quốc phòng chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư, Bộ Công thương, Bộ Tài chính và cơ quan nhà nước có liên quan xây dựng kế hoạch xây dựng và phát triển công nghiệp quốc phòng trình Thủ tướng Chính phủ phê duyệt."
+ENTITY,E39_8,KHOAN,Khoản,structure,4285,4321,"3. Sửa đổi, bổ sung Điều 19 như sau:"
+ENTITY,E39_9,KHOAN,Khoản,structure,4367,4490,"1. Thủ tướng Chính phủ phê duyệt quy hoạch, kế hoạch sử dụng đất quốc phòng trong đó có đất phục vụ công nghiệp quốc phòng."
+ENTITY,E39_10,KHOAN,Khoản,structure,4491,4760,"2. Bộ Quốc phòng chủ trì, phối hợp với cơ quan nhà nước có thẩm quyền tổ chức lập quy hoạch, kế hoạch sử dụng đất quốc phòng trong đó có đất phục vụ xây dựng và phát triển cơ sở công nghiệp quốc phòng nòng cốt trình Thủ tướng Chính phủ phê duyệt và tổ chức thực hiện.”."
+ENTITY,E39_11,KHOAN,Khoản,structure,4761,4805,"4. Sửa đổi, bổ sung khoản 2 Điều 24 như sau:"
+ENTITY,E39_12,KHOAN,Khoản,structure,6044,6253,3. Phối hợp với các cơ quan có liên quan trong việc xây dựng phương án xác định các công trình ghi công liệt sĩ trong các quy hoạch có liên quan; quy định về công tác quản lý các công trình ghi công liệt sĩ;”.
+ENTITY,E40_1,DIEM,Điểm,structure,1716,1912,"a) Khai thác, sử dụng có hiệu quả mọi tiềm năng và nguồn lực của đất nước để xây dựng và phát triển công nghiệp quốc phòng; bảo đảm vũ khí, trang bị kỹ thuật quân sự ngày càng hiện đại, tiên tiến;"
+ENTITY,E40_2,DIEM,Điểm,structure,1913,2007,"b) Bảo đảm cân đối, đồng bộ, có quy mô hợp lý, được bố trí phù hợp tại các địa bàn chiến lược;"
+ENTITY,E40_3,DIEM,Điểm,structure,2008,2073,c) Phù hợp với kế hoạch phát triển kinh tế - xã hội của đất nước.
+ENTITY,E40_4,DIEM,Điểm,structure,2160,2245,"a) Nhiệm vụ quốc phòng, an ninh và nhiệm vụ phát triển kinh tế - xã hội của đất nước;"
+ENTITY,E40_5,DIEM,Điểm,structure,2246,2334,"b) Chiến lược bảo đảm vũ khí, trang bị kỹ thuật quân sự cho lực lượng vũ trang nhân dân;"
+ENTITY,E40_6,DIEM,Điểm,structure,2335,2434,"c) Quy hoạch hệ thống các công trình quốc phòng, khu quân sự, kho đạn dược, công nghiệp quốc phòng;"
+ENTITY,E40_7,DIEM,Điểm,structure,2435,2581,"d) Kế hoạch phát triển công nghiệp quốc gia, khả năng cân đối các nguồn lực đầu tư của Nhà nước cho xây dựng và phát triển công nghiệp quốc phòng."
+ENTITY,E40_8,DIEM,Điểm,structure,2658,2721,"a) Xác định mục tiêu, nhiệm vụ, chương trình, dự án trọng điểm;"
+ENTITY,E40_9,DIEM,Điểm,structure,2722,2771,b) Tổ chức hệ thống cơ sở công nghiệp quốc phòng;
+ENTITY,E40_10,DIEM,Điểm,structure,2772,2837,"c) Cân đối các nguồn lực, điều kiện bảo đảm, giải pháp thực hiện."
+ENTITY,E44_1,VB_BAI_BO,Văn bản bãi bỏ,reference,6570,6634,Pháp lệnh số 02/2020/UBTVQH14 Ưu đãi người có công với cách mạng
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R3_2,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_3,E2_1,,
+RELATION,R3_3,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_2,E2_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E44_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E40_1,E39_3,,
+RELATION,R22_5,THUOC,Thuộc,E40_2,E39_3,,
+RELATION,R22_6,THUOC,Thuộc,E40_3,E39_3,,
+RELATION,R22_7,THUOC,Thuộc,E39_4,E38_2,,
+RELATION,R22_8,THUOC,Thuộc,E40_4,E39_4,,
+RELATION,R22_9,THUOC,Thuộc,E40_5,E39_4,,
+RELATION,R22_10,THUOC,Thuộc,E40_6,E39_4,,
+RELATION,R22_11,THUOC,Thuộc,E40_7,E39_4,,
+RELATION,R22_12,THUOC,Thuộc,E39_5,E38_2,,
+RELATION,R22_13,THUOC,Thuộc,E40_8,E39_5,,
+RELATION,R22_14,THUOC,Thuộc,E40_9,E39_5,,
+RELATION,R22_15,THUOC,Thuộc,E40_10,E39_5,,
+RELATION,R22_16,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,R22_17,THUOC,Thuộc,E39_7,E38_3,,
+RELATION,R22_18,THUOC,Thuộc,E39_8,E38_5,,
+RELATION,R22_19,THUOC,Thuộc,E39_9,E38_5,,
+RELATION,R22_20,THUOC,Thuộc,E39_10,E38_5,,
+RELATION,R22_21,THUOC,Thuộc,E39_11,E38_5,,
+RELATION,R22_22,THUOC,Thuộc,E39_12,E38_8,,

@@ -1,0 +1,23 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,233,258,"LỆNH
+Về việc công bố luật"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,184,198,06/2001/ L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,233,237,LỆNH
+ENTITY,E4_1,NGANH,Ngành,metadata,81,88,Đất đai
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,207,232,ngày 12 tháng 07 năm 2001
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,843,871,"Xây dựng pháp luật, pháp chế"
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,207,232,ngày 12 tháng 07 năm 2001
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,895,907,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,89,102,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,707,720,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,764,778,Trần Đức Lương
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,540,590,"Luật sửa đổi, bổ sung một số Điều của Luật Đất đai"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,352,410,Hiến  pháp  nước  Cộng  hòa  xã  hội  chủ  nghĩa  Việt Nam
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,435,456,Luật Tổ chức Quốc hội
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,481,525,Luật Ban hành các văn bản quy phạm pháp Luật
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,927,1217,"Quyết định số 1424/QĐ-UBND Về việc bãi bỏ Quyết định số 27/2013/QĐ-UBND ngày 22 tháng 4 năm 2013 của Ủy ban nhân dân tỉnh Đồng Nai ban hành Quy chế phối hợp thẩm định phương án bồi thường, hỗ trợ và tái định cư đối với trường hợp thuộc thẩm quyền phê duyệt của Uỷ ban nhân dân tỉnh Đồng Nai"
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,

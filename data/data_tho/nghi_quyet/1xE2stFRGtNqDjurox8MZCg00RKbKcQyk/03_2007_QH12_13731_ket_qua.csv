@@ -1,0 +1,29 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,134,Nghị quyết số 03/2007/QH12 Phê chuẩn đề nghị của Chủ tịch nước về Danh sách Phó Chủ tịch và các Uỷ viên Hội đồng quốc phòng và an ninh
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,26,03/2007/QH12
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E4_1,NGANH,Ngành,metadata,1491,1517,Tổ chức - Cán bộ Chính phủ
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,232,257,ngày 02 tháng 08 năm 2007
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1530,1544,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1565,1575,2007-08-28
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,1597,1607,2026-07-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1631,1651,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,645,653,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1395,1412,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1413,1429,Nguyễn Phú Trọng
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,1801,1819,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1671,1708,Luật Tổ chức Quốc hội số 30/2001/QH10
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1728,1746,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,1869,1983,"Thông tư số 08/2014/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí y tế dự phòng, kiểm dịch y tế"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,2003,2174,"Thông tư số 24/2018/TT-BYT Quy định việc thành lập, tổ chức và hoạt động của Hội đồng tư vấn chuyên môn đánh giá nguyên nhân tai biến nặng trong quá trình sử dụng vắc xin."
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,2194,2308,"Thông tư số 08/2014/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí y tế dự phòng, kiểm dịch y tế"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,2328,2459,"Thông tư số 38/2017/TT-BYT Ban hành danh mục bệnh truyền nhiễm, phạm vi và đối tượng phải sử dụng vắc xin, sinh phẩm y tế bắt buộc."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

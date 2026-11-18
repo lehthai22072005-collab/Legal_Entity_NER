@@ -1,0 +1,195 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,33,Luật Nghĩa vụ quân sự số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,25,33,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,10578,10602,ngày 15 tháng 4 năm 1960
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,10688,10702,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,10723,10733,1960-04-28
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,10755,10765,1982-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,10789,10809,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,1854,1862,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,8457,8470,Chủ tịch nước
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,10604,10615,Hồ Chí Minh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,11018,11036,Hiến pháp năm 1959
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,10874,10963,Luật Về việc Quy định chế độ phục vụ của sỹ quan Quân đội nhân dân Việt Nam số 109-SL/L11
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,10829,10847,Hiến pháp năm 1959
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,11298,11380,Nghị định số 87-CP Quy định chính sách đối với hạ sĩ quan và binh sĩ chuyên nghiệp
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,11087,11142,Luật Sửa đổi và bổ sung Luật Nghĩa vụ quân sự số 50/LCT
+ENTITY,E25_2,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,11193,11248,Luật Sửa đổi và bổ sung Luật Nghĩa vụ quân sự số 45/LCT
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,11609,11642,Luật Nghĩa vụ quân sự số Không số
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,11402,11457,Luật Sửa đổi và bổ sung Luật Nghĩa vụ quân sự số 45/LCT
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,11477,11559,Nghị định số 87-CP Quy định chính sách đối với hạ sĩ quan và binh sĩ chuyên nghiệp
+ENTITY,E35_1,CHUONG,Chương,structure,711,719,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,2316,2325,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,4172,4182,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,5699,5708,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,7143,7151,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,8410,8419,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,9033,9043,CHƯƠNG VII
+ENTITY,E35_8,CHUONG,Chương,structure,10049,10060,CHƯƠNG VIII
+ENTITY,E38_1,DIEU,Điều,structure,737,1024,"Điều 1
+Nghĩa vụ quân sự là nghĩa vụ vẻ vang của công dân nước Việt Nam dân chủ cộng hoà đối với Tổ quốc.
+Những công dân nam giới từ mưới tám đến bốn mươi lăm tuổi, không phân biệt dân tộc, nghề nghiệp, tôn giáo, tín ngưỡng, thành phần xã hội và trình độ văn hoá, đều có nghĩa vụ quân sự."
+ENTITY,E38_2,DIEU,Điều,structure,1025,1191,"Điều 2
+Không được làm nghĩa vụ quân sự:
+- Những người bị Toà án hoặc pháp luật tước quyền công dân;
+- Những người đang ở trong thời gian bị giam giữ hoặc bị quản chế."
+ENTITY,E38_3,DIEU,Điều,structure,1192,1333,"Điều 3
+Nghĩa vụ quân sự chia làm hai ngạch: tại ngũ và dự bị. Làm nghĩa vụ quân sự là tham gia quân đội thường trực hoặc tham gia quân dự bị."
+ENTITY,E38_4,DIEU,Điều,structure,1334,1537,"Điều 4
+Quân nhân tại ngũ và quân nhân dự bị gồm có sĩ quan, hạ sĩ quan và binh sĩ.
+Hạ sĩ quan và binh sĩ gồm các cấp bậc sau đây:
+- Hạ sĩ quan: thượng sĩ, trung sĩ, hạ sĩ.
+- Binh sĩ: binh nhất, binh nhì."
+ENTITY,E38_5,DIEU,Điều,structure,1538,1615,"Điều 5
+Hạ sĩ quan và binh sĩ chuyển sang ngạch dự bị vẫn được giữ cấp bậc cũ."
+ENTITY,E38_6,DIEU,Điều,structure,1616,1898,"Điều 6
+Hạ sĩ quan và binh sĩ phục vụ trong ngạch dự bị đến hết bốn mươi lăm tuổi thì hết hạn làm nghĩa vụ quân sự.
+Thời hạn phục vụ của sĩ quan theo như quy định trong luật về chế độ phục vụ của sĩ quan quân đội nhân dân Việt Nam đã được Quốc hội thông qua ngày 29 tháng 4 năm 1958."
+ENTITY,E38_7,DIEU,Điều,structure,1899,2174,"Điều 7
+Lứa tuổi tuyển vào quân đội thường trực trong thời bình ấn định từ mười tám đến hai mươi lăm tuổi. Lứa tuổi tuyển vào quân đội thường trực trong thời chiến do Hội đồng quốc phòng ấn định.
+Những người trong những lứa tuổi đó có thể lần lượt được gọi ra phục vụ tại ngũ."
+ENTITY,E38_8,DIEU,Điều,structure,2175,2316,"Điều 8
+Những quân nhân đang phục vụ theo chế độ tình nguyện sẽ dần dần được phục viên và chuyển sang dự bị hoặc giải ngạch nghĩa vụ quân sự.
+"
+ENTITY,E38_9,DIEU,Điều,structure,2382,2632,"Điều 9
+Sĩ quan tại ngũ và sĩ quan dự bị phục vụ theo chế độ quy định trong luật về chế độ phục vụ của sĩ quan quân đội nhân dân Việt Nam đã được Quốc hội thông qua ngày 29 tháng 4 năm 1958, và những điều khoản có liên quan đến sĩ quan trong Luật này."
+ENTITY,E38_10,DIEU,Điều,structure,2633,3025,"Điều 10
+Thời hạn phục vụ tại ngũ của hạ sĩ quan và binh sĩ trong bộ đội lục quân là hai năm.
+Đối với hạ sĩ quan và binh sĩ trong bộ đội không quân, hạ sĩ quan kỹ thuật và binh sĩ kỹ thuật trong bộ đội lục quân, hạ sĩ quan và binh sĩ công an nhân dân vũ trang, thì thời hạn phục vụ tại ngũ là ba năm.
+Đối với hạ sĩ quan và binh sĩ trong bộ đội hải quân thì thời hạn phục vụ tại ngũ là bốn năm."
+ENTITY,E38_11,DIEU,Điều,structure,3026,3350,"Điều 11
+Hạ sĩ quan và binh sĩ tại ngũ có thể được điều động từ quân chủng, binh chủng này sang quân chủng, binh chủng khác; sang quân chủng, binh chủng nào thì theo thời hạn phục vụ ở quân chủng, binh chủng ấy. Thời gian đã phục vụ ở quân chủng, binh chủng, trước được tính vào thời hạn phục vụ ở quân chủng, binh chủng sau."
+ENTITY,E38_12,DIEU,Điều,structure,3351,3460,"Điều 12
+Hạ sĩ quan và binh sĩ đã hết hạn tại ngũ có thể tình nguyện đăng lại một thời hạn ít nhất là một năm."
+ENTITY,E38_13,DIEU,Điều,structure,3461,3719,"Điều 13
+Ngạch dự bị của hạ sĩ quan và binh sĩ chia làm hai hạng: dự bị hạng một và dự bị hạng hai.
+Hạ sĩ quan và binh sĩ hết hạn phục vụ tại ngũ được xếp vào dự bị hạng một. Những công dân khác trong lứa tuổi làm nghĩa vụ quân sự được xếp vào dự bị hạng hai."
+ENTITY,E38_14,DIEU,Điều,structure,3720,3932,"Điều 14
+Hạ sĩ quan và binh sĩ tại ngũ bị bệnh, bị thương, bị tàn phế phế, không còn đủ sức khoẻ để tiếp tục phục vụ trong quân đội, sau khi được thủ trưởng đơn vị bộ đội có thẩm quyền chuẩn y, thì được thoái ngũ."
+ENTITY,E38_15,DIEU,Điều,structure,3933,4172,"Điều 15
+Những quân nhân dự bị hết hạn tuổi làm nghĩa vụ quân sự, hoặc bị bệnh, bị thương, bị tàn phế, không còn đủ sức khoẻ để làm nghĩa vụ quân sự, sau khi được cơ quan quân sự có thẩm quyền chuẩn y, thì được giải ngạch nghĩa vụ quân sự.
+"
+ENTITY,E38_16,DIEU,Điều,structure,4245,4524,"Điều 16
+Hàng năm vào khoảng năm ngày đầu tháng giêng dương lịch, những công dân nam giới đủ mười tám tuổi tính đến ngày mồng 1 tháng giêng dương lịch, phải đến Uỷ ban hành chính xã, thị xã, thị trấn, khu phố nơi mình ở để được kiểm tra sơ bộ thân thể và đăng ký nghĩa vụ quân sự."
+ENTITY,E38_17,DIEU,Điều,structure,4525,4644,"Điều 17
+Phụ nữ từ mười tám đến bốn mươi lăm tuổi có kỹ thuật chuyên môn cần cho quân đội cũng đăng ký nghĩa vụ quân sự."
+ENTITY,E38_18,DIEU,Điều,structure,4645,4771,"Điều 18
+Quân nhân phục viên khi về đến nơi ở hoặc nơi công tác phải đến cơ quan quân sự địa phương để đăng ký vào ngạch dự bị."
+ENTITY,E38_19,DIEU,Điều,structure,4772,4885,"Điều 19
+Quân nhân dự bị là công nhân, viên chức trong thời gian đi đăng ký nghĩa vụ quân sự vẫn được hưởng lương."
+ENTITY,E38_20,DIEU,Điều,structure,4886,5217,"Điều 20
+Những quân nhân dự bị khi hết hạn tuổi làm nghĩa vụ quân sự, khi không còn đủ sức khoẻ để tiếp tục làm nghĩa vụ quân sự, khi thay đổi trình độ văn hoá, nghề nghiệp, đơn vị công tác, chỗ ở, phải đến báo cáo với Uỷ ban hành chính xã, thị xã, thị trấn, khu phố nơi mình ở xin giải ngạch nghĩa vụ quân sự hoặc thay đổi đăng ký."
+ENTITY,E38_21,DIEU,Điều,structure,5218,5699,"Điều 21
+Bộ Quốc phòng lãnh đạo việc đăng ký, thống kê và quản lý quân nhân dự bị trong toàn quốc.
+Dưới sự lãnh đạo của Uỷ ban hành chính, cơ quan quân sự địa phương có nhiệm vụ tổ chức thực hiện việc đăng ký, thống kê và quản lý quân nhân dự bị trong địa phương mình.
+Thủ trưởng các cơ quan, trường học, xí nghiệp, nông trường, công trường có nhiệm vụ tổ chức thực hiện việc đăng ký, thống kê quân nhân dự bị thuộc đơn vị mình theo sự hướng dẫn của các cơ quan quân sự địa phương.
+"
+ENTITY,E38_22,DIEU,Điều,structure,5720,5963,"Điều 22
+Hàng năm, căn cứ vào nhu cầu xây dựng lực lượng vũ trang nhân dân và tình hình của các địa phương, Chính phủ ấn định tổng số người cần tuyển vào quân đội thường trực và quyết định những biện pháp cần thiết để tiến hành việc tuyển binh."
+ENTITY,E38_23,DIEU,Điều,structure,5964,6174,"Điều 23
+Hàng năm tiến hành tuyển binh một lần vào khoảng thời gian từ mồng 1 tháng 12 năm trước đến ngày 28 tháng 2 năm sau. Trong trường hợp cần thiết Chính phủ có thể quyết định thay đổi thời gian tuyển binh."
+ENTITY,E38_24,DIEU,Điều,structure,6175,6395,"Điều 24
+Kể từ ngày công bố lệnh tuyển binh, những người trong lứa tuổi tuyển vào quân đội thường trực muốn thay đổi chỗ ở sang địa phương khác phải được Uỷ ban hành chính xã, thị xã, thị trấn, khu phố mình đang ở đồng ý."
+ENTITY,E38_25,DIEU,Điều,structure,6396,6515,"Điều 25
+Việc kiểm tra thân thể để tuyển binh do Bộ Y tế phụ trách theo tiêu chuẩn do Bộ Quốc phòng và Bộ Y tế quy định."
+ENTITY,E38_26,DIEU,Điều,structure,6516,6756,"Điều 26
+Những người trong lứa tuổi tuyển binh đã đăng ký nghĩa vụ quân sự, nếu bị đau yếu không thể đến trạm tuyển binh được và được Uỷ ban hành chính xã, thị xã, thị trấn, khu phố chứng nhận, thì có thể được hoãn đến kỳ tuyển binh năm sau."
+ENTITY,E38_27,DIEU,Điều,structure,6757,7143,"Điều 27
+Những người trong lứa tuổi tuyển binh đã đăng ký nghĩa vụ quân sự, nếu là người lao động duy nhất của gia đình, hoặc là con một, thì có thể được Uỷ ban hành chính huyện, thị xã, châu thuộc khu tự trị, quận và khu phố ở các thành phố trực thuộc Trung ương xét và cho miễn phục vụ tại ngũ.
+Những trường hợp khác cần miễn hoặc hoãn gọi ra phục vụ tại ngũ sẽ do Chính phủ quy định.
+"
+ENTITY,E38_28,DIEU,Điều,structure,7191,7473,"Điều 28
+Sĩ quan, hạ sĩ quan và binh sĩ dự bị, hàng năm phải theo mệnh lệnh của Bộ Quốc phòng mà tham gia huấn luyện quân sự.
+Sĩ quan dự bị mỗi năm phải tham gia huấn luyện quân sự hai mươi lăm ngày.
+Hạ sĩ quan và binh sĩ dự bị mỗi năm phải tham gia huấn luyện quân sự mười lăm ngày."
+ENTITY,E38_29,DIEU,Điều,structure,7474,7775,"Điều 29
+Đối với quân nhân dự bị là công nhân, viên chức, Chính phủ sẽ quy định việc trả lương trong thời gian tham gia huấn luyện quân sự.
+Đối với quân nhân dự bị không ở trong trường hợp nói trên, khi cần thoát ly sản xuất để tham gia huấn luyện quân sự tập trung, Chính phủ sẽ quy định việc giúp đỡ."
+ENTITY,E38_30,DIEU,Điều,structure,7776,7945,"Điều 30
+Đối với sinh viên, học sinh các trường đại học, các trường chuyên nghiệp trung cấp thì việc huấn luyện quân sự thuộc chương trình giáo dục do Chính phủ quy định."
+ENTITY,E38_31,DIEU,Điều,structure,7946,8410,"Điều 31
+Bộ Quốc phòng lãnh đạo việc huấn luyện quân sự cho quân nhân dự bị trong toàn quốc.
+Dưới sự lãnh đạo của Uỷ ban hành chính, cơ quan quân sự địa phương có nhiệm vụ tổ chức thực hiện việc huấn luyện quân sự cho quân nhân dự bị trong địa phương mình.
+Thủ trưởng các cơ quan, trường học, xí nghiệp, nông trường, công trường có nhiệm vụ tổ chức việc huấn luyện quân sự cho quân nhân dự bị thuộc đơn vị mình theo sự hướng dẫn của các cơ quan quân sự địa phương.
+"
+ENTITY,E38_32,DIEU,Điều,structure,8441,8612,"Điều 32
+Sau khi Chủ tịch nước Việt Nam dân chủ cộng hoà công bố lệnh tổng động viên hoặc động viên cục bộ, Bộ trưởng Bộ Quốc phòng ra các mệnh lệnh cần thiết để thực hiện."
+ENTITY,E38_33,DIEU,Điều,structure,8613,8939,"Điều 33
+Sau khi lệnh tổng động viên hoặc động viên cục bộ được công bố:
+- Tất cả những quân nhân dù sắp hết hạn tại ngũ đều phải ở lại quân đội cho đến khi có mệnh lệnh của Bộ Quốc phòng cho thoái ngũ.
+- Tất cả quân nhân dự bị khi nhận được mệnh lệnh gọi ra phục vụ tại ngũ phải có mặt đúng ngày, đúng giờ, ở địa điểm đã định."
+ENTITY,E38_34,DIEU,Điều,structure,8940,9033,"Điều 34
+Việc hoãn gọi ra phục vụ tại ngũ trong thời chiến do Hội đồng quốc phòng quyết định.
+"
+ENTITY,E38_35,DIEU,Điều,structure,9106,9383,"Điều 35
+Quân nhân tại ngũ và quân nhân dự bị có tất cả mọi quyền lợi và nghĩa vụ của người công dân quy định trong Hiến pháp nước Việt Nam dân chủ cộng hoà.
+Quân nhân còn có những quyền lợi và nghĩa vụ khác quy định trong luật này và trong các điều lệnh và chế độ của quân đội."
+ENTITY,E38_36,DIEU,Điều,structure,9384,9540,"Điều 36
+Quân nhân tại ngũ, quân nhân dự bị và dân quân, tự vệ lập được công trạng sẽ được tặng thưởng huân chương, danh hiệu vinh dự, huy chương, bằng khen."
+ENTITY,E38_37,DIEU,Điều,structure,9541,9718,"Điều 37
+Những sĩ quan, hạ sĩ quan, binh sĩ dự bị có nhiều thành tích trong huấn luyện quân sự, hoặc trong công tác bảo vệ an ninh, củng cố quốc phòng, có thể được thăng, thưởng."
+ENTITY,E38_38,DIEU,Điều,structure,9719,9878,"Điều 38
+Quân nhân tại ngũ bị tàn phế, bị bệnh chết, hoặc hy sinh trong khi làm nhiệm vụ, thì bản thân hoặc gia đình được hưởng chế độ ưu đãi do Chính phủ định."
+ENTITY,E38_39,DIEU,Điều,structure,9879,10049,"Điều 39
+Quân nhân dự bị, dân quân, tự vệ bị thương hoặc hy sinh trong khi làm nhiệm vụ quân sự thì bản thân hoặc gia đình được hưởng một khoản trợ cấp do Chính phủ định.
+"
+ENTITY,E38_40,DIEU,Điều,structure,10081,10276,"Điều 40
+Những hành vi vi phạm các điều khoản trong luật này và những hành vi làm cản trở hoặc phá hoại việc thi hành chế độ nghĩa vụ quân sự sẽ tuỳ từng trường hợp mà bị trừng trị theo pháp luật."
+ENTITY,E38_41,DIEU,Điều,structure,10277,10368,"Điều 41
+Những điều khoản trong các luật lệ ban hành trước đây trái với luật này đều bãi bỏ."
+ENTITY,E38_42,DIEU,Điều,structure,10369,10423,"Điều 42
+Chính phủ quy định chi tiết thi hành luật này."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R13_2,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_2,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_10,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_11,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_12,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_13,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_14,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_15,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_16,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_17,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_18,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,R22_19,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,R22_20,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,R22_21,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,R22_22,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,R22_23,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,R22_24,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,R22_25,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_26,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,R22_27,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,R22_28,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_29,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,R22_30,THUOC,Thuộc,E38_28,E35_5,,
+RELATION,R22_31,THUOC,Thuộc,E38_29,E35_5,,
+RELATION,R22_32,THUOC,Thuộc,E38_30,E35_5,,
+RELATION,R22_33,THUOC,Thuộc,E38_31,E35_5,,
+RELATION,R22_34,THUOC,Thuộc,E38_32,E35_6,,
+RELATION,R22_35,THUOC,Thuộc,E38_33,E35_6,,
+RELATION,R22_36,THUOC,Thuộc,E38_34,E35_6,,
+RELATION,R22_37,THUOC,Thuộc,E38_35,E35_7,,
+RELATION,R22_38,THUOC,Thuộc,E38_36,E35_7,,
+RELATION,R22_39,THUOC,Thuộc,E38_37,E35_7,,
+RELATION,R22_40,THUOC,Thuộc,E38_38,E35_7,,
+RELATION,R22_41,THUOC,Thuộc,E38_39,E35_7,,
+RELATION,R22_42,THUOC,Thuộc,E38_40,E35_8,,
+RELATION,R22_43,THUOC,Thuộc,E38_41,E35_8,,
+RELATION,R22_44,THUOC,Thuộc,E38_42,E35_8,,

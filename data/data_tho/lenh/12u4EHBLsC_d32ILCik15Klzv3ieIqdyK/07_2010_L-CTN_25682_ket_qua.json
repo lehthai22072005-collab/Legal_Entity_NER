@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0",
+  "document_id": "25682",
+  "document_code": "07/2010/L-CTN",
+  "file_name": "07_2010_L-CTN_25682.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 07/2010/L-CTN Về việc công bố Nghị quyết của quốc hội",
+    "so_hieu": "07/2010/L-CTN",
+    "loai_van_ban": "Lệnh",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "ngày 28 tháng 6 năm 2010",
+    "ngay_co_hieu_luc": "2010-06-28",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH\nNƯỚC",
+    "nguoi_ky": "Nguyễn Minh Triết",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 07/2010/L-CTN Về việc công bố Nghị quyết của quốc hội\nCHỦ TỊCH NƯỚC   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nSố: 07/2010/L-CTN Hà Nội, ngày 28 tháng 6 năm 2010\nLỆNH\nVề việc công bố Nghị quyết của Quốc hội\nCHỦ TỊCH\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 103 và Điều 106 của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khóa X, kỳ họp thứ 10;\nCăn cứ Điều 91 của Luật tổ chức Quốc hội;\nCăn cứ Điều 57 của Luật ban hành văn bản quy phạm pháp luật,\nNAY CÔNG BỐ\nNghị quyết về dự án, công trình quan trọng quốc gia trình Quốc hội quyết định chủ trương đầu tư\nĐã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 19 tháng 6 năm 2010./.\nCHỦ TỊCH\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nNguyễn Minh Triết\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 2010-06-28\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Hiến pháp năm 1992\n[Căn cứ ban hành]: Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 30/2001/QH10\n[Văn bản được quy định chi tiết, hướng dẫn thi hành]: Luật Tổ chức Quốc hội số 30/2001/QH10\n[Văn bản được quy định chi tiết, hướng dẫn thi hành]: Hiến pháp năm 1992",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 61,
+      "text": "Lệnh số 07/2010/L-CTN Về việc công bố Nghị quyết của quốc hội",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 21,
+      "text": "07/2010/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 167,
+      "end": 191,
+      "text": "ngày 28 tháng 6 năm 2010",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 956,
+      "end": 970,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 991,
+      "end": 1001,
+      "text": "2010-06-28",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 1025,
+      "end": 1037,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 62,
+      "end": 75,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 825,
+      "end": 838,
+      "text": "CHỦ TỊCH\nNƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 874,
+      "end": 891,
+      "text": "Nguyễn Minh Triết",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E14_1",
+      "start": 1263,
+      "end": 1300,
+      "text": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E14_2",
+      "start": 1355,
+      "end": 1373,
+      "text": "Hiến pháp năm 1992",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 1057,
+      "end": 1075,
+      "text": "Hiến pháp năm 1992",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 1095,
+      "end": 1151,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 1171,
+      "end": 1208,
+      "text": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R2_1",
+      "from_id": "E2_1",
+      "to_id": "E14_1",
+      "code": "DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Được quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R2_2",
+      "from_id": "E2_1",
+      "to_id": "E14_2",
+      "code": "DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Được quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E2_1",
+      "to_id": "E19_2",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E2_1",
+      "to_id": "E19_3",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

@@ -1,0 +1,24 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,68,"Lệnh số 07/2012/L-CTN Công bố Luật Phòng, chống tác hại của thuốc lá"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,07/2012/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,193,217,ngày 02 tháng 7 năm 2012
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,918,932,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,953,963,2012-07-02
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,987,999,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,69,82,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,789,802,"CHỦ TỊCH
+NƯỚC"
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,838,853,Trương Tấn Sang
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,1225,1243,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1019,1037,Hiến pháp năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1057,1113,Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1133,1170,Luật Tổ chức Quốc hội số 30/2001/QH10
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,1263,1598,"Nghị định số 17/2022/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp; điện lực, an toàn đập thủy điện, sử dụng năng lượng tiết kiệm và hiệu quả; hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng cấm và bảo vệ quyền lợi người tiêu dùng; hoạt động dầu khí, kinh doanh xăng dầu và khí"
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_3,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

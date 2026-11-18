@@ -1,0 +1,1245 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,238,328,"PHÁP LỆNH
+VỀ NHIỆM VỤ, QUYỀN HẠN CỤ THỂ CỦA HỘI ĐỒNG NHÂN DÂN VÀ UỶ BAN NHÂN DÂN Ở MỖI CẤP"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,192,204,Số: Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,238,247,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,213,237,ngày 25 tháng 6 năm 1996
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,75370,75384,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,75405,75415,1996-07-03
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,75439,75451,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,103,128,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,75465,75473,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,75292,75305,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,99674,99692,Hiến pháp năm 1992
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,99548,99619,"Luật Sửa đổi, bổ sung một số điều của Luật Nghĩa vụ quân sự số Không số"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,352,410,Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,423,482,Luật tổ chức Hội đồng nhân dân và Uỷ ban nhân dân (sửa đổi)
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,495,571,"Nghị quyết của Quốc hội khoá IX, kỳ họp thứ 8 về công tác xây dựng pháp luật"
+ENTITY,E19_4,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,75493,75511,Hiến pháp năm 1992
+ENTITY,E19_5,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,75531,75592,Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân số Không số
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,75612,75727,"Quyết định số 2664/QĐ-UB Về việc thu tiền sử dụng mặt đất, khoảng không để quảng cáo trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,75747,75936,Quyết định số 38/2002/QĐ-UB Điều chỉnh bản quy định về đơn giá nhà ở và vật kiến trúc trên địa bàn thành phố Đà Nẵng tại Quyết định 199/2001/QĐ-UB ngày 31/12/2001 của UBND thành phố Đà Nẵng
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,75956,76006,Nghị quyết số 01/1998/NQ-HĐND Về nhiệm vụ năm 1998
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,76026,76264,"Nghị định số 20/2002/NĐ-CP Về ký kết và thực hiện thỏa thuận quốc tế của các tỉnh, thành phố trực thuộc Trung ương, các tổ chức chính trị - xã hội, tổ chức xã hội và tổ chức xã hội - nghề nghiệp của nước Cộng hoà xã hội chủ nghĩa Việt Nam"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,76284,76441,QUYẾT ĐỊNH SỐ 151/2002/QĐ-UB CỦA ỦY BAN NHÂN DÂN THÀNH PHỐ VỀ BAN HÀNH QUY CHẾ TỔ CHỨC VÀ HOẠT ĐỘNG CỦA BAN CHỈ ĐẠO THI HÀNH ÁN DÂN SỰ THÀNH PHỐ HỒ CHÍ MINH.
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,76461,76574,"Quyết định số 118/2002/QĐ-UB Về việc qui định mức hỗ trợ cho hoạt động phát triển thị trường, xúc tiến thương mại"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,76594,76704,"Nghị quyết số 54/2001/NQ-HĐND Về mức đóng góp học phí, xây dựng trường và mức thu hỗ trợ ở các trường tiểu học"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,76724,76833,Quyết định số 245/1998/QĐ-TTg Về thực hiện trách nhiệm quản lý Nhà nước của các cấp về rừng và đất lâm nghiệp
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,76853,76924,Quyết định số 72/2003/QĐ-UB Thành lập Trường trung học phổ thông Ia Sao
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,76944,77039,Quyết định số 80/2000/QĐ-UB Về việc thành lập Ban Quản lý dự án giao thông nông thôn 2 của tỉnh
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,77059,77153,Quyết định số 140/2002/QĐ-UB Ban hành Quy định giá các loại đất trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,77173,77234,"Quyết định số 61/2001/QĐ-UB Về việc chia tách, thành lập thôn"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,77254,77398,Nghị quyết số 50/2002/NQ-HĐND Về việc ban hành Quy chế giám sát của HĐND tỉnh đối với hoạt động tư pháp của các cơ quan Tư pháp tỉnh Tuyên Quang
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,77418,77571,Quyết định số 142/2001/QĐ-UB Ban hành Quy định quản lý và sử dụng tạm thời vỉa hè để kinh doanh trên địa bàn quận Hải Châu và Thanh Khê thành phố Đà Nẵng
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,77591,77745,"Quyết định số 5676/1998/QĐ-UB V/v Quy định tạm thời về thu, chi phục vụ đưa đón bệnh nhân và thân nhân bệnh nhân về gia đình tại Bệnh viện Đa khoa Đà Nẵng"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,77765,77890,Quyết định số 7216/2002/QĐ-UB Ban hành Quy chế tổ chức và hoạt động của Ban chỉ đạo thi hành án dân sự tỉnh Bà Rịa - Vũng Tàu
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,77910,77989,Quyết định số 2125/1998/QĐ-UB V/v ban hành Quy chế làm việc của UBND TP Đà Nẵng
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,78009,78170,"Quyết định số 141/2002/QĐ-UB Về việc ban hành bản quy định về bồi thường thiệt hại, hỗ trợ và tái định cư khi nhà nước thu hồi đất trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,78190,78346,"Quyết định số 62/2002/QĐ-UB Về việc thành lập bộ phận thường trực triển khai thực hiện Pháp lệnh phí, lệ phí và Nghị định 57/2002/NĐ-CP của Chính phủ ở tỉnh"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,78366,78468,Quyết định số 60/2000/QĐ-UB Về việc thành lập trường Trung học phổ thông Quang Trung - huyện Kong Chro
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,78488,78621,"Quyết định số 145/2001/QĐ-UB Ban hành Quy định tạm thời mức thu, quản lý và sử dụng phí sử dụng vỉa hè trên dịa bàn thành phố Đà Nẵng"
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,78641,78798,Quyết định số 2663/QĐ-UB Ban hành Quy định tạm thời về khoản thu phục vụ vệ sinh - môi trường và cứu sinh tại các bãi tắm biển trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,78818,78954,"Nghị quyết số 03/1998/NQ-HĐ Về nhiệm vụ và biện pháp thực hiện kế hoạch kinh tế- xã hội, an ninh- quốc phòng trong 6 tháng cuối năm 1998"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,78974,79064,"Quyết định số 1001/QĐ-UB V/v Thu phí thẩm định thiết kế, dự toán các công trình giao thông"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,79084,79187,"Quyết định số 60/2002/QĐ-UB Về việc chia tách, thành lập thôn, làng các xã thị trấn thuộc huyện Chư Păh"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,79207,79336,"Quyết định số 80/2002/QĐ-UB Về việc chia tách, thành lập thôn, tổ dân phố thuộc phường Diên Hồng và xã Biển Hồ - thành phố Pleiku"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,79356,79486,Quyết định số 55/1999/QĐ-UB Về việc chuyển đổi trường Phổ thông cấp 2 + 3 Quang Trung thành trường Trung học phổ thông Quang Trung
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,79506,79701,Nghị quyết số 06/1997/NQ-HĐND Về huy động sự đóng góp của nhân dân và các tổ chức kinh tế để tăng cường các nguồn lực đầu tư xây dựng cơ sở hạ tầng và các công trình phúc lợi xã hội tại Lâm Đồng.
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,79721,79829,"Nghị quyết số Không số Về việc đặt tên một số đường phố ở thành phố Vinh, đường phố và bãi tắm thị xã Cửa Lò"
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,79849,79922,"Quyết định số 111/2001/QĐ-UB Về việc chia tách thôn, thành lập tổ dân phố"
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,79942,80036,Quyết định số 168/2002/QĐ-TTg Về việc thành lập Sở Quy hoạch - Kiến trúc thành phố Hồ Chí Minh
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,80056,80186,"Nghị quyết số Không số Khóa XIV, kỳ họp thứ 2 về việc tiếp tục thực hiện nhiệm vụ kinh tế - xã hội năm 2000 trong 6 tháng cuối năm"
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,80206,80284,Quyết định số 01/2000/QĐ-UB Về việc thành lập trường Trung học phổ thông Ya Ly
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,80304,80392,Quyết định số 52/2002/QĐ-TTg Về việc thành lập Sở Quy hoạch - Kiến trúc thành phố Hà Nội
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,80412,80612,"Nghị quyết số Không số Về việc mức hưởng hoạt động phí cho Phó chủ tịch mặt trận tổ quốc và cấp phó các đoàn thể ở xã, phường, thị trấn, thực hiện theo Nghị định số 09/CP ngày 23/01/1998 của Chính phủ"
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,80632,80770,Nghị quyết số 22/2001/NQ-HĐND.VI Về việc phân cấp nhiệm vụ chi đầu tư xây dựng cơ bản cho ngân sách cấp huyện theo Luật Ngân sách Nhà nước
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,80790,80886,Quyết định số 45/2000/QĐ-UB Về việc ban hành quy chế làm việc của UBND tỉnh nhiệm kỳ 1999 - 2004
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,80906,80956,Quyết định số 54/2003/QĐ-UB Về việc thành lập thôn
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,80976,81068,"Nghị quyết số 14/NQ-HĐND Ban hành bản ""Quy định về huy động và sử dụng quỹ đền ơn đáp nghĩa"""
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,81088,81211,Quyết định số 168/2003/QĐ-UB Ban hành quy định về một số điều kiện để được đăng ký hộ khẩu thường trú tại thành phố Đà Nẵng
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,81231,81358,Quyết định số 54/1999/QĐ-UB Về việc chuyển đổi trường Phổ thông cấp 2 + 3 Mang Yang thành trường Trung học phổ thông Nguyễn Huệ
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,81378,81470,"Quyết định số 92/2002/QĐ-UB Về việc đặt tên phố, tên ngõ và mở rộng phố thuộc thị xã Hà Đông"
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,81490,81572,Quyết định số 120/2004/QĐ-UB V/v ban hành Quy chế làm việc của UBND tỉnh Hậu Giang
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,81592,81761,Quyết định số 4705/QĐ-UB V/v Ban hành bản quy định về một số điều kiện để được đăng ký hộ khẩu thường trú tại thành phố Đà Nẵng đối với những người ở nơi khác chuyển đến
+ENTITY,E30_45,VB_AP_DUNG,Văn bản áp dụng,reference,81781,81891,Quyết định số 81/2000/QĐ-UB Về việc đổi tên Hạt Kiểm lâm huyện Mang Yang (cũ) thành Hạt Kiểm lâm huyện Đăk Đoa
+ENTITY,E30_46,VB_AP_DUNG,Văn bản áp dụng,reference,81911,81970,"Quyết định số 03/2003/QĐ-UB Về việc chia tách, đổi tên thôn"
+ENTITY,E30_47,VB_AP_DUNG,Văn bản áp dụng,reference,81990,82033,Nghị quyết số không số Về nhiệm vụ năm 1999
+ENTITY,E30_48,VB_AP_DUNG,Văn bản áp dụng,reference,82053,82152,Quyết định số 137/2000/QĐ-UB Về việc chuẩn y Quy chế tổ chức và hoạt động của Câu lạc bộ Thái Phiên
+ENTITY,E30_49,VB_AP_DUNG,Văn bản áp dụng,reference,82172,82276,Quyết định số 62/2000/QĐ-UB Về việc thành lập trường Trung học phổ thông Trần Hưng Đạo - huyện Mang Yang
+ENTITY,E30_50,VB_AP_DUNG,Văn bản áp dụng,reference,82296,82447,"Quyết định số 208/2003/QĐ-TTg Về việc đổi tên Sở Tài chính - Vật giá thành Sở Tài chính thuộc ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương"
+ENTITY,E30_51,VB_AP_DUNG,Văn bản áp dụng,reference,82467,82555,"Quyết định số 1727/1998/QĐ-UB Về việc chia tách Thôn, thuộc xã Nghĩa Hưng, huyện Chư Păh"
+ENTITY,E30_52,VB_AP_DUNG,Văn bản áp dụng,reference,82575,82664,Quyết định số 4706A/1998/QĐ-UB V/v Quy định tạm thời mức thu phí lệ phí khu du lich Bà Nà
+ENTITY,E30_53,VB_AP_DUNG,Văn bản áp dụng,reference,82684,82838,Quyết định số 07/2000/QĐ-UB Về việc bãi bỏ các quyết định về giá buồng phòng đối với các cơ sở kinh doanh lưu trú khách du lịch trên địa bàn tỉnh Lâm Đồng
+ENTITY,E30_54,VB_AP_DUNG,Văn bản áp dụng,reference,82858,82919,"Quyết định số 97/2003/QĐ-UB Về việc chia tách, thành lập thôn"
+ENTITY,E30_55,VB_AP_DUNG,Văn bản áp dụng,reference,82939,83009,"Quyết định số 778/QĐ-UB Về việc phân công, cấp quản lý tổ chức, cán bộ"
+ENTITY,E30_56,VB_AP_DUNG,Văn bản áp dụng,reference,83029,83128,Quyết định số 18/2001/QĐ-UB Về việc phê chuẩn Điều lệ hoạt động của Hội đồng Khoa học kỹ thuật tỉnh
+ENTITY,E30_57,VB_AP_DUNG,Văn bản áp dụng,reference,83148,83209,"Quyết định số 96/2003/QĐ-UB Về việc chia tách, thành lập thôn"
+ENTITY,E30_58,VB_AP_DUNG,Văn bản áp dụng,reference,83229,83296,Nghị quyết số 48/NQ-HĐND.KVI Đặt mới tên đường của Thành phố Đà Lạt
+ENTITY,E30_59,VB_AP_DUNG,Văn bản áp dụng,reference,83316,83396,Quyết định số 82/2000/QĐ-UB Về việc thành lập Hạt Kiểm lâm huyện Mang Yang (mới)
+ENTITY,E30_60,VB_AP_DUNG,Văn bản áp dụng,reference,83416,83570,"Nghị quyết số 46/2003/NQ-HĐ về việc đăt tên, đổi tên sân vận động, quảng trường.công viên trên địa bàn Hà nội do Ủy ban nhân dân thành phố Hà Nội ban hành"
+ENTITY,E30_61,VB_AP_DUNG,Văn bản áp dụng,reference,83590,83673,Quyết định số 39/2003/QĐ-TTg Về việc thành lập Ban Dân tộc và Tôn giáo tỉnh Phú Thọ
+ENTITY,E30_62,VB_AP_DUNG,Văn bản áp dụng,reference,83693,83843,Quyết định số 1431/1998/QĐ-UB Về việc chuẩn y quy chế tổ chức và hoạt động của Quỹ bảo trợ nạn nhân chất độc da cam do chiến tranh ở Việt Nam của tỉnh
+ENTITY,E30_63,VB_AP_DUNG,Văn bản áp dụng,reference,83863,83906,Nghị quyết số không số Về nhiệm vụ năm 1999
+ENTITY,E30_64,VB_AP_DUNG,Văn bản áp dụng,reference,83926,83996,Quyết định số 73/2003/QĐ-UB Thành lập Trạm Bảo vệ thực vật huyện Ia Pa
+ENTITY,E30_65,VB_AP_DUNG,Văn bản áp dụng,reference,84016,84097,Quyết định số 03/2005/QĐ-UB V/v ban hành Quy chế làm việc của UBND tỉnh Hậu Giang
+ENTITY,E30_66,VB_AP_DUNG,Văn bản áp dụng,reference,84117,84175,Quyết định số 936/1998/QĐ-UB V/v Duyệt đơn giá biển số nhà
+ENTITY,E30_67,VB_AP_DUNG,Văn bản áp dụng,reference,84195,84245,Quyết định số 52/2003/QĐ-UB Về việc thành lập thôn
+ENTITY,E30_68,VB_AP_DUNG,Văn bản áp dụng,reference,84265,84418,Quyết định số 1217/1998/QĐ-UB Về việc chuyển giao nhiệm vụ quản lý Nhà nước về Đào tạo nghề từ Sở Giáo dục và Đào tạo sang Sở Lao động-Thương binh-Xã hội
+ENTITY,E30_69,VB_AP_DUNG,Văn bản áp dụng,reference,84438,84574,"Quyết định số 3695/1998/QĐ-UB V/v Quy định giá dịch vụ trông coi hàng hóa, tài sản ban đêm tại các chợ thuộc Công ty Quản lý Chợ Đà Nẵng"
+ENTITY,E30_70,VB_AP_DUNG,Văn bản áp dụng,reference,84594,84648,Quyết định số 49/2000/QĐ-UB Về việc thành lập thôn mới
+ENTITY,E30_71,VB_AP_DUNG,Văn bản áp dụng,reference,84668,84834,Nghị quyết số 13/2001/NQ-UB Về việc miễn nhiệm chức vụ chủ tịch HĐND và thôi làm nhiệm vụ Đại biểu HĐND thành phố Hà Nội của ông Trần Văn Tuấn khóa XII - kỳ họp thứ 5
+ENTITY,E30_72,VB_AP_DUNG,Văn bản áp dụng,reference,84854,84972,Quyết định số 109/2001/QĐ-UB Về việc chuẩn y Quy chế tổ chức và hoạt động của Hội Phục hồi chức năng thành phố Đà Nẵng
+ENTITY,E30_73,VB_AP_DUNG,Văn bản áp dụng,reference,84992,85128,"Quyết định số 7466/1998/QĐ-UB V/v Quy định việc quản lý và sử dụng khoản tiền được trích để lại cho các cơ quan, tổ chức thu phí, lệ phí"
+ENTITY,E30_74,VB_AP_DUNG,Văn bản áp dụng,reference,85148,85217,"Quyết định số 52/2001/QĐ-UB Về việc thành lập 05 trạm y tế xã, phường"
+ENTITY,E30_75,VB_AP_DUNG,Văn bản áp dụng,reference,85237,85336,Quyết định số 1436/1998/QĐ-UB Về việc phê chuẩn Điều lệ hoạt động của Chi hội Dược học tỉnh Gia Lai
+ENTITY,E30_76,VB_AP_DUNG,Văn bản áp dụng,reference,85356,85429,Quyết định số 24/2003/QĐ-TTg Về việc thành lập Sở Ngoại vụ tỉnh Quảng Trị
+ENTITY,E30_77,VB_AP_DUNG,Văn bản áp dụng,reference,85449,85506,Quyết định số 110/2001/QĐ-UB Về việc thành lập tổ dân phố
+ENTITY,E30_78,VB_AP_DUNG,Văn bản áp dụng,reference,85526,85569,Nghị quyết số Không Số Về nhiệm vụ năm 1998
+ENTITY,E30_79,VB_AP_DUNG,Văn bản áp dụng,reference,85589,85805,Quyết định số 44/2002/QĐ-UB Về việc chia tách trường Trung học phổ thông Krông Pa (trường cấp 2+3) thành trường Trung học phổ thông Chu Văn An (trường cấp 3) và trường Trung học cơ sở Nguyễn Bỉnh Khiêm (trường cấp 2)
+ENTITY,E30_80,VB_AP_DUNG,Văn bản áp dụng,reference,85825,85887,"Quyết định số 117/2001/QĐ-UB Về việc chia tách, thành lập thôn"
+ENTITY,E30_81,VB_AP_DUNG,Văn bản áp dụng,reference,85907,85987,Quyết định số 53/1999/QĐ-UB Về việc thành lập trường Trung học phổ thông Chư Păh
+ENTITY,E30_82,VB_AP_DUNG,Văn bản áp dụng,reference,86007,86096,Quyết định số 05/1999/QĐ-UB Về việc thành lập thôn Yít Le 2 thuộc xã Ia Lang huyện Đức Cơ
+ENTITY,E30_83,VB_AP_DUNG,Văn bản áp dụng,reference,86116,86184,"Quyết định số 109/2001/QĐ-UB Về việc chia tách, thành lập tổ dân phố"
+ENTITY,E30_84,VB_AP_DUNG,Văn bản áp dụng,reference,86204,86286,Quyết định số 72/2003/QĐ-UB V/v ban hành Quy chế làm việc của Uỷ ban nhân dân tỉnh
+ENTITY,E30_85,VB_AP_DUNG,Văn bản áp dụng,reference,86306,86444,Quyết định số 46/1999/QĐ-UB Về việc triển khai thực hiện chương trình Quốc gia nước sạch và vệ sinh môi trường nông thôn trên địa bàn tỉnh
+ENTITY,E30_86,VB_AP_DUNG,Văn bản áp dụng,reference,86464,86600,"Quyết định số 6141/1998/QĐ-UB V/v quy định việc quản lý và sử dụng khoản tiền được trích để lại cho các cơ quan, tổ chức thu phí, lệ phí"
+ENTITY,E30_87,VB_AP_DUNG,Văn bản áp dụng,reference,86620,86693,Nghị quyết số 52/2001/NQ-HĐND Về chế độ hỗ trợ giáo viên mầm non bán công
+ENTITY,E30_88,VB_AP_DUNG,Văn bản áp dụng,reference,86713,86825,Quyết định số 63/2000/QĐ-UB Về việc đổi tên Trường PTTH bán công Pleiku thành Trường THPT bán công Phan Bội Châu
+ENTITY,E30_89,VB_AP_DUNG,Văn bản áp dụng,reference,86845,86985,"Nghị quyết số 55/2001/NQ-HĐND Về quy hoạch mạng lưới trường lớp, qui mô phát triển giáo dục và đào tạo phục vụ công nghiệp hóa, hiện đại hóa"
+ENTITY,E30_90,VB_AP_DUNG,Văn bản áp dụng,reference,87005,87165,Quyết định số 186/2001/QĐ-UB Ban hành quy chế tổ chức và hoạt động của Đội Quản lý trật tự vỉa hè trên địa bàn quận Hải Châu và quận Thanh Khê thành phố Đà Nẵng
+ENTITY,E30_91,VB_AP_DUNG,Văn bản áp dụng,reference,87185,87299,Quyết định số 136/2002/QĐ-UB Về việc Thực hiện chính sách ưu đãi đối với các hộ kinh doanh tại chợ Hòa Khánh (mới)
+ENTITY,E30_92,VB_AP_DUNG,Văn bản áp dụng,reference,87319,87407,Quyết định số 54/2000/QĐ-UB Về việc thành lập trường Trung học phổ thông Bán công An Khê
+ENTITY,E30_93,VB_AP_DUNG,Văn bản áp dụng,reference,87427,87544,Quyết định số 97/2002/QĐ-UB Về việc thành lập Ban đại diện Hội đồng quản trị Ngân hàng chính sách xã hội tỉnh Gia Lai
+ENTITY,E30_94,VB_AP_DUNG,Văn bản áp dụng,reference,87564,87680,"Quyết định số 126/2000/QĐ-UB Về việc ban hành quy định quản lý thu, chi ngân sách phường, xã thuộc Thành Phố Đà Nẵng"
+ENTITY,E30_95,VB_AP_DUNG,Văn bản áp dụng,reference,87700,87815,"Quyết định số 6274/1998/QĐ-UB V/v Nghiêm cấm các tổ chức, cá nhân tự ý tổ chức các hoạt động gây quỹ trái pháp luật"
+ENTITY,E30_96,VB_AP_DUNG,Văn bản áp dụng,reference,87835,87975,Quyết định số 2662/QĐ-UB Về việc ban hành Bảng phân loại đường trên địa bàn thành phố Đà Nẵng để phục vụ cho công tác tính giá cước năm 1999
+ENTITY,E30_97,VB_AP_DUNG,Văn bản áp dụng,reference,87995,88106,Quyết định số 03/2000/QĐ-UBND Về việc ban hành bản quy chế làm việc của Uỷ ban nhân dân tỉnh nhiệm kỳ 1999-2004
+ENTITY,E30_98,VB_AP_DUNG,Văn bản áp dụng,reference,88126,88224,Quyết định số 82/2003/QĐ-UB Về việc Phê duyệt chương trình Dân số tỉnh Gia Lai giai đoạn 2001-2010
+ENTITY,E30_99,VB_AP_DUNG,Văn bản áp dụng,reference,88244,88294,Quyết định số 59/2001/QĐ-UB Về việc chia tách thôn
+ENTITY,E30_100,VB_AP_DUNG,Văn bản áp dụng,reference,88314,88463,Quyết định số 9424/2002/QĐ-UB V/v Phê duyệt đề án cải cách thủ tục hành chính theo mô hình một cửa của Ban Tổ chức chính quyền tỉnh Bà Rịa - Vũng Tàu
+ENTITY,E30_101,VB_AP_DUNG,Văn bản áp dụng,reference,88483,88589,Quyết định số 20/1999/QĐ-UB Về việc phê chuẩn Quy chế hoạt động của Ban Liên lạc tù chính trị tỉnh Gia Lai
+ENTITY,E30_102,VB_AP_DUNG,Văn bản áp dụng,reference,88609,88681,"Quyết định số 60/2001/QĐ-UB Về việc chia tách thôn, thành lập tổ dân phố"
+ENTITY,E30_103,VB_AP_DUNG,Văn bản áp dụng,reference,88701,88816,Quyết định số 3491/1998/QĐ-UB V/v Quy định quản lý hoạt động giữ xe và giá vé giữ xe trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_104,VB_AP_DUNG,Văn bản áp dụng,reference,88836,88981,"Quyết định số 2952/1998/QĐ-UB V/v Ban hành Quy định tạm thời lập, quản lý và sử dụng ""Quỹ Bảo trợ an ninh-trật tự"" trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_105,VB_AP_DUNG,Văn bản áp dụng,reference,89001,89201,"Nghị quyết số Không số Về việc mức hưởng hoạt động phí cho Phó chủ tịch mặt trận tổ quốc và cấp phó các đoàn thể ở xã, phường, thị trấn, thực hiện theo Nghị định số 09/CP ngày 23/01/1998 của Chính phủ"
+ENTITY,E30_106,VB_AP_DUNG,Văn bản áp dụng,reference,89221,89382,Quyết định số 56/1999/QĐ-UB Về việc chia tách trường Phổ thông cấp 2 + 3 Chư Sê thành trường Trung học phổ thông Chư Sê và trường Trung học cơ sở thị trấn Chư Sê
+ENTITY,E30_107,VB_AP_DUNG,Văn bản áp dụng,reference,89402,89493,"Quyết định số 38/2000/QĐ-UB Về việc thành lập và đổi tên các trạm y tế xã, phường, thị trấn"
+ENTITY,E30_108,VB_AP_DUNG,Văn bản áp dụng,reference,89513,89657,"Quyết định số 7672/QĐ-UB V/v Quy định tạm thời tỷ lệ phần trăm (%) phân chia các khoản thu giữa ngân sách thành phố và ngân sách các quận, huyện"
+ENTITY,E30_109,VB_AP_DUNG,Văn bản áp dụng,reference,89677,89807,"Nghị quyết số Không số Khóa XIV, kỳ họp thứ 2 về việc tiếp tục thực hiện nhiệm vụ kinh tế - xã hội năm 2000 trong 6 tháng cuối năm"
+ENTITY,E30_110,VB_AP_DUNG,Văn bản áp dụng,reference,89827,89918,Nghị quyết số 14/2000/NQ-HĐND Về đặt tên đường và công trình công cộng thuộc thị xã Phủ Lý.
+ENTITY,E30_111,VB_AP_DUNG,Văn bản áp dụng,reference,89938,90010,Quyết định số 20/2003/QĐ-UB Về việc thành lập Trung tâm y tế huyện Ia Pa
+ENTITY,E30_112,VB_AP_DUNG,Văn bản áp dụng,reference,90030,90141,Quyết định số 199/2001/QĐ-UB Ban hành Quy định về đơn giá nhà ở và vật kiến trúc trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_113,VB_AP_DUNG,Văn bản áp dụng,reference,90161,90257,Quyết định số 23/2002/QĐ-UB V/v thực hiện đặt tên bổ sung đường phố trên địa bàn thị xã Lạng Sơn
+ENTITY,E30_114,VB_AP_DUNG,Văn bản áp dụng,reference,90277,90339,Quyết định số 68/2002/QĐ-UB Về việc thành lập các Trạm y tế xã
+ENTITY,E30_115,VB_AP_DUNG,Văn bản áp dụng,reference,90359,90409,Quyết định số 95/2003/QĐ-UB Về việc thành lập thôn
+ENTITY,E30_116,VB_AP_DUNG,Văn bản áp dụng,reference,90429,90545,Quyết định số 15/1999/QĐ-UB Về việc thành lập Ban Điều hành dự án của tỉnh thực hiện dự án trồng mới 5 triệu ha rừng
+ENTITY,E30_117,VB_AP_DUNG,Văn bản áp dụng,reference,90565,90650,"Quyết định số 1725/1998/QĐ-UB Về việc thành lập Thôn, thuộc xã Chư Jôr, huyện Chư Păh"
+ENTITY,E30_118,VB_AP_DUNG,Văn bản áp dụng,reference,90670,90745,Quyết định số 209/2003/QĐ-TTg Về việc thành lập Sở Ngoại vụ tỉnh Quảng Bình
+ENTITY,E30_119,VB_AP_DUNG,Văn bản áp dụng,reference,90765,90808,Nghị quyết số Không số Về nhiệm vụ năm 1997
+ENTITY,E30_120,VB_AP_DUNG,Văn bản áp dụng,reference,90828,90921,Quyết định số 19/1999/QĐ-UB Về việc thành lập Ban Quản lý khu bảo tồn thiên nhiên Kon Ka Kinh
+ENTITY,E30_121,VB_AP_DUNG,Văn bản áp dụng,reference,90941,91032,"Quyết định số 1728/1998/QĐ-UB Về việc chia tách Thôn, thuộc thị trấn Phú Hòa, huyện Chư Păh"
+ENTITY,E30_122,VB_AP_DUNG,Văn bản áp dụng,reference,91052,91144,"Quyết định số 60/1999/QĐ-UB Về việc thành lập tổ dân phố thuộc thị trấn Chư Sê, huyện Chư Sê"
+ENTITY,E30_123,VB_AP_DUNG,Văn bản áp dụng,reference,91164,91303,"Quyết định số 92/2001/QĐ-UB Về việc ban hành Quy định vị trí chức năng, nhiệm vụ của các Phòng chuyên môn thuộc Uỷ ban nhân dân Quận, Huyện"
+ENTITY,E30_124,VB_AP_DUNG,Văn bản áp dụng,reference,91323,91498,Quyết định số 45/2002/QĐ-UB Về việc phê chuẩn Quy chế tổ chức và hoạt động Hội Khuyến khích và Hỗ trợ phát triển giáo dục tỉnh Gia Lai (gọi tắt là Hội Khuyến học tỉnh Gia Lai)
+ENTITY,E30_125,VB_AP_DUNG,Văn bản áp dụng,reference,91518,91654,Quyết định số 2501/QĐ-UB Về việc thực hiện chính sách ưu đãi đầu tư đối với hoạt động kinh doanh tại khu vực Bà Nà - Núi Chứa và Suối Mơ
+ENTITY,E30_126,VB_AP_DUNG,Văn bản áp dụng,reference,91674,91768,Quyết định số 34/1998/QĐ-UB Về việc chia tách tổ dân phố của phường Hoa Lư thuộc thị xã Pleiku
+ENTITY,E30_127,VB_AP_DUNG,Văn bản áp dụng,reference,91788,91913,Nghị quyết số 53/2001/NQ-HĐND Về công tác Dân số - KHHGĐ giai đoạn 1991 - 2000 và phương hướng nhiệm vụ giai đoạn 2001 - 2005
+ENTITY,E30_128,VB_AP_DUNG,Văn bản áp dụng,reference,91933,92044,Quyết định số 144/QĐ-UB Về việc ban hành Quy chế tổ chức và hoạt động của Hội đồng Giáo dục thành phố Hải Phòng
+ENTITY,E30_129,VB_AP_DUNG,Văn bản áp dụng,reference,92064,92119,Quyết định số 1301/1997/QĐ-UB Về việc đăt tên đường phố
+ENTITY,E30_130,VB_AP_DUNG,Văn bản áp dụng,reference,92139,92249,"Nghị quyết số Không số Về việc sửa đổi bổ sung đối tượng chế độ thu nộp, quản lý và sử dụng quỹ bảo trợ trẻ em"
+ENTITY,E30_131,VB_AP_DUNG,Văn bản áp dụng,reference,92269,92372,Nghị quyết số 2b/2004/NQ-HĐND về việc ban hành Quy chế hoạt động HĐND tỉnh Quảng Trị nhiệm kỳ 2004-2009
+ENTITY,E30_132,VB_AP_DUNG,Văn bản áp dụng,reference,92392,92477,Quyết định số 164/2003/QĐ-TTg Về việc thành lập Ban Dân tộc và Tôn giáo tỉnh Hoà Bình
+ENTITY,E30_133,VB_AP_DUNG,Văn bản áp dụng,reference,92497,92599,"Nghị quyết số không số Về việc chia ba xã: Quang Thành, Minh Thành và Đồng Thành thuộc huyện Yên Thành"
+ENTITY,E30_134,VB_AP_DUNG,Văn bản áp dụng,reference,92619,92722,Quyết định số 4501/1998/QĐ-UB V/v ban hành bản quy định giá các loại đất trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_135,VB_AP_DUNG,Văn bản áp dụng,reference,92742,92901,Nghị quyết số 35/2002/NQ-HĐND V/v đề nghị nâng cấp thị xã Thái Bình từ đô thị loại IV lên đô thị loại III và thành lập thành phố Thái Bình thuộc tỉnh Thái Bình
+ENTITY,E30_136,VB_AP_DUNG,Văn bản áp dụng,reference,92921,93136,"Quyết định số 170/1999/QĐ-UB Về việc ban hành Bản quy định về đền bù thiệt hại khi Nhà nước thu hồi đất để sử dụng vào mục đích quốc phòng, an ninh, lợi ích quốc gia, lợi ích công cộng trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_137,VB_AP_DUNG,Văn bản áp dụng,reference,93156,93232,Nghị quyết số 07/1999/NQ-HĐND Về dự toán thu chi ngân sách Nhà nước năm 2000
+ENTITY,E30_138,VB_AP_DUNG,Văn bản áp dụng,reference,93252,93482,Quyết định số 31/1999/QĐ-UB Về việc thành lập Ban Quản lý dự án định canh định cư và kinh tế mới huyện Ayun Pa tỉnh Gia Lai trên cơ sở Ban quản lý dự án vùng kinh tế mới Ayun Hạ và Ban Quản lý dự án định canh định cư huyện Ayun Pa
+ENTITY,E30_139,VB_AP_DUNG,Văn bản áp dụng,reference,93502,93634,"Quyết định số 3925/1998/QĐ-UB V/v Quản lý và sử dụng khoản tiền trích từ phí, lệ phí để lại cho các cơ quan, tổ chức thu phí, lệ phí"
+ENTITY,E30_140,VB_AP_DUNG,Văn bản áp dụng,reference,93654,93786,"Quyết định số 53/2000/QĐ-UB Về việc ban hành quy định bầu cử trưởng thôn, trưởng làng, tưởng buôn, tổ trưởng tổ dân phố tỉnh Gia Lai"
+ENTITY,E30_141,VB_AP_DUNG,Văn bản áp dụng,reference,93806,93866,Quyết định số 66/2003/QĐ-UB Thành lập Trạm Thú y huyện Ia Pa
+ENTITY,E30_142,VB_AP_DUNG,Văn bản áp dụng,reference,93886,94032,Quyết định số 80/2003/QĐ-UB Về việc áp dụng biện pháp ngăn chặn tình hình vi phạm pháp luật; bảo đảm trật tự an toàn giao thông tại các trường học
+ENTITY,E30_143,VB_AP_DUNG,Văn bản áp dụng,reference,94052,94154,"Nghị quyết số không số Về việc chia ba xã: Quang Thành, Minh Thành và Đồng Thành thuộc huyện Yên Thành"
+ENTITY,E30_144,VB_AP_DUNG,Văn bản áp dụng,reference,94174,94335,"Quyết định số 11/2001/QĐ-UB Ban hành Quy định việc quản lý Nhà nước đối với các cơ quan, tổ chức, đơn vị Trung ương và địa phương khác đóng tại thành phố Đà Nẵng"
+ENTITY,E30_145,VB_AP_DUNG,Văn bản áp dụng,reference,94355,94409,Quyết định số 16/2001/QĐ-UB Về việc thành lập thôn mới
+ENTITY,E30_146,VB_AP_DUNG,Văn bản áp dụng,reference,94429,94514,Quyết định số 04/1999/QĐ-UB Về việc thành lập làng Chơ Kâu thuộc xã Krong huyện Kbang
+ENTITY,E30_147,VB_AP_DUNG,Văn bản áp dụng,reference,94534,94643,"Quyết định số 59/2002/QĐ-UB Về việc chia tách, thành lập thôn, tổ dân phố thuộc thị trấn Chư Sê, huyện Chư Sê"
+ENTITY,E30_148,VB_AP_DUNG,Văn bản áp dụng,reference,94663,94794,Quyết định số 2770/2003/QĐ-UB V/v ban hành bản quy định trách nhiệm quản lý nhà nước ở địa phương trên lĩnh vực Giáo Dục và Đào Tạo
+ENTITY,E30_149,VB_AP_DUNG,Văn bản áp dụng,reference,94814,94964,"Quyết định số 3169/1998/QĐ-UB Ban hành Quy định tạm thời về mức thu, quản lý và sử dụng phí vệ sinh môi trường bãi biển trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_150,VB_AP_DUNG,Văn bản áp dụng,reference,94984,95150,"Nghị quyết số 06/2002/NQ-HĐND13 Về việc điều chính địa giới hành chính xã Đan Phượng và xã Song Phượng để mở rộng địa giới hành chính thị trấn Phùng, huyện Đan Phượng"
+ENTITY,E30_151,VB_AP_DUNG,Văn bản áp dụng,reference,95170,95237,"Quyết định số 58/2001/QĐ-UB Về việc chia tách, thành lập thôn, làng"
+ENTITY,E30_152,VB_AP_DUNG,Văn bản áp dụng,reference,95257,95396,"Quyết định số 70/2001/QĐ-UB V/v Ban hành Quy định về quản lý ngân sách và các hoạt dộng tài chính khác ở phường, xã thuộc thành phố Đà Nẵng"
+ENTITY,E30_153,VB_AP_DUNG,Văn bản áp dụng,reference,95416,95562,"Thông tư số 54/2025/TT-BYT hướng dẫn chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bệnh viện y học cổ truyền công lập thuộc tỉnh, thành phố"
+ENTITY,E30_154,VB_AP_DUNG,Văn bản áp dụng,reference,95582,95672,Nghị quyết số Không số Về việc tiếp tục thực hiện nhiệm vụ năm 1997 trong 6 tháng cuối năm
+ENTITY,E30_155,VB_AP_DUNG,Văn bản áp dụng,reference,95692,95797,"Quyết định số 1195/QĐ-UB Về việc sát nhập, chia tách tổ dân phố của phường Thống Nhất thuộc thị xã Pleiku"
+ENTITY,E30_156,VB_AP_DUNG,Văn bản áp dụng,reference,95817,95938,"Quyết định số 665/1998/QĐ-UB Về việc bổ sung chế độ phụ cấp đặc thù nghề đặc biệt đối với công chức, viên chức ngành y tế"
+ENTITY,E30_157,VB_AP_DUNG,Văn bản áp dụng,reference,95958,96041,Quyết định số 58/1999/QĐ-UB Về việc thành lập Ủy ban về an ninh lương thực của tỉnh
+ENTITY,E30_158,VB_AP_DUNG,Văn bản áp dụng,reference,96061,96128,Quyết định số 15/2001/QĐ-UB Về việc chia tách và thành lập thôn mới
+ENTITY,E30_159,VB_AP_DUNG,Văn bản áp dụng,reference,96148,96262,"Quyết định số 45/2000/QĐ-UB Về việc thành lập Hội đồng phối hợp công tác phổ biến, giáo dục pháp luật tỉnh Gia Lai"
+ENTITY,E30_160,VB_AP_DUNG,Văn bản áp dụng,reference,96282,96394,"Quyết định số 30/2002/QĐ-UB Qui định mức tiền thưởng đối với tổ chức, cá nhân có thành tích tham gia bảo vệ rừng"
+ENTITY,E30_161,VB_AP_DUNG,Văn bản áp dụng,reference,96414,96498,Quyết định số 54/1999/QĐ-UBBT Về việc Đặt tên một số đường phố của thị xã Phan Thiết
+ENTITY,E30_162,VB_AP_DUNG,Văn bản áp dụng,reference,96518,96629,"Quyết định số 88/2003/QĐ-UB Ban hành quy chế làm việc của UBND Thành phố Hà Nội (Nhiệm kỳ 1999 - 2004, sửa đổi)"
+ENTITY,E30_163,VB_AP_DUNG,Văn bản áp dụng,reference,96649,96692,Nghị quyết số không số Về nhiệm vụ năm 1999
+ENTITY,E30_164,VB_AP_DUNG,Văn bản áp dụng,reference,96712,96800,Quyết định số 1269/1998/QĐ-UB Về việc thành lập Trung tâm văn hoá thông tin tỉnh Gia Lai
+ENTITY,E30_165,VB_AP_DUNG,Văn bản áp dụng,reference,96820,96885,Quyết định số 21/2003/QĐ-UB Về việc thành lập Trạm Kiểm lâm Ia Pa
+ENTITY,E30_166,VB_AP_DUNG,Văn bản áp dụng,reference,96905,97055,"Quyết định số 122/2003/QĐ-UB Ban hành quy định về bồi thường thiệt hại, hỗ trợ và tái định cư khi nhà nước thu hồi đất trên địa bàn thành phố Đà Nẵng."
+ENTITY,E30_167,VB_AP_DUNG,Văn bản áp dụng,reference,97075,97142,Quyết định số 66/2004/QĐ-UB Về việc chia tách và thành lập thôn mới
+ENTITY,E30_168,VB_AP_DUNG,Văn bản áp dụng,reference,97162,97246,Quyết định số 121/2003/QĐ-UB Ban hành Quy định về công tác lưu trữ Nhà nước của tỉnh
+ENTITY,E30_169,VB_AP_DUNG,Văn bản áp dụng,reference,97266,97353,"Quyết định số 1726/1998/QĐ-UB Về việc chia tách Thôn, thuộc xã Nghĩa Hòa, huyện Chư Păh"
+ENTITY,E30_170,VB_AP_DUNG,Văn bản áp dụng,reference,97373,97565,"Quyết định số 38/1999/QĐ-UBND Về việc ban hành Quy định chức năng, nhiệm vụ của các ngành, các cấp trong việc thực hiện trách nhiệm quản lý Nhà nước về rừng và đất lâm nghiệp trên địa bàn tỉnh"
+ENTITY,E30_171,VB_AP_DUNG,Văn bản áp dụng,reference,97585,97667,Quyết định số 52/1999/QĐ-UB Về việc thành lập trường Trung học phổ thông Phú Thiện
+ENTITY,E30_172,VB_AP_DUNG,Văn bản áp dụng,reference,97687,97776,Quyết định số 86/2002/QĐ-UB Về việc sắp xếp Ban đổi mới quản lý doanh nghiệp tỉnh Gia Lai
+ENTITY,E30_173,VB_AP_DUNG,Văn bản áp dụng,reference,97796,97902,"Quyết định số 57/2002/QĐ-UB Về việc chia tách, thành lập thôn, làng thuộc xã HRa, xã Ayun, huyện Mang Yang"
+ENTITY,E30_174,VB_AP_DUNG,Văn bản áp dụng,reference,97922,98037,"Quyết định số 136/QĐ-UB Về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Trung tâm khuyến nông tỉnh Gia Lai."
+ENTITY,E30_175,VB_AP_DUNG,Văn bản áp dụng,reference,98057,98107,Quyết định số 53/2003/QĐ-UB Về việc thành lập thôn
+ENTITY,E30_176,VB_AP_DUNG,Văn bản áp dụng,reference,98127,98203,Quyết định số 58/2000/QĐ-UB Về việc kiện toàn Hội đồng Giám định y khoa tỉnh
+ENTITY,E30_177,VB_AP_DUNG,Văn bản áp dụng,reference,98223,98327,Quyết định số 4135/QĐ-UB Về giá tiêu thụ nước máy và mức phụ thu nước máy trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_178,VB_AP_DUNG,Văn bản áp dụng,reference,98347,98540,"Nghị định số 12/2001/NĐ-CP Về việc tổ chức lại một số cơ quan chuyên môn thuộc Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương và Uỷ ban nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh"
+ENTITY,E30_179,VB_AP_DUNG,Văn bản áp dụng,reference,98560,98761,Quyết định số 56/2000/QĐ-UB Về việc tách trường Trung học phổ thông (cấp 2 + 3) KBang thành trường Trung học phổ thông (cấp 3) KBang và trường Trung học cơ sở (cấp 2) Nguyễn Bỉnh Khiêm - thị trấn Kbang
+ENTITY,E30_180,VB_AP_DUNG,Văn bản áp dụng,reference,98781,98953,"Nghị quyết số 24/2001/NQ-HĐND7 Về việc ban hành bản quy định, định hướng một số nội dung cơ bản trong việc xây dựng và thực hiện hương ước, quy ước công đồng dân cư ở cơ sở"
+ENTITY,E30_181,VB_AP_DUNG,Văn bản áp dụng,reference,98973,99034,"Quyết định số 55/2003/QĐ-UB Về việc chia tách, thành lập thôn"
+ENTITY,E30_182,VB_AP_DUNG,Văn bản áp dụng,reference,99054,99264,Quyết định số 51/2001/QĐ-UB Về việc chia tách trường Trung học phổ thông Ia Grai (trường cấp 2+3) thành Trường Trung học phổ thông Ia Grai (trường cấp 3) và trường Trung học cơ sở thị trấn Ia Kha (trường cấp 2)
+ENTITY,E30_183,VB_AP_DUNG,Văn bản áp dụng,reference,99284,99393,"Nghị quyết số 53/1998/NQ-HĐ V/v sửa đổi, bổ sung mức thu một số loại phí và lệ phí trên địa bàn tỉnh Hưng Yên"
+ENTITY,E30_184,VB_AP_DUNG,Văn bản áp dụng,reference,99413,99521,"Quyết định số 58/2002/QĐ-UB Về việc chia tách thành lập tổ dân phố thuộc phường Thống Nhất, thành phố Pleiku"
+ENTITY,E35_1,CHUONG,Chương,structure,678,707,"Chương I
+NHỮNG QUY ĐỊNH CHUNG"
+ENTITY,E35_2,CHUONG,Chương,structure,3378,3486,"Chương II
+NHIỆM VỤ, QUYỀN HẠN CỦA HỘI ĐỒNG NHÂN DÂN VÀ UỶ BAN NHÂN DÂN
+TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG"
+ENTITY,E35_3,CHUONG,Chương,structure,33375,33488,"Chương III
+NHIỆM VỤ, QUYỀN HẠN CỦA HỘI ĐỒNG NHÂN DÂN VÀ UỶ BAN NHÂN DÂN
+HUYỆN, QUẬN, THỊ XÃ, THÀNH PHỐ THUỘC TỈNH"
+ENTITY,E35_4,CHUONG,Chương,structure,57159,57250,"Chương IV
+NHIỆM VỤ, QUYỀN HẠN CỦA HỘI ĐỒNG NHÂN DÂN VÀ UỶ BAN NHÂN DÂN XÃ,
+PHƯỜNG, THỊ TRẤN"
+ENTITY,E35_5,CHUONG,Chương,structure,75022,75050,"Chương V
+ĐIỀU KHOẢN THI HÀNH"
+ENTITY,E36_1,MUC,Mục,structure,3487,3573,"MỤC 1: NHIỆM VỤ, QUYỀN HẠN CỦA HỘI ĐỒNG NHÂN DÂN TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG"
+ENTITY,E36_2,MUC,Mục,structure,13386,13470,"MỤC 2: NHIỆM VỤ, QUYỀN HẠN CỦA UỶ BAN NHÂN DÂN TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG"
+ENTITY,E36_3,MUC,Mục,structure,33489,33579,"MỤC 1: NHIỆM VỤ, QUYỀN HẠN CỦA HỘI ĐỒNG NHÂN DÂN HUYỆN, QUẬN, THỊ XÃ, THÀNH PHỐ THUỘC TỈNH"
+ENTITY,E36_4,MUC,Mục,structure,42464,42552,"MỤC 2: NHIỆM VỤ, QUYỀN HẠN CỦA UỶ BAN NHÂN DÂN HUYỆN, QUẬN, THỊ XÃ, THÀNH PHỐ THUỘC TỈNH"
+ENTITY,E36_5,MUC,Mục,structure,57251,57320,"MỤC 1: NHIỆM VỤ, QUYỀN HẠN CỦA HỘI ĐỒNG NHÂN DÂN XÃ, PHƯỜNG, THỊ TRẤN"
+ENTITY,E36_6,MUC,Mục,structure,64545,64612,"MỤC 2: NHIỆM VỤ, QUYỀN HẠN CỦA UỶ BAN NHÂN DÂN XÃ, PHƯỜNG, THỊ TRẤN"
+ENTITY,E38_1,DIEU,Điều,structure,708,714,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1183,1189,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1684,1690,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,2862,2868,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,3574,3580,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,5531,5537,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,6926,6932,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,7606,7612,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,8247,8253,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,8849,8856,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,9535,9542,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,11086,11093,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,12732,12739,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,13471,13478,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,15658,15665,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,17410,17417,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,18424,18431,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,19193,19200,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,20066,20073,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,20876,20883,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,21721,21728,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,22730,22737,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,23586,23593,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,24894,24901,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,25871,25878,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,26707,26714,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,27853,27860,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,29268,29275,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,31609,31616,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,33201,33208,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,33580,33587,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,34818,34825,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,35950,35957,Điều 33
+ENTITY,E38_34,DIEU,Điều,structure,36517,36524,Điều 34
+ENTITY,E38_35,DIEU,Điều,structure,37161,37168,Điều 35
+ENTITY,E38_36,DIEU,Điều,structure,37543,37550,Điều 36
+ENTITY,E38_37,DIEU,Điều,structure,38232,38239,Điều 37
+ENTITY,E38_38,DIEU,Điều,structure,39308,39315,Điều 38
+ENTITY,E38_39,DIEU,Điều,structure,40958,40965,Điều 39
+ENTITY,E38_40,DIEU,Điều,structure,41449,41456,Điều 40
+ENTITY,E38_41,DIEU,Điều,structure,41723,41730,Điều 41
+ENTITY,E38_42,DIEU,Điều,structure,42553,42560,Điều 42
+ENTITY,E38_43,DIEU,Điều,structure,44139,44146,Điều 43
+ENTITY,E38_44,DIEU,Điều,structure,45373,45380,Điều 44
+ENTITY,E38_45,DIEU,Điều,structure,45932,45939,Điều 45
+ENTITY,E38_46,DIEU,Điều,structure,46726,46733,Điều 46
+ENTITY,E38_47,DIEU,Điều,structure,47173,47180,Điều 47
+ENTITY,E38_48,DIEU,Điều,structure,48926,48933,Điều 48
+ENTITY,E38_49,DIEU,Điều,structure,49450,49457,Điều 49
+ENTITY,E38_50,DIEU,Điều,structure,50203,50210,Điều 50
+ENTITY,E38_51,DIEU,Điều,structure,50868,50875,Điều 51
+ENTITY,E38_52,DIEU,Điều,structure,51902,51909,Điều 52
+ENTITY,E38_53,DIEU,Điều,structure,53040,53047,Điều 53
+ENTITY,E38_54,DIEU,Điều,structure,54143,54150,Điều 54
+ENTITY,E38_55,DIEU,Điều,structure,54808,54815,Điều 55
+ENTITY,E38_56,DIEU,Điều,structure,55669,55676,Điều 56
+ENTITY,E38_57,DIEU,Điều,structure,57321,57328,Điều 57
+ENTITY,E38_58,DIEU,Điều,structure,58726,58733,Điều 58
+ENTITY,E38_59,DIEU,Điều,structure,60197,60204,Điều 59
+ENTITY,E38_60,DIEU,Điều,structure,60855,60862,Điều 60
+ENTITY,E38_61,DIEU,Điều,structure,61376,61383,Điều 61
+ENTITY,E38_62,DIEU,Điều,structure,61935,61942,Điều 62
+ENTITY,E38_63,DIEU,Điều,structure,62535,62542,Điều 63
+ENTITY,E38_64,DIEU,Điều,structure,64028,64035,Điều 64
+ENTITY,E38_65,DIEU,Điều,structure,64613,64620,Điều 65
+ENTITY,E38_66,DIEU,Điều,structure,66183,66190,Điều 66
+ENTITY,E38_67,DIEU,Điều,structure,67627,67634,Điều 67
+ENTITY,E38_68,DIEU,Điều,structure,68055,68062,Điều 68
+ENTITY,E38_69,DIEU,Điều,structure,68496,68503,Điều 69
+ENTITY,E38_70,DIEU,Điều,structure,68862,68869,Điều 70
+ENTITY,E38_71,DIEU,Điều,structure,69899,69906,Điều 71
+ENTITY,E38_72,DIEU,Điều,structure,70671,70678,Điều 72
+ENTITY,E38_73,DIEU,Điều,structure,71277,71284,Điều 73
+ENTITY,E38_74,DIEU,Điều,structure,71928,71935,Điều 74
+ENTITY,E38_75,DIEU,Điều,structure,72214,72221,Điều 75
+ENTITY,E38_76,DIEU,Điều,structure,73405,73412,Điều 76
+ENTITY,E38_77,DIEU,Điều,structure,73878,73885,Điều 77
+ENTITY,E38_78,DIEU,Điều,structure,75051,75058,Điều 78
+ENTITY,E39_1,KHOAN,Khoản,structure,3640,3953,"1- Kế hoạch dài hạn và hàng năm về phát triển kinh tế - xã hội của địa phương theo quy hoạch đã được cấp có thẩm quyền phê duyệt; chủ trương, biện pháp nhằm phát huy mọi tiềm năng của các thành phần kinh tế ở địa phương, bảo đảm quyền tự chủ sản xuất, kinh doanh của các cơ sở kinh tế theo quy định của pháp luật;"
+ENTITY,E39_2,KHOAN,Khoản,structure,4636,5044,"2- Dự toán và phân bổ ngân sách địa phương; phê chuẩn quyết toán ngân sách địa phương; các chủ trương, biện pháp để triển khai thực hiện ngân sách địa phương; điều chỉnh dự toán ngân sách địa phương trong trường hợp cần thiết; thu phí, lệ phí, phụ thu và các khoản đóng góp của nhân dân theo quy định của pháp luật; phân cấp chi đầu tư xây dựng các công trình kết cấu hạ tầng kinh tế - xã hội của địa phương;"
+ENTITY,E39_3,KHOAN,Khoản,structure,5045,5110,"3- Chủ trương, biện pháp phân bổ lao động và dân cư ở địa phương;"
+ENTITY,E39_4,KHOAN,Khoản,structure,5111,5377,"4- Thông qua quy hoạch, kế hoạch sử dụng đất đai theo quy định của pháp luật; biện pháp quản lý, sử dụng đất đai, rừng núi, sông hồ, nguồn nước, tài nguyên trong lòng đất, nguồn lợi ở vùng biển, bảo vệ tài nguyên thiên nhiên ở địa phương theo quy định của pháp luật;"
+ENTITY,E39_5,KHOAN,Khoản,structure,5378,5530,"5- Biện pháp thực hiện chính sách tiết kiệm trong hoạt động quản lý nhà nước, trong sản xuất, kinh doanh và tiêu dùng, chống tham nhũng, chống buôn lậu."
+ENTITY,E39_6,KHOAN,Khoản,structure,5627,5818,"1- Chủ trương, biện pháp phát triển sự nghiệp văn hoá, văn nghệ, thể dục, thể thao, phát thanh, truyền hình, giáo dục thanh niên, bảo vệ, chăm sóc, giáo dục thiếu niên, nhi đồng ở địa phương;"
+ENTITY,E39_7,KHOAN,Khoản,structure,5819,5979,"2- Chủ trương, biện pháp phát triển sự nghiệp giáo dục, đào tạo; bảo đảm cơ sở vật chất và điều kiện cho các hoạt động sự nghiệp giáo dục, đào tạo ở địa phương;"
+ENTITY,E39_8,KHOAN,Khoản,structure,6327,6494,"3- Chủ trương, biện pháp sử dụng lao động, giải quyết việc làm và cải thiện điều kiện làm việc, sinh hoạt của người lao động; cải thiện đời sống nhân dân ở địa phương;"
+ENTITY,E39_9,KHOAN,Khoản,structure,6495,6704,"4- Chủ trương, biện pháp bảo vệ sức khoẻ nhân dân, bảo vệ, chăm sóc người già, bà mẹ, trẻ em; biện pháp thực hiện chính sách dân số và kế hoạch hoá gia đình; phát triển y tế địa phương; phòng, chống dịch bệnh;"
+ENTITY,E39_10,KHOAN,Khoản,structure,6705,6925,"5- Chủ trương, biện pháp thực hiện chính sách ưu đãi, chăm sóc và giúp đỡ thương binh, bệnh binh, gia đình liệt sĩ, những người và gia đình có công với nước; biện pháp thực hiện chính sách bảo hiểm xã hội, cứu tế xã hội."
+ENTITY,E39_11,KHOAN,Khoản,structure,7018,7201,"1- Chủ trương, biện pháp nhằm khuyến khích việc nghiên cứu, phát huy sáng kiến cải tiến kỹ thuật, ứng dụng các tiến bộ khoa học và công nghệ phục vụ sản xuất và đời sống ở địa phương;"
+ENTITY,E39_12,KHOAN,Khoản,structure,7202,7411,"2- Chủ trương, biện pháp bảo vệ và cải thiện môi trường; phòng, chống, khắc phục hậu quả thiên tai, bão lụt, suy thoái môi trường, ô nhiễm môi trường, sự cố môi trường ở địa phương theo quy định của pháp luật;"
+ENTITY,E39_13,KHOAN,Khoản,structure,7412,7605,"3- Biện pháp thực hiện các quy định của pháp luật về tiêu chuẩn đo lường và chất lượng sản phẩm, ngăn chặn việc sản xuất và lưu hành hàng giả tại địa phương, bảo vệ lợi ích của người tiêu dùng."
+ENTITY,E39_14,KHOAN,Khoản,structure,7709,8081,"1- Biện pháp thực hiện nhiệm vụ xây dựng lực lượng vũ trang và quốc phòng toàn dân, kết hợp quốc phòng với kinh tế, kinh tế với quốc phòng, bảo đảm thực hiện chế độ nghĩa vụ quân sự, thực hiện nhiệm vụ hậu cần tại chỗ, thực hiện nhiệm vụ xây dựng lực lượng dự bị động viên, chính sách hậu phương quân đội và chính sách đối với các lực lượng vũ trang nhân dân ở địa phương;"
+ENTITY,E39_15,KHOAN,Khoản,structure,8082,8246,"2- Biện pháp thực hiện nhiệm vụ giữ gìn an ninh, trật tự, an toàn xã hội, đấu tranh phòng ngừa và chống tội phạm và các hành vi vi phạm pháp luật khác ở địa phương."
+ENTITY,E39_16,KHOAN,Khoản,structure,8353,8618,"1- Biện pháp bảo đảm thực hiện chính sách dân tộc, cải thiện đời sống vật chất và tinh thần, nâng cao dân trí của đồng bào các dân tộc, bảo đảm thực hiện quyền bình đẳng giữa các dân tộc, giữ gìn, tăng cường khối đoàn kết và tương trợ giữa các dân tộc ở địa phương;"
+ENTITY,E39_17,KHOAN,Khoản,structure,8619,8848,"2- Biện pháp bảo đảm thực hiện chính sách tôn giáo, quyền bình đẳng giữa các tôn giáo trước pháp luật, quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo một tôn giáo nào của công dân ở địa phương theo quy định của pháp luật."
+ENTITY,E39_18,KHOAN,Khoản,structure,8927,9166,"1- Biện pháp bảo đảm việc thi hành Hiến pháp, luật và các văn bản của cơ quan nhà nước cấp trên trong cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức kinh tế, đơn vị vũ trang nhân dân và đối với công dân ở địa phương;"
+ENTITY,E39_19,KHOAN,Khoản,structure,9167,9282,"2- Biện pháp bảo hộ tính mạng, tài sản, tự do, danh dự, nhân phẩm, các quyền và lợi ích hợp pháp khác của công dân;"
+ENTITY,E39_20,KHOAN,Khoản,structure,9283,9424,"3- Biện pháp bảo vệ tài sản, lợi ích của Nhà nước, bảo hộ tài sản của tổ chức chính trị xã hội, tổ chức xã hội, tổ chức kinh tế ở địa phương;"
+ENTITY,E39_21,KHOAN,Khoản,structure,9425,9534,"4- Biện pháp bảo đảm việc giải quyết khiếu nại, tố cáo và kiến nghị của công dân theo quy định của pháp luật."
+ENTITY,E39_22,KHOAN,Khoản,structure,9646,9956,"1- Bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch Hội đồng nhân dân, Chủ tịch, Phó Chủ tịch và các thành viên khác của Uỷ ban nhân dân, Trưởng ban và các thành viên khác của các ban của Hội đồng nhân dân; bầu, miễn nhiệm, bãi nhiệm Hội thẩm nhân dân của Toà án nhân dân cùng cấp theo quy định của pháp luật;"
+ENTITY,E39_23,KHOAN,Khoản,structure,9957,10101,2- Bãi nhiệm đại biểu Hội đồng nhân dân và chấp nhận việc đại biểu Hội đồng nhân dân xin thôi làm nhiệm vụ đại biểu theo quy định của pháp luật;
+ENTITY,E39_24,KHOAN,Khoản,structure,10102,10263,3- Bãi bỏ những quyết định sai trái của Uỷ ban nhân dân cùng cấp; bãi bỏ hoặc yêu cầu sửa đổi những nghị quyết sai trái của Hội đồng nhân dân cấp dưới trực tiếp;
+ENTITY,E39_25,KHOAN,Khoản,structure,10264,10661,4- Quyết định giải tán Hội đồng nhân dân cấp dưới trực tiếp trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của nhân dân trình Uỷ ban thường vụ Quốc hội phê chuẩn trước khi thi hành; phê chuẩn nghị quyết của Hội đồng nhân dân cấp huyện về việc giải tán Hội đồng nhân dân cấp xã trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của nhân dân;
+ENTITY,E39_26,KHOAN,Khoản,structure,10662,10926,"5- Thông qua đề án phân vạch, điều chỉnh địa giới các đơn vị hành chính cấp huyện, cấp xã để trình Chính phủ xem xét, quyết định; thông qua đề án phân vạch, điều chỉnh địa giới các đơn vị hành chính cấp tỉnh để đề nghị Chính phủ trình Quốc hội xem xét, quyết định;"
+ENTITY,E39_27,KHOAN,Khoản,structure,10927,11085,"6- Quyết định việc đặt tên, đổi tên đường, phố, quảng trường, công trình công cộng và các đơn vị hành chính, sự nghiệp trong tỉnh theo quy định của Chính phủ."
+ENTITY,E39_28,KHOAN,Khoản,structure,11144,11586,"1- Giám sát hoạt động của Thường trực Hội đồng nhân dân, Uỷ ban nhân dân, Toà án nhân dân, Viện kiểm sát nhân dân cùng cấp; giám sát việc thực hiện các nghị quyết của Hội đồng nhân dân về các lĩnh vực được quy định tại các điều 5, 6, 7, 8, 9, 10 và 11 của Pháp lệnh này; Giám sát việc tuân theo pháp luật của cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức kinh tế, đơn vị vũ trang nhân dân và của công dân ở địa phương;"
+ENTITY,E39_29,KHOAN,Khoản,structure,11587,11850,"2- Xem xét báo cáo của Thường trực Hội đồng nhân dân, Uỷ ban nhân dân, Toà án nhân dân, Viện kiểm sát nhân dân cùng cấp; xem xét việc trả lời chất vấn của người bị chất vấn theo quy định tại Điều 24 của Luật tổ chức Hội đồng nhân dân và Uỷ ban nhân dân (sửa đổi);"
+ENTITY,E39_30,KHOAN,Khoản,structure,11851,12128,"3- Trong trường hợp cần thiết, giao cho Thường trực Hội đồng nhân dân, các ban của Hội đồng nhân dân, đại biểu Hội đồng nhân dân giúp Hội đồng nhân dân giám sát việc thi hành pháp luật, nghị quyết của Hội đồng nhân dân cùng cấp và báo cáo Hội đồng nhân dân tại kỳ họp gần nhất;"
+ENTITY,E39_31,KHOAN,Khoản,structure,12914,13082,"1- Biện pháp phát huy vai trò trung tâm kinh tế - xã hội của đô thị lớn trong mối liên hệ với các địa phương trong vùng, khu vực và cả nước theo phân cấp của Chính phủ;"
+ENTITY,E39_32,KHOAN,Khoản,structure,13083,13219,"2- Thông qua kế hoạch xây dựng kết cấu hạ tầng đô thị, quy hoạch tổng thể về xây dựng và phát triển đô thị để trình Chính phủ phê duyệt;"
+ENTITY,E39_33,KHOAN,Khoản,structure,13220,13310,"3- Biện pháp bảo đảm trật tự công cộng, giao thông, bảo vệ môi trường và cảnh quan đô thị;"
+ENTITY,E39_34,KHOAN,Khoản,structure,13311,13385,4- Biện pháp quản lý dân cư ở thành phố và tổ chức đời sống dân cư đô thị.
+ENTITY,E39_35,KHOAN,Khoản,structure,13573,13758,"1- Xây dựng kế hoạch dài hạn và hàng năm về phát triển kinh tế - xã hội của tỉnh đưa ra Hội đồng nhân dân thông qua để trình Chính phủ phê duyệt; tổ chức, chỉ đạo thực hiện kế hoạch đó;"
+ENTITY,E39_36,KHOAN,Khoản,structure,13989,14027,"2- Về ngân sách, Uỷ ban nhân dân tỉnh:"
+ENTITY,E39_37,KHOAN,Khoản,structure,15345,15530,"3- Chỉ đạo, kiểm tra cơ quan thuế và cơ quan được nhà nước giao nhiệm vụ thu ngân sách tại địa phương; bảo đảm thu đúng, nộp đầy đủ, đúng thời hạn ngân sách theo quy định của pháp luật;"
+ENTITY,E39_38,KHOAN,Khoản,structure,15531,15657,4- Lập quỹ dự trữ tài chính theo quy định của pháp luật trình Hội đồng nhân dân cùng cấp và báo cáo cơ quan nhà nước cấp trên.
+ENTITY,E39_39,KHOAN,Khoản,structure,15786,16154,"1- Xây dựng, tổ chức và thực hiện quy hoạch, kế hoạch phát triển nông nghiệp, lâm nghiệp, ngư nghiệp, thuỷ lợi trên cơ sở quy hoạch thống nhất của trung ương; xây dựng và tổ chức thực hiện các chương trình khuyến nông, khuyến lâm, khuyến ngư; tổ chức, hướng dẫn việc bố trí mùa vụ, cơ cấu cây trồng, vật nuôi, kỹ thuật thâm canh, luân canh, xen canh trên địa bàn tỉnh;"
+ENTITY,E39_40,KHOAN,Khoản,structure,16155,16264,"2- Tổ chức việc dự tính, dự báo và thực hiện các biện pháp phòng, trừ các sâu bệnh hại cây trồng và vật nuôi;"
+ENTITY,E39_41,KHOAN,Khoản,structure,16265,16460,"3- Chỉ đạo việc thực hiện và kiểm tra việc sản xuất, sử dụng giống cây trồng, vật nuôi, thức ăn gia súc, thuốc bảo vệ thực vật, phân bón, thuốc thú y và các chế phẩm sinh học phục vụ nông nghiệp;"
+ENTITY,E39_42,KHOAN,Khoản,structure,16461,16828,"4- Lập quy hoạch, kế hoạch sử dụng đất đai của tỉnh đưa ra Hội đồng nhân dân cùng cấp thông qua để trình Chính phủ xét duyệt; xét duyệt quy hoạch, kế hoạch sử dụng đất đai của Uỷ ban nhân dân cấp dưới trực tiếp; quyết định việc giao đất, thu hồi đất, cho thuê đất, giải quyết các tranh chấp đất đai, thanh tra đất đai và các nhiệm vụ khác theo quy định của pháp luật;"
+ENTITY,E39_43,KHOAN,Khoản,structure,16829,17074,"5- Chỉ đạo, hướng dẫn và kiểm tra việc trồng rừng, bảo vệ rừng đầu nguồn, rừng đặc chủng, rừng phòng hộ theo quy hoạch, tổ chức khai thác rừng theo quy định của Chính phủ; tổ chức nuôi trồng, đánh bắt, chế biến và bảo vệ nguồn lợi thuỷ, hải sản;"
+ENTITY,E39_44,KHOAN,Khoản,structure,17075,17409,"6- Xây dựng và tổ chức Thực hiện quy hoạch thuỷ lợi; quản lý việc khai thác và bảo vệ nguồn tài nguyên nước, khai thác và bảo vệ các công trình thuỷ lợi vừa và nhỏ; quản lý, bảo vệ hệ thống đê điều, các công trình phòng, chống lũ lụt; trực tiếp tổ chức, huy động và chỉ huy chống bão lụt trên địa bàn tỉnh theo quy định của pháp luật."
+ENTITY,E39_45,KHOAN,Khoản,structure,17515,17601,"1- Xây dựng quy hoạch, kế hoạch phát triển công nghiệp, tiểu thủ công nghiệp của tỉnh;"
+ENTITY,E39_46,KHOAN,Khoản,structure,17602,17872,"2- Tham gia xây dựng các đề án sản xuất công nghiệp của trung ương và các vùng kinh tế liên quan đến tỉnh; thực hiện nhiệm vụ theo sự phân công của Chính phủ đối với các chương trình, dự án phát triển công nghiệp, xây dựng và phát trển các khu công nghiệp, khu chế xuất;"
+ENTITY,E39_47,KHOAN,Khoản,structure,17873,17957,"3- Phát triển cơ sở chế biến nông, lâm, thuỷ, hải sản và các cơ sở công nghiệp khác;"
+ENTITY,E39_48,KHOAN,Khoản,structure,17958,18092,"4- Chỉ đạo việc xây dựng và phát triển các cụm công nghiệp, thương mại, dịch vụ, du lịch ở các thị xã, thành phố thuộc tỉnh, thị trấn;"
+ENTITY,E39_49,KHOAN,Khoản,structure,18093,18165,"5- Phát triển các ngành, nghề, làng nghề truyền thống trên địa bàn tỉnh;"
+ENTITY,E39_50,KHOAN,Khoản,structure,18166,18282,"6- Quản lý nhà nước đối với các đơn vị sản xuất công nghiệp, tiểu thủ công nghiệp trên địa bàn tỉnh theo thẩm quyền;"
+ENTITY,E39_51,KHOAN,Khoản,structure,18283,18423,7- Tổ chức thực hiện việc bảo vệ tài nguyên khoáng sản chưa khai thác ở địa phương; tổ chức và kiểm tra việc khai thác tận thu ở địa phương.
+ENTITY,E39_52,KHOAN,Khoản,structure,18514,18704,"1- Chỉ đạo, kiểm tra việc xây dựng và thực hiện quy hoạch, kế hoạch giao thông vận tải của tỉnh phù hợp với tổng sơ đồ phát triển và quy hoạch chương trình giao thông vận tải của trung ương;"
+ENTITY,E39_53,KHOAN,Khoản,structure,18705,18818,"2- Tổ chức quản lý công trình giao thông đô thị, đường bộ và đường sông ở địa phương theo quy định của pháp luật;"
+ENTITY,E39_54,KHOAN,Khoản,structure,18819,18998,"3- Tổ chức thực hiện việc kiểm tra, giám định kỹ thuật an toàn các loại phương tiện cơ giới đường bộ, đường sông, cấp giấy phép lưu hành, cấp bằng lái theo quy định của pháp luật;"
+ENTITY,E39_55,KHOAN,Khoản,structure,18999,19192,"4- Tổ chức, chỉ đạo công tác thanh tra, bảo vệ công trình giao thông, an toàn giao thông trên địa bàn tỉnh; chỉ đạo chính quyền cấp huyện, cấp xã bảo vệ các công trình giao thông được phân cấp."
+ENTITY,E39_56,KHOAN,Khoản,structure,19302,19508,"1- Tổ chức việc lập, trình duyệt hoặc xét duyệt theo thẩm quyền các quy hoạch xây dựng đô thị, cụm dân cư nông thôn trên địa bàn tỉnh; quản lý kiến trúc, xây dựng, đất xây dựng theo quy hoạch đã được duyệt;"
+ENTITY,E39_57,KHOAN,Khoản,structure,19509,19607,"2- Quản lý đầu tư, khai thác sử dụng các công trình kỹ thuật hạ tầng đô thị, cụm dân cư nông thôn;"
+ENTITY,E39_58,KHOAN,Khoản,structure,19608,19788,"3- Phê duyệt kế hoạch, dự án đầu tư các công trình xây dựng thuộc thẩm quyền; quản lý công tác xây dựng trên địa bàn tỉnh; cấp chứng chỉ hành nghề xây dựng; cấp giấy phép xây dựng;"
+ENTITY,E39_59,KHOAN,Khoản,structure,19789,19903,"4- Quản lý việc thực hiện các chính sách về nhà ở, đất ở; quản lý quỹ nhà thuộc sở hữu nhà nước do Chính phủ giao;"
+ENTITY,E39_60,KHOAN,Khoản,structure,19904,20065,"5- Xây dựng quy hoạch, kế hoạch phát triển vật liệu xây dựng; quản lý việc khai thác và sản xuất, kinh doanh vật liệu xây dựng trên địa bàn tỉnh theo thẩm quyền."
+ENTITY,E39_61,KHOAN,Khoản,structure,20168,20345,"1- Lập quy hoạch phát triển mạng lưới kinh doanh thương mại và kế hoạch phát triển du lịch; tham gia hợp tác quốc tế về thương mại, dịch vụ, du lịch khi được phép của Chính phủ;"
+ENTITY,E39_62,KHOAN,Khoản,structure,20346,20451,"2- Tổ chức quản lý xuất khẩu, nhập khẩu theo quy định của pháp luật; chỉ đạo công tác quản lý thị trường;"
+ENTITY,E39_63,KHOAN,Khoản,structure,20452,20544,3- Quy định các quy tắc về an toàn và vệ sinh trong hoạt động thương mại trong phạm vi tỉnh;
+ENTITY,E39_64,KHOAN,Khoản,structure,20545,20624,"4- Hướng dẫn, sắp xếp mạng lưới thương mại, dịch vụ, du lịch trên địa bàn tỉnh;"
+ENTITY,E39_65,KHOAN,Khoản,structure,20625,20762,"5- Cấp, thu hồi giấy phép kinh doanh du lịch, khu du lịch, điểm du lịch, khách sạn, lữ hành nội địa của tỉnh theo quy định của Chính phủ;"
+ENTITY,E39_66,KHOAN,Khoản,structure,20763,20875,"6- Tổ chức thanh tra, kiểm tra việc chấp hành quy định của Nhà nước về hoạt động thương mại, dịch vụ và du lịch."
+ENTITY,E39_67,KHOAN,Khoản,structure,20967,21109,"1- Chỉ đạo, tổ chức thực hiện kế hoạch phát triển giáo dục, đào tạo; bảo đảm điều kiện vật chất cho các hoạt động sự nghiệp giáo dục, đào tạo;"
+ENTITY,E39_68,KHOAN,Khoản,structure,21110,21494,"2- Trực tiếp quản lý các trường cao đẳng sư phạm, trường trung học chuyên nghiệp, trường phổ thông trung học, trường bổ túc văn hoá; đào tạo, bồi dưỡng đội ngũ giáo viên trong tỉnh từ trình độ cao đẳng sư phạm trở xuống; Quản lý nhà nước đối với các loại hình trường, lớp được giao trên địa bàn tỉnh; cho phép thành lập các trường bán công, trường dân lập theo quy định của Chính phủ;"
+ENTITY,E39_69,KHOAN,Khoản,structure,21495,21610,"3- Quản lý việc thực hiện về tiêu chuẩn giáo viên, quy chế thi cử và việc cấp văn bằng theo quy định của pháp luật;"
+ENTITY,E39_70,KHOAN,Khoản,structure,21611,21720,"4- Thực hiện thanh tra, kiểm tra giáo dục, đào tạo trên địa bàn tỉnh theo quy định của Bộ giáo dục - đào tạo."
+ENTITY,E39_71,KHOAN,Khoản,structure,21830,21948,"1- Xây dựng và tổ chức thực hiện các chương trình phát triển sự nghiệp văn hoá, thông tin, thể dục, thể thao của tỉnh;"
+ENTITY,E39_72,KHOAN,Khoản,structure,21949,22228,"2- Chỉ đạo công tác bảo vệ, trùng tu, bảo tồn các di tích lịch sử, văn hoá và danh lam thắng cảnh, công trình văn hoá, nghệ thuật theo thẩm quyền; hướng dẫn xây dựng nếp sống văn minh, gia đình văn hoá; tổ chức các hội diễn thể dục, thể thao và liên hoan nghệ thuật ở địa phương;"
+ENTITY,E39_73,KHOAN,Khoản,structure,22229,22359,"3- Quản lý nhà nước các hoạt động văn hoá, thông tin, quảng cáo, báo chí, xuất bản, thể dục, thể thao theo quy định của pháp luật;"
+ENTITY,E39_74,KHOAN,Khoản,structure,22360,22467,"4- Tổ chức và quản lý các đơn vị sự nghiệp về văn hoá, thể dục, thể thao, phát thanh, truyền hình của tỉnh;"
+ENTITY,E39_75,KHOAN,Khoản,structure,22468,22608,"5- Tổ chức hoặc được uỷ quyền tổ chức các cuộc triển lãm, hội chợ, sinh hoạt văn hoá, thể dục, thể thao quốc gia, quốc tế trên địa bàn tỉnh;"
+ENTITY,E39_76,KHOAN,Khoản,structure,22609,22729,"6- Kiểm tra, ngăn chặn việc kinh doanh, lưu hành sách báo, văn hoá phẩm phản động, đồi truỵ theo quy định của pháp luật."
+ENTITY,E39_77,KHOAN,Khoản,structure,22820,23074,"1- Chỉ đạo thực hiện kế hoạch, biện pháp bảo vệ sức khoẻ nhân dân, bảo vệ, chăm sóc người già, bà mẹ, trẻ em, thực hiện chính sách dân số và kế hoạch hoá gia đình; quản lý hoạt động của các đơn vị y tế thuộc tỉnh; cấp giấy phép hành nghề y, dược tư nhân;"
+ENTITY,E39_78,KHOAN,Khoản,structure,23075,23186,"2- Thực hiện kế hoạch, biện pháp về sử dụng lao động, giải quyết việc làm, điều động dân cư trong phạm vi tỉnh;"
+ENTITY,E39_79,KHOAN,Khoản,structure,23187,23392,"3- Thực hiện chính sách ưu đãi, chăm sóc và giúp đỡ thương binh, bệnh binh, gia đình liệt sĩ, những người và gia đình có công với nước; thực hiện chính sách bảo hộ lao động, bảo hiểm xã hội, cứu tế xã hội;"
+ENTITY,E39_80,KHOAN,Khoản,structure,23393,23585,"4- Tổ chức, chỉ đạo thực hiện việc xoá đói, giảm nghèo, cải thiện đời sống nhân dân; hướng dẫn công tác từ thiện, nhân đạo; phòng, chống các tệ nạn xã hội; phòng, chống dịch bệnh ở địa phương."
+ENTITY,E39_81,KHOAN,Khoản,structure,23691,23893,"1- Tổ chức, chỉ đạo thực hiện các biện pháp nhằm khuyến khích việc nghiên cứu, phát huy sáng kiến cải tiến kỹ thuật, ứng dụng các tiến bộ khoa học và công nghệ phục vụ sản xuất và đời sống ở địa phương;"
+ENTITY,E39_82,KHOAN,Khoản,structure,23894,24002,"2- Thực hiện các nhiệm vụ, kế hoạch cụ thể phát triển khoa học, công nghệ và bảo vệ môi trường ở địa phương;"
+ENTITY,E39_83,KHOAN,Khoản,structure,24003,24092,"3- Quản lý các chương trình, đề tài nghiên cứu khoa học cấp tỉnh hoặc được cấp trên giao;"
+ENTITY,E39_84,KHOAN,Khoản,structure,24093,24227,"4- Quản lý hoạt động chuyển giao công nghệ, tham gia giám định nhà nước về công nghệ đối với các dự án đầu tư quan trọng ở địa phương;"
+ENTITY,E39_85,KHOAN,Khoản,structure,24228,24478,"5- Chỉ đạo, tổ chức việc bảo vệ, cải thiện môi trường; phòng, chống, khắc phục hậu quả thiên tai, bão lụt, suy thoái môi trường, ô nhiễm môi trường và xác định trách nhiệm phải xử lý về môi trường đối với tổ chức, cá nhân theo quy định của pháp luật;"
+ENTITY,E39_86,KHOAN,Khoản,structure,24479,24752,"6- Kiểm tra việc thực hiện các quy định của pháp luật về tiêu chuẩn đo lường và chất lượng sản phẩm; công bố tiêu chuẩn chất lượng hàng hoá của các cơ sở sản xuất ở địa phương; ngăn chặn việc sản xuất và lưu hành hàng giả tại địa phương, bảo vệ lợi ích của người tiêu dùng;"
+ENTITY,E39_87,KHOAN,Khoản,structure,24753,24893,"7- Chỉ đạo thanh tra việc chấp hành chính sách, pháp luật về khoa học, công nghệ và bảo vệ môi trường đối với tổ chức, cá nhân ở địa phương."
+ENTITY,E39_88,KHOAN,Khoản,structure,24976,25151,1- Tổ chức thực hiện các biện pháp xây dựng lực lượng vũ trang và quốc phòng toàn dân; chỉ đạo công tác giáo dục quốc phòng toàn dân trong nhân dân và trường học ở địa phương;
+ENTITY,E39_89,KHOAN,Khoản,structure,25152,25573,"2- Tổ chức, chỉ đạo thực hiện kế hoạch xây dựng tỉnh thành khu vực phòng thủ vững chắc; chỉ đạo việc xây dựng và hoạt động tác chiến của bộ đội địa phương và dân quân tự vệ; chỉ đạo việc tổ chức thực hiện Luật nghĩa vụ quân sự, công tác tuyển quân; xây dựng lực lượng dự bị động viên và huy động khi có yêu cầu để bảo vệ Tổ quốc, đáp ứng yêu cầu của địa phương và cả nước trong mọi tình huống theo quy định của Chính phủ;"
+ENTITY,E39_90,KHOAN,Khoản,structure,25574,25707,"3- Thực hiện nhiệm vụ hậu cần tại chỗ, chính sách hậu phương quân đội và chính sách đối với lực lượng vũ trang nhân dân ở địa phương;"
+ENTITY,E39_91,KHOAN,Khoản,structure,25708,25870,"4- Chỉ đạo, tổ chức thực hiện việc kết hợp quốc phòng với kinh tế, kinh tế với quốc phòng; quản lý, bảo vệ công trình quốc phòng và khu quân sự trên địa bàn tỉnh."
+ENTITY,E39_92,KHOAN,Khoản,structure,25975,26253,"1- Bảo đảm an ninh chính trị, trật tự, an toàn xã hội, xây dựng lực lượng công an nhân dân; chỉ đạo công tác đấu tranh phòng ngừa và chống tội phạm, chống tham nhũng, chống buôn lậu; bảo vệ bí mật nhà nước, xây dựng phong trào quần chúng bảo vệ an ninh, trật tự, an toàn xã hội;"
+ENTITY,E39_93,KHOAN,Khoản,structure,26254,26430,"2- Chỉ đạo, kiểm tra, quản lý việc vận chuyển, sử dụng vũ khí, chất nổ, chất dễ cháy, chất độc, chất phóng xạ; quản lý các nghề kinh doanh đặc biệt theo quy định của pháp luật;"
+ENTITY,E39_94,KHOAN,Khoản,structure,26431,26562,"3- Chỉ đạo, kiểm tra việc thực hiện các quy định về quản lý hộ khẩu; quản lý việc cư trú, đi lại của người nước ngoài ở địa phương;"
+ENTITY,E39_95,KHOAN,Khoản,structure,26563,26706,"4- Tổ chức, kiểm tra việc thực hiện các thể lệ, quy tắc, biện pháp phòng cháy, chữa cháy và trật tự an toàn giao thông, trật tự an toàn xã hội."
+ENTITY,E39_96,KHOAN,Khoản,structure,26830,27106,"1- Tổ chức, chỉ đạo, kiểm tra việc thực hiện pháp luật và chính sách dân tộc; tổ chức, chỉ đạo thực hiện biện pháp bảo đảm các điều kiện cải thiện đời sống vật chất và tinh thần, nâng cao dân trí của đồng bào các dân tộc thiểu số, vùng sâu, vùng xa và vùng còn nhiều khó khăn;"
+ENTITY,E39_97,KHOAN,Khoản,structure,27107,27252,"2- Bảo đảm thực hiện quyền bình đẳng giữa các dân tộc, giữ gìn, tăng cường đoàn kết và tương trợ, giúp đỡ lẫn nhau giữa các dân tộc ở địa phương;"
+ENTITY,E39_98,KHOAN,Khoản,structure,27253,27408,"3- Xây dựng và tổ chức thực hiện các chương trình, dự án của tỉnh đối với các vùng đồng bào dân tộc thiểu số, vùng sâu, vùng xa và vùng còn nhiều khó khăn;"
+ENTITY,E39_99,KHOAN,Khoản,structure,27409,27852,"4- Tổ chức, chỉ đạo thực hiện chính sách tôn giáo, quyền bình đẳng giữa các tôn giáo trước pháp luật; quyền tự do tín ngưỡng, tôn giáo của nhân dân ở địa phương; xem xét và giải quyết việc đề nghị sửa chữa các công trình thờ tự, tín ngưỡng, tôn giáo của nhân dân ở địa phương theo quy định của pháp luật; chống mọi hành vi xâm phạm tự do tín ngưỡng, tôn giáo hoặc lợi dụng tín ngưỡng, tôn giáo để làm trái pháp luật và chính sách của Nhà nước."
+ENTITY,E39_100,KHOAN,Khoản,structure,27943,28243,"1- Căn cứ vào các văn bản của cơ quan nhà nước cấp trên và nghị quyết của Hội đồng nhân dân cùng cấp, ban hành các quyết định, chỉ thị và tổ chức thực hiện, kiểm tra việc thi hành các văn bản đó, bảo đảm cho các văn bản này không trái với Hiến pháp, luật và các văn bản của cơ quan nhà nước cấp trên;"
+ENTITY,E39_101,KHOAN,Khoản,structure,28244,28563,"2- Tuyên truyền, giáo dục pháp luật; tổ chức, chỉ đạo và kiểm tra việc thi hành Hiến pháp, luật, các văn bản của cơ quan nhà nước cấp trên và nghị quyết của Hội đồng nhân dân cùng cấp trong cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức kinh tế, đơn vị vũ trang nhân dân và công dân ở địa phương;"
+ENTITY,E39_102,KHOAN,Khoản,structure,28564,28800,"3- Tổ chức, chỉ đạo thực hiện các biện pháp bảo vệ tài sản của Nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức kinh tế, bảo vệ tính mạng, tự do, danh dự, nhân phẩm, tài sản, các quyền và lợi ích hợp pháp khác của công dân;"
+ENTITY,E39_103,KHOAN,Khoản,structure,28801,28951,"4- Tổ chức, chỉ đạo công tác thanh tra nhà nước, tổ chức tiếp dân, giải quyết khiếu nại, tố cáo và kiến nghị của công dân theo quy định của pháp luật;"
+ENTITY,E39_104,KHOAN,Khoản,structure,28952,29034,"5- Tổ chức, chỉ đạo công tác thi hành án ở địa phương theo quy định của pháp luật;"
+ENTITY,E39_105,KHOAN,Khoản,structure,29035,29199,"6- Tổ chức, chỉ đạo việc quản lý hộ tịch; thực hiện công tác công chứng, giám định tư pháp, quản lý tổ chức luật sư và tư vấn pháp luật theo quy định của pháp luật;"
+ENTITY,E39_106,KHOAN,Khoản,structure,29200,29267,7- Quyết định xử lý vi phạm hành chính theo quy định của pháp luật.
+ENTITY,E39_107,KHOAN,Khoản,structure,29456,29572,"1- Tổ chức, chỉ đạo thực hiện việc bầu cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân theo quy định của pháp luật;"
+ENTITY,E39_108,KHOAN,Khoản,structure,29573,29775,"2- Xây dựng kế hoạch và phân bổ biên chế hành chính sự nghiệp hàng năm của các cơ quan hành chính sự nghiệp của tỉnh; quản lý công tác tổ chức, biên chế, lao động tiền lương theo phân cấp của Chính phủ;"
+ENTITY,E39_109,KHOAN,Khoản,structure,30089,30327,"3- Thành lập, sáp nhập, giải thể, quyết định nhiệm vụ, quyền hạn cụ thể của các cơ quan chuyên môn, tổ chức sự nghiệp thuộc Uỷ ban nhân dân theo quy định của Chính phủ; chỉ đạo và quản lý về tổ chức, biên chế của các cơ quan, tổ chức này;"
+ENTITY,E39_110,KHOAN,Khoản,structure,30328,30422,"4- Thực hiện việc quản lý nhà nước đối với cơ quan, đơn vị của trung ương ở trên địa bàn tỉnh;"
+ENTITY,E39_111,KHOAN,Khoản,structure,30423,30754,"5- Cho phép thành lập, giải thể, cổ phần hoá các doanh nghiệp nhà nước theo phân cấp của Chính phủ; cấp, thu hồi giấy phép thành lập doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn, công ty cổ phần; cho phép các tổ chức kinh tế trong nước đặt văn phòng đại diện, chi nhánh hoạt động trên địa bàn tỉnh theo quy định của pháp luật;"
+ENTITY,E39_112,KHOAN,Khoản,structure,30755,30945,"6- Cho phép lập hội và tổ chức phi Chính phủ theo quy định của pháp luật; quản lý, hướng dẫn và kiểm tra việc lập và hoạt động của các hội, tổ chức phi Chính phủ theo quy định của pháp luật;"
+ENTITY,E39_113,KHOAN,Khoản,structure,30946,31287,"7- Xây dựng đề án phân vạch, điều chỉnh địa giới đơn vị hành chính cấp huyện, cấp xã đưa ra Hội đồng nhân dân cùng cấp thông qua để trình cấp trên xem xét, quyết định; xây dựng đề án phân vạch, điều chỉnh địa giới đơn vị hành chính cấp tỉnh đưa ra Hội đồng nhân dân cùng cấp thông qua để đề nghị Chính phủ trình Quốc hội xem xét, quyết định;"
+ENTITY,E39_114,KHOAN,Khoản,structure,31288,31425,"8- Quản lý hồ sơ, mốc, chỉ giới và bản đồ địa giới hành chính của tỉnh, của các đơn vị hành chính trong tỉnh theo quy định của pháp luật;"
+ENTITY,E39_115,KHOAN,Khoản,structure,31426,31608,"9- Trình Hội đồng nhân dân quyết định việc đặt tên, đổi tên đường, phố, quảng trường, công trình công cộng và các đơn vị hành chính, sự nghiệp trong tỉnh theo quy định của Chính phủ."
+ENTITY,E39_116,KHOAN,Khoản,structure,31843,32029,"1- Tổ chức thực hiện biện pháp phát huy vai trò trung tâm kinh tế - xã hội của đô thị lớn trong mối liên hệ với các địa phương trong vùng, khu vực và cả nước theo phân cấp của Chính phủ;"
+ENTITY,E39_117,KHOAN,Khoản,structure,32030,32246,"2- Chỉ đạo, tổ chức thực hiện kế hoạch xây dựng các công trình kết cấu hạ tầng đô thị; lập quy hoạch tổng thể về xây dựng và phát triển đô thị đưa ra Hội đồng nhân dân cùng cấp thông qua để trình Chính phủ phê duyệt;"
+ENTITY,E39_118,KHOAN,Khoản,structure,32247,32427,"3- Thực hiện chủ trương, biện pháp tạo nguồn tài chính, huy động vốn để phát triển đô thị; xây dựng và quản lý thống nhất cơ sở hạ tầng kỹ thuật đô thị theo quy định của pháp luật;"
+ENTITY,E39_119,KHOAN,Khoản,structure,32428,32584,"4- Trực tiếp quản lý quỹ đất đô thị, việc sử dụng vốn từ quỹ đất đô thị phục vụ cho việc xây dựng cơ sở hạ tầng kỹ thuật đô thị theo quy định của pháp luật;"
+ENTITY,E39_120,KHOAN,Khoản,structure,32585,32799,5- Quản lý nhà đô thị; quản lý việc kinh doanh nhà; sử dụng vốn từ quỹ nhà ở thuộc sở hữu nhà nước ở thành phố để phát triển nhà ở tại đô thị; kiểm tra việc chấp hành pháp luật trong việc xây dựng nhà ở tại đô thị;
+ENTITY,E39_121,KHOAN,Khoản,structure,32800,32859,"6- Hướng dẫn, sắp xếp mạng lưới thương mại, dịch vụ đô thị;"
+ENTITY,E39_122,KHOAN,Khoản,structure,32860,32977,"7- Có kế hoạch và biện pháp giải quyết việc làm, phòng, chống các tệ nạn xã hội ở đô thị theo quy định của pháp luật;"
+ENTITY,E39_123,KHOAN,Khoản,structure,32978,33083,"8- Tổ chức, chỉ đạo thực hiện các biện pháp quản lý dân cư ở thành phố và tổ chức đời sống dân cư đô thị;"
+ENTITY,E39_124,KHOAN,Khoản,structure,33084,33200,"9- Tổ chức, chỉ đạo thực hiện nhiệm vụ bảo đảm trật tự công cộng, giao thông, bảo vệ môi trường và cảnh quan đô thị."
+ENTITY,E39_125,KHOAN,Khoản,structure,33648,33947,"1- Kế hoạch phát triển kinh tế - xã hội hàng năm của địa phương theo quy hoạch đã được cấp có thẩm quyền phê duyệt; chủ trương, biện pháp nhằm phát huy mọi tiềm năng của các thành phần kinh tế ở địa phương, bảo đảm quyền tự chủ sản xuất, kinh doanh của các cơ sở kinh tế theo quy định của pháp luật;"
+ENTITY,E39_126,KHOAN,Khoản,structure,33948,34174,"2- Dự toán và phân bổ ngân sách địa phương; phê chuẩn quyết toán ngân sách địa phương; các chủ trương, biện pháp để triển khai thực hiện ngân sách địa phương; điều chỉnh dự toán ngân sách địa phương trong trường hợp cần thiết;"
+ENTITY,E39_127,KHOAN,Khoản,structure,34175,34228,3- Biện pháp phân bổ lao động và dân cư ở địa phương;
+ENTITY,E39_128,KHOAN,Khoản,structure,34229,34357,"4- Biện pháp bảo đảm thực hiện chương trình khuyến nông, khuyến lâm, khuyến ngư và phát triển công nghiệp, tiểu thủ công nghiệp;"
+ENTITY,E39_129,KHOAN,Khoản,structure,34358,34433,"5- Chủ trương, biện pháp về xây dựng và phát triển hợp tác xã ở địa phương;"
+ENTITY,E39_130,KHOAN,Khoản,structure,34434,34521,"6- Quy hoạch, kế hoạch sử dụng, quản lý đất đai theo quy định của pháp luật về đất đai;"
+ENTITY,E39_131,KHOAN,Khoản,structure,34522,34632,"7- Quy hoạch thuỷ lợi; biện pháp bảo vệ đê điều, công trình thuỷ lợi, bảo vệ rừng theo quy định của pháp luật;"
+ENTITY,E39_132,KHOAN,Khoản,structure,34633,34705,"8- Quy hoạch, phát triển xã và thị trấn, mạng lưới giao thông của huyện;"
+ENTITY,E39_133,KHOAN,Khoản,structure,34706,34817,"9- Biện pháp thực hiện chính sách tiết kiệm trong hoạt động quản lý nhà nước, chống tham nhũng, chống buôn lậu."
+ENTITY,E39_134,KHOAN,Khoản,structure,34916,35051,"1- Biện pháp phát triển sự nghiệp văn hoá, văn nghệ, giáo dục, y tế, thể dục, thể thao, phát thanh đã được cấp có thẩm quyền phê duyệt;"
+ENTITY,E39_135,KHOAN,Khoản,structure,35052,35361,"2- Biện pháp giáo dục thanh niên, bảo vệ, chăm sóc, giáo dục thiếu niên, nhi đồng, xây dựng nếp sống văn minh, gia đình văn hoá, giáo dục truyền thống đạo đức tốt đẹp, giữ gìn thuần phong mỹ tục của dân tộc, phòng, chống các tệ nạn xã hội và những biểu hiện không lành mạnh trong đời sống xã hội ở địa phương;"
+ENTITY,E39_136,KHOAN,Khoản,structure,35362,35570,"3- Biện pháp bảo vệ, chăm sóc sức khoẻ nhân dân, phòng, chống dịch bệnh, chăm sóc người già, người tàn tật, trẻ mồ côi không nơi nương tựa, bà mẹ, trẻ em, thực hiện chính sách dân số và kế hoạch hoá gia đình;"
+ENTITY,E39_137,KHOAN,Khoản,structure,35571,35800,"4- Biện pháp thực hiện chính sách ưu đãi, chăm sóc và giúp đỡ thương binh, bệnh binh, gia đình liệt sĩ, những người và gia đình có công với nước; biện pháp thực hiện chính sách bảo hiểm xã hội, cứu tế xã hội, xoá đói, giảm nghèo;"
+ENTITY,E39_138,KHOAN,Khoản,structure,35801,35949,"5- Biện pháp giữ gìn, bảo quản, trùng tu các công trình văn hoá, nghệ thuật, di tích lịch sử, văn hoá và danh lam thắng cảnh theo phân cấp của tỉnh."
+ENTITY,E39_139,KHOAN,Khoản,structure,36044,36174,"1- Biện pháp ứng dụng tiến bộ khoa học, công nghệ, phát huy sáng kiến cải tiến kỹ thuật phục vụ sản xuất và đời sống ở địa phương;"
+ENTITY,E39_140,KHOAN,Khoản,structure,36175,36322,"2- Biện pháp bảo vệ và cải thiện môi trường ở địa phương theo quy định của pháp luật; biện pháp phòng, chống, khắc phục hậu quả thiên tai, bão lụt;"
+ENTITY,E39_141,KHOAN,Khoản,structure,36323,36516,"3- Biện pháp thực hiện các quy định của pháp luật về tiêu chuẩn đo lường và chất lượng sản phẩm, ngăn chặn việc sản xuất và lưu hành hàng giả tại địa phương, bảo vệ lợi ích của người tiêu dùng."
+ENTITY,E39_142,KHOAN,Khoản,structure,36622,36985,"1- Biện pháp thực hiện nhiệm vụ xây dựng lực lượng vũ trang và quốc phòng toàn dân, bảo đảm thực hiện chế độ nghĩa vụ quân sự, xây dựng lực lượng dự bị động viên, thực hiện nhiệm vụ hậu cần tại chỗ, chính sách hậu phương quân đội và chính sách đối với các lực lượng vũ trang nhân dân ở địa phương; biện pháp kết hợp quốc phòng với kinh tế, kinh tế với quốc phòng;"
+ENTITY,E39_143,KHOAN,Khoản,structure,36986,37160,"2- Biện pháp thực hiện nhiệm vụ giữ gìn an ninh, trật tự, an toàn xã hội; biện pháp đấu tranh phòng ngừa và chống tội phạm và các hành vi vi phạm pháp luật khác ở địa phương."
+ENTITY,E39_144,KHOAN,Khoản,structure,37269,37437,"1- Các nhiệm vụ thực hiện chương trình, dự án phát triển kinh tế - xã hội của tỉnh đối với vùng đồng bào dân tộc thiểu số, vùng sâu, vùng xa và vùng còn nhiều khó khăn;"
+ENTITY,E39_145,KHOAN,Khoản,structure,37438,37542,"2- Biện pháp bảo đảm việc thực hiện chính sách dân tộc, chính sách tôn giáo theo quy định của pháp luật."
+ENTITY,E39_146,KHOAN,Khoản,structure,37622,37861,"1- Biện pháp bảo đảm việc thi hành Hiến pháp, luật và các văn bản của cơ quan nhà nước cấp trên trong cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức kinh tế, đơn vị vũ trang nhân dân và đối với công dân ở địa phương;"
+ENTITY,E39_147,KHOAN,Khoản,structure,37862,37977,"2- Biện pháp bảo hộ tính mạng, tài sản, tự do, danh dự, nhân phẩm, các quyền và lợi ích hợp pháp khác của công dân;"
+ENTITY,E39_148,KHOAN,Khoản,structure,37978,38121,"3- Biện pháp bảo vệ tài sản, lợi ích của Nhà nước, bảo hộ tài sản của tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức kinh tế ở địa phương;"
+ENTITY,E39_149,KHOAN,Khoản,structure,38122,38231,"4- Biện pháp bảo đảm việc giải quyết khiếu nại, tố cáo và kiến nghị của công dân theo quy định của pháp luật."
+ENTITY,E39_150,KHOAN,Khoản,structure,38344,38654,"1- Bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch Hội đồng nhân dân, Chủ tịch, Phó Chủ tịch và các thành viên khác của Uỷ ban nhân dân, Trưởng ban và các thành viên khác của các ban của Hội đồng nhân dân; bầu, miễn nhiệm, bãi nhiệm Hội thẩm nhân dân của Toà án nhân dân cùng cấp theo quy định của pháp luật;"
+ENTITY,E39_151,KHOAN,Khoản,structure,38655,38806,"2- Bãi nhiệm đại biểu Hội đồng nhân dân, chấp nhận việc đại biểu Hội đồng nhân dân cùng cấp xin thôi làm nhiệm vụ đại biểu theo quy định của pháp luật;"
+ENTITY,E39_152,KHOAN,Khoản,structure,38807,38968,3- Bãi bỏ những quyết định sai trái của Uỷ ban nhân dân cùng cấp; bãi bỏ hoặc yêu cầu sửa đổi những nghị quyết sai trái của Hội đồng nhân dân cấp dưới trực tiếp;
+ENTITY,E39_153,KHOAN,Khoản,structure,38969,39181,4- Quyết định giải tán Hội đồng nhân dân cấp dưới trực tiếp trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của nhân dân trình Hội đồng nhân dân cấp tỉnh phê chuẩn trước khi thi hành;
+ENTITY,E39_154,KHOAN,Khoản,structure,39182,39307,"5- Thông qua đề án phân vạch, điều chỉnh địa giới các đơn vị hành chính ở địa phương để đề nghị cấp trên xem xét, quyết định."
+ENTITY,E39_155,KHOAN,Khoản,structure,39367,39644,"1- Giám sát hoạt động của Thường trực Hội đồng nhân dân, Uỷ ban nhân dân, Toà án nhân dân và Viện kiểm sát nhân dân cùng cấp; giám sát việc thực hiện các nghị quyết của Hội đồng nhân dân về các lĩnh vực được quy định tại các điều 31, 32, 33, 34, 35, 36 và 37 của Pháp lệnh này;"
+ENTITY,E39_156,KHOAN,Khoản,structure,39817,40080,"2- Xem xét báo cáo của Thường trực Hội đồng nhân dân, Uỷ ban nhân dân, Toà án nhân dân, Viện kiểm sát nhân dân cùng cấp; xem xét việc trả lời chất vấn của người bị chất vấn theo quy định tại Điều 24 của Luật tổ chức Hội đồng nhân dân và Uỷ ban nhân dân (sửa đổi);"
+ENTITY,E39_157,KHOAN,Khoản,structure,40081,40358,"3- Trong trường hợp cần thiết, giao cho Thường trực Hội đồng nhân dân, các ban của Hội đồng nhân dân, đại biểu Hội đồng nhân dân giúp Hội đồng nhân dân giám sát việc thi hành pháp luật, nghị quyết của Hội đồng nhân dân cùng cấp và báo cáo Hội đồng nhân dân tại kỳ họp gần nhất;"
+ENTITY,E39_158,KHOAN,Khoản,structure,41172,41311,"1- Quyết định các biện pháp để xây dựng huyện phát triển mọi mặt; các biện pháp quản lý, bảo vệ đảo, vùng biển theo quy định của pháp luật;"
+ENTITY,E39_159,KHOAN,Khoản,structure,41312,41377,2- Quyết định các biện pháp để tổ chức đời sống dân cư của huyện;
+ENTITY,E39_160,KHOAN,Khoản,structure,41378,41448,"3- Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của Chính phủ."
+ENTITY,E39_161,KHOAN,Khoản,structure,41938,42126,"1- Thông qua quy hoạch tổng thể về xây dựng và phát triển đô thị của thị xã, thành phố thuộc tỉnh trên cơ sở quy hoạch chung của tỉnh để trình Uỷ ban nhân dân cấp trên trực tiếp phê duyệt;"
+ENTITY,E39_162,KHOAN,Khoản,structure,42127,42221,"2- Quyết định kế hoạch xây dựng cơ sở hạ tầng kỹ thuật đô thị của thị xã, thành phố thộc tỉnh;"
+ENTITY,E39_163,KHOAN,Khoản,structure,42222,42356,"3- Quyết định biện pháp bảo đảm trật tự công cộng, giao thông, bảo vệ môi trường và cảnh quan đô thị của thị xã, thành phố thuộc tỉnh;"
+ENTITY,E39_164,KHOAN,Khoản,structure,42357,42463,"4- Quyết định biện pháp quản lý dân cư đô thị và tổ chức đời sống dân cư của thị xã, thành phố thuộc tỉnh."
+ENTITY,E39_165,KHOAN,Khoản,structure,42656,42833,1- Xây dựng kế hoạch phát triển kinh tế - xã hội hàng năm đưa ra Hội đồng nhân dân cùng cấp thông qua để trình Uỷ ban nhân dân cấp tỉnh phê duyệt; tổ chức thực hiện kế hoạch đó;
+ENTITY,E39_166,KHOAN,Khoản,structure,42834,42873,"2- Về ngân sách, Uỷ ban nhân dân huyện:"
+ENTITY,E39_167,KHOAN,Khoản,structure,43807,43863,"3- Phê chuẩn kế hoạch kinh tế - xã hội của xã, thị trấn;"
+ENTITY,E39_168,KHOAN,Khoản,structure,43864,43950,"4- Hướng dẫn và kiểm tra Uỷ ban nhân dân xã, thị trấn xây dựng và thực hiện ngân sách;"
+ENTITY,E39_169,KHOAN,Khoản,structure,43951,44138,"5- Chỉ đạo và kiểm tra cơ quan thuế và cơ quan được Nhà nước giao nhiệm vụ thu ngân sách tại địa phương; bảo đảm thu đúng, nộp đầy đủ ngân sách, đúng thời hạn theo quy định của pháp luật."
+ENTITY,E39_170,KHOAN,Khoản,structure,44268,44482,"1- Xây dựng trình Hội đồng nhân dân cùng cấp thông qua các chương trình khuyến khích phát triển nông nghiệp, lâm nghiệp, ngư nghiệp trên cơ sở các chương trình của cấp tỉnh và tổ chức thực hiện các chương trình đó;"
+ENTITY,E39_171,KHOAN,Khoản,structure,44483,44742,"2- Chỉ đạo Uỷ ban nhân dân xã, thị trấn thực hiện các biện pháp chuyển dịch cơ cấu kinh tế, phát triển nông nghiệp, bảo vệ rừng, trồng rừng và khai thác lâm sản, phát triển ngành, nghề đánh bắt, nuôi trồng và chế biến thuỷ, hải sản theo quy định của cấp trên;"
+ENTITY,E39_172,KHOAN,Khoản,structure,44743,45199,"3- Lập quy hoạch, kế hoạch sử dụng đất đai ở địa phương trình Hội đồng nhân dân cùng cấp thông qua trước khi trình Uỷ ban nhân dân cấp tỉnh xét duyệt; xét duyệt quy hoạch, kế hoạch sử dụng đất đai của Uỷ ban nhân dân xã, thị trấn; thực hiện thẩm quyền giao đất, thu hồi đất, cho thuê đất, giải quyết các tranh chấp đất đai, thanh tra đất đai và các nhiệm vụ khác theo quy định của pháp luật; thống kê, kiểm kê, theo dõi việc sử dụng quỹ đất của địa phương;"
+ENTITY,E39_173,KHOAN,Khoản,structure,45200,45372,"4- Xây dựng quy hoạch thuỷ lợi; tổ chức việc bảo vệ đê điều, các công trình thuỷ lợi vừa và nhỏ theo quy định của pháp luật; quản lý mạng lưới thuỷ nông trên địa bàn huyện."
+ENTITY,E39_174,KHOAN,Khoản,structure,45479,45608,"1- Tham gia với cấp tỉnh trong việc xây dựng quy hoạch, kế hoạch phát triển công nghiệp, tiểu thủ công nghiệp trên địa bàn huyện;"
+ENTITY,E39_175,KHOAN,Khoản,structure,45609,45825,"2- Xây dựng và phát triển các cơ sở công nghiệp, tiểu thủ công nghiệp, dịch vụ ở các xã, thị trấn; phát triển cơ sở chế biến nông, lâm, thuỷ sản và các cơ sở công nghiệp khác theo sự chỉ đạo của Uỷ ban nhân dân tỉnh;"
+ENTITY,E39_176,KHOAN,Khoản,structure,45826,45931,"3- Tổ chức và phát triển các làng nghề truyền thống, sản xuất sản phẩm có giá trị tiêu dùng và xuất khẩu."
+ENTITY,E39_177,KHOAN,Khoản,structure,46033,46218,"1- Tổ chức lập, trình duyệt hoặc xét duyệt theo thẩm quyền quy hoạch xây dựng thị trấn, cụm dân cư nông thôn trên địa bàn huyện; quản lý việc thực hiện quy hoạch xây dựng đã được duyệt;"
+ENTITY,E39_178,KHOAN,Khoản,structure,46219,46375,"2- Quản lý, khai thác sử dụng các công trình kết cấu hạ tầng đô thị, quản lý cụm dân cư nông thôn trên địa bàn huyện theo phân cấp của Uỷ ban nhân dân tỉnh;"
+ENTITY,E39_179,KHOAN,Khoản,structure,46376,46477,"3- Quản lý việc xây dựng, cấp giấy phép xây dựng và kiểm tra việc thực hiện pháp luật trong xây dựng;"
+ENTITY,E39_180,KHOAN,Khoản,structure,46478,46619,4- Tổ chức thực hiện các chính sách về nhà ở; quản lý đất ở và quỹ nhà thuộc sở hữu nhà nước trên địa bàn huyện do Uỷ ban nhân dân tỉnh giao;
+ENTITY,E39_181,KHOAN,Khoản,structure,46620,46725,"5- Quản lý việc khai thác, sản xuất, kinh doanh vật liệu xây dựng theo phân cấp của Uỷ ban nhân dân tỉnh."
+ENTITY,E39_182,KHOAN,Khoản,structure,46829,46907,"1- Xây dựng, phát triển mạng lưới thương mại, dịch vụ và du lịch trên địa bàn;"
+ENTITY,E39_183,KHOAN,Khoản,structure,46908,47009,2- Kiểm tra việc thực hiện các quy tắc về an toàn và vệ sinh trong hoạt động thương mại ở địa phương;
+ENTITY,E39_184,KHOAN,Khoản,structure,47010,47172,"3- Sắp xếp mạng lưới thương mại, dịch vụ, du lịch và kiểm tra việc chấp hành quy định của Nhà nước về hoạt động thương mại, dịch vụ và du lịch trên địa bàn huyện."
+ENTITY,E39_185,KHOAN,Khoản,structure,47283,47476,"1- Xây dựng các chương trình, đề án phát triển sự nghiệp văn hoá, giáo dục, y tế, thể dục, thể thao, phát thanh trên địa bàn huyện và tổ chức thực hiện sau khi được cấp có thẩm quyền phê duyệt;"
+ENTITY,E39_186,KHOAN,Khoản,structure,47477,47767,"2- Tổ chức thực hiện các quy định của pháp luật về phổ cập giáo dục, quản lý các trường tiểu học, trung học cơ sở, trường dạy nghề; tổ chức các trường mầm non; thực hiện chủ trương xã hội hoá giáo dục trên địa bàn, xoá mù chữ; thực hiện các quy định về tiêu chuẩn giáo viên, quy chế thi cử;"
+ENTITY,E39_187,KHOAN,Khoản,structure,47768,47903,"3- Hướng dẫn chỉ đạo thực hiện phong trào văn hoá, văn nghệ, thể dục thể thao quần chúng, xây dựng nếp sống văn minh, gia đình văn hoá;"
+ENTITY,E39_188,KHOAN,Khoản,structure,47904,48098,"4- Quản lý các công trình công cộng được phân cấp; hướng dẫn các phong trào về văn hoá, hoạt động của các trung tâm thể dục, thể thao; bảo vệ các di tích lịch sử, văn hoá và danh lam thắng cảnh;"
+ENTITY,E39_189,KHOAN,Khoản,structure,48099,48455,"5- Tổ chức thực hiện kế hoạch phát triển sự nghiệp y tế đã được phê duyệt; quản lý các trung tâm y tế, trạm y tế; chỉ đạo và hướng dẫn công tác bảo vệ sức khoẻ nhân dân, phòng, chống dịch bệnh, bảo vệ và chăm sóc người già, người tàn tật, trẻ mồ côi không nơi nương tựa, bảo vệ, chăm sóc bà mẹ, trẻ em; thực hiện chính sách dân số và kế hoạch hoá gia đình;"
+ENTITY,E39_190,KHOAN,Khoản,structure,48456,48594,"6- Kiểm tra việc chấp hành pháp luật trong hoạt động của các cơ sở hành nghề y, dược tư nhân, cơ sở in, nhân bản, phát hành xuất bản phẩm;"
+ENTITY,E39_191,KHOAN,Khoản,structure,48595,48758,"7- Tổ chức, chỉ đạo việc dạy nghề, giải quyết việc làm cho người lao động; tổ chức thực hiện phong trào xoá đói, giảm nghèo; hướng dẫn hoạt động từ thiện nhân đạo;"
+ENTITY,E39_192,KHOAN,Khoản,structure,48759,48925,"8- Thực hiện và chỉ đạo việc thực hiện các chính sách, chế độ của Nhà nước đối với thương binh, bệnh binh, gia đình liệt sĩ, những người và gia đình có công với nước."
+ENTITY,E39_193,KHOAN,Khoản,structure,49032,49140,1- Thực hiện các biện pháp ứng dụng tiến bộ khoa học và công nghệ phục vụ sản xuất và đời sống ở địa phương;
+ENTITY,E39_194,KHOAN,Khoản,structure,49141,49232,"2- Tổ chức thực hiện bảo vệ môi trường; phòng, chống, khắc phục hậu quả thiên tai, bão lụt;"
+ENTITY,E39_195,KHOAN,Khoản,structure,49233,49449,3- Tổ chức thực hiện các quy định của pháp luật về tiêu chuẩn đo lường và chất lượng sản phẩm; kiểm tra chất lượng sản phẩm và hàng hoá trên địa bàn huyện; ngăn chặn việc sản xuất và lưu hành hàng giả tại địa phương.
+ENTITY,E39_196,KHOAN,Khoản,structure,49533,49798,"1- Tổ chức phong trào quần chúng tham gia xây dựng lực lượng vũ trang và quốc phòng toàn dân; thực hiện kế hoạch xây dựng khu vực phòng thủ huyện; quản lý lực lượng dự bị động viên; chỉ đạo việc xây dựng lực lượng dân quân tự vệ, công tác huấn luyện dân quân tự vệ;"
+ENTITY,E39_197,KHOAN,Khoản,structure,49799,50054,"2- Tổ chức thực hiện chế độ nghĩa vụ quân sự; tổ chức đăng ký, khám tuyển nghĩa vụ quân sự; quyết định việc nhập ngũ, giao quân, việc hoãn, miễn thi hành nghĩa vụ quân sự và xử lý các trường hợp vi phạm chế độ nghĩa vụ quân sự theo quy định của pháp luật;"
+ENTITY,E39_198,KHOAN,Khoản,structure,50055,50202,"3- Thực hiện nhiệm vụ hậu cần tại chỗ, thực hiện chính sách hậu phương quân đội và chính sách đối với các lực lượng vũ trang nhân dân ở địa phương."
+ENTITY,E39_199,KHOAN,Khoản,structure,50308,50560,"1- Tổ chức thực hiện nhiệm vụ giữ gìn an ninh, trật tự, an toàn xã hội, xây dựng lực lượng công an nhân dân vững mạnh, bảo vệ bí mật nhà nước, đấu tranh phòng ngừa và chống tội phạm, các tệ nạn xã hội và các hành vi vi phạm pháp luật khác ở địa phương;"
+ENTITY,E39_200,KHOAN,Khoản,structure,50561,50761,"2- Tổ chức, chỉ đạo việc quản lý hộ khẩu, quản lý việc cư trú, đi lại của người nước ngoài ở địa phương; thực hiện và chỉ đạo việc thực hiện công tác phòng cháy, chữa cháy, trật tự an toàn giao thông;"
+ENTITY,E39_201,KHOAN,Khoản,structure,50762,50867,"3- Tuyên truyền, giáo dục, vận động nhân dân tham gia phong trào bảo vệ an ninh, trật tự, an toàn xã hội."
+ENTITY,E39_202,KHOAN,Khoản,structure,50992,51160,"1- Tổ chức tuyên truyền, giáo dục, phổ biến chính sách, pháp luật về dân tộc và tôn giáo; chỉ đạo việc thực hiện chính sách dân tộc và chính sách tôn giáo ở địa phương;"
+ENTITY,E39_203,KHOAN,Khoản,structure,51161,51362,"2- Tổ chức thực hiện các nhiệm vụ được giao về các chương trình, kế hoạch, dự án phát triển kinh tế - xã hội của tỉnh đối với vùng đồng bào dân tộc thiểu số, vùng sâu, vùng xa, vùng còn nhiều khó khăn;"
+ENTITY,E39_204,KHOAN,Khoản,structure,51363,51712,"3- Hướng dẫn và kiểm tra Uỷ ban nhân dân xã, thị trấn trong việc thực hiện các chủ trương, biện pháp của Nhà nước, của cấp trên nhằm bảo đảm thực hiện chính sách tôn giáo, quyền bình đẳng giữa các tôn giáo trước pháp luật, quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo một tôn giáo nào của công dân ở địa phương theo quy định của pháp luật;"
+ENTITY,E39_205,KHOAN,Khoản,structure,51713,51901,"4- Chống mọi hành vi xâm phạm tự do tín ngưỡng, tôn giáo hoặc lợi dụng tín ngưỡng, tôn giáo để làm trái những quy định của pháp luật và chính sách của Nhà nước theo quy định của pháp luật."
+ENTITY,E39_206,KHOAN,Khoản,structure,51993,52184,"1- Căn cứ vào các văn bản của cơ quan nhà nước cấp trên và nghị quyết của Hội đồng nhân dân cùng cấp, ban hành quyết định, chỉ thị và tổ chức thực hiện, kiểm tra việc thi hành các văn bản đó;"
+ENTITY,E39_207,KHOAN,Khoản,structure,52185,52358,"2- Tổ chức tuyên truyền, giáo dục pháp luật, kiểm tra việc chấp hành Hiến pháp, luật, các văn bản của cơ quan nhà nước cấp trên và nghị quyết của Hội đồng nhân dân cùng cấp;"
+ENTITY,E39_208,KHOAN,Khoản,structure,52359,52634,"3- Tổ chức thực hiện, chỉ đạo Uỷ ban nhân dân xã, thị trấn thực hiện các biện pháp bảo vệ tài sản của Nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức kinh tế, bảo vệ tính mạng, tự do, danh dự, nhân phẩm, tài sản, các quyền và lợi ích hợp pháp khác của công dân;"
+ENTITY,E39_209,KHOAN,Khoản,structure,52635,52691,4- Chỉ đạo việc thực hiện công tác hộ tịch ở địa phương;
+ENTITY,E39_210,KHOAN,Khoản,structure,52692,52761,"5- Tổ chức, chỉ đạo công tác thi hành án theo quy định của pháp luật;"
+ENTITY,E39_211,KHOAN,Khoản,structure,52762,52971,"6- Tổ chức, chỉ đạo việc thực hiện công tác kiểm tra, thanh tra nhà nước; tổ chức tiếp dân, giải quyết kịp thời khiếu nại, tố cáo và kiến nghị của công dân; hướng dẫn, chỉ đạo công tác hoà giải ở xã, thị trấn;"
+ENTITY,E39_212,KHOAN,Khoản,structure,52972,53039,7- Quyết định xử lý vi phạm hành chính theo quy định của pháp luật.
+ENTITY,E39_213,KHOAN,Khoản,structure,53213,53320,"1- Tổ chức thực hiện việc bầu cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân theo quy định của pháp luật;"
+ENTITY,E39_214,KHOAN,Khoản,structure,53321,53444,"2- Đề nghị Uỷ ban nhân dân tỉnh quyết định việc thành lập, sáp nhập, giải thể các cơ quan chuyên môn thuộc Uỷ ban nhân dân;"
+ENTITY,E39_215,KHOAN,Khoản,structure,53445,53665,"3- Quản lý công tác tổ chức, biên chế, lao động, tiền lương theo phân cấp của Chính phủ; tổ chức việc khen thưởng, thực hiện chính sách, chế độ đối với cán bộ, viên chức nhà nước trên địa bàn theo quy định của pháp luật;"
+ENTITY,E39_216,KHOAN,Khoản,structure,53666,53771,"4- Quản lý nhà nước đối với các cơ sở sản xuất, kinh doanh đóng trên địa bàn theo quy định của pháp luật;"
+ENTITY,E39_217,KHOAN,Khoản,structure,53772,53908,"5- Xét, cấp, thu hồi giấy chứng nhận đăng ký kinh doanh đối với hợp tác xã và các hoạt động kinh doanh khác theo quy định của pháp luật;"
+ENTITY,E39_218,KHOAN,Khoản,structure,53909,53979,"6- Quản lý hồ sơ, mốc, chỉ giới, bản đồ địa giới hành chính của huyện;"
+ENTITY,E39_219,KHOAN,Khoản,structure,53980,54142,"7- Xây dựng đề án phân vạch, điều chỉnh địa giới đơn vị hành chính ở địa phương đưa ra Hội đồng nhân dân cùng cấp thông qua để trình cấp trên xem xét, quyết định."
+ENTITY,E39_220,KHOAN,Khoản,structure,54371,54567,"1- Tổ chức thực hiện các nghị quyết của Hội đồng nhân dân về việc xây dựng và phát triển huyện về mọi mặt, chú trọng việc nuôi trồng, khai thác và bảo vệ nguồn lợi hải sản, phòng, chống thiên tai;"
+ENTITY,E39_221,KHOAN,Khoản,structure,54568,54663,"2- Tổ chức đời sống dân cư, chăm lo phát triển về giáo dục, y tế và đời sống văn hoá của huyện;"
+ENTITY,E39_222,KHOAN,Khoản,structure,54664,54736,"3- Phối hợp với các lực lượng trong việc quản lý, bảo vệ đảo, vùng biển;"
+ENTITY,E39_223,KHOAN,Khoản,structure,54737,54807,"4- Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của Chính phủ."
+ENTITY,E39_224,KHOAN,Khoản,structure,55013,55148,1- Tổ chức thực hiện các biện pháp bảo đảm thực hiện thống nhất kế hoạch phát triển kinh tế - xã hội và quy hoạch đô thị của thành phố;
+ENTITY,E39_225,KHOAN,Khoản,structure,55149,55503,"2- Thực hiện việc quản lý và kiểm tra sử dụng quỹ nhà thuộc sở hữu nhà nước trên địa bàn theo sự phân cấp của Chính phủ; tổ chức thực hiện các quyết định về xử lý vi phạm trong xây dựng, lấn chiếm đất đai theo quy định của pháp luật; quyết định đình chỉ hoặc phá dỡ theo thẩm quyền các công trình xây dựng không có giấy phép, trái quy định của giấy phép;"
+ENTITY,E39_226,KHOAN,Khoản,structure,55504,55594,"3- Quản lý, kiểm tra việc sử dụng các công trình công cộng do thành phố giao trên địa bàn;"
+ENTITY,E39_227,KHOAN,Khoản,structure,55595,55668,"4- Tổ chức thực hiện các quy định của pháp luật về phòng cháy, chữa cháy."
+ENTITY,E39_228,KHOAN,Khoản,structure,55898,56272,"1- Thực hiện các nghị quyết của Hội đồng nhân dân về quy hoạch tổng thể xây dựng và phát triển đô thị của thị xã, thành phố thuộc tỉnh trên cơ sở quy hoạch chung, kế hoạch xây dựng kết cấu hạ tầng kỹ thuật đô thị, biện pháp bảo đảm trật tự công cộng, giao thông, bảo vệ môi trường và cảnh quan đô thị; biện pháp quản lý dân cư đô thị và tổ chức đời sống dân cư trên địa bàn;"
+ENTITY,E39_229,KHOAN,Khoản,structure,56273,56624,"2- Thực hiện quản lý và kiểm tra việc sử dụng quỹ nhà thuộc sở hữu nhà nước trên địa bàn theo sự phân cấp của Chính phủ; tổ chức thực hiện các quyết định xử lý vi phạm trong xây dựng, lấn chiếm đất đai theo quy định của pháp luật; quyết định đình chỉ hoặc phá dỡ theo thẩm quyền các công trình xây dựng không có giấy phép, trái quy định của giấy phép;"
+ENTITY,E39_230,KHOAN,Khoản,structure,56625,56868,"3- Quản lý, kiểm tra việc sử dụng các công trình công cộng được giao trên địa bàn; xây dựng trường phổ thông quốc lập các cấp và các công trình công cộng, điện chiếu sáng, cấp thoát nước, giao thông nội thị, an toàn giao thông, vệ sinh đô thị;"
+ENTITY,E39_231,KHOAN,Khoản,structure,56869,57061,"4- Quản lý các cơ sở văn hoá, thông tin, thể dục, thể thao của thị xã, thành phố thuộc tỉnh; bảo vệ các di tích lịch sử, văn hoá và danh lam thắng cảnh do thị xã, thành phố thuộc tỉnh quản lý;"
+ENTITY,E39_232,KHOAN,Khoản,structure,57062,57158,"5- Hướng dẫn, kiểm tra và tổ chức thực hiện các quy định của pháp luật về phòng cháy, chữa cháy."
+ENTITY,E39_233,KHOAN,Khoản,structure,57396,57504,1- Biện pháp thực hiện việc phát triển kinh tế - xã hội hàng năm nhằm phát huy mọi tiềm năng của địa phương;
+ENTITY,E39_234,KHOAN,Khoản,structure,57505,57731,"2- Dự toán và phân bổ ngân sách địa phương; phê chuẩn quyết toán ngân sách địa phương; các chủ trương, biện pháp để triển khai thực hiện ngân sách địa phương; điều chỉnh dự toán ngân sách địa phương trong trường hợp cần thiết;"
+ENTITY,E39_235,KHOAN,Khoản,structure,57732,57906,"3- Thông qua quy hoạch, kế hoạch sử dụng đất đai ở địa phương; biện pháp quản lý và sử dụng hợp lý, có hiệu quả quỹ đất được để lại phục vụ các nhu cầu công ích ở địa phương;"
+ENTITY,E39_236,KHOAN,Khoản,structure,57907,58020,"4- Biện pháp khuyến khích, vận động nông dân chuyển đổi cơ cấu kinh tế, cây trồng, vật nuôi theo quy hoạch chung;"
+ENTITY,E39_237,KHOAN,Khoản,structure,58021,58184,"5- Biện pháp thực hiện chương trình khuyến khích phát triển nông nghiệp, lâm nghiệp, ngư nghiệp, tiểu thủ công nghiệp theo hướng dẫn của cơ quan nhà nước cấp trên;"
+ENTITY,E39_238,KHOAN,Khoản,structure,58185,58313,"6- Biện pháp về xây dựng và phát triển hợp tác xã, tổ hợp tác ở địa phương; tuyên truyền, vận động nhân dân tham gia hợp tác xã;"
+ENTITY,E39_239,KHOAN,Khoản,structure,58314,58529,"7- Biện pháp quản lý, sử dụng, bảo vệ nguồn nước, các công trình thuỷ lợi theo hướng dẫn của cấp trên; biện pháp phòng, chống, khắc phục hậu quả thiên tai, bão lụt, bảo vệ rừng, tu bổ và bảo vệ đê điều ở địa phương;"
+ENTITY,E39_240,KHOAN,Khoản,structure,58530,58646,"8- Biện pháp thực hiện xây dựng, tu sửa đường giao thông, cầu, cống trong xã và các cơ sở hạ tầng khác ở địa phương;"
+ENTITY,E39_241,KHOAN,Khoản,structure,58647,58725,"9- Biện pháp thực hiện chính sách tiết kiệm, chống tham nhũng, chống buôn lậu."
+ENTITY,E39_242,KHOAN,Khoản,structure,58831,59123,"1- Biện pháp thực hiện việc phát triển sự nghiệp văn hoá, giáo dục ở địa phương; bảo đảm các điều kiện cần thiết để trẻ em vào học lớp một đúng độ tuổi, hoàn thành chương trình phổ cập giáo dục; tổ chức các trường mầm non; thực hiện bổ túc văn hoá và xoá mù chữ cho những người trong độ tuổi;"
+ENTITY,E39_243,KHOAN,Khoản,structure,59124,59511,"2- Biện pháp giáo dục thanh niên, bảo vệ, chăm sóc, giáo dục thiếu niên, nhi đồng; xây dựng nếp sống văn minh, gia đình văn hoá, giáo dục truyền thống đạo đức tốt đẹp, giữ gìn thuần phong mỹ tục của dân tộc; ngăn chặn việc truyền bá văn hoá phản động, đồi truỵ, bài trừ mê tín, hủ tục, phòng, chống các tệ nạn xã hội và những biểu hiện không lành mạnh trong đời sống xã hội ở địa phương;"
+ENTITY,E39_244,KHOAN,Khoản,structure,59512,59684,"3- Biện pháp phát triển hoạt động văn hoá, văn nghệ, thể dục, thể thao, hướng dẫn các lễ hội cổ truyền; bảo vệ di tích lịch sử, văn hoá và danh lam thắng cảnh ở địa phương;"
+ENTITY,E39_245,KHOAN,Khoản,structure,59685,59824,"4- Biện pháp bảo đảm giữ gìn vệ sinh, phòng, chống dịch bệnh, thực hiện có hiệu quả chương trình y tế cơ sở, dân số, kế hoạch hoá gia đình;"
+ENTITY,E39_246,KHOAN,Khoản,structure,59825,60196,"5- Biện pháp thực hiện chính sách, chế độ đối với thương binh, bệnh binh, gia đình liệt sĩ, những người và gia đình có công với nước, thực hiện công tác cứu tế xã hội và biện pháp vận động nhân dân giúp đỡ gia đình khó khăn, người già, người tàn tật, trẻ mồ côi không nơi nương tựa, tổ chức chăm sóc các đối tượng được nuôi dưỡng; biện pháp thực hiện xoá đói, giảm nghèo."
+ENTITY,E39_247,KHOAN,Khoản,structure,60308,60459,"1- Biện pháp thực hiện nhiệm vụ xây dựng quốc phòng toàn dân; bảo đảm thi hành chế độ nghĩa vụ quân sự, xây dựng lực lượng dân quân tự vệ ở địa phương;"
+ENTITY,E39_248,KHOAN,Khoản,structure,60460,60627,"2- Biện pháp thực hiện nhiệm vụ hậu cần tại chỗ, nhiệm vụ động viên, chính sách hậu phương quân đội và chính sách đối với các lực lượng vũ trang nhân dân ở địa phương;"
+ENTITY,E39_249,KHOAN,Khoản,structure,60628,60798,"3- Biện pháp bảo đảm thực hiện nhiệm vụ giữ gìn an ninh, trật tự, an toàn xã hội; đấu tranh phòng ngừa và chống tội phạm, các hành vi vi phạm pháp luật khác ở địa phương;"
+ENTITY,E39_250,KHOAN,Khoản,structure,60799,60854,"4- Biện pháp bảo đảm trật tự công cộng, an toàn xã hội."
+ENTITY,E39_251,KHOAN,Khoản,structure,60970,61235,"1- Biện pháp bảo đảm thực hiện chính sách dân tộc, cải thiện đời sống vật chất và tinh thần, nâng cao dân trí của đồng bào các dân tộc; bảo đảm thực hiện quyền bình đẳng giữa các dân tộc, giữ gìn, tăng cường khối đoàn kết và tương trợ giữa các dân tộc ở địa phương;"
+ENTITY,E39_252,KHOAN,Khoản,structure,61236,61375,"2- Biện pháp bảo đảm thực hiện chính sách tôn giáo, quyền tự do tín ngưỡng, tôn giáo của nhân dân ở địa phương theo quy định của pháp luật."
+ENTITY,E39_253,KHOAN,Khoản,structure,61462,61564,"1- Biện pháp bảo đảm thi hành Hiến pháp, luật, các văn bản của cơ quan nhà nước cấp trên ở địa phương;"
+ENTITY,E39_254,KHOAN,Khoản,structure,61565,61680,"2- Biện pháp bảo hộ tính mạng, tài sản, tự do, danh dự, nhân phẩm, các quyền và lợi ích hợp pháp khác của công dân;"
+ENTITY,E39_255,KHOAN,Khoản,structure,61681,61824,"3- Biện pháp bảo vệ tài sản, lợi ích của Nhà nước, bảo hộ tài sản của tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức kinh tế ở địa phương;"
+ENTITY,E39_256,KHOAN,Khoản,structure,61825,61934,"4- Biện pháp bảo đảm việc giải quyết khiếu nại, tố cáo và kiến nghị của công dân theo quy định của pháp luật."
+ENTITY,E39_257,KHOAN,Khoản,structure,62054,62201,"1- Bầu, miễn nhiệm, bãi nhiệm Chủ tịch, Phó Chủ tịch Hội đồng nhân dân, Chủ tịch, Phó Chủ tịch và các thành viên khác của Uỷ ban nhân dân cùng cấp;"
+ENTITY,E39_258,KHOAN,Khoản,structure,62202,62353,"2- Bãi nhiệm đại biểu Hội đồng nhân dân, chấp nhận việc đại biểu Hội đồng nhân dân cùng cấp xin thôi làm nhiệm vụ đại biểu theo quy định của pháp luật;"
+ENTITY,E39_259,KHOAN,Khoản,structure,62354,62419,3- Bãi bỏ những quyết định sai trái của Uỷ ban nhân dân cùng cấp;
+ENTITY,E39_260,KHOAN,Khoản,structure,62420,62534,"4- Thông qua đề án phân vạch, điều chỉnh địa giới hành chính ở địa phương để đề nghị cấp trên xem xét, quyết định."
+ENTITY,E39_261,KHOAN,Khoản,structure,62601,63015,"1- Giám sát hoạt động của Chủ tịch, Phó Chủ tịch Hội đồng nhân dân, Uỷ ban nhân dân cùng cấp; giám sát việc thực hiện nghị quyết Hội đồng nhân dân cùng cấp về các lĩnh vực được quy định tại các điều 57, 58, 59, 60, 61 và 62 của Pháp lệnh này; giám sát việc tuân theo pháp luật của cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức kinh tế, đơn vị vũ trang nhân dân và của công dân ở địa phương;"
+ENTITY,E39_262,KHOAN,Khoản,structure,63016,63235,"2- Xem xét báo cáo của Chủ tịch Hội đồng nhân dân, Uỷ ban nhân dân cùng cấp; xem xét việc trả lời chất vấn của người bị chất vấn theo quy định tại Điều 24 của Luật tổ chức Hội đồng nhân dân và Uỷ ban nhân dân (sửa đổi);"
+ENTITY,E39_263,KHOAN,Khoản,structure,63236,63481,"3- Trong trường hợp cần thiết, giao cho Chủ tịch Hội đồng nhân dân và đại biểu Hội đồng nhân dân giúp Hội đồng nhân dân giám sát việc thi hành pháp luật, nghị quyết của Hội đồng nhân dân cùng cấp và báo cáo Hội đồng nhân dân tại kỳ họp gần nhất;"
+ENTITY,E39_264,KHOAN,Khoản,structure,64186,64284,1- Biện pháp bảo đảm thực hiện thống nhất kế hoạch phát triển kinh tế- xã hội và quy hoạch đô thị;
+ENTITY,E39_265,KHOAN,Khoản,structure,64285,64479,"2- Biện pháp thực hiện xây dựng nếp sống văn minh đô thị, phòng, chống các tệ nạn xã hội, giữ gìn trật tự vệ sinh, sạch đẹp khu phố, lòng, lề đường, bảo vệ trật tự công cộng và cảnh quan đô thị;"
+ENTITY,E39_266,KHOAN,Khoản,structure,64480,64544,"3- Biện pháp tổ chức, quản lý dân cư đô thị trên địa bàn phường."
+ENTITY,E39_267,KHOAN,Khoản,structure,64723,64898,1- Xây dựng kế hoạch phát triển kinh tế - xã hội hàng năm trình Hội đồng nhân dân cùng cấp thông qua và trình Uỷ ban nhân dân huyện phê duyệt và tổ chức thực hiện kế hoạch đó;
+ENTITY,E39_268,KHOAN,Khoản,structure,64899,64945,"2- Về ngân sách, Uỷ ban nhân dân xã, thị trấn:"
+ENTITY,E39_269,KHOAN,Khoản,structure,65721,65893,"3- Phối hợp với các cơ quan hữu quan thu thuế ở địa phương; bảo đảm thu đúng, nộp đủ, kịp thời các loại thuế và các khoản thu khác ở địa phương theo quy định của pháp luật;"
+ENTITY,E39_270,KHOAN,Khoản,structure,65894,66182,"4- Huy động sự đóng góp của các tổ chức, cá nhân để đầu tư xây dựng các công trình kết cấu hạ tầng của xã, thị trấn trên nguyên tắc tự nguyện. Việc quản lý khoản đóng góp này phải công khai, có kiểm tra, kiểm soát và bảo đảm sử dụng đúng mục đích, đúng chế độ theo quy định của pháp luật."
+ENTITY,E39_271,KHOAN,Khoản,structure,66308,66471,"1- Tổ chức và hướng dẫn việc thực hiện các chương trình, kế hoạch, đề án khuyến khích phát triển về nông nghiệp, lâm nghiệp, ngư nghiệp theo quy định của cấp trên;"
+ENTITY,E39_272,KHOAN,Khoản,structure,66472,66737,"2- Tổ chức thực hiện các biện pháp ứng dụng tiến bộ khoa học, công nghệ để phát triển sản xuất; hướng dẫn nông dân chuyển đổi cơ cấu kinh tế, cây trồng, vật nuôi trong sản xuất theo quy hoạch, kế hoạch chung và phòng trừ các bệnh dịch đối với cây trồng và vật nuôi;"
+ENTITY,E39_273,KHOAN,Khoản,structure,66738,67019,"3- Tổ chức việc xây dựng các công trình thuỷ lợi nhỏ của xã, thị trấn; tổ chức thực hiện việc tu bổ, bảo vệ đê điều, bảo vệ rừng; phòng, chống và khắc phục hậu quả thiên tai, bão lụt; ngăn chặn kịp thời những hành vi vi phạm pháp luật về bảo vệ đê điều, bảo vệ rừng tại địa phương;"
+ENTITY,E39_274,KHOAN,Khoản,structure,67020,67531,"4- Lập quy hoạch, kế hoạch sử dụng đất đai của xã, thị trấn trình Hội đồng nhân dân cùng cấp thông qua trước khi trình Uỷ ban nhân dân cấp huyện xét duyệt; quản lý và sử dụng hợp lý, có hiệu quả quỹ đất được để lại phục vụ các nhu cầu công ích ở địa phương; thống kê, theo dõi biến động đất đai trong địa bàn; kiểm tra việc quản lý và sử dụng đất đai ở địa phương; xây dựng và quản lý các công trình công cộng, đường giao thông, trụ sở, trường học, trạm y tế, công trình điện, nước theo quy hoạch đã được duyệt;"
+ENTITY,E39_275,KHOAN,Khoản,structure,67532,67626,"5- Quản lý, kiểm tra, bảo vệ việc sử dụng nguồn nước trên địa bàn theo quy định của pháp luật."
+ENTITY,E39_276,KHOAN,Khoản,structure,67727,67819,"1- Tổ chức hướng dẫn việc khai thác và phát triển các ngành, nghề truyền thống ở địa phương;"
+ENTITY,E39_277,KHOAN,Khoản,structure,67820,68054,"2- Tổ chức thực hiện biện pháp ứng dụng tiến bộ về khoa học, công nghệ để phát triển các ngành, nghề mới nhằm giải quyết việc làm và cải thiện điều kiện làm việc, sinh hoạt của người lao động, cải thiện đời sống nhân dân ở địa phương."
+ENTITY,E39_278,KHOAN,Khoản,structure,68145,68214,"1- Tổ chức thực hiện việc xây dựng, tu sửa đường giao thông trong xã;"
+ENTITY,E39_279,KHOAN,Khoản,structure,68215,68370,"2- Tổ chức việc bảo vệ, kiểm tra, xử lý các hành vi vi phạm đường giao thông và các công trình cơ sở hạ tầng khác ở địa phương theo quy định của pháp luật;"
+ENTITY,E39_280,KHOAN,Khoản,structure,68371,68495,"3- Huy động sự đóng góp tự nguyện của nhân dân để xây dựng đường giao thông, cầu, cống trong xã theo quy định của pháp luật."
+ENTITY,E39_281,KHOAN,Khoản,structure,68595,68662,"1- Quản lý, sắp xếp chợ và các điểm buôn bán, dịch vụ ở địa phương;"
+ENTITY,E39_282,KHOAN,Khoản,structure,68663,68751,"2- Quản lý các hoạt động dịch vụ, buôn bán nhỏ ở địa phương theo quy định của pháp luật;"
+ENTITY,E39_283,KHOAN,Khoản,structure,68752,68861,"3- Phối hợp với các cơ quan hữu quan chống buôn lậu, trốn thuế, sản xuất và lưu hành hàng giả tại địa phương."
+ENTITY,E39_284,KHOAN,Khoản,structure,68959,69024,1- Thực hiện kế hoạch phát triển sự nghiệp giáo dục ở địa phương;
+ENTITY,E39_285,KHOAN,Khoản,structure,69025,69248,"2- Phối hợp với trường học tổ chức đăng ký, huy động trẻ em vào lớp một đúng độ tuổi và hoàn thành chương trình phổ cập giáo dục; tổ chức thực hiện các lớp bổ túc văn hoá, thực hiện xoá mù chữ cho những người trong độ tuổi;"
+ENTITY,E39_286,KHOAN,Khoản,structure,69249,69339,"3- Tổ chức xây dựng và quản lý, kiểm tra hoạt động của nhà trẻ, lớp mẫu giáo ở địa phương;"
+ENTITY,E39_287,KHOAN,Khoản,structure,69340,69451,"4- Phối hợp với các cơ quan hành chính nhà nước cấp trên quản lý trường tiểu học, trung học cơ sở trên địa bàn;"
+ENTITY,E39_288,KHOAN,Khoản,structure,69452,69898,"5- Tổ chức các hoạt động văn hoá, thông tin, nghệ thuật, thể dục, thể thao; tổ chức thực hiện việc hướng dẫn các lễ hội truyền thống; bảo vệ di tích lịch sử, văn hoá và danh lam thắng cảnh ở địa phương; vận động nhân dân xây dựng nếp sống văn minh, gia đình văn hoá; ngăn chặn việc truyền bá văn hoá phản động, đồi trụy, bài trừ mê tín, hủ tục, phòng, chống các tệ nạn xã hội và những biểu hiện không lành mạnh trong đời sống xã hội ở địa phương."
+ENTITY,E39_289,KHOAN,Khoản,structure,69997,70188,"1- Tổ chức và quản lý trạm y tế của xã; tổ chức triển khai các chương trình y tế cơ sở, dân số, kế hoạch hoá gia đình được giao; vận động nhân dân giữ gìn vệ sinh; phòng, chống các dịch bệnh;"
+ENTITY,E39_290,KHOAN,Khoản,structure,70189,70580,"2- Tổ chức thực hiện chính sách, chế độ đối với thương binh, bệnh binh, gia đình liệt sĩ, những người và gia đình có công với nước; thực hiện công tác cứu tế xã hội, hoạt động từ thiện, nhân đạo ở địa phương và vận động nhân dân giúp đỡ các gia đình khó khăn, người già, người tàn tật, trẻ mồ côi không nơi nương tựa; tổ chức các hình thức nuôi dưỡng, chăm sóc các đối tượng được nuôi dưỡng;"
+ENTITY,E39_291,KHOAN,Khoản,structure,70581,70670,"3- Quản lý, bảo vệ, tu bổ nghĩa trang liệt sĩ; quy hoạch, quản lý nghĩa địa ở địa phương."
+ENTITY,E39_292,KHOAN,Khoản,structure,70761,70917,"1- Tổ chức huấn luyện quân sự phổ thông, tuyên truyền, giáo dục xây dựng quốc phòng toàn dân, xây dựng làng xã chiến đấu trong khu vực phòng thủ địa phương;"
+ENTITY,E39_293,KHOAN,Khoản,structure,70918,71128,"2- Thực hiện công tác nghĩa vụ quân sự, công tác tuyển quân theo kế hoạch; đăng ký, quản lý quân nhân dự bị động viên; tổ chức thực hiện việc xây dựng, huấn luyện, sử dụng lực lượng dân quân tự vệ ở địa phương;"
+ENTITY,E39_294,KHOAN,Khoản,structure,71129,71276,"3- Thực hiện nhiệm vụ hậu cần tại chỗ, thực hiện chính sách hậu phương quân đội và chính sách đối với các lực lượng vũ trang nhân dân ở địa phương."
+ENTITY,E39_295,KHOAN,Khoản,structure,71389,71647,"1- Thực hiện các biện pháp bảo đảm an ninh, trật tự, an toàn xã hội; xây dựng công an xã, thị trấn và phong trào quần chúng bảo vệ an ninh Tổ quốc vững mạnh; thực hiện biện pháp phòng ngừa và chống tội phạm và các hành vi vi phạm pháp luật khác ở địa phương;"
+ENTITY,E39_296,KHOAN,Khoản,structure,71648,71752,"2- Quản lý hộ khẩu; tổ chức việc đăng ký tạm trú, quản lý việc đi lại của người nước ngoài ở địa phương;"
+ENTITY,E39_297,KHOAN,Khoản,structure,71753,71927,"3- Tổ chức thực hiện hoặc phối hợp với các cơ quan chức năng trong việc thi hành án, tổ chức thực hiện các quyết định về xử lý vi phạm hành chính theo quy định của pháp luật."
+ENTITY,E39_298,KHOAN,Khoản,structure,72059,72114,1- Thực hiện chính sách dân tộc và chính sách tôn giáo;
+ENTITY,E39_299,KHOAN,Khoản,structure,72115,72213,"2- Bảo đảm quyền tự do tín ngưỡng, tôn giáo của nhân dân ở địa phương theo quy định của pháp luật."
+ENTITY,E39_300,KHOAN,Khoản,structure,72312,72501,"1- Căn cứ vào các văn bản của cơ quan nhà nước cấp trên, nghị quyết của Hội đồng nhân dân cùng cấp, ban hành quyết định, chỉ thị và tổ chức thực hiện, kiểm tra việc thi hành các văn bản đó;"
+ENTITY,E39_301,KHOAN,Khoản,structure,72502,72650,"2- Tổ chức thực hiện các biện pháp thi hành Hiến pháp, luật, các văn bản của cơ quan nhà nước cấp trên và nghị quyết của Hội đồng nhân dân cùng cấp;"
+ENTITY,E39_302,KHOAN,Khoản,structure,72651,72708,"3- Tổ chức tuyên truyền, giáo dục pháp luật ở địa phương;"
+ENTITY,E39_303,KHOAN,Khoản,structure,72709,72887,"4- Tổ chức và hướng dẫn hoạt động của các tổ hoà giải, thanh tra nhân dân; kịp thời giải quyết các vi phạm pháp luật và tranh chấp nhỏ trong nhân dân theo quy định của pháp luật;"
+ENTITY,E39_304,KHOAN,Khoản,structure,72888,72948,5- Tổ chức việc đăng ký hộ tịch theo quy định của pháp luật;
+ENTITY,E39_305,KHOAN,Khoản,structure,72949,73181,"6- Thực hiện các biện pháp bảo vệ tài sản của Nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức kinh tế; bảo vệ tính mạng, tự do, danh dự, nhân phẩm, tài sản, các quyền và lợi ích hợp pháp khác của công dân ở địa phương;"
+ENTITY,E39_306,KHOAN,Khoản,structure,73182,73232,7- Kiểm tra việc thực hiện pháp luật trên địa bàn;
+ENTITY,E39_307,KHOAN,Khoản,structure,73233,73336,"8- Tổ chức tiếp dân, xét và giải quyết các khiếu nại, tố cáo và kiến nghị của công dân theo thẩm quyền;"
+ENTITY,E39_308,KHOAN,Khoản,structure,73337,73404,9- Quyết định xử lý vi phạm hành chính theo quy định của pháp luật.
+ENTITY,E39_309,KHOAN,Khoản,structure,73536,73650,"1- Tổ chức và thực hiện công tác bầu cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân theo quy định của pháp luật;"
+ENTITY,E39_310,KHOAN,Khoản,structure,73651,73809,"2- Lập hồ sơ về việc phân vạch, điều chỉnh địa giới hành chính ở địa phương đưa ra Hội đồng nhân dân cùng cấp thông qua để trình cấp trên xét xét, quyết định;"
+ENTITY,E39_311,KHOAN,Khoản,structure,73810,73877,"3- Quản lý hồ sơ, mốc và bản đồ địa giới hành chính của địa phương."
+ENTITY,E39_312,KHOAN,Khoản,structure,74085,74452,"1- Tổ chức thực hiện các nghị quyết của Hội đồng nhân dân phường về việc bảo đảm thực hiện thống nhất kế hoạch phát triển kinh tế - xã hội và quy hoạch đô thị, xây dựng nếp sống văn minh đô thị, phòng, chống các tệ nạn xã hội, giữ gìn trật tự vệ sinh, sạch đẹp khu phố, lòng, lề đường, trật tự công cộng và cảnh quan đô thị; quản lý dân cư đô thị trên địa bàn phường;"
+ENTITY,E39_313,KHOAN,Khoản,structure,74453,74613,"2- Thống kê, theo dõi sự biến động đất đai trên địa bàn phường; thanh tra việc sử dụng đất của tổ chức, cá nhân trên địa bàn phường theo quy định của pháp luật;"
+ENTITY,E39_314,KHOAN,Khoản,structure,74614,75021,"3- Bảo vệ cơ sở hạ tầng kỹ thuật trên địa bàn phường; ngăn chặn, xử lý các hành vi vi phạm đối với các cơ sở hạ tầng kỹ thuật theo quy định của pháp luật; kiểm tra giấy phép xây dựng của tổ chức, cá nhân trên địa bàn phường; lập biên bản, đình chỉ những công trình xây dựng, sửa chữa, cải tạo không có giấy phép, trái với quy định của giấy phép và báo cáo cơ quan nhà nước có thẩm quyền xem xét, quyết định."
+ENTITY,E40_1,DIEM,Điểm,structure,14028,14274,"a) Lập dự toán và phương án phân bổ ngân sách địa phương, dự toán điều chỉnh ngân sách địa phương trong trường hợp cần thiết trình Hội đồng nhân dân cùng cấp quyết định và báo cáo cơ quan hành chính nhà nước, cơ quan tài chính cấp trên trực tiếp;"
+ENTITY,E40_2,DIEM,Điểm,structure,14275,14434,"b) Lập quyết toán ngân sách địa phương trình Hội đồng nhân dân cùng cấp phê chuẩn và báo cáo cơ quan hành chính nhà nước, cơ quan tài chính cấp trên trực tiếp;"
+ENTITY,E40_3,DIEM,Điểm,structure,14435,14754,"c) Xây dựng đề án thu phí, lệ phí, phụ thu và các khoản đóng góp của nhân dân theo quy định của pháp luật; xây dựng đề án phân cấp chi đầu tư xây dựng các công trình kết cấu hạ tầng kinh tế - xã hội của địa phương trình Hội đồng nhân dân cùng cấp quyết định; tổ chức, chỉ đạo thực hiện sau khi các đề án được thông qua;"
+ENTITY,E40_4,DIEM,Điểm,structure,14755,14854,d) Kiểm tra nghị quyết của Hội đồng nhân dân cấp dưới về dự toán ngân sách và quyết toán ngân sách;
+ENTITY,E40_5,DIEM,Điểm,structure,14855,15049,"đ) Căn cứ vào nghị quyết của Hội đồng nhân dân cùng cấp, quyết định giao nhiệm vụ thu, chi ngân sách cho từng cơ quan, đơn vị trực thuộc; nhiệm vụ thu, chi và mức bổ sung cho ngân sách cấp dưới;"
+ENTITY,E40_6,DIEM,Điểm,structure,15050,15170,e) Tổ chức thực hiện ngân sách địa phương; bảo đảm thực hiện đúng việc phân bổ ngân sách cho từng lĩnh vực ở địa phương;
+ENTITY,E40_7,DIEM,Điểm,structure,15171,15282,g) Phối hợp với các cơ quan nhà nước cấp trên trong việc quản lý ngân sách nhà nước theo lĩnh vực trên địa bàn;
+ENTITY,E40_8,DIEM,Điểm,structure,15283,15344,h) Báo cáo về ngân sách nhà nước theo quy định của pháp luật;
+ENTITY,E40_9,DIEM,Điểm,structure,42874,43120,"a) Lập dự toán và phương án phân bổ ngân sách địa phương, dự toán điều chỉnh ngân sách địa phương trong trường hợp cần thiết trình Hội đồng nhân dân cùng cấp quyết định và báo cáo cơ quan hành chính nhà nước, cơ quan tài chính cấp trên trực tiếp;"
+ENTITY,E40_10,DIEM,Điểm,structure,43121,43280,"b) Lập quyết toán ngân sách địa phương trình Hội đồng nhân dân cùng cấp phê chuẩn và báo cáo cơ quan hành chính nhà nước, cơ quan tài chính cấp trên trực tiếp;"
+ENTITY,E40_11,DIEM,Điểm,structure,43281,43384,"c) Kiểm tra nghị quyết của Hội đồng nhân dân xã, thị trấn về dự toán ngân sách và quyết toán ngân sách;"
+ENTITY,E40_12,DIEM,Điểm,structure,43385,43579,"d) Căn cứ vào nghị quyết của Hội đồng nhân dân cùng cấp, quyết định giao nhiệm vụ thu, chi ngân sách cho từng cơ quan, đơn vị trực thuộc; nhiệm vụ thu, chi và mức bổ sung cho ngân sách cấp dưới;"
+ENTITY,E40_13,DIEM,Điểm,structure,43580,43622,đ) Tổ chức thực hiện ngân sách địa phương;
+ENTITY,E40_14,DIEM,Điểm,structure,43623,43744,e) Phối hợp với với các cơ quan nhà nước cấp trên trong việc quản lý ngân sách nhà nước theo lĩnh vực trên địa bàn huyện;
+ENTITY,E40_15,DIEM,Điểm,structure,43745,43806,g) Báo cáo về ngân sách nhà nước theo quy định của pháp luật;
+ENTITY,E40_16,DIEM,Điểm,structure,64946,65192,"a) Lập dự toán và phương án phân bổ ngân sách địa phương; dự toán điều chỉnh ngân sách địa phương trong trường hợp cần thiết trình Hội đồng nhân dân cùng cấp quyết định và báo cáo cơ quan hành chính nhà nước, cơ quan tài chính cấp trên trực tiếp;"
+ENTITY,E40_17,DIEM,Điểm,structure,65193,65352,"b) Lập quyết toán ngân sách địa phương trình Hội đồng nhân dân cùng cấp phê chuẩn và báo cáo cơ quan hành chính nhà nước, cơ quan tài chính cấp trên trực tiếp;"
+ENTITY,E40_18,DIEM,Điểm,structure,65353,65490,"c) Căn cứ vào nghị quyết của Hội đồng nhân dân cùng cấp, quyết định giao nhiệm vụ thu, chi ngân sách cho từng cơ quan, đơn vị trực thuộc;"
+ENTITY,E40_19,DIEM,Điểm,structure,65491,65533,d) Tổ chức thực hiện ngân sách địa phương;
+ENTITY,E40_20,DIEM,Điểm,structure,65534,65658,"đ) Phối hợp với các cơ quan nhà nước cấp trên trong việc quản lý ngân sách nhà nước theo lĩnh vực trên địa bàn xã, thị trấn;"
+ENTITY,E40_21,DIEM,Điểm,structure,65659,65720,e) Báo cáo về ngân sách nhà nước theo quy định của pháp luật;
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R7_4,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_4,E2_1,,
+RELATION,R7_5,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_5,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E30_19,E2_1,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E30_20,E2_1,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E30_21,E2_1,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E30_22,E2_1,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E30_23,E2_1,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E30_24,E2_1,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E30_25,E2_1,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E30_26,E2_1,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E30_27,E2_1,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E30_28,E2_1,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E30_29,E2_1,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E30_30,E2_1,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E30_31,E2_1,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E30_32,E2_1,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E30_33,E2_1,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E30_34,E2_1,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E30_35,E2_1,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E30_36,E2_1,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E30_37,E2_1,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E30_38,E2_1,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E30_39,E2_1,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E30_40,E2_1,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E30_41,E2_1,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E30_42,E2_1,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E30_43,E2_1,,
+RELATION,R18_44,AP_DUNG,Áp dụng,E30_44,E2_1,,
+RELATION,R18_45,AP_DUNG,Áp dụng,E30_45,E2_1,,
+RELATION,R18_46,AP_DUNG,Áp dụng,E30_46,E2_1,,
+RELATION,R18_47,AP_DUNG,Áp dụng,E30_47,E2_1,,
+RELATION,R18_48,AP_DUNG,Áp dụng,E30_48,E2_1,,
+RELATION,R18_49,AP_DUNG,Áp dụng,E30_49,E2_1,,
+RELATION,R18_50,AP_DUNG,Áp dụng,E30_50,E2_1,,
+RELATION,R18_51,AP_DUNG,Áp dụng,E30_51,E2_1,,
+RELATION,R18_52,AP_DUNG,Áp dụng,E30_52,E2_1,,
+RELATION,R18_53,AP_DUNG,Áp dụng,E30_53,E2_1,,
+RELATION,R18_54,AP_DUNG,Áp dụng,E30_54,E2_1,,
+RELATION,R18_55,AP_DUNG,Áp dụng,E30_55,E2_1,,
+RELATION,R18_56,AP_DUNG,Áp dụng,E30_56,E2_1,,
+RELATION,R18_57,AP_DUNG,Áp dụng,E30_57,E2_1,,
+RELATION,R18_58,AP_DUNG,Áp dụng,E30_58,E2_1,,
+RELATION,R18_59,AP_DUNG,Áp dụng,E30_59,E2_1,,
+RELATION,R18_60,AP_DUNG,Áp dụng,E30_60,E2_1,,
+RELATION,R18_61,AP_DUNG,Áp dụng,E30_61,E2_1,,
+RELATION,R18_62,AP_DUNG,Áp dụng,E30_62,E2_1,,
+RELATION,R18_63,AP_DUNG,Áp dụng,E30_63,E2_1,,
+RELATION,R18_64,AP_DUNG,Áp dụng,E30_64,E2_1,,
+RELATION,R18_65,AP_DUNG,Áp dụng,E30_65,E2_1,,
+RELATION,R18_66,AP_DUNG,Áp dụng,E30_66,E2_1,,
+RELATION,R18_67,AP_DUNG,Áp dụng,E30_67,E2_1,,
+RELATION,R18_68,AP_DUNG,Áp dụng,E30_68,E2_1,,
+RELATION,R18_69,AP_DUNG,Áp dụng,E30_69,E2_1,,
+RELATION,R18_70,AP_DUNG,Áp dụng,E30_70,E2_1,,
+RELATION,R18_71,AP_DUNG,Áp dụng,E30_71,E2_1,,
+RELATION,R18_72,AP_DUNG,Áp dụng,E30_72,E2_1,,
+RELATION,R18_73,AP_DUNG,Áp dụng,E30_73,E2_1,,
+RELATION,R18_74,AP_DUNG,Áp dụng,E30_74,E2_1,,
+RELATION,R18_75,AP_DUNG,Áp dụng,E30_75,E2_1,,
+RELATION,R18_76,AP_DUNG,Áp dụng,E30_76,E2_1,,
+RELATION,R18_77,AP_DUNG,Áp dụng,E30_77,E2_1,,
+RELATION,R18_78,AP_DUNG,Áp dụng,E30_78,E2_1,,
+RELATION,R18_79,AP_DUNG,Áp dụng,E30_79,E2_1,,
+RELATION,R18_80,AP_DUNG,Áp dụng,E30_80,E2_1,,
+RELATION,R18_81,AP_DUNG,Áp dụng,E30_81,E2_1,,
+RELATION,R18_82,AP_DUNG,Áp dụng,E30_82,E2_1,,
+RELATION,R18_83,AP_DUNG,Áp dụng,E30_83,E2_1,,
+RELATION,R18_84,AP_DUNG,Áp dụng,E30_84,E2_1,,
+RELATION,R18_85,AP_DUNG,Áp dụng,E30_85,E2_1,,
+RELATION,R18_86,AP_DUNG,Áp dụng,E30_86,E2_1,,
+RELATION,R18_87,AP_DUNG,Áp dụng,E30_87,E2_1,,
+RELATION,R18_88,AP_DUNG,Áp dụng,E30_88,E2_1,,
+RELATION,R18_89,AP_DUNG,Áp dụng,E30_89,E2_1,,
+RELATION,R18_90,AP_DUNG,Áp dụng,E30_90,E2_1,,
+RELATION,R18_91,AP_DUNG,Áp dụng,E30_91,E2_1,,
+RELATION,R18_92,AP_DUNG,Áp dụng,E30_92,E2_1,,
+RELATION,R18_93,AP_DUNG,Áp dụng,E30_93,E2_1,,
+RELATION,R18_94,AP_DUNG,Áp dụng,E30_94,E2_1,,
+RELATION,R18_95,AP_DUNG,Áp dụng,E30_95,E2_1,,
+RELATION,R18_96,AP_DUNG,Áp dụng,E30_96,E2_1,,
+RELATION,R18_97,AP_DUNG,Áp dụng,E30_97,E2_1,,
+RELATION,R18_98,AP_DUNG,Áp dụng,E30_98,E2_1,,
+RELATION,R18_99,AP_DUNG,Áp dụng,E30_99,E2_1,,
+RELATION,R18_100,AP_DUNG,Áp dụng,E30_100,E2_1,,
+RELATION,R18_101,AP_DUNG,Áp dụng,E30_101,E2_1,,
+RELATION,R18_102,AP_DUNG,Áp dụng,E30_102,E2_1,,
+RELATION,R18_103,AP_DUNG,Áp dụng,E30_103,E2_1,,
+RELATION,R18_104,AP_DUNG,Áp dụng,E30_104,E2_1,,
+RELATION,R18_105,AP_DUNG,Áp dụng,E30_105,E2_1,,
+RELATION,R18_106,AP_DUNG,Áp dụng,E30_106,E2_1,,
+RELATION,R18_107,AP_DUNG,Áp dụng,E30_107,E2_1,,
+RELATION,R18_108,AP_DUNG,Áp dụng,E30_108,E2_1,,
+RELATION,R18_109,AP_DUNG,Áp dụng,E30_109,E2_1,,
+RELATION,R18_110,AP_DUNG,Áp dụng,E30_110,E2_1,,
+RELATION,R18_111,AP_DUNG,Áp dụng,E30_111,E2_1,,
+RELATION,R18_112,AP_DUNG,Áp dụng,E30_112,E2_1,,
+RELATION,R18_113,AP_DUNG,Áp dụng,E30_113,E2_1,,
+RELATION,R18_114,AP_DUNG,Áp dụng,E30_114,E2_1,,
+RELATION,R18_115,AP_DUNG,Áp dụng,E30_115,E2_1,,
+RELATION,R18_116,AP_DUNG,Áp dụng,E30_116,E2_1,,
+RELATION,R18_117,AP_DUNG,Áp dụng,E30_117,E2_1,,
+RELATION,R18_118,AP_DUNG,Áp dụng,E30_118,E2_1,,
+RELATION,R18_119,AP_DUNG,Áp dụng,E30_119,E2_1,,
+RELATION,R18_120,AP_DUNG,Áp dụng,E30_120,E2_1,,
+RELATION,R18_121,AP_DUNG,Áp dụng,E30_121,E2_1,,
+RELATION,R18_122,AP_DUNG,Áp dụng,E30_122,E2_1,,
+RELATION,R18_123,AP_DUNG,Áp dụng,E30_123,E2_1,,
+RELATION,R18_124,AP_DUNG,Áp dụng,E30_124,E2_1,,
+RELATION,R18_125,AP_DUNG,Áp dụng,E30_125,E2_1,,
+RELATION,R18_126,AP_DUNG,Áp dụng,E30_126,E2_1,,
+RELATION,R18_127,AP_DUNG,Áp dụng,E30_127,E2_1,,
+RELATION,R18_128,AP_DUNG,Áp dụng,E30_128,E2_1,,
+RELATION,R18_129,AP_DUNG,Áp dụng,E30_129,E2_1,,
+RELATION,R18_130,AP_DUNG,Áp dụng,E30_130,E2_1,,
+RELATION,R18_131,AP_DUNG,Áp dụng,E30_131,E2_1,,
+RELATION,R18_132,AP_DUNG,Áp dụng,E30_132,E2_1,,
+RELATION,R18_133,AP_DUNG,Áp dụng,E30_133,E2_1,,
+RELATION,R18_134,AP_DUNG,Áp dụng,E30_134,E2_1,,
+RELATION,R18_135,AP_DUNG,Áp dụng,E30_135,E2_1,,
+RELATION,R18_136,AP_DUNG,Áp dụng,E30_136,E2_1,,
+RELATION,R18_137,AP_DUNG,Áp dụng,E30_137,E2_1,,
+RELATION,R18_138,AP_DUNG,Áp dụng,E30_138,E2_1,,
+RELATION,R18_139,AP_DUNG,Áp dụng,E30_139,E2_1,,
+RELATION,R18_140,AP_DUNG,Áp dụng,E30_140,E2_1,,
+RELATION,R18_141,AP_DUNG,Áp dụng,E30_141,E2_1,,
+RELATION,R18_142,AP_DUNG,Áp dụng,E30_142,E2_1,,
+RELATION,R18_143,AP_DUNG,Áp dụng,E30_143,E2_1,,
+RELATION,R18_144,AP_DUNG,Áp dụng,E30_144,E2_1,,
+RELATION,R18_145,AP_DUNG,Áp dụng,E30_145,E2_1,,
+RELATION,R18_146,AP_DUNG,Áp dụng,E30_146,E2_1,,
+RELATION,R18_147,AP_DUNG,Áp dụng,E30_147,E2_1,,
+RELATION,R18_148,AP_DUNG,Áp dụng,E30_148,E2_1,,
+RELATION,R18_149,AP_DUNG,Áp dụng,E30_149,E2_1,,
+RELATION,R18_150,AP_DUNG,Áp dụng,E30_150,E2_1,,
+RELATION,R18_151,AP_DUNG,Áp dụng,E30_151,E2_1,,
+RELATION,R18_152,AP_DUNG,Áp dụng,E30_152,E2_1,,
+RELATION,R18_153,AP_DUNG,Áp dụng,E30_153,E2_1,,
+RELATION,R18_154,AP_DUNG,Áp dụng,E30_154,E2_1,,
+RELATION,R18_155,AP_DUNG,Áp dụng,E30_155,E2_1,,
+RELATION,R18_156,AP_DUNG,Áp dụng,E30_156,E2_1,,
+RELATION,R18_157,AP_DUNG,Áp dụng,E30_157,E2_1,,
+RELATION,R18_158,AP_DUNG,Áp dụng,E30_158,E2_1,,
+RELATION,R18_159,AP_DUNG,Áp dụng,E30_159,E2_1,,
+RELATION,R18_160,AP_DUNG,Áp dụng,E30_160,E2_1,,
+RELATION,R18_161,AP_DUNG,Áp dụng,E30_161,E2_1,,
+RELATION,R18_162,AP_DUNG,Áp dụng,E30_162,E2_1,,
+RELATION,R18_163,AP_DUNG,Áp dụng,E30_163,E2_1,,
+RELATION,R18_164,AP_DUNG,Áp dụng,E30_164,E2_1,,
+RELATION,R18_165,AP_DUNG,Áp dụng,E30_165,E2_1,,
+RELATION,R18_166,AP_DUNG,Áp dụng,E30_166,E2_1,,
+RELATION,R18_167,AP_DUNG,Áp dụng,E30_167,E2_1,,
+RELATION,R18_168,AP_DUNG,Áp dụng,E30_168,E2_1,,
+RELATION,R18_169,AP_DUNG,Áp dụng,E30_169,E2_1,,
+RELATION,R18_170,AP_DUNG,Áp dụng,E30_170,E2_1,,
+RELATION,R18_171,AP_DUNG,Áp dụng,E30_171,E2_1,,
+RELATION,R18_172,AP_DUNG,Áp dụng,E30_172,E2_1,,
+RELATION,R18_173,AP_DUNG,Áp dụng,E30_173,E2_1,,
+RELATION,R18_174,AP_DUNG,Áp dụng,E30_174,E2_1,,
+RELATION,R18_175,AP_DUNG,Áp dụng,E30_175,E2_1,,
+RELATION,R18_176,AP_DUNG,Áp dụng,E30_176,E2_1,,
+RELATION,R18_177,AP_DUNG,Áp dụng,E30_177,E2_1,,
+RELATION,R18_178,AP_DUNG,Áp dụng,E30_178,E2_1,,
+RELATION,R18_179,AP_DUNG,Áp dụng,E30_179,E2_1,,
+RELATION,R18_180,AP_DUNG,Áp dụng,E30_180,E2_1,,
+RELATION,R18_181,AP_DUNG,Áp dụng,E30_181,E2_1,,
+RELATION,R18_182,AP_DUNG,Áp dụng,E30_182,E2_1,,
+RELATION,R18_183,AP_DUNG,Áp dụng,E30_183,E2_1,,
+RELATION,R18_184,AP_DUNG,Áp dụng,E30_184,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E36_1,E35_2,,
+RELATION,R22_6,THUOC,Thuộc,E38_5,E36_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_1,E38_5,,
+RELATION,R22_8,THUOC,Thuộc,E39_2,E38_5,,
+RELATION,R22_9,THUOC,Thuộc,E39_3,E38_5,,
+RELATION,R22_10,THUOC,Thuộc,E39_4,E38_5,,
+RELATION,R22_11,THUOC,Thuộc,E39_5,E38_5,,
+RELATION,R22_12,THUOC,Thuộc,E38_6,E36_1,,
+RELATION,R22_13,THUOC,Thuộc,E39_6,E38_6,,
+RELATION,R22_14,THUOC,Thuộc,E39_7,E38_6,,
+RELATION,R22_15,THUOC,Thuộc,E39_8,E38_6,,
+RELATION,R22_16,THUOC,Thuộc,E39_9,E38_6,,
+RELATION,R22_17,THUOC,Thuộc,E39_10,E38_6,,
+RELATION,R22_18,THUOC,Thuộc,E38_7,E36_1,,
+RELATION,R22_19,THUOC,Thuộc,E39_11,E38_7,,
+RELATION,R22_20,THUOC,Thuộc,E39_12,E38_7,,
+RELATION,R22_21,THUOC,Thuộc,E39_13,E38_7,,
+RELATION,R22_22,THUOC,Thuộc,E38_8,E36_1,,
+RELATION,R22_23,THUOC,Thuộc,E39_14,E38_8,,
+RELATION,R22_24,THUOC,Thuộc,E39_15,E38_8,,
+RELATION,R22_25,THUOC,Thuộc,E38_9,E36_1,,
+RELATION,R22_26,THUOC,Thuộc,E39_16,E38_9,,
+RELATION,R22_27,THUOC,Thuộc,E39_17,E38_9,,
+RELATION,R22_28,THUOC,Thuộc,E38_10,E36_1,,
+RELATION,R22_29,THUOC,Thuộc,E39_18,E38_10,,
+RELATION,R22_30,THUOC,Thuộc,E39_19,E38_10,,
+RELATION,R22_31,THUOC,Thuộc,E39_20,E38_10,,
+RELATION,R22_32,THUOC,Thuộc,E39_21,E38_10,,
+RELATION,R22_33,THUOC,Thuộc,E38_11,E36_1,,
+RELATION,R22_34,THUOC,Thuộc,E39_22,E38_11,,
+RELATION,R22_35,THUOC,Thuộc,E39_23,E38_11,,
+RELATION,R22_36,THUOC,Thuộc,E39_24,E38_11,,
+RELATION,R22_37,THUOC,Thuộc,E39_25,E38_11,,
+RELATION,R22_38,THUOC,Thuộc,E39_26,E38_11,,
+RELATION,R22_39,THUOC,Thuộc,E39_27,E38_11,,
+RELATION,R22_40,THUOC,Thuộc,E38_12,E36_1,,
+RELATION,R22_41,THUOC,Thuộc,E39_28,E38_12,,
+RELATION,R22_42,THUOC,Thuộc,E39_29,E38_12,,
+RELATION,R22_43,THUOC,Thuộc,E39_30,E38_12,,
+RELATION,R22_44,THUOC,Thuộc,E38_13,E36_1,,
+RELATION,R22_45,THUOC,Thuộc,E39_31,E38_13,,
+RELATION,R22_46,THUOC,Thuộc,E39_32,E38_13,,
+RELATION,R22_47,THUOC,Thuộc,E39_33,E38_13,,
+RELATION,R22_48,THUOC,Thuộc,E39_34,E38_13,,
+RELATION,R22_49,THUOC,Thuộc,E36_2,E35_2,,
+RELATION,R22_50,THUOC,Thuộc,E38_14,E36_2,,
+RELATION,R22_51,THUOC,Thuộc,E39_35,E38_14,,
+RELATION,R22_52,THUOC,Thuộc,E39_36,E38_14,,
+RELATION,R22_53,THUOC,Thuộc,E40_1,E39_36,,
+RELATION,R22_54,THUOC,Thuộc,E40_2,E39_36,,
+RELATION,R22_55,THUOC,Thuộc,E40_3,E39_36,,
+RELATION,R22_56,THUOC,Thuộc,E40_4,E39_36,,
+RELATION,R22_57,THUOC,Thuộc,E40_5,E39_36,,
+RELATION,R22_58,THUOC,Thuộc,E40_6,E39_36,,
+RELATION,R22_59,THUOC,Thuộc,E40_7,E39_36,,
+RELATION,R22_60,THUOC,Thuộc,E40_8,E39_36,,
+RELATION,R22_61,THUOC,Thuộc,E39_37,E38_14,,
+RELATION,R22_62,THUOC,Thuộc,E39_38,E38_14,,
+RELATION,R22_63,THUOC,Thuộc,E38_15,E36_2,,
+RELATION,R22_64,THUOC,Thuộc,E39_39,E38_15,,
+RELATION,R22_65,THUOC,Thuộc,E39_40,E38_15,,
+RELATION,R22_66,THUOC,Thuộc,E39_41,E38_15,,
+RELATION,R22_67,THUOC,Thuộc,E39_42,E38_15,,
+RELATION,R22_68,THUOC,Thuộc,E39_43,E38_15,,
+RELATION,R22_69,THUOC,Thuộc,E39_44,E38_15,,
+RELATION,R22_70,THUOC,Thuộc,E38_16,E36_2,,
+RELATION,R22_71,THUOC,Thuộc,E39_45,E38_16,,
+RELATION,R22_72,THUOC,Thuộc,E39_46,E38_16,,
+RELATION,R22_73,THUOC,Thuộc,E39_47,E38_16,,
+RELATION,R22_74,THUOC,Thuộc,E39_48,E38_16,,
+RELATION,R22_75,THUOC,Thuộc,E39_49,E38_16,,
+RELATION,R22_76,THUOC,Thuộc,E39_50,E38_16,,
+RELATION,R22_77,THUOC,Thuộc,E39_51,E38_16,,
+RELATION,R22_78,THUOC,Thuộc,E38_17,E36_2,,
+RELATION,R22_79,THUOC,Thuộc,E39_52,E38_17,,
+RELATION,R22_80,THUOC,Thuộc,E39_53,E38_17,,
+RELATION,R22_81,THUOC,Thuộc,E39_54,E38_17,,
+RELATION,R22_82,THUOC,Thuộc,E39_55,E38_17,,
+RELATION,R22_83,THUOC,Thuộc,E38_18,E36_2,,
+RELATION,R22_84,THUOC,Thuộc,E39_56,E38_18,,
+RELATION,R22_85,THUOC,Thuộc,E39_57,E38_18,,
+RELATION,R22_86,THUOC,Thuộc,E39_58,E38_18,,
+RELATION,R22_87,THUOC,Thuộc,E39_59,E38_18,,
+RELATION,R22_88,THUOC,Thuộc,E39_60,E38_18,,
+RELATION,R22_89,THUOC,Thuộc,E38_19,E36_2,,
+RELATION,R22_90,THUOC,Thuộc,E39_61,E38_19,,
+RELATION,R22_91,THUOC,Thuộc,E39_62,E38_19,,
+RELATION,R22_92,THUOC,Thuộc,E39_63,E38_19,,
+RELATION,R22_93,THUOC,Thuộc,E39_64,E38_19,,
+RELATION,R22_94,THUOC,Thuộc,E39_65,E38_19,,
+RELATION,R22_95,THUOC,Thuộc,E39_66,E38_19,,
+RELATION,R22_96,THUOC,Thuộc,E38_20,E36_2,,
+RELATION,R22_97,THUOC,Thuộc,E39_67,E38_20,,
+RELATION,R22_98,THUOC,Thuộc,E39_68,E38_20,,
+RELATION,R22_99,THUOC,Thuộc,E39_69,E38_20,,
+RELATION,R22_100,THUOC,Thuộc,E39_70,E38_20,,
+RELATION,R22_101,THUOC,Thuộc,E38_21,E36_2,,
+RELATION,R22_102,THUOC,Thuộc,E39_71,E38_21,,
+RELATION,R22_103,THUOC,Thuộc,E39_72,E38_21,,
+RELATION,R22_104,THUOC,Thuộc,E39_73,E38_21,,
+RELATION,R22_105,THUOC,Thuộc,E39_74,E38_21,,
+RELATION,R22_106,THUOC,Thuộc,E39_75,E38_21,,
+RELATION,R22_107,THUOC,Thuộc,E39_76,E38_21,,
+RELATION,R22_108,THUOC,Thuộc,E38_22,E36_2,,
+RELATION,R22_109,THUOC,Thuộc,E39_77,E38_22,,
+RELATION,R22_110,THUOC,Thuộc,E39_78,E38_22,,
+RELATION,R22_111,THUOC,Thuộc,E39_79,E38_22,,
+RELATION,R22_112,THUOC,Thuộc,E39_80,E38_22,,
+RELATION,R22_113,THUOC,Thuộc,E38_23,E36_2,,
+RELATION,R22_114,THUOC,Thuộc,E39_81,E38_23,,
+RELATION,R22_115,THUOC,Thuộc,E39_82,E38_23,,
+RELATION,R22_116,THUOC,Thuộc,E39_83,E38_23,,
+RELATION,R22_117,THUOC,Thuộc,E39_84,E38_23,,
+RELATION,R22_118,THUOC,Thuộc,E39_85,E38_23,,
+RELATION,R22_119,THUOC,Thuộc,E39_86,E38_23,,
+RELATION,R22_120,THUOC,Thuộc,E39_87,E38_23,,
+RELATION,R22_121,THUOC,Thuộc,E38_24,E36_2,,
+RELATION,R22_122,THUOC,Thuộc,E39_88,E38_24,,
+RELATION,R22_123,THUOC,Thuộc,E39_89,E38_24,,
+RELATION,R22_124,THUOC,Thuộc,E39_90,E38_24,,
+RELATION,R22_125,THUOC,Thuộc,E39_91,E38_24,,
+RELATION,R22_126,THUOC,Thuộc,E38_25,E36_2,,
+RELATION,R22_127,THUOC,Thuộc,E39_92,E38_25,,
+RELATION,R22_128,THUOC,Thuộc,E39_93,E38_25,,
+RELATION,R22_129,THUOC,Thuộc,E39_94,E38_25,,
+RELATION,R22_130,THUOC,Thuộc,E39_95,E38_25,,
+RELATION,R22_131,THUOC,Thuộc,E38_26,E36_2,,
+RELATION,R22_132,THUOC,Thuộc,E39_96,E38_26,,
+RELATION,R22_133,THUOC,Thuộc,E39_97,E38_26,,
+RELATION,R22_134,THUOC,Thuộc,E39_98,E38_26,,
+RELATION,R22_135,THUOC,Thuộc,E39_99,E38_26,,
+RELATION,R22_136,THUOC,Thuộc,E38_27,E36_2,,
+RELATION,R22_137,THUOC,Thuộc,E39_100,E38_27,,
+RELATION,R22_138,THUOC,Thuộc,E39_101,E38_27,,
+RELATION,R22_139,THUOC,Thuộc,E39_102,E38_27,,
+RELATION,R22_140,THUOC,Thuộc,E39_103,E38_27,,
+RELATION,R22_141,THUOC,Thuộc,E39_104,E38_27,,
+RELATION,R22_142,THUOC,Thuộc,E39_105,E38_27,,
+RELATION,R22_143,THUOC,Thuộc,E39_106,E38_27,,
+RELATION,R22_144,THUOC,Thuộc,E38_28,E36_2,,
+RELATION,R22_145,THUOC,Thuộc,E39_107,E38_28,,
+RELATION,R22_146,THUOC,Thuộc,E39_108,E38_28,,
+RELATION,R22_147,THUOC,Thuộc,E39_109,E38_28,,
+RELATION,R22_148,THUOC,Thuộc,E39_110,E38_28,,
+RELATION,R22_149,THUOC,Thuộc,E39_111,E38_28,,
+RELATION,R22_150,THUOC,Thuộc,E39_112,E38_28,,
+RELATION,R22_151,THUOC,Thuộc,E39_113,E38_28,,
+RELATION,R22_152,THUOC,Thuộc,E39_114,E38_28,,
+RELATION,R22_153,THUOC,Thuộc,E39_115,E38_28,,
+RELATION,R22_154,THUOC,Thuộc,E38_29,E36_2,,
+RELATION,R22_155,THUOC,Thuộc,E39_116,E38_29,,
+RELATION,R22_156,THUOC,Thuộc,E39_117,E38_29,,
+RELATION,R22_157,THUOC,Thuộc,E39_118,E38_29,,
+RELATION,R22_158,THUOC,Thuộc,E39_119,E38_29,,
+RELATION,R22_159,THUOC,Thuộc,E39_120,E38_29,,
+RELATION,R22_160,THUOC,Thuộc,E39_121,E38_29,,
+RELATION,R22_161,THUOC,Thuộc,E39_122,E38_29,,
+RELATION,R22_162,THUOC,Thuộc,E39_123,E38_29,,
+RELATION,R22_163,THUOC,Thuộc,E39_124,E38_29,,
+RELATION,R22_164,THUOC,Thuộc,E38_30,E36_2,,
+RELATION,R22_165,THUOC,Thuộc,E36_3,E35_3,,
+RELATION,R22_166,THUOC,Thuộc,E38_31,E36_3,,
+RELATION,R22_167,THUOC,Thuộc,E39_125,E38_31,,
+RELATION,R22_168,THUOC,Thuộc,E39_126,E38_31,,
+RELATION,R22_169,THUOC,Thuộc,E39_127,E38_31,,
+RELATION,R22_170,THUOC,Thuộc,E39_128,E38_31,,
+RELATION,R22_171,THUOC,Thuộc,E39_129,E38_31,,
+RELATION,R22_172,THUOC,Thuộc,E39_130,E38_31,,
+RELATION,R22_173,THUOC,Thuộc,E39_131,E38_31,,
+RELATION,R22_174,THUOC,Thuộc,E39_132,E38_31,,
+RELATION,R22_175,THUOC,Thuộc,E39_133,E38_31,,
+RELATION,R22_176,THUOC,Thuộc,E38_32,E36_3,,
+RELATION,R22_177,THUOC,Thuộc,E39_134,E38_32,,
+RELATION,R22_178,THUOC,Thuộc,E39_135,E38_32,,
+RELATION,R22_179,THUOC,Thuộc,E39_136,E38_32,,
+RELATION,R22_180,THUOC,Thuộc,E39_137,E38_32,,
+RELATION,R22_181,THUOC,Thuộc,E39_138,E38_32,,
+RELATION,R22_182,THUOC,Thuộc,E38_33,E36_3,,
+RELATION,R22_183,THUOC,Thuộc,E39_139,E38_33,,
+RELATION,R22_184,THUOC,Thuộc,E39_140,E38_33,,
+RELATION,R22_185,THUOC,Thuộc,E39_141,E38_33,,
+RELATION,R22_186,THUOC,Thuộc,E38_34,E36_3,,
+RELATION,R22_187,THUOC,Thuộc,E39_142,E38_34,,
+RELATION,R22_188,THUOC,Thuộc,E39_143,E38_34,,
+RELATION,R22_189,THUOC,Thuộc,E38_35,E36_3,,
+RELATION,R22_190,THUOC,Thuộc,E39_144,E38_35,,
+RELATION,R22_191,THUOC,Thuộc,E39_145,E38_35,,
+RELATION,R22_192,THUOC,Thuộc,E38_36,E36_3,,
+RELATION,R22_193,THUOC,Thuộc,E39_146,E38_36,,
+RELATION,R22_194,THUOC,Thuộc,E39_147,E38_36,,
+RELATION,R22_195,THUOC,Thuộc,E39_148,E38_36,,
+RELATION,R22_196,THUOC,Thuộc,E39_149,E38_36,,
+RELATION,R22_197,THUOC,Thuộc,E38_37,E36_3,,
+RELATION,R22_198,THUOC,Thuộc,E39_150,E38_37,,
+RELATION,R22_199,THUOC,Thuộc,E39_151,E38_37,,
+RELATION,R22_200,THUOC,Thuộc,E39_152,E38_37,,
+RELATION,R22_201,THUOC,Thuộc,E39_153,E38_37,,
+RELATION,R22_202,THUOC,Thuộc,E39_154,E38_37,,
+RELATION,R22_203,THUOC,Thuộc,E38_38,E36_3,,
+RELATION,R22_204,THUOC,Thuộc,E39_155,E38_38,,
+RELATION,R22_205,THUOC,Thuộc,E39_156,E38_38,,
+RELATION,R22_206,THUOC,Thuộc,E39_157,E38_38,,
+RELATION,R22_207,THUOC,Thuộc,E38_39,E36_3,,
+RELATION,R22_208,THUOC,Thuộc,E39_158,E38_39,,
+RELATION,R22_209,THUOC,Thuộc,E39_159,E38_39,,
+RELATION,R22_210,THUOC,Thuộc,E39_160,E38_39,,
+RELATION,R22_211,THUOC,Thuộc,E38_40,E36_3,,
+RELATION,R22_212,THUOC,Thuộc,E38_41,E36_3,,
+RELATION,R22_213,THUOC,Thuộc,E39_161,E38_41,,
+RELATION,R22_214,THUOC,Thuộc,E39_162,E38_41,,
+RELATION,R22_215,THUOC,Thuộc,E39_163,E38_41,,
+RELATION,R22_216,THUOC,Thuộc,E39_164,E38_41,,
+RELATION,R22_217,THUOC,Thuộc,E36_4,E35_3,,
+RELATION,R22_218,THUOC,Thuộc,E38_42,E36_4,,
+RELATION,R22_219,THUOC,Thuộc,E39_165,E38_42,,
+RELATION,R22_220,THUOC,Thuộc,E39_166,E38_42,,
+RELATION,R22_221,THUOC,Thuộc,E40_9,E39_166,,
+RELATION,R22_222,THUOC,Thuộc,E40_10,E39_166,,
+RELATION,R22_223,THUOC,Thuộc,E40_11,E39_166,,
+RELATION,R22_224,THUOC,Thuộc,E40_12,E39_166,,
+RELATION,R22_225,THUOC,Thuộc,E40_13,E39_166,,
+RELATION,R22_226,THUOC,Thuộc,E40_14,E39_166,,
+RELATION,R22_227,THUOC,Thuộc,E40_15,E39_166,,
+RELATION,R22_228,THUOC,Thuộc,E39_167,E38_42,,
+RELATION,R22_229,THUOC,Thuộc,E39_168,E38_42,,
+RELATION,R22_230,THUOC,Thuộc,E39_169,E38_42,,
+RELATION,R22_231,THUOC,Thuộc,E38_43,E36_4,,
+RELATION,R22_232,THUOC,Thuộc,E39_170,E38_43,,
+RELATION,R22_233,THUOC,Thuộc,E39_171,E38_43,,
+RELATION,R22_234,THUOC,Thuộc,E39_172,E38_43,,
+RELATION,R22_235,THUOC,Thuộc,E39_173,E38_43,,
+RELATION,R22_236,THUOC,Thuộc,E38_44,E36_4,,
+RELATION,R22_237,THUOC,Thuộc,E39_174,E38_44,,
+RELATION,R22_238,THUOC,Thuộc,E39_175,E38_44,,
+RELATION,R22_239,THUOC,Thuộc,E39_176,E38_44,,
+RELATION,R22_240,THUOC,Thuộc,E38_45,E36_4,,
+RELATION,R22_241,THUOC,Thuộc,E39_177,E38_45,,
+RELATION,R22_242,THUOC,Thuộc,E39_178,E38_45,,
+RELATION,R22_243,THUOC,Thuộc,E39_179,E38_45,,
+RELATION,R22_244,THUOC,Thuộc,E39_180,E38_45,,
+RELATION,R22_245,THUOC,Thuộc,E39_181,E38_45,,
+RELATION,R22_246,THUOC,Thuộc,E38_46,E36_4,,
+RELATION,R22_247,THUOC,Thuộc,E39_182,E38_46,,
+RELATION,R22_248,THUOC,Thuộc,E39_183,E38_46,,
+RELATION,R22_249,THUOC,Thuộc,E39_184,E38_46,,
+RELATION,R22_250,THUOC,Thuộc,E38_47,E36_4,,
+RELATION,R22_251,THUOC,Thuộc,E39_185,E38_47,,
+RELATION,R22_252,THUOC,Thuộc,E39_186,E38_47,,
+RELATION,R22_253,THUOC,Thuộc,E39_187,E38_47,,
+RELATION,R22_254,THUOC,Thuộc,E39_188,E38_47,,
+RELATION,R22_255,THUOC,Thuộc,E39_189,E38_47,,
+RELATION,R22_256,THUOC,Thuộc,E39_190,E38_47,,
+RELATION,R22_257,THUOC,Thuộc,E39_191,E38_47,,
+RELATION,R22_258,THUOC,Thuộc,E39_192,E38_47,,
+RELATION,R22_259,THUOC,Thuộc,E38_48,E36_4,,
+RELATION,R22_260,THUOC,Thuộc,E39_193,E38_48,,
+RELATION,R22_261,THUOC,Thuộc,E39_194,E38_48,,
+RELATION,R22_262,THUOC,Thuộc,E39_195,E38_48,,
+RELATION,R22_263,THUOC,Thuộc,E38_49,E36_4,,
+RELATION,R22_264,THUOC,Thuộc,E39_196,E38_49,,
+RELATION,R22_265,THUOC,Thuộc,E39_197,E38_49,,
+RELATION,R22_266,THUOC,Thuộc,E39_198,E38_49,,
+RELATION,R22_267,THUOC,Thuộc,E38_50,E36_4,,
+RELATION,R22_268,THUOC,Thuộc,E39_199,E38_50,,
+RELATION,R22_269,THUOC,Thuộc,E39_200,E38_50,,
+RELATION,R22_270,THUOC,Thuộc,E39_201,E38_50,,
+RELATION,R22_271,THUOC,Thuộc,E38_51,E36_4,,
+RELATION,R22_272,THUOC,Thuộc,E39_202,E38_51,,
+RELATION,R22_273,THUOC,Thuộc,E39_203,E38_51,,
+RELATION,R22_274,THUOC,Thuộc,E39_204,E38_51,,
+RELATION,R22_275,THUOC,Thuộc,E39_205,E38_51,,
+RELATION,R22_276,THUOC,Thuộc,E38_52,E36_4,,
+RELATION,R22_277,THUOC,Thuộc,E39_206,E38_52,,
+RELATION,R22_278,THUOC,Thuộc,E39_207,E38_52,,
+RELATION,R22_279,THUOC,Thuộc,E39_208,E38_52,,
+RELATION,R22_280,THUOC,Thuộc,E39_209,E38_52,,
+RELATION,R22_281,THUOC,Thuộc,E39_210,E38_52,,
+RELATION,R22_282,THUOC,Thuộc,E39_211,E38_52,,
+RELATION,R22_283,THUOC,Thuộc,E39_212,E38_52,,
+RELATION,R22_284,THUOC,Thuộc,E38_53,E36_4,,
+RELATION,R22_285,THUOC,Thuộc,E39_213,E38_53,,
+RELATION,R22_286,THUOC,Thuộc,E39_214,E38_53,,
+RELATION,R22_287,THUOC,Thuộc,E39_215,E38_53,,
+RELATION,R22_288,THUOC,Thuộc,E39_216,E38_53,,
+RELATION,R22_289,THUOC,Thuộc,E39_217,E38_53,,
+RELATION,R22_290,THUOC,Thuộc,E39_218,E38_53,,
+RELATION,R22_291,THUOC,Thuộc,E39_219,E38_53,,
+RELATION,R22_292,THUOC,Thuộc,E38_54,E36_4,,
+RELATION,R22_293,THUOC,Thuộc,E39_220,E38_54,,
+RELATION,R22_294,THUOC,Thuộc,E39_221,E38_54,,
+RELATION,R22_295,THUOC,Thuộc,E39_222,E38_54,,
+RELATION,R22_296,THUOC,Thuộc,E39_223,E38_54,,
+RELATION,R22_297,THUOC,Thuộc,E38_55,E36_4,,
+RELATION,R22_298,THUOC,Thuộc,E39_224,E38_55,,
+RELATION,R22_299,THUOC,Thuộc,E39_225,E38_55,,
+RELATION,R22_300,THUOC,Thuộc,E39_226,E38_55,,
+RELATION,R22_301,THUOC,Thuộc,E39_227,E38_55,,
+RELATION,R22_302,THUOC,Thuộc,E38_56,E36_4,,
+RELATION,R22_303,THUOC,Thuộc,E39_228,E38_56,,
+RELATION,R22_304,THUOC,Thuộc,E39_229,E38_56,,
+RELATION,R22_305,THUOC,Thuộc,E39_230,E38_56,,
+RELATION,R22_306,THUOC,Thuộc,E39_231,E38_56,,
+RELATION,R22_307,THUOC,Thuộc,E39_232,E38_56,,
+RELATION,R22_308,THUOC,Thuộc,E36_5,E35_4,,
+RELATION,R22_309,THUOC,Thuộc,E38_57,E36_5,,
+RELATION,R22_310,THUOC,Thuộc,E39_233,E38_57,,
+RELATION,R22_311,THUOC,Thuộc,E39_234,E38_57,,
+RELATION,R22_312,THUOC,Thuộc,E39_235,E38_57,,
+RELATION,R22_313,THUOC,Thuộc,E39_236,E38_57,,
+RELATION,R22_314,THUOC,Thuộc,E39_237,E38_57,,
+RELATION,R22_315,THUOC,Thuộc,E39_238,E38_57,,
+RELATION,R22_316,THUOC,Thuộc,E39_239,E38_57,,
+RELATION,R22_317,THUOC,Thuộc,E39_240,E38_57,,
+RELATION,R22_318,THUOC,Thuộc,E39_241,E38_57,,
+RELATION,R22_319,THUOC,Thuộc,E38_58,E36_5,,
+RELATION,R22_320,THUOC,Thuộc,E39_242,E38_58,,
+RELATION,R22_321,THUOC,Thuộc,E39_243,E38_58,,
+RELATION,R22_322,THUOC,Thuộc,E39_244,E38_58,,
+RELATION,R22_323,THUOC,Thuộc,E39_245,E38_58,,
+RELATION,R22_324,THUOC,Thuộc,E39_246,E38_58,,
+RELATION,R22_325,THUOC,Thuộc,E38_59,E36_5,,
+RELATION,R22_326,THUOC,Thuộc,E39_247,E38_59,,
+RELATION,R22_327,THUOC,Thuộc,E39_248,E38_59,,
+RELATION,R22_328,THUOC,Thuộc,E39_249,E38_59,,
+RELATION,R22_329,THUOC,Thuộc,E39_250,E38_59,,
+RELATION,R22_330,THUOC,Thuộc,E38_60,E36_5,,
+RELATION,R22_331,THUOC,Thuộc,E39_251,E38_60,,
+RELATION,R22_332,THUOC,Thuộc,E39_252,E38_60,,
+RELATION,R22_333,THUOC,Thuộc,E38_61,E36_5,,
+RELATION,R22_334,THUOC,Thuộc,E39_253,E38_61,,
+RELATION,R22_335,THUOC,Thuộc,E39_254,E38_61,,
+RELATION,R22_336,THUOC,Thuộc,E39_255,E38_61,,
+RELATION,R22_337,THUOC,Thuộc,E39_256,E38_61,,
+RELATION,R22_338,THUOC,Thuộc,E38_62,E36_5,,
+RELATION,R22_339,THUOC,Thuộc,E39_257,E38_62,,
+RELATION,R22_340,THUOC,Thuộc,E39_258,E38_62,,
+RELATION,R22_341,THUOC,Thuộc,E39_259,E38_62,,
+RELATION,R22_342,THUOC,Thuộc,E39_260,E38_62,,
+RELATION,R22_343,THUOC,Thuộc,E38_63,E36_5,,
+RELATION,R22_344,THUOC,Thuộc,E39_261,E38_63,,
+RELATION,R22_345,THUOC,Thuộc,E39_262,E38_63,,
+RELATION,R22_346,THUOC,Thuộc,E39_263,E38_63,,
+RELATION,R22_347,THUOC,Thuộc,E38_64,E36_5,,
+RELATION,R22_348,THUOC,Thuộc,E39_264,E38_64,,
+RELATION,R22_349,THUOC,Thuộc,E39_265,E38_64,,
+RELATION,R22_350,THUOC,Thuộc,E39_266,E38_64,,
+RELATION,R22_351,THUOC,Thuộc,E36_6,E35_4,,
+RELATION,R22_352,THUOC,Thuộc,E38_65,E36_6,,
+RELATION,R22_353,THUOC,Thuộc,E39_267,E38_65,,
+RELATION,R22_354,THUOC,Thuộc,E39_268,E38_65,,
+RELATION,R22_355,THUOC,Thuộc,E40_16,E39_268,,
+RELATION,R22_356,THUOC,Thuộc,E40_17,E39_268,,
+RELATION,R22_357,THUOC,Thuộc,E40_18,E39_268,,
+RELATION,R22_358,THUOC,Thuộc,E40_19,E39_268,,
+RELATION,R22_359,THUOC,Thuộc,E40_20,E39_268,,
+RELATION,R22_360,THUOC,Thuộc,E40_21,E39_268,,
+RELATION,R22_361,THUOC,Thuộc,E39_269,E38_65,,
+RELATION,R22_362,THUOC,Thuộc,E39_270,E38_65,,
+RELATION,R22_363,THUOC,Thuộc,E38_66,E36_6,,
+RELATION,R22_364,THUOC,Thuộc,E39_271,E38_66,,
+RELATION,R22_365,THUOC,Thuộc,E39_272,E38_66,,
+RELATION,R22_366,THUOC,Thuộc,E39_273,E38_66,,
+RELATION,R22_367,THUOC,Thuộc,E39_274,E38_66,,
+RELATION,R22_368,THUOC,Thuộc,E39_275,E38_66,,
+RELATION,R22_369,THUOC,Thuộc,E38_67,E36_6,,
+RELATION,R22_370,THUOC,Thuộc,E39_276,E38_67,,
+RELATION,R22_371,THUOC,Thuộc,E39_277,E38_67,,
+RELATION,R22_372,THUOC,Thuộc,E38_68,E36_6,,
+RELATION,R22_373,THUOC,Thuộc,E39_278,E38_68,,
+RELATION,R22_374,THUOC,Thuộc,E39_279,E38_68,,
+RELATION,R22_375,THUOC,Thuộc,E39_280,E38_68,,
+RELATION,R22_376,THUOC,Thuộc,E38_69,E36_6,,
+RELATION,R22_377,THUOC,Thuộc,E39_281,E38_69,,
+RELATION,R22_378,THUOC,Thuộc,E39_282,E38_69,,
+RELATION,R22_379,THUOC,Thuộc,E39_283,E38_69,,
+RELATION,R22_380,THUOC,Thuộc,E38_70,E36_6,,
+RELATION,R22_381,THUOC,Thuộc,E39_284,E38_70,,
+RELATION,R22_382,THUOC,Thuộc,E39_285,E38_70,,
+RELATION,R22_383,THUOC,Thuộc,E39_286,E38_70,,
+RELATION,R22_384,THUOC,Thuộc,E39_287,E38_70,,
+RELATION,R22_385,THUOC,Thuộc,E39_288,E38_70,,
+RELATION,R22_386,THUOC,Thuộc,E38_71,E36_6,,
+RELATION,R22_387,THUOC,Thuộc,E39_289,E38_71,,
+RELATION,R22_388,THUOC,Thuộc,E39_290,E38_71,,
+RELATION,R22_389,THUOC,Thuộc,E39_291,E38_71,,
+RELATION,R22_390,THUOC,Thuộc,E38_72,E36_6,,
+RELATION,R22_391,THUOC,Thuộc,E39_292,E38_72,,
+RELATION,R22_392,THUOC,Thuộc,E39_293,E38_72,,
+RELATION,R22_393,THUOC,Thuộc,E39_294,E38_72,,
+RELATION,R22_394,THUOC,Thuộc,E38_73,E36_6,,
+RELATION,R22_395,THUOC,Thuộc,E39_295,E38_73,,
+RELATION,R22_396,THUOC,Thuộc,E39_296,E38_73,,
+RELATION,R22_397,THUOC,Thuộc,E39_297,E38_73,,
+RELATION,R22_398,THUOC,Thuộc,E38_74,E36_6,,
+RELATION,R22_399,THUOC,Thuộc,E39_298,E38_74,,
+RELATION,R22_400,THUOC,Thuộc,E39_299,E38_74,,
+RELATION,R22_401,THUOC,Thuộc,E38_75,E36_6,,
+RELATION,R22_402,THUOC,Thuộc,E39_300,E38_75,,
+RELATION,R22_403,THUOC,Thuộc,E39_301,E38_75,,
+RELATION,R22_404,THUOC,Thuộc,E39_302,E38_75,,
+RELATION,R22_405,THUOC,Thuộc,E39_303,E38_75,,
+RELATION,R22_406,THUOC,Thuộc,E39_304,E38_75,,
+RELATION,R22_407,THUOC,Thuộc,E39_305,E38_75,,
+RELATION,R22_408,THUOC,Thuộc,E39_306,E38_75,,
+RELATION,R22_409,THUOC,Thuộc,E39_307,E38_75,,
+RELATION,R22_410,THUOC,Thuộc,E39_308,E38_75,,
+RELATION,R22_411,THUOC,Thuộc,E38_76,E36_6,,
+RELATION,R22_412,THUOC,Thuộc,E39_309,E38_76,,
+RELATION,R22_413,THUOC,Thuộc,E39_310,E38_76,,
+RELATION,R22_414,THUOC,Thuộc,E39_311,E38_76,,
+RELATION,R22_415,THUOC,Thuộc,E38_77,E36_6,,
+RELATION,R22_416,THUOC,Thuộc,E39_312,E38_77,,
+RELATION,R22_417,THUOC,Thuộc,E39_313,E38_77,,
+RELATION,R22_418,THUOC,Thuộc,E39_314,E38_77,,
+RELATION,R22_419,THUOC,Thuộc,E38_78,E35_5,,

@@ -1,0 +1,61 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,81,"Luật Sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt số 70/2014/QH13"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,69,81,70/2014/QH13
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,3952,3961,Tài chính
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,179,204,ngày 26 tháng 11 năm 2014
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,3974,3988,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1367,1392,ngày 01 tháng 01 năm 2016
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,4010,4020,2026-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,4044,4064,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,351,359,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,3849,3866,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,3874,3890,Nguyễn Sinh Hùng
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,300,349,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,407,450,Luật Thuế tiêu thụ đặc biệt số 27/2008/QH12
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,300,349,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4114,4333,Thông tư số 83/2016/TT-BTC Hướng dẫn thực hiện ưu đãi đầu tư theo quy định của Luật đầu tư và Nghị định số 118/2015/NĐ-CP ngày 12/11/2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật đầu tư
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4383,4563,"Nghị định số 108/2015/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt"
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4613,4750,"Thông tư liên tịch số 64/2015/TTLT-BTC-BCT-BCA-BQP Quy định chế độ hóa đơn, chứng từ đối với hàng hóa nhập khẩu lưu thông trên thị trường"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,4801,4992,"Thông tư số 20/2017/TT-BTC Sửa đổi , bổ sung Khoản 2 Điều 8 Thông tư số 195/2015/TT- BTC ngày 24/11/2015 của Bộ Tài Chính ( đã được sửa đổi bổ sung theo Thông tư số 130/2016 của Bộ Tài Chính)"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,5014,5095,Thông tư số 84/2014/TT-BTC Hướng dẫn xây dựng dự toán ngân sách nhà nước năm 2015
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,5117,5297,"Nghị định số 108/2015/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,5317,5497,"Nghị định số 108/2015/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,5517,5612,"Lệnh số 30/2014/L-CTN Công bố Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,5632,5932,"Thông tư số 27/2021/TT-BTC Sửa đổi, bổ sung một số điều tại Thông tư số 19/2014/TT-BTC ngày 11 tháng 02 năm 2014 của Bộ trưởng Bộ Tài chính quy định thủ tục tạm nhập khẩu, tái xuất khẩu, tiêu hủy, chuyển nhượng xe ô tô, xe hai bánh gắn máy của đối tượng được hưởng quyền ưu đãi, miễn trừ tại Việt Nam"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,5952,6234,"Thông tư số 39/2018/TT-BTC Sửa đổi, bổ sung một số điều tại Thông tư số 38/2015/TT-BTC ngày 25 tháng 3 năm 2015 của Bộ trưởng Bộ Tài chính quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,6254,6473,Thông tư số 83/2016/TT-BTC Hướng dẫn thực hiện ưu đãi đầu tư theo quy định của Luật đầu tư và Nghị định số 118/2015/NĐ-CP ngày 12/11/2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật đầu tư
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,6493,6630,"Thông tư liên tịch số 64/2015/TTLT-BTC-BCT-BCA-BQP Quy định chế độ hóa đơn, chứng từ đối với hàng hóa nhập khẩu lưu thông trên thị trường"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,6650,6756,Quyết định số 42/2022/QĐ-UBND Ban hành Bảng giá tính thuế tài nguyên năm 2023 trên địa bàn tỉnh Bình Dương
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,6776,7113,"Thông tư số 29/2025/TT-BTC Sửa đổi, bổ sung một số điều của Thông tư số 191/2015/TT-BTC ngày 24 tháng 11 năm 2015 quy định thủ tục hải quan đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh gửi qua dịch vụ chuyển phát nhanh quốc tế đã được sửa đổi, bổ sung tại Thông tư số 56/2019/TT-BTC ngày 23 tháng 8 năm 2019 của Bộ trưởng Bộ Tài chính"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,7133,7423,"THÔNG TƯ SỐ 93/2018/TT-BTC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU TẠI THÔNG TƯ SỐ 19/2014/TT-BTC NGÀY 11/02/2014 CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH QUY ĐỊNH THỦ TỤC TẠM NHẬP KHẨU, TÁI XUẤT KHẨU, TIÊU HỦY, CHUYỂN NHƯỢNG XE Ô TÔ, XE HAI BÁNH GẮN MÁY CỦA ĐỐI TƯỢNG ĐƯỢC HƯỞNG QUYỀN ƯU ĐÃI, MIỄN TRỪ TẠI VIỆT NAM"
+ENTITY,E38_1,DIEU,Điều,structure,452,458,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,3652,3658,Điều 2
+ENTITY,E39_1,KHOAN,Khoản,structure,522,563,1. Sửa đổi điểm g khoản 1 Điều 2 như sau:
+ENTITY,E39_2,KHOAN,Khoản,structure,584,632,"2. Khoản 3 Điều 3 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,789,838,"3. Đoạn đầu Điều 6 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,1054,1094,"4. Điều 7 được sửa đổi, bổ sung như sau:"
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_3,E2_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E25_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_6,THUOC,Thuộc,E11_1,E10_1,,

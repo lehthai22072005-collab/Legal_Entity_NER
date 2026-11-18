@@ -1,0 +1,66 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,313,446,"NGHỊ QUYẾT
+Hướng dẫn áp dụng Điều 201 của Bộ luật Hình sự
+và việc xét xử vụ án hình sự về tội cho vay lãi nặng trong giao dịch dân sự"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,263,278,01/2021/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,313,323,NGHỊ QUYẾT
+ENTITY,E4_1,NGANH,Ngành,metadata,7757,7763,Tòa án
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,287,312,ngày 20 tháng 12 năm 2021
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,7697,7711,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,7303,7328,ngày 24 tháng 12 năm 2021
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,7735,7747,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,172,195,TÒA ÁN NHÂN DÂN TỐI CAO
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,7600,7608,CHÁNH ÁN
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,7617,7632,Nguyễn Hòa Bình
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,596,628,Bộ luật Hình sự số 100/2015/QH13
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,497,551,Luật Tổ chức Tòa án nhân dân ngày 24 tháng 11 năm 2014
+ENTITY,E38_1,DIEU,Điều,structure,868,894,Điều 1. Phạm vi điều chỉnh
+ENTITY,E38_2,DIEU,Điều,structure,1149,1173,Điều 2. Về một số từ ngữ
+ENTITY,E38_3,DIEU,Điều,structure,1806,1893,Điều 3. Nguyên tắc xử lý đối với người phạm tội cho vay lãi nặng trong giao dịch dân sự
+ENTITY,E38_4,DIEU,Điều,structure,2359,2405,Điều 4. Xác định tư cách tố tụng của người vay
+ENTITY,E38_5,DIEU,Điều,structure,2640,2696,"Điều 5. Xử lý vật, tiền liên quan trực tiếp đến tội phạm"
+ENTITY,E38_6,DIEU,Điều,structure,3318,3389,Điều 6. Xác định số tiền thu lợi bất chính để xử lý trách nhiệm hình sự
+ENTITY,E38_7,DIEU,Điều,structure,4473,4540,Điều 7. Truy cứu trách nhiệm hình sự trong một số trường hợp cụ thể
+ENTITY,E38_8,DIEU,Điều,structure,7143,7168,Điều 8. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,1174,1350,"1. ""Cho vay lãi nặng"" là trường hợp bên cho vay cho bên vay vay tiền với mức lãi suất gấp 05 lần trở lên mức lãi suất cao nhất quy định tại khoản 1 Điều 468 của Bộ luật Dân sự."
+ENTITY,E39_2,KHOAN,Khoản,structure,1510,1667,"2. ""Thu lợi bất chính"" là số tiền lãi vượt quá mức lãi suất vay cao nhất theo quy định của Bộ luật Dân sự và các khoản thu trái pháp luật khác của người vay."
+ENTITY,E39_3,KHOAN,Khoản,structure,1894,1969,1. Tuân thủ các nguyên tắc cơ bản của pháp luật hình sự và tố tụng hình sự.
+ENTITY,E39_4,KHOAN,Khoản,structure,1970,2215,"2. Xem xét áp dụng nghiêm khắc hình phạt tiền là hình phạt chính đối với người thực hiện hành vi phạm tội. Trường hợp phạm tội có tính chất chuyên nghiệp, hoạt động dưới hình thức băng, ổ nhóm thì xem xét áp dụng hình phạt tù là hình phạt chính."
+ENTITY,E39_5,KHOAN,Khoản,structure,2216,2358,3. Trường hợp hình phạt chính được áp dụng không phải hình phạt tiền thì phải xem xét áp dụng nghiêm khắc hình phạt bổ sung là hình phạt tiền.
+ENTITY,E39_6,KHOAN,Khoản,structure,2697,2735,1. Tịch thu sung quỹ nhà nước đối với:
+ENTITY,E39_7,KHOAN,Khoản,structure,3027,3317,"2. Trả lại cho người vay tiền thu lợi bất chính mà người phạm tội thực tế đã thu, trừ trường hợp người vay sử dụng tiền vay vào mục đích bất hợp pháp (như đánh bạc, mua bán trái phép chất ma túy, lừa đảo chiếm đoạt tài sản, …) thì khoản tiền thu lợi bất chính bị tịch thu sung quỹ nhà nước."
+ENTITY,E39_8,KHOAN,Khoản,structure,4541,5027,"1. Trường hợp người thực hiện nhiều lần hành vi cho vay lãi nặng, mà số tiền thu lợi bất chính của mỗi lần phạm tội từ 30.000.000 đồng trở lên, nếu mỗi lần phạm tội đều chưa bị truy cứu trách nhiệm hình sự và chưa hết thời hiệu truy cứu trách nhiệm hình sự, thì ngoài việc bị áp dụng khung hình phạt tương ứng với tổng số tiền thu lợi bất chính, họ còn bị áp dụng tình tiết tăng nặng trách nhiệm hình sự ""phạm tội 02 lần trở lên"" quy định tại điểm g khoản 1 Điều 52 của Bộ luật Hình sự."
+ENTITY,E39_9,KHOAN,Khoản,structure,5028,5588,"2. Trường hợp người thực hiện nhiều lần hành vi cho vay lãi nặng mà các lần thu lợi bất chính đều dưới 30.000.000 đồng nhưng tổng số tiền thu lợi bất chính từ 30.000.000 đồng trở lên và các hành vi này chưa lần nào bị xử phạt vi phạm hành chính, chưa hết thời hiệu xử phạt vi phạm hành chính, thì bị truy cứu trách nhiệm hình sự với khung hình phạt tương ứng với tổng số tiền thu lợi bất chính của các lần cho vay lãi nặng, không áp dụng tình tiết tăng nặng trách nhiệm hình sự ""phạm tội 02 lần trở lên"" quy định tại điểm g khoản 1 Điều 52 của Bộ luật Hình sự."
+ENTITY,E39_10,KHOAN,Khoản,structure,5589,6265,"3. Trường hợp người thực hiện nhiều lần hành vi cho vay lãi nặng, trong đó có một lần cho vay lãi nặng, thu lợi bất chính từ 30.000.000 đồng trở lên và hành vi cho vay lãi nặng này chưa hết thời hiệu truy cứu trách nhiệm hình sự; còn các hành vi cho vay lãi nặng khác thu lợi bất chính dưới 30.000.000 đồng, các hành vi này chưa bị xử phạt vi phạm hành chính và chưa hết thời hiệu xử phạt vi phạm hành chính, thì bị truy cứu trách nhiệm hình sự với khung hình phạt tương ứng với tổng số tiền thu lợi bất chính của các lần cho vay lãi nặng, không áp dụng tình tiết tăng nặng trách nhiệm hình sự ""phạm tội 02 lần trở lên"" quy định tại điểm g khoản 1 Điều 52 của Bộ luật Hình sự."
+ENTITY,E39_11,KHOAN,Khoản,structure,6266,6602,"4. Trường hợp người cho vay lãi nặng thực hiện nhiều hành vi khác nhau liên quan đến việc đòi nợ (như: dùng vũ lực, đe dọa dùng vũ lực, uy hiếp tinh thần, gây thương tích, gây tổn hại sức khỏe hoặc có hành vi khác để lấy tài sản,…) thì tùy từng trường hợp họ còn bị xử lý hình sự về tội phạm tương ứng, nếu đủ yếu tố cấu thành tội phạm."
+ENTITY,E39_12,KHOAN,Khoản,structure,6603,7142,"5. Trường hợp người cho vay lãi nặng nhằm thu lợi bất chính từ 30.000.000 đồng trở lên, nhưng vì nguyên nhân ngoài ý muốn mà người cho vay chưa thu lợi bất chính hoặc đã thu lợi bất chính dưới 30.000.000 đồng, thì bị truy cứu trách nhiệm hình sự theo khung hình phạt tương ứng với tổng số tiền thu lợi bất chính mà họ nhằm đạt được. Việc xác định số tiền thu lợi bất chính được thực hiện theo hướng dẫn tại Điều 6 Nghị quyết này. Khi quyết định hình phạt, Tòa án áp dụng Điều 15 và khoản 3 Điều 57 của Bộ luật Hình sự về phạm tội chưa đạt."
+ENTITY,E39_13,KHOAN,Khoản,structure,7169,7329,1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 30 tháng 9 năm 2021 và có hiệu lực thi hành kể từ ngày 24 tháng 12 năm 2021.
+ENTITY,E39_14,KHOAN,Khoản,structure,7330,7576,"2. Trường hợp người phạm tội đã bị xét xử trước ngày Nghị quyết này có hiệu lực theo đúng các quy định, hướng dẫn trước đây và bản án đã có hiệu lực pháp luật thì không căn cứ vào Nghị quyết này để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm."
+ENTITY,E40_1,DIEM,Điểm,structure,2736,2795,"a) Khoản tiền, tài sản khác người phạm tội dùng để cho vay;"
+ENTITY,E40_2,DIEM,Điểm,structure,2796,2912,b) Tiền lãi tương ứng mức lãi suất cao nhất theo quy định của Bộ luật Dân sự mà người phạm tội đã thu của người vay.
+ENTITY,E40_3,DIEM,Điểm,structure,2913,3026,"c) Tiền, tài sản khác mà người phạm tội có thêm được từ việc sử dụng tiền lãi và các khoản thu bất hợp pháp khác."
+ENTITY,E40_4,DIEM,Điểm,structure,3390,3729,1. Trường hợp cho vay lãi nặng đã hết thời hạn vay theo thỏa thuận thì số tiền thu lợi bất chính để xác định trách nhiệm hình sự bao gồm tiền lãi và các khoản thu trái pháp luật khác mà người vay phải trả cho người cho vay sau khi trừ đi số tiền lãi tương ứng với mức lãi suất cao nhất theo quy định của Bộ luật Dân sự trong cả kỳ hạn vay.
+ENTITY,E40_5,DIEM,Điểm,structure,3730,4131,2. Trường hợp cho vay lãi nặng chưa hết thời hạn vay theo thỏa thuận mà bị phát hiện thì số tiền thu lợi bất chính để xác định trách nhiệm hình sự bao gồm tiền lãi và các khoản thu trái pháp luật khác mà người vay phải trả cho người cho vay sau khi trừ đi số tiền lãi tương ứng với mức lãi suất cao nhất theo quy định của Bộ luật Dân sự tính đến thời điểm cơ quan có thẩm quyền phát hiện và ngăn chặn.
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_3,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_5,,
+RELATION,R22_7,THUOC,Thuộc,E40_1,E39_6,,
+RELATION,R22_8,THUOC,Thuộc,E40_2,E39_6,,
+RELATION,R22_9,THUOC,Thuộc,E40_3,E39_6,,
+RELATION,R22_10,THUOC,Thuộc,E39_7,E38_5,,
+RELATION,R22_11,THUOC,Thuộc,E40_4,E38_6,,
+RELATION,R22_12,THUOC,Thuộc,E40_5,E38_6,,
+RELATION,R22_13,THUOC,Thuộc,E39_8,E38_7,,
+RELATION,R22_14,THUOC,Thuộc,E39_9,E38_7,,
+RELATION,R22_15,THUOC,Thuộc,E39_10,E38_7,,
+RELATION,R22_16,THUOC,Thuộc,E39_11,E38_7,,
+RELATION,R22_17,THUOC,Thuộc,E39_12,E38_7,,
+RELATION,R22_18,THUOC,Thuộc,E39_13,E38_8,,
+RELATION,R22_19,THUOC,Thuộc,E39_14,E38_8,,
+RELATION,R22_20,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_21,THUOC,Thuộc,E11_1,E10_1,,

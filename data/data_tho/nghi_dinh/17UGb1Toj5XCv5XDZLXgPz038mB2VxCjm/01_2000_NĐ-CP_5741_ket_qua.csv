@@ -1,0 +1,266 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,200,271,"NGHỊ ĐỊNH CỦA CHÍNH PHỦ
+Ban hành quy chế phát hành trái phiếu Chính phủ"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,152,165,01/2000/NĐ-CP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,540,549,NGHỊ ĐỊNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,174,199,ngày 13 tháng 01 năm 2000
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,20029,20043,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,678,773,sau 15 ngày kể từ ngày ký và thay thế Nghị định số 72/CP ngày 26 tháng 7 năm 1994 của Chính phủ
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,20065,20075,2003-12-09
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,20099,20119,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,272,281,CHÍNH PHỦ
+ENTITY,E11_2,CHUC_DANH,Chức danh,metadata,1053,1066,PHÓ THỦ TƯỚNG
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1084,1099,Nguyễn Tấn Dũng
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,289,337,luật tổ chức Chính phủ ngày 30 tháng 9 năm 1992;
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,345,394,Luật Ngân sách nhà nước ngày 20 tháng 3 năm 1996;
+ENTITY,E19_4,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,402,498,"Luật sửa đổi, bổ sung một số điều của Luật Ngân sách Nhà nước số 06/QH10 ngày 20 thág 5 năm1998;"
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,19135,19310,"Quyết định số 156/2003/QĐ-BTC của Bộ trưởng Bộ Tài chính về việc phát hành trái phiếu Chính phủ đợt 1 để đầu tư một số công trình giao thông, thuỷ lợi quan trọng của đất nước."
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,19360,19451,Quyết định số 135/2001/QĐ-BTC Về việc phát hành trái phiếu đầu tư của quỹ hỗ trợ phát triển
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,19501,19689,"Quyết định số 155/2003/QĐ-BTC của Bộ trưởng Bộ Tài chính về việc phát hành trái phiếu Chính phủ đợt I bằng ngoại tệ để đầu tư một số công trình giao thông, thuỷ lợi quan trọng của đất nước"
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,19739,19826,Quyết định số 20/2001/QĐ-BTC V/v phát hành trái phiếu kho bạc theo hình thức chiết khấu
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,19876,20016,"Nghị định số 141/2003/NĐ-CP Về việc phát hành trái phiếu Chính phủ, trái phiếu được Chính phủ bảo lãnh và trái phiếu Chính quyền địa phương."
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18861,18953,Thông tư số 39/2000/TT-BTC Hướng dẫn việc phát hành tín phiếu kho bạc qua ngân sách nhà nước
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18975,19085,Thông tư số 68/2000/TT-BTC hướng dẫn chi tiết một số điểm về bảo hành và đại lý phát hành trái phiếu chính phủ
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,17250,17346,Quyết định số 20/2001/QÐ-BTC về việc phát hành trái phiếu kho bạc theo hình thức thuế triết khấu
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,17366,17498,Quyết định số 59/2000/QĐ-UBCK Về việc ban hành Quy chế đấu thầu trái phiếu Chính phủ qua thị trường giao dịch chứng khoán tập trung.
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,17518,17622,Quyết định số 53/2001/QĐ-NHNN Về việc ban hành Quy chế đấu thầu tín phiếu Kho bạc tại Ngân hàng Nhà nước
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,17642,17733,Quyết định số 135/2001/QĐ-BTC Về việc phát hành trái phiếu đầu tư của quỹ hỗ trợ phát triển
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,17753,17894,"Quyết định số 182/2003/QĐ-TTg Về việc phát hành trái phiếu Chính phủ để đầu tư một số công trình giao thông, thuỷ lợi quan trọng của đất nước"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,17914,18005,Quyết định số 135/2001/QÐ-BTC về việc phát hành trái phiếu đầu tư của Quỹ hỗ trợ phát triển
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,18025,18112,Quyết định số 20/2001/QĐ-BTC V/v phát hành trái phiếu kho bạc theo hình thức chiết khấu
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,18132,18250,Thông tư số 55/2000/TT-BTC Hướng dẫn việc đấu thầu trái phiếu Chính phủ qua thị trường giao dịch chứng khoán tập trung
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,18270,18458,"Quyết định số 155/2003/QĐ-BTC của Bộ trưởng Bộ Tài chính về việc phát hành trái phiếu Chính phủ đợt I bằng ngoại tệ để đầu tư một số công trình giao thông, thuỷ lợi quan trọng của đất nước"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,18478,18644,Thông tư số 58/2000/TT-BTC Hướng dẫn thực hiện một số điểm của Nghị định 01/2000/nđ-cp ngày 13/1/2000 của chính phủ về ban hành quy chế phát hành trái phiếu chính phủ
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,18664,18839,"Quyết định số 156/2003/QĐ-BTC của Bộ trưởng Bộ Tài chính về việc phát hành trái phiếu Chính phủ đợt 1 để đầu tư một số công trình giao thông, thuỷ lợi quan trọng của đất nước."
+ENTITY,E35_1,CHUONG,Chương,structure,1221,1229,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,6952,6961,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,14453,14463,CHƯƠNG III
+ENTITY,E36_1,MUC,Mục,structure,6992,7016,Mục I. Tín phiếu kho bạc
+ENTITY,E36_2,MUC,Mục,structure,8315,8341,Mục II. Trái phiếu kho bạc
+ENTITY,E36_3,MUC,Mục,structure,11546,11572,Mục III. Trái phiếu đầu tư
+ENTITY,E38_1,DIEU,Điều,structure,551,634,Điều 1. Ban hành kèm theo nghị định này Quy chế phát hành trái phiếu của Chính phủ.
+ENTITY,E38_2,DIEU,Điều,structure,635,774,Điều 2. Nghị định này có hiệu lực thi hành sau 15 ngày kể từ ngày ký và thay thế Nghị định số 72/CP ngày 26 tháng 7 năm 1994 của Chính phủ.
+ENTITY,E38_3,DIEU,Điều,structure,1251,1276,Điều 1.Phạm vi điều chỉnh
+ENTITY,E38_4,DIEU,Điều,structure,1430,1457,Điều 2.Giải thích thuật ngữ
+ENTITY,E38_5,DIEU,Điều,structure,3006,3042,Điều 3.Các loại trái phiếu Chính phủ
+ENTITY,E38_6,DIEU,Điều,structure,3835,3862,Điếu 4.Phát hành trái phiếu
+ENTITY,E38_7,DIEU,Điều,structure,4934,5253,"Điều 5.Đối tượng được tham gia mua trái phiếu Chính phủ là các tổ chức, cá nhân ViệtNam, người Việt Nam định cư ở nước ngoài, các tổ chức, cá nhân nước ngoài làmviệc và sinh sống hợp pháp tại Việt Nam. Đối với các tổ chức của Việt Nam khôngđược dùng nguồn kinh phí do ngân sách nhà nước cấp để mua trái phiếu Chính Phủ."
+ENTITY,E38_8,DIEU,Điều,structure,5254,5308,Điều 6.Quyền lợi của người sở hữu trái phiếu Chính phủ
+ENTITY,E38_9,DIEU,Điều,structure,5555,5694,Điều 7.Trái phiếu Chính phủ không được dùng để thay thế tiền trong lưu thông và thựchiện các nghĩa vụ tài chính đối với ngân sách nhà nước.
+ENTITY,E38_10,DIEU,Điều,structure,5695,5885,Điều 8.Chủ sở hữu trái phiếu Chính phủ được lưu ký trái phiếu tại các tổ chức đượcphép lưu ký chứng khoán theo quy định của pháp luật hiện hành hoặc được gửi tạikho bạc nhà nước để bảo quản.
+ENTITY,E38_11,DIEU,Điều,structure,5886,6198,"Điều 9.Trái phiếu chính phủ có thời hạn từ 1 năm trở lên được niêm yết, giao dịch tạithị trường giao dịch chứng khoán tập trung (Trung tâm Giao dịch chứng khoán, Sởgiao dịch chứng khoán).Việc niêm yết và giao dịch trái phiếu được thực hiệntheo các quy định của pháp luật về chứng khoán và thị trường chứng khoán."
+ENTITY,E38_12,DIEU,Điều,structure,6199,6507,"Điều 10.Chủ sở hữu trái phiếu Chính phủ có trách nhiệm giữ gìn, bảo quản tờ trái phiếucủa mình. Những tờ trái phiếu làm giả hoặc bị rách nát, hư hỏng, không còn giữđược hình dạng, nội dung sẽ không được thanh toán. Bộ Tài chính hướng dẫn cụthể các trường hợp trái phiếu Chính phủ không có giá trị thanh toán."
+ENTITY,E38_13,DIEU,Điều,structure,6508,6550,"Điều 11. Mất,thất lạc trái phiếu Chính phủ"
+ENTITY,E38_14,DIEU,Điều,structure,6850,6951,"Điều 12.Mọi hành vi lợi dụng, phá hoại trái phiếu hoặc làm giả trái phiếu đều bị xử lýtheo pháp luật."
+ENTITY,E38_15,DIEU,Điều,structure,7017,7178,"Điều 13.Tín phiếu kho bạc được phát hành dưới hình thức đấu thầu qua Ngân hàng Nhà nước.
+Khốilượng và lãi suất tín phiếu kho bạc hình thành qua kết quả đấu thầu."
+ENTITY,E38_16,DIEU,Điều,structure,7330,7393,Điều 14.Các đối tượng được tham gia đấu thầu tín phiếu kho bạc.
+ENTITY,E38_17,DIEU,Điều,structure,7777,7983,"Điều 15.Tín phiếu kho bạc được mua, bán trên trị trường tiền tệ hoặc chiết khấu tại SởGiao dịch Ngân hàng Nhà nước. Ngân hàng Nhà nước có trách nhiệm tổ chức quảnlý, điều hành thị ttrường tín phiếu kho bạc."
+ENTITY,E38_18,DIEU,Điều,structure,7984,8066,Điều 16.Toàn bộ khoản vay từ tín phiếu kho bạc tập trung vào ngân sách Trung ương.
+ENTITY,E38_19,DIEU,Điều,structure,8143,8314,"Điều 17.Bộ Tài chính thoả thuận với ngân hàng Nhà nước ban hành quy chế tổ chức đấuthầu tín phiếu kho bạc, các văn bản quy định việc điều hành thị trường tínphiếu kho bạc."
+ENTITY,E38_20,DIEU,Điều,structure,8342,8394,Điều 18.Các phương thức phát hành trái phiếu kho bạc
+ENTITY,E38_21,DIEU,Điều,structure,10062,10109,"Điều 19.Thanh toán gốc, lãi trái phiếu kho bạc."
+ENTITY,E38_22,DIEU,Điều,structure,10494,10572,"Điều 20.Chuyển giao trái phiếu kho bạc khi bán, tặng, cho hoặc để lại thừa kế."
+ENTITY,E38_23,DIEU,Điều,structure,11251,11418,Điều 21.Toàn bộ khoản vay từ trái phiếu kho bạc tập trung vào ngân sách nhà nước để sửdụng cho các nhu cầu chi theo dự án ngân sách Nhà nước đã được Quốc hội phêduyệt.
+ENTITY,E38_24,DIEU,Điều,structure,11419,11545,"Điều 22.Ngân sách trung ương bảo đảm nguồn thanh toán gốc, lãi và phí cho việc tổ chứcphát hành, thanh toán trái phiếu kho bạc"
+ENTITY,E38_25,DIEU,Điều,structure,11573,11627,Điều 23. Tráiphiếu đầu tư huy động vốn cho công trình:
+ENTITY,E38_26,DIEU,Điều,structure,11934,12008,Điều 24. Điềukiện phát hành trái phiếu đầu tư huy động vốn cho công trình:
+ENTITY,E38_27,DIEU,Điều,structure,12767,12922,"Điều 25. Cáckhoản vay từ trái phiếu đầu tư huy động vốn cho công trình được thực hiện đốivới trái phiếu kho bạc quy định tại các Điều 18,19,20 Quy chế này."
+ENTITY,E38_28,DIEU,Điều,structure,12923,13160,Điều 26. Cáckhoản vay từ trái phiếu đầu tư huy động vốn cho công trình được tập trung vàongân sách nhà nước (ngân sách Trung ương và ngân sách cấp tỉnh) để cấp phát chocông trình đã được Thủ tướng Chính phủ phê duyệt phương án phát hành.
+ENTITY,E38_29,DIEU,Điều,structure,13161,13407,"Điều 27. Nguồnthanh toán gốc, lãi và phí tổ chức phát hành, thanh toán trái phiếu đầu tư huyđộng vốn cho công trình do ngân sách nhà nước (ngân sách Trung ương và ngânsách cấp tỉnh) bảo đảm và được bố trí trong kế hoạch đầu tư phát triển hàngnăm."
+ENTITY,E38_30,DIEU,Điều,structure,13646,13805,Điều 28.Việc phát hành trái phiếu đầu tư để huy động vốn cho quỹ hỗ trợ phát triển theokế hoạch tín dụng đầu tư phát triển của nhà nước được thực hiện như sau:
+ENTITY,E38_31,DIEU,Điều,structure,14530,14566,Điều 29.Bộ Tài chính có trách nhiệm:
+ENTITY,E38_32,DIEU,Điều,structure,15371,15413,Điều 30.Ngân hàng Nhà nước có trách nhiệm:
+ENTITY,E38_33,DIEU,Điều,structure,15747,15798,Điều 31.Uỷ ban Chứng khoán Nhà nước có trách nhiệm:
+ENTITY,E38_34,DIEU,Điều,structure,16110,16242,"Điều 32.Các bộ, ngành, Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương có dựán phát hành trái phiếu đầu tư có trách nhiệm:"
+ENTITY,E38_35,DIEU,Điều,structure,16883,16904,Điếu 33.Xử lý vi phạm
+ENTITY,E38_36,DIEU,Điều,structure,850,1036,"Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này."
+ENTITY,E39_1,KHOAN,Khoản,structure,1515,1693,"1.Trái phiếu Chính phủ là một loại chứng khoán, do Bộ Tài chính phát hành, cóthời hạn, có mệnh giá, có lãi, xác nhận nghĩa vụ trả nợ của Chính phủ đối vớingười sở hữu trái phiếu."
+ENTITY,E39_2,KHOAN,Khoản,structure,1694,1775,"2.Phát hành trái phiếu là việc bán trái phiếu Chính phủ cho các cá nhân, tổ chức."
+ENTITY,E39_3,KHOAN,Khoản,structure,1776,1889,3.Bán lẻ qua hệ thống Kho bạc Nhà nước là việc các đơn vị Kho bạc Nhà nước bántrái phiếu trực tiếp cho người mua.
+ENTITY,E39_4,KHOAN,Khoản,structure,1890,2065,"4.Đấu thầu trái phiếu Chính phủ là việc bán trái phiếu cho các tổ chức, cá nhântham gia đấu thầu, đáp ứng đủ các yêu cầu của Bộ Tài chính và có mức lãi suấtđặt thầu thấp nhất."
+ENTITY,E39_5,KHOAN,Khoản,structure,2066,2297,"5.Đại lý phát hành là việc các tổ chức được phép làm đại lý phát hành trái phiếuthoả thuận với Bộ Tài chính nhận bán trái phiếu chính phủ. Trường hợp không bánhết, tổ chức đại lý được trả lại cho Bộ Tài chính số trái phiếu còn lại."
+ENTITY,E39_6,KHOAN,Khoản,structure,2298,2543,"6.Bảo lãnh phát hành là việc tổ chức bảo lãnh giúp Bộ Tài chính thực hiện các thủtục trước khi phát hành trái phiếu Chính phủ ra thị trường, nhận mua trái phiếuChính phủ để bán lại hoặc mua số trái phiếu Chính phủ còn lại chưa được phânphối hết."
+ENTITY,E39_7,KHOAN,Khoản,structure,2544,2724,"7.Lưu ký trái phiếu Chính phủ là việc tổ chức được phép lưu giữ, bảo quản tráiphiếu Chính phủ của khách hàng và giúp khách hàng thực hiện các quyền đối vớitrài phiếu của chính phủ."
+ENTITY,E39_8,KHOAN,Khoản,structure,2725,2875,"8.Đại lý thanh toán trái phiếu Chính phủ là việc các tổ chức được Bộ Tài chính uỷquyền thực hiện thanh toán gốc, lãi trái phiếu Chính phủ khi đến hạn."
+ENTITY,E39_9,KHOAN,Khoản,structure,2876,3005,9.Cầm cố là việc chủ sở hữu trái phiếu Chính phủ giao trái phiếu của mình cho mộtcá nhân hoặc tổ chức để bảo đảm nghĩa vụ dân sự.
+ENTITY,E39_10,KHOAN,Khoản,structure,3043,3229,"1.Tín phiếu kho bạc là loại trái phiếu Chính phủ có thời hạn dưới 1 năm, pháthành với mục đích bù đắp thiếu hụt tạm thời của ngân sách Nhà nước và tạo thêmcông cụ cho thị trường tiền tệ."
+ENTITY,E39_11,KHOAN,Khoản,structure,3230,3417,2.Trái phiếu kho bạc là loại trái phiếu Chính phủ có thời hạn từ 1 năm trở lên đượcphát hành với mục đích huy động vốn theo kế hoạch ngân sách nhà nước hàng nămđã được Quốc hội phê duyệt.
+ENTITY,E39_12,KHOAN,Khoản,structure,3418,3517,"3.Trái phiếu đầu tư là loại trái phiếu Chính phủ có thời hạn từ 1 năm trở lên,bao gồm các loại sau:"
+ENTITY,E39_13,KHOAN,Khoản,structure,3863,4146,1.Trái phiếu chính phủ được phát hành và thanh toán bằng đồng Việt Nam hoặc ngoạitệ. Việc phát hành trái phiếu bằng ngoại tệ chỉ áp dụng cho những dự án đầu tưcó nhu cầu huy động vốn bằng ngoại tệ; Bộ Tài chính xây dựng phương án pháthành cụ thể trình Thủ tướng chính phủ quyết định.
+ENTITY,E39_14,KHOAN,Khoản,structure,4147,4251,"2.Trái phiếu Chính phủ phát hành dưới dạng chứng chỉ hoặc bút toán ghi sổ, có ghitên hoặc không ghi tên."
+ENTITY,E39_15,KHOAN,Khoản,structure,4252,4306,3.Mệnh giá trái phiếu Chính phủ được quy định như sau:
+ENTITY,E39_16,KHOAN,Khoản,structure,4581,4933,"4.Việc phát hành các loại trái phiếu Chính phủ được thực hiện theo từng đợt. BộTài chính quyết định phương thức phát hành, đối tượng phát hành, mức phát hành,mệnh giá, kỳ hạn, lãi suất, các quy định về thanh toán gốc, lãi trái phiếu. Trướcmỗi đợt phát hành trái phiếu, Bộ Tài chính công bố những quy định cụ thể trêncác phương tiện thông tin đại chúng."
+ENTITY,E39_17,KHOAN,Khoản,structure,5309,5394,"1.Được chính phủ bảo đảm thanh toán đầy đủ, đúng hạn gốc và lãi trái phiếu khiđến hạn"
+ENTITY,E39_18,KHOAN,Khoản,structure,5395,5464,"2.Được dùng trái phiếu để bán, tặng, cho, để lại thừa kế hoặc cầm cố."
+ENTITY,E39_19,KHOAN,Khoản,structure,5465,5554,3.Các đối tượng là cá nhân được miễn thuế thu nhập đối với khoản thu nhập bằngtrái phiếu.
+ENTITY,E39_20,KHOAN,Khoản,structure,6551,6621,1.Trái phiếu không ghi tên bị mất hoặc thất lạc không được thanh toán.
+ENTITY,E39_21,KHOAN,Khoản,structure,6622,6849,"2.Trái phiếu có ghi tên bị mất hoặc thất lạc, nếu người làm mất trái phiếu chứngminh được quyền sở hữu trái phiếu của mình và trái phiếu đó chưa bị lợi dụngthanh toán sẽ được cơ quan phát hành giải quyết thanh toán khi đến hạn."
+ENTITY,E39_22,KHOAN,Khoản,structure,7394,7685,"1.Các tổ chức ngân hàng hoạt động tại Việt Nam bao gồm ngân hàng thương mại, ngânhàng phát triển, ngân hàng đầu tư, ngân hàng chính sách, ngân hàng hợp tác,ngân hàng ngân hàng liên doanh, chi nhánh ngân hàng nước ngoài và các loại hìnhngân hàng khác hoạt động theo luật các tổ chức tín dụng."
+ENTITY,E39_23,KHOAN,Khoản,structure,7686,7776,"2.Các công ty tài chính, công ty bảo hiểm, quỹ bảo hiểm, quỹ đầu tư hoạt động tạiViệt Nam."
+ENTITY,E39_24,KHOAN,Khoản,structure,8395,8434,1.Bán lẻ qua hệ thống kho bạc Nhà nước:
+ENTITY,E39_25,KHOAN,Khoản,structure,8611,8669,2.Đấu thầu qua thị trường giao dịch chứng khoán tập trung:
+ENTITY,E39_26,KHOAN,Khoản,structure,9285,9304,3.Đại lý phát hành:
+ENTITY,E39_27,KHOAN,Khoản,structure,9623,9644,4.Bảo lãnh phát hành:
+ENTITY,E39_28,KHOAN,Khoản,structure,10110,10253,"1.Kho bạc nhà nước tổ chức thanh toán gốc, lãi trái phiếu cho chủ sở hữu khi đếnhạn đối với trái phiếu phát hành qua hệ thống kho bạc Nhà nước."
+ENTITY,E39_29,KHOAN,Khoản,structure,10254,10493,"2.Các đại lý thanh toán hoặc tổ chức lưu ký trái phiếu thực hiện nhận uỷ thácthanh toán gốc, lãi trái phiếu cho chủ sở hữu trái phiếu khi đến hạn đối vớitrái phiếu kho bạc phát hành theo phương thức đấu thầu, đại lý hoặc bảo lãnhphát hành."
+ENTITY,E39_30,KHOAN,Khoản,structure,10573,10735,"1.Đối với trái phiếu kho bạc không niêm yết và giao dịch tại thị trường giao dịchchứng khoán tập trung, việc chuyển giao trái phiếu kho bạc đượct hực hiện nhưsau:"
+ENTITY,E39_31,KHOAN,Khoản,structure,10998,11250,"2.Đối với trái phiếu kho bạc niêm yết và giao dịch tại thị trường giao dịch chứngkhoán tập trung, khi chuyển giao trái phiếu kho bạc thực hiện theo quy định củaNghị định số 48/1998/NĐ-CP ngày 11 tháng 7 năm 1998 về chứng khoán và thị trườngchứng khoán."
+ENTITY,E39_32,KHOAN,Khoản,structure,12009,12075,1.Công trình được ghi trong kế hoạch đầu tư hàng năm của Nhà nước.
+ENTITY,E39_33,KHOAN,Khoản,structure,12076,12237,"2.Có phương án phát hành trái phiếu, kế hoạch sử dụng vốn vay và hoàn trả nợ đượcthủ tướng Chính phủ phê duyệt. Nội dung phương án phải bảo đảm các điều kiệnsau:"
+ENTITY,E39_34,KHOAN,Khoản,structure,13806,13993,"1.Căn cứ kế hoạch tín dụng đầu tư phát triển đã được Chính phủ phê duyệt, Quỹ hỗtrợ phát triển xây dựng kế hoạch và phương án phát hành trái phiếu đầu tư,trình để Bộ Tài chính quyết định."
+ENTITY,E39_35,KHOAN,Khoản,structure,13994,14144,"2.Phương thức phát hành, thanh toán, chuyển giao trái phiếu được thực hiện nhưđối với trái phiếu kho bạc quy định tại các điều 18, 19, 20 Quy chế này."
+ENTITY,E39_36,KHOAN,Khoản,structure,14145,14452,"3.Khoản vay từ trái phiếu được chuyển cho Quỹ hỗ trợ phát triển. Quỹ hỗ trợ pháttriển có trách nhiệm quản lý, sử dụng nguồn vốn phát hành trái phiếu theo đúngquy định của Điều lệ về tổ chức và hoạt động của Quỹ hỗ trợ phát triển và phảibảo đảm nguồn thanh toán gốc, lãi và phí phát hành trái phiếu đúng hạn."
+ENTITY,E39_37,KHOAN,Khoản,structure,14567,14665,"1.Ban hành các văn bản hướng dẫn chi tiết việc phát hành, thanh toán các loạitrái phiếu Chính phủ."
+ENTITY,E39_38,KHOAN,Khoản,structure,14666,14726,"2.Lập kế hoạch hàng năm về phát hành, thanh toán trái phiếu."
+ENTITY,E39_39,KHOAN,Khoản,structure,14727,14793,3.Thống nhất quản lý việc in các loại ấn chỉ trái phiếu Chính phủ.
+ENTITY,E39_40,KHOAN,Khoản,structure,14794,14849,4.Tổ chức phát hành và thanh toán trái phiếu Chính phủ.
+ENTITY,E39_41,KHOAN,Khoản,structure,14850,14903,5.Thẩm tra các phương án phát hành trái phiếu đầu tư.
+ENTITY,E39_42,KHOAN,Khoản,structure,14904,14992,6.Bảo đảm nguồn thanh toán trái phiếu đầu tư cho các công trình thuộc trung ươngquản lý.
+ENTITY,E39_43,KHOAN,Khoản,structure,14993,15057,7.Tổ chức hachị toán kế toán theo đúng chế độ Nhà nước quy định.
+ENTITY,E39_44,KHOAN,Khoản,structure,15058,15139,8.Phối hợp với Ngân hàng nàh nước tố chức ttthị trường đấu thầu tín phiếu khobạc.
+ENTITY,E39_45,KHOAN,Khoản,structure,15140,15258,"9.Phối hợp với Uỷ ban Chứng khoán Nhà nước tổ chức thị trường đấu thầu tín phiếuChính phủ, đại lý, bảo lãnh phát hành."
+ENTITY,E39_46,KHOAN,Khoản,structure,15259,15325,"10.Kiểm tra, giám sát việc sử dụng nguồn vốn phát hành trái phiếu."
+ENTITY,E39_47,KHOAN,Khoản,structure,15326,15370,11.Quyết định đình chỉ phát hành trái phiếu.
+ENTITY,E39_48,KHOAN,Khoản,structure,15414,15549,"1.Phối hợp với Bộ Tài chính tổ chức đấu thầu tín phiếu kho bạc qua Ngân hàng, tổchức quản lý và điều hành thị trường tín phiếu kho bạc."
+ENTITY,E39_49,KHOAN,Khoản,structure,15550,15667,"2.Phối hợp với Uỷ ban Chứng khoán Nhà nước quản lý các hoạt động đại lý, bảo lãnhphát hành của các tổ chức ngân hàng."
+ENTITY,E39_50,KHOAN,Khoản,structure,15668,15746,3.Tham gia với Bộ Tài chính trong việc xác định lãi suất trái phiếu Chính phủ.
+ENTITY,E39_51,KHOAN,Khoản,structure,15799,15952,1.Phối hợp với Bộ Tài chính tổ chức thị trường phát hành trái phiếu Chính phủthông qua hình thức đấu thầu tại thị trường giao dịch chứng khoán tập trung.
+ENTITY,E39_52,KHOAN,Khoản,structure,15953,16109,"2.Quản lý và và giám sát các hoạt động đại lý, bảo lãnh phát hành, niêm yết vàgiao dịch trái phiếu Chính phủ qua thị trường giao dịch chứng khoán tập trung."
+ENTITY,E39_53,KHOAN,Khoản,structure,16243,16315,1.Lập kế hoạch hàng năm về phát hành trái phiếu đầu tư gửi Bộ Tài chính;
+ENTITY,E39_54,KHOAN,Khoản,structure,16316,16423,"2.Lập phương án phát hành trái phiếu đầu tư gửi Bộ Tài chính thẩm tra, trình Thủtướng Chính phủ quyết định;"
+ENTITY,E39_55,KHOAN,Khoản,structure,16424,16562,"3.Phối hợp với Bộ Tài chính trong việc tổ chức phát hành, thanh toán trái phiếu;kiểm tra; giám sát việc sử dụng vốn và thu hồi vốn đầu tư,"
+ENTITY,E39_56,KHOAN,Khoản,structure,16563,16882,"4.Riêng đối với trái phiếu đầu tư cho các công trình địa phương quản lý, Uỷ bannhân dân các tỉnh thành phố trực thuộc Trung ương có trách nhiệm cân đối ngânsách cấp tỉnh để đảm bảo nguồn thanh toán trái phiếu khi đến hạn theo quy địnhcủa Luật ngân sách nhà nước và các văn bản hướng dẫn thi hành Luật ngân sáchnhà nước."
+ENTITY,E40_1,DIEM,Điểm,structure,3518,3707,"a)Trái phiếu huy động vốn cho từng công trình cụ thể thuộc diện ngân sách nhà nướcđầu tư, nằm trong kế hoạch đầu tư đã được Chính phủ phê duyệt nhưng chưa đượcbố trí vốn trong năm kế hoạch;"
+ENTITY,E40_2,DIEM,Điểm,structure,3708,3834,b)Trái phiếu huy động vốn cho Quỹ hỗ trợ phát triển theo kế hoạch tín dụng đầu tưphát triển hàng năm được chính phủ phê duyệt.
+ENTITY,E40_3,DIEM,Điểm,structure,4307,4458,"a)Đối với trái phiếu phát hành và thanh toán bằng đồng Việt Nam, mệnh giá tốithiểu là 100.000 đồng, mệnh giá cụ thể do Bộ trưởng Bộ Tài chính quy định;"
+ENTITY,E40_4,DIEM,Điểm,structure,4459,4580,"b)Đối với trái phiếu phát hành và thanh toán bằng ngoại tệ, Bộ trưởng Bộ Tàichính quy định cụ thể cho từng đợt phát hành."
+ENTITY,E40_5,DIEM,Điểm,structure,8435,8497,a)Kho bạc Nhà nước bán trái phiếu trực tiếp cho các đối tượng;
+ENTITY,E40_6,DIEM,Điểm,structure,8498,8610,b)Trái phiếu bán lẻ qua hệ thống kho bạc Nhà nước được phát hành theo phương thứctriết khấu hoặc ngang mệnh giá.
+ENTITY,E40_7,DIEM,Điểm,structure,8931,8957,a)Các công ty chứng khoán;
+ENTITY,E40_8,DIEM,Điểm,structure,8958,9007,b)Các đối tượng quy định tại Điều 14 Quy chế này;
+ENTITY,E40_9,DIEM,Điểm,structure,9008,9143,c)Các Tổng công ty Nhà nước thành lập theo Quyết định số 90/TTg và Quyết định số91/TTg ngày 7 tháng 3 năm 1994 của Thủ tướng Chính phủ;
+ENTITY,E40_10,DIEM,Điểm,structure,9144,9284,d)Các đối tượng khác tham gia đấu thầu trái phiếu kho bạc phải đáp ứng các diềukiện do Bộ Tài chính và Uỷ ban chứng khoán Nhà nước quy định.
+ENTITY,E40_11,DIEM,Điểm,structure,9305,9486,"a)Các tổ chức được lựa chọn làm đại lý phát hành trái phiếu kho bạc bao gồm cáccông ty chứng khoán, công ty tài chính, các tổ chức ngân hàng hoạt động theoLuật các tổ chức tín dụng."
+ENTITY,E40_12,DIEM,Điểm,structure,9487,9622,b)Tổ chức đại lý phát hành nhận bán trái phiếu kho bạc do Bộ Tài chính và được hưởngmột khoản phí theo mức thoả thuận với Bộ Tài chính.
+ENTITY,E40_13,DIEM,Điểm,structure,9645,9816,"a)Tổ chức được lựa chọn bảo lãnh phát hành trái phiếu kho bạc bao gồm các công tychứng khoán, công ty tài chính, các tổ chức ngân hàng hoạt động theo Luật tổchức tín dụng;"
+ENTITY,E40_14,DIEM,Điểm,structure,9817,10061,"b)Tổ chức bảo lãnh phát hành nhận trái phiếu kho bạc để bán cho công chúng và đượchưởng một khoản phí theo mức thoả thuận với Bộ Tài chính. Trường hợp không bánhết số trái phiếu đã nhận, tổ chức bảo lãnh có trách nhiệm mua số trái phiếucòn lại."
+ENTITY,E40_15,DIEM,Điểm,structure,10736,10819,a)Trái phiếu không ghi tên khi chuyển giao không phải đăng ký với cơ quan pháthành;
+ENTITY,E40_16,DIEM,Điểm,structure,10820,10997,"b)Trái phiếu có ghi tên khi chuyển giao phải làm thủ tục tại kho bạc Nhà nước nơiphát hành hoặc các tổ chức đại lý, bảo lãnh phát hành trái phiếu theo hướng dẫncủa Bộ Tài chính."
+ENTITY,E40_17,DIEM,Điểm,structure,12238,12519,"a)Có xác nhận của Bộ trưởng Bộ Tài chính (đối với các công trình thuộc Trung ươngquản lý) hoặc chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương(đối với các công trình thuộc địa phương quản lý) về việc bố trí nguồn trả nợtrái phiếu khi đến hạn trong kế hoạch Nhà nước."
+ENTITY,E40_18,DIEM,Điểm,structure,12520,12766,"b)Đối với các công trình thuộc địa phương quản lý, tổng số dư các nguồn vốn huyđộng tại thời điểm huy động không vượt quá 30% vốn đầu tư xây dựng cơ bản hàngnăm của ngân sách tỉnh, thành phố trực thuộc Trung ương (gọi chung là ngân sáchcấp tỉnh)."
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_4,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E36_1,E35_2,,
+RELATION,R22_2,THUOC,Thuộc,E36_2,E35_2,,
+RELATION,R22_3,THUOC,Thuộc,E36_3,E35_2,,
+RELATION,R22_4,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_10,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,R22_11,THUOC,Thuộc,E38_10,E35_1,,
+RELATION,R22_12,THUOC,Thuộc,E38_11,E35_1,,
+RELATION,R22_13,THUOC,Thuộc,E38_12,E35_1,,
+RELATION,R22_14,THUOC,Thuộc,E38_13,E35_1,,
+RELATION,R22_15,THUOC,Thuộc,E38_14,E35_1,,
+RELATION,R22_16,THUOC,Thuộc,E38_15,E36_1,,
+RELATION,R22_17,THUOC,Thuộc,E38_16,E36_1,,
+RELATION,R22_18,THUOC,Thuộc,E38_17,E36_1,,
+RELATION,R22_19,THUOC,Thuộc,E38_18,E36_1,,
+RELATION,R22_20,THUOC,Thuộc,E38_19,E36_1,,
+RELATION,R22_21,THUOC,Thuộc,E38_20,E36_2,,
+RELATION,R22_22,THUOC,Thuộc,E38_21,E36_2,,
+RELATION,R22_23,THUOC,Thuộc,E38_22,E36_2,,
+RELATION,R22_24,THUOC,Thuộc,E38_23,E36_2,,
+RELATION,R22_25,THUOC,Thuộc,E38_24,E36_2,,
+RELATION,R22_26,THUOC,Thuộc,E38_25,E36_3,,
+RELATION,R22_27,THUOC,Thuộc,E38_26,E36_3,,
+RELATION,R22_28,THUOC,Thuộc,E38_27,E36_3,,
+RELATION,R22_29,THUOC,Thuộc,E38_28,E36_3,,
+RELATION,R22_30,THUOC,Thuộc,E38_29,E36_3,,
+RELATION,R22_31,THUOC,Thuộc,E38_30,E36_3,,
+RELATION,R22_32,THUOC,Thuộc,E38_31,E35_3,,
+RELATION,R22_33,THUOC,Thuộc,E38_32,E35_3,,
+RELATION,R22_34,THUOC,Thuộc,E38_33,E35_3,,
+RELATION,R22_35,THUOC,Thuộc,E38_34,E35_3,,
+RELATION,R22_36,THUOC,Thuộc,E38_35,E35_3,,
+RELATION,R22_37,THUOC,Thuộc,E39_1,E38_4,,
+RELATION,R22_38,THUOC,Thuộc,E39_2,E38_4,,
+RELATION,R22_39,THUOC,Thuộc,E39_3,E38_4,,
+RELATION,R22_40,THUOC,Thuộc,E39_4,E38_4,,
+RELATION,R22_41,THUOC,Thuộc,E39_5,E38_4,,
+RELATION,R22_42,THUOC,Thuộc,E39_6,E38_4,,
+RELATION,R22_43,THUOC,Thuộc,E39_7,E38_4,,
+RELATION,R22_44,THUOC,Thuộc,E39_8,E38_4,,
+RELATION,R22_45,THUOC,Thuộc,E39_9,E38_4,,
+RELATION,R22_46,THUOC,Thuộc,E39_10,E38_5,,
+RELATION,R22_47,THUOC,Thuộc,E39_11,E38_5,,
+RELATION,R22_48,THUOC,Thuộc,E39_12,E38_5,,
+RELATION,R22_49,THUOC,Thuộc,E39_13,E38_6,,
+RELATION,R22_50,THUOC,Thuộc,E39_14,E38_6,,
+RELATION,R22_51,THUOC,Thuộc,E39_15,E38_6,,
+RELATION,R22_52,THUOC,Thuộc,E39_16,E38_6,,
+RELATION,R22_53,THUOC,Thuộc,E39_17,E38_8,,
+RELATION,R22_54,THUOC,Thuộc,E39_18,E38_8,,
+RELATION,R22_55,THUOC,Thuộc,E39_19,E38_8,,
+RELATION,R22_56,THUOC,Thuộc,E39_20,E38_13,,
+RELATION,R22_57,THUOC,Thuộc,E39_21,E38_13,,
+RELATION,R22_58,THUOC,Thuộc,E39_22,E38_16,,
+RELATION,R22_59,THUOC,Thuộc,E39_23,E38_16,,
+RELATION,R22_60,THUOC,Thuộc,E39_24,E38_20,,
+RELATION,R22_61,THUOC,Thuộc,E39_25,E38_20,,
+RELATION,R22_62,THUOC,Thuộc,E39_26,E38_20,,
+RELATION,R22_63,THUOC,Thuộc,E39_27,E38_20,,
+RELATION,R22_64,THUOC,Thuộc,E39_28,E38_21,,
+RELATION,R22_65,THUOC,Thuộc,E39_29,E38_21,,
+RELATION,R22_66,THUOC,Thuộc,E39_30,E38_22,,
+RELATION,R22_67,THUOC,Thuộc,E39_31,E38_22,,
+RELATION,R22_68,THUOC,Thuộc,E39_32,E38_26,,
+RELATION,R22_69,THUOC,Thuộc,E39_33,E38_26,,
+RELATION,R22_70,THUOC,Thuộc,E39_34,E38_30,,
+RELATION,R22_71,THUOC,Thuộc,E39_35,E38_30,,
+RELATION,R22_72,THUOC,Thuộc,E39_36,E38_30,,
+RELATION,R22_73,THUOC,Thuộc,E39_37,E38_31,,
+RELATION,R22_74,THUOC,Thuộc,E39_38,E38_31,,
+RELATION,R22_75,THUOC,Thuộc,E39_39,E38_31,,
+RELATION,R22_76,THUOC,Thuộc,E39_40,E38_31,,
+RELATION,R22_77,THUOC,Thuộc,E39_41,E38_31,,
+RELATION,R22_78,THUOC,Thuộc,E39_42,E38_31,,
+RELATION,R22_79,THUOC,Thuộc,E39_43,E38_31,,
+RELATION,R22_80,THUOC,Thuộc,E39_44,E38_31,,
+RELATION,R22_81,THUOC,Thuộc,E39_45,E38_31,,
+RELATION,R22_82,THUOC,Thuộc,E39_46,E38_31,,
+RELATION,R22_83,THUOC,Thuộc,E39_47,E38_31,,
+RELATION,R22_84,THUOC,Thuộc,E39_48,E38_32,,
+RELATION,R22_85,THUOC,Thuộc,E39_49,E38_32,,
+RELATION,R22_86,THUOC,Thuộc,E39_50,E38_32,,
+RELATION,R22_87,THUOC,Thuộc,E39_51,E38_33,,
+RELATION,R22_88,THUOC,Thuộc,E39_52,E38_33,,
+RELATION,R22_89,THUOC,Thuộc,E39_53,E38_34,,
+RELATION,R22_90,THUOC,Thuộc,E39_54,E38_34,,
+RELATION,R22_91,THUOC,Thuộc,E39_55,E38_34,,
+RELATION,R22_92,THUOC,Thuộc,E39_56,E38_34,,
+RELATION,R22_93,THUOC,Thuộc,E40_1,E39_12,,
+RELATION,R22_94,THUOC,Thuộc,E40_2,E39_12,,
+RELATION,R22_95,THUOC,Thuộc,E40_3,E39_15,,
+RELATION,R22_96,THUOC,Thuộc,E40_4,E39_15,,
+RELATION,R22_97,THUOC,Thuộc,E40_5,E39_24,,
+RELATION,R22_98,THUOC,Thuộc,E40_6,E39_24,,
+RELATION,R22_99,THUOC,Thuộc,E40_7,E39_25,,
+RELATION,R22_100,THUOC,Thuộc,E40_8,E39_25,,
+RELATION,R22_101,THUOC,Thuộc,E40_9,E39_25,,
+RELATION,R22_102,THUOC,Thuộc,E40_10,E39_25,,
+RELATION,R22_103,THUOC,Thuộc,E40_11,E39_26,,
+RELATION,R22_104,THUOC,Thuộc,E40_12,E39_26,,
+RELATION,R22_105,THUOC,Thuộc,E40_13,E39_27,,
+RELATION,R22_106,THUOC,Thuộc,E40_14,E39_27,,
+RELATION,R22_107,THUOC,Thuộc,E40_15,E39_30,,
+RELATION,R22_108,THUOC,Thuộc,E40_16,E39_30,,
+RELATION,R22_109,THUOC,Thuộc,E40_17,E39_33,,
+RELATION,R22_110,THUOC,Thuộc,E40_18,E39_33,,
+RELATION,R22_111,THUOC,Thuộc,E12_1,E11_2,,
+RELATION,R22_112,THUOC,Thuộc,E11_2,E10_1,,

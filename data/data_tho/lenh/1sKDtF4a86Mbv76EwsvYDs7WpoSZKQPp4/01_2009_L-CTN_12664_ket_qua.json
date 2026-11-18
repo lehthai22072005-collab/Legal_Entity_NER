@@ -1,0 +1,202 @@
+{
+  "schema_version": "1.0",
+  "document_id": "12664",
+  "document_code": "01/2009/L-CTN",
+  "file_name": "01_2009_L-CTN_12664.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "LỆNH\nVề việc công bố Pháp lệnh",
+    "so_hieu": "01/2009/L-CTN",
+    "loai_van_ban": "LỆNH",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "2009-01-05",
+    "ngay_co_hieu_luc": "2009-01-05",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH",
+    "nguoi_ky": "Nguyễn Minh Triết",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 01/2009/L-CTN Về việc công bố Pháp lệnh\nLỆNH\nVề việc công bố Pháp lệnh\n____________\nCHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 103 và Điều 106 của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khóa X, kỳ họp thứ 10;\nCăn cứ Điều 19 của Luật tổ chức Quốc hội;\nCăn cứ Điều 57 của Luật ban hành văn bản quy phạm pháp luật,\nNAY CÔNG BỐ:\nPháp lệnh sửa đổi Điều 10 của Pháp lệnh dân số\nĐã được Ủy ban thường vụ Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII thông qua ngày 27 tháng 12 năm 2008./.\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Ngày ban hành]: 2009-01-05\n[Ngày có hiệu lực]: 2009-01-05\n[Văn bản được quy định chi tiết, hướng dẫn thi hành]: Luật Sửa đổi, bổ sung một số điều của Luật tổ chức Quốc hội số 83/2007/QH11\n[Căn cứ ban hành]: Luật Sửa đổi, bổ sung một số điều của Luật tổ chức Quốc hội số 83/2007/QH11\n[Người ký]: Nguyễn Minh Triết",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 48,
+      "end": 78,
+      "text": "LỆNH\nVề việc công bố Pháp lệnh",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 21,
+      "text": "01/2009/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 48,
+      "end": 52,
+      "text": "LỆNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 768,
+      "end": 778,
+      "text": "2009-01-05",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 700,
+      "end": 714,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 799,
+      "end": 809,
+      "text": "2009-01-05",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 738,
+      "end": 750,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 92,
+      "end": 105,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 92,
+      "end": 100,
+      "text": "CHỦ TỊCH",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 1047,
+      "end": 1064,
+      "text": "Nguyễn Minh Triết",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E14_1",
+      "start": 412,
+      "end": 452,
+      "text": "Luật ban hành văn bản quy phạm pháp luật",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E14_2",
+      "start": 864,
+      "end": 939,
+      "text": "Luật Sửa đổi, bổ sung một số điều của Luật tổ chức Quốc hội số 83/2007/QH11",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E18_1",
+      "start": 467,
+      "end": 513,
+      "text": "Pháp lệnh sửa đổi Điều 10 của Pháp lệnh dân số",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 412,
+      "end": 452,
+      "text": "Luật ban hành văn bản quy phạm pháp luật",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 959,
+      "end": 1034,
+      "text": "Luật Sửa đổi, bổ sung một số điều của Luật tổ chức Quốc hội số 83/2007/QH11",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R6_1",
+      "from_id": "E18_1",
+      "to_id": "E2_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R12_1",
+      "from_id": "E14_1",
+      "to_id": "E2_1",
+      "code": "QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R12_2",
+      "from_id": "E14_2",
+      "to_id": "E2_1",
+      "code": "QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Quy định chi tiết, hướng dẫn thi hành"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

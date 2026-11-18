@@ -1,0 +1,22 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,311,355,"LỆNH
+Về việc công bố Nghị quyết của Quốc hội"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,259,276,Số: 36/2014/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,311,315,LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,285,310,ngày 09 tháng 12 năm 2014
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1024,1038,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,285,310,ngày 09 tháng 12 năm 2014
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1062,1074,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,182,195,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,182,195,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,944,959,Trương Tấn Sang
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,1300,1356,Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12
+ENTITY,E14_2,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,1411,1429,Hiến pháp năm 2013
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1094,1150,Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1170,1207,Luật Tổ chức Quốc hội số 30/2001/QH10
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1227,1245,Hiến pháp năm 2013
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R2_2,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_2,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,

@@ -1,0 +1,1181 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,27,Luật Khoáng sản số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,19,27,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,51484,51508,ngày 20 tháng 3 năm 1996
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,51574,51588,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,51609,51619,1996-09-01
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,51641,51651,2011-07-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,51675,51695,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,51716,51724,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,51738,51755,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,51768,51781,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,52102,52120,Hiến pháp năm 1992
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,51846,51935,"Luật Sửa đổi, bổ sung một số điều của Luật Đầu tư nước ngoài tại Việt Nam số 41-LCT/HĐNN8"
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,51962,52047,"Luật Sửa đổi, bổ sung một số điều của Luật Đầu tư nước ngoài tại Việt Nam số Không số"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,51801,51819,Hiến pháp năm 1992
+ENTITY,E23_1,VB_HUONG_DAN_AP_DUNG,Văn bản hướng dẫn áp dụng,reference,52270,52419,"Quyết định số 57/1998/QĐ-BCN Về việc sửa đổi bổ sung khoản 1, điều 13, chương IV điều lệ tổ chức-hoạt động của Viện Nghiên cứu Địa chất và Khoáng sản"
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,52469,52709,"Nghị định số 07/2009/NĐ-CP Sửa đổi, bổ sung một số Điều của Nghị định số 160/2005/NĐ-CP ngày 27 tháng 12 năm 2005 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật khoáng sản và Luật sửa đổi, bổ sung một số Điều của Luật khoáng sản"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,52759,52854,Quyết định số 48/1998/QĐ-BCN Về việc ban hành quy chế tổ chức và hoạt động Thanh tra khoáng sản
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,52904,53050,"Quyết định số 152/2008/QĐ-TTg Phê duyệt quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản làm vật liệu xây dựng ở Việt Nam đến năm 2020"
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,53100,53211,"Nghị định số 102/2008/NĐ-CP Về việc thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường"
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,53261,53431,"Quyết định số 25/2008/QĐ-BCT Phê duyệt Quy hoạch phân vùng thăm dò, khai thác, chế biến và sử dụng quặng đá quý, đất hiếm và urani giai đoạn đến 2015, có xét đến năm 2025"
+ENTITY,E24_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,53481,53573,"Nghị định số 25/2009/NĐ-CP Về quản lý tổng hợp tài nguyên và bảo vệ môi trường biển, hải đảo"
+ENTITY,E24_7,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,53623,53714,"Thông tư số 15/2009/TT-BCT Quy định tiêu chuẩn trình độ, năng lực của Giám đốc điều hành mỏ"
+ENTITY,E24_8,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,53764,53940,"Quyết định số 11/2008/QĐ-BCT Phê duyệt Quy hoạch phân vùng thăm dò, khai thác, chế biến và sử dụng quặng vàng, đồng, niken, molipđen Việt Nam đến năm 2015, có xét đến năm 2025"
+ENTITY,E24_9,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,53990,54098,"Thông tư số 06/2011/TT-BTNMT Quy định về kiểm soát chất lượng các kết quả phân tích mẫu địa chất, khoáng sản"
+ENTITY,E24_10,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,54148,54274,"Quyết định số 105/2008/QĐ-TTg Phê duyệt Quy hoạch thăm dò, khai thác và sử dụng khoáng sản làm xi măng ở Việt Nam đến năm 2020"
+ENTITY,E24_11,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,54324,54512,"Thông tư số 34/2009/TT-BTNMT Quy định về lập, phê duyệt, kiểm tra, xác nhận Dự án cải tạo, phục hồi môi trường và ký quỹ cải tạo, phục hồi môi trường đối với hoạt động khai thác khoáng sản"
+ENTITY,E24_12,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,54562,54817,"Nghị định số 38/2011/NĐ-CP Sửa đổi, bổ sung một số điều quy định về thủ tục hành chính của Nghị định số 181/2004/NĐ-CP ngày 29 tháng 10 năm 2004, Nghị định số 149/2004/NĐ-CP ngày 27 tháng 7 năm 2004 và Nghị định số 160/2005/NĐ-CP ngày 27 tháng 12 năm 2005"
+ENTITY,E24_13,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,54867,54959,Thông tư số 11/2010/TT-BTNMT Quy định về Định mức kinh tế - kỹ thuật các công trình địa chất
+ENTITY,E24_14,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,55009,55122,Quyết định số 154/1997/QĐ-DCKS Quy định các khoáng sản xếp vào loại khoáng sản làm vật liệu xây dựng thông thường
+ENTITY,E24_15,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,55172,55320,"Thông tư số 38/2010/TT-BTC Hướng dẫn thực hiện quy định về thuế đối với tổ chức, cá nhân chuyển nhượng quyền thăm dò, khai thác, chế biến khoáng sản"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,52171,52240,"Luật sửa đổi, bổ sung một số điều của Luật Khoáng sản số 46/2005/QH11"
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,92663,92694,Luật Khoáng sản số 60/2010/QH12
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55342,55426,Nghị định số 76/2000/NĐ-CP Quy định chi tiết việc thi hành Luật Khoáng sản (sửa đổi)
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55448,55592,"Thông tư số 39/2007/TT-BTC Hướng dẫn thực hiện chính sách đảm bảo quyền lợi của địa phương trong bảo vệ tài nguyên quặng chì, kẽm chưa khai thác"
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55614,55693,Nghị định số 03/2000/NĐ-CP Hướng dẫn thi hành một số điều của Luật Doanh nghiệp
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55715,55912,"Quyết định số 96/2005/QĐ-UBND Ban hành Quy định quản lý, cấp phép thăm dò, khai thác, sử dụng tài nguyên nước, xả nước thải vào nguồn nước và hành nghề khoan nước dưới đất trên địa bàn tỉnh Nghệ An"
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55934,55970,Luật Tài nguyên nước số 08/1998/QH10
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55992,56220,"Thông tư số 124/2009/TT-BTC Hướng dẫn thi hànhNghị định số 05/2009/NĐ-CP ngày 19 tháng 01 năm 2009 của Chính phủ quy định chi tiết thi hành Pháp lệnh Thuế tài nguyên và Pháp lệnh sửa đổi, bổ sung Điều 6 Pháp lệnh Thuế tài nguyên"
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,56242,56382,"Nghị định số 160/2005/NĐ-CP Quy định chi tiết và hướng dẫn thi hành Luật Khoáng sản và Luật sửa đổi, bổ sung một số điều của Luật Khoáng sản"
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,56404,56445,Luật Năng lượng nguyên tử số 18/2008/QH12
+ENTITY,E29_9,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,56467,56567,Quyết định số 86/1999/QĐ-UB Về việc ban hành quy định về bảo vệ môi trường trên địa bàn tỉnh Nghệ An
+ENTITY,E29_10,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,56589,56693,"Quyết định số 04/2010/QĐ-UBND Ban hành ""Quy định về quản lý vật liệu xây dựng trên địa bàn tỉnh Yên Bái"""
+ENTITY,E29_11,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,56715,56845,"Chỉ thị số 14/2001/CT-UB Về việc tăng cường quản lý hoạt động khai thác và bảo vệ cát lòng sông, triền sông trên địa bàn thành phố"
+ENTITY,E29_12,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,56867,57025,"Chỉ thị số 08/CT Về việc tăng cường biện pháp quản lý các hoạt động khai thác đất đồi núi, đất sản xuất vật liệu xây dựng, cát sỏi lòng sông trên địa bàn tỉnh"
+ENTITY,E29_13,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,57047,57176,Quyết định số 07/2011/QĐ-UBND Về việc công bố bộ thủ tục hành chính cấp tỉnh thuộc ngành Tài nguyên và Môi trường tỉnh Bình Phước
+ENTITY,E29_14,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,57198,57511,"Quyết định số 262/2005/QĐ-UBND Ban hành Kế hoạch hành động của Uỷ ban nhân dân tỉnh thực hiện Nghị quyết số 41-NQ/TW ngày 15/11/2004 của Bộ Chính trị về Bảo vệ môi trường trong thời kỳ đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước và Chiến lược Bảo vệ môi trường quốc gia đến năm 2010 và định hướng đến năm 2020"
+ENTITY,E29_15,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,57533,57633,Chỉ thị số 08/2002/CT-UB Về việc chấn chỉnh tình hình hoạt động khoáng sản trên địa bàn tỉnh Gia Lai
+ENTITY,E29_16,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,57655,57805,"Thông tư số 184/2009/TT-BTC Quy định chế độ thu, nộp và quản lý sử dụng lệ phí cấp giấy phép hoạt động khoáng sản, lệ phí độc quyền thăm dò khoáng sản"
+ENTITY,E29_17,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,57827,57987,"Thông tư số 155/2010/TT-BTC Hướng dẫn mức thu, chế độ thu, nộp và quản lý sử dụng lệ phí cấp giấy phép hoạt động khoáng sản, lệ phí độc quyền thăm dò khoáng sản"
+ENTITY,E29_18,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,58009,58144,"Chỉ thị số 31/1999/CT-UBND Về tăng cường quản lý cát xây dựng, cát san lấp, sét gạch ngói, đá, sạn, sỏi, đất biên hoà trên địa bàn tỉnh"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,58164,58269,"Quyết định số 515/2008/QĐ-UBND Về việc phân công, phân cấp cho Ban Quản lý Khu kinh tế Chân Mây - Lăng Cô"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,58289,58544,"Nghị định số 38/2011/NĐ-CP Sửa đổi, bổ sung một số điều quy định về thủ tục hành chính của Nghị định số 181/2004/NĐ-CP ngày 29 tháng 10 năm 2004, Nghị định số 149/2004/NĐ-CP ngày 27 tháng 7 năm 2004 và Nghị định số 160/2005/NĐ-CP ngày 27 tháng 12 năm 2005"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,58564,58652,Nghị định số 150/2004/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vự khoáng sản
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,58672,58812,"Nghị định số 160/2005/NĐ-CP Quy định chi tiết và hướng dẫn thi hành Luật Khoáng sản và Luật sửa đổi, bổ sung một số điều của Luật Khoáng sản"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,58832,58915,"Quyết định số 2651/QĐ-UB Về việc ban hành quy định quản lý, bảo vệ, điều tra cơ bản"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,58935,59059,"Nghị quyết số 77/2007/NQ-HĐND Về việc bổ sung quy hoạch thăm dò, khai thác, chế biến khoáng sản tỉnh Quảng Bình đến năm 2015"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,59079,59204,Quyết định số 11/2009/QĐ-UBND Về việc ban hành Quy định trình tự thủ tục cấp giấy phép hoạt động khoáng sản trên địa bàn tỉnh
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,59224,59333,"Quyết định số 71/QĐ-UBND về việc phê duyệt Quy hoạch thăm dò, khai thác cát, 
+sỏi lòng sông trên địa bàn tỉnh"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,59353,59490,"Quyết định số 32/2009/QĐ-UBND Về việc ban hành Quy định trình tự, thủ tục cấp giấy phép hoạt động khoáng sản trên địa bàn tỉnh Kiên Giang"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,59510,59631,Quyết định số 1523/QĐ-UBND Ban hành Quy định về quản lý nhà nước đối với tài nguyên khoáng sản trên địa bàn tỉnh An Giang
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,59651,59876,"Quyết định số 4802/QĐ-UBND Về việc bãi bỏ Quyết định số 69/2004/QĐ-UB ngày ngày 28/6/2004 của UBND tỉnh Nghệ An ban hành ""Quy chế quản lý khai thác và tiêu thụ quặng thiếc, sắt, chì-kẽm, đá vôi trắng trên địa bàn tỉnh Nghệ An"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,59896,60036,"Nghị quyết số 101/2006/NQ-HĐND Thông qua Quy hoạch thăm dò, khai thác và sử dụng tài nguyên cát lòng sông tiền, tỉnh Tiền Giang đến năm 2020"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,60056,60239,"Nghị quyết số 09/2009/NQ-HĐND Về việc thông qua Đề án “Quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản trên địa bàn tỉnh Đăk Nông đến năm 2015 và định hướng đến năm 2020”"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,60259,60358,Quyết định số 53/1998/QĐ-BCN Thành lập Thanh tra khoáng sản của Cục Địa chất và Khoáng sản Việt Nam
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,60378,60568,"Quyết định số 1040/2011/QĐ-UBND Về việc quy định tạm thời trình tự, thủ tục xác định giá khởi điểm để đấu giá và giá giao cấp quyền khai thác mỏ vật liệu xây dựng trên địa bàn tỉnh Thanh Hóa"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,60588,60681,Quyết định số 549/QĐ-ĐCKS Ban hành Quy định chế độ báo cáo định kỳ trong hoạt động khoáng sản
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,60701,60802,"Nghị quyết số 55/2006/NQ-NĐND16 về việc sửa đổi, bổ sung Nghị quyết số 13/2000/NQ-HĐND ngày 26/4/2000"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,60822,60930,"Nghị quyết số 47/2006/NQ-HĐND Về việc bổ sung quy hoạch thăm dò, khai thác, chế biến khoáng sản đến năm 2015"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,60950,61083,Quyết định số 388/QĐ-UBND v/v năm 2006 chấm dứt hiệu lực văn bản không còn phù hợp với pháp luật hiện hành do tỉnh Điện Biên ban hành
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,61103,61352,"Quyết định số 33/2007/QĐ-UBND Về việc quy định mức thu tự nguyện do các nhà đầu tư nộp ngân sách để đầu tư cải tạo, nâng cấp, tu bổ, xây dựng mới cơ sở hạ tầng đối với những dự án khai thác khoáng sản thuộc thẩm quyền cấp phép của UBND tỉnh Lai Châu"
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,61372,61531,"Quyết định số 24/2008/QĐ-UBND Về việc phê duyệt Quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản tỉnh Tuyên Quang đến năm 2010, có xét đến năm 2020"
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,61551,61785,"Quyết định số 02/2009/QĐ-UBND Điều chỉnh, bổ sung quy hoạch khai thác và sử dụng tài nguyên. khoáng sản tỉnh Bà Rịa - Vũng Tàu giai đoạn đến 2010 và các biện pháp nhằm tăng cường công tác quản lý hoạt động khoáng sản trên địa bàn tỉnh"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,61805,61974,"Quyết định số 11/2011/QĐ-UBND Ban hành Quy định về phối hợp quản lý, kiểm tra hoạt động khai thác, vận chuyển, kinh doanh cát, sỏi lòng sông trên địa bàn tỉnh Tiền Giang"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,61994,62180,"Quyết định số 41/QĐ-UBND về việc ban hành danh mục các khu vực cấm tuyệt đối; khu vực quy hoạch thăm dò, khai thác; khu vực bến bãi tập kết cát, sỏi, lòng sông trên địa bàn tỉnh Bắc Ninh"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,62200,62349,"Quyết định số 2651/1997/QĐ.UB Về việc ban hành “Quy định quản lý, bảo vệ, điều tra cơ bản địa chất và hoạt động khoáng sản trên địa bàn tỉnh Nghệ An”"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,62369,62525,"Quyết định số 38/2010/QĐ-UBND Ban hành Quy định về việc ký quỹ cải tạo, phục hồi môi trường đối với hoạt động khai thác khoáng sản trên địa bàn tỉnh Yên Bái"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,62545,62660,Quyết định số 62/2008/QĐ-UBND Về việc ban hành Quy định quản lý hoạt động khoáng sản trên địa bàn thành phố Cần Thơ
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,62680,62824,Quyết định số 06/2002/QĐ-UB V/v ban hành Qui định ký quĩ phục hồi môi trường trong hoạt động khai thác khoáng sản trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,62844,63028,"Quyết định số 13/2007/QĐ-UBND Ban hành Quy định về trách nhiệm, quyền hạn của các cấp, các ngành và tổ chức, cá nhân trong quản lý và hoạt động khoáng sản trên địa bàn tỉnh Tuyên Quang"
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,63048,63172,"Quyết định số 46/2009/QĐ-UBND Ban hành Quy định trình tự, thủ tục cấp phép hoạt động khoáng sản trên địa bàn tỉnh Bình Dương"
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,63192,63378,"Quyết định số 22/2010/QĐ-UBND Về việc quy định tiêu chí lựa chọn và các yêu cầu đối với nhà đầu tư thực hiện dự án thăm dò, khai thác và chế biến quặng titan trên địa bàn tỉnh Ninh Thuận"
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,63398,63455,Thông tư số 02/2006/TT-BCN Hướng dẫn xuất khẩu khoáng sản
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,63475,63624,"Nghị quyết số 16/2008/NQ-HĐND7 Về chế độ thu, nộp, quản lý và sử dụng phí bảo vệ môi trường đối với khai thác khoáng sản trên địa bàn tỉnh Bình Dương"
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,63644,63754,Quyết định số 76/2006/QĐ-UBND Về việc ban hành Quy chế quản lý tài nguyên khoáng sản trên địa bàn tỉnh Gia Lai
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,63774,63925,"Nghị quyết số 140/2008/NQ-HĐND Thông qua Quy hoạch thăm dò, khai thác, chế biến khoáng sản trên địa bàn tỉnh Lai Châu đến năm 2015, có xét đến năm 2020"
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,63945,64100,"Quyết định số 40/2010/QĐ-UBND Phê duyệt điều chỉnh, bổ sung Quy hoạch thăm dò, khai thác, chế biến một số khoáng sản trên địa bàn tỉnh Kon Tum đến năm 2015"
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,64120,64315,"Quyết định số 2485/2007/QĐ-UBND Phê duyệt quy hoạch thăm dò, khai thác, chế biến khoáng sản làm vật liệu xây dựng thông thường trên địa bàn tỉnh Phú Thọ giai đoạn 2006 -2011, định hướng đến 2020."
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,64335,64621,"Nghị quyết số 292/2009/NQ-HĐND Về việc sửa đổi, bổ sung một số điểm của nghị quyết số 104/2006/NQ-HĐND ngày 15 tháng 7 năm 2006 của HĐND tỉnh về quy định phân cấp nguồn thu,
+ nhiệm vụ chi và tỷ lệ phần trăm (%) phân chia nguồn thu 
+giữa các cấp ngân sách tỉnh Sơn La thời kỳ 2007 - 2010"
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,64641,64768,Quyết định số 34/2002/QĐ-BCN Về việc ban hành Quy định về giao nộp báo cáo địa chất và cung cấp tài liệu địa chất và khoáng sản
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,64788,64911,Thông tư liên tịch số 126/1999/TTLT/BTC-BCN-BKHCNMT Hướng dẫn việc ký quỹ để phục hồi môi trường trong khai thác khoáng sản
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,64931,65012,Nghị định số 137/2005/NĐ-CP Về phí bảo vệ môi trường đối với khai thác khoáng sản
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,65032,65150,"Quyết định số 83/2006/QĐ-UBND Về việc thành lập Trung tâm Quản lý, khai thác nước khoáng và dịch vụ suối khoáng Mỹ Lâm"
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,65170,65281,"Nghị định số 101/2007/NĐ-CP Về việc thu thập, quản lý, khai thác và sử dụng dữ liệu tài nguyên, môi trường biển"
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,65301,65490,"Quyết định số 2558/2009/QĐ-UBND Ban hành Quy định về trình tự, thủ tục lập, thẩm định, phê duyệt dự án hoạt động khoáng sản và hồ sơ cấp phép hoạt động khoáng sản trên địa bàn tỉnh Cao Bằng"
+ENTITY,E30_45,VB_AP_DUNG,Văn bản áp dụng,reference,65510,65643,Nghị quyết số 6g/2006/NQ-HĐND UBND tỉnh thống nhất quy trình khai thác khoáng sản Titan dối với các khu vực thuộc thẩm quyền của UBND
+ENTITY,E30_46,VB_AP_DUNG,Văn bản áp dụng,reference,65663,65860,"Quyết định số 96/2006/QĐ-UBND ban hành quy định  quản  lý, khai thác đất, đá đồi núi; khai thác cát, sỏi lòng sông và sử dụng đất làm bến bãi tạm thời để tập kết cát, sỏi trên địa bàn tỉnh Bắc Ninh"
+ENTITY,E30_47,VB_AP_DUNG,Văn bản áp dụng,reference,65880,66024,Quyết định số 36/2010/QĐ-UBND về việc ban hành Quy định một số nội dung quản lý Nhà nước về khoáng sản và hoạt động khoáng sản trên địa bàn tỉnh
+ENTITY,E30_48,VB_AP_DUNG,Văn bản áp dụng,reference,66044,66236,"Quyết định số 13/2010/QĐ-UBND Về việc Điều chỉnh Quy hoạch thăm dò, khai thác, chế biến và sử dụng quặng sắt, quặng titan trên địa bàn tỉnh Thái Nguyên giai đoạn 2007-2015, có xét đến năm 2020"
+ENTITY,E30_49,VB_AP_DUNG,Văn bản áp dụng,reference,66256,66355,Quyết định số 297/1998/QĐ-UB Về việc ban hành Quy định quản lý khoáng sản trên địa bàn tỉnh Lào Cai
+ENTITY,E30_50,VB_AP_DUNG,Văn bản áp dụng,reference,66375,66468,Quyết định số 15/2000/QĐ-BXD Về việc ban hành Quy định đầu tư sản xuất gạch ngói đất sét nung
+ENTITY,E30_51,VB_AP_DUNG,Văn bản áp dụng,reference,66488,66624,"Quyết định số 28/2008/QĐ-BCT Phê duyệt Quy hoạch thăm dò, khai thác và tuyển quặng apatít giai đoạn 2008 - 2020 có tính đến sau năm 2020"
+ENTITY,E30_52,VB_AP_DUNG,Văn bản áp dụng,reference,66644,66751,Quyết định số 130/2004/QĐ-UB V/v Ban hành Quy định về ký Quỹ Phục hồi môi trường trong khai thác khoáng sản
+ENTITY,E30_53,VB_AP_DUNG,Văn bản áp dụng,reference,66771,66933,"Quyết định số 1303/QĐ-UBND Ban hành tạm thời Khoản thu đóng góp khai thác quặng đồng, 
+đối với Công ty Mỏ tuyển đồng Sin Quyền thuộc Tổng công ty Khoáng sản – TKV"
+ENTITY,E30_54,VB_AP_DUNG,Văn bản áp dụng,reference,66953,67084,"Quyết định số 2020/QĐ-UBND Về việc phê duyệt bổ sung quy hoạch thăm dò, khai thác, chế biến khoáng sản tỉnh quảng bình đến năm 2015"
+ENTITY,E30_55,VB_AP_DUNG,Văn bản áp dụng,reference,67104,67195,"Thông tư số 15/2009/TT-BCT Quy định tiêu chuẩn trình độ, năng lực của Giám đốc điều hành mỏ"
+ENTITY,E30_56,VB_AP_DUNG,Văn bản áp dụng,reference,67215,67329,Quyết định số 32/2008/QĐ-UBND Về việc ban hành Quy định về quản lý hoạt động khoáng sản trên địa bàn tỉnh Lai Châu
+ENTITY,E30_57,VB_AP_DUNG,Văn bản áp dụng,reference,67349,67477,"Quyết định số 10/2008/QĐ-UBND Về việc ban hành Quy chế Quản lý khai thác, sử dụng tiềm năng và Bảo vệ môi trường vùng hồ Thác Bà"
+ENTITY,E30_58,VB_AP_DUNG,Văn bản áp dụng,reference,67497,67645,"Quyết định số 377/2009/QĐ-UBND Ban hành Quy định quản lý, khảo sát, thăm dò, khai thác, chế biến cát, cuội, sỏi lòng sông trên địa bàn tỉnh Cao Bằng"
+ENTITY,E30_59,VB_AP_DUNG,Văn bản áp dụng,reference,67665,67861,"Quyết định số 70/2000/QĐ-UB Về việc ban hành quy định tạm thời quản lý, khai thác đất đồi núi,đất để sản xuất ngói và các sản phẩm đất nung; khai thác cát sỏi lòng sông trên địa bàn tỉnh Bắc Ninh."
+ENTITY,E30_60,VB_AP_DUNG,Văn bản áp dụng,reference,67881,67991,"Quyết định số 27/2017/QĐ-UBND Ban hành Quy chế phối hợp quản lý hoạt động khoáng sản
+trên địa bàn tỉnh Bến Tre"
+ENTITY,E30_61,VB_AP_DUNG,Văn bản áp dụng,reference,68011,68077,Nghị định số 68-CP Quy định chi tiết việc thi hành Luật khoáng sản
+ENTITY,E30_62,VB_AP_DUNG,Văn bản áp dụng,reference,68097,68287,"Nghị quyết số 11/2007/NQ-HĐND Về việc phê duyệt Quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản làm vật liệu xây dựng thông thường và than bùn tỉnh Yên Bái giai đoạn 2007 - 2015"
+ENTITY,E30_63,VB_AP_DUNG,Văn bản áp dụng,reference,68307,68461,"Quyết định số 58/2009/QĐ-UBND Phê duyệt Quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản trên địa bàn tỉnh Gia Lai giai đoạn 2010 đến năm 2020"
+ENTITY,E30_64,VB_AP_DUNG,Văn bản áp dụng,reference,68481,68565,"Quyết định số 1456/QĐ-ĐCKS Về việc ban hành ""Quy chế đóng cửa mỏ các khoáng sản rắn"""
+ENTITY,E30_65,VB_AP_DUNG,Văn bản áp dụng,reference,68585,68733,"Thông tư số 38/2010/TT-BTC Hướng dẫn thực hiện quy định về thuế đối với tổ chức, cá nhân chuyển nhượng quyền thăm dò, khai thác, chế biến khoáng sản"
+ENTITY,E30_66,VB_AP_DUNG,Văn bản áp dụng,reference,68753,68853,Quyết định số 154/QĐ-ĐCKS Quy định các khoáng sản được xếp vào loại khoáng sản làm vật liệu xây dựng
+ENTITY,E30_67,VB_AP_DUNG,Văn bản áp dụng,reference,68873,69047,"Quyết định số 219/1999/QĐ-TTg Về chính sách bảo hộ quyền lợi của nhân dân địa phương nơi có khoáng sản được khai thác, chế biến và bảo vệ tài nguyên khoáng sản chưa khai thác"
+ENTITY,E30_68,VB_AP_DUNG,Văn bản áp dụng,reference,69067,69219,"Quyết định số 37/1999/QĐ-UBND Về việc ban hành Quy định quản lý, bảo vệ, khai thác, chế biến cao lanh và sử dụng đất trên mỏ cao lanh Bắc Lý, Quảng Bình"
+ENTITY,E30_69,VB_AP_DUNG,Văn bản áp dụng,reference,69239,69369,"Quyết định số 02/2008/QĐ-UBND Về việc phê duyệt khu vực cấm, tạm cấm và hạn chế hoạt động khoáng sản trên địa bàn tỉnh Tuyên Quang"
+ENTITY,E30_70,VB_AP_DUNG,Văn bản áp dụng,reference,69389,69535,"Quyết định số 69/2004/QĐ-UB V/v ban hành Quy chế quản lý khai thác và tiêu thụ quặng thiếc, sắt, chì - kẽm, đá vôi trắng trên địa bàn tỉnh Nghệ An"
+ENTITY,E30_71,VB_AP_DUNG,Văn bản áp dụng,reference,69555,69721,Quyết định 2491/QĐ-UBND năm 2011 phê duyệt Quy hoạch phát triển vật liệu xây dựng thành phố Hồ Chí Minh đến năm 2020 do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành
+ENTITY,E30_72,VB_AP_DUNG,Văn bản áp dụng,reference,69741,69814,Quyết định số 181/TTg Về thành lập Hội đồng đánh giá trữ lượng khoáng sản
+ENTITY,E30_73,VB_AP_DUNG,Văn bản áp dụng,reference,69834,70047,"Quyết định số 2952/QĐ-UBND V/v phê duyệt Quy hoạch thăm dò, khai thác, chế biến và sử dụng tài nguyên khoáng sản tỉnh Lâm Đồng đến năm 2010, định hướng đến năm 2020 thuộc thẩm quyền cấp phép của UBND tỉnh Lâm Đồng"
+ENTITY,E30_74,VB_AP_DUNG,Văn bản áp dụng,reference,70067,70192,Quyết định số 2732/2007/QĐ-UBND Ban hành Quy định thủ tục cấp phép và quản lý hoạt động khoáng sản trên địa bàn tỉnh Cao Bằng
+ENTITY,E30_75,VB_AP_DUNG,Văn bản áp dụng,reference,70212,70301,Nghị định số 65/2006/NĐ-CP Về tổ chức và hoạt động của Thanh tra Tài nguyên và Môi trường
+ENTITY,E30_76,VB_AP_DUNG,Văn bản áp dụng,reference,70321,70410,Thông tư số 02/2001/TT-BCN Hướng dẫn việc xuất khẩu khoáng sản hàng hoá thời kỳ 2001-2005
+ENTITY,E30_77,VB_AP_DUNG,Văn bản áp dụng,reference,70430,70579,Quyết định số 157/2004/QĐ-UB Về việc ban hành quy đinh ký quĩ phục hồi môi trường trong hoạt động khai thác khoáng sản trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_78,VB_AP_DUNG,Văn bản áp dụng,reference,70599,70718,"Nghị quyết số 70/2007/NQ-HĐND Về bổ sung quy hoạch thăm dò, khai thác, chế biến khoáng sản tỉnh Quảng Bình đến năm 2015"
+ENTITY,E30_79,VB_AP_DUNG,Văn bản áp dụng,reference,70738,70878,Quyết định số 9298/2001/QĐ-UB V/v phê duyệt đề án cải cách thủ tục hành chính theo mô hình một cửa của Sở Công nghiệp tỉnh Bà Rịa - Vũng Tàu
+ENTITY,E30_80,VB_AP_DUNG,Văn bản áp dụng,reference,70898,71024,"Quyết định số 105/2008/QĐ-TTg Phê duyệt Quy hoạch thăm dò, khai thác và sử dụng khoáng sản làm xi măng ở Việt Nam đến năm 2020"
+ENTITY,E30_81,VB_AP_DUNG,Văn bản áp dụng,reference,71044,71184,"Nghị quyết số 15/2007/NQ-HĐND Thông qua Quy hoạch quản lý, khai thác và chế biến khoáng sản 
+tỉnh Lào Cai giai đoạn 2007  2015, xét đến 2020"
+ENTITY,E30_82,VB_AP_DUNG,Văn bản áp dụng,reference,71204,71321,Quyết định số 1455/QĐ-ĐCKS Về việc ban hành Quy định về điều kiện của tổ chức và cá nhân hành nghề thăm dò khoáng sản
+ENTITY,E30_83,VB_AP_DUNG,Văn bản áp dụng,reference,71341,71587,"Quyết định số 26/2009/QĐ-UBND Về việc Tạm điều chỉnh giảm mức thu tự nguyện đóng góp của các nhà đầu tư và công tác quản lý trong hoạt động khai thác, chế biến khoáng sản vàng tại khu vực xã Pắc Ta, huyện Tân Uyên và xã Phúc Than, huyện Than Uyên"
+ENTITY,E30_84,VB_AP_DUNG,Văn bản áp dụng,reference,71607,71750,"Quyết định số 337/1998/QĐ-UB Về việc sửa đổi, bổ sung một số điều trong Quy định ban hành kèm theo Quyết định số 297/1998/QĐ-UB ngày 09/11/1998"
+ENTITY,E30_85,VB_AP_DUNG,Văn bản áp dụng,reference,71770,71884,Quyết định số 59/2001/QĐ-UB Về việc ban hành Qui định thủ tục hành chính về giấy phép khai thác tận thu khoáng sản
+ENTITY,E30_86,VB_AP_DUNG,Văn bản áp dụng,reference,71904,72074,"Quyết định số 25/2008/QĐ-BCT Phê duyệt Quy hoạch phân vùng thăm dò, khai thác, chế biến và sử dụng quặng đá quý, đất hiếm và urani giai đoạn đến 2015, có xét đến năm 2025"
+ENTITY,E30_87,VB_AP_DUNG,Văn bản áp dụng,reference,72094,72287,"Nghị quyết số 13/2000/NQ - HĐND Về ban hành quy định tạm thời quản lý, khai thác đất đồi núi, đất để sản xuất gạch, ngói và các sản phẩm đất nung; khai thác cát, sỏi lòng sông trên địa bàn tỉnh"
+ENTITY,E30_88,VB_AP_DUNG,Văn bản áp dụng,reference,72307,72510,"Thông tư liên tịch số 186/2009/TTLT-BTC-BTN&MT Hướng dẫn phương pháp xác định giá trị, phương thức, thủ tục thanh toán tiền sử dụng số liệu, thông tin về kết quả điều tra, thăm dò khoáng sản của Nhà nước"
+ENTITY,E30_89,VB_AP_DUNG,Văn bản áp dụng,reference,72530,72690,"Nghị quyết số 140/2010/NQ-HĐND Về quy hoạch thăm dò, khai thác khoáng sản để chế biến làm vật liệu xây dựng thông thường trên địa bàn tỉnh Hưng Yên đến năm 2020"
+ENTITY,E30_90,VB_AP_DUNG,Văn bản áp dụng,reference,72710,72831,"Quyết định số 2556/QĐ-UBND Về việc phê duyệt khu vực cấm và tạm thời cấm hoạt
+ động khoáng sản trên địa bàn tỉnh Lâm Đồng"
+ENTITY,E30_91,VB_AP_DUNG,Văn bản áp dụng,reference,72851,73088,"Quyết định số 16/2009/QĐ-UBND Về việc ban hành “Quy hoạch thăm dò, khai thác, chế biến và sử dụng các loại Khoáng sản trên địa bàn tỉnh Nghệ An giai đoạn 2009 - 2020”
+(trừ các Khoáng sản vật liệu xây dựng và nguyên liệu sản xuất xi măng)"
+ENTITY,E30_92,VB_AP_DUNG,Văn bản áp dụng,reference,73108,73229,Quyết định số 1523/QĐ-UBND Ban hành Quy định về quản lý nhà nước đối với tài nguyên khoáng sản trên địa bàn tỉnh An Giang
+ENTITY,E30_93,VB_AP_DUNG,Văn bản áp dụng,reference,73249,73406,"Quyết định số 35/2001/QĐ-BCN Về việc ban hành ""Quy chế đánh giá tiềm năng tài nguyên khoáng sản rắn trong điều tra cơ bản địa chất về tài nguyên khoáng sản""."
+ENTITY,E30_94,VB_AP_DUNG,Văn bản áp dụng,reference,73426,73530,"Quyết định số 06/2003/QĐ-BTNMT Ban hành Quy định về trình tự, thủ tục cấp giấy phép hoạt động khoáng sản"
+ENTITY,E30_95,VB_AP_DUNG,Văn bản áp dụng,reference,73550,73687,"Nghị quyết số 127/2009/NQ-HĐND Về việc điều chỉnh, bổ sung quy hoạch thăm dò, khai thác, chế biến khoáng sản tỉnh Quảng Bình đến năm 2015"
+ENTITY,E30_96,VB_AP_DUNG,Văn bản áp dụng,reference,73707,73823,Quyết định số 102/1999/QĐ-UB Về việc quản lý và cấp giấy phép khai thác tận thu khoáng sản trên địa bàn tỉnh Nghệ An
+ENTITY,E30_97,VB_AP_DUNG,Văn bản áp dụng,reference,73843,73995,"Nghị quyết số 11H/2008/NQ-HĐND Thông qua Quy hoạch phân vùng phát triển hoạt động thăm dò, khai thẩc và chế biến khoáng sản tỉnh Thừa Thiên Huế đến 2015"
+ENTITY,E30_98,VB_AP_DUNG,Văn bản áp dụng,reference,74015,74143,"Quyết định số 3900/2000/QĐ-UB Về việc ban hành quy chế quản lý, khai thác tận thu khoáng sản trên địa bàn tỉnh Bà Rịa - Vũng Tàu"
+ENTITY,E30_99,VB_AP_DUNG,Văn bản áp dụng,reference,74163,74317,"Nghị quyết số 11/2009/NQ/HĐND Về việc quy hoạch thăm dò, khai thác, chế biến khoáng sản cát lòng sông tỉnh Bến Tre đến năm 2010 và định hướng đến năm 2020"
+ENTITY,E30_100,VB_AP_DUNG,Văn bản áp dụng,reference,74337,74474,"Quyết định số 116/2007/QĐ-TTg Phê duyệt Quy hoạch điều tra cơ bản địa chất về tài nguyên khoáng sản đến năm 2015, định hướng đến năm 2020"
+ENTITY,E30_101,VB_AP_DUNG,Văn bản áp dụng,reference,74494,74628,"Nghị quyết số 98/2008/NQ-HĐND Về việc bổ sung quy hoạch thăm dò, khai thác, chế biến khoáng sản đến năm 2015 (phần cát, sỏi lòng sông)"
+ENTITY,E30_102,VB_AP_DUNG,Văn bản áp dụng,reference,74648,74783,"Quyết định số 68/2005/QĐ-UBND V/v phê duyệt Quy hoạch thăm dò, khai thác, chế biến khoáng sản trên địa bàn tỉnh Quảng Bình đến năm 2015"
+ENTITY,E30_103,VB_AP_DUNG,Văn bản áp dụng,reference,74803,74916,Quyết định số 180/1999/QĐ-UB Về việc ban hành qui định về quản lý hoạt động khoáng sản trên địa bàn tỉnh Lâm Đồng
+ENTITY,E30_104,VB_AP_DUNG,Văn bản áp dụng,reference,74936,75150,"Quyết định số 47/2008/QĐ-BCT Phê duyệt Quy hoạch phân vùng thăm dò, khai thác, chế biến và sử dụng nhóm khoáng chất nguyên liệu đá vôi trắng (đá hoa), felspat, cao lanh và magnezit đến năm 2015, có xét đến năm 2025"
+ENTITY,E30_105,VB_AP_DUNG,Văn bản áp dụng,reference,75170,75378,"Quyết định số 2261/2010/QĐ-UBND Ban hành Quy chế tạm thời về việc '' Đấu giá quyền khai thác cát, sỏi, đất và đá làm vật liệu xây dựng thuộc thẩm quyền cấp giấy phép khai thai thác khoáng sản của UBND tỉnh''."
+ENTITY,E30_106,VB_AP_DUNG,Văn bản áp dụng,reference,75398,75553,"Nghị quyết số 06/2008/NQ-HĐND Về việc thông qua  Quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản tỉnh Lạng Sơn đến năm 2010, xét đến năm 2020."
+ENTITY,E30_107,VB_AP_DUNG,Văn bản áp dụng,reference,75573,75664,"Thông tư số 02/2000/TT-BCN Hướng dẫn việc xuất khẩu, nhập khẩu khoáng sản hàng hoá năm 2000"
+ENTITY,E30_108,VB_AP_DUNG,Văn bản áp dụng,reference,75684,75797,Quyết định số 154/1997/QĐ-DCKS Quy định các khoáng sản xếp vào loại khoáng sản làm vật liệu xây dựng thông thường
+ENTITY,E30_109,VB_AP_DUNG,Văn bản áp dụng,reference,75817,75971,Quyết định số 30/2007/QĐ-UBND Về việc ban hành Quy định về quản lý hoạt động khoáng sản và bảo vệ tài nguyên khoáng sản trên địa bàn tỉnh Bà Rịa -Vũng Tàu
+ENTITY,E30_110,VB_AP_DUNG,Văn bản áp dụng,reference,75991,76137,"Quyết định số 2702/2006/QĐ-UBND Điều chỉnh, bổ sung quy hoạch khai thác và sử dụng tài nguyên khoáng sản tỉnh Bà Rịa – Vũng Tàu giai đoạn đến 2010"
+ENTITY,E30_111,VB_AP_DUNG,Văn bản áp dụng,reference,76157,76267,"Quyết định số 325/QĐ-ĐCKS Về việc ban hành ""Quy định thủ tục hành chính về cấp giấy phép hoạt động khoáng sản"""
+ENTITY,E30_112,VB_AP_DUNG,Văn bản áp dụng,reference,76287,76399,Quyết định số 836/QĐ-UB ban hành quy định về việc tổ chức quản lý hoạt động khoáng sản trên địa bàn tỉnh Bến Tre
+ENTITY,E30_113,VB_AP_DUNG,Văn bản áp dụng,reference,76419,76691,"Quyết định số 1532/2007/QĐ-UBND Ban hành quy định về việc lập, thẩm định đề án khảo sát, đề án thăm dò; xét và phê duyệt trữ lượng khoáng sản làm vật liệu xây dựng thông thường và than bùn; trình tự, thủ tục cấp giấy phép hoạt động khoáng sản trên địa bàn tỉnh Thái nguyên"
+ENTITY,E30_114,VB_AP_DUNG,Văn bản áp dụng,reference,76711,76860,Quyết định số 54/2008/QĐ-UBND Ban hành quy định (tạm thời) tiêu chí lựa chọn nhà đầu tư đăng ký đầu tư hoạt động khoáng sản trên địa bàn tỉnh Kon Tum
+ENTITY,E30_115,VB_AP_DUNG,Văn bản áp dụng,reference,76880,77051,"Quyết định số 176/2010/QĐ-UBND Về việc phê duyệt Quy hoạch thăm dò, khai thác, chế biến khoáng sản vật liệu xây dựng tỉnh Thanh Hóa đến năm 2015 và định hướng đến năm 2020"
+ENTITY,E30_116,VB_AP_DUNG,Văn bản áp dụng,reference,77071,77218,"Nghị quyết số 187/2010/NQ-HĐND Về quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản tỉnh Quảng Nam đến năm 2015, định hướng đến năm 2025"
+ENTITY,E30_117,VB_AP_DUNG,Văn bản áp dụng,reference,77238,77357,"Thông tư số 05/1998/TT-BTC hướng dẫn thủ tục nộp, quản lý tiền đặt cọc hoặc ký quỹ đối với giấy phép thăm dò khoáng sản"
+ENTITY,E30_118,VB_AP_DUNG,Văn bản áp dụng,reference,77377,77484,Quyết định số 111/2006/QĐ-UBND Ban hành Quy định quản lý hoạt động khoáng sảntrên địa bàn thành phố Đà Nẵng
+ENTITY,E30_119,VB_AP_DUNG,Văn bản áp dụng,reference,77504,77638,"Quyết định số 13/2007/QĐ-UBND Về việc phê duyệt bổ sung quy hoạch thăm dò, khai thác, chế biến khoáng sản tỉnh Quảng Bình đến năm 2015"
+ENTITY,E30_120,VB_AP_DUNG,Văn bản áp dụng,reference,77658,77839,"Quyết định số 42/2010/QĐ-UBND Về việc ban hành Quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản làm Vật liệu xây dựng thông thường trên địa bàn tỉnh Nghệ An đến năm 2020"
+ENTITY,E30_121,VB_AP_DUNG,Văn bản áp dụng,reference,77859,78244,"Quyết định số 30/2009/QĐ-UBND Ban hành Quy định về trình tự, thủ tục giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với tổ chức trong nước, cơ sở tôn giáo, người Việt Nam định cư ở nước ngoài, tổ chức nước ngoài, cá nhân nước ngoài sử dụng đất trên địa bàn tỉnh Yên Bái"
+ENTITY,E30_122,VB_AP_DUNG,Văn bản áp dụng,reference,78264,78359,Quyết định số 74/2001/QĐ-UB Về việc Ban hành quy định thủ tục về giấy phép hoạt động khoáng sản
+ENTITY,E30_123,VB_AP_DUNG,Văn bản áp dụng,reference,78379,78539,Quyết định số 26/2011/QĐ-UBND Ban hành Quy chế về đấu giá quyền khai thác khoáng sản tại một số mỏ làm vật liệu xây dựng thông thường trên địa bàn tỉnh Đồng Nai
+ENTITY,E30_124,VB_AP_DUNG,Văn bản áp dụng,reference,78559,78686,"Quyết định số 04/2011/QĐ-UBND Về việc ủy quyền, phân cấp quản lý, tổ chức thực hiện 
+một số lĩnh vực trên địa bàn tỉnh Nam Định"
+ENTITY,E30_125,VB_AP_DUNG,Văn bản áp dụng,reference,78706,78899,"Quyết định số 167/2003/QĐ-TTg Về việc sửa đổi, bổ sung một số điều tại Quyết định số 181/TTg ngày 26 tháng 3 năm 1997 của Thủ tướng Chính phủ về thành lập Hội đồng Đánh giá trữ lượng khoáng sản"
+ENTITY,E30_126,VB_AP_DUNG,Văn bản áp dụng,reference,78919,79053,"Quyết định số 739/2004/QĐ-UB Về việc ban hành Quy chế quản lý, khai thác và sử dụng vật liệu san lấp trên địa bàn tỉnh Bà Rịa-Vũng Tàu"
+ENTITY,E30_127,VB_AP_DUNG,Văn bản áp dụng,reference,79073,79249,"Quyết định số 11/2008/QĐ-BCT Phê duyệt Quy hoạch phân vùng thăm dò, khai thác, chế biến và sử dụng quặng vàng, đồng, niken, molipđen Việt Nam đến năm 2015, có xét đến năm 2025"
+ENTITY,E30_128,VB_AP_DUNG,Văn bản áp dụng,reference,79269,79462,"Quyết định số 25/2007/QĐ-UBND quy định về việc quản lý, cấp phép thăm dò, khai thác và sử dụng tài nguyên khoáng sản cát lòng sông trên địa bàn tỉnh Tiền Giang và các quy định khác có liên quan"
+ENTITY,E30_129,VB_AP_DUNG,Văn bản áp dụng,reference,79482,79653,"Quyết định số 05/2008/QĐ-BCT Phê duyệt quy hoạch phân vùng thăm dò, khai thác, chế biến và sử dụng quặng thiếc, vonfram và antimon giai đoạn 2007-2015, có xét đến năm 2025"
+ENTITY,E30_130,VB_AP_DUNG,Văn bản áp dụng,reference,79673,79829,"Quyết định số 1136/QĐ-ĐCKS về việc ban hành Quy định nội dung, thủ tục xác nhận tính hợp pháp của tài liệu, mẫu vật địa chất và khoáng sản đưa ra nước ngoài"
+ENTITY,E30_131,VB_AP_DUNG,Văn bản áp dụng,reference,79849,79970,Quyết định số 12/1999/QĐ-BCN Về việc ban hành Quy chế lập đề án báo cáo điều tra cơ bản địa chất về tài nguyên khoáng sản
+ENTITY,E30_132,VB_AP_DUNG,Văn bản áp dụng,reference,79990,80212,"Quyết định số 23/2007/QĐ-UBND Về việc ban hành Quy định về trách nhiệm, quan hệ phối hợp giữa các cấp, các ngành và tổ chức, cá nhân trong việc quản lý, khai thác và bảo vệ tài nguyên khoáng sản trên địa bàn tỉnh Vĩnh Phúc"
+ENTITY,E30_133,VB_AP_DUNG,Văn bản áp dụng,reference,80232,80378,"Quyết định số 152/2008/QĐ-TTg Phê duyệt quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản làm vật liệu xây dựng ở Việt Nam đến năm 2020"
+ENTITY,E30_134,VB_AP_DUNG,Văn bản áp dụng,reference,80398,80482,Nghị định số 76/2000/NĐ-CP Quy định chi tiết việc thi hành Luật Khoáng sản (sửa đổi)
+ENTITY,E30_135,VB_AP_DUNG,Văn bản áp dụng,reference,80502,80707,Quyết định số 04/2010/QĐ-UBND Về việc điều chỉnh một số nội dung Quyết định số 11/2009/QĐ-UBND ngày 02/3/2009 của UBND tỉnh về quy định trình tự thủ tục cấp giấy phép hoạt động khoáng sản trên địa bàn tỉnh
+ENTITY,E30_136,VB_AP_DUNG,Văn bản áp dụng,reference,80727,80988,"Nghị quyết số 21/2008/NQ-HĐND Về việc sửa đổi, bổ sung một số điểm của Quy hoạch thăm dò, khai thác, chế biến khoáng sản tỉnh Bắc Kạn giai đoạn 2007 - 2010, định hướng đến năm 2020 quy định tại Nghị quyết số 18/2007/NQ-HĐND ngày 29/10/2007 của HĐND tỉnh Bắc Kạn"
+ENTITY,E30_137,VB_AP_DUNG,Văn bản áp dụng,reference,81008,81191,"Nghị quyết số 03/2006/NQ-HĐND Phê chuẩn quy hoạch khảo sát, thăm dò, khai thác, chế biến và sử dụng khoáng sản trên địa bàn tỉnh Hà Giang giai đoạn 2006 - 2010 định hướng đến năm 2020"
+ENTITY,E30_138,VB_AP_DUNG,Văn bản áp dụng,reference,81211,81401,"Quyết định số 55/2008/QĐ-UBND Ban hành Quy định về trình tự, thủ tục lập, thẩm định và tổ chức thực hiện dự án đầu tư khai thác, chế biến và sử dụng khoáng sản, trên địa bàn tỉnh Thái Nguyên"
+ENTITY,E30_139,VB_AP_DUNG,Văn bản áp dụng,reference,81421,81513,Thông tư số 11/2010/TT-BTNMT Quy định về Định mức kinh tế - kỹ thuật các công trình địa chất
+ENTITY,E30_140,VB_AP_DUNG,Văn bản áp dụng,reference,81533,81688,"Quyết định số 16/2011/QĐ-UBND Phê duyệt điều chỉnh, bổ sung Quy hoạch thăm dò, khai thác, chế biến một số khoáng sản trên địa bàn tỉnh Kon Tum đến năm 2015"
+ENTITY,E30_141,VB_AP_DUNG,Văn bản áp dụng,reference,81708,81871,"Quyết định số 46/2006/QĐ-UBND Ban hành Quy định quản lý hoạt động khảo sát, thăm dò, khai thác, chế biến và kinh doanh cát, sỏi sông trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_142,VB_AP_DUNG,Văn bản áp dụng,reference,81891,82010,Quyết định số 181/2004/QĐ-UB Về việc ban hành Qui định về quản lý các hoạt động khoáng sản trên địa bàn tỉnh Quảng Ngãi
+ENTITY,E30_143,VB_AP_DUNG,Văn bản áp dụng,reference,82030,82131,"Quyết định số 809/QĐ-UB Về việc tạm dừng khai thác và vận chuyển quặng sắt 
+trên địa bàn tỉnh Lào Cai"
+ENTITY,E30_144,VB_AP_DUNG,Văn bản áp dụng,reference,82151,82357,"Quyết định số 2693/QĐ-UB Về việc ban hành "" Quy định tạm thời về quản lý khai thác, sử dụng đường vận chuyển, bến bãi để chứa và trung chuyển cát, sỏi lòng sông và cửa biển thuộc địa bàn thành phố Hải Phòng"
+ENTITY,E30_145,VB_AP_DUNG,Văn bản áp dụng,reference,82377,82565,"Thông tư số 34/2009/TT-BTNMT Quy định về lập, phê duyệt, kiểm tra, xác nhận Dự án cải tạo, phục hồi môi trường và ký quỹ cải tạo, phục hồi môi trường đối với hoạt động khai thác khoáng sản"
+ENTITY,E30_146,VB_AP_DUNG,Văn bản áp dụng,reference,82585,82729,"Quyết định số 1478/1999/QĐ-UB Về việc ban hành quy định về quản lý sản xuất vôi, gạch, ngói đất nung và khai thác cát trên địa bàn tỉnh Hưng Yên"
+ENTITY,E30_147,VB_AP_DUNG,Văn bản áp dụng,reference,82749,82860,"Nghị định số 102/2008/NĐ-CP Về việc thu thập, quản lý, khai thác và sử dụng dữ liệu về tài nguyên và môi trường"
+ENTITY,E30_148,VB_AP_DUNG,Văn bản áp dụng,reference,82880,83016,"Quyết định số 120/2001/QĐ-UB Về việc ban hành Quy định về quản lý đầu tư, sản xuất gạch, ngói đất sét nung trên địa bàn Thành phố Hà Nội"
+ENTITY,E30_149,VB_AP_DUNG,Văn bản áp dụng,reference,83036,83197,"Nghị quyết số 23/2009/NQ-HĐND Về Quy hoạch thăm dò, khai thác, chế biến và sử dụng Khoáng sản làm vật liệu xây dựng thông thường và sản xuất xi măng đến năm 2020"
+ENTITY,E30_150,VB_AP_DUNG,Văn bản áp dụng,reference,83217,83362,"Quyết định số 133/2007/QĐ-UBND Về việc ban hành quy định về quản lý hoạt động thăm dò, khai thác cát trên các sông thuộc địa bàn thành phồ Hà Nội"
+ENTITY,E30_151,VB_AP_DUNG,Văn bản áp dụng,reference,83382,83493,Chỉ thị số 21/2004/CT-UB Về tăng cường công tác quản lý hoạt động khoáng sản trên địa bàn thành phố Hồ Chí Minh
+ENTITY,E30_152,VB_AP_DUNG,Văn bản áp dụng,reference,83513,83608,Quyết định số 48/1998/QĐ-BCN Về việc ban hành quy chế tổ chức và hoạt động Thanh tra khoáng sản
+ENTITY,E30_153,VB_AP_DUNG,Văn bản áp dụng,reference,83628,83783,"Quyết định số 176/2006/QĐ-TTg Về việc phê duyệt Quy hoạch thăm dò, khai thác, chế biến và sử dụng quặng chì, kẽm giai đoạn 2006 - 2015, có xét đến năm 2020"
+ENTITY,E30_154,VB_AP_DUNG,Văn bản áp dụng,reference,83803,84085,"Quyết định số 50/2009/QĐ-UBND Về sửa đổi một phần nội dung khoản II, Điều 4 quy định tạm thời tiêu chí lựa chọn nhà đầu tư đăng ký đầu tư hoạt động khoáng sản trên địa bàn tỉnh Kon Tum (ban hành kèm theo quyết định số 54/2008/QĐ-UBND ngày 14 tháng 11 năm 2008 của UBND tỉnh Kon Tum)"
+ENTITY,E30_155,VB_AP_DUNG,Văn bản áp dụng,reference,84105,84305,"Quyết định số 204/1998/QĐ-TTg ban hành Quy chế tạm thời về lập dự toán, cấp phát, quản lý, quyết toán kinh phí sự nghiệp kinh tế đối với các hoạt động điều tra cơ bản địa chất về tài nguyên khoáng sản"
+ENTITY,E30_156,VB_AP_DUNG,Văn bản áp dụng,reference,84325,84445,Quyết định số 05/2009/QĐ-UBND Về việc phê duyệt khoanh định khu vực cấm hoạt động khoáng sản trên địa bàn tỉnh Quảng Nam
+ENTITY,E30_157,VB_AP_DUNG,Văn bản áp dụng,reference,84465,84578,Quyết định số 1457/QĐ-ĐCKS Về việc ban hành Quy định về tiêu chuẩn trình độ và năng lực của giám đốc điều hành mỏ
+ENTITY,E30_158,VB_AP_DUNG,Văn bản áp dụng,reference,84598,84721,Thông tư liên tịch số 126/1999/TTLT/BTC-BCN-BKHCNMT Hướng dẫn việc ký quỹ để phục hồi môi trường trong khai thác khoáng sản
+ENTITY,E30_159,VB_AP_DUNG,Văn bản áp dụng,reference,84741,84955,"Quyết định số 25/2010/QĐ-UBND Phê duyệt điều chỉnh, bổ sung Quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản làm vật liệu xây dựng thông thường trên địa bàn tỉnh Kon Tum đến năm 2015 và xét đến năm 2020"
+ENTITY,E30_160,VB_AP_DUNG,Văn bản áp dụng,reference,84975,85088,Quyết định số 06/2011/QĐ-UBND Về việc phê duyệt khu vực cấm hoạt động khoáng sản trên địa bàn tỉnh Thừa Thiên Huế
+ENTITY,E30_161,VB_AP_DUNG,Văn bản áp dụng,reference,85108,85187,Thông tư số 04/2005/TT-BCN Hướng dẫn xuất khẩu khoáng sản giai đoạn 2005 - 2010
+ENTITY,E30_162,VB_AP_DUNG,Văn bản áp dụng,reference,85207,85336,"Quyết định số 30/2010/QĐ-UBND Ban hành quy định về trách nhiệm quản lý và bảo vệ
+tài nguyên khoáng sản trên địa bàn tỉnh Đồng Nai"
+ENTITY,E30_163,VB_AP_DUNG,Văn bản áp dụng,reference,85356,85471,Quyết định số 37/2002/QĐ-BCN Về việc ban hành Quy định về tiêu chuẩn trình độ và năng lực của Giám đốc điều hành mỏ
+ENTITY,E30_164,VB_AP_DUNG,Văn bản áp dụng,reference,85491,85646,Quyết định số 08/2008/QĐ-UBND Về việc phân cấp việc cấp giấy phép khai thác vật liệu san lấp và tận thu bùn trấp trong một số trường hợp cho UBND cấp huyện
+ENTITY,E30_165,VB_AP_DUNG,Văn bản áp dụng,reference,85666,85820,"Nghị quyết số 20/2009/NQ-HĐND Thông qua Quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản trên địa bàn tỉnh Gia Lai giai đoạn 2010 đến năm 2020"
+ENTITY,E30_166,VB_AP_DUNG,Văn bản áp dụng,reference,85840,85960,"Quyết định số 738/2004/QĐ-UB Ban hành quy chế quản lý, khai thác, tận thu khoáng sản trên địa bàn tỉnh Bà Rịa - Vũng Tàu"
+ENTITY,E30_167,VB_AP_DUNG,Văn bản áp dụng,reference,85980,86143,"Quyết định số 2387/2000/QĐ-UB Về việc ban hành ""Quy định về thực hiện ký quỹ để phục hồi môi trường trong khai thác khoáng sản trên địa bàn tỉnh Bà Rịa - Vũng Tàu"""
+ENTITY,E30_168,VB_AP_DUNG,Văn bản áp dụng,reference,86163,86322,"Nghị quyết số 97/2006/NQ-HĐND về việc thông qua Quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản tỉnh Tuyên Quang đến năm 2010, có xét đến năm 2020"
+ENTITY,E30_169,VB_AP_DUNG,Văn bản áp dụng,reference,86342,86507,"Quyết định số 44/2006/QĐ-UBND Về việc ban hành Quy chế đấu giá sử dụng đất, mặt nước khai thác khoáng sản làm vật liệu xây dựng thông thường trên địa bàn tỉnh KonTum"
+ENTITY,E30_170,VB_AP_DUNG,Văn bản áp dụng,reference,86527,86767,"Nghị quyết số 22/2008/NQ-HĐND Về việc điều chỉnh, bổ sung quy hoạch khai thác và sử dụng tài nguyên khoáng sản tỉnh Bà Rịa - Vũng Tàu giai đoạn đến năm 2010 và các biện pháp tăng cường công tác quản lý hoạt động khoáng sản trên địa bàn tỉnh"
+ENTITY,E30_171,VB_AP_DUNG,Văn bản áp dụng,reference,86787,86933,"Nghị quyết số 117/2009/NQ-HĐND Thông qua Quy hoạch thăm dò, khai thác và sử dụng tài nguyên cát lòng sông trên địa bàn tỉnh Vĩnh Long đến năm 2020"
+ENTITY,E30_172,VB_AP_DUNG,Văn bản áp dụng,reference,86953,87230,"Nghị quyết số 25/2008/NQ-HĐND Về việc điều chỉnh, bổ sung Nghị quyết số: 03/2006/NQ-HĐND ngày 10/7/2006 của HĐND tỉnh Hà Giang phê chuẩn quy hoạch khảo sát, thăm dò, khai thác và sử dụng khoáng sản trên địa bàn tỉnh Hà Giang giai đoạn 2006 đến năm 2010, định hướng đến năm 2020"
+ENTITY,E30_173,VB_AP_DUNG,Văn bản áp dụng,reference,87250,87440,"Quyết định số 36/2010/QĐ-UBND Về việc ban hành Quy định (tạm thời) về tiêu chí xác định năng lực, kinh nghiệm của các doanh nghiệp xin cấp phép hoạt động khoáng sản trên địa bàn tỉnh Nghệ An"
+ENTITY,E30_174,VB_AP_DUNG,Văn bản áp dụng,reference,87460,87602,Quyết định số 3619/QĐ-UB Về quy định quản lý hoạt động khoáng sản trên địa bàn thành phố Đà Nẵng do Ủy ban nhân dân thành phố Đà Nẵng ban hành
+ENTITY,E30_175,VB_AP_DUNG,Văn bản áp dụng,reference,87622,87855,"Quyết định số 332/QĐ-UBND V/v Sửa đổi Điều 9 Quy định về việc Quản lý Tài nguyên Khoáng sản, các hoạt động khoáng sản trên địa bàn tỉnh Quảng Trị ban hành kèm theo Quyết định số: 307/1999/QĐ-UB ngày 18/03/1998 của UBND tỉnh Quảng Trị"
+ENTITY,E30_176,VB_AP_DUNG,Văn bản áp dụng,reference,87875,88041,"Quyết định số 08/2007/QĐ-UBND Ban hành Quy định phân công, phân cấp quản lý, bảo vệ tài nguyên khoáng sản và quản lý hoạt động khoáng sản trên địa bàn tỉnh Bình Thuận"
+ENTITY,E30_177,VB_AP_DUNG,Văn bản áp dụng,reference,88061,88316,"Quyết định số 21/2014/QĐ-UBND Về nội dung thuộc thẩm quyền của Ủy ban nhân dân Thành phố do Luật Đất đai 2013 và Nghị định giao cho về thu hồi đất, giao đất, cho thuê đất, chuyển mục đích sử dụng đất để thực hiện dự án đầu tư trên địa bàn thành phố Hà Nội"
+ENTITY,E30_178,VB_AP_DUNG,Văn bản áp dụng,reference,88336,88494,"Quyết định số 3350/2007/QĐ-UBND Về việc: Phê duyệt Quy hoạch khảo sát, thăm dò, khai thác và sử dụng tài nguyên cát, sỏi lòng sông tỉnh Thanh Hóa đến năm 2015"
+ENTITY,E30_179,VB_AP_DUNG,Văn bản áp dụng,reference,88514,88661,"Quyết định số 33/2009/QĐ-UBND Về việc phê duyệt điều chỉnh, bổ sung quy hoạch thăm dò,  khai thác, chế biến khoáng sản tỉnh Quảng Bình đến năm 2015"
+ENTITY,E30_180,VB_AP_DUNG,Văn bản áp dụng,reference,88681,88921,"Nghị định số 07/2009/NĐ-CP Sửa đổi, bổ sung một số Điều của Nghị định số 160/2005/NĐ-CP ngày 27 tháng 12 năm 2005 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật khoáng sản và Luật sửa đổi, bổ sung một số Điều của Luật khoáng sản"
+ENTITY,E30_181,VB_AP_DUNG,Văn bản áp dụng,reference,88941,89115,"Nghị quyết số 143/2009/NQ-HĐND Về việc điều chỉnh, bổ sung quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản tỉnh Đồng Nai 
+đến năm 2010 và định hướng đến năm 2020"
+ENTITY,E30_182,VB_AP_DUNG,Văn bản áp dụng,reference,89135,89265,Quyết định số 3221/2009/QĐ-UBND Ban hành quy định phân cấp quản lý nhà nước về tài nguyên và môi trường trên địa bàn tỉnh Cao Bằng
+ENTITY,E30_183,VB_AP_DUNG,Văn bản áp dụng,reference,89285,89446,"Quyết định số 29/2008/QĐ-UBND Về việc quy định chế độ thu, nộp quản lý và sử dụng phí bảo vệ môi trường đối với khai thác khoáng sản trên địa bàn tỉnh Bình Dương"
+ENTITY,E30_184,VB_AP_DUNG,Văn bản áp dụng,reference,89466,89558,"Nghị định số 25/2009/NĐ-CP Về quản lý tổng hợp tài nguyên và bảo vệ môi trường biển, hải đảo"
+ENTITY,E30_185,VB_AP_DUNG,Văn bản áp dụng,reference,89578,89705,"Quyết định số 93/2004/QĐ-UB V/v: Ban hành Quy định về phụ thu đối với khai thác, chế biến khoáng sản trên địa bàn tỉnh Lai Châu"
+ENTITY,E30_186,VB_AP_DUNG,Văn bản áp dụng,reference,89725,89867,"Nghị quyết số 118/2008/NQ-HĐND Quy hoạch thăm dò, khai thác, chế biến và sử dụng khoáng sản
+tỉnh Phú Yên đến năm 2015, định hướng đến năm 2020"
+ENTITY,E30_187,VB_AP_DUNG,Văn bản áp dụng,reference,89887,90137,"Nghị quyết số 105/2007/NQ-HĐND V/v ban hành Quy định mức thu do các nhà đầu tư nộp ngân sách tỉnh để đầu tư cải tạo, nâng cấp, tu bổ, xây dựng mới cơ sở hạ tầng đối với những dự án khai thác khoáng sản thuộc thẩm quyền cấp phép của UBND tỉnh Lai Châu"
+ENTITY,E30_188,VB_AP_DUNG,Văn bản áp dụng,reference,90157,90300,"Nghị quyết số 10/2008/NQ-HĐND Thông qua Quy hoạch thăm dò, khai thác, chế biến quặng Chì, Kẽm trên địa bàn tỉnh Thái nguyên giai đoạn 2008-2015"
+ENTITY,E30_189,VB_AP_DUNG,Văn bản áp dụng,reference,90320,90426,"Quyết định số 71/2008/QĐ-TTg Về ký quỹ cải tạo, phục hồi môi trường đối với hoạt động khai thác khoáng sản"
+ENTITY,E30_190,VB_AP_DUNG,Văn bản áp dụng,reference,90446,90538,Quyết định số 58/2008/QĐ-UBND Ban hành Quy định quản lý khoáng sản trên địa bàn tỉnh Lào Cai
+ENTITY,E30_191,VB_AP_DUNG,Văn bản áp dụng,reference,90558,90706,"Quyết định số 104/2007/QĐ-TTg Phê duyệt Quy hoạch thăm dò, khai thác, chế biến và sử dụng quặng titan giai đoạn 2007 - 2015, định hướng đến năm 2025"
+ENTITY,E30_192,VB_AP_DUNG,Văn bản áp dụng,reference,90726,90831,Quyết định số 45/2006/QÐ-UBND Về việc ban hành quy định về quản lý khoáng sản trên địa bàn tỉnh Quảng Nam
+ENTITY,E30_193,VB_AP_DUNG,Văn bản áp dụng,reference,90851,90981,"Nghị quyết số 65/2006/NQ-HĐND Quy hoạch thăm dò, khai thác, chế biến và sử dụng quặng sắt trên địa bàn tỉnh Thanh Hoá đến năm 2020"
+ENTITY,E30_194,VB_AP_DUNG,Văn bản áp dụng,reference,91001,91196,"Quyết định số 11/2017/QĐ-UBND Về việc ban hành quy định một số nội dung về thu hồi đất, giao đất, cho thuê đất, chuyển mục đích sử dụng đất để thực hiện dự án đầu tư trên địa bàn thành phố Hà Nội"
+ENTITY,E30_195,VB_AP_DUNG,Văn bản áp dụng,reference,91216,91324,"Thông tư số 06/2011/TT-BTNMT Quy định về kiểm soát chất lượng các kết quả phân tích mẫu địa chất, khoáng sản"
+ENTITY,E30_196,VB_AP_DUNG,Văn bản áp dụng,reference,91344,91539,"Nghị định số 77/2007/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 150/2004/NĐ-CP ngày 29 tháng 07 năm 2004 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực khoáng sản"
+ENTITY,E30_197,VB_AP_DUNG,Văn bản áp dụng,reference,91559,91711,"Nghị quyết số 11R/2008/NQ-HĐND Thông qua Quy hoạch phân vùng phát triển hoạt động thăm dò,khai thẩc và chế biến khoáng sản tỉnh Thừa Thiên Huế đến 2015."
+ENTITY,E30_198,VB_AP_DUNG,Văn bản áp dụng,reference,91731,91849,Quyết định số 01/2010/QĐ-UBND Về việc phê duyệt khoanh định khu vực cấm hoạt động khoáng sản trên địa bàn tỉnh Gia Lai
+ENTITY,E30_199,VB_AP_DUNG,Văn bản áp dụng,reference,91869,91925,Nghị định số 124/2007/NĐ-CP Về quản lý vật liệu xây dựng
+ENTITY,E30_200,VB_AP_DUNG,Văn bản áp dụng,reference,91945,92031,Quyết định số 23/2004/QĐ-BTNMT Ban hành Quy định về báo cáo trong hoạt động khoáng sản
+ENTITY,E30_201,VB_AP_DUNG,Văn bản áp dụng,reference,92051,92195,"Thông tư số 39/2007/TT-BTC Hướng dẫn thực hiện chính sách đảm bảo quyền lợi của địa phương trong bảo vệ tài nguyên quặng chì, kẽm chưa khai thác"
+ENTITY,E30_202,VB_AP_DUNG,Văn bản áp dụng,reference,92215,92440,"Quyết định số 41/2008/QĐ-BCT Phê duyệt Quy hoạch phân vùng thăm dò, khai thác, chế biến và sử dụng nhóm khoáng chất công nghiệp (serpentin, barit, grafit, fluofit, bentonit, diatomit và talc) đến năm 2015, có xét đến năm 2025"
+ENTITY,E30_203,VB_AP_DUNG,Văn bản áp dụng,reference,92460,92613,"Quyết định số 29/2009/QĐ-UBND Về việc phê duyệt Quy hoạch thăm dò, khai thác và sử dụng khoáng sản cát lòng sông trên địa bàn tỉnh Vĩnh Long đến năm 2020"
+ENTITY,E35_1,CHUONG,Chương,structure,826,834,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,7001,7010,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,10449,10459,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,15606,15615,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,18341,18349,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,24403,24412,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,43082,43092,CHƯƠNG VII
+ENTITY,E35_8,CHUONG,Chương,structure,46759,46770,CHƯƠNG VIII
+ENTITY,E35_9,CHUONG,Chương,structure,49507,49516,CHƯƠNG IX
+ENTITY,E35_10,CHUONG,Chương,structure,50522,50530,CHƯƠNG X
+ENTITY,E36_1,MUC,Mục,structure,24444,24449,MỤC 1
+ENTITY,E36_2,MUC,Mục,structure,36706,36711,MỤC 2
+ENTITY,E36_3,MUC,Mục,structure,39738,39743,MỤC 3
+ENTITY,E38_1,DIEU,Điều,structure,856,1109,"Điều 1. Sở hữu tài nguyên khoáng sản
+Tài nguyên khoáng sản trong phạm vi đất liền, hải đảo, nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa của nước Cộng hòa xã hội chủ nghĩa Việt Nam đều thuộc sở hữu toàn dân, do Nhà nước thống nhất quản lý."
+ENTITY,E38_2,DIEU,Điều,structure,1110,1488,"Điều 2. Đối tượng và phạm vi áp dụng
+Luật này được áp dụng đối với việc quản lý, bảo vệ, điều tra cơ bản địa chất về tài nguyên khoáng sản và hoạt động khoáng sản, bao gồm khảo sát, thăm dò, khai thác và chế biến khoáng sản ở thể rắn, thể khí, nước khoáng và nước nóng thiên nhiên; riêng dầu khí và các loại nước thiên nhiên khác được điều chỉnh bằng các văn bản pháp luật khác."
+ENTITY,E38_3,DIEU,Điều,structure,1489,1571,"Điều 3. Giải thích từ ngữ
+Trong Luật này, những từ ngữ dưới đây được hiểu như sau:"
+ENTITY,E38_4,DIEU,Điều,structure,3408,4593,"Điều 4. Quản lý, bảo vệ và sử dụng tài nguyên khoáng sản
+Nhà nước có chính sách quản lý, bảo vệ, sử dụng hợp lý, tiết kiệm và có hiệu quả tài nguyên khoáng sản, đồng thời bảo vệ môi trường, tài nguyên khác có liên quan, bảo đảm quốc phòng, an ninh, an toàn lao động và vệ sinh lao động trong hoạt động khoáng sản.
+Chính phủ thống nhất quản lý mọi tài nguyên khoáng sản và hoạt động khoáng sản trong phạm vi cả nước, có trách nhiệm tổ chức thi hành pháp luật về khoáng sản.
+Hội đồng nhân dân, ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện các biện pháp quản lý, bảo vệ tài nguyên khoáng sản; giám sát, kiểm tra việc thi hành pháp luật về khoáng sản tại địa phương.
+Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tuyên truyền, vận động nhân dân thực hiện nghĩa vụ bảo vệ tài nguyên khoáng sản, giám sát việc thi hành pháp luật về khoáng sản.
+Cơ quan nhà nước, tổ chức kinh tế, tổ chức chính trị - xã hội, tổ chức xã hội, đơn vị vũ trang nhân dân và mọi công dân có trách nhiệm thi hành pháp luật về khoáng sản, có quyền và trách nhiệm phát hiện, tố cáo hành vi vi phạm pháp luật về khoáng sản."
+ENTITY,E38_5,DIEU,Điều,structure,4594,4699,"Điều 5. Khuyến khích đầu tư hoạt động khoáng sản, phát triển công nghiệp khai thác và chế biến khoáng sản"
+ENTITY,E38_6,DIEU,Điều,structure,5601,5910,"Điều 6. Tổ chức, cá nhân được hoạt động khoáng sản
+Tổ chức, cá nhân có đủ điều kiện theo quy định của Luật này và các quy định khác của pháp luật được phép hoạt động khoáng sản.
+Chính phủ quy định các điều kiện về tài chính, công nghệ và các điều kiện khác của tổ chức, cá nhân được phép hoạt động khoáng sản."
+ENTITY,E38_7,DIEU,Điều,structure,5911,6121,"Điều 7. Quyền lợi của nhân dân địa phương nơi có khoáng sản được khai thác, chế biến
+Quyền lợi của nhân dân địa phương nơi có khoáng sản được khai thác, chế biến được bảo hộ bằng các chính sách chủ yếu sau đây:"
+ENTITY,E38_8,DIEU,Điều,structure,6851,7001,"Điều 8. Nghiêm cấm vi phạm pháp luật về khoáng sản
+Nghiêm cấm làm lộ bí mật nhà nước về tài nguyên khoáng sản và hoạt động khoáng sản trái pháp luật.
+"
+ENTITY,E38_9,DIEU,Điều,structure,7091,7142,Điều 9. Bảo vệ tài nguyên khoáng sản chưa khai thác
+ENTITY,E38_10,DIEU,Điều,structure,8344,8439,"Điều 10. Bảo vệ tài nguyên khoáng sản trong hoạt động thăm dò, khai thác và chế biến khoáng sản"
+ENTITY,E38_11,DIEU,Điều,structure,9145,9755,"Điều 11. Điều tra cơ bản địa chất về tài nguyên khoáng sản
+Nhà nước đầu tư và tổ chức thực hiện có hiệu quả việc điều tra cơ bản địa chất về tài nguyên khoáng sản trên cơ sở điều tra cơ bản địa chất và áp dụng các thành tựu khoa học, công nghệ để hoạch định chiến lược, chính sách quốc gia về tài nguyên khoáng sản, phát triển công nghiệp khai thác và chế biến khoáng sản.
+Nhà nước khuyến khích các tổ chức, cá nhân nước ngoài hợp tác với Việt Nam trong lĩnh vực điều tra cơ bản địa chất về tài nguyên khoáng sản.
+Chính phủ quy định việc quản lý các hoạt động điều tra cơ bản địa chất về tài nguyên khoáng sản."
+ENTITY,E38_12,DIEU,Điều,structure,9756,9817,"Điều 12. Mẫu vật, số liệu, thông tin về tài nguyên khoáng sản"
+ENTITY,E38_13,DIEU,Điều,structure,10535,10572,Điều 13. Khu vực hoạt động khoáng sản
+ENTITY,E38_14,DIEU,Điều,structure,11010,11069,Điều 14. Khu vực cấm hoặc tạm thời cấm hoạt động khoáng sản
+ENTITY,E38_15,DIEU,Điều,structure,11647,11968,"Điều 15. Khu vực có khoáng sản độc hại
+Cơ quan quản lý nhà nước về khoáng sản có trách nhiệm khoanh định khu vực có khoáng sản độc hại, thông báo cho chính quyền địa phương, các cơ quan lao động, y tế có thẩm quyền để có biện pháp bảo vệ sức khỏe của nhân dân và hạn chế tác hại đối với môi trường, môi sinh ở địa phương."
+ENTITY,E38_16,DIEU,Điều,structure,11969,12022,Điều 16. Bảo vệ môi trường trong hoạt động khoáng sản
+ENTITY,E38_17,DIEU,Điều,structure,12903,12950,Điều 17. Sử dụng đất trong hoạt động khoáng sản
+ENTITY,E38_18,DIEU,Điều,structure,14220,14268,Điều 18. Sử dụng nước trong hoạt động khoáng sản
+ENTITY,E38_19,DIEU,Điều,structure,14820,14877,Điều 19. Sử dụng cơ sở hạ tầng trong hoạt động khoáng sản
+ENTITY,E38_20,DIEU,Điều,structure,15323,15606,"Điều 20. Bảo hiểm trong hoạt động khoáng sản
+Tổ chức, cá nhân được phép hoạt động khoáng sản phải mua bảo hiểm đối với các phương tiện, công trình phục vụ hoạt động khoáng sản, bảo hiểm môi trường, bảo hiểm xã hội, bảo hiểm lao động và các bảo hiểm khác theo quy định của pháp luật.
+"
+ENTITY,E38_21,DIEU,Điều,structure,15636,15674,Điều 21. Giấy phép khảo sát khoáng sản
+ENTITY,E38_22,DIEU,Điều,structure,16157,16291,"Điều 22. Quyền của tổ chức, cá nhân được phép khảo sát khoáng sản
+Tổ chức, cá nhân được phép khảo sát khoáng sản có các quyền sau đây:"
+ENTITY,E38_23,DIEU,Điều,structure,17002,17142,"Điều 23. Nghĩa vụ của tổ chức, cá nhân được phép khảo sát khoáng sản
+Tổ chức, cá nhân được phép khảo sát khoáng sản có các nghĩa vụ sau đây:"
+ENTITY,E38_24,DIEU,Điều,structure,17717,17849,"Điều 24. Thu hồi giấy phép khảo sát khoáng sản
+Giấy phép khảo sát khoáng sản bị thu hồi khi xảy ra một trong các trường hợp sau đây:"
+ENTITY,E38_25,DIEU,Điều,structure,18369,18406,Điều 25. Giấy phép thăm dò khoáng sản
+ENTITY,E38_26,DIEU,Điều,structure,19145,19277,"Điều 26. Quyền của tổ chức, cá nhân được phép thăm dò khoáng sản
+Tổ chức, cá nhân được phép thăm dò khoáng sản có các quyền sau đây:"
+ENTITY,E38_27,DIEU,Điều,structure,20379,20517,"Điều 27. Nghĩa vụ của tổ chức, cá nhân được phép thăm dò khoáng sản
+Tổ chức, cá nhân được phép thăm dò khoáng sản có các nghĩa vụ sau đây:"
+ENTITY,E38_28,DIEU,Điều,structure,21725,22511,"Điều 28. Đề án thăm dò khoáng sản
+Trong đề án thăm dò khoáng sản phải xác định tiến độ, khối lượng công việc, công nghệ, biện pháp bảo đảm an toàn lao động, vệ sinh lao động, bảo vệ môi trường và dự toán chi phí thăm dò. Đề án thăm dò phải được cơ quan quản lý nhà nước về khoáng sản thẩm định để xem xét khi cấp giấy phép thăm dò.
+Dự toán chi phí của đề án thăm dò khoáng sản không được thấp hơn mức chi phí tối thiểu do Chính phủ quy định. Trong trường hợp chi phí thực tế thấp hơn mức chi phí tối thiểu, thì tổ chức, cá nhân được phép thăm dò khoáng sản phải nộp phần chênh lệch đó vào ngân sách nhà nước.
+Khi cần thay đổi tiến độ, dự toán chi phí, tổ chức, cá nhân được phép thăm dò khoáng sản phải kịp thời báo cáo với cơ quan quản lý nhà nước về khoáng sản để xem xét, quyết định."
+ENTITY,E38_29,DIEU,Điều,structure,22512,22642,"Điều 29. Thu hồi giấy phép thăm dò khoáng sản
+Giấy phép thăm dò khoáng sản bị thu hồi khi xảy ra một trong các trường hợp sau đây:"
+ENTITY,E38_30,DIEU,Điều,structure,23394,23449,Điều 30. Chấm dứt hiệu lực giấy phép thăm dò khoáng sản
+ENTITY,E38_31,DIEU,Điều,structure,24471,24510,Điều 31. Giấy phép khai thác khoáng sản
+ENTITY,E38_32,DIEU,Điều,structure,25923,26059,"Điều 32. Quyền của tổ chức, cá nhân được phép khai thác khoáng sản
+Tổ chức, cá nhân được phép khai thác khoáng sản có các quyền sau đây:"
+ENTITY,E38_33,DIEU,Điều,structure,27172,27314,"Điều 33. Nghĩa vụ của tổ chức, cá nhân được phép khai thác khoáng sản
+Tổ chức, cá nhân được phép khai thác khoáng sản có các nghĩa vụ sau đây:"
+ENTITY,E38_34,DIEU,Điều,structure,29403,29438,Điều 34. Thuế tài nguyên khoáng sản
+ENTITY,E38_35,DIEU,Điều,structure,29663,29745,Điều 35. An toàn lao động và vệ sinh lao động trong hoạt động khai thác khoáng sản
+ENTITY,E38_36,DIEU,Điều,structure,31155,31185,Điều 36. Giám đốc điều hành mỏ
+ENTITY,E38_37,DIEU,Điều,structure,31970,32042,"Điều 37. Báo cáo nghiên cứu khả thi về khai thác khoáng sản, thiết kế mỏ"
+ENTITY,E38_38,DIEU,Điều,structure,32674,33091,"Điều 38. Bản đồ hiện trạng mỏ
+Tại mỏ phải có bản đồ hiện trạng mỏ. Định kỳ theo quy định của Chính phủ và khi có yêu cầu tổ chức, cá nhân được phép khai thác khoáng sản phải nộp bản đồ hiện trạng mỏ kèm theo báo cáo về hoạt động khai thác khoáng sản cho cơ quan quản lý nhà nước về khoáng sản.
+Tổ chức, cá nhân được phép khai thác khoáng sản phải chịu trách nhiệm về mức độ chính xác, đầy đủ của bản đồ hiện trạng mỏ."
+ENTITY,E38_39,DIEU,Điều,structure,33092,33226,"Điều 39. Thu hồi giấy phép khai thác khoáng sản
+Giấy phép khai thác khoáng sản bị thu hồi khi xảy ra một trong các trường hợp sau đây:"
+ENTITY,E38_40,DIEU,Điều,structure,34330,34387,Điều 40. Chấm dứt hiệu lực giấy phép khai thác khoáng sản
+ENTITY,E38_41,DIEU,Điều,structure,35486,35870,"Điều 41. Khai thác khoáng sản làm vật liệu xây dựng thông thường
+Hoạt động khai thác khoáng sản làm vật liệu xây dựng thông thường cũng phải tuân theo các quy định về khai thác khoáng sản của Luật này.
+Chính phủ quy định danh mục các khoáng sản được xếp vào loại khoáng sản làm vật liệu xây dựng thông thường và những trường hợp không phải xin giấy phép khai thác loại khoáng sản này."
+ENTITY,E38_42,DIEU,Điều,structure,35871,35924,"Điều 42. Khai thác nước khoáng, nước nóng thiên nhiên"
+ENTITY,E38_43,DIEU,Điều,structure,36431,36706,"Điều 43. Khai thác khoáng sản quý, hiếm, đặc biệt và độc hại
+Hoạt động khai thác khoáng sản quý, hiếm, đặc biệt và độc hại phải tuân theo các quy định của Luật này và các quy định khác của pháp luật.
+Chính phủ quy định danh mục các khoáng sản quý, hiếm, đặc biệt và độc hại.
+"
+ENTITY,E38_44,DIEU,Điều,structure,36732,37016,"Điều 44. Giấy phép chế biến khoáng sản
+Tổ chức, cá nhân hoạt động chế biến khoáng sản phải xin giấy phép chế biến khoáng sản, trừ trường hợp hoạt động chế biến khoáng sản kèm theo hoạt động khai thác đã được phép.
+Việc cấp, thu hồi giấy phép chế biến khoáng sản do Chính phủ quy định."
+ENTITY,E38_45,DIEU,Điều,structure,37017,37151,"Điều 45. Quyền của tổ chức, cá nhân được phép chế biến khoáng sản
+Tổ chức, cá nhân được phép chế biến khoáng sản có các quyền sau đây:"
+ENTITY,E38_46,DIEU,Điều,structure,37926,38066,"Điều 46. Nghĩa vụ của tổ chức, cá nhân được phép chế biến khoáng sản
+Tổ chức, cá nhân được phép chế biến khoáng sản có các nghĩa vụ sau đây:"
+ENTITY,E38_47,DIEU,Điều,structure,38782,38979,"Điều 47. Chế biến khoáng sản quý, hiếm, đặc biệt và độc hại
+Hoạt động chế biến khoáng sản quý, hiếm, đặc biệt và độc hại phải tuân theo các quy định của Luật này và các quy định khác của pháp luật."
+ENTITY,E38_48,DIEU,Điều,structure,38980,39069,Điều 48. Khuyến khích phát triển công nghiệp chế biến khoáng sản từ khoáng sản trong nước
+ENTITY,E38_49,DIEU,Điều,structure,39762,40207,"Điều 49. Khai thác tận thu
+Khai thác tận thu là hình thức khai thác khoáng sản trong điều kiện việc đầu tư khai thác quy mô công nghiệp không có hiệu quả tại các khu vực có khoáng sản phân bố không tập trung, khu vực khai thác lại ở các mỏ đã có quyết định đóng cửa; khai thác khoáng sản làm vật liệu xây dựng thông thường không theo quy mô công nghiệp.
+Cơ quan quản lý nhà nước về khoáng sản khoanh định các khu vực được phép khai thác tận thu."
+ENTITY,E38_50,DIEU,Điều,structure,40208,40727,"Điều 50. Giấy phép khai thác tận thu
+Giấy phép khai thác tận thu chỉ được cấp cho tổ chức, cá nhân Việt Nam; ưu tiên cấp cho tổ chức, cá nhân thường trú tại địa phương nơi có khoáng sản; không cấp đối với khu vực đang có hoạt động thăm dò hoặc khai thác hợp pháp và khu vực cấm hoặc tạm thời cấm hoạt động khoáng sản theo quy định tại khoản 1 Điều 14 của Luật này.
+Thời hạn của một giấy phép khai thác tận thu không quá ba năm và được gia hạn theo quy định của Chính phủ, nhưng tổng thời gian gia hạn không quá hai năm."
+ENTITY,E38_51,DIEU,Điều,structure,40728,40858,"Điều 51. Quyền của tổ chức, cá nhân được phép khai thác tận thu
+Tổ chức, cá nhân được phép khai thác tận thu có các quyền sau đây:"
+ENTITY,E38_52,DIEU,Điều,structure,41291,41427,"Điều 52. Nghĩa vụ của tổ chức, cá nhân được phép khai thác tận thu
+Tổ chức, cá nhân được phép khai thác tận thu có các nghĩa vụ sau đây:"
+ENTITY,E38_53,DIEU,Điều,structure,42085,42129,Điều 53. Thu hồi giấy phép khai thác tận thu
+ENTITY,E38_54,DIEU,Điều,structure,43124,43221,"Điều 54. Nội dung quản lý nhà nước về khoáng sản
+Nội dung quản lý nhà nước về khoáng sản bao gồm:"
+ENTITY,E38_55,DIEU,Điều,structure,44584,45518,"Điều 55. Thẩm quyền quản lý nhà nước về khoáng sản
+Theo nhiệm vụ và quyền hạn của mình, Chính phủ thống nhất quản lý nhà nước về khoáng sản trong phạm vi cả nước.
+Bộ Công nghiệp thực hiện chức năng quản lý nhà nước về khoáng sản. Bộ Công nghiệp, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp trong việc quản lý nhà nước về khoáng sản.
+Hội đồng đánh giá trữ lượng khoáng sản giúp Chính phủ trong việc thẩm định, xét duyệt trữ lượng khoáng sản. Tổ chức và hoạt động của Hội đồng đánh giá trữ lượng khoáng sản do Chính phủ quy định.
+Ủy ban nhân dân các cấp thực hiện chức năng quản lý nhà nước về khoáng sản tại địa phương theo quy định của Luật này và theo phân cấp của Chính phủ.
+Hệ thống tổ chức, nhiệm vụ và quyền hạn của các cơ quan quản lý nhà nước về khoáng sản của Bộ Công nghiệp và của ủy ban nhân dân các cấp do Chính phủ quy định."
+ENTITY,E38_56,DIEU,Điều,structure,45519,45600,"Điều 56. Thẩm quyền, thủ tục cấp, gia hạn, thu hồi giấy phép hoạt động khoáng sản"
+ENTITY,E38_57,DIEU,Điều,structure,46141,46269,"Điều 57. Giải quyết tranh chấp về hoạt động khoáng sản
+Việc giải quyết tranh chấp về hoạt động khoáng sản được quy định như sau:"
+ENTITY,E38_58,DIEU,Điều,structure,46808,47035,"Điều 58. Thanh tra chuyên ngành về khoáng sản
+Cơ quan quản lý nhà nước về khoáng sản thực hiện chức năng thanh tra chuyên ngành về khoáng sản. Tổ chức và hoạt động của thanh tra chuyên ngành về khoáng sản do Chính phủ quy định."
+ENTITY,E38_59,DIEU,Điều,structure,47036,47156,"Điều 59. Nhiệm vụ của thanh tra chuyên ngành về khoáng sản
+Thanh tra chuyên ngành về khoáng sản có các nhiệm vụ sau đây:"
+ENTITY,E38_60,DIEU,Điều,structure,47767,47909,"Điều 60. Thẩm quyền của thanh tra chuyên ngành về khoáng sản
+Trong quá trình thanh tra, Đoàn thanh tra và Thanh tra viên có các quyền sau đây:"
+ENTITY,E38_61,DIEU,Điều,structure,48724,48820,"Điều 61. Trách nhiệm của tổ chức, cá nhân đối với hoạt động thanh tra chuyên ngành về khoáng sản"
+ENTITY,E38_62,DIEU,Điều,structure,49035,49078,"Điều 62. Quyền khiếu nại, tố cáo, khởi kiện"
+ENTITY,E38_63,DIEU,Điều,structure,49546,49709,"Điều 63. Khen thưởng
+Tổ chức, cá nhân có thành tích trong việc nghiên cứu phát hiện, bảo vệ tài nguyên khoáng sản thì được khen thưởng theo quy định của pháp luật."
+ENTITY,E38_64,DIEU,Điều,structure,49710,49732,Điều 64. Xử lý vi phạm
+ENTITY,E38_65,DIEU,Điều,structure,50551,50579,Điều 65. Điều khoản thi hành
+ENTITY,E38_66,DIEU,Điều,structure,51256,51344,"Điều 66. Hiệu lực thi hành
+Luật này có hiệu lực thi hành kể từ ngày 01 tháng 9 năm 1996."
+ENTITY,E39_1,KHOAN,Khoản,structure,1572,1867,"1- Khoáng sản là tài nguyên trong lòng đất, trên mặt đất dưới dạng những tích tụ tự nhiên khoáng vật, khoáng chất có ích ở thể rắn, thể lỏng, thể khí, hiện tại hoặc sau này có thể được khai thác. Khoáng vật, khoáng chất ở bãi thải của mỏ mà sau này có thể được khai thác lại, cũng là khoáng sản."
+ENTITY,E39_2,KHOAN,Khoản,structure,1868,2112,"2- Nước khoáng là nước thiên nhiên dưới đất, có nơi lộ ra trên mặt đất, có chứa một số hợp chất có hoạt tính sinh học với nồng độ cao theo quy định của Tiêu chuẩn Việt Nam hoặc theo tiêu chuẩn nước ngoài được Nhà nước Việt Nam cho phép áp dụng."
+ENTITY,E39_3,KHOAN,Khoản,structure,2113,2327,"3- Nước nóng thiên nhiên là nước thiên nhiên dưới đất, có nơi lộ ra trên mặt đất, luôn luôn có nhiệt độ theo quy định của Tiêu chuẩn Việt Nam hoặc theo tiêu chuẩn nước ngoài được Nhà nước Việt Nam cho phép áp dụng."
+ENTITY,E39_4,KHOAN,Khoản,structure,2328,2515,"4- Điều tra cơ bản địa chất là hoạt động nghiên cứu, điều tra về cấu trúc, thành phần vật chất, lịch sử phát sinh, phát triển vỏ Trái Đất và các điều kiện, quy luật sinh khoáng liên quan."
+ENTITY,E39_5,KHOAN,Khoản,structure,2516,2748,"5- Điều tra cơ bản địa chất về tài nguyên khoáng sản là việc đánh giá tổng quan tiềm năng tài nguyên khoáng sản trên cơ sở điều tra cơ bản địa chất, làm căn cứ khoa học cho việc định hướng các hoạt động khảo sát, thăm dò khoáng sản."
+ENTITY,E39_6,KHOAN,Khoản,structure,2749,2918,"6- Khảo sát khoáng sản là hoạt động nghiên cứu tư liệu địa chất về tài nguyên khoáng sản, khảo sát thực địa nhằm khoanh định khu vực có triển vọng để thăm dò khoáng sản."
+ENTITY,E39_7,KHOAN,Khoản,structure,2919,3140,"7- Thăm dò khoáng sản là hoạt động nhằm tìm kiếm, phát hiện, xác định trữ lượng, chất lượng khoáng sản, điều kiện kỹ thuật khai thác, kể cả việc lấy, thử nghiệm mẫu công nghệ và nghiên cứu khả thi về khai thác khoáng sản."
+ENTITY,E39_8,KHOAN,Khoản,structure,3141,3277,"8- Khai thác khoáng sản là hoạt động xây dựng cơ bản mỏ, khai đào, sản xuất và các hoạt động có liên quan trực tiếp nhằm thu khoáng sản."
+ENTITY,E39_9,KHOAN,Khoản,structure,3278,3407,"9- Chế biến khoáng sản là hoạt động phân loại, làm giàu khoáng sản, hoạt động khác nhằm làm tăng giá trị khoáng sản đã khai thác."
+ENTITY,E39_10,KHOAN,Khoản,structure,4700,5109,"1- Nhà nước khuyến khích đầu tư phát triển công nghiệp khai thác và chế biến khoáng sản; có chính sách ưu đãi hoạt động khoáng sản tại các vùng xa, vùng sâu, vùng cao, nơi có cơ sở hạ tầng kém phát triển và đối với những khoáng sản có nhu cầu sử dụng trong nước; ưu tiên các dự án có áp dụng kỹ thuật, công nghệ tiên tiến trong khai thác, chế biến, làm ra sản phẩm có giá trị và hiệu quả kinh tế - xã hội cao."
+ENTITY,E39_11,KHOAN,Khoản,structure,5110,5239,"2- Nhà nước tạo điều kiện cho doanh nghiệp nhà nước giữ vai trò chủ đạo trong việc khai thác, chế biến các khoáng sản quan trọng."
+ENTITY,E39_12,KHOAN,Khoản,structure,5240,5439,"3- Nhà nước bảo hộ quyền sở hữu đối với vốn, tài sản, các quyền và lợi ích hợp pháp khác của tổ chức, cá nhân trong hoạt động khoáng sản theo quy định của Luật này và các quy định khác của pháp luật."
+ENTITY,E39_13,KHOAN,Khoản,structure,5440,5600,"4- Chính phủ quy định danh mục các loại khoáng sản cấm xuất khẩu, cấm nhập khẩu trong từng thời kỳ; hạn chế việc xuất khẩu khoáng sản dưới dạng nguyên liệu thô."
+ENTITY,E39_14,KHOAN,Khoản,structure,6122,6473,"1- Căn cứ vào nguồn thu từ hoạt động khai thác và chế biến khoáng sản, Nhà nước hàng năm dành một khoản từ ngân sách để phát triển kinh tế - xã hội ở địa phương nơi có khoáng sản được khai thác, chế biến; tạo điều kiện ổn định sản xuất và đời sống cho bộ phận nhân dân nơi có khoáng sản được khai thác, chế biến phải thay đổi nơi cư trú, nơi sản xuất;"
+ENTITY,E39_15,KHOAN,Khoản,structure,6474,6850,"2- Tổ chức, cá nhân được phép khai thác, chế biến khoáng sản có trách nhiệm kết hợp yêu cầu của hoạt động khai thác, chế biến khoáng sản với việc xây dựng cơ sở hạ tầng, bảo vệ, phục hồi môi trường, môi sinh và đất đai tại địa phương theo báo cáo nghiên cứu khả thi đã được chấp thuận; ưu tiên thu hút lao động tại địa phương vào hoạt động khoáng sản và các dịch vụ liên quan."
+ENTITY,E39_16,KHOAN,Khoản,structure,7143,7901,"1- Chính phủ có chính sách, biện pháp để bảo vệ tài nguyên khoáng sản chưa khai thác.
+Cơ quan quản lý nhà nước về khoáng sản có trách nhiệm xác định khu vực có tài nguyên khoáng sản chưa khai thác; phối hợp với các bộ, ngành và chính quyền địa phương trong việc bảo vệ tài nguyên khoáng sản chưa khai thác.
+Hội đồng nhân dân, ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện các biện pháp cần thiết để bảo vệ tài nguyên khoáng sản chưa khai thác ở địa phương.
+Cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức kinh tế, tổ chức xã hội, đơn vị vũ trang nhân dân và mọi công dân có quyền và trách nhiệm bảo vệ tài nguyên khoáng sản chưa khai thác và giữ gìn bí mật nhà nước về tài nguyên khoáng sản chưa khai thác."
+ENTITY,E39_17,KHOAN,Khoản,structure,7902,8203,"2- Việc quy hoạch, thiết kế xây dựng các khu dân cư tập trung, công trình công nghiệp, thủy lợi, công trình cố định khác ở những khu vực có tài nguyên khoáng sản phải được sự thỏa thuận của cơ quan quản lý nhà nước về khoáng sản; đối với các công trình quốc phòng, an ninh Chính phủ có quy định riêng."
+ENTITY,E39_18,KHOAN,Khoản,structure,8204,8343,"3- Tổ chức, cá nhân được phép hoạt động khoáng sản có trách nhiệm bảo vệ tài nguyên khoáng sản chưa khai thác trong khu vực được hoạt động."
+ENTITY,E39_19,KHOAN,Khoản,structure,8440,8706,"1- Tổ chức, cá nhân được phép thăm dò khoáng sản phải đánh giá tổng hợp và báo cáo đầy đủ mọi loại tài nguyên khoáng sản đã phát hiện được trong khu vực được phép thăm dò cho cơ quan quản lý nhà nước về khoáng sản và bảo đảm không gây tổn thất tài nguyên khoáng sản."
+ENTITY,E39_20,KHOAN,Khoản,structure,8707,8930,"2- Tổ chức, cá nhân được phép khai thác, chế biến khoáng sản phải thu hồi tối đa mọi loại khoáng sản đã được xác định là có hiệu quả kinh tế; thực hiện các biện pháp bảo quản khoáng sản đã khai thác nhưng chưa được sử dụng."
+ENTITY,E39_21,KHOAN,Khoản,structure,8931,9144,"3- Trong hoạt động khai thác, chế biến khoáng sản, nếu phát hiện khoáng sản mới, tổ chức, cá nhân được phép hoạt động khoáng sản phải báo cáo ngay cho cơ quan quản lý nhà nước về khoáng sản để xem xét, quyết định."
+ENTITY,E39_22,KHOAN,Khoản,structure,9818,9950,"1- Toàn bộ mẫu vật, số liệu, thông tin về tài nguyên khoáng sản đều phải được lưu trữ, quản lý, sử dụng theo quy định của pháp luật."
+ENTITY,E39_23,KHOAN,Khoản,structure,9951,10216,"2- Nhà nước độc quyền thu mua các mẫu vật có giá trị khoa học đặc biệt hoặc quý hiếm; nghiêm cấm hành vi cất giấu, phá hủy, làm giảm chất lượng hoặc mua bán trái phép các mẫu vật đó. Chính phủ quy định danh mục và quy cách các mẫu vật mà Nhà nước độc quyền thu mua."
+ENTITY,E39_24,KHOAN,Khoản,structure,10217,10449,"3- Sau thời hạn do Chính phủ quy định kể từ ngày giấy phép hoạt động khoáng sản hết hạn, cơ quan nhà nước có thẩm quyền được cung cấp cho tổ chức, cá nhân khác những thông tin về tài nguyên khoáng sản có liên quan đến giấy phép đó.
+"
+ENTITY,E39_25,KHOAN,Khoản,structure,10573,10616,1- Các khu vực hoạt động khoáng sản gồm có:
+ENTITY,E39_26,KHOAN,Khoản,structure,10942,11009,"2- Chính phủ quy định và công bố khu vực hạn chế, khu vực đấu thầu."
+ENTITY,E39_27,KHOAN,Khoản,structure,11070,11350,"1- Không được hoạt động khoáng sản tại các khu vực cấm hoặc tạm thời cấm hoạt động khoáng sản vì lý do quốc phòng, an ninh, bảo vệ di tích lịch sử, văn hóa, cảnh quan hoặc vì lợi ích công cộng khác.
+Chính phủ quy định và công bố khu vực cấm hoặc tạm thời cấm hoạt động khoáng sản."
+ENTITY,E39_28,KHOAN,Khoản,structure,11351,11646,"2- Trong trường hợp hoạt động khoáng sản đang được phép tiến hành ở khu vực mà khu vực đó bị công bố là khu vực cấm hoặc tạm thời cấm hoạt động khoáng sản thì Chính phủ giải quyết thỏa đáng những thiệt hại cho tổ chức, cá nhân được phép hoạt động khoáng sản do việc cấm hoặc tạm thời cấm gây ra."
+ENTITY,E39_29,KHOAN,Khoản,structure,12023,12359,"1- Tổ chức, cá nhân được phép hoạt động khoáng sản phải sử dụng công nghệ, thiết bị, vật liệu và thực hiện các quy định khác của Luật bảo vệ môi trường để hạn chế tối đa tác động xấu đến các thành phần môi trường; thực hiện việc phục hồi môi trường, môi sinh và đất đai sau khi kết thúc từng giai đoạn hoặc toàn bộ hoạt động khoáng sản."
+ENTITY,E39_30,KHOAN,Khoản,structure,12360,12902,"2- Tổ chức, cá nhân được phép hoạt động khoáng sản phải chịu mọi chi phí bảo vệ, phục hồi môi trường, môi sinh và đất đai. Chi phí bảo vệ, phục hồi môi trường, môi sinh và đất đai phải được xác định trong báo cáo đánh giá tác động môi trường, báo cáo nghiên cứu khả thi về khai thác, chế biến khoáng sản hoặc đề án thăm dò khoáng sản. Tổ chức, cá nhân được phép khai thác khoáng sản phải ký quỹ tại một Ngân hàng Việt Nam hoặc Ngân hàng nước ngoài được phép hoạt động tại Việt Nam để bảo đảm cho việc phục hồi môi trường, môi sinh và đất đai."
+ENTITY,E39_31,KHOAN,Khoản,structure,12951,13436,"1- Tổ chức, cá nhân được phép khai thác, chế biến khoáng sản được ký hợp đồng thuê đất để hoạt động khoáng sản theo quy định của pháp luật về đất đai và phù hợp với Luật này.
+Khi giấy phép khai thác, chế biến khoáng sản chấm dứt hiệu lực thì hợp đồng thuê đất cũng chấm dứt; khi từng phần diện tích khai thác được trả lại thì hợp đồng thuê đất cũng được thay đổi tương ứng.
+Khi có sự thay đổi tổ chức, cá nhân được phép khai thác, chế biến khoáng sản thì hợp đồng thuê đất được ký lại."
+ENTITY,E39_32,KHOAN,Khoản,structure,13437,14090,"2- Tổ chức, cá nhân được phép khảo sát, thăm dò khoáng sản không phải thuê đất đối với khu vực được phép khảo sát, thăm dò, nếu hoạt động khảo sát, thăm dò không ảnh hưởng đến việc sử dụng đất của tổ chức, cá nhân đang sử dụng đất hợp pháp, nhưng phải bồi thường thiệt hại do hoạt động khảo sát, thăm dò gây ra. Nếu hoạt động khảo sát, thăm dò có sử dụng đất thường xuyên thì tổ chức, cá nhân được phép khảo sát, thăm dò phải thuê đất đối với diện tích đó theo quy định của Chính phủ. Tổ chức, cá nhân được phép khai thác khoáng sản trong lòng đất không phải thuê đất đối với những diện tích không sử dụng đất mặt; nếu gây thiệt hại thì phải bồi thường."
+ENTITY,E39_33,KHOAN,Khoản,structure,14091,14219,"3- Tổ chức, cá nhân được phép hoạt động khoáng sản phải bồi thường thiệt hại do việc sử dụng đất để hoạt động khoáng sản gây ra."
+ENTITY,E39_34,KHOAN,Khoản,structure,14269,14454,"1- Tổ chức, cá nhân được phép hoạt động khoáng sản được sử dụng các nguồn nước thiên nhiên để tiến hành hoạt động khoáng sản theo quy định của pháp luật về nước và phù hợp với Luật này."
+ENTITY,E39_35,KHOAN,Khoản,structure,14455,14819,"2- Nguồn nước, khối lượng nước và phương thức sử dụng nước trong hoạt động khoáng sản phải được xác định trong đề án thăm dò, báo cáo nghiên cứu khả thi về khai thác, chế biến khoáng sản và thiết kế mỏ; nước đã qua sử dụng thì tổ chức, cá nhân được phép hoạt động khoáng sản phải xử lý theo tiêu chuẩn vệ sinh trước khi thải; nếu gây thiệt hại thì phải bồi thường."
+ENTITY,E39_36,KHOAN,Khoản,structure,14878,15080,"1- Tổ chức, cá nhân được phép hoạt động khoáng sản được sử dụng hệ thống giao thông, thông tin liên lạc, điện, nước và các cơ sở hạ tầng khác để phục vụ hoạt động khoáng sản theo quy định của pháp luật."
+ENTITY,E39_37,KHOAN,Khoản,structure,15081,15322,"2- Tổ chức, cá nhân được phép hoạt động khoáng sản có trách nhiệm đầu tư cải tạo, nâng cấp, tu bổ, xây dựng mới các cơ sở hạ tầng phù hợp với đề án thăm dò hoặc báo cáo nghiên cứu khả thi về khai thác, chế biến khoáng sản đã được chấp thuận."
+ENTITY,E39_38,KHOAN,Khoản,structure,15675,15895,"1- Giấy phép khảo sát khoáng sản được cấp đối với khu vực không có tổ chức, cá nhân nào đang thăm dò hoặc khai thác khoáng sản hợp pháp, phù hợp với quy định tại các khoản 1 và 2 Điều 5 và các điều 13 và 14 của Luật này."
+ENTITY,E39_39,KHOAN,Khoản,structure,15896,16070,"2- Thời hạn của một giấy phép khảo sát khoáng sản không quá mười hai tháng và được gia hạn theo quy định của Chính phủ, nhưng tổng thời gian gia hạn không quá mười hai tháng."
+ENTITY,E39_40,KHOAN,Khoản,structure,16071,16156,"3- Giấy phép khảo sát khoáng sản không được chuyển cho tổ chức, cá nhân khác sử dụng."
+ENTITY,E39_41,KHOAN,Khoản,structure,16292,16450,"1- Sử dụng số liệu, thông tin về tài nguyên khoáng sản của Nhà nước liên quan đến mục đích khảo sát và khu vực được phép khảo sát theo quy định của pháp luật;"
+ENTITY,E39_42,KHOAN,Khoản,structure,16451,16501,2- Tiến hành khảo sát theo quy định của giấy phép;
+ENTITY,E39_43,KHOAN,Khoản,structure,16502,16719,"3- Chuyển ra ngoài khu vực khảo sát, kể cả chuyển ra nước ngoài các loại mẫu vật với số lượng và chủng loại phù hợp với tính chất và yêu cầu của hoạt động khảo sát để phân tích, thử nghiệm theo quy định của Chính phủ;"
+ENTITY,E39_44,KHOAN,Khoản,structure,16720,16774,"4- Xin gia hạn, trả lại giấy phép khảo sát khoáng sản;"
+ENTITY,E39_45,KHOAN,Khoản,structure,16775,16931,5- Khiếu nại hoặc khởi kiện về quyết định thu hồi giấy phép khảo sát khoáng sản hoặc quyết định xử lý khác của cơ quan nhà nước theo quy định của pháp luật;
+ENTITY,E39_46,KHOAN,Khoản,structure,16932,17001,6- Được hưởng các quyền khác có liên quan theo quy định của Luật này.
+ENTITY,E39_47,KHOAN,Khoản,structure,17143,17268,"1- Nộp lệ phí giấy phép và tiền sử dụng số liệu, thông tin về tài nguyên khoáng sản của Nhà nước theo quy định của pháp luật;"
+ENTITY,E39_48,KHOAN,Khoản,structure,17269,17372,"2- Bảo vệ môi trường, bảo đảm an toàn lao động và vệ sinh lao động trong hoạt động khảo sát khoáng sản;"
+ENTITY,E39_49,KHOAN,Khoản,structure,17373,17437,3- Bồi thường thiệt hại do hoạt động khảo sát khoáng sản gây ra;
+ENTITY,E39_50,KHOAN,Khoản,structure,17438,17568,"4- Trước ngày giấy phép khảo sát khoáng sản hết hạn, phải nộp báo cáo kết quả khảo sát cho cơ quan quản lý nhà nước về khoáng sản;"
+ENTITY,E39_51,KHOAN,Khoản,structure,17569,17644,"5- Thực hiện các quy định về quản lý hành chính, trật tự và an toàn xã hội;"
+ENTITY,E39_52,KHOAN,Khoản,structure,17645,17716,6- Thực hiện các nghĩa vụ khác có liên quan theo quy định của Luật này.
+ENTITY,E39_53,KHOAN,Khoản,structure,17850,18086,"1- Tổ chức, cá nhân được phép khảo sát khoáng sản vi phạm một trong các quy định tại Điều 23 của Luật này mà không khắc phục trong thời hạn do Chính phủ quy định kể từ ngày cơ quan quản lý nhà nước về khoáng sản đã có văn bản thông báo;"
+ENTITY,E39_54,KHOAN,Khoản,structure,18087,18229,2- Khu vực được phép khảo sát bị công bố là khu vực cấm hoặc tạm thời cấm hoạt động khoáng sản theo quy định tại khoản 2 Điều 14 của Luật này;
+ENTITY,E39_55,KHOAN,Khoản,structure,18230,18341,"3- Cá nhân được phép khảo sát khoáng sản chết, tổ chức được phép khảo sát khoáng sản bị giải thể hoặc phá sản.
+"
+ENTITY,E39_56,KHOAN,Khoản,structure,18407,18626,"1- Giấy phép thăm dò khoáng sản được cấp đối với khu vực không có tổ chức, cá nhân nào đang thăm dò hoặc khai thác khoáng sản hợp pháp, phù hợp với quy định tại các khoản 1 và 2 Điều 5 và các điều 13 và 14 của Luật này."
+ENTITY,E39_57,KHOAN,Khoản,structure,18627,18705,2- Diện tích khu vực thăm dò được cấp của một giấy phép do Chính phủ quy định.
+ENTITY,E39_58,KHOAN,Khoản,structure,18706,19031,"3- Thời hạn của một giấy phép thăm dò khoáng sản không quá hai mươi bốn tháng và được gia hạn theo quy định của Chính phủ, nhưng tổng thời gian gia hạn không quá hai mươi bốn tháng. Trong trường hợp cần thiết, giấy phép thăm dò khoáng sản có thể được cấp lại cho tổ chức, cá nhân đã thăm dò ở khu vực mà giấy phép đã hết hạn."
+ENTITY,E39_59,KHOAN,Khoản,structure,19032,19144,"4- Chính phủ quy định việc cấp giấy phép thăm dò khoáng sản cho tổ chức, cá nhân nước ngoài đầu tư vào Việt Nam."
+ENTITY,E39_60,KHOAN,Khoản,structure,19278,19434,"1- Sử dụng số liệu, thông tin về tài nguyên khoáng sản của Nhà nước liên quan đến mục đích thăm dò và khu vực được phép thăm dò theo quy định của pháp luật;"
+ENTITY,E39_61,KHOAN,Khoản,structure,19435,19484,2- Tiến hành thăm dò theo quy định của giấy phép;
+ENTITY,E39_62,KHOAN,Khoản,structure,19485,19713,"3- Chuyển ra ngoài khu vực thăm dò, kể cả chuyển ra nước ngoài các loại mẫu vật với khối lượng và chủng loại phù hợp với tính chất và yêu cầu của hoạt động thăm dò khoáng sản để phân tích, thử nghiệm theo quy định của Chính phủ;"
+ENTITY,E39_63,KHOAN,Khoản,structure,19714,19842,4- Đặc quyền xin giấy phép khai thác khoáng sản trong phạm vi khu vực đã thăm dò theo quy định tại khoản 1 Điều 31 của Luật này;
+ENTITY,E39_64,KHOAN,Khoản,structure,19843,19965,"5- Xin gia hạn, trả lại giấy phép thăm dò khoáng sản hoặc trả lại từng phần diện tích thăm dò theo quy định của Chính phủ;"
+ENTITY,E39_65,KHOAN,Khoản,structure,19966,20062,"6- Chuyển nhượng quyền thăm dò khoáng sản cho tổ chức, cá nhân khác theo quy định của Chính phủ;"
+ENTITY,E39_66,KHOAN,Khoản,structure,20063,20152,7- Để thừa kế quyền thăm dò theo quy định của pháp luật nếu là cá nhân được phép thăm dò;
+ENTITY,E39_67,KHOAN,Khoản,structure,20153,20308,8- Khiếu nại hoặc khởi kiện về quyết định thu hồi giấy phép thăm dò khoáng sản hoặc quyết định xử lý khác của cơ quan nhà nước theo quy định của pháp luật;
+ENTITY,E39_68,KHOAN,Khoản,structure,20309,20378,9- Được hưởng các quyền khác có liên quan theo quy định của Luật này.
+ENTITY,E39_69,KHOAN,Khoản,structure,20518,20694,"1- Nộp lệ phí giấy phép, lệ phí độc quyền thăm dò, tiền sử dụng số liệu, thông tin về tài nguyên khoáng sản của Nhà nước và nghĩa vụ tài chính khác theo quy định của pháp luật;"
+ENTITY,E39_70,KHOAN,Khoản,structure,20695,20743,2- Nộp tiền đặt cọc theo quy định của pháp luật;
+ENTITY,E39_71,KHOAN,Khoản,structure,20744,20801,3- Thực hiện đề án thăm dò khoáng sản đã được chấp thuận;
+ENTITY,E39_72,KHOAN,Khoản,structure,20802,20923,"4- Bảo vệ tài nguyên khoáng sản, bảo vệ môi trường, bảo đảm an toàn lao động và vệ sinh lao động trong hoạt động thăm dò;"
+ENTITY,E39_73,KHOAN,Khoản,structure,20924,20976,5- Bồi thường thiệt hại do hoạt động thăm dò gây ra;
+ENTITY,E39_74,KHOAN,Khoản,structure,20977,21089,6- Thông báo kế hoạch thăm dò cho ủy ban nhân dân cấp tỉnh nơi được phép thăm dò khoáng sản trước khi thực hiện;
+ENTITY,E39_75,KHOAN,Khoản,structure,21090,21316,"7- Thu thập, lưu giữ số liệu, thông tin về tài nguyên khoáng sản và báo cáo kết quả thăm dò cho cơ quan quản lý nhà nước về khoáng sản; báo cáo các hoạt động khác cho cơ quan nhà nước có thẩm quyền theo quy định của pháp luật;"
+ENTITY,E39_76,KHOAN,Khoản,structure,21317,21441,8- Nộp báo cáo cuối cùng về kết quả thăm dò cho cơ quan quản lý nhà nước về khoáng sản trước ngày giấy phép thăm dò hết hạn;
+ENTITY,E39_77,KHOAN,Khoản,structure,21442,21574,9- Thực hiện các công việc khi giấy phép thăm dò khoáng sản chấm dứt hiệu lực theo quy định tại điểm b khoản 2 Điều 30 của Luật này;
+ENTITY,E39_78,KHOAN,Khoản,structure,21575,21651,"10- Thực hiện các quy định về quản lý hành chính, trật tự và an toàn xã hội;"
+ENTITY,E39_79,KHOAN,Khoản,structure,21652,21724,11- Thực hiện các nghĩa vụ khác có liên quan theo quy định của Luật này.
+ENTITY,E39_80,KHOAN,Khoản,structure,22643,22803,"1- Sau sáu tháng kể từ ngày giấy phép có hiệu lực, tổ chức, cá nhân được phép thăm dò khoáng sản không tiến hành hoạt động thăm dò mà không có lý do chính đáng;"
+ENTITY,E39_81,KHOAN,Khoản,structure,22804,23036,"2- Tổ chức, cá nhân được phép thăm dò khoáng sản vi phạm một trong các quy định tại Điều 27 của Luật này mà không khắc phục trong thời hạn do Chính phủ quy định kể từ ngày cơ quan quản lý nhà nước về khoáng sản có văn bản thông báo;"
+ENTITY,E39_82,KHOAN,Khoản,structure,23037,23189,3- Khu vực được phép thăm dò khoáng sản bị công bố là khu vực cấm hoặc tạm thời cấm hoạt động khoáng sản theo quy định tại khoản 2 Điều 14 của Luật này;
+ENTITY,E39_83,KHOAN,Khoản,structure,23190,23393,"4- Cá nhân được phép thăm dò khoáng sản chết mà không có người thừa kế quyền thăm dò, tổ chức được phép thăm dò khoáng sản bị giải thể hoặc phá sản mà không có tổ chức, cá nhân kế thừa quyền và nghĩa vụ."
+ENTITY,E39_84,KHOAN,Khoản,structure,23450,23544,1- Giấy phép thăm dò khoáng sản chấm dứt hiệu lực khi xảy ra một trong các trường hợp sau đây:
+ENTITY,E39_85,KHOAN,Khoản,structure,23619,23677,2- Khi giấy phép thăm dò khoáng sản chấm dứt hiệu lực thì:
+ENTITY,E39_86,KHOAN,Khoản,structure,24511,25082,"1- Giấy phép khai thác khoáng sản được cấp cho tổ chức, cá nhân được phép thăm dò khoáng sản đối với khu vực đã thăm dò, với điều kiện tổ chức, cá nhân đó đã hoàn thành mọi nghĩa vụ được quy định trong giấy phép thăm dò và tuân thủ mọi quy định của pháp luật.
+Trong thời hạn sáu tháng kể từ ngày giấy phép thăm dò khoáng sản hết hạn mà tổ chức, cá nhân được phép thăm dò không nộp đơn xin giấy phép khai thác khoáng sản đối với khu vực đã thăm dò, thì giấy phép thăm dò mới hoặc giấy phép khai thác khoáng sản có thể được cấp đối với khu vực đó cho tổ chức, cá nhân khác."
+ENTITY,E39_87,KHOAN,Khoản,structure,25083,25379,"2- Đối với khu vực đã thăm dò, nhưng không có tổ chức, cá nhân nào đang thăm dò hoặc khai thác khoáng sản hợp pháp thì giấy phép khai thác được cấp cho tổ chức, cá nhân có đủ điều kiện theo quy định của Luật này, phù hợp với quy định tại các khoản 1 và 2 Điều 5 và các điều 13 và 14 của Luật này."
+ENTITY,E39_88,KHOAN,Khoản,structure,25380,25632,"3- Thời hạn của một giấy phép khai thác khoáng sản căn cứ vào báo cáo nghiên cứu khả thi về khai thác khoáng sản đối với từng dự án, nhưng không quá ba mươi năm và được gia hạn theo quy định của Chính phủ; tổng thời gian gia hạn không quá hai mươi năm."
+ENTITY,E39_89,KHOAN,Khoản,structure,25633,25922,"4- Trường hợp tổ chức, cá nhân nước ngoài hoặc tổ chức liên doanh có bên nước ngoài xin cấp giấy phép khai thác khoáng sản thì giấy phép khai thác khoáng sản được cấp cùng với giấy phép đầu tư hoặc sau khi giấy phép đầu tư đã được cấp theo quy định của Luật đầu tư nước ngoài tại Việt Nam."
+ENTITY,E39_90,KHOAN,Khoản,structure,26060,26220,"1- Sử dụng số liệu, thông tin về tài nguyên khoáng sản của Nhà nước liên quan đến mục đích khai thác và khu vực được phép khai thác theo quy định của pháp luật;"
+ENTITY,E39_91,KHOAN,Khoản,structure,26221,26348,"2- Tiến hành khai thác, chế biến khoáng sản theo quy định của giấy phép; thăm dò trong khu vực đã được cấp giấy phép khai thác;"
+ENTITY,E39_92,KHOAN,Khoản,structure,26349,26463,"3- Cất giữ, vận chuyển, tiêu thụ trong nước và xuất khẩu khoáng sản đã được khai thác theo quy định của pháp luật;"
+ENTITY,E39_93,KHOAN,Khoản,structure,26464,26579,"4- Xin gia hạn, trả lại giấy phép khai thác hoặc trả lại từng phần diện tích khai thác theo quy định của Chính phủ;"
+ENTITY,E39_94,KHOAN,Khoản,structure,26580,26667,"5- Chuyển nhượng quyền khai thác cho tổ chức, cá nhân khác theo quy định của Chính phủ;"
+ENTITY,E39_95,KHOAN,Khoản,structure,26668,26772,6- Để thừa kế quyền khai thác theo quy định của pháp luật nếu là cá nhân được phép khai thác khoáng sản;
+ENTITY,E39_96,KHOAN,Khoản,structure,26773,26943,7- Khai thác khoáng sản đi kèm với khoáng sản chính với điều kiện thực hiện đầy đủ nghĩa vụ liên quan đến việc khai thác khoáng sản đi kèm đó theo quy định của Chính phủ;
+ENTITY,E39_97,KHOAN,Khoản,structure,26944,27101,8- Khiếu nại hoặc khởi kiện về quyết định thu hồi giấy phép khai thác khoáng sản hoặc quyết định xử lý khác của cơ quan nhà nước theo quy định của pháp luật;
+ENTITY,E39_98,KHOAN,Khoản,structure,27102,27171,9- Được hưởng các quyền khác có liên quan theo quy định của Luật này.
+ENTITY,E39_99,KHOAN,Khoản,structure,27315,27493,"1- Nộp lệ phí giấy phép, tiền sử dụng số liệu, thông tin về tài nguyên khoáng sản của Nhà nước, thuế tài nguyên khoáng sản và nghĩa vụ tài chính khác theo quy định của pháp luật;"
+ENTITY,E39_100,KHOAN,Khoản,structure,27494,27651,2- Bảo đảm tiến độ xây dựng cơ bản mỏ và hoạt động sản xuất phù hợp với báo cáo nghiên cứu khả thi về khai thác khoáng sản và thiết kế mỏ đã được chấp thuận;
+ENTITY,E39_101,KHOAN,Khoản,structure,27652,27861,"3- Tận thu khoáng sản, bảo vệ tài nguyên khoáng sản; bảo đảm an toàn lao động và vệ sinh lao động; thực hiện các biện pháp bảo vệ môi trường phù hợp với báo cáo đánh giá tác động môi trường đã được chấp thuận;"
+ENTITY,E39_102,KHOAN,Khoản,structure,27862,28115,"4- Thu thập, lưu giữ số liệu, thông tin về tài nguyên khoáng sản và báo cáo kết quả hoạt động khai thác khoáng sản cho cơ quan quản lý nhà nước về khoáng sản; báo cáo các hoạt động khác cho các cơ quan nhà nước có thẩm quyền theo quy định của pháp luật;"
+ENTITY,E39_103,KHOAN,Khoản,structure,28116,28337,5- Đăng ký ngày bắt đầu xây dựng cơ bản mỏ và ngày bắt đầu hoạt động sản xuất với cơ quan quản lý nhà nước về khoáng sản; thông báo kế hoạch khai thác khoáng sản cho ủy ban nhân dân cấp tỉnh nơi có mỏ trước khi thực hiện;
+ENTITY,E39_104,KHOAN,Khoản,structure,28338,28493,6- Thực hiện các nghĩa vụ về việc bảo đảm quyền lợi của nhân dân địa phương nơi có khoáng sản được khai thác theo quy định tại khoản 2 Điều 7 của Luật này;
+ENTITY,E39_105,KHOAN,Khoản,structure,28494,28548,7- Bồi thường thiệt hại do hoạt động khai thác gây ra;
+ENTITY,E39_106,KHOAN,Khoản,structure,28549,28917,"8- Tạo điều kiện thuận lợi cho các hoạt động nghiên cứu khoa học được Nhà nước cho phép tiến hành trong khu vực khai thác; cho việc xây dựng các công trình giao thông, đường dẫn nước, đường tải điện, đường thông tin đi qua mỏ được cơ quan nhà nước có thẩm quyền cho phép trên cơ sở bảo đảm quyền và lợi ích hợp pháp của tổ chức, cá nhân được phép khai thác khoáng sản;"
+ENTITY,E39_107,KHOAN,Khoản,structure,28918,29252,"9- Nộp báo cáo tổng hợp kết quả hoạt động khai thác khoáng sản cho cơ quan quản lý nhà nước về khoáng sản trước ngày giấy phép khai thác hết hạn; thực hiện việc đóng cửa mỏ, phục hồi môi trường, môi sinh và đất đai khi giấy phép khai thác khoáng sản chấm dứt hiệu lực theo quy định tại các điểm b, c và d khoản 2 Điều 40 của Luật này;"
+ENTITY,E39_108,KHOAN,Khoản,structure,29253,29329,"10- Thực hiện các quy định về quản lý hành chính, trật tự và an toàn xã hội;"
+ENTITY,E39_109,KHOAN,Khoản,structure,29330,29402,11- Thực hiện các nghĩa vụ khác có liên quan theo quy định của Luật này.
+ENTITY,E39_110,KHOAN,Khoản,structure,29439,29556,1- Thuế tài nguyên khoáng sản được tính trên sản lượng khoáng sản thương phẩm thực tế khai thác được và theo giá bán.
+ENTITY,E39_111,KHOAN,Khoản,structure,29557,29662,"2- Khung thuế suất, thuế suất và chế độ thu nộp thuế tài nguyên khoáng sản do pháp luật về thuế quy định."
+ENTITY,E39_112,KHOAN,Khoản,structure,29746,29912,"1- Tổ chức, cá nhân được phép khai thác khoáng sản và mọi người làm việc tại mỏ đều phải thực hiện các quy định của pháp luật về an toàn lao động và vệ sinh lao động."
+ENTITY,E39_113,KHOAN,Khoản,structure,29913,30205,"2- Nội quy lao động của mỏ phải được xây dựng và ban hành theo quy định của pháp luật về lao động. Các quy định về an toàn lao động và vệ sinh lao động phải phù hợp với các tiêu chuẩn, quy trình, quy phạm về an toàn lao động và vệ sinh lao động do các cơ quan nhà nước có thẩm quyền ban hành."
+ENTITY,E39_114,KHOAN,Khoản,structure,30206,30368,"3- Khi có nguy cơ xảy ra sự cố về an toàn lao động, giám đốc điều hành mỏ phải thực hiện ngay các biện pháp cần thiết để loại trừ nguyên nhân có thể xảy ra sự cố."
+ENTITY,E39_115,KHOAN,Khoản,structure,30369,30941,"4- Khi xảy ra sự cố về an toàn lao động, giám đốc điều hành mỏ phải thực hiện ngay các biện pháp khẩn cấp để loại trừ nguyên nhân gây ra sự cố; cấp cứu, sơ tán người ra khỏi vùng nguy hiểm; kịp thời báo cáo với các cơ quan nhà nước có thẩm quyền; bảo vệ tài sản, bảo vệ hiện trường theo quy định của pháp luật.
+Chính quyền địa phương, cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức kinh tế, tổ chức xã hội, đơn vị vũ trang nhân dân và mọi công dân có trách nhiệm hỗ trợ việc cấp cứu và khắc phục hậu quả của sự cố về an toàn lao động xảy ra trong khu vực khai thác."
+ENTITY,E39_116,KHOAN,Khoản,structure,30942,31154,"5- Tổ chức, cá nhân được phép khai thác khoáng sản phải thực hiện chế độ báo cáo định kỳ, báo cáo đột xuất về an toàn lao động và vệ sinh lao động trong hoạt động khai thác khoáng sản theo quy định của pháp luật."
+ENTITY,E39_117,KHOAN,Khoản,structure,31186,31485,"1- Giám đốc điều hành mỏ do tổ chức, cá nhân được phép khai thác khoáng sản cử ra để trực tiếp điều hành các hoạt động khai thác khoáng sản, chịu trách nhiệm về những nhiệm vụ được giao theo quy định của pháp luật.
+Giám đốc điều hành mỏ phải là người có trình độ và năng lực quản lý về khai thác mỏ."
+ENTITY,E39_118,KHOAN,Khoản,structure,31486,31878,"2- Tổ chức, cá nhân được phép khai thác khoáng sản phải thông báo bằng văn bản về trình độ chuyên môn, năng lực quản lý của giám đốc điều hành mỏ cho cơ quan quản lý nhà nước về khoáng sản.
+Cơ quan quản lý nhà nước về khoáng sản có quyền không chấp nhận và yêu cầu tổ chức, cá nhân được phép khai thác khoáng sản thay giám đốc điều hành mỏ khi xét thấy không đủ điều kiện đảm đương công việc."
+ENTITY,E39_119,KHOAN,Khoản,structure,31879,31969,3- Không được tiến hành hoạt động khai thác khoáng sản nếu không có giám đốc điều hành mỏ.
+ENTITY,E39_120,KHOAN,Khoản,structure,32043,32171,"1- Báo cáo nghiên cứu khả thi về khai thác khoáng sản và thiết kế mỏ phải được thẩm định, phê duyệt theo quy định của Chính phủ."
+ENTITY,E39_121,KHOAN,Khoản,structure,32172,32427,"2- Thiết kế mỏ phải phù hợp với báo cáo nghiên cứu khả thi về khai thác khoáng sản và báo cáo đánh giá tác động môi trường. Tổ chức, cá nhân được phép khai thác khoáng sản phải nộp thiết kế mỏ cho cơ quan quản lý nhà nước về khoáng sản trước khi thi công."
+ENTITY,E39_122,KHOAN,Khoản,structure,32428,32673,"3- Trong quá trình khai thác, nếu có những thay đổi khác với báo cáo nghiên cứu khả thi hoặc thiết kế mỏ thì tổ chức, cá nhân được phép khai thác khoáng sản phải kịp thời báo cáo với cơ quan quản lý nhà nước về khoáng sản để xem xét, quyết định."
+ENTITY,E39_123,KHOAN,Khoản,structure,33227,33397,"1- Sau mười hai tháng kể từ ngày giấy phép có hiệu lực, tổ chức, cá nhân được phép khai thác khoáng sản chưa bắt đầu việc xây dựng cơ bản mỏ mà không có lý do chính đáng;"
+ENTITY,E39_124,KHOAN,Khoản,structure,33398,33666,"2- Sau mười hai tháng kể từ ngày dự kiến bắt đầu hoạt động sản xuất được xác định trong báo cáo nghiên cứu khả thi về khai thác khoáng sản đã được chấp thuận, tổ chức, cá nhân được phép khai thác khoáng sản chưa bắt đầu hoạt động sản xuất mà không có lý do chính đáng;"
+ENTITY,E39_125,KHOAN,Khoản,structure,33667,33904,"3- Tổ chức, cá nhân được phép khai thác khoáng sản vi phạm một trong các quy định tại Điều 33 của Luật này mà không khắc phục trong thời hạn do Chính phủ quy định kể từ ngày cơ quan quản lý nhà nước về khoáng sản đã có văn bản thông báo;"
+ENTITY,E39_126,KHOAN,Khoản,structure,33905,34059,4- Khu vực được phép khai thác khoáng sản bị công bố là khu vực cấm hoặc tạm thời cấm hoạt động khoáng sản theo quy định tại khoản 2 Điều 14 của Luật này;
+ENTITY,E39_127,KHOAN,Khoản,structure,34060,34258,"5- Cá nhân được phép khai thác khoáng sản chết mà không có người thừa kế quyền khai thác, tổ chức được phép khai thác bị giải thể hoặc phá sản mà không có tổ chức, cá nhân kế thừa quyền và nghĩa vụ;"
+ENTITY,E39_128,KHOAN,Khoản,structure,34259,34329,"6- Giấy phép đầu tư của tổ chức, cá nhân nước ngoài chấm dứt hiệu lực."
+ENTITY,E39_129,KHOAN,Khoản,structure,34388,34484,1- Giấy phép khai thác khoáng sản chấm dứt hiệu lực khi xảy ra một trong các trường hợp sau đây:
+ENTITY,E39_130,KHOAN,Khoản,structure,34559,34619,2- Khi giấy phép khai thác khoáng sản chấm dứt hiệu lực thì:
+ENTITY,E39_131,KHOAN,Khoản,structure,35925,36265,"1- Tổ chức, cá nhân được phép khai thác nước khoáng, nước nóng thiên nhiên ngoài việc tuân theo các quy định khác của Luật này còn phải thực hiện các biện pháp bảo vệ nguồn nước không bị ô nhiễm; định kỳ quan trắc động thái, kiểm tra chất lượng của nguồn nước và kịp thời khắc phục các biến động xấu; không khai thác quá lưu lượng cho phép."
+ENTITY,E39_132,KHOAN,Khoản,structure,36266,36430,"2- Việc khai thác nước khoáng, nước nóng thiên nhiên để sử dụng vào mục đích điều trị bệnh, điều dưỡng và giải khát phải được cơ quan y tế có thẩm quyền chấp thuận."
+ENTITY,E39_133,KHOAN,Khoản,structure,37152,37341,"1- Được mua khoáng sản đã khai thác hợp pháp; nhập khẩu thiết bị, công nghệ, vật liệu để phục vụ trực tiếp cho hoạt động chế biến; tiến hành chế biến khoáng sản theo quy định của giấy phép;"
+ENTITY,E39_134,KHOAN,Khoản,structure,37342,37455,"2- Cất giữ, vận chuyển, tiêu thụ trong nước và xuất khẩu khoáng sản đã được chế biến theo quy định của pháp luật;"
+ENTITY,E39_135,KHOAN,Khoản,structure,37456,37585,"3- Xin gia hạn, trả lại giấy phép, chuyển nhượng quyền chế biến khoáng sản cho tổ chức, cá nhân khác theo quy định của Chính phủ;"
+ENTITY,E39_136,KHOAN,Khoản,structure,37586,37699,4- Để thừa kế quyền chế biến khoáng sản theo quy định của pháp luật nếu là cá nhân được phép chế biến khoáng sản;
+ENTITY,E39_137,KHOAN,Khoản,structure,37700,37855,"5- Khiếu nại, khởi kiện về quyết định thu hồi giấy phép chế biến hoặc quyết định xử lý khác của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật;"
+ENTITY,E39_138,KHOAN,Khoản,structure,37856,37925,6- Được hưởng các quyền khác có liên quan theo quy định của Luật này.
+ENTITY,E39_139,KHOAN,Khoản,structure,38067,38152,"1- Nộp lệ phí giấy phép, thuế và nghĩa vụ tài chính khác theo quy định của pháp luật;"
+ENTITY,E39_140,KHOAN,Khoản,structure,38153,38204,2- Thu hồi tối đa thành phần có ích của khoáng sản;
+ENTITY,E39_141,KHOAN,Khoản,structure,38205,38356,"3- Áp dụng công nghệ và thực hiện các biện pháp hạn chế tối đa ảnh hưởng xấu đến môi trường, môi sinh theo quy định của pháp luật về bảo vệ môi trường;"
+ENTITY,E39_142,KHOAN,Khoản,structure,38357,38403,"4- Bảo đảm an toàn lao động, vệ sinh lao động;"
+ENTITY,E39_143,KHOAN,Khoản,structure,38404,38457,5- Bồi thường thiệt hại do hoạt động chế biến gây ra;
+ENTITY,E39_144,KHOAN,Khoản,structure,38458,38633,6- Báo cáo hoạt động chế biến khoáng sản cho cơ quan quản lý nhà nước về khoáng sản; báo cáo các hoạt động khác cho cơ quan nhà nước có thẩm quyền theo quy định của pháp luật;
+ENTITY,E39_145,KHOAN,Khoản,structure,38634,38709,"7- Thực hiện các quy định về quản lý hành chính, trật tự và an toàn xã hội;"
+ENTITY,E39_146,KHOAN,Khoản,structure,38710,38781,8- Thực hiện các nghĩa vụ khác có liên quan theo quy định của Luật này.
+ENTITY,E39_147,KHOAN,Khoản,structure,39070,39134,1- Nhà nước có chính sách khuyến khích và ưu đãi đầu tư đối với:
+ENTITY,E39_148,KHOAN,Khoản,structure,39530,39738,"2- Chính phủ định kỳ điều tiết việc xuất, nhập khẩu khoáng sản; hạn chế nhập khẩu các vật liệu đã sản xuất được từ khoáng sản trong nước để khuyến khích phát triển công nghiệp chế biến khoáng sản trong nước.
+"
+ENTITY,E39_149,KHOAN,Khoản,structure,40859,40977,1- Tiến hành khai thác theo quy định của giấy phép và các điều kiện cụ thể về khai thác tận thu do Chính phủ quy định;
+ENTITY,E39_150,KHOAN,Khoản,structure,40978,41078,"2- Cất giữ, vận chuyển, chế biến, tiêu thụ khoáng sản đã được khai thác theo quy định của pháp luật;"
+ENTITY,E39_151,KHOAN,Khoản,structure,41079,41131,"3- Xin gia hạn, trả lại giấy phép khai thác tận thu;"
+ENTITY,E39_152,KHOAN,Khoản,structure,41132,41290,4- Khiếu nại hoặc khởi kiện về quyết định thu hồi giấy phép khai thác tận thu hoặc quyết định xử lý khác của các cơ quan nhà nước theo quy định của pháp luật.
+ENTITY,E39_153,KHOAN,Khoản,structure,41428,41533,"1- Nộp lệ phí giấy phép, thuế tài nguyên khoáng sản, nghĩa vụ tài chính khác theo quy định của pháp luật;"
+ENTITY,E39_154,KHOAN,Khoản,structure,41534,41588,2- Bồi thường thiệt hại do hoạt động khai thác gây ra;
+ENTITY,E39_155,KHOAN,Khoản,structure,41589,41711,"3- Hạn chế tổn thất tài nguyên khoáng sản và tài nguyên khác; bảo vệ môi trường, môi sinh và các công trình cơ sở hạ tầng;"
+ENTITY,E39_156,KHOAN,Khoản,structure,41712,41808,"4- Thực hiện các biện pháp bảo đảm an toàn lao động, vệ sinh lao động trong hoạt động khai thác;"
+ENTITY,E39_157,KHOAN,Khoản,structure,41809,41884,"5- Thực hiện các quy định về quản lý hành chính, trật tự và an toàn xã hội;"
+ENTITY,E39_158,KHOAN,Khoản,structure,41885,41963,"6- Ghi chép, lưu giữ đầy đủ kết quả hoạt động khai thác, chế biến và tiêu thụ;"
+ENTITY,E39_159,KHOAN,Khoản,structure,41964,42084,7- Tạo điều kiện thuận lợi cho các hoạt động nghiên cứu khoa học được Nhà nước cho phép trong phạm vi khu vực khai thác.
+ENTITY,E39_160,KHOAN,Khoản,structure,42130,42216,1- Giấy phép khai thác tận thu bị thu hồi khi xảy ra một trong các trường hợp sau đây:
+ENTITY,E39_161,KHOAN,Khoản,structure,42631,42850,"2- Khi giấy phép khai thác tận thu bị thu hồi hoặc đã hết hạn thì tổ chức, cá nhân được phép khai thác tận thu phải di chuyển toàn bộ tài sản của mình ra khỏi khu vực khai thác, phục hồi môi trường, môi sinh và đất đai."
+ENTITY,E39_162,KHOAN,Khoản,structure,42851,43082,"3- Trong trường hợp giấy phép khai thác tận thu bị thu hồi theo quy định tại các điểm b và c khoản 1 Điều này, thì tổ chức, cá nhân được phép khai thác tận thu được giải quyết thỏa đáng những thiệt hại theo quy định của Chính phủ.
+"
+ENTITY,E39_163,KHOAN,Khoản,structure,43222,43403,"1- Hoạch định chiến lược, quy hoạch và chính sách về bảo vệ, sử dụng hợp lý, tiết kiệm và có hiệu quả tài nguyên khoáng sản và phát triển công nghiệp khai thác, chế biến khoáng sản;"
+ENTITY,E39_164,KHOAN,Khoản,structure,43404,43473,2- Ban hành và tổ chức thực hiện các văn bản pháp luật về khoáng sản;
+ENTITY,E39_165,KHOAN,Khoản,structure,43474,43739,"3- Cấp, gia hạn, thu hồi giấy phép hoạt động khoáng sản; cho phép chuyển nhượng, để thừa kế quyền hoạt động khoáng sản, cho phép trả lại giấy phép hoạt động khoáng sản; đăng ký các hoạt động điều tra cơ bản địa chất về tài nguyên khoáng sản và hoạt động khoáng sản;"
+ENTITY,E39_166,KHOAN,Khoản,structure,43740,43833,"4- Thẩm định, phê duyệt, đánh giá các đề án, báo cáo, thiết kế mỏ trong hoạt động khoáng sản;"
+ENTITY,E39_167,KHOAN,Khoản,structure,43834,43943,"5- Kiểm tra, thanh tra các hoạt động điều tra cơ bản địa chất về tài nguyên khoáng sản, hoạt động khoáng sản;"
+ENTITY,E39_168,KHOAN,Khoản,structure,43944,44072,"6- Thực hiện các chính sách đối với nhân dân địa phương nơi có khoáng sản được khai thác, chế biến và nơi có khoáng sản độc hại;"
+ENTITY,E39_169,KHOAN,Khoản,structure,44073,44129,7- Thực hiện các biện pháp bảo vệ tài nguyên khoáng sản;
+ENTITY,E39_170,KHOAN,Khoản,structure,44130,44210,"8- Tổ chức lưu trữ, bảo vệ tài liệu và bí mật nhà nước về tài nguyên khoáng sản;"
+ENTITY,E39_171,KHOAN,Khoản,structure,44211,44338,"9- Đào tạo cán bộ khoa học, cán bộ quản lý về khoáng sản; tuyên truyền, phổ biến và hướng dẫn thi hành pháp luật về khoáng sản;"
+ENTITY,E39_172,KHOAN,Khoản,structure,44339,44448,10- Hợp tác quốc tế trong lĩnh vực điều tra cơ bản địa chất về tài nguyên khoáng sản và hoạt động khoáng sản;
+ENTITY,E39_173,KHOAN,Khoản,structure,44449,44583,"11- Giải quyết các tranh chấp, khiếu nại, tố cáo về hoạt động khoáng sản và xử lý theo thẩm quyền các vi phạm pháp luật về khoáng sản."
+ENTITY,E39_174,KHOAN,Khoản,structure,45601,45875,"1- Việc phân cấp thẩm quyền cấp, gia hạn, thu hồi giấy phép hoạt động khoáng sản phải bảo đảm quyền quản lý tập trung thống nhất của Chính phủ về khoáng sản, căn cứ vào tính chất của loại khoáng sản và nhiệm vụ, quyền hạn của các cơ quan nhà nước ở trung ương và địa phương."
+ENTITY,E39_175,KHOAN,Khoản,structure,45876,46140,"2- Thẩm quyền cấp, gia hạn, thu hồi giấy phép hoạt động khoáng sản và thủ tục cấp, gia hạn, thu hồi, cho phép trả lại giấy phép hoạt động khoáng sản, cho phép chuyển nhượng, để thừa kế quyền hoạt động khoáng sản, đăng ký hoạt động khoáng sản do Chính phủ quy định."
+ENTITY,E39_176,KHOAN,Khoản,structure,46270,46635,1- Cơ quan có thẩm quyền cấp loại giấy phép hoạt động khoáng sản nào thì có trách nhiệm giải quyết tranh chấp về quyền hoạt động khoáng sản phát sinh từ việc sử dụng loại giấy phép đó; trong trường hợp không đồng ý với quyết định của cơ quan giải quyết tranh chấp thì có quyền khiếu nại hoặc khởi kiện đến cơ quan nhà nước có thẩm quyền theo quy định của pháp luật;
+ENTITY,E39_177,KHOAN,Khoản,structure,46636,46759,"2- Tranh chấp khác phát sinh trong hoạt động khoáng sản được giải quyết theo thẩm quyền và trình tự do pháp luật quy định.
+"
+ENTITY,E39_178,KHOAN,Khoản,structure,47157,47211,"1- Kiểm tra, thanh tra việc chấp hành các quy định về:"
+ENTITY,E39_179,KHOAN,Khoản,structure,47434,47656,"2- Phối hợp với thanh tra nhà nước về lao động và thanh tra chuyên ngành về bảo vệ môi trường để thực hiện nhiệm vụ kiểm tra, thanh tra về an toàn lao động, vệ sinh lao động và bảo vệ môi trường trong hoạt động khoáng sản;"
+ENTITY,E39_180,KHOAN,Khoản,structure,47657,47766,"3- Phối hợp với thanh tra nhà nước của các bộ, các ngành, địa phương trong hoạt động thanh tra về khoáng sản."
+ENTITY,E39_181,KHOAN,Khoản,structure,47910,48003,"1- Yêu cầu tổ chức, cá nhân có liên quan cung cấp tài liệu và trả lời những vấn đề cần thiết;"
+ENTITY,E39_182,KHOAN,Khoản,structure,48004,48152,"2- Điều tra, thu thập chứng cứ, tài liệu liên quan đến nội dung, đối tượng thanh tra và tiến hành những biện pháp kiểm tra kỹ thuật tại hiện trường;"
+ENTITY,E39_183,KHOAN,Khoản,structure,48153,48517,"3- Quyết định đình chỉ hoạt động khoáng sản không có giấy phép; tạm đình chỉ trong trường hợp khẩn cấp các hoạt động có nguy cơ gây ra tai nạn nguy hiểm cho người hoặc tổn thất nghiêm trọng tài nguyên, môi trường, đồng thời báo ngay với cơ quan nhà nước có thẩm quyền quyết định xử lý hoặc kiến nghị với cơ quan nhà nước có thẩm quyền để đình chỉ các hoạt động đó;"
+ENTITY,E39_184,KHOAN,Khoản,structure,48518,48723,"4- Xử lý theo thẩm quyền hoặc kiến nghị với cơ quan có thẩm quyền xử lý các vi phạm pháp luật về khoáng sản.
+Đoàn thanh tra, Thanh tra viên phải chịu trách nhiệm trước pháp luật về các quyết định của mình."
+ENTITY,E39_185,KHOAN,Khoản,structure,48821,48925,"1- Tổ chức, cá nhân có trách nhiệm tạo điều kiện cho Đoàn thanh tra và Thanh tra viên thi hành nhiệm vụ."
+ENTITY,E39_186,KHOAN,Khoản,structure,48926,49034,"2- Tổ chức, cá nhân là đối tượng thanh tra phải chấp hành quyết định của Đoàn thanh tra hoặc Thanh tra viên."
+ENTITY,E39_187,KHOAN,Khoản,structure,49079,49230,"1- Tổ chức, cá nhân là đối tượng thanh tra có quyền khiếu nại hoặc khởi kiện về quyết định hoặc biện pháp xử lý của Đoàn thanh tra hoặc Thanh tra viên."
+ENTITY,E39_188,KHOAN,Khoản,structure,49231,49507,"2- Tổ chức, cá nhân có quyền tố cáo với các cơ quan có thẩm quyền của Nhà nước về những hành vi vi phạm pháp luật về khoáng sản của mọi tổ chức, cá nhân.
+Cơ quan nhận được khiếu nại, tố cáo, khởi kiện có trách nhiệm xem xét và giải quyết kịp thời theo quy định của pháp luật.
+"
+ENTITY,E39_189,KHOAN,Khoản,structure,49733,50207,"1- Người nào làm lộ bí mật nhà nước về tài nguyên khoáng sản, hoạt động khoáng sản không có giấy phép, cản trở việc bảo vệ tài nguyên khoáng sản, cản trở hoạt động khoáng sản hợp pháp của tổ chức, cá nhân khác, cản trở việc kiểm tra, thanh tra về khoáng sản hoặc vi phạm các quy định khác của Luật này thì tùy theo mức độ vi phạm mà bị xử phạt hành chính, xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+ENTITY,E39_190,KHOAN,Khoản,structure,50208,50522,"2- Người nào lợi dụng chức vụ, quyền hạn vi phạm các quy định về việc cấp giấy phép hoạt động khoáng sản hoặc các quy định khác của Luật này thì tuỳ theo mức độ vi phạm mà bị xử phạt hành chính, xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+"
+ENTITY,E39_191,KHOAN,Khoản,structure,50580,50933,"1- Quyền và nghĩa vụ của tổ chức, cá nhân được cấp giấy phép hoạt động khoáng sản trước ngày Luật này có hiệu lực mà giấy phép đó vẫn còn thời hạn và không thuộc các trường hợp cấm theo quy định của Luật này, được áp dụng theo quy định của giấy phép hoạt động khoáng sản đó, trừ trường hợp tổ chức, cá nhân tự nguyện tuân theo các quy định của Luật này."
+ENTITY,E39_192,KHOAN,Khoản,structure,50934,51147,"2- Luật này cũng được áp dụng đối với hoạt động khoáng sản tại Việt Nam của tổ chức, cá nhân nước ngoài, trừ trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định khác."
+ENTITY,E39_193,KHOAN,Khoản,structure,51148,51205,3- Những quy định trước đây trái với Luật này đều bãi bỏ.
+ENTITY,E39_194,KHOAN,Khoản,structure,51206,51255,4- Chính phủ quy định chi tiết thi hành Luật này.
+ENTITY,E40_1,DIEM,Điểm,structure,10617,10736,a) Khu vực hạn chế là khu vực hoạt động khoáng sản chỉ được tiến hành theo các điều kiện hạn chế do Chính phủ quy định;
+ENTITY,E40_2,DIEM,Điểm,structure,10737,10830,b) Khu vực đấu thầu là khu vực hoạt động khoáng sản chỉ được tiến hành theo kết quả đấu thầu;
+ENTITY,E40_3,DIEM,Điểm,structure,10831,10941,c) Khu vực thông thường là khu vực hoạt động khoáng sản không theo các quy định tại các điểm a và b khoản này.
+ENTITY,E40_4,DIEM,Điểm,structure,23545,23569,a) Giấy phép bị thu hồi;
+ENTITY,E40_5,DIEM,Điểm,structure,23570,23591,b) Giấy phép hết hạn;
+ENTITY,E40_6,DIEM,Điểm,structure,23592,23618,c) Giấy phép được trả lại.
+ENTITY,E40_7,DIEM,Điểm,structure,23678,23737,a) Các quyền liên quan đến giấy phép thăm dò cũng chấm dứt;
+ENTITY,E40_8,DIEM,Điểm,structure,23738,24403,"b) Trong thời hạn do Chính phủ quy định, tổ chức, cá nhân được phép thăm dò khoáng sản phải di chuyển toàn bộ tài sản của mình và của các bên liên quan ra khỏi khu vực thăm dò; san lấp các công trình thăm dò trở lại trạng thái bảo đảm an toàn, bảo vệ tài nguyên khoáng sản, phục hồi môi trường, môi sinh và đất đai; giao nộp các mẫu vật, số liệu, thông tin về tài nguyên khoáng sản đã thu thập được cho cơ quan quản lý nhà nước về khoáng sản.
+Các quy định tại điểm b khoản 2 Điều này không áp dụng đối với khu vực mà tổ chức, cá nhân được phép thăm dò khoáng sản đã nộp đơn xin gia hạn giấy phép hoặc xin cấp giấy phép khai thác đúng quy định và đang được xem xét.
+"
+ENTITY,E40_9,DIEM,Điểm,structure,34485,34509,a) Giấy phép bị thu hồi;
+ENTITY,E40_10,DIEM,Điểm,structure,34510,34531,b) Giấy phép hết hạn;
+ENTITY,E40_11,DIEM,Điểm,structure,34532,34558,c) Giấy phép được trả lại.
+ENTITY,E40_12,DIEM,Điểm,structure,34620,34692,a) Các quyền liên quan đến giấy phép khai thác khoáng sản cũng chấm dứt;
+ENTITY,E40_13,DIEM,Điểm,structure,34693,34880,"b) Các công trình, thiết bị để bảo đảm an toàn mỏ và bảo vệ môi trường ở khu vực được xác định trong giấy phép khai thác khoáng sản đều thuộc sở hữu nhà nước, không được tháo dỡ, phá huỷ;"
+ENTITY,E40_14,DIEM,Điểm,structure,34881,35221,"c) Ngoài những tài sản nói tại điểm b khoản này, trong thời hạn do Chính phủ quy định, tổ chức, cá nhân được phép khai thác khoáng sản phải di chuyển toàn bộ tài sản của mình và của các bên có liên quan ra khỏi khu vực được xác định trong giấy phép khai thác khoáng sản; sau thời hạn nói trên, mọi tài sản còn lại đều thuộc sở hữu nhà nước;"
+ENTITY,E40_15,DIEM,Điểm,structure,35222,35485,"d) Trong thời hạn quy định tại điểm c khoản này, tổ chức, cá nhân được phép khai thác khoáng sản phải thực hiện mọi nghĩa vụ có liên quan đến việc đóng cửa mỏ, phục hồi môi trường, môi sinh và đất đai theo quy định của Luật này và các quy định khác của pháp luật."
+ENTITY,E40_16,DIEM,Điểm,structure,39135,39231,a) Các dự án chế biến khoáng sản thành nguyên liệu tinh và sản phẩm; các dự án chế biến tại chỗ;
+ENTITY,E40_17,DIEM,Điểm,structure,39232,39390,b) Các dự án khai thác và chế biến khoáng sản liên hoàn với công nghiệp sản xuất có sử dụng vật liệu từ khoáng sản để đáp ứng nhu cầu trong nước và xuất khẩu;
+ENTITY,E40_18,DIEM,Điểm,structure,39391,39529,c) Các dự án sản xuất thiết bị chế biến khoáng sản phù hợp với điều kiện thực tế của Việt Nam và yêu cầu của công nghệ chế biến tiên tiến.
+ENTITY,E40_19,DIEM,Điểm,structure,42217,42329,"a) Tổ chức, cá nhân được phép khai thác tận thu không thực hiện nghĩa vụ theo quy định tại Điều 52 của Luật này;"
+ENTITY,E40_20,DIEM,Điểm,structure,42330,42478,b) Có phát hiện mới về tài nguyên khoáng sản mà khu vực đang được phép khai thác không còn phù hợp với hình thức và điều kiện của khai thác tận thu;
+ENTITY,E40_21,DIEM,Điểm,structure,42479,42630,c) Khu vực được phép khai thác tận thu bị công bố là khu vực cấm hoặc tạm thời cấm hoạt động khoáng sản theo quy định tại khoản 2 Điều 14 của Luật này.
+ENTITY,E40_22,DIEM,Điểm,structure,47212,47255,a) Nội dung giấy phép hoạt động khoáng sản;
+ENTITY,E40_23,DIEM,Điểm,structure,47256,47308,b) Giữ gìn bí mật nhà nước về tài nguyên khoáng sản;
+ENTITY,E40_24,DIEM,Điểm,structure,47309,47359,c) Bảo vệ và sử dụng hợp lý tài nguyên khoáng sản;
+ENTITY,E40_25,DIEM,Điểm,structure,47360,47433,"d) Quyền và nghĩa vụ của tổ chức, cá nhân được phép hoạt động khoáng sản;"
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R6_2,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_2,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R11_1,HUONG_DAN_AP_DUNG,Hướng dẫn áp dụng,E2_1,E23_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_4,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_5,,
+RELATION,R12_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_6,,
+RELATION,R12_7,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_7,,
+RELATION,R12_8,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_8,,
+RELATION,R12_9,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_9,,
+RELATION,R12_10,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_10,,
+RELATION,R12_11,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_11,,
+RELATION,R12_12,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_12,,
+RELATION,R12_13,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_13,,
+RELATION,R12_14,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_14,,
+RELATION,R12_15,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_15,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E2_1,E29_6,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E2_1,E29_7,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E2_1,E29_8,,
+RELATION,R17_9,DAN_CHIEU,Dẫn chiếu,E2_1,E29_9,,
+RELATION,R17_10,DAN_CHIEU,Dẫn chiếu,E2_1,E29_10,,
+RELATION,R17_11,DAN_CHIEU,Dẫn chiếu,E2_1,E29_11,,
+RELATION,R17_12,DAN_CHIEU,Dẫn chiếu,E2_1,E29_12,,
+RELATION,R17_13,DAN_CHIEU,Dẫn chiếu,E2_1,E29_13,,
+RELATION,R17_14,DAN_CHIEU,Dẫn chiếu,E2_1,E29_14,,
+RELATION,R17_15,DAN_CHIEU,Dẫn chiếu,E2_1,E29_15,,
+RELATION,R17_16,DAN_CHIEU,Dẫn chiếu,E2_1,E29_16,,
+RELATION,R17_17,DAN_CHIEU,Dẫn chiếu,E2_1,E29_17,,
+RELATION,R17_18,DAN_CHIEU,Dẫn chiếu,E2_1,E29_18,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E2_1,E30_19,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E2_1,E30_20,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E2_1,E30_21,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E2_1,E30_22,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E2_1,E30_23,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E2_1,E30_24,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E2_1,E30_25,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E2_1,E30_26,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E2_1,E30_27,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E2_1,E30_28,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E2_1,E30_29,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E2_1,E30_30,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E2_1,E30_31,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E2_1,E30_32,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E2_1,E30_33,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E2_1,E30_34,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E2_1,E30_35,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E2_1,E30_36,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E2_1,E30_37,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E2_1,E30_38,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E2_1,E30_39,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E2_1,E30_40,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E2_1,E30_41,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E2_1,E30_42,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E2_1,E30_43,,
+RELATION,R18_44,AP_DUNG,Áp dụng,E2_1,E30_44,,
+RELATION,R18_45,AP_DUNG,Áp dụng,E2_1,E30_45,,
+RELATION,R18_46,AP_DUNG,Áp dụng,E2_1,E30_46,,
+RELATION,R18_47,AP_DUNG,Áp dụng,E2_1,E30_47,,
+RELATION,R18_48,AP_DUNG,Áp dụng,E2_1,E30_48,,
+RELATION,R18_49,AP_DUNG,Áp dụng,E2_1,E30_49,,
+RELATION,R18_50,AP_DUNG,Áp dụng,E2_1,E30_50,,
+RELATION,R18_51,AP_DUNG,Áp dụng,E2_1,E30_51,,
+RELATION,R18_52,AP_DUNG,Áp dụng,E2_1,E30_52,,
+RELATION,R18_53,AP_DUNG,Áp dụng,E2_1,E30_53,,
+RELATION,R18_54,AP_DUNG,Áp dụng,E2_1,E30_54,,
+RELATION,R18_55,AP_DUNG,Áp dụng,E2_1,E30_55,,
+RELATION,R18_56,AP_DUNG,Áp dụng,E2_1,E30_56,,
+RELATION,R18_57,AP_DUNG,Áp dụng,E2_1,E30_57,,
+RELATION,R18_58,AP_DUNG,Áp dụng,E2_1,E30_58,,
+RELATION,R18_59,AP_DUNG,Áp dụng,E2_1,E30_59,,
+RELATION,R18_60,AP_DUNG,Áp dụng,E2_1,E30_60,,
+RELATION,R18_61,AP_DUNG,Áp dụng,E2_1,E30_61,,
+RELATION,R18_62,AP_DUNG,Áp dụng,E2_1,E30_62,,
+RELATION,R18_63,AP_DUNG,Áp dụng,E2_1,E30_63,,
+RELATION,R18_64,AP_DUNG,Áp dụng,E2_1,E30_64,,
+RELATION,R18_65,AP_DUNG,Áp dụng,E2_1,E30_65,,
+RELATION,R18_66,AP_DUNG,Áp dụng,E2_1,E30_66,,
+RELATION,R18_67,AP_DUNG,Áp dụng,E2_1,E30_67,,
+RELATION,R18_68,AP_DUNG,Áp dụng,E2_1,E30_68,,
+RELATION,R18_69,AP_DUNG,Áp dụng,E2_1,E30_69,,
+RELATION,R18_70,AP_DUNG,Áp dụng,E2_1,E30_70,,
+RELATION,R18_71,AP_DUNG,Áp dụng,E2_1,E30_71,,
+RELATION,R18_72,AP_DUNG,Áp dụng,E2_1,E30_72,,
+RELATION,R18_73,AP_DUNG,Áp dụng,E2_1,E30_73,,
+RELATION,R18_74,AP_DUNG,Áp dụng,E2_1,E30_74,,
+RELATION,R18_75,AP_DUNG,Áp dụng,E2_1,E30_75,,
+RELATION,R18_76,AP_DUNG,Áp dụng,E2_1,E30_76,,
+RELATION,R18_77,AP_DUNG,Áp dụng,E2_1,E30_77,,
+RELATION,R18_78,AP_DUNG,Áp dụng,E2_1,E30_78,,
+RELATION,R18_79,AP_DUNG,Áp dụng,E2_1,E30_79,,
+RELATION,R18_80,AP_DUNG,Áp dụng,E2_1,E30_80,,
+RELATION,R18_81,AP_DUNG,Áp dụng,E2_1,E30_81,,
+RELATION,R18_82,AP_DUNG,Áp dụng,E2_1,E30_82,,
+RELATION,R18_83,AP_DUNG,Áp dụng,E2_1,E30_83,,
+RELATION,R18_84,AP_DUNG,Áp dụng,E2_1,E30_84,,
+RELATION,R18_85,AP_DUNG,Áp dụng,E2_1,E30_85,,
+RELATION,R18_86,AP_DUNG,Áp dụng,E2_1,E30_86,,
+RELATION,R18_87,AP_DUNG,Áp dụng,E2_1,E30_87,,
+RELATION,R18_88,AP_DUNG,Áp dụng,E2_1,E30_88,,
+RELATION,R18_89,AP_DUNG,Áp dụng,E2_1,E30_89,,
+RELATION,R18_90,AP_DUNG,Áp dụng,E2_1,E30_90,,
+RELATION,R18_91,AP_DUNG,Áp dụng,E2_1,E30_91,,
+RELATION,R18_92,AP_DUNG,Áp dụng,E2_1,E30_92,,
+RELATION,R18_93,AP_DUNG,Áp dụng,E2_1,E30_93,,
+RELATION,R18_94,AP_DUNG,Áp dụng,E2_1,E30_94,,
+RELATION,R18_95,AP_DUNG,Áp dụng,E2_1,E30_95,,
+RELATION,R18_96,AP_DUNG,Áp dụng,E2_1,E30_96,,
+RELATION,R18_97,AP_DUNG,Áp dụng,E2_1,E30_97,,
+RELATION,R18_98,AP_DUNG,Áp dụng,E2_1,E30_98,,
+RELATION,R18_99,AP_DUNG,Áp dụng,E2_1,E30_99,,
+RELATION,R18_100,AP_DUNG,Áp dụng,E2_1,E30_100,,
+RELATION,R18_101,AP_DUNG,Áp dụng,E2_1,E30_101,,
+RELATION,R18_102,AP_DUNG,Áp dụng,E2_1,E30_102,,
+RELATION,R18_103,AP_DUNG,Áp dụng,E2_1,E30_103,,
+RELATION,R18_104,AP_DUNG,Áp dụng,E2_1,E30_104,,
+RELATION,R18_105,AP_DUNG,Áp dụng,E2_1,E30_105,,
+RELATION,R18_106,AP_DUNG,Áp dụng,E2_1,E30_106,,
+RELATION,R18_107,AP_DUNG,Áp dụng,E2_1,E30_107,,
+RELATION,R18_108,AP_DUNG,Áp dụng,E2_1,E30_108,,
+RELATION,R18_109,AP_DUNG,Áp dụng,E2_1,E30_109,,
+RELATION,R18_110,AP_DUNG,Áp dụng,E2_1,E30_110,,
+RELATION,R18_111,AP_DUNG,Áp dụng,E2_1,E30_111,,
+RELATION,R18_112,AP_DUNG,Áp dụng,E2_1,E30_112,,
+RELATION,R18_113,AP_DUNG,Áp dụng,E2_1,E30_113,,
+RELATION,R18_114,AP_DUNG,Áp dụng,E2_1,E30_114,,
+RELATION,R18_115,AP_DUNG,Áp dụng,E2_1,E30_115,,
+RELATION,R18_116,AP_DUNG,Áp dụng,E2_1,E30_116,,
+RELATION,R18_117,AP_DUNG,Áp dụng,E2_1,E30_117,,
+RELATION,R18_118,AP_DUNG,Áp dụng,E2_1,E30_118,,
+RELATION,R18_119,AP_DUNG,Áp dụng,E2_1,E30_119,,
+RELATION,R18_120,AP_DUNG,Áp dụng,E2_1,E30_120,,
+RELATION,R18_121,AP_DUNG,Áp dụng,E2_1,E30_121,,
+RELATION,R18_122,AP_DUNG,Áp dụng,E2_1,E30_122,,
+RELATION,R18_123,AP_DUNG,Áp dụng,E2_1,E30_123,,
+RELATION,R18_124,AP_DUNG,Áp dụng,E2_1,E30_124,,
+RELATION,R18_125,AP_DUNG,Áp dụng,E2_1,E30_125,,
+RELATION,R18_126,AP_DUNG,Áp dụng,E2_1,E30_126,,
+RELATION,R18_127,AP_DUNG,Áp dụng,E2_1,E30_127,,
+RELATION,R18_128,AP_DUNG,Áp dụng,E2_1,E30_128,,
+RELATION,R18_129,AP_DUNG,Áp dụng,E2_1,E30_129,,
+RELATION,R18_130,AP_DUNG,Áp dụng,E2_1,E30_130,,
+RELATION,R18_131,AP_DUNG,Áp dụng,E2_1,E30_131,,
+RELATION,R18_132,AP_DUNG,Áp dụng,E2_1,E30_132,,
+RELATION,R18_133,AP_DUNG,Áp dụng,E2_1,E30_133,,
+RELATION,R18_134,AP_DUNG,Áp dụng,E2_1,E30_134,,
+RELATION,R18_135,AP_DUNG,Áp dụng,E2_1,E30_135,,
+RELATION,R18_136,AP_DUNG,Áp dụng,E2_1,E30_136,,
+RELATION,R18_137,AP_DUNG,Áp dụng,E2_1,E30_137,,
+RELATION,R18_138,AP_DUNG,Áp dụng,E2_1,E30_138,,
+RELATION,R18_139,AP_DUNG,Áp dụng,E2_1,E30_139,,
+RELATION,R18_140,AP_DUNG,Áp dụng,E2_1,E30_140,,
+RELATION,R18_141,AP_DUNG,Áp dụng,E2_1,E30_141,,
+RELATION,R18_142,AP_DUNG,Áp dụng,E2_1,E30_142,,
+RELATION,R18_143,AP_DUNG,Áp dụng,E2_1,E30_143,,
+RELATION,R18_144,AP_DUNG,Áp dụng,E2_1,E30_144,,
+RELATION,R18_145,AP_DUNG,Áp dụng,E2_1,E30_145,,
+RELATION,R18_146,AP_DUNG,Áp dụng,E2_1,E30_146,,
+RELATION,R18_147,AP_DUNG,Áp dụng,E2_1,E30_147,,
+RELATION,R18_148,AP_DUNG,Áp dụng,E2_1,E30_148,,
+RELATION,R18_149,AP_DUNG,Áp dụng,E2_1,E30_149,,
+RELATION,R18_150,AP_DUNG,Áp dụng,E2_1,E30_150,,
+RELATION,R18_151,AP_DUNG,Áp dụng,E2_1,E30_151,,
+RELATION,R18_152,AP_DUNG,Áp dụng,E2_1,E30_152,,
+RELATION,R18_153,AP_DUNG,Áp dụng,E2_1,E30_153,,
+RELATION,R18_154,AP_DUNG,Áp dụng,E2_1,E30_154,,
+RELATION,R18_155,AP_DUNG,Áp dụng,E2_1,E30_155,,
+RELATION,R18_156,AP_DUNG,Áp dụng,E2_1,E30_156,,
+RELATION,R18_157,AP_DUNG,Áp dụng,E2_1,E30_157,,
+RELATION,R18_158,AP_DUNG,Áp dụng,E2_1,E30_158,,
+RELATION,R18_159,AP_DUNG,Áp dụng,E2_1,E30_159,,
+RELATION,R18_160,AP_DUNG,Áp dụng,E2_1,E30_160,,
+RELATION,R18_161,AP_DUNG,Áp dụng,E2_1,E30_161,,
+RELATION,R18_162,AP_DUNG,Áp dụng,E2_1,E30_162,,
+RELATION,R18_163,AP_DUNG,Áp dụng,E2_1,E30_163,,
+RELATION,R18_164,AP_DUNG,Áp dụng,E2_1,E30_164,,
+RELATION,R18_165,AP_DUNG,Áp dụng,E2_1,E30_165,,
+RELATION,R18_166,AP_DUNG,Áp dụng,E2_1,E30_166,,
+RELATION,R18_167,AP_DUNG,Áp dụng,E2_1,E30_167,,
+RELATION,R18_168,AP_DUNG,Áp dụng,E2_1,E30_168,,
+RELATION,R18_169,AP_DUNG,Áp dụng,E2_1,E30_169,,
+RELATION,R18_170,AP_DUNG,Áp dụng,E2_1,E30_170,,
+RELATION,R18_171,AP_DUNG,Áp dụng,E2_1,E30_171,,
+RELATION,R18_172,AP_DUNG,Áp dụng,E2_1,E30_172,,
+RELATION,R18_173,AP_DUNG,Áp dụng,E2_1,E30_173,,
+RELATION,R18_174,AP_DUNG,Áp dụng,E2_1,E30_174,,
+RELATION,R18_175,AP_DUNG,Áp dụng,E2_1,E30_175,,
+RELATION,R18_176,AP_DUNG,Áp dụng,E2_1,E30_176,,
+RELATION,R18_177,AP_DUNG,Áp dụng,E2_1,E30_177,,
+RELATION,R18_178,AP_DUNG,Áp dụng,E2_1,E30_178,,
+RELATION,R18_179,AP_DUNG,Áp dụng,E2_1,E30_179,,
+RELATION,R18_180,AP_DUNG,Áp dụng,E2_1,E30_180,,
+RELATION,R18_181,AP_DUNG,Áp dụng,E2_1,E30_181,,
+RELATION,R18_182,AP_DUNG,Áp dụng,E2_1,E30_182,,
+RELATION,R18_183,AP_DUNG,Áp dụng,E2_1,E30_183,,
+RELATION,R18_184,AP_DUNG,Áp dụng,E2_1,E30_184,,
+RELATION,R18_185,AP_DUNG,Áp dụng,E2_1,E30_185,,
+RELATION,R18_186,AP_DUNG,Áp dụng,E2_1,E30_186,,
+RELATION,R18_187,AP_DUNG,Áp dụng,E2_1,E30_187,,
+RELATION,R18_188,AP_DUNG,Áp dụng,E2_1,E30_188,,
+RELATION,R18_189,AP_DUNG,Áp dụng,E2_1,E30_189,,
+RELATION,R18_190,AP_DUNG,Áp dụng,E2_1,E30_190,,
+RELATION,R18_191,AP_DUNG,Áp dụng,E2_1,E30_191,,
+RELATION,R18_192,AP_DUNG,Áp dụng,E2_1,E30_192,,
+RELATION,R18_193,AP_DUNG,Áp dụng,E2_1,E30_193,,
+RELATION,R18_194,AP_DUNG,Áp dụng,E2_1,E30_194,,
+RELATION,R18_195,AP_DUNG,Áp dụng,E2_1,E30_195,,
+RELATION,R18_196,AP_DUNG,Áp dụng,E2_1,E30_196,,
+RELATION,R18_197,AP_DUNG,Áp dụng,E2_1,E30_197,,
+RELATION,R18_198,AP_DUNG,Áp dụng,E2_1,E30_198,,
+RELATION,R18_199,AP_DUNG,Áp dụng,E2_1,E30_199,,
+RELATION,R18_200,AP_DUNG,Áp dụng,E2_1,E30_200,,
+RELATION,R18_201,AP_DUNG,Áp dụng,E2_1,E30_201,,
+RELATION,R18_202,AP_DUNG,Áp dụng,E2_1,E30_202,,
+RELATION,R18_203,AP_DUNG,Áp dụng,E2_1,E30_203,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_1,E38_3,,
+RELATION,R22_7,THUOC,Thuộc,E39_2,E38_3,,
+RELATION,R22_8,THUOC,Thuộc,E39_3,E38_3,,
+RELATION,R22_9,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,R22_10,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_11,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,R22_12,THUOC,Thuộc,E39_7,E38_3,,
+RELATION,R22_13,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,R22_14,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_15,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_16,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_17,THUOC,Thuộc,E39_10,E38_5,,
+RELATION,R22_18,THUOC,Thuộc,E39_11,E38_5,,
+RELATION,R22_19,THUOC,Thuộc,E39_12,E38_5,,
+RELATION,R22_20,THUOC,Thuộc,E39_13,E38_5,,
+RELATION,R22_21,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_22,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_23,THUOC,Thuộc,E39_14,E38_7,,
+RELATION,R22_24,THUOC,Thuộc,E39_15,E38_7,,
+RELATION,R22_25,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_26,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_27,THUOC,Thuộc,E39_16,E38_9,,
+RELATION,R22_28,THUOC,Thuộc,E39_17,E38_9,,
+RELATION,R22_29,THUOC,Thuộc,E39_18,E38_9,,
+RELATION,R22_30,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_31,THUOC,Thuộc,E39_19,E38_10,,
+RELATION,R22_32,THUOC,Thuộc,E39_20,E38_10,,
+RELATION,R22_33,THUOC,Thuộc,E39_21,E38_10,,
+RELATION,R22_34,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_35,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_36,THUOC,Thuộc,E39_22,E38_12,,
+RELATION,R22_37,THUOC,Thuộc,E39_23,E38_12,,
+RELATION,R22_38,THUOC,Thuộc,E39_24,E38_12,,
+RELATION,R22_39,THUOC,Thuộc,E38_13,E35_3,,
+RELATION,R22_40,THUOC,Thuộc,E39_25,E38_13,,
+RELATION,R22_41,THUOC,Thuộc,E40_1,E39_25,,
+RELATION,R22_42,THUOC,Thuộc,E40_2,E39_25,,
+RELATION,R22_43,THUOC,Thuộc,E40_3,E39_25,,
+RELATION,R22_44,THUOC,Thuộc,E39_26,E38_13,,
+RELATION,R22_45,THUOC,Thuộc,E38_14,E35_3,,
+RELATION,R22_46,THUOC,Thuộc,E39_27,E38_14,,
+RELATION,R22_47,THUOC,Thuộc,E39_28,E38_14,,
+RELATION,R22_48,THUOC,Thuộc,E38_15,E35_3,,
+RELATION,R22_49,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,R22_50,THUOC,Thuộc,E39_29,E38_16,,
+RELATION,R22_51,THUOC,Thuộc,E39_30,E38_16,,
+RELATION,R22_52,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,R22_53,THUOC,Thuộc,E39_31,E38_17,,
+RELATION,R22_54,THUOC,Thuộc,E39_32,E38_17,,
+RELATION,R22_55,THUOC,Thuộc,E39_33,E38_17,,
+RELATION,R22_56,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,R22_57,THUOC,Thuộc,E39_34,E38_18,,
+RELATION,R22_58,THUOC,Thuộc,E39_35,E38_18,,
+RELATION,R22_59,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,R22_60,THUOC,Thuộc,E39_36,E38_19,,
+RELATION,R22_61,THUOC,Thuộc,E39_37,E38_19,,
+RELATION,R22_62,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,R22_63,THUOC,Thuộc,E38_21,E35_4,,
+RELATION,R22_64,THUOC,Thuộc,E39_38,E38_21,,
+RELATION,R22_65,THUOC,Thuộc,E39_39,E38_21,,
+RELATION,R22_66,THUOC,Thuộc,E39_40,E38_21,,
+RELATION,R22_67,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,R22_68,THUOC,Thuộc,E39_41,E38_22,,
+RELATION,R22_69,THUOC,Thuộc,E39_42,E38_22,,
+RELATION,R22_70,THUOC,Thuộc,E39_43,E38_22,,
+RELATION,R22_71,THUOC,Thuộc,E39_44,E38_22,,
+RELATION,R22_72,THUOC,Thuộc,E39_45,E38_22,,
+RELATION,R22_73,THUOC,Thuộc,E39_46,E38_22,,
+RELATION,R22_74,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_75,THUOC,Thuộc,E39_47,E38_23,,
+RELATION,R22_76,THUOC,Thuộc,E39_48,E38_23,,
+RELATION,R22_77,THUOC,Thuộc,E39_49,E38_23,,
+RELATION,R22_78,THUOC,Thuộc,E39_50,E38_23,,
+RELATION,R22_79,THUOC,Thuộc,E39_51,E38_23,,
+RELATION,R22_80,THUOC,Thuộc,E39_52,E38_23,,
+RELATION,R22_81,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,R22_82,THUOC,Thuộc,E39_53,E38_24,,
+RELATION,R22_83,THUOC,Thuộc,E39_54,E38_24,,
+RELATION,R22_84,THUOC,Thuộc,E39_55,E38_24,,
+RELATION,R22_85,THUOC,Thuộc,E38_25,E35_5,,
+RELATION,R22_86,THUOC,Thuộc,E39_56,E38_25,,
+RELATION,R22_87,THUOC,Thuộc,E39_57,E38_25,,
+RELATION,R22_88,THUOC,Thuộc,E39_58,E38_25,,
+RELATION,R22_89,THUOC,Thuộc,E39_59,E38_25,,
+RELATION,R22_90,THUOC,Thuộc,E38_26,E35_5,,
+RELATION,R22_91,THUOC,Thuộc,E39_60,E38_26,,
+RELATION,R22_92,THUOC,Thuộc,E39_61,E38_26,,
+RELATION,R22_93,THUOC,Thuộc,E39_62,E38_26,,
+RELATION,R22_94,THUOC,Thuộc,E39_63,E38_26,,
+RELATION,R22_95,THUOC,Thuộc,E39_64,E38_26,,
+RELATION,R22_96,THUOC,Thuộc,E39_65,E38_26,,
+RELATION,R22_97,THUOC,Thuộc,E39_66,E38_26,,
+RELATION,R22_98,THUOC,Thuộc,E39_67,E38_26,,
+RELATION,R22_99,THUOC,Thuộc,E39_68,E38_26,,
+RELATION,R22_100,THUOC,Thuộc,E38_27,E35_5,,
+RELATION,R22_101,THUOC,Thuộc,E39_69,E38_27,,
+RELATION,R22_102,THUOC,Thuộc,E39_70,E38_27,,
+RELATION,R22_103,THUOC,Thuộc,E39_71,E38_27,,
+RELATION,R22_104,THUOC,Thuộc,E39_72,E38_27,,
+RELATION,R22_105,THUOC,Thuộc,E39_73,E38_27,,
+RELATION,R22_106,THUOC,Thuộc,E39_74,E38_27,,
+RELATION,R22_107,THUOC,Thuộc,E39_75,E38_27,,
+RELATION,R22_108,THUOC,Thuộc,E39_76,E38_27,,
+RELATION,R22_109,THUOC,Thuộc,E39_77,E38_27,,
+RELATION,R22_110,THUOC,Thuộc,E39_78,E38_27,,
+RELATION,R22_111,THUOC,Thuộc,E39_79,E38_27,,
+RELATION,R22_112,THUOC,Thuộc,E38_28,E35_5,,
+RELATION,R22_113,THUOC,Thuộc,E38_29,E35_5,,
+RELATION,R22_114,THUOC,Thuộc,E39_80,E38_29,,
+RELATION,R22_115,THUOC,Thuộc,E39_81,E38_29,,
+RELATION,R22_116,THUOC,Thuộc,E39_82,E38_29,,
+RELATION,R22_117,THUOC,Thuộc,E39_83,E38_29,,
+RELATION,R22_118,THUOC,Thuộc,E38_30,E35_5,,
+RELATION,R22_119,THUOC,Thuộc,E39_84,E38_30,,
+RELATION,R22_120,THUOC,Thuộc,E40_4,E39_84,,
+RELATION,R22_121,THUOC,Thuộc,E40_5,E39_84,,
+RELATION,R22_122,THUOC,Thuộc,E40_6,E39_84,,
+RELATION,R22_123,THUOC,Thuộc,E39_85,E38_30,,
+RELATION,R22_124,THUOC,Thuộc,E40_7,E39_85,,
+RELATION,R22_125,THUOC,Thuộc,E40_8,E39_85,,
+RELATION,R22_126,THUOC,Thuộc,E36_1,E35_6,,
+RELATION,R22_127,THUOC,Thuộc,E38_31,E36_1,,
+RELATION,R22_128,THUOC,Thuộc,E39_86,E38_31,,
+RELATION,R22_129,THUOC,Thuộc,E39_87,E38_31,,
+RELATION,R22_130,THUOC,Thuộc,E39_88,E38_31,,
+RELATION,R22_131,THUOC,Thuộc,E39_89,E38_31,,
+RELATION,R22_132,THUOC,Thuộc,E38_32,E36_1,,
+RELATION,R22_133,THUOC,Thuộc,E39_90,E38_32,,
+RELATION,R22_134,THUOC,Thuộc,E39_91,E38_32,,
+RELATION,R22_135,THUOC,Thuộc,E39_92,E38_32,,
+RELATION,R22_136,THUOC,Thuộc,E39_93,E38_32,,
+RELATION,R22_137,THUOC,Thuộc,E39_94,E38_32,,
+RELATION,R22_138,THUOC,Thuộc,E39_95,E38_32,,
+RELATION,R22_139,THUOC,Thuộc,E39_96,E38_32,,
+RELATION,R22_140,THUOC,Thuộc,E39_97,E38_32,,
+RELATION,R22_141,THUOC,Thuộc,E39_98,E38_32,,
+RELATION,R22_142,THUOC,Thuộc,E38_33,E36_1,,
+RELATION,R22_143,THUOC,Thuộc,E39_99,E38_33,,
+RELATION,R22_144,THUOC,Thuộc,E39_100,E38_33,,
+RELATION,R22_145,THUOC,Thuộc,E39_101,E38_33,,
+RELATION,R22_146,THUOC,Thuộc,E39_102,E38_33,,
+RELATION,R22_147,THUOC,Thuộc,E39_103,E38_33,,
+RELATION,R22_148,THUOC,Thuộc,E39_104,E38_33,,
+RELATION,R22_149,THUOC,Thuộc,E39_105,E38_33,,
+RELATION,R22_150,THUOC,Thuộc,E39_106,E38_33,,
+RELATION,R22_151,THUOC,Thuộc,E39_107,E38_33,,
+RELATION,R22_152,THUOC,Thuộc,E39_108,E38_33,,
+RELATION,R22_153,THUOC,Thuộc,E39_109,E38_33,,
+RELATION,R22_154,THUOC,Thuộc,E38_34,E36_1,,
+RELATION,R22_155,THUOC,Thuộc,E39_110,E38_34,,
+RELATION,R22_156,THUOC,Thuộc,E39_111,E38_34,,
+RELATION,R22_157,THUOC,Thuộc,E38_35,E36_1,,
+RELATION,R22_158,THUOC,Thuộc,E39_112,E38_35,,
+RELATION,R22_159,THUOC,Thuộc,E39_113,E38_35,,
+RELATION,R22_160,THUOC,Thuộc,E39_114,E38_35,,
+RELATION,R22_161,THUOC,Thuộc,E39_115,E38_35,,
+RELATION,R22_162,THUOC,Thuộc,E39_116,E38_35,,
+RELATION,R22_163,THUOC,Thuộc,E38_36,E36_1,,
+RELATION,R22_164,THUOC,Thuộc,E39_117,E38_36,,
+RELATION,R22_165,THUOC,Thuộc,E39_118,E38_36,,
+RELATION,R22_166,THUOC,Thuộc,E39_119,E38_36,,
+RELATION,R22_167,THUOC,Thuộc,E38_37,E36_1,,
+RELATION,R22_168,THUOC,Thuộc,E39_120,E38_37,,
+RELATION,R22_169,THUOC,Thuộc,E39_121,E38_37,,
+RELATION,R22_170,THUOC,Thuộc,E39_122,E38_37,,
+RELATION,R22_171,THUOC,Thuộc,E38_38,E36_1,,
+RELATION,R22_172,THUOC,Thuộc,E38_39,E36_1,,
+RELATION,R22_173,THUOC,Thuộc,E39_123,E38_39,,
+RELATION,R22_174,THUOC,Thuộc,E39_124,E38_39,,
+RELATION,R22_175,THUOC,Thuộc,E39_125,E38_39,,
+RELATION,R22_176,THUOC,Thuộc,E39_126,E38_39,,
+RELATION,R22_177,THUOC,Thuộc,E39_127,E38_39,,
+RELATION,R22_178,THUOC,Thuộc,E39_128,E38_39,,
+RELATION,R22_179,THUOC,Thuộc,E38_40,E36_1,,
+RELATION,R22_180,THUOC,Thuộc,E39_129,E38_40,,
+RELATION,R22_181,THUOC,Thuộc,E40_9,E39_129,,
+RELATION,R22_182,THUOC,Thuộc,E40_10,E39_129,,
+RELATION,R22_183,THUOC,Thuộc,E40_11,E39_129,,
+RELATION,R22_184,THUOC,Thuộc,E39_130,E38_40,,
+RELATION,R22_185,THUOC,Thuộc,E40_12,E39_130,,
+RELATION,R22_186,THUOC,Thuộc,E40_13,E39_130,,
+RELATION,R22_187,THUOC,Thuộc,E40_14,E39_130,,
+RELATION,R22_188,THUOC,Thuộc,E40_15,E39_130,,
+RELATION,R22_189,THUOC,Thuộc,E38_41,E36_1,,
+RELATION,R22_190,THUOC,Thuộc,E38_42,E36_1,,
+RELATION,R22_191,THUOC,Thuộc,E39_131,E38_42,,
+RELATION,R22_192,THUOC,Thuộc,E39_132,E38_42,,
+RELATION,R22_193,THUOC,Thuộc,E38_43,E36_1,,
+RELATION,R22_194,THUOC,Thuộc,E36_2,E35_6,,
+RELATION,R22_195,THUOC,Thuộc,E38_44,E36_2,,
+RELATION,R22_196,THUOC,Thuộc,E38_45,E36_2,,
+RELATION,R22_197,THUOC,Thuộc,E39_133,E38_45,,
+RELATION,R22_198,THUOC,Thuộc,E39_134,E38_45,,
+RELATION,R22_199,THUOC,Thuộc,E39_135,E38_45,,
+RELATION,R22_200,THUOC,Thuộc,E39_136,E38_45,,
+RELATION,R22_201,THUOC,Thuộc,E39_137,E38_45,,
+RELATION,R22_202,THUOC,Thuộc,E39_138,E38_45,,
+RELATION,R22_203,THUOC,Thuộc,E38_46,E36_2,,
+RELATION,R22_204,THUOC,Thuộc,E39_139,E38_46,,
+RELATION,R22_205,THUOC,Thuộc,E39_140,E38_46,,
+RELATION,R22_206,THUOC,Thuộc,E39_141,E38_46,,
+RELATION,R22_207,THUOC,Thuộc,E39_142,E38_46,,
+RELATION,R22_208,THUOC,Thuộc,E39_143,E38_46,,
+RELATION,R22_209,THUOC,Thuộc,E39_144,E38_46,,
+RELATION,R22_210,THUOC,Thuộc,E39_145,E38_46,,
+RELATION,R22_211,THUOC,Thuộc,E39_146,E38_46,,
+RELATION,R22_212,THUOC,Thuộc,E38_47,E36_2,,
+RELATION,R22_213,THUOC,Thuộc,E38_48,E36_2,,
+RELATION,R22_214,THUOC,Thuộc,E39_147,E38_48,,
+RELATION,R22_215,THUOC,Thuộc,E40_16,E39_147,,
+RELATION,R22_216,THUOC,Thuộc,E40_17,E39_147,,
+RELATION,R22_217,THUOC,Thuộc,E40_18,E39_147,,
+RELATION,R22_218,THUOC,Thuộc,E39_148,E38_48,,
+RELATION,R22_219,THUOC,Thuộc,E36_3,E35_6,,
+RELATION,R22_220,THUOC,Thuộc,E38_49,E36_3,,
+RELATION,R22_221,THUOC,Thuộc,E38_50,E36_3,,
+RELATION,R22_222,THUOC,Thuộc,E38_51,E36_3,,
+RELATION,R22_223,THUOC,Thuộc,E39_149,E38_51,,
+RELATION,R22_224,THUOC,Thuộc,E39_150,E38_51,,
+RELATION,R22_225,THUOC,Thuộc,E39_151,E38_51,,
+RELATION,R22_226,THUOC,Thuộc,E39_152,E38_51,,
+RELATION,R22_227,THUOC,Thuộc,E38_52,E36_3,,
+RELATION,R22_228,THUOC,Thuộc,E39_153,E38_52,,
+RELATION,R22_229,THUOC,Thuộc,E39_154,E38_52,,
+RELATION,R22_230,THUOC,Thuộc,E39_155,E38_52,,
+RELATION,R22_231,THUOC,Thuộc,E39_156,E38_52,,
+RELATION,R22_232,THUOC,Thuộc,E39_157,E38_52,,
+RELATION,R22_233,THUOC,Thuộc,E39_158,E38_52,,
+RELATION,R22_234,THUOC,Thuộc,E39_159,E38_52,,
+RELATION,R22_235,THUOC,Thuộc,E38_53,E36_3,,
+RELATION,R22_236,THUOC,Thuộc,E39_160,E38_53,,
+RELATION,R22_237,THUOC,Thuộc,E40_19,E39_160,,
+RELATION,R22_238,THUOC,Thuộc,E40_20,E39_160,,
+RELATION,R22_239,THUOC,Thuộc,E40_21,E39_160,,
+RELATION,R22_240,THUOC,Thuộc,E39_161,E38_53,,
+RELATION,R22_241,THUOC,Thuộc,E39_162,E38_53,,
+RELATION,R22_242,THUOC,Thuộc,E38_54,E35_7,,
+RELATION,R22_243,THUOC,Thuộc,E39_163,E38_54,,
+RELATION,R22_244,THUOC,Thuộc,E39_164,E38_54,,
+RELATION,R22_245,THUOC,Thuộc,E39_165,E38_54,,
+RELATION,R22_246,THUOC,Thuộc,E39_166,E38_54,,
+RELATION,R22_247,THUOC,Thuộc,E39_167,E38_54,,
+RELATION,R22_248,THUOC,Thuộc,E39_168,E38_54,,
+RELATION,R22_249,THUOC,Thuộc,E39_169,E38_54,,
+RELATION,R22_250,THUOC,Thuộc,E39_170,E38_54,,
+RELATION,R22_251,THUOC,Thuộc,E39_171,E38_54,,
+RELATION,R22_252,THUOC,Thuộc,E39_172,E38_54,,
+RELATION,R22_253,THUOC,Thuộc,E39_173,E38_54,,
+RELATION,R22_254,THUOC,Thuộc,E38_55,E35_7,,
+RELATION,R22_255,THUOC,Thuộc,E38_56,E35_7,,
+RELATION,R22_256,THUOC,Thuộc,E39_174,E38_56,,
+RELATION,R22_257,THUOC,Thuộc,E39_175,E38_56,,
+RELATION,R22_258,THUOC,Thuộc,E38_57,E35_7,,
+RELATION,R22_259,THUOC,Thuộc,E39_176,E38_57,,
+RELATION,R22_260,THUOC,Thuộc,E39_177,E38_57,,
+RELATION,R22_261,THUOC,Thuộc,E38_58,E35_8,,
+RELATION,R22_262,THUOC,Thuộc,E38_59,E35_8,,
+RELATION,R22_263,THUOC,Thuộc,E39_178,E38_59,,
+RELATION,R22_264,THUOC,Thuộc,E40_22,E39_178,,
+RELATION,R22_265,THUOC,Thuộc,E40_23,E39_178,,
+RELATION,R22_266,THUOC,Thuộc,E40_24,E39_178,,
+RELATION,R22_267,THUOC,Thuộc,E40_25,E39_178,,
+RELATION,R22_268,THUOC,Thuộc,E39_179,E38_59,,
+RELATION,R22_269,THUOC,Thuộc,E39_180,E38_59,,
+RELATION,R22_270,THUOC,Thuộc,E38_60,E35_8,,
+RELATION,R22_271,THUOC,Thuộc,E39_181,E38_60,,
+RELATION,R22_272,THUOC,Thuộc,E39_182,E38_60,,
+RELATION,R22_273,THUOC,Thuộc,E39_183,E38_60,,
+RELATION,R22_274,THUOC,Thuộc,E39_184,E38_60,,
+RELATION,R22_275,THUOC,Thuộc,E38_61,E35_8,,
+RELATION,R22_276,THUOC,Thuộc,E39_185,E38_61,,
+RELATION,R22_277,THUOC,Thuộc,E39_186,E38_61,,
+RELATION,R22_278,THUOC,Thuộc,E38_62,E35_8,,
+RELATION,R22_279,THUOC,Thuộc,E39_187,E38_62,,
+RELATION,R22_280,THUOC,Thuộc,E39_188,E38_62,,
+RELATION,R22_281,THUOC,Thuộc,E38_63,E35_9,,
+RELATION,R22_282,THUOC,Thuộc,E38_64,E35_9,,
+RELATION,R22_283,THUOC,Thuộc,E39_189,E38_64,,
+RELATION,R22_284,THUOC,Thuộc,E39_190,E38_64,,
+RELATION,R22_285,THUOC,Thuộc,E38_65,E35_10,,
+RELATION,R22_286,THUOC,Thuộc,E39_191,E38_65,,
+RELATION,R22_287,THUOC,Thuộc,E39_192,E38_65,,
+RELATION,R22_288,THUOC,Thuộc,E39_193,E38_65,,
+RELATION,R22_289,THUOC,Thuộc,E39_194,E38_65,,
+RELATION,R22_290,THUOC,Thuộc,E38_66,E35_10,,

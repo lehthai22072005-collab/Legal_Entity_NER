@@ -1,0 +1,210 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,43,Luật Tổ chức Hội đồng Chính phủ số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,35,43,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,5101,5125,ngày 14 tháng 7 năm 1960
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,5211,5225,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,5246,5256,1960-07-26
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,5278,5288,1981-07-14
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,5312,5332,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,438,446,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,5346,5359,Phó  Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,5372,5386,Hoàng Văn Hoan
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,5479,5497,Hiến pháp năm 1959
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,5406,5424,Hiến pháp năm 1959
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,5547,5621,Quyết định số 15-CP Về sửa đổi tổ chức bộ máy của Ủy ban Kế hoạch Nhà nước
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,5671,5751,Nghị định số 88-CP Ban hành bản quy định về tổ chức và hoạt động của Bộ thủy lợi
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,5801,5859,Quyết định số 89-CP Thành lập ban điều hòa kế hoạch vật tư
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,5909,5996,"Quyết định số 61-CP Về việc thành lập Cục Cơ khí và tàu, thuyền thuộc Tổng cục Thủy sản"
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,6046,6124,Quyết định số 60-CP Về việc thành lập viện quan hệ quốc tế thuộc Bộ Ngoại giao
+ENTITY,E24_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,6174,6286,"Quyết định số 59-CP Về nhiệm vụ, tổ chức bộ máy của tổng cục khai hoang và vùng kinh tế mới thuộc Bộ Nông nghiệp"
+ENTITY,E24_7,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,6336,6417,"Quyết định số 130-CP Quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Nội vụ"
+ENTITY,E24_8,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,6467,6620,Quyết định số 180-CP Về việc chuyển nhiệm vụ và tổ chức bộ máy truyền thanh của Tổng cục Thông tin sang Ủy ban Phát thanh và Truyền hình Việt Nam quản lý
+ENTITY,E24_9,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,6670,6731,Nghị định số 59-CP Về việc thành lập Viện nghiên cứu hạt nhân
+ENTITY,E24_10,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,6781,6942,"Quyết định số 263-TTg Ban hành bản quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Hội đồng trọng tài kinh tế tỉnh, thành phố trực thuộc Trung ương"
+ENTITY,E24_11,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,6992,7083,"Nghị định số 88-CP Quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Việt Nam thông tấn xã"
+ENTITY,E24_12,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,7133,7235,Quyết định số 88-CP Về việc thành lập xí nghiệp liên hợp công trình V trực thuộc Bộ Giao thông Vận tải
+ENTITY,E24_13,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,7285,7386,Quyết định số 85-CP Về việc đặt Việt Nam thông tấn xã thành một cơ quan trực thuộc Hội đồng Chính phủ
+ENTITY,E24_14,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,7436,7545,Quyết định số 142-CP Về việc thành lập liên hiệp các xí nghiệp giấy – gỗ - diêm trực thuộc Bộ Công nghiệp nhẹ
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,12893,12939,Luật Tổ chức Hội đồng Bộ trưởng số 2-LCT/HĐNN7
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,7567,7652,Lệnh số 18/LCT Công bố Luật Tổ chức Hội đồng Chính phủ nước Việt Nam dân chủ cộng hoà
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,7672,7743,Nghị định số 122/CP Về việc thành lập Trường quản lý kinh tế trung ương
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,7763,7843,Nghị định số 88-CP Ban hành bản quy định về tổ chức và hoạt động của Bộ thủy lợi
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,7863,7961,"Nghị định số 168-CP Quy định về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ lương thực"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,7981,8047,Quyết định số 124-CP Về việc thành lập Hội đồng giáo dục ở các cấp
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,8067,8195,Nghị định số 30/CP Về quy chế cho tàu thuyền nước ngoài hoạt động trên các vùng biển của nước Cộng hoà xã hội chủ nghĩa Việt Nam
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,8215,8314,"Quyết định số 56-CP Về việc ban hành bản Thể lệ về tổ chức việc cưới, việc tang, ngày giỗ, ngày hội"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,8334,8408,Quyết định số 15-CP Về sửa đổi tổ chức bộ máy của Ủy ban Kế hoạch Nhà nước
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,8428,8529,Quyết định số 85-CP Về việc đặt Việt Nam thông tấn xã thành một cơ quan trực thuộc Hội đồng Chính phủ
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,8549,8653,Quyết định số 75/CP Về việc thành lập Tổng công ty chế biến và cung ứng lâm sản trực thuộc Bộ Lâm nghiệp
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,8673,8845,"Nghị định số 217/CP Ban hành bản quy định về chế độ trách nhiệm, chế độ kỷ luật, chế độ bảo vệ của công và chế độ phục vụ nhân dân của cán bộ, nhân viên và cơ quan Nhà nước"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,8865,8951,"Nghị định số 170-CP Quy định chức năng, nhiệm vụ, quyền hạn và tổ chức của Bộ Điện lực"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,8971,9124,Quyết định số 180-CP Về việc chuyển nhiệm vụ và tổ chức bộ máy truyền thanh của Tổng cục Thông tin sang Ủy ban Phát thanh và Truyền hình Việt Nam quản lý
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,9144,9207,Quyết định số 248/CP Về việc thành lập Viện kỹ thuật nhiệt đới.
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,9227,9333,"Nghị định số 167-CP Quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Công nghiệp thực phẩm"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,9353,9465,"Quyết định số 59-CP Về nhiệm vụ, tổ chức bộ máy của tổng cục khai hoang và vùng kinh tế mới thuộc Bộ Nông nghiệp"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,9485,9594,Quyết định số 142-CP Về việc thành lập liên hiệp các xí nghiệp giấy – gỗ - diêm trực thuộc Bộ Công nghiệp nhẹ
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,9614,9675,Nghị định số 59-CP Về việc thành lập Viện nghiên cứu hạt nhân
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,9695,9773,Quyết định số 60-CP Về việc thành lập viện quan hệ quốc tế thuộc Bộ Ngoại giao
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,9793,9856,Nghị định số 201-CP Về việc quản lý định mức kinh tế - kỹ thuật
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,9876,9977,"Nghị định số 293-CP Về việc thi hành Pháp lệnh ngày 14/11/1979 về bảo vệ, chăm sóc và giáo dục trẻ em"
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,9997,10077,Quyết định số 224/CP Về việc sửa đổi tổ chức bộ máy của Uỷ ban Kế hoạch Nhà nước
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,10097,10188,"Nghị định số 88-CP Quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Việt Nam thông tấn xã"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,10208,10289,"Quyết định số 130-CP Quy định nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Nội vụ"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,10309,10417,Quyết định số 217-CP Về việc giao cho Bộ Lao động nhiệm vụ điều động lao động và dân cư trên địa bàn cả nước
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,10437,10573,Quyết định số 318/CP Về việc thành lập Tiểu ban nghiên cứu sử dụng lực lượng lao động và xác định quỹ tiền lương trong khu vực Nhà nước.
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,10593,10705,"Quyết định số 372/CP Về việc thành lập Trường Đại học Sân khấu và Điện ảnh Hà Nội, thuộc Bộ Văn hoá và Thông tin"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,10725,10812,"Quyết định số 61-CP Về việc thành lập Cục Cơ khí và tàu, thuyền thuộc Tổng cục Thủy sản"
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,10832,10890,Quyết định số 89-CP Thành lập ban điều hòa kế hoạch vật tư
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,10910,11024,Quyết định số 175-CP Về việc ký kết và thực hiện hợp đồng kinh tế trong nghiên cứu khoa học và triển khai kỹ thuật
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,11044,11147,Quyết định số 5/CP Về việc thành lập Viện nghiên cứu thiết kế tàu thuỷ trực thuộc Bộ Giao thông vận tải
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,11167,11322,"Quyết định số 142/CP Về việc sáp nhập trường Hành chính Trung ương và trường Quản lý kinh tế Trung ương, tổ chức thành trường Hành chính-kinh tế Trung ương"
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,11342,11461,"Nghị định số 183/CP Về việc thay đổi thành phần và quy định lại nhiệm vụ, quyền hạn của Ban Điều hoà vận tải trung ương"
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,11481,11570,Quyết định số 156/CP Về việc sửa đổi tổ chức bộ máy quản lý cung ứng vật tư của Bộ Vật tư
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,11590,11681,Quyết định số 4/CP Về việc thành lập Cục Hợp tác quốc tế về lao động trực thuộc Bộ Lao động
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,11701,11817,"Nghị định số 137/CP Về việc quy định chức năng, nhiệm vụ và tổ chức bộ máy của Uỷ ban quan hệ kinh tế với nước ngoài"
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,11837,11934,Quyết định số 373/CP Về việc thành lập Trường cao đẳng nông - lâm nghiệp Huế thuộc Bộ Nông nghiệp
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,11954,12056,Quyết định số 88-CP Về việc thành lập xí nghiệp liên hợp công trình V trực thuộc Bộ Giao thông Vận tải
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,12076,12155,Quyết định số 18/CP Về việc thành lập Trường Cao đẳng nông lâm nghiệp Thanh Hoá
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,12175,12290,Quyết định số 259-CP Về việc thành lập Ngân hàng đầu tư và xây dựng Việt Nam trực thuộc Ngân hàng Nhà nước Việt Nam
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,12310,12365,Nghị định số 214/CP Ban hành Điều lệ kiểm dịch thực vật
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,12385,12440,Quyết định số 135-CP Về hệ thống giáo dục phổ thông mới
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,12460,12547,"Nghị định số Số hiệu:39-CP Về việc ban hành Điều lệ tạm thời về săn, bắt chim, thú rừng"
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,12567,12662,"Nghị định số 169-CP Quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Mỏ và Than"
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,12682,12843,"Quyết định số 263-TTg Ban hành bản quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Hội đồng trọng tài kinh tế tỉnh, thành phố trực thuộc Trung ương"
+ENTITY,E38_1,DIEU,Điều,structure,107,230,"Điều 1
+Căn cứ vào chương VI của Hiến pháp nước Việt Nam dân chủ cộng hoà, luật này quy định tổ chức của Hội đồng Chính phủ."
+ENTITY,E38_2,DIEU,Điều,structure,231,682,"Điều 2
+Hội đồng Chính phủ gồm có Thủ tướng, các Phó thủ tướng, các Bộ trưởng và các Thủ trưởng các cơ quan ngang Bộ.
+Thủ tướng Chính phủ và mỗi thành viên của Hội đồng Chính phủ chịu trách nhiệm chung trước Quốc hội về toàn bộ công tác của Chính phủ, đồng thời chịu trách nhiệm riêng trước Quốc hội về phần công tác của mình.
+Hội đồng Chính phủ tổ chức và lãnh đạo toàn bộ công tác trong phạm vi trách nhiệm của mình theo nguyên tắc tập trung dân chủ."
+ENTITY,E38_3,DIEU,Điều,structure,683,1356,"Điều 3
+Các Bộ và cơ quan ngang Bộ hiện nay có:
+- Bộ Nội vụ,
+- Bộ Ngoại giao,
+- Bộ Quốc phòng,
+- Bộ Công an,
+- Bộ Nông nghiệp,
+- Bộ Nông trường,
+- Bộ Thuỷ lợi và Điện lực,
+- Bộ Công nghiệp nặng,
+- Bộ Công nghiệp nhẹ,
+- Bộ Kiến trúc,
+- Bộ Giao thông và Bưu điện,
+- Bộ Lao động,
+- Bộ Tài chính,
+- Bộ Nội thương,
+- Bộ Ngoại thương,
+- Bộ Văn hoá,
+- Bộ Giáo dục,
+- Bộ Y tế,
+- Uỷ ban Kế hoạch Nhà nước,
+- Uỷ ban Khoa học Nhà nước,
+- Uỷ ban Dân tộc,
+- Uỷ ban Thanh tra,
+- Uỷ ban Thống nhất,
+- Ngân hàng Nhà nước.
+Việc đặt thêm hoặc bãi bỏ Bộ và cơ quan ngang Bộ do Hội đồng Chính phủ trình Quốc hội phê chuẩn, giữa hai kỳ họp Quốc hội thì trình Uỷ ban thường vụ Quốc hội phê chuẩn."
+ENTITY,E38_4,DIEU,Điều,structure,1357,1797,"Điều 4
+Tuỳ sự cần thiết, Hội đồng Chính phủ đặt những cơ quan trực thuộc Hội đồng Chính phủ. Các cơ quan trực thuộc Hội đồng Chính phủ hiện nay có:
+- Tổng cục Địa chất,
+- Tổng cục Lâm nghiệp,
+- Tổng cục Thuỷ sản,
+- Tổng cục Vật tư,
+- Uỷ ban Liên lạc văn hoá với nước ngoài,
+- Uỷ ban Thể dục thể thao trung ương.
+Việc đặt thêm hoặc bãi bỏ cơ quan trực thuộc Hội đồng Chính phủ do Hội đồng Chính phủ trình Uỷ ban thường vụ Quốc hội phê chuẩn."
+ENTITY,E38_5,DIEU,Điều,structure,1798,2507,"Điều 5
+Hội đồng Chính phủ có hai hình thức hội nghị: Hội nghị toàn thể và Hội nghị Thường vụ.
+Hội nghị toàn thể của Hội đồng Chính phủ gồm toàn thể các thành viên của Hội đồng Chính phủ.
+Hội nghị Thường vụ của Hội đồng Chính phủ gồm Thủ tướng Chính phủ, các Phó thủ tướng và Bộ trưởng Phủ Thủ tướng.
+Những nghị quyết của Hội nghị Thường vụ của Hội đồng Chính phủ sẽ được báo cáo trước Hội nghị toàn thể của Hội đồng Chính phủ.
+Các Thủ trưởng các cơ quan trực thuộc Hội đồng Chính phủ dự Hội nghị toàn thể của Hội đồng Chính phủ, nhưng không có quyền biểu quyết.
+Khi cần thiết, ngoài thành phần nói trên, những người hữu quan có thể được mời dự hội nghị của Hội đồng Chính phủ, nhưng không có quyền biểu quyết."
+ENTITY,E38_6,DIEU,Điều,structure,2508,2707,"Điều 6
+Những nghị định, nghị quyết, quyết định, thông tư và chỉ thị của Hội đồng Chính phủ phải được Hội nghị toàn thể của Hội đồng Chính phủ hoặc Hội nghị Thường vụ của Hội đồng Chính phủ thông qua."
+ENTITY,E38_7,DIEU,Điều,structure,2708,3061,"Điều 7
+Thủ tướng Chính phủ lãnh đạo công tác của Hội đồng Chính phủ và thay mặt Hội đồng Chính phủ chỉ đạo công tác của các Bộ, cơ quan ngang Bộ, cơ quan trực thuộc Hội đồng Chính phủ và Uỷ ban hành chính các cấp.
+Các Phó thủ tướng giúp Thủ tướng trong việc lãnh đạo chung và có thể được uỷ nhiệm thay Thủ tướng chỉ đạo từng khối công tác của Chính phủ."
+ENTITY,E38_8,DIEU,Điều,structure,3062,3463,"Điều 8
+Bộ máy làm việc của Hội đồng Chính phủ và Thủ tướng Chính phủ là Phủ thủ tướng. Phủ Thủ tướng gồm có:
+- Văn phòng Phủ Thủ tướng, đứng đầu là Bộ trưởng Phủ Thủ tướng có một hoặc nhiều Thứ trưởng giúp việc;
+- Các Văn phòng nghiên cứu và theo dõi từng khối công tác của Chính phủ, đứng đầu là các Chủ nhiệm Văn phòng có một hoặc nhiều Phó chủ nhiệm giúp việc. Chủ nhiệm Văn phòng là một Bộ trưởng."
+ENTITY,E38_9,DIEU,Điều,structure,3464,3774,"Điều 9
+Mỗi Bộ có Bộ trưởng và một hoặc nhiều Thứ trưởng. Mỗi Uỷ ban Nhà nước có Chủ nhiệm, một hoặc nhiều Phó chủ nhiệm và một số uỷ viên.
+Uỷ ban Thanh tra có Tổng thanh tra, một hoặc nhiều Phó tổng thanh tra và có thể có một số uỷ viên.
+Ngân hàng Nhà nước có Tổng giám đốc và một hoặc nhiều Phó tổng giám đốc."
+ENTITY,E38_10,DIEU,Điều,structure,3775,3977,"Điều 10
+Bộ trưởng, Thủ tướng cơ quan ngang Bộ, Thủ trưởng cơ quan trực thuộc Hội đồng Chính phủ lãnh đạo toàn bộ công tác thuộc phạm vi trách nhiệm của mình và chịu trách nhiệm trước Hội đồng Chính phủ."
+ENTITY,E38_11,DIEU,Điều,structure,3978,4325,"Điều 11
+Thứ trưởng các Bộ, Phó thủ trưởng cơ quan ngang Bộ, Phó thủ trưởng cơ quan trực thuộc Hội đồng Chính phủ giúp Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan trực thuộc Hội đồng Chính phủ trong việc lãnh đạo chung và có thể được uỷ nhiệm thay Bộ trưởng hoặc Thủ trưởng cơ quan chỉ đạo từng phần công tác của Bộ hoặc của cơ quan."
+ENTITY,E38_12,DIEU,Điều,structure,4326,4960,"Điều 12
+Hội đồng Chính phủ bổ nhiệm và bãi miễn các nhân viên sau đây:
+- Thủ trưởng các cơ quan trực thuộc Hội đồng Chính phủ;
+- Thứ trưởng Phủ Thủ tướng, Thứ trưởng các Bộ, Phó chủ nhiệm các văn phòng Phủ Thủ tướng, Phó chủ nhiệm các Uỷ ban Nhà nước, Phó tổng thanh tra, Phó tổng giám đốc Ngân hàng Nhà nước;
+- Phó Thủ trưởng các cơ quan trực thuộc Hội đồng Chính phủ, Uỷ viên các Uỷ ban Nhà nước, Thủ trưởng và Phó thủ trưởng các cơ quan chuyên môn thuộc Phủ Thủ tướng, các Bộ và cơ quan ngang Bộ, Chánh văn phòng và Phó văn phòng các Bộ và cơ quan ngang Bộ;
+- Những nhân viên giữ những chức vụ tương đương với các chức vụ nói trên."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_4,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_5,,
+RELATION,R12_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_6,,
+RELATION,R12_7,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_7,,
+RELATION,R12_8,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_8,,
+RELATION,R12_9,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_9,,
+RELATION,R12_10,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_10,,
+RELATION,R12_11,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_11,,
+RELATION,R12_12,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_12,,
+RELATION,R12_13,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_13,,
+RELATION,R12_14,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_14,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E2_1,E30_19,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E2_1,E30_20,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E2_1,E30_21,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E2_1,E30_22,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E2_1,E30_23,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E2_1,E30_24,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E2_1,E30_25,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E2_1,E30_26,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E2_1,E30_27,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E2_1,E30_28,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E2_1,E30_29,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E2_1,E30_30,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E2_1,E30_31,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E2_1,E30_32,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E2_1,E30_33,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E2_1,E30_34,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E2_1,E30_35,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E2_1,E30_36,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E2_1,E30_37,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E2_1,E30_38,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E2_1,E30_39,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E2_1,E30_40,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E2_1,E30_41,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E2_1,E30_42,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E2_1,E30_43,,
+RELATION,R18_44,AP_DUNG,Áp dụng,E2_1,E30_44,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

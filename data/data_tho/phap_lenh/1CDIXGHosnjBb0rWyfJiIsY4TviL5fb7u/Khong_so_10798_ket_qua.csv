@@ -1,0 +1,278 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,94,Pháp lệnh số Không số Về Cơ quan Đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,95,104,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,18541,18551,1993-12-02
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,18564,18578,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,18323,18348,ngày 01 tháng 01 năm 1994
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,18600,18610,2009-09-02
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,18634,18654,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,18675,18700,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,18714,18722,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,18735,18748,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,18803,18821,Hiến pháp năm 1992
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,18848,18880,Pháp lệnh số 44LCT/HĐNN8 Lãnh sự
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,18900,18918,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,18968,19223,"Quyết định số 51/2009/QĐ-TTg Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Phái đoàn đại diện thường trực nước Cộng hòa xã hội chủ nghĩa Việt Nam bên cạnh Liên hợp quốc, Tổ chức Thương mại thế giới và các Tổ chức quốc tế khác tại Giơ-ne-vơ"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,19273,19486,"Nghị định số 131/2007/NĐ-CP Sửa đổi, bổ sung Nghị định số 157/2005/NĐ-CP ngày 23 tháng 12 năm 2005 của Chính phủ quy định một số chế độ đối với cán bộ, công chức công tác nhiệm kỳ tại cơ quan Việt Nam ở nước ngoài"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,19508,19636,"Nghị định số 157/2005/NĐ-CP Quy định một số chế độ đối với cán bộ, công chức công tác nhiệm kỳ tại cơ quan Việt Nam ở nước ngoài"
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,19658,19761,Thông tư số 27/2008/TT-BTC Hướng dẫn chế độ quản lý tài chính đối với các Cơ quan Việt Nam ở nước ngoài
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,19783,19890,Lệnh số 27-L/CTN Công bố Pháp lệnh về Cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,19910,20054,Quyết định số 2535/2004/QĐ-BNG Ban hành Quy chế về tổ chức và hoạt động của cơ quan lãnh sự nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,20074,20187,"Quyết định số 553/QĐ-TTg Về thành lập và tăng cường Thương vụ Việt Nam ở các khu vực Trung Đông, châu Mỹ, châu Âu"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,20207,20360,"Quyết định số 29/2008/QĐ-TTg Về việc thành lập và quy định vị trí, chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của Trung tâm Văn hoá Việt Nam tại Pháp"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,20380,20509,Nghị định số 183-CP Quy định chi tiết thi hành Pháp lệnh về Cơ quan Đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,20529,20678,Nghị định số 08/2003/NĐ-CP Về hoạt động của Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài phục vụ nhiệm vụ phát triển kinh tế
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,20698,20826,"Nghị định số 157/2005/NĐ-CP Quy định một số chế độ đối với cán bộ, công chức công tác nhiệm kỳ tại cơ quan Việt Nam ở nước ngoài"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,20846,20910,Quyết định số 693/2000/QĐ-UB Về việc giao nhiệm vụ PCLB năm 2000
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,20930,21059,Nghị định số 183-CP Quy định chi tiết thi hành Pháp lệnh về Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,21079,21334,"Quyết định số 51/2009/QĐ-TTg Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Phái đoàn đại diện thường trực nước Cộng hòa xã hội chủ nghĩa Việt Nam bên cạnh Liên hợp quốc, Tổ chức Thương mại thế giới và các Tổ chức quốc tế khác tại Giơ-ne-vơ"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,21354,21491,Quyết định số 100/2004/QĐ-TTg Về việc phê duyệt Đề án Thành lập và tăng cường cơ quan thương vụ Việt Nam ở nước ngoài giai đoạn 2004-2005
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,21511,21803,"Thông tư liên tịch số 07/2004/TTLT-BLĐTBXH-BNG Hướng dẫn thực hiện một số Điều, Khoản thuộc Nghị định 183/CP ngày 18/11/1994 của Chính phủ quy định chi tiết thi hành pháp lệnh về cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở  nước ngoài trong lĩnh vực lao động thương binh xã hội"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,21823,22036,"Nghị định số 131/2007/NĐ-CP Sửa đổi, bổ sung Nghị định số 157/2005/NĐ-CP ngày 23 tháng 12 năm 2005 của Chính phủ quy định một số chế độ đối với cán bộ, công chức công tác nhiệm kỳ tại cơ quan Việt Nam ở nước ngoài"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,22056,22132,Nghị định số 157/2006/NĐ-CP Về tổ chức và hoạt động của Thanh tra Ngoại giao
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,22152,22377,"Nghị định số 74/2001/NĐ-CP Về sửa đổi, bổ sung Điều 14 Nghị định số 183/CP ngày 18 tháng 11 năm 1994 của Chính phủ  quy định chi tiết thi hành Pháp lệnh về Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài"
+ENTITY,E35_1,CHUONG,Chương,structure,421,429,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,3938,3947,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,8743,8753,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,12463,12472,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,17042,17050,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,18253,18262,CHƯƠNG VI
+ENTITY,E36_1,MUC,Mục,structure,3976,3981,MỤC 1
+ENTITY,E36_2,MUC,Mục,structure,6801,6806,MỤC 2
+ENTITY,E36_3,MUC,Mục,structure,8785,8790,MỤC 1
+ENTITY,E36_4,MUC,Mục,structure,11528,11533,MỤC 2
+ENTITY,E38_1,DIEU,Điều,structure,451,457,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,863,869,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,987,993,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1370,1376,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1494,1500,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,1864,1870,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,4004,4010,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,5247,5253,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,5955,5961,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,6822,6829,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,7260,7267,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,7515,7522,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,8396,8403,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,8813,8820,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,9920,9927,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,10646,10653,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,11549,11556,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,11725,11732,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,12515,12522,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,12945,12952,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,13132,13139,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,13512,13519,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,14500,14507,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,15283,15290,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,15551,15558,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,15934,15941,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,16074,16081,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,16581,16588,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,17065,17072,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,18283,18290,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,18410,18417,Điều 31
+ENTITY,E39_1,KHOAN,Khoản,structure,994,1179,"1- Cơ quan đại diện hoạt động theo pháp luật Việt Nam, tôn trọng pháp luật, phong tục tập quán của nước tiếp nhận, của nước mà tổ chức quốc tế đặt trụ sở và pháp luật, tập quán quốc tế."
+ENTITY,E39_2,KHOAN,Khoản,structure,1180,1369,2- Trong trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định khác với quy định của Pháp lệnh này thì áp dụng quy định của điều ước quốc tế đó.
+ENTITY,E39_3,KHOAN,Khoản,structure,1501,1705,"1- Pháp lệnh này áp dụng đối với Cơ quan đại diện ngoại giao, Phái đoàn đại diện thường trực tại tổ chức quốc tế liên Chính phủ và Cơ quan lãnh sự của nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài."
+ENTITY,E39_4,KHOAN,Khoản,structure,1706,1863,2- Cơ quan lãnh sự của nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài được thành lập và hoạt động theo quy định của Pháp lệnh này và Pháp lệnh Lãnh sự.
+ENTITY,E39_5,KHOAN,Khoản,structure,1933,2178,1- Cơ quan đại diện ngoại giao của nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài (dưới đây gọi tắt là Cơ quan đại diện ngoại giao) là cơ quan đại diện của nước Cộng hoà xã hội chủ nghĩa Việt Nam về mọi lĩnh vực quan hệ với nước tiếp nhận.
+ENTITY,E39_6,KHOAN,Khoản,structure,2378,2558,"2- Người đứng đầu Cơ quan đại diện ngoại giao là Đại sứ đặc mệnh toàn quyền đối với Đại sứ quán, Công sứ đặc mệnh toàn quyền đối với Công sứ quán và Đại biện đối với Đại biện quán."
+ENTITY,E39_7,KHOAN,Khoản,structure,2559,2683,"3- Thành viên của Cơ quan đại diện ngoại giao gồm viên chức ngoại giao, nhân viên hành chính, kỹ thuật và nhân viên phục vụ."
+ENTITY,E39_8,KHOAN,Khoản,structure,3025,3436,4- Phái đoàn đại diện thường trực của nước Cộng hoà xã hội chủ nghĩa Việt Nam tại tổ chức quốc tế liên Chính phủ (dưới đây gọi tắt là Phái đoàn đại diện thường trực) là cơ quan đại diện của nước Cộng hoà xã hội chủ nghĩa Việt Nam thực hiện chức năng ngoại giao tại Tổ chức quốc tế thuộc hệ thống Liên hợp quốc và tổ chức quốc tế liên Chính phủ ngoài hệ thống Liên hợp quốc (dưới đây gọi tắt là Tổ chức quốc tế).
+ENTITY,E39_9,KHOAN,Khoản,structure,3437,3527,5- Trưởng Phái đoàn đại diện thường trực là người đứng đầu Phái đoàn đại diện thường trực.
+ENTITY,E39_10,KHOAN,Khoản,structure,3528,3655,"6- Thành viên của Phái đoàn đại diện thường trực gồm viên chức ngoại giao, nhân viên hành chính, kỹ thuật và nhân viên phục vụ."
+ENTITY,E39_11,KHOAN,Khoản,structure,3656,3882,7- Cơ quan lãnh sự của nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài (dưới đây gọi tắt là Cơ quan lãnh sự) là cơ quan đại diện về lãnh sự của nước Cộng hoà xã hội chủ nghĩa Việt Nam tại khu vực lãnh sự ở nước tiếp nhận.
+ENTITY,E39_12,KHOAN,Khoản,structure,4079,4174,1- Đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam về mọi lĩnh vực quan hệ với nước tiếp nhận;
+ENTITY,E39_13,KHOAN,Khoản,structure,4175,4315,"2- Bảo vệ lợi ích của Nhà nước, quyền và lợi ích chính đáng của tổ chức kinh tế, tổ chức xã hội và của công dân Việt Nam tại nước tiếp nhận;"
+ENTITY,E39_14,KHOAN,Khoản,structure,4316,4379,3- Đàm phán và ký điều ước quốc tế theo quy định của pháp luật;
+ENTITY,E39_15,KHOAN,Khoản,structure,4380,4693,"4- Tìm hiểu tình hình của nước tiếp nhận; kiến nghị với Chính phủ, Bộ Ngoại giao, các cơ quan và tổ chức hữu quan ở trong nước về những chính sách và biện pháp cần thiết nhằm phát triển quan hệ hữu nghị, hợp tác về mọi lĩnh vực với nước tiếp nhận, chú trọng sự hợp tác về kinh tế, thương mại, khoa học, công nghệ;"
+ENTITY,E39_16,KHOAN,Khoản,structure,4694,4814,"5- Tiến hành công tác thông tin, giới thiệu về Việt Nam để chính quyền và nhân dân nước tiếp nhận hiểu biết về Việt Nam;"
+ENTITY,E39_17,KHOAN,Khoản,structure,4815,4850,6- Thực hiện các công việc lãnh sự;
+ENTITY,E39_18,KHOAN,Khoản,structure,4851,5071,"7- Bảo hộ quyền lợi chính đáng của người Việt Nam ở nước tiếp nhận; giúp đỡ và tạo điều kiện thuận lợi để họ thường xuyên giữ quan hệ gắn bó với gia đình và quê hương, đóng góp thiết thực cho sự nghiệp xây dựng đất nước;"
+ENTITY,E39_19,KHOAN,Khoản,structure,5072,5246,"8- Thống nhất quản lý nhà nước và tạo mọi điều kiện thuận lợi cho hoạt động của các cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội và công dân Việt Nam tại nước tiếp nhận."
+ENTITY,E39_20,KHOAN,Khoản,structure,5413,5641,"1- Chỉ đạo và tổ chức thực hiện toàn bộ hoạt động đối ngoại của Nhà nước Việt Nam tại nước tiếp nhận; chịu trách nhiệm về việc bảo đảm thực hiện đúng đường lối, chính sách đối ngoại của Nhà nước trong quan hệ với nước tiếp nhận;"
+ENTITY,E39_21,KHOAN,Khoản,structure,5642,5732,"2- Chỉ đạo, quản lý và tổ chức thực hiện toàn bộ công tác của Cơ quan đại diện ngoại giao;"
+ENTITY,E39_22,KHOAN,Khoản,structure,5733,5954,"3- Kiến nghị với Chính phủ và các cơ quan hữu quan ở trong nước về việc hoàn thiện tổ chức bộ máy, chế độ chính sách đối với viên chức, nhân viên cơ quan đại diện nhằm nâng cao hiệu quả hoạt động của các cơ quan đại diện."
+ENTITY,E39_23,KHOAN,Khoản,structure,5962,6034,1- Thành viên của Cơ quan đại diện ngoại giao có những nghĩa vụ sau đây:
+ENTITY,E39_24,KHOAN,Khoản,structure,6440,6800,"2- Thành viên của Cơ quan đại diện ngoại giao không thuộc Bộ Ngoại giao, ngoài việc thực hiện các nghĩa vụ quy định tại khoản 1 Điều này còn chịu sự chỉ đạo của thủ trưởng cơ quan chủ quản ở trong nước về nghiệp vụ chuyên môn thông qua người đứng đầu Cơ quan đại diện ngoại giao và chịu trách nhiệm trước thủ trưởng cơ quan chủ quản về nghiệp vụ chuyên môn đó."
+ENTITY,E39_25,KHOAN,Khoản,structure,7523,7651,1- Chủ tịch nước cử và triệu hồi Đại sứ đặc mệnh toàn quyền và Công sứ đặc mệnh toàn quyền theo đề nghị của Thủ tướng Chính phủ.
+ENTITY,E39_26,KHOAN,Khoản,structure,7652,7766,2- Bộ trưởng Bộ Ngoại giao cử và triệu hồi Đại biện và người đứng đầu Cơ quan đại diện ngoại giao có tên gọi khác.
+ENTITY,E39_27,KHOAN,Khoản,structure,7767,7977,3- Người đứng đầu Cơ quan đại diện ngoại giao ở một nước có thể đồng thời được cử làm người đứng đầu Cơ quan đại diện ngoại giao tại nước khác hoặc làm Trưởng Phái đoàn đại diện thường trực tại tổ chức quốc tế.
+ENTITY,E39_28,KHOAN,Khoản,structure,7978,8298,"4- Trong trường hợp người đứng đầu Cơ quan đại diện ngoại giao bị khuyết, tạm thời vắng mặt hoặc vì lý do khác mà không thực hiện được nhiệm vụ của mình thì viên chức ngoại giao thuộc Bộ Ngoại giao của Cơ quan đại diện ngoại giao có chức vụ kế tiếp được cử tạm thời thay thế người đứng đầu cơ quan làm Đại biện lâm thời."
+ENTITY,E39_29,KHOAN,Khoản,structure,8404,8510,1- Viên chức ngoại giao của Cơ quan đại diện ngoại giao phải là công dân Việt Nam thường trú tại Việt Nam.
+ENTITY,E39_30,KHOAN,Khoản,structure,8511,8625,"2- Nhân viên hành chính, kỹ thuật và nhân viên phục vụ của Cơ quan đại diện ngoại giao có thể là người nước ngoài."
+ENTITY,E39_31,KHOAN,Khoản,structure,8821,8894,1- Phái đoàn đại diện thường trực có những nhiệm vụ và quyền hạn sau đây:
+ENTITY,E39_32,KHOAN,Khoản,structure,9692,9919,"2- Phái đoàn đại diện thường trực không thực hiện chức năng đại diện cho nước Cộng hoà xã hội chủ nghĩa Việt Nam trong quan hệ với nước mà Tổ chức quốc tế đặt trụ sở, trừ trường hợp giữa Việt Nam và nước đó có thoả thuận riêng."
+ENTITY,E39_33,KHOAN,Khoản,structure,10083,10290,"1- Chỉ đạo và tổ chức thực hiện các hoạt động của Việt Nam tại Tổ chức quốc tế; chịu trách nhiệm về việc bảo đảm thực hiện đúng đường lối, chính sách đối ngoại của Nhà nước trong quan hệ với Tổ chức quốc tế;"
+ENTITY,E39_34,KHOAN,Khoản,structure,10291,10384,"2- Chỉ đạo, quản lý và tổ chức thực hiện toàn bộ công tác của Phái đoàn đại diện thường trực;"
+ENTITY,E39_35,KHOAN,Khoản,structure,10385,10645,"3- Kiến nghị với Chính phủ, Bộ Ngoại giao và các cơ quan hữu quan ở trong nước về việc hoàn thiện tổ chức bộ máy, chế độ chính sách đối với viên chức, nhân viên Phái đoàn đại diện thường trực nhằm nâng cao hiệu quả hoạt động của Phái đoàn đại diện thường trực."
+ENTITY,E39_36,KHOAN,Khoản,structure,10654,10729,1- Thành viên của Phái đoàn đại diện thường trực có những nghĩa vụ sau đây:
+ENTITY,E39_37,KHOAN,Khoản,structure,11169,11527,"2. Thành viên của Phái đoàn đại diện thường trực không thuộc Bộ Ngoại giao, ngoài việc thực hiện các nghĩa vụ quy định tại khoản 1 Điều này còn chịu sự chỉ đạo của thủ trưởng cơ quan chủ quản ở trong nước về nghiệp vụ chuyên môn thông qua Trưởng Phái đoàn đại diện thường trực và chịu trách nhiệm trước thủ trưởng cơ quan chủ quản về nghiệp vụ chuyên môn đó."
+ENTITY,E39_38,KHOAN,Khoản,structure,11733,11822,1- Chủ tịch nước cử và triệu hồi Trưởng Phái đoàn đại diện thường trực tại Liên hợp quốc.
+ENTITY,E39_39,KHOAN,Khoản,structure,11931,12088,2- Trưởng Phái đoàn đại diện thường trực tại một Tổ chức quốc tế có thể đồng thời được cử làm Trưởng Phái đoàn đại diện thường trực tại Tổ chức quốc tế khác.
+ENTITY,E39_40,KHOAN,Khoản,structure,12089,12344,"3- Trong trường hợp Trưởng Phái đoàn đại diện thường trực bị khuyết, vắng mặt hoặc vì lý do khác mà khơng thực hiện được nhiệm vụ của mình thì Phó Trưởng Phái đoàn đại diện thường trực tạm thời được cử thay thế Trưởng Phái đoàn làm Quyền Trưởng Phái đoàn."
+ENTITY,E39_41,KHOAN,Khoản,structure,12583,12637,1- Ban hành các văn bản pháp luật về cơ quan đại diện;
+ENTITY,E39_42,KHOAN,Khoản,structure,12638,12731,"2- Quyết định thành lập, đình chỉ hoạt động, tổ chức bộ máy và biên chế của cơ quan đại diện;"
+ENTITY,E39_43,KHOAN,Khoản,structure,12732,12793,"3- Quy định tiêu chuẩn viên chức, nhân viên cơ quan đại diện;"
+ENTITY,E39_44,KHOAN,Khoản,structure,12794,12849,4- Chỉ đạo và hướng dẫn hoạt động của cơ quan đại diện;
+ENTITY,E39_45,KHOAN,Khoản,structure,12850,12944,"5- Giám sát, thanh tra, kiểm tra hoạt động của cơ quan đại diện, khen thưởng và xử lý vi phạm."
+ENTITY,E39_46,KHOAN,Khoản,structure,13584,13669,1- Trình Chính phủ quyết định thành lập hoặc đình chỉ hoạt động của cơ quan đại diện;
+ENTITY,E39_47,KHOAN,Khoản,structure,13670,13767,2- Trình Chính phủ ban hành và ban hành theo thẩm quyền các văn bản pháp quy về cơ quan đại diện;
+ENTITY,E39_48,KHOAN,Khoản,structure,13768,13943,"3- Chỉ đạo, kiểm tra việc thực hiện đường lối, chính sách đối ngoại của Nhà nước và việc thực hiện chức năng, nhiệm vụ của cơ quan đại diện và của thành viên cơ quan đại diện;"
+ENTITY,E39_49,KHOAN,Khoản,structure,13944,14036,"4- Điều hoà, phối hợp hoạt động giữa cơ quan đại diện với các cơ quan hữu quan ở trong nước;"
+ENTITY,E39_50,KHOAN,Khoản,structure,14037,14416,"5- Cử và triệu hồi viên chức của cơ quan đại diện không phải là Đại sứ đặc mệnh toàn quyền, Công sứ đặc mệnh toàn quyền và Trưởng Phái đoàn đại diện thường trực tại Liên hợp quốc; điều động nhân viên của cơ quan đại diện. Trong trường hợp viên chức, nhân viên không thuộc Bộ Ngoại giao thì Bộ trưởng Bộ Ngoại giao cử, điều động trên cơ sở đề nghị của thủ trưởng cơ quan hữu quan;"
+ENTITY,E39_51,KHOAN,Khoản,structure,14417,14499,"6- Chỉ đạo việc quản lý cơ sở vật chất, kỹ thuật và kinh phí của cơ quan đại diện."
+ENTITY,E39_52,KHOAN,Khoản,structure,14508,14797,"1- Các Bộ, Cơ quan ngang Bộ và cơ quan thuộc Chính phủ có trách nhiệm thông qua Bộ Ngoại giao phối hợp với Cơ quan đại diện quản lý và chỉ đạo các viên chức, nhân viên do mình cử đi làm việc tại cơ quan đại diện, bảo đảm thực hiện nghiêm chỉnh đường lối, chính sách đối ngoại của Nhà nước."
+ENTITY,E39_53,KHOAN,Khoản,structure,14798,15066,"2- Các cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội có trách nhiệm thông qua Bộ Ngoại giao phối hợp với cơ quan đại diện thực hiện các hoạt động đối ngoại thuộc lĩnh vực mình phụ trách và chỉ đạo các đoàn thuộc cơ quan, tổ chức mình cử đi công tác tại nước ngoài."
+ENTITY,E39_54,KHOAN,Khoản,structure,15067,15282,"3- Các cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội ở Trung ương và địa phương được quyền thông qua Bộ Ngoại giao yêu cầu cơ quan đại diện thực hiện hoặc hỗ trợ hoạt động của cơ quan, tổ chức mình ở nước ngoài."
+ENTITY,E39_55,KHOAN,Khoản,structure,16589,16811,"1- Nhà nước Việt Nam ký kết và tham gia các điều ước quốc tế nhằm bảo đảm cho cơ quan đại diện, thành viên cơ quan đại diện và thành viên gia đình họ đi theo được hưởng đầy đủ các quyền ưu đãi, miễn trừ tại nước tiếp nhận."
+ENTITY,E39_56,KHOAN,Khoản,structure,16812,17041,"2- Nhà nước Việt Nam dành các chế độ ưu đãi theo pháp luật Việt Nam, phù hợp với pháp luật và tập quán quốc tế cho thành viên của cơ quan đại diện và thành viên của gia đình họ đi theo để tạo điều kiện cho họ hoàn thành nhiệm vụ."
+ENTITY,E39_57,KHOAN,Khoản,structure,17073,17222,"1- Người nào vi phạm các quy định của Pháp lệnh này thì tuỳ mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự."
+ENTITY,E39_58,KHOAN,Khoản,structure,17223,17400,"2- Cơ quan cử viên chức, nhân viên ra công tác ở nước ngoài quyết định hình thức kỷ luật đối với viên chức, nhân viên vi phạm theo kiến nghị của người đứng đầu cơ quan đại diện."
+ENTITY,E39_59,KHOAN,Khoản,structure,17401,17563,"3- Viên chức, nhân viên, công dân thường trú tại Việt Nam ra nước ngoài có hành vi vi phạm có thể dẫn đến hậu quả nghiêm trọng thì phải được kịp thời đưa về nước."
+ENTITY,E40_1,DIEM,Điểm,structure,6035,6142,"a) Trung thành với Tổ quốc; giữ gìn và bảo vệ danh dự, uy tín và lợi ích của Nhà nước cũng như của cơ quan;"
+ENTITY,E40_2,DIEM,Điểm,structure,6143,6361,"b) Tích cực góp phần tăng cường quan hệ hữu nghị và hợp tác giữa Việt Nam với nước tiếp nhận, tuân thủ pháp luật của Việt Nam, tôn trọng pháp luật, phong tục, tập quán của nước tiếp nhận và pháp luật, tập quán quốc tế;"
+ENTITY,E40_3,DIEM,Điểm,structure,6362,6439,c) Thực hiện nhiệm vụ do người đứng đầu Cơ quan đại diện ngoại giao giao cho.
+ENTITY,E40_4,DIEM,Điểm,structure,8895,8967,a) Đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam tại Tổ chức quốc tế;
+ENTITY,E40_5,DIEM,Điểm,structure,8968,9037,b) Bảo vệ quyền và lợi ích của Nhà nước Việt Nam tại Tổ chức quốc tế;
+ENTITY,E40_6,DIEM,Điểm,structure,9038,9148,"c) Duy trì quan hệ thường xuyên giữa Việt Nam với Tổ chức quốc tế, tham gia các hoạt động của Tổ chức quốc tế;"
+ENTITY,E40_7,DIEM,Điểm,structure,9149,9212,d) Đàm phán và ký điều ước quốc tế theo quy định của pháp luật;
+ENTITY,E40_8,DIEM,Điểm,structure,9213,9441,"đ) Tiến hành các hoạt động nhằm thúc đẩy quan hệ hợp tác giữa Việt Nam với Tổ chức quốc tế và với các nước thành viên của Tổ chứcquốc tế, tranh thủ sự giúp đỡ và hợp tác của Tổ chức quốc tế đối với sự nghiệp phát triển đất nước;"
+ENTITY,E40_9,DIEM,Điểm,structure,9442,9606,"e) Tìm hiểu tình hình hoạt động của Tổ chức quốc tế; kiến nghị với Chính phủ, Bộ Ngoại giao, các cơ quan và tổ chức hữu quan ở trong nước về những vấn đề cần thiết;"
+ENTITY,E40_10,DIEM,Điểm,structure,9607,9691,g) Thực hiện quản lý nhà nước đối với các hoạt động của Việt Nam tạiTổ chức quốc tế.
+ENTITY,E40_11,DIEM,Điểm,structure,10730,10837,"a) Trung thành với Tổ quốc; giữ gìn và bảo vệ danh dự, uy tín và lợi ích của Nhà nước cũng như của cơ quan;"
+ENTITY,E40_12,DIEM,Điểm,structure,10838,11095,"b) Tích cực góp phần tăng cường quan hệ hợp tác giữa Việt Nam với Tổ chức quốc tế, tuân thủ pháp luật của Việt Nam, điều lệ của Tổ chức quốc tế, tôn trọng pháp luật và tập quán quốc tế, tôn trọng pháp luật và tập quán của nước mà Tổ chức quốc tế đặt trụ sở;"
+ENTITY,E40_13,DIEM,Điểm,structure,11096,11168,c) Thực hiện nhiệm vụ do Trưởng Phái đoàn đại diện thường trực giao cho.
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,22398,22488,Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài số 33/2009/QH12
+RELATION,RAP_DUNG_1,AP_DUNG,áp dụng,E30_1,E2_1,,
+RELATION,RAP_DUNG_2,AP_DUNG,áp dụng,E30_2,E2_1,,
+RELATION,RAP_DUNG_3,AP_DUNG,áp dụng,E30_3,E2_1,,
+RELATION,RAP_DUNG_4,AP_DUNG,áp dụng,E30_4,E2_1,,
+RELATION,RAP_DUNG_5,AP_DUNG,áp dụng,E30_5,E2_1,,
+RELATION,RAP_DUNG_6,AP_DUNG,áp dụng,E30_6,E2_1,,
+RELATION,RAP_DUNG_7,AP_DUNG,áp dụng,E30_7,E2_1,,
+RELATION,RAP_DUNG_8,AP_DUNG,áp dụng,E30_8,E2_1,,
+RELATION,RAP_DUNG_9,AP_DUNG,áp dụng,E30_9,E2_1,,
+RELATION,RAP_DUNG_10,AP_DUNG,áp dụng,E30_10,E2_1,,
+RELATION,RAP_DUNG_11,AP_DUNG,áp dụng,E30_11,E2_1,,
+RELATION,RAP_DUNG_12,AP_DUNG,áp dụng,E30_12,E2_1,,
+RELATION,RAP_DUNG_13,AP_DUNG,áp dụng,E30_13,E2_1,,
+RELATION,RAP_DUNG_14,AP_DUNG,áp dụng,E30_14,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RDAN_CHIEU_1,DAN_CHIEU,dẫn chiếu,E29_1,E2_1,,
+RELATION,RDAN_CHIEU_2,DAN_CHIEU,dẫn chiếu,E29_2,E2_1,,
+RELATION,RDAN_CHIEU_3,DAN_CHIEU,dẫn chiếu,E29_3,E2_1,,
+RELATION,RDUOC_DAN_CHIEU_1,DUOC_DAN_CHIEU,được dẫn chiếu,E18_1,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,RTHAY_THE_1,THAY_THE,thay thế,E43_1,E2_1,,
+RELATION,RTHUOC_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,RTHUOC_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,RTHUOC_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,RTHUOC_4,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,RTHUOC_5,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,RTHUOC_6,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,RTHUOC_7,THUOC,Thuộc,E36_1,E35_2,,
+RELATION,RTHUOC_8,THUOC,Thuộc,E38_7,E36_1,,
+RELATION,RTHUOC_9,THUOC,Thuộc,E38_8,E36_1,,
+RELATION,RTHUOC_10,THUOC,Thuộc,E38_9,E36_1,,
+RELATION,RTHUOC_11,THUOC,Thuộc,E36_2,E35_2,,
+RELATION,RTHUOC_12,THUOC,Thuộc,E38_10,E36_2,,
+RELATION,RTHUOC_13,THUOC,Thuộc,E38_11,E36_2,,
+RELATION,RTHUOC_14,THUOC,Thuộc,E38_12,E36_2,,
+RELATION,RTHUOC_15,THUOC,Thuộc,E38_13,E36_2,,
+RELATION,RTHUOC_16,THUOC,Thuộc,E36_3,E35_3,,
+RELATION,RTHUOC_17,THUOC,Thuộc,E38_14,E36_3,,
+RELATION,RTHUOC_18,THUOC,Thuộc,E38_15,E36_3,,
+RELATION,RTHUOC_19,THUOC,Thuộc,E38_16,E36_3,,
+RELATION,RTHUOC_20,THUOC,Thuộc,E36_4,E35_3,,
+RELATION,RTHUOC_21,THUOC,Thuộc,E38_17,E36_4,,
+RELATION,RTHUOC_22,THUOC,Thuộc,E38_18,E36_4,,
+RELATION,RTHUOC_23,THUOC,Thuộc,E38_19,E35_4,,
+RELATION,RTHUOC_24,THUOC,Thuộc,E38_20,E35_4,,
+RELATION,RTHUOC_25,THUOC,Thuộc,E38_21,E35_4,,
+RELATION,RTHUOC_26,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,RTHUOC_27,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,RTHUOC_28,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,RTHUOC_29,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,RTHUOC_30,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,RTHUOC_31,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,RTHUOC_32,THUOC,Thuộc,E38_28,E35_4,,
+RELATION,RTHUOC_33,THUOC,Thuộc,E38_29,E35_5,,
+RELATION,RTHUOC_34,THUOC,Thuộc,E38_30,E35_6,,
+RELATION,RTHUOC_35,THUOC,Thuộc,E38_31,E35_6,,
+RELATION,RTHUOC_36,THUOC,Thuộc,E39_1,E38_3,,
+RELATION,RTHUOC_37,THUOC,Thuộc,E39_2,E38_3,,
+RELATION,RTHUOC_38,THUOC,Thuộc,E39_3,E38_5,,
+RELATION,RTHUOC_39,THUOC,Thuộc,E39_4,E38_5,,
+RELATION,RTHUOC_40,THUOC,Thuộc,E39_5,E38_6,,
+RELATION,RTHUOC_41,THUOC,Thuộc,E39_6,E38_6,,
+RELATION,RTHUOC_42,THUOC,Thuộc,E39_7,E38_6,,
+RELATION,RTHUOC_43,THUOC,Thuộc,E39_8,E38_6,,
+RELATION,RTHUOC_44,THUOC,Thuộc,E39_9,E38_6,,
+RELATION,RTHUOC_45,THUOC,Thuộc,E39_10,E38_6,,
+RELATION,RTHUOC_46,THUOC,Thuộc,E39_11,E38_6,,
+RELATION,RTHUOC_47,THUOC,Thuộc,E39_12,E38_7,,
+RELATION,RTHUOC_48,THUOC,Thuộc,E39_13,E38_7,,
+RELATION,RTHUOC_49,THUOC,Thuộc,E39_14,E38_7,,
+RELATION,RTHUOC_50,THUOC,Thuộc,E39_15,E38_7,,
+RELATION,RTHUOC_51,THUOC,Thuộc,E39_16,E38_7,,
+RELATION,RTHUOC_52,THUOC,Thuộc,E39_17,E38_7,,
+RELATION,RTHUOC_53,THUOC,Thuộc,E39_18,E38_7,,
+RELATION,RTHUOC_54,THUOC,Thuộc,E39_19,E38_7,,
+RELATION,RTHUOC_55,THUOC,Thuộc,E39_20,E38_8,,
+RELATION,RTHUOC_56,THUOC,Thuộc,E39_21,E38_8,,
+RELATION,RTHUOC_57,THUOC,Thuộc,E39_22,E38_8,,
+RELATION,RTHUOC_58,THUOC,Thuộc,E39_23,E38_9,,
+RELATION,RTHUOC_59,THUOC,Thuộc,E40_1,E38_9,,
+RELATION,RTHUOC_60,THUOC,Thuộc,E40_2,E38_9,,
+RELATION,RTHUOC_61,THUOC,Thuộc,E40_3,E38_9,,
+RELATION,RTHUOC_62,THUOC,Thuộc,E39_24,E38_9,,
+RELATION,RTHUOC_63,THUOC,Thuộc,E39_25,E38_12,,
+RELATION,RTHUOC_64,THUOC,Thuộc,E39_26,E38_12,,
+RELATION,RTHUOC_65,THUOC,Thuộc,E39_27,E38_12,,
+RELATION,RTHUOC_66,THUOC,Thuộc,E39_28,E38_12,,
+RELATION,RTHUOC_67,THUOC,Thuộc,E39_29,E38_13,,
+RELATION,RTHUOC_68,THUOC,Thuộc,E39_30,E38_13,,
+RELATION,RTHUOC_69,THUOC,Thuộc,E39_31,E38_14,,
+RELATION,RTHUOC_70,THUOC,Thuộc,E40_4,E38_14,,
+RELATION,RTHUOC_71,THUOC,Thuộc,E40_5,E38_14,,
+RELATION,RTHUOC_72,THUOC,Thuộc,E40_6,E38_14,,
+RELATION,RTHUOC_73,THUOC,Thuộc,E40_7,E38_14,,
+RELATION,RTHUOC_74,THUOC,Thuộc,E40_8,E38_14,,
+RELATION,RTHUOC_75,THUOC,Thuộc,E40_9,E38_14,,
+RELATION,RTHUOC_76,THUOC,Thuộc,E40_10,E38_14,,
+RELATION,RTHUOC_77,THUOC,Thuộc,E39_32,E38_14,,
+RELATION,RTHUOC_78,THUOC,Thuộc,E39_33,E38_15,,
+RELATION,RTHUOC_79,THUOC,Thuộc,E39_34,E38_15,,
+RELATION,RTHUOC_80,THUOC,Thuộc,E39_35,E38_15,,
+RELATION,RTHUOC_81,THUOC,Thuộc,E39_36,E38_16,,
+RELATION,RTHUOC_82,THUOC,Thuộc,E40_11,E38_16,,
+RELATION,RTHUOC_83,THUOC,Thuộc,E40_12,E38_16,,
+RELATION,RTHUOC_84,THUOC,Thuộc,E40_13,E38_16,,
+RELATION,RTHUOC_85,THUOC,Thuộc,E39_37,E38_16,,
+RELATION,RTHUOC_86,THUOC,Thuộc,E39_38,E38_18,,
+RELATION,RTHUOC_87,THUOC,Thuộc,E39_39,E38_18,,
+RELATION,RTHUOC_88,THUOC,Thuộc,E39_40,E38_18,,
+RELATION,RTHUOC_89,THUOC,Thuộc,E39_41,E38_19,,
+RELATION,RTHUOC_90,THUOC,Thuộc,E39_42,E38_19,,
+RELATION,RTHUOC_91,THUOC,Thuộc,E39_43,E38_19,,
+RELATION,RTHUOC_92,THUOC,Thuộc,E39_44,E38_19,,
+RELATION,RTHUOC_93,THUOC,Thuộc,E39_45,E38_19,,
+RELATION,RTHUOC_94,THUOC,Thuộc,E39_46,E38_22,,
+RELATION,RTHUOC_95,THUOC,Thuộc,E39_47,E38_22,,
+RELATION,RTHUOC_96,THUOC,Thuộc,E39_48,E38_22,,
+RELATION,RTHUOC_97,THUOC,Thuộc,E39_49,E38_22,,
+RELATION,RTHUOC_98,THUOC,Thuộc,E39_50,E38_22,,
+RELATION,RTHUOC_99,THUOC,Thuộc,E39_51,E38_22,,
+RELATION,RTHUOC_100,THUOC,Thuộc,E39_52,E38_23,,
+RELATION,RTHUOC_101,THUOC,Thuộc,E39_53,E38_23,,
+RELATION,RTHUOC_102,THUOC,Thuộc,E39_54,E38_23,,
+RELATION,RTHUOC_103,THUOC,Thuộc,E39_55,E38_28,,
+RELATION,RTHUOC_104,THUOC,Thuộc,E39_56,E38_28,,
+RELATION,RTHUOC_105,THUOC,Thuộc,E39_57,E38_29,,
+RELATION,RTHUOC_106,THUOC,Thuộc,E39_58,E38_29,,
+RELATION,RTHUOC_107,THUOC,Thuộc,E39_59,E38_29,,

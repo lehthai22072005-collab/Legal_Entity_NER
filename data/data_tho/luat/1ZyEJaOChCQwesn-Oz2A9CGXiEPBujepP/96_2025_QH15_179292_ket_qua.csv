@@ -1,0 +1,150 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,79,"Luật Sửa đổi, bổ sung một số điều của Luật Các tổ chức tín dụng số 96/2025/QH15"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,67,79,96/2025/QH15
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,19420,19429,Ngân hàng
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,10521,10531,2025-06-27
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,9634,9659,ngày 15 tháng 10 năm 2025
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,10555,10567,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,80,88,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,10411,10419,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,10437,10451,Trần Thanh Mẫn
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,465,506,Luật Các tổ chức tín dụng số 32/2024/QH15
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,288,337,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,465,506,Luật Các tổ chức tín dụng số 32/2024/QH15
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,380,407,Nghị quyết số 203/2025/QH15
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,10617,10701,Thông tư số 61/2025/TT-NHNN Quy định về mạng lưới hoạt động của ngân hàng thương mại
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,10721,10840,"Thông tư số 54/2025/TT-NHNN Quy định về hồ sơ, trình tự cấp Giấy phép, tổ chức và hoạt động của tổ chức tài chính vi mô"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,10860,11044,"Thông tư số 76/2025/TT-NHNN Sửa đổi, bổ sung một số điều của Thông tư số 24/2019/TT-NHNN quy định về tái cấp vốn dưới hình thức cho vay lại theo hồ sơ tín dụng đối với tổ chức tín dụng"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,11064,11422,"Thông tư số 66/2025/TT-NHNN Sửa đổi, bổ sung một số điều của Thông tư số 34/2024/TT-NHNN quy định việc cấp đổi Giấy phép, cấp bổ sung nội dung hoạt động vào Giấy phép và tổ chức, hoạt động của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,11442,11526,Thông tư số 61/2025/TT-NHNN Quy định về mạng lưới hoạt động của ngân hàng thương mại
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,11546,11751,"Quyết định số 120/2025/QĐ-UBND Sửa đổi, bổ sung một số Điều của Điều lệ tổ chức và hoạt động của Quỹ phát triển đất tỉnh Sơn La ban hành kèm theo Quyết định số 01/2025/QĐ UBND ngày 02/01/2025 của UBND tỉnh"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,11771,11979,"Thông tư số 28/2025/TT-NHNN Sửa đổi, bổ sung một số điều của Thông tư số 27/2024/TT-NHNN quy định về ngân hàng hợp tác xã, việc trích nộp, quản lý và sử dụng Quỹ bảo đảm an toàn hệ thống quỹ tín dụng nhân dân"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,11999,12171,"Thông tư số 80/2025/TT-NHNN Sửa đổi, bổ sung một số điều của Thông tư số 12/2022/TT-NHNN hướng dẫn về quản lý ngoại hối đối với việc vay, trả nợ nước ngoài của doanh nghiệp"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,12191,12283,Nghị định số 304/2025/NĐ-CP Quy định điều kiện tài sản bảo đảm của khoản nợ xấu được thu giữ
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,12303,12431,"Thông tư số 44/2025/TT-NHNN Sửa đổi, bổ sung một số điều của Thông tư số 07/2024/TT-NHNN quy định về hoạt động đại lý thanh toán"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,12451,12579,"Thông tư số 43/2025/TT-NHNN sửa đổi một số điều của Thông tư số 08/2022/TT-NHNN quy định về trình tự, thủ tục giám sát ngân hàng"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,12599,12832,"Thông tư số 74 /2025/TT-NHNN Sửa đổi, bổ sung một số điều của Thông tư số 14/2018/TT-NHNN hướng dẫn thực hiện các biện pháp điều hành công cụ chính sách tiền tệ để hỗ trợ các tổ chức tín dụng cho vay phát triển nông nghiệp, nông thôn"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,12852,13039,Thông tư số 47/2025/TT-NHNN Hướng dẫn thủ tục chấp thuận của Ngân hàng Nhà nước Việt Nam đối với việc niêm yết cổ phiếu trên thị trường chứng khoán nước ngoài của tổ chức tín dụng cổ phần
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,13059,13174,"Thông tư số 57/2025/TT-NHNN Quy định các hạn chế, tỷ lệ đảm bảo an toàn trong hoạt động của tổ chức tài chính vi mô"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,13194,13295,"Thông tư số 63/2025/TT-NHNN Sửa đổi, bổ sung một số điều của một số Thông tư về quỹ tín dụng nhân dân"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,13315,13481,"Thông tư số 73/2025/TT-NHNN Quy định về hồ sơ, trình tự, thủ tục chấp thuận những thay đổi, danh sách dự kiến bầu, bổ nhiệm nhân sự của tổ chức tín dụng là hợp tác xã"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,13501,13623,"Thông tư số 83/2025/TT-NHNN Quy định về hệ thống kiểm soát nội bộ của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,13643,13768,"Thông tư số 62/2025/TT-NHNN Quy định về hệ thống kiểm soát nội bộ của tổ chức tín dụng là hợp tác xã, tổ chức tài chính vi mô"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,13788,13879,NGHỊ ĐỊNH SỐ 06/2026/NĐ-CP QUY ĐỊNH VỀ TỔ CHỨC VÀ HOẠT ĐỘNG CỦA NGÂN HÀNG CHÍNH SÁCH XÃ HỘI
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,13899,14040,"THÔNG TƯ SỐ 2/2026/TT-NHNN SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 35/2025/TT-NHNN QUY ĐỊNH VỀ CHO VAY ĐẶC BIỆT ĐỐI VỚI TỔ CHỨC TÍN DỤNG"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,14060,14290,"Thông tư số 75/2025/TT-NHNN Sửa đổi, bổ sung một số quy định tại các văn bản quy phạm pháp luật trong lĩnh vực quản lý hoạt động cung ứng dịch vụ và sử dụng ngoại hối để thực thi phương án cắt giảm, đơn giản hóa thủ tục hành chính"
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,14310,14425,"Thông tư số 49/2025/TT-NHNN Quy định về hồ sơ, thủ tục chấp thuận những thay đổi của tổ chức tín dụng phi ngân hàng"
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,14445,14713,"Thông tư số 37/2025/TT-NHNN Sửa đổi, bổ sung một số điều của Thông tư số 31/2024/TT-NHNN của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về phân loại tài sản có trong hoạt động của ngân hàng thương mại, tổ chức tín dụng phi ngân hàng, chi nhánh ngân hàng nước ngoài"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,14733,14835,NGHỊ ĐỊNH SỐ 340/2025/NĐ-CP QUY ĐỊNH VỀ XỬ PHẠT VI PHẠM HÀNH CHÍNH TRONG LĨNH VỰC TIỀN TỆ VÀ NGÂN HÀNG
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,14855,15087,"NGHỊ ĐỊNH SỐ 329/2025/NĐ-CP VỀ CẤP PHÉP THÀNH LẬP VÀ HOẠT ĐỘNG NGÂN HÀNG, QUẢN LÝ NGOẠI HỐI, PHÒNG CHỐNG RỬA TIỀN, CHỐNG TÀI TRỢ KHỦNG BỐ, CHỐNG TÀI TRỢ PHỔ BIẾN VŨ KHÍ HỦY DIỆT HÀNG LOẠT TẠI TRUNG TÂM TÀI CHÍNH QUỐC TẾ TẠI VIỆT NAM"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,15107,15332,"Thông tư số 85/2025/TT-NHNN Sửa đổi, bổ sung một số thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về nghiệp vụ thư tín dụng và hướng dẫn triển khai một số chương trình tín dụng do thay đổi cơ cấu, tổ chức bộ máy"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,15352,15474,"Thông tư số 60/2025/TT-NHNN Quy định điều kiện, hồ sơ và thủ tục chấp thuận việc góp vốn, mua cổ phần của tổ chức tín dụng"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,15494,15605,Thông tư số 40/2025/TT-NHNN Hướng dẫn về quản lý ngoại hối đối với đầu tư ra nước ngoài trong hoạt động dầu khí
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,15625,15759,"Thông tư số 81 /2025/TT- NHNN Quy định về hoạt động chiết khấu của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng"
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,15779,15930,"Thông tư số 33/2025/TT-NHNN Sửa đổi, bổ sung một số điều của Thông tư số 17/2014/TT-NHNN quy định về phân loại, đóng gói, giao nhận kim khí quý, đá quý"
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,15950,16102,"Thông tư số 31 /2025/TT-NHNN Quy định về hoạt động của công ty con, công ty liên kết của tổ chức tín dụng trong lĩnh vực quản lý nợ và khai thác tài sản"
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,16122,16256,"Thông tư số 29/2025/TT-NHNN Hướng dẫn tổ chức tín dụng, chi nhánh ngân hàng nước ngoài cho vay đối với lĩnh vực nông nghiệp, nông thôn"
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,16276,16400,"Thông tư số 45/2025/TT-NHNN sửa đổi, bổ sung một số điều của Thông tư số 18/2025/TT-NHNN quy định về hoạt động thẻ ngân hàng"
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,16420,16610,"Thông tư số 64/2025/TT-NHNN sửa đổi, bổ sung một số điều của Thông tư số 19/2025/TT-NHNN của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về mạng lưới hoạt động của tổ chức tài chính vi mô"
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,16630,16766,"Thông tư số 30/2025/TT-NHNN Sửa đổi, bổ sung của thông tư số 15/2024/TT-NHNN quy định về cung ứng dịch vụ thanh toán không dùng tiền mặt"
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,16786,16880,Thông tư số 53/2025/TT-NHNN Quy định về mạng lưới hoạt động của tổ chức tín dụng là hợp tác xã
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,16900,17126,"Thông tư số 78/2025/TT-NHNN sửa đổi, bổ sung, bãi bỏ một số quy định tại các văn bản quy phạm pháp luật trong lĩnh vực quản lý ngoại hối đối với các giao dịch vốn để thực thi phương án cắt giảm, đơn giản hóa thủ tục hành chính"
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,17146,17242,Thông tư số 42/2025/TT-NHNN Quy định về kiểm toán độc lập đối với tổ chức tín dụng là hợp tác xã
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,17262,17406,"Thông tư số 59/2025/TT-NHNN Quy định về việc cung cấp và sử dụng chữ ký điện tử chuyên dùng, chứng thư ký điện tử chuyên dùng Ngân hàng Nhà nước"
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,17426,17616,"Thông tư số 71/2025/TT-NHNN Sửa đổi, bổ sung một số điều của Thông tư số 21/2021/TT-NHNN quy định về việc các tổ chức tín dụng nhà nước duy trì số dư tiền gửi tại Ngân hàng Chính sách xã hội"
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,17636,17767,"Thông tư số 50/2025/TT-NHNN Quy định về hồ sơ, thủ tục chấp thuận một số nội dung thay đổi của NHTM, chi nhánh Ngân hàng nước ngoài"
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,17787,17868,Nghị định số 368/2025/NĐ-CP Quy định về hoạt động cung ứng dịch vụ Tiền di động
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,17888,18138,"Thông tư số 48/2025/TT-NHNN Sửa đổi, bổ sung một số điều của một số Thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm, đơn giản hóa thủ tục hành chính, thay đổi cơ cấu, tổ chức bộ máy"
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,18158,18227,Thông tư số 65/2025/TT-NHNN Quy định xếp hạng tổ chức tài chính vi mô
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,18247,18418,"Thông tư số 79/2025/TT-NHNN Hướng dẫn về quản lý ngoại hối đối với việc cho vay ra nước ngoài và thu hồi nợ nước ngoài của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài"
+ENTITY,E30_45,VB_AP_DUNG,Văn bản áp dụng,reference,18438,18519,THÔNG TƯ SỐ 35/2025/TT-NHNN QUY ĐỊNH VỀ CHO VAY ĐẶC BIỆT ĐỐI VỚI TỔ CHỨC TÍN DỤNG
+ENTITY,E30_46,VB_AP_DUNG,Văn bản áp dụng,reference,18539,18696,"Thông tư số 55/2025/TT-NHNN Quy định cấp đổi Giấy phép, cấp bổ sung nội dung hoạt động vào Giấy phép và tổ chức, hoạt động của Tổ chức tín dụng phi ngân hàng"
+ENTITY,E30_47,VB_AP_DUNG,Văn bản áp dụng,reference,18716,18796,Nghị định số 05/2026/NĐ-CP Về tổ chức và hoạt động của Thanh tra ngành Ngân hàng
+ENTITY,E30_48,VB_AP_DUNG,Văn bản áp dụng,reference,18816,18896,Thông tư số 82/2025/TT-NHNN Quy định về trạng thái vàng của các tổ chức tín dụng
+ENTITY,E30_49,VB_AP_DUNG,Văn bản áp dụng,reference,18916,19153,"Thông tư số 69/2025/TT-NHNN ửa đổi, bổ sung một số điều của một số Thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh, đơn giản hóa thủ tục hành chính"
+ENTITY,E30_50,VB_AP_DUNG,Văn bản áp dụng,reference,19173,19272,"Thông tư số 56/2025/TT-NHNN Quy định hồ sơ, thủ tục chấp thuận thay đổi của tổ chức tài chính vi mô"
+ENTITY,E30_51,VB_AP_DUNG,Văn bản áp dụng,reference,19292,19410,Thông tư số 67/2025/TT-NHNN Bãi bỏ một số văn bản quy phạm pháp luật do Thống đốc Ngân hàng Nhà nước Việt Nam ban hành
+ENTITY,E38_1,DIEU,Điều,structure,571,577,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,9570,9576,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,9704,9710,Điều 3
+ENTITY,E39_1,KHOAN,Khoản,structure,638,683,"1. Sửa đổi, bổ sung khoản 1 Điều 193 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,1037,1101,"2. Bổ sung các điều 198a, 198b và 198c vào sau Điều 198 như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,9255,9422,"3. Bãi bỏ cụm từ ""hoặc trong thời hạn 60 ngày kể từ ngày Thủ tướng Chính phủ quyết định việc cho vay đặc biệt theo quy định tại khoản 4 Điều này” tại khoản 3 Điều 169."
+ENTITY,E39_4,KHOAN,Khoản,structure,9423,9524,"4. Bãi bỏ khoản 4 Điều 169, khoản 4 Điều 172, khoản 5 Điều 179, khoản 7 Điều 183 và khoản 4 Điều 193."
+ENTITY,E39_5,KHOAN,Khoản,structure,9525,9569,"5. Bãi bỏ cụm từ "", 5"" tại khoản 4 Điều 180."
+ENTITY,E39_6,KHOAN,Khoản,structure,9598,9660,1. Luật này có hiệu lực thi hành từ ngày 15 tháng 10 năm 2025.
+ENTITY,E39_7,KHOAN,Khoản,structure,9661,9703,2. Chính phủ hướng dẫn thực hiện Luật này.
+ENTITY,E39_8,KHOAN,Khoản,structure,9733,9901,1. Khoản vay đặc biệt của tổ chức tín dụng từ Ngân hàng Nhà nước đã được Thủ tướng Chính phủ quyết định trước ngày Luật này có hiệu lực thi hành được thực hiện như sau:
+ENTITY,E39_9,KHOAN,Khoản,structure,10155,10410,"2. Tài sản bảo đảm của khoản nợ xấu đã bị kê biên, xử lý theo quy định tại Điều 90 của Luật Thi hành án dân sự trước ngày Luật này có hiệu lực thi hành mà chưa xử lý xong thì được tiếp tục áp dụng quy định của pháp luật về thi hành án dân sự để thực hiện."
+ENTITY,E40_1,DIEM,Điểm,structure,9902,10026,"a) Các bên tiếp tục thực hiện theo Quyết định cho vay đặc biệt của của Thủ tướng Chính phủ, hợp đồng cho vay đặc biệt đã ký;"
+ENTITY,E40_2,DIEM,Điểm,structure,10027,10154,b) Ngân hàng Nhà nước xem xét gia hạn thời hạn vay đặc biệt với lãi suất 0%/năm theo quy định của Thống đốc Ngân hàng Nhà nước.
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_3,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E30_19,E2_1,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E30_20,E2_1,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E30_21,E2_1,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E30_22,E2_1,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E30_23,E2_1,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E30_24,E2_1,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E30_25,E2_1,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E30_26,E2_1,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E30_27,E2_1,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E30_28,E2_1,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E30_29,E2_1,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E30_30,E2_1,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E30_31,E2_1,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E30_32,E2_1,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E30_33,E2_1,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E30_34,E2_1,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E30_35,E2_1,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E30_36,E2_1,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E30_37,E2_1,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E30_38,E2_1,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E30_39,E2_1,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E30_40,E2_1,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E30_41,E2_1,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E30_42,E2_1,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E30_43,E2_1,,
+RELATION,R18_44,AP_DUNG,Áp dụng,E30_44,E2_1,,
+RELATION,R18_45,AP_DUNG,Áp dụng,E30_45,E2_1,,
+RELATION,R18_46,AP_DUNG,Áp dụng,E30_46,E2_1,,
+RELATION,R18_47,AP_DUNG,Áp dụng,E30_47,E2_1,,
+RELATION,R18_48,AP_DUNG,Áp dụng,E30_48,E2_1,,
+RELATION,R18_49,AP_DUNG,Áp dụng,E30_49,E2_1,,
+RELATION,R18_50,AP_DUNG,Áp dụng,E30_50,E2_1,,
+RELATION,R18_51,AP_DUNG,Áp dụng,E30_51,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,R22_7,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,R22_8,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,R22_9,THUOC,Thuộc,E40_1,E39_8,,
+RELATION,R22_10,THUOC,Thuộc,E40_2,E39_8,,
+RELATION,R22_11,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_12,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_13,THUOC,Thuộc,E11_1,E10_1,,

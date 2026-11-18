@@ -1,0 +1,18 @@
+﻿"NHÓM (ENTITY / RELATION)","ID","CODE","LABEL","SCOPE / FROM_ID","START / TO_ID","END","TEXT"
+"ENTITY","E1_1","TEN_VAN_BAN","Tên văn bản","metadata","109","687","Hướng dẫn về Giấy chứng nhận xuất xứ để được hưởng thuếnhập khẩu ưu đãi
+Thi hành Nghị định số 94/1998/NĐ-CP ngày 17/11/1998 của Chính phủqui định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của Luật Thuế xuấtkhẩu, Thuế nhập khẩu số 04/1998/QH ngày 20/5/1998;
+Trong thời gian chờ Bộ Thương mại và Tổng cục Hải quan điều chỉnhThông tư liên bộ số 280/TCHQ-GSQL ngày 29/11/1995 qui định về Giấy chứng nhận xuấtxứ hàng hoá xuất nhập khẩu;
+Sau khi thống nhất với Tổng cục Hải quan;
+Bộ Thương mại hướng dẫn về Giấy chứng nhận xuất xứ để được hưởngthuế nhập khẩu ưu đãi như sau:"
+"ENTITY","E2_1","SO_HIEU","Số hiệu","metadata","12","26","01/1999/TT-BTM"
+"ENTITY","E3_1","LOAI_VAN_BAN","Loại văn bản","metadata","100","108","THÔNG TƯ"
+"ENTITY","E4_1","NGANH","Ngành","metadata","4410","4421","Công Thương"
+"ENTITY","E5_1","NGAY_BAN_HANH","Ngày ban hành","metadata","4390","4400","1999-01-05"
+"ENTITY","E6_1","LINH_VUC","Lĩnh vực","metadata","4434","4448","Chưa phân loại"
+"ENTITY","E7_1","NGAY_CO_HIEU_LUC","Ngày có hiệu lực","metadata","4304","4317","kể từ ngày ký"
+"ENTITY","E9_1","TINH_TRANG_HIEU_LUC","Tình trạng hiệu lực","metadata","4472","4484","Còn hiệu lực"
+"ENTITY","E10_1","CO_QUAN_BAN_HANH","Cơ quan ban hành","metadata","593","606","Bộ Thương mại"
+"ENTITY","E11_1","CHUC_DANH","Chức danh","metadata","4498","4508","Thứ trưởng"
+"ENTITY","E12_1","NGUOI_KY","Người ký","metadata","4521","4532","Mai Văn Dâu"
+"RELATION","R22_1","THUOC","Thuộc","E12_1","E11_1","",""
+"RELATION","R22_2","THUOC","Thuộc","E11_1","E10_1","",""

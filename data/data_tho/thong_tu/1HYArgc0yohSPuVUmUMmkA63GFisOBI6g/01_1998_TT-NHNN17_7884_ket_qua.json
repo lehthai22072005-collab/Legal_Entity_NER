@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "document_id": "7884",
+  "document_code": "01/1998/TT-NHNN17",
+  "file_name": "01_1998_TT-NHNN17_7884.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "bổ sung, sửa đổi Thông tư số 05/1997-TT-NHNN17 ngày 25/10/1997 của Thống đốc Ngân hàng Nhà nước hướng dẫn việc chuyển đổi và đăng ký Quỹ tín dụngnhân dân, Hợp tác xã tín dụng theo Nghị định\nsố 16/CP ngày 21/2/1997 của Chính phủ",
+    "so_hieu": "01/1998/TT-NHNN17",
+    "loai_van_ban": "THÔNG TƯ",
+    "co_quan_ban_hanh": "Ngân hàng Nhà nước",
+    "ngay_ban_hanh": "ngày 9 tháng 3 năm 1998",
+    "ngay_co_hieu_luc": "sau 15 ngày kể từ ngày ký",
+    "ngay_het_hieu_luc": "2005-07-26",
+    "tinh_trang_hieu_luc": "Hết hiệu lực toàn bộ",
+    "chuc_danh": "Phó Thống đốc",
+    "nguoi_ky": "Dương Thu Hương",
+    "nganh": "Ngân hàng",
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Thông tư số 01/1998/TT-NHNN17 Bổ sung, sửa đổi Thông tư số 05/1997/TT-NHNN17 ngày 25/10/1997 của Thống đốc Ngân hàng Nhà nước hướng dẫn việc chuyển đổi và đăng ký quỹ tín dụng nhân dân, hợp tác xã tín dụng theo Nghị định số 16/CP ngày 21/2/1997 của Chính phủ\nTHÔNG TƯ\nCủa Ngân hàng Nhà nước Việt Nam số 01/1998-TT-NHNN17 ngày 9 tháng 3 năm 1998 bổ sung, sửa đổi Thông tư số 05/1997-TT-NHNN17 ngày 25/10/1997 của Thống đốc Ngân hàng Nhà nước hướng dẫn việc chuyển đổi và đăng ký Quỹ tín dụngnhân dân, Hợp tác xã tín dụng theo Nghị định\nsố 16/CP ngày 21/2/1997 của Chính phủ\nNgày 25/10/1997 Thống đốc Ngân hàng Nhà nước ban hành Thông tư số 05/1997/TT-NHNN17 hướng dẫn việc chuyển đổi và đăng ký Quỹ tín dụng nhân dân, Hợp tác xã tín dụng theo Nghị định số 16/CP ngày 21/2/1997 của Chính phủ. Tại điểm 2 mục A \"Những quy định chung\" của Thông tư này có ghi:\n\"Quỹ tín dụng nhân dân Trung ương (QTDTW), các Quỹ tín dụng nhân dân khu vực (QTDKV) là tổ chức liên kết, đảm bảo an toàn cho hoạt động của hệ thống QTDND, vì vậy không thuộc đối tượng chuyển đổi\".\nNay Ngân hàng Nhà nước Trung ương sửa đổi lại như sau:\n\"Quỹ tín dụng nhân dân khu vực (QTDKV), Quỹ tín dụng nhân dân Trung ương (QTDTW) đã được Ngân hàng Nhà nước cấp giấy phép thành lập và đang hoạt động phải tiến hành chuyển đổi, đăng ký theo Luật Hợp tác xã. Việc chuyển đổi và đăng ký đối với QTDKV, QTDTW Ngân hàng Nhà nước sẽ có Thông tư hướng dẫn riêng\".\nThông tư này có hiệu lực sau 15 ngày kể từ ngày ký. Các quy định trước đây trái với Thông tư này không còn hiệu lực thi hành.\nChánh Văn phòng Thống đốc, Vụ trưởng Vụ Quản lý các tổ chức tín dụng nhân dân, thủ trưởng các đơn vị có liên quan thuộc NHNNTW, Giám đốc Chi nhánh Ngân hàng Nhà nước các tỉnh, thành phố, Chủ tịch HĐQT QTDKV, QTDTW có trách nhiệm tổ chức thực hiện các quy định của Thông tư này.\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Ngành]: Ngân hàng\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: sau 15 ngày kể từ ngày ký\n[Ngày hết hiệu lực]: 2005-07-26\n[Tình trạng hiệu lực]: Hết hiệu lực toàn bộ\n[Chức danh]: Phó Thống đốc\n[Người ký]: Dương Thu Hương",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 345,
+      "end": 572,
+      "text": "bổ sung, sửa đổi Thông tư số 05/1997-TT-NHNN17 ngày 25/10/1997 của Thống đốc Ngân hàng Nhà nước hướng dẫn việc chuyển đổi và đăng ký Quỹ tín dụngnhân dân, Hợp tác xã tín dụng theo Nghị định\nsố 16/CP ngày 21/2/1997 của Chính phủ",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 12,
+      "end": 29,
+      "text": "01/1998/TT-NHNN17",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 259,
+      "end": 267,
+      "text": "THÔNG TƯ",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E4_1",
+      "start": 1881,
+      "end": 1890,
+      "text": "Ngân hàng",
+      "code": "NGANH",
+      "label": "Ngành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 321,
+      "end": 344,
+      "text": "ngày 9 tháng 3 năm 1998",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 1903,
+      "end": 1917,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 1938,
+      "end": 1963,
+      "text": "sau 15 ngày kể từ ngày ký",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E8_1",
+      "start": 1985,
+      "end": 1995,
+      "text": "2005-07-26",
+      "code": "NGAY_HET_HIEU_LUC",
+      "label": "Ngày hết hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 2019,
+      "end": 2039,
+      "text": "Hết hiệu lực toàn bộ",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 107,
+      "end": 125,
+      "text": "Ngân hàng Nhà nước",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 2053,
+      "end": 2066,
+      "text": "Phó Thống đốc",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 2079,
+      "end": 2094,
+      "text": "Dương Thu Hương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

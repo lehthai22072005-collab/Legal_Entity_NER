@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "document_id": "880",
+  "document_code": "4/NQ-TVQH",
+  "file_name": "4_NQ-TVQH_880.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Nghị quyết số 4/NQ-TVQH Về việc đặc sá cho những phạm nhân thuộc loại hình sự thường đã ở tù một thời gian và đã thực sự cải tạo.",
+    "so_hieu": "4/NQ-TVQH",
+    "loai_van_ban": "Nghị quyết",
+    "co_quan_ban_hanh": "UỶ BAN THƯỜNG VỤ QUỐC HỘI",
+    "ngay_ban_hanh": "NGÀY 29 THÁNG 8 NĂM 1960",
+    "ngay_co_hieu_luc": "1960-09-13",
+    "ngay_het_hieu_luc": "1980-12-19",
+    "tinh_trang_hieu_luc": "Hết hiệu lực toàn bộ",
+    "chuc_danh": "Chủ tịch Quốc hội",
+    "nguoi_ky": "Trường Chinh",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Nghị quyết số 4/NQ-TVQH Về việc đặc sá cho những phạm nhân thuộc loại hình sự thường đã ở tù một thời gian và đã thực sự cải tạo.\nQUYẾT ĐỊNH\nCỦA UỶ BAN THƯỜNG VỤ QUỐC HỘI SỐ 4/NQ-TVQH\nNGÀY 29 THÁNG 8 NĂM 1960\nCăn cứ vào Điều 53 của Hiến pháp nước Việt Nam dân chủ cộng hoà;\nNhân dịp lễ kỷ niệm lần thứ 15 ngày thành lập nước Việt Nam dân chủ cộng hoà;\nCăn cứ vào kết quả của chính sách giáo dục, cải tạo phạm nhân của Nhà nước;\nTheo đề nghị của Hội đồng Chính phủ,\nQUYẾT ĐỊNH:\nĐặc xá cho những phạm nhân thuộc loại hình sự thường (trừ những tội lưu manh, giết người, cướp của) đã ở tù một thời gian và đã thật sự cải tạo.\nTrường Chinh\n(Đã ký)\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 1960-09-13\n[Ngày hết hiệu lực]: 1980-12-19\n[Tình trạng hiệu lực]: Hết hiệu lực toàn bộ\n[Chức danh]: Chủ tịch Quốc hội",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 129,
+      "text": "Nghị quyết số 4/NQ-TVQH Về việc đặc sá cho những phạm nhân thuộc loại hình sự thường đã ở tù một thời gian và đã thực sự cải tạo.",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 14,
+      "end": 23,
+      "text": "4/NQ-TVQH",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 10,
+      "text": "Nghị quyết",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 184,
+      "end": 208,
+      "text": "NGÀY 29 THÁNG 8 NĂM 1960",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 707,
+      "end": 721,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 742,
+      "end": 752,
+      "text": "1960-09-13",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E8_1",
+      "start": 774,
+      "end": 784,
+      "text": "1980-12-19",
+      "code": "NGAY_HET_HIEU_LUC",
+      "label": "Ngày hết hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 808,
+      "end": 828,
+      "text": "Hết hiệu lực toàn bộ",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 145,
+      "end": 170,
+      "text": "UỶ BAN THƯỜNG VỤ QUỐC HỘI",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 842,
+      "end": 859,
+      "text": "Chủ tịch Quốc hội",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 622,
+      "end": 634,
+      "text": "Trường Chinh",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R22_1",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_3",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

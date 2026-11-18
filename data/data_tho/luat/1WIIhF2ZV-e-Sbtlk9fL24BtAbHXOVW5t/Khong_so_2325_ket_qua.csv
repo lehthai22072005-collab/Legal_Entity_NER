@@ -1,0 +1,92 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,62,"Luật Sửa đổi, bổ sung Luật Tổ chức Tòa án nhân dân số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,54,62,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,7245,7251,Tòa án
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,156,181,ngày 22 tháng 12 năm 1988
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,7264,7278,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,7299,7309,1989-01-04
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,7331,7341,1992-10-06
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,7365,7385,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,63,71,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,7146,7163,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,7171,7183,Lê Quang Đạo
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,7540,7558,Hiến pháp năm 1980
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,7600,7643,Luật Tổ chức Tòa án nhân dân số 3-LCT/HĐNN7
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,7450,7485,Bộ luật Tố tụng hình sự số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,7405,7423,Hiến pháp năm 1980
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,7693,7733,Luật Tổ chức Tòa án nhân dân số Không số
+ENTITY,E38_1,DIEU,Điều,structure,393,724,"Điều 9. mới:
+""Quyền bào chữa của bị cáo được bảo đảm. Bị cáo có quyền tự bào chữa, hoặc nhờ người khác bào chữa cho mình. Trong những trường hợp do pháp luật quy định, Toà án nhân dân phải yêu cầu Đoàn luật sư cử người bào chữa cho bị cáo. Các đương sự khác có quyền tự mình hoặc nhờ người khác bảo vệ quyền lợi hợp pháp của mình""."
+ENTITY,E38_2,DIEU,Điều,structure,725,1057,"Điều 13. , đoạn 3 mới:
+""Bản án tử hình được thi hành nếu không có kháng nghị của Chánh án Toà án nhân dân tối cao hoặc của Viện trưởng Viện kiểm sát nhân dân tối cao theo thủ tục giám đốc thẩm hoặc tái thẩm. Trong trường hợp người bị án xin ân giảm án tử hình thì bản án được thi hành sau khi Hội đồng Nhà nước bác đơn xin ân giảm""."
+ENTITY,E38_3,DIEU,Điều,structure,1058,1448,"Điều 14. mới:
+""Cùng với việc ra bản án, Toà án ra quyết định yêu cầu cơ quan hoặc tổ chức hữu quan áp dụng những biện pháp cần thiết để khắc phục những nguyên nhân và điều kiện phát sinh tội phạm hoặc vi phạm pháp luật tại các cơ quan, tổ chức đó. Trong thời hạn 30 ngày kể từ ngày nhận được quyết định của Toà án, cơ quan, tổ chức đó phải báo cho Toà án biết những biện pháp được áp dụng""."
+ENTITY,E38_4,DIEU,Điều,structure,1449,1959,"Điều 22. mới:
+""Toà án nhân dân tối cao có Chánh án, các Phó chánh án, các thẩm phán và các hội thẩm nhân dân. Tổ chức Toà án nhân dân tối cao gồm có: Hội đồng thẩm phán Toà án nhân dân tối cao; Uỷ ban thẩm phán Toà án nhân dân tối cao; Toà hình sự, Toà dân sự, Toà án quân sự cấp cao, các Toà phúc thẩm Toà án nhân dân tối cao. Khi xét thấy cần thiết, Hội đồng Nhà nước có thể thành lập các Toà chuyên trách khác theo đề nghị của Chánh án Toà án nhân dân tối cao. Bộ máy giúp việc của Toà án nhân dân tối cao""."
+ENTITY,E38_5,DIEU,Điều,structure,1960,2303,"Điều 23. , đoạn 1 mới:
+""Hội đồng thẩm phán Toà án nhân dân tối cao là tổ chức hướng dẫn công tác xét xử của Toà án nhân dân các cấp, đồng thời là tổ chức xét xử cao nhất theo thủ tục giám đốc thẩm và tái thẩm"". Điểm 5 mới:
+""5- Giám đốc thẩm hoặc tái thẩm những quyết định đã có hiệu lực pháp luật của Uỷ ban thẩm phán Toà án nhân dân tối cao""."
+ENTITY,E38_6,DIEU,Điều,structure,2304,2620,"Điều 24. , đoạn 1 mới:
+""Hội đồng thẩm phán Toà án nhân dân tối cao gồm có: Chánh án, các Phó chánh án Toà án nhân dân tối cao; các Chánh toà, Phó chánh toà các Toà thuộc Toà án nhân dân tối cao; các thẩm phán Toà hình sự, Toà dân sự và một số thẩm phán Toà án quân sự cấp cao do Chánh án Toà án nhân dân tối cao cử""."
+ENTITY,E38_7,DIEU,Điều,structure,2621,2771,"Điều 25. , điểm 3 mới:
+""3- Giám đốc thẩm hoặc tái thẩm những bán án và quyết định đã có hiệu lực pháp luật của các Toà thuộc Toà án nhân dân tối cao""."
+ENTITY,E38_8,DIEU,Điều,structure,2772,2950,"Điều 26. , đoạn 1 mới:
+""Uỷ ban thẩm phán Toà án nhân dân tối cao gồm có: Chánh án, các Phó chánh án Toà án nhân dân tối cao, các Chánh toà các Toà thuộc Toà án nhân dân tối cao""."
+ENTITY,E38_9,DIEU,Điều,structure,2951,3043,"Điều 27. mới:
+""Nhiệm vụ và quyền hạn của Toà hình sự, Toà dân sự Toà án nhân dân tối cao là:"
+ENTITY,E38_10,DIEU,Điều,structure,4177,4649,"Điều 29. , điểm 3 mới:
+""3- Chủ toạ phiên toà của Toà hình sự, Toà dân sự và các Toà phúc thẩm Toà án nhân dân tối cao, khi xét thấy cần thiết""; Điểm 4 mới:
+""4- Kháng nghị theo thủ tục giám đốc thẩm những bản án và quyết định đã có hiệu lực pháp luật của Toà án nhân dân các cấp; có quyền tạm đình chỉ việc thi hành bản án hoặc quyết định bị kháng nghị"". Điểm 6 mới:
+""6- Cử các Chánh toà và Phó chánh toà của các Toà thuộc Toà án nhân dân tối cao; phân công các thẩm phán""."
+ENTITY,E38_11,DIEU,Điều,structure,4650,4868,"Điều 30. , điểm 2 mới:
+""2- Kháng nghị theo thủ tục giám đốc thẩm những bản án hoặc quyết định đã có hiệu lực pháp luật của Toà án nhân dân cấp dưới; có quyền tạm đình chỉ thi hành bản án hoặc quyết định bị kháng nghị""."
+ENTITY,E38_12,DIEU,Điều,structure,4869,5182,"Điều 32. mới:
+""Toà án nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương có Chánh án, các Phó chánh án, các thẩm phán và các hội thẩm nhân dân. Tổ chức của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương gồm có: Uỷ ban thẩm phán; Toà hình sự, Toà dân sự; Bộ máy giúp việc""."
+ENTITY,E38_13,DIEU,Điều,structure,5183,5418,"Điều 34. , đoạn 1 mới:
+""Nhiệm vụ và quyền hạn của Toà hình sự, Toà dân sự Toà án nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương là:"" Đoạn 2 mới:
+""Toà hình sự, Toà dân sự có Chánh toà, Phó chánh toà và các thẩm phán."""
+ENTITY,E38_14,DIEU,Điều,structure,5419,5545,"Điều 35. mới:
+""Nhiệm vụ và quyền hạn của Chánh án Toà án nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương là:"
+ENTITY,E38_15,DIEU,Điều,structure,6096,6187,"Điều 36. mới:
+""Các Toà án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh có thẩm quyền:"
+ENTITY,E38_16,DIEU,Điều,structure,6616,6992,"Điều 37. , điểm 1 mới:
+""1- Tổ chức hoạt động xét xử và thi hành án của Toà án; Mục ""Thư ký và chuyên viên của Toà án nhân dân"" sửa lại là ""Thư ký, chuyên viên và chấp hành viên của Toà án nhân dân"". Điều 38 mới:
+""Các Toà án nhân dân có các thư ký Toà án, và tuỳ theo yêu cầu công tác, có các chuyên viên pháp lý giúp việc.Các Toà án nhân dân địa phương có các chấp hành viên."""
+ENTITY,E38_17,DIEU,Điều,structure,6993,7147,"Điều 39 mới:
+""Cơ quan công an có nhiệm vụ áp giải bị cáo, bảo vệ các phiên toà hình sự và theo yêu cầu của Toà án nhân dân, bảo vệ các phiên toà dân sự.""C"
+ENTITY,E39_1,KHOAN,Khoản,structure,3044,3133,1- Sơ thẩm đồng thời chung thẩm những vụ án thuộc thẩm quyền của Toà án nhân dân tối cao;
+ENTITY,E39_2,KHOAN,Khoản,structure,3134,3895,"2- Giám đốc thẩm hoặc tái thẩm những bản án và quyết định đã có hiệu lực pháp luật của các Toà án nhân dân tỉnh, thành phố trực thuộc Trung ương và cấp tương đương. Toà hình sự, Toà dân sự có Chánh toà, Phó chánh toà và các thẩm phán"". Bổ sung một điều mới là điều 27b.
+Điều 27b ""Nhiệm vụ và quyền hạn của Toà án quân sự cấp cao là:
+1- Sơ thẩm đồng thời chung thẩm những vụ án đặc biệt nghiêm trọng, phức tạp, những vụ án mà bị cáo là thiếu tướng hoặc là người có chức vụ từ chỉ huy trưởng sư đoàn, cục trưởng và cấp tương đương trở lên, những vụ án thuộc thẩm quyền của Toà án quân sự quân khu và cấp tương đương nhưng Toà án quân sự cấp cao lấy lên để xét xử;
+2- Phúc thẩm những bản án và quyết định sơ thẩm của các Toà án quân sự quân khu và cấp tương đương;"
+ENTITY,E39_3,KHOAN,Khoản,structure,3896,4026,3- Giám đốc thẩm hoặc tái thẩm những bản án và quyết định đã có hiệu lực pháp luật của Toà án quân sự quân khu và cấp tương đương;
+ENTITY,E39_4,KHOAN,Khoản,structure,4027,4176,"4- Giám đốc việc xét xử của các Toà quân sự cấp dưới;
+Toà án quân sự cấp cao có Chánh án, các Phó chánh án, các thẩm phán và các hội thẩm quân nhân""."
+ENTITY,E39_5,KHOAN,Khoản,structure,5546,5600,1- Tổ chức hoạt động xét xử và thi hành án của Toà án;
+ENTITY,E39_6,KHOAN,Khoản,structure,5601,5646,2- Chủ toạ các cuộc họp của Uỷ ban thẩm phán;
+ENTITY,E39_7,KHOAN,Khoản,structure,5647,5692,"3- Chủ toạ phiên toà, khi xét thấy cần thiết;"
+ENTITY,E39_8,KHOAN,Khoản,structure,5693,5895,4- Kháng nghị theo thủ tục giám đốc thẩm những bản án hoặc quyết định đã có hiệu lực pháp luật của các Toà án nhân dân cấp dưới; có quyền tạm đình chỉ việc thi hành bản án hoặc quyết định bị kháng nghị;
+ENTITY,E39_9,KHOAN,Khoản,structure,5896,5953,"5- Cử Chánh toà và Phó chánh toà Toà hình sự, Toà dân sự;"
+ENTITY,E39_10,KHOAN,Khoản,structure,5954,6095,"6- Báo cáo công tác của Toà án trước Hội đồng nhân dân cùng cấp và với Toà án nhân dân cấp trên.Các Phó chánh án giúp Chánh án làm nhiệm vụ."""
+ENTITY,E39_11,KHOAN,Khoản,structure,6188,6288,1- Sơ thẩm những vụ án hình sự về những tội phạm theo quy định tại Điều 145 Bộ luật tố tụng hình sự;
+ENTITY,E39_12,KHOAN,Khoản,structure,6289,6615,"2- Sơ thẩm những vụ án dân sự, lao động, hôn nhân và gia đình và những vụ án khác do pháp luật quy định, trừ những việc mà đương sự là người nước ngoài hoặc là người Việt Nam ở nước ngoài;Toà án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh có Chánh án, một hoặc hai Phó chánh án, các thẩm phán và các hội thẩm nhân dân."""
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_9,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_9,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_9,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_9,,
+RELATION,R22_7,THUOC,Thuộc,E39_5,E38_14,,
+RELATION,R22_8,THUOC,Thuộc,E39_6,E38_14,,
+RELATION,R22_9,THUOC,Thuộc,E39_7,E38_14,,
+RELATION,R22_10,THUOC,Thuộc,E39_8,E38_14,,
+RELATION,R22_11,THUOC,Thuộc,E39_9,E38_14,,
+RELATION,R22_12,THUOC,Thuộc,E39_10,E38_14,,
+RELATION,R22_13,THUOC,Thuộc,E39_11,E38_15,,
+RELATION,R22_14,THUOC,Thuộc,E39_12,E38_15,,

@@ -1,0 +1,25 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,77,Lệnh số 06/2004/L-CTN Về việc công bố Pháp lệnh của Uỷ ban Thường vụ Quốc hội
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,06/2004/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,199,224,Ngày 12 tháng 05 năm 2004
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,898,912,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,933,943,2004-05-25
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,967,979,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,286,334,CHỦ TỊCH NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,797,810,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,819,833,Trần Đức Lương
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,1201,1239,Pháp lệnh số 18/2004/PL-UBTVQH11 Thú y
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,999,1036,Luật Tổ chức Quốc hội số 30/2001/QH10
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1056,1102,"Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)"
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1122,1174,Luật Ban hành Văn bản quy phạm pháp luật số Không số
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,1289,1396,"Quyết định số 456/QĐ-BNN-NTTS V/v Ban hành một số quy định về điều kiện sản xuất giống, nuôi tôm chân trắng"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,1416,1523,"Quyết định số 456/QĐ-BNN-NTTS V/v Ban hành một số quy định về điều kiện sản xuất giống, nuôi tôm chân trắng"
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_3,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

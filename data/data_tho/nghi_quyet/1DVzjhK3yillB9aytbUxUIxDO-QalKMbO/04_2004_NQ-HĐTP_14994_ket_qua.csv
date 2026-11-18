@@ -1,0 +1,283 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,136,Nghị quyết số 04/2004/NQ-HĐTP Hướng dẫn thi hành một số quy định trong Phần thứ ba “Xét xử sơ thẩm” của Bộ luật tố tụng hình sự năm 2003
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,29,04/2004/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E4_1,NGANH,Ngành,metadata,35937,35963,"Công an, Kiểm sát, Tư pháp"
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,271,295,ngày 5 tháng 11 năm 2004
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,35976,35990,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,36011,36021,2004-12-12
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,36045,36057,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,456,474,HỘI ĐỒNG THẨM PHÁN
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,35129,35137,Chánh án
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,35860,35875,Nguyễn Văn Hiện
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,36148,36179,Bộ luật Hình sự số 15/1999/QH10
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,36206,36245,Bộ luật Tố tụng hình sự số 19/2003/QH11
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,511,539,Luật tổ chức Toà án nhân dân
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,36267,36324,Chỉ thị số 186/2006/CT-CA Về công tác thi hành án hình sự
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,36346,36509,Thông tư liên tịch số 17/2007/TTLT-BCA-VKSNDTC-TANDTC-BTP Hướng dẫn áp dụng một số quy định tại Chương XVIII “ Các tội phạm về ma túy” của Bộ luật Hình sự năm 1999
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,36531,36686,Nghị quyết số 02/2007/NQ-HĐTP Hướng dẫn thi hành một số quy định trong phần thứ năm “Thi hành bản án và quyết định của Tòa án” của Bộ luật Tố tụng Hình sự”
+ENTITY,E34_1,PHAN,Phần,structure,781,827,"I. VỀ CHƯƠNG XVII ""CHUẨN BỊ XÉT XỬ"" CỦA BLTTHS"
+ENTITY,E34_2,PHAN,Phần,structure,14329,14409,"II. VỀ CHƯƠNG XVIII ""QUY ĐỊNH CHUNG VỀ THỦ TỤC TỐ TỤNG TẠI PHIÊN TÒA"" CỦA BLTTHS"
+ENTITY,E34_3,PHAN,Phần,structure,23880,23937,"III. VỀ CHƯƠNG XIX ""THỦ TỤC BẮT ĐẦU PHIÊN TÒA"" CỦA BLTTHS"
+ENTITY,E34_4,PHAN,Phần,structure,27352,27403,"IV. VỀ CHƯƠNG XXII ""NGHỊ ÁN VÀ TUYÊN ÁN"" CỦA BLTTHS"
+ENTITY,E34_5,PHAN,Phần,structure,34557,34651,"V. CÁC MẪU VĂN BẢN TỐ TỤNG .
+Ban hành kèm theo Nghị quyết này các mẫu văn bản tố tụng sau đây:"
+ENTITY,E34_6,PHAN,Phần,structure,35635,35844,"VI. HIỆU LỰC THI HÀNH CỦA NGHỊ QUYẾT .
+Nghị quyết này đã được Hội đồng Thẩm phán Toà án nhân dân tối cao thông qua ngày 05 tháng 11 năm 2004 và có hiệu lực thi hành sau mười lăm ngày, kể từ ngày đăng Công báo."
+ENTITY,E36_6,MUC,Mục,structure,828,853,1. Về Điều 176 của BLTTHS
+ENTITY,E36_7,MUC,Mục,structure,4765,4790,2. Về Điều 177 của BLTTHS
+ENTITY,E36_8,MUC,Mục,structure,11655,11680,3. Về Điều 178 của BLTTHS
+ENTITY,E36_9,MUC,Mục,structure,12156,12181,4. Về Điều 179 của BLTTHS
+ENTITY,E36_10,MUC,Mục,structure,14410,14435,1. Về Điều 188 của BLTTHS
+ENTITY,E36_11,MUC,Mục,structure,15700,15725,2. Về Điều 196 của BLTTHS
+ENTITY,E36_12,MUC,Mục,structure,21386,22014,"3. Về Điều 199 của BLTTHS
+Việc ra bản án và các quyết định của Toà án cần phải thi hành đúng các quy định tại Điều 199 của BLTTHS; cụ thể là bản án, quyết định về việc thay đổi thành viên của Hội đồng xét xử, Kiểm sát viên, Thư ký Toà án, người giám định, người phiên dịch, chuyển vụ án, yêu cầu điều tra bổ sung, tạm đình chỉ hoặc đình chỉ vụ án, việc bắt giam hoặc trả tự do cho bị cáo phải được thảo luận và thông qua tại phòng nghị án và phải được lập thành văn bản. Đối với các trường hợp khác Hội đồng xét xử thảo luận và thông qua tại phòng xử án, không phải lập thành văn bản, nhưng phải được ghi vào biên bản phiên toà."
+ENTITY,E36_13,MUC,Mục,structure,22015,22040,4. Về Điều 200 của BLTTHS
+ENTITY,E36_14,MUC,Mục,structure,23938,23963,1. Về Điều 201 của BLTTHS
+ENTITY,E36_15,MUC,Mục,structure,27404,27429,1. Về Điều 222 của BLTTHS
+ENTITY,E36_16,MUC,Mục,structure,28969,28994,2. Về Điều 224 của BLTTHS
+ENTITY,E36_17,MUC,Mục,structure,30929,30954,3. Về Điều 226 của BLTTHS
+ENTITY,E36_18,MUC,Mục,structure,32431,32456,4. Về Điều 228 của BLTTHS
+ENTITY,E36_19,MUC,Mục,structure,33938,33963,5. Về Điều 229 của BLTTHS
+ENTITY,E39_1,KHOAN,Khoản,structure,3608,4444,"1. 3. Về việc gia hạn thời hạn chuẩn bị xét xử
+Khi thời hạn quy định tại đoạn 1 khoản 2 Điều 176 của BLTTHS gần hết (thời hạn chuẩn bị xét xử còn lại không quá năm ngày) mà Thẩm phán được phân công chủ toạ phiên toà thấy rằng vụ án phức tạp nên chưa ra được một trong những quyết định quy định tại đoạn này, thì cần phải báo cáo ngay với Chánh án Toà án để ra quyết định gia hạn thời hạn chuẩn bị xét xử. Việc gia hạn thời hạn chuẩn bị xét xử phải thực hiện theo đúng quy định tại đoạn 2 khoản 2 Điều 176 của BLTTHS và không quá thời hạn được hướng dẫn tại điểm b tiểu mục 1.2.1 mục 1 Phần I của Nghị quyết này. Hết thời hạn được gia hạn, Thẩm phán được phân công chủ toạ phiên toà phải ra một trong những quyết định quy định tại đoạn 1 khoản 2 Điều 176 của BLTTHS. Được coi là vụ án phức tạp nếu thuộc một trong các trường hợp sau đây:"
+ENTITY,E39_3,KHOAN,Khoản,structure,4791,4845,"2. 1. Áp dụng, thay đổi hoặc huỷ bỏ biện pháp tạm giam"
+ENTITY,E39_4,KHOAN,Khoản,structure,6222,6629,"2. 2. Thời hạn tạm giam
+Theo quy định tại đoạn 2 Điều 177 của BLTTHS, thì thời hạn tạm giam để chuẩn bị xét xử không được quá thời hạn chuẩn bị xét xử quy định tại Điều 176 của Bộ luật này. Do đó, sau khi nhận hồ sơ vụ án, Thẩm phán được phân công chủ toạ phiên toà cần kiểm tra ngay các tài liệu có trong hồ sơ vụ án liên quan đến việc áp dụng hoặc không áp dụng biện pháp ngăn chặn, để quyết định như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,11047,11654,"2. 3. Tạm giam trong trường hợp để hoàn thành việc xét xử
+Đối với bị cáo đang bị tạm giam, nếu đến ngày mở phiên toà hoặc trong quá trình xét xử thời hạn tạm giam đã hết, thì trước khi thời hạn tạm giam gần hết (thời hạn tạm giam còn lại không quá năm ngày), Thẩm phán được phân công chủ toạ phiên toà phải đề nghị Chánh án hoặc Phó Chánh án Toà án ra lệnh tạm giam. Thời hạn tạm giam được tính kể từ ngày tiếp theo ngày tạm giam cuối cùng của lệnh tạm giam trước đó và cho đến khi kết thúc phiên toà; cụ thể cần ghi: ""Thời hạn tạm giam kể từ ngày... tháng... năm... cho đến khi kết thúc phiên toà sơ thẩm""."
+ENTITY,E39_7,KHOAN,Khoản,structure,11681,11782,3. 1. Quyết định đưa vụ án ra xét xử phải ghi rõ và đầy đủ nội dung quy định tại Điều 178 của BLTTHS.
+ENTITY,E39_8,KHOAN,Khoản,structure,11783,12155,"3. 2. Để không phải hoãn phiên toà và bảo đảm đúng quy định của BLTTHS trong trường hợp Hội thẩm được phân công tham gia xét xử vụ án không tiếp tục tham gia xét xử được sau khi có quyết định đưa vụ án ra xét xử, thì đồng thời với việc phân công Hội thẩm chính thức cần phân công Hội thẩm dự khuyết và cùng ghi họ tên Hội thẩm dự khuyết vào quyết định đưa vụ án ra xét xử."
+ENTITY,E39_10,KHOAN,Khoản,structure,12182,12422,"4. 1. Trong thời hạn chuẩn bị xét xử, Thẩm phán được phân công chủ toạ phiên toà ra quyết định trả hồ sơ cho Viện kiểm sát để điều tra bổ sung khi thuộc một trong những trường hợp quy định tại các điểm a, b và c khoản 1 Điều 179 của BLTTHS."
+ENTITY,E39_11,KHOAN,Khoản,structure,12423,12713,"4. 2. Trong quyết định trả hồ sơ để điều tra bổ sung cần nêu rõ thuộc trường hợp cụ thể nào quy định tại các điểm a, b và c khoản 1 Điều 179 của BLTTHS và những vấn đề cụ thể cần điều tra bổ sung. Không được nêu kết quả điều tra bổ sung có ý nghĩa như thế nào đối với việc giải quyết vụ án."
+ENTITY,E39_12,KHOAN,Khoản,structure,12714,13379,"4. 3. Theo quy định tại khoản 2 Điều 121 của BLTTHS thì chỉ được ra quyết định trả hồ sơ để điều tra bổ sung không quá hai lần. Do đó, trong quá trình nghiên cứu hồ sơ vụ án nếu phát hiện thấy vấn đề cần điều tra bổ sung, thì vẫn phải tiếp tục nghiên cứu toàn bộ hồ sơ vụ án để xem xét có vấn đề nào khác cần điều tra bổ sung hay không. Chỉ ra quyết định trả hồ sơ để điều tra bổ sung lần thứ hai trong trường hợp những vấn đề yêu cầu điều tra bổ sung trong quyết định trả hồ sơ để điều tra bổ sung lần thứ nhất chưa được điều tra bổ sung hoặc tuy đã điều tra bổ sung nhưng chưa đạt yêu cầu hoặc từ kết quả điều tra bổ sung xét thấy cần điều tra bổ sung vấn đề mới."
+ENTITY,E39_13,KHOAN,Khoản,structure,13380,14328,"4. 4. Vi phạm nghiêm trọng thủ tục tố tụng là trường hợp BLTTHS quy định bắt buộc phải tiến hành hoặc tiến hành theo thủ tục tố tụng đó, nhưng cơ quan tiến hành tố tụng, người tiến hành tố tụng bỏ qua hoặc thực hiện không đúng xâm phạm nghiêm trọng đến quyền lợi của bị can, bị cáo, người bị hại, nguyên đơn dân sự, bị đơn dân sự, người có quyền lợi, nghĩa vụ liên quan đến vụ án hoặc làm cho việc giải quyết vụ án thiếu khách quan toàn diện.
+Ví dụ: Trường hợp quy định tại điểm a và điểm b khoản 2 Điều 57 của BLTTHS mà cơ quan điều tra, Viện kiểm sát hoặc Toà án không yêu cầu Đoàn luật sư phân công Văn phòng luật sư cử người bào chữa cho bị can, bị cáo hoặc đề nghị Uỷ ban Mặt trận Tổ quốc Việt Nam, tổ chức thành viên của Mặt trận cử người bào chữa cho thành viên của tổ chức mình là vi phạm nghiêm trọng thủ tục tố tụng (trừ trường hợp bị can, bị cáo hoặc người đại diện hợp pháp của họ đã mời người bào chữa hoặc đều từ chối người bào chữa)."
+ENTITY,E39_15,KHOAN,Khoản,structure,14436,14656,"1. 1. Để bảo đảm việc giám sát bị cáo tại phiên toà theo đúng quy định tại Điều 188 của BLTTHS, thì khi giải thích quyền và nghĩa vụ của bị cáo, chủ toạ phiên toà cần công bố quy định tại Điều 188 của BLTTHS cho họ biết."
+ENTITY,E39_16,KHOAN,Khoản,structure,14657,14999,"1. 2. Tại phiên toà, bị cáo đang bị tạm giam được tiếp xúc với người bào chữa nhưng phải thực hiện đúng nội quy phiên toà và tuân theo sự điều khiển của chủ toạ phiên toà; trong trường hợp muốn được tiếp xúc với người khác cần nêu rõ xin được tiếp xúc với ai và lý do. Chủ toạ phiên toà chỉ cho phép tiếp xúc khi xét thấy có lý do chính đáng."
+ENTITY,E39_17,KHOAN,Khoản,structure,15000,15148,"1. 3. Trước khi Hội đồng xét xử tạm nghỉ hoặc vào phòng nghị án tho luận thông qua các quyết định, bản án, chủ toạ phiên toà phải thực hiện như sau:"
+ENTITY,E39_19,KHOAN,Khoản,structure,15726,16371,"2. 1. Toà án có thể xét xử bị cáo theo khoản khác với khoản mà Viện kiểm sát đã truy tố trong cùng một điều luật, có nghĩa là với những hành vi mà Viện kiểm sát truy tố, Toà án có thể xét xử bị cáo theo khoản nặng hơn hoặc theo khoản nhẹ hơn so với khoản mà Viện kiểm sát đã truy tố trong cùng một điều luật.
+Ví dụ: Viện kiểm sát truy tố bị cáo A về năm hành vi lừa đo chiếm đoạt tài sản theo khoản 2 Điều 139 của Bộ luật hình sự. Theo quy định tại đoạn 2 Điều 196 của BLTTHS thì Toà án có thể xét xử bị cáo A về năm hành vi lừa đo chiếm đoạt tài sản này theo khoản 1 hoặc theo khoản 3 hoặc cũng có thể theo khoản 4 Điều 139 của Bộ luật hình sự."
+ENTITY,E39_20,KHOAN,Khoản,structure,16372,16623,"2. 2. Toà án có thể xét xử bị cáo về một tội khác bằng hoặc nhẹ hơn tội mà Viện kiểm sát đã truy tố, có nghĩa là với những hành vi mà Viện kiểm sát truy tố, Toà án có thể xét xử bị cáo về một tội khác bằng hoặc nhẹ hơn tội mà Viện kiểm sát đã truy tố."
+ENTITY,E39_21,KHOAN,Khoản,structure,20156,21107,"2. 3. Khi Viện kiểm sát truy tố bị cáo về nhiều tội với nhiều hành vi phạm tội, thì giới hạn của việc xét xử đối với từng tội được thực hiện theo hướng dẫn tại các tiểu mục 2.1 và 2.2 mục 2 Phần II của Nghị quyết này. Toà án cũng có thể xét xử bị cáo về tội nhẹ nhất trong các tội mà Viện kiểm sát truy tố hoặc về tội nhẹ hơn tất cả các tội mà Viện kiểm sát truy tố đối với tất cả các hành vi phạm tội đó.
+Ví dụ: Viện kiểm sát truy tố bị cáo M về năm hành vi phạm tội, trong đó hai hành vi phạm tội bị truy tố về tội cướp tài sản, còn ba hành vi phạm tội bị truy tố về tội cướp giật tài sản, thì Toà án có thể xét xử bị cáo M về tội cướp giật tài sản đối với cả năm hành vi phạm tội mà Viện kiểm sát truy tố (tội cướp giật tài sản nhẹ hơn tội cướp tài sản). Toà án cũng có thể xét xử bị cáo M về tội cưỡng đoạt tài sản đối với cả năm hành vi phạm tội mà Viện kiểm sát truy tố (tội cưỡng đoạt tài sản nhẹ hơn tội cướp giật tài sản và tội cướp tài sản)."
+ENTITY,E39_22,KHOAN,Khoản,structure,21108,21385,"2. 4. Khi thực hiện các trường hợp được hướng dẫn tại các tiểu mục 2.1 và 2.3 mục 2 Phần II của Nghị quyết này cần thi hành đúng các quy định của BLTTHS về thẩm quyền xét xử của Toà án các cấp, về thành phần Hội đồng xét xử sơ thẩm và về việc bảo đảm quyền bào chữa của bị cáo."
+ENTITY,E39_25,KHOAN,Khoản,structure,22041,22391,"4. 1. Biên bản phiên toà phải ghi đầy đủ nội dung quy định tại khoản 1 và khoản 2 Điều 200 của BLTTHS. Cùng với việc ghi biên bản phiên toà, Toà án có thể tổ chức việc ghi âm, ghi hình về diễn biến phiên toà. Theo quy định tại khoản 1 Điều 200 của BLTTHS, thì biên bản phiên toà phải ghi mọi diễn biến ở phiên toà từ khi bắt đầu cho đến khi tuyên án."
+ENTITY,E39_26,KHOAN,Khoản,structure,22392,23502,"4. 2. Sau khi kết thúc phiên toà, chủ toạ phiên toà phải kiểm tra lại biên bản và cùng với Thư ký Toà án ký vào biên bản đó. Khi có một trong những người quy định tại khoản 4 Điều 200 của BLTTHS có yêu cầu được xem biên bản phiên toà, thì chủ toạ phiên toà phải cho phép họ xem biên bản phiên toà. Nếu họ có yêu cầu ghi những sửa đổi, bổ sung vào biên bản phiên toà, thì Thư ký Toà án phải ghi những sửa đổi, bổ sung theo yêu cầu của họ. Không được tẩy xoá, sửa chữa trực tiếp vào những vấn đề đã ghi mà ghi những sửa đổi, bổ sung tiếp vào biên bản phiên toà. Người nào được quy định tại khoản 4 Điều 200 của BLTTHS có yêu cầu ghi những sửa đổi, bổ sung vào biên bản phiên toà thì ghi tư cách tiến hành tố tụng hoặc tham gia tố tụng và họ tên của người đó. Tiếp theo ghi những vấn đề được ghi trong biên bản phiên toà có yêu cầu sửa đổi, bổ sung và những sửa đổi, bổ sung cụ thể. Nếu có nhiều người yêu cầu thì ghi thứ tự từng người một. Sau đó người có yêu cầu phải ký xác nhận.
+Ví dụ 1: (trường hợp có một người yêu cầu ghi những sửa đổi, bổ sung) Những sửa đổi, bổ sung theo yêu cầu của bị cáo Nguyễn Văn A:"
+ENTITY,E39_27,KHOAN,Khoản,structure,23503,23651,"1. Về vấn đề được ghi tại dòng (các dòng) từ trên xuống (hoặc từ dưới lên) trang... của biên bản phiên toà yêu cầu ghi sửa đổi, bổ sung như sau: ..."
+ENTITY,E39_28,KHOAN,Khoản,structure,23652,23766,"2. ... Ví dụ 2: (trường hợp có từ hai người trở lên có yêu cầu ghi những sửa đổi, bổ sung) Những sửa đổi, bổ sung:"
+ENTITY,E39_29,KHOAN,Khoản,structure,23767,23808,1. Theo yêu cầu của Kiểm sát viên Trần B:
+ENTITY,E39_30,KHOAN,Khoản,structure,23823,23865,2. Theo yêu cầu của người bị hại Lê Thị M:
+ENTITY,E39_32,KHOAN,Khoản,structure,23964,24071,1. 1. Việc kiểm tra căn cước của những người được triệu tập và có mặt tại phiên toà được thực hiện như sau:
+ENTITY,E39_33,KHOAN,Khoản,structure,24984,25555,"1. 2. Trong trường hợp các tài liệu có trong hồ sơ vụ án cũng như lời khai của người được triệu tập (đặc biệt là bị cáo) về căn cước của họ có sự khác nhau thì cần phải xác định chính xác về căn cước của họ. Đối với bị cáo thì ngoài việc ghi họ tên chính thức, còn phải ghi đầy đủ họ tên mà họ đã khai trong quá trình điều tra.
+Ví dụ: Họ tên bị cáo: Nguyễn Văn A (còn có các tên gọi khác: Nguyễn Trần A, Nguyễn Văn Á...).
+Nếu các tài liệu có trong hồ sơ vụ án chưa có đủ căn cứ để xác định chính xác về căn cước của bị cáo thì ra quyết định trả hồ sơ để điều tra bổ sung."
+ENTITY,E39_34,KHOAN,Khoản,structure,25556,26223,"1. 3. Việc giải thích quyền và nghĩa vụ của người được triệu tập đến phiên toà, chủ toạ phiên toà phải giải thích đầy đủ quyền và nghĩa vụ của họ quy định tại điều luật tương ứng của BLTTHS.
+Ví dụ: Đối với bị cáo phải giải thích đầy đủ quyền và nghĩa vụ của họ quy định tại Điều 50 của BLTTHS, đồng thời cần công bố thêm quy định tại Điều 188 của BLTTHS cho họ biết.
+Đối với người bị hại phải giải thích đầy đủ quyền và nghĩa vụ quy định tại Điều 51 của BLTTHS. Trong trường hợp những người được triệu tập đến phiên toà có những quyền và nghĩa vụ giống nhau thì giải thích chung cho họ. Đối với người nào còn có quyền và nghĩa vụ khác thì giải thích thêm cho họ biết."
+ENTITY,E39_35,KHOAN,Khoản,structure,26224,26424,"1. 4. Đối với người phiên dịch, người giám định, chủ toạ phiên toà yêu cầu họ phải cam đoan làm tròn nhiệm vụ; đối với người làm chứng là người thành niên yêu cầu họ phải cam đoan không khai gian dối."
+ENTITY,E39_36,KHOAN,Khoản,structure,26425,27351,"1. 5. Đối với bị cáo, chủ toạ phiên toà phải hỏi đã được giao nhận bản cáo trạng và quyết định đưa vụ án ra xét xử hay chưa. Nếu đã được giao nhận thì ngày được giao nhận quyết định đưa vụ án ra xét xử là ngày nào.
+Trong trường hợp bị cáo chưa được giao nhận bản cáo trạng và quyết định đưa vụ án ra xét xử hoặc đã nhận được quyết định đưa vụ án ra xét xử từ chín ngày trở xuống trước khi mở phiên toà, thì phải hỏi bị cáo có đồng ý để Toà án tiến hành xét xử vụ án hay không. Nếu bị cáo đồng ý thì ghi vào biên bản phiên toà và tiến hành xét xử vụ án theo thủ tục chung. Nếu bị cáo không đồng ý thì Hội đồng xét xử phải hoãn phiên toà.
+Ngay sau khi hoãn phiên toà, nếu bị cáo chưa được giao nhận bản cáo trạng, thì Toà án yêu cầu Viện kiểm sát tiến hành việc giao bản cáo trạng cho bị cáo; nếu bị cáo chưa được giao nhận quyết định đưa vụ án ra xét xử thì Toà án tiến hành việc giao quyết định đưa vụ án ra xét xử cho bị cáo."
+ENTITY,E39_38,KHOAN,Khoản,structure,27430,28069,"1. 1. Chỉ Thẩm phán và Hội thẩm mới có quyền nghị án. Các thành viên Hội đồng xét xử phải giải quyết tất cả các vấn đề của vụ án bằng cách biểu quyết theo đa số về từng vấn đề một; cụ thể là các vấn đề chính sau: căn cứ vào những tài liệu, chứng cứ đã được kiểm tra tại phiên toà, qua việc xét hỏi và tranh luận tại phiên toà đã đủ căn cứ kết tội bị cáo hay chưa? Nếu đã đủ căn cứ kết tội thì bị cáo phạm tội gì, theo điểm, khoản, điều luật nào của Bộ luật hình sự? Hình phạt chính, hình phạt bổ sung, các biện pháp tư pháp đối với bị cáo. án phí hình sự, án phí dân sự sơ thẩm. Kiến nghị sửa chữa những khuyết điểm trong công tác quản lý."
+ENTITY,E39_39,KHOAN,Khoản,structure,28070,28547,"1. 2. Trong trường hợp Hội đồng xét xử sơ thẩm chỉ có một Thẩm phán và hai Hội thẩm, thì khi phát biểu (hoặc khi biểu quyết) các Hội thẩm phát biểu (hoặc biểu quyết) trước, Thẩm phán chủ toạ phiên toà phát biểu (hoặc biểu quyết) sau. Trong trường hợp Hội đồng xét xử sơ thẩm có hai Thẩm phán và ba Hội thẩm, thì các Hội thẩm phát biểu (hoặc biểu quyết) trước, đến Thẩm phán không phải là chủ toạ phiên toà và sau cùng là Thẩm phán chủ toạ phiên toà phát biểu (hoặc biểu quyết)."
+ENTITY,E39_40,KHOAN,Khoản,structure,28548,28715,1. 3. Thành viên của Hội đồng xét xử có ý kiến thiểu số thì có quyền (không phải là nghĩa vụ) trình bày ý kiến của mình bằng văn bản riêng và được đưa vào hồ sơ vụ án.
+ENTITY,E39_41,KHOAN,Khoản,structure,28716,28968,1. 4. Trong biên bản nghị án phải ghi lại đầy đủ các ý kiến đã tho luận về từng vấn đề một và quyết định theo đa số của Hội đồng xét xử về từng vấn đề đó. Các thành viên Hội đồng xét xử phải ký vào biên bản nghị án tại phòng nghị án trước khi tuyên án.
+ENTITY,E39_43,KHOAN,Khoản,structure,28995,29100,2. 1. Toà án ra bản án nhân danh nước Cộng hoà xã hội chủ nghĩa Việt Nam. bản án phải có ba phần như sau:
+ENTITY,E39_44,KHOAN,Khoản,structure,30609,30928,"2. 2. Cùng với biên bản nghị án, bản án gốc phải được các thành viên Hội đồng xét xử thông qua và ký tại phòng nghị án và được lưu vào hồ sơ vụ án. Trên cơ sở bản án gốc, Thẩm phán chủ toạ phiên toà thay mặt Hội đồng xét xử ký các bản án chính và Toà án thực hiện việc giao bản án theo quy định tại Điều 229 của BLTTHS."
+ENTITY,E39_46,KHOAN,Khoản,structure,30955,31335,"3. 1. Theo quy định tại Điều 226 của BLTTHS thì khi tuyên án mọi người trong phòng xử án phải đứng dậy; do đó, trước khi tuyên án, Thư ký Toà án phải yêu cầu mọi người đứng dậy, trừ những người vì lý do sức khoẻ được chủ toạ phiên toà cho phép ngồi tại chỗ. Chủ toạ phiên toà hoặc một thành viên khác của Hội đồng xét xử đọc bản án; nếu bản án dài thì có thể thay nhau đọc bản án."
+ENTITY,E39_47,KHOAN,Khoản,structure,31336,31508,"3. 2. Trong trường hợp bản án quá dài, thì chủ toạ phiên toà có thể chỉ yêu cầu mọi người trong phòng xử án phải đứng dậy khi đọc phần mở đầu và phần quyết định của bản án."
+ENTITY,E39_48,KHOAN,Khoản,structure,31509,32016,"3. 3. Sau khi đọc xong bản án, tuỳ vào từng trường hợp cụ thể, chủ toạ phiên toà hoặc một thành viên khác của Hội đồng xét xử giải thích thêm về việc chấp hành bản án và quyền kháng cáo.
+Ví dụ: - Toà án xử phạt tù bị cáo, nhưng cho hưởng án treo, thì có thể giải thích thêm cho người được hưởng án treo biết về quy định tại khoản 4 và khoản 5 Điều 60 của Bộ luật hình sự.
+- Toà án xử phạt bị cáo ci tạo không giam giữ, thì có thể giải thích thêm cho họ biết quy định tại khoản 2 Điều 51 của Bộ luật hình sự."
+ENTITY,E39_49,KHOAN,Khoản,structure,32017,32430,"3. 4. Đối với bị cáo không biết tiếng Việt, thì ngay sau khi tuyên án người phiên dịch phải đọc lại cho bị cáo nghe toàn bộ bản án sang thứ tiếng mà bị cáo biết. Bản án quy định tại đoạn 2 Điều 226 của BLTTHS cần được hiểu là phần bản án có liên quan đến bị cáo không biết tiếng Việt, có nghĩa là người phiên dịch chỉ phải đọc lại cho bị cáo nghe toàn bộ phần bản án có liên quan đến bị cáo không biết tiếng Việt."
+ENTITY,E39_51,KHOAN,Khoản,structure,32457,33304,"4. 1. Đối với bị cáo đang bị tạm giam mà bị phạt tù và không thuộc trường hợp quy định tại khoản 4 và khoản 5 Điều 227 của BLTTHS, nhưng đến ngày kết thúc phiên toà thời hạn tạm giam đã hết thì Hội đồng xét xử ra quyết định tạm giam bị cáo để bảo đảm việc thi hành án.
+Ngoài trường hợp đến ngày kết thúc phiên toà thời hạn tạm giam thực sự đã hết (ví dụ: trường hợp Chánh án hoặc Phó Chánh án Toà án ra lệnh tạm giam cho đến khi kết thúc phiên toà để hoàn thành việc xét xử), thì cũng được coi là thời hạn tạm giam đã hết, nếu thời hạn tạm giam tuy đang còn, nhưng không đủ để thực hiện các hoạt động tố tụng tiếp theo (kháng cáo, kháng nghị, ra quyết định thi hành án phạt tù theo quy định tại khoản 1 Điều 234 và khoản 1 Điều 256 của BLTTHS).
+Để bảo đảm cho việc tạm giam bị cáo đúng pháp luật (có quyết định tạm giam) thì cần phân biệt như sau:"
+ENTITY,E39_52,KHOAN,Khoản,structure,33762,33937,"4. 2. Đối với bị cáo đang bị tạm giam mà bị xử phạt tử hình, thì trong bản án cần phải ghi: ""tiếp tục giam bị cáo để bảo đảm thi hành án"" mà không phải ra quyết định tạm giam."
+ENTITY,E39_54,KHOAN,Khoản,structure,33964,34113,"5. 1. Việc giao bản án, gửi bản án và thông báo bằng văn bản về kết quả xét xử phải được thực hiện theo đúng quy định tại đoạn 1 Điều 229 của BLTTHS."
+ENTITY,E39_55,KHOAN,Khoản,structure,34114,34556,"5. 2. Đối với bị cáo bị xử vắng mặt, nếu không giao trực tiếp bản án, quyết định cho họ được thì cùng với việc gửi bản án cho họ, Toà án phải niêm yết bản án tại trụ sở chính quyền xã, phường, thị trấn nơi cư trú hoặc nơi làm việc cuối cùng của bị cáo. Việc niêm yết phải được lập thành biên bản có chứng nhận của chính quyền xã, phường, thị trấn nơi cư trú hoặc cơ quan, tổ chức nơi làm việc cuối cùng của bị cáo và được lưu vào hồ sơ vụ án."
+ENTITY,E39_56,KHOAN,Khoản,structure,34652,34762,1. Quyết định trả hồ sơ để điều tra bổ sung (mẫu số 04a: dùng cho Thẩm phán được phân công chủ toạ phiên toà);
+ENTITY,E39_57,KHOAN,Khoản,structure,34763,34862,2. Quyết định tạm đình chỉ vụ án (mẫu số 04b: dùng cho Thẩm phán được phân công chủ toạ phiên toà);
+ENTITY,E39_58,KHOAN,Khoản,structure,34863,34958,3. Quyết định đình chỉ vụ án (mẫu số 04c: dùng cho Thẩm phán được phân công chủ toạ phiên toà);
+ENTITY,E39_59,KHOAN,Khoản,structure,34959,35059,4. Quyết định đưa vụ án ra xét xử (mẫu số 04d: dùng cho Thẩm phán được phân công chủ toạ phiên toà);
+ENTITY,E39_60,KHOAN,Khoản,structure,35060,35161,5. Quyết định gia hạn thời hạn chuẩn bị xét xử (mẫu số 04đ: dùng cho Chánh án Toà án xét xử sơ thẩm);
+ENTITY,E39_61,KHOAN,Khoản,structure,35162,35248,6. Quyết định yêu cầu điều tra bổ sung (mẫu số 05a: dùng cho Hội đồng xét xử sơ thẩm);
+ENTITY,E39_62,KHOAN,Khoản,structure,35249,35329,7. Quyết định tạm đình chỉ vụ án (mẫu số 05b: dùng cho Hội đồng xét xử sơ thẩm);
+ENTITY,E39_63,KHOAN,Khoản,structure,35330,35406,8. Quyết định đình chỉ vụ án (mẫu số 05c: dùng cho Hội đồng xét xử sơ thẩm);
+ENTITY,E39_64,KHOAN,Khoản,structure,35407,35474,9. Biên bản nghị án (mẫu số 05d: dùng cho Hội đồng xét xử sơ thẩm);
+ENTITY,E39_65,KHOAN,Khoản,structure,35475,35558,10. Quyết định trả tự do cho bị cáo (mẫu số 05đ: dùng cho Hội đồng xét xử sơ thẩm);
+ENTITY,E39_66,KHOAN,Khoản,structure,35559,35602,11. Mẫu biên bản phiên toà hình sự sơ thẩm;
+ENTITY,E39_67,KHOAN,Khoản,structure,35603,35634,12. Mẫu bản án hình sự sơ thẩm.
+ENTITY,E39_68,KHOAN,Khoản,structure,854,1188,"1.1. Nhận hồ sơ vụ án và thụ lý hồ sơ vụ án
+Khi nhận hồ sơ vụ án do Viện kiểm sát chuyển đến, người nhận hồ sơ phải đối chiếu bản kê tài liệu và các tài liệu có trong hồ sơ vụ án xem đã đầy đủ hay chưa; kiểm tra bản cáo trạng đã được giao cho bị can theo đúng quy định tại đoạn 3 khoản 1 Điều 166 của BLTTHS hay chưa và xử lý như sau:"
+ENTITY,E39_69,KHOAN,Khoản,structure,1632,3607,"1.2. Thời hạn chuẩn bị xét xử
+Điều 176 của BLTTHS quy định về thời hạn chuẩn bị xét xử; do đó, các thời hạn quy định trong Điều này đều được tính trong thời hạn chuẩn bị xét xử. Tuỳ từng trường hợp cụ thể thời hạn chuẩn bị xét xử được tính như sau:
+1. 2.1. Trường hợp Thẩm phán được phân công chủ toạ phiên toà ra quyết định đưa vụ án ra xét xử
+a) Nếu không phải gia hạn thời hạn chuẩn bị xét xử, thì thời hạn chuẩn bị xét xử kể từ ngày Thẩm phán được phân công chủ toạ phiên toà nhận hồ sơ vụ án tối đa là:
+a.1. Bốn mươi lăm ngày đối với tội phạm ít nghiêm trọng;
+a.2. Hai tháng đối với tội phạm nghiêm trọng;
+a.3. Hai tháng mười lăm ngày đối với tội phạm rất nghiêm trọng;
+a.4. Ba tháng mười lăm ngày đối với tội phạm đặc biệt nghiêm trọng.
+b) Nếu phải gia hạn thời hạn chuẩn bị xét xử, thì thời hạn chuẩn bị xét xử kể từ ngày Thẩm phán được phân công chủ toạ phiên toà nhận hồ sơ vụ án tối đa là:
+b.1. Hai tháng đối với tội phạm ít nghiêm trọng;
+b.2. Hai tháng mười lăm ngày đối với tội phạm nghiêm trọng;
+b.3. Ba tháng mười lăm ngày đối với tội phạm rất nghiêm trọng;
+b.4. Bốn tháng mười lăm ngày đối với tội phạm đặc biệt nghiêm trọng.
+c) Trong các trường hợp được hướng dẫn tại các điểm a và b trên đây mà phiên toà không mở được trong thời hạn mười lăm ngày, kể từ ngày có quyết định đưa vụ án ra xét xử vì có lý do chính đáng, thì thời hạn chuẩn bị xét xử đối với từng trường hợp được cộng thêm tối đa là mười lăm ngày nữa.
+1. 2.2. Trường hợp Thẩm phán được phân công chủ toạ phiên toà ra quyết định trả hồ sơ để điều tra bổ sung, quyết định đình chỉ hoặc tạm đình chỉ vụ án Trong trường hợp Thẩm phán được phân công chủ toạ phiên toà ra quyết định trả hồ sơ để điều tra bổ sung, quyết định đình chỉ hoặc tạm đình chỉ vụ án thì thời hạn chuẩn bị xét xử kết thúc vào ngày ra quyết định. Đối với trường hợp ra quyết định tạm đình chỉ vụ án thì thời hạn chuẩn bị xét xử được bắt đầu tính lại, kể từ ngày Toà án tiếp tục giải quyết vụ án khi lý do tạm đình chỉ không còn."
+ENTITY,E40_1,DIEM,Điểm,structure,1189,1371,"a. Nếu các tài liệu có trong hồ sơ vụ án chưa đầy đủ so với bản kê tài liệu hoặc bản cáo trạng chưa được giao cho bị can, thì không nhận hồ sơ vụ án vì chưa đúng quy định của BLTTHS."
+ENTITY,E40_2,DIEM,Điểm,structure,1372,1631,"b. Nếu các tài liệu có trong hồ sơ vụ án đã đầy đủ so với bản kê tài liệu và bản cáo trạng đã được giao cho bị can, thì nhận và vào ngay sổ thụ lý hồ sơ vụ án.
+Sau khi hồ sơ vụ án đã được thụ lý, Chánh án Toà án phân công ngay Thẩm phán làm chủ toạ phiên toà."
+ENTITY,E40_3,DIEM,Điểm,structure,4445,4511,"a) Vụ án có nhiều bị can, phạm tội có tổ chức hoặc phạm nhiều tội;"
+ENTITY,E40_4,DIEM,Điểm,structure,4512,4572,b) Vụ án liên quan đến nhiều lĩnh vực hoặc nhiều địa phương;
+ENTITY,E40_5,DIEM,Điểm,structure,4573,4764,"c) Vụ án có nhiều tài liệu, có các chứng cứ mâu thuẫn với nhau cần có thêm thời gian để nghiên cứu, tổng hợp các tài liệu có trong hồ sơ vụ án hoặc để tham khảo ý kiến của cơ quan chuyên môn."
+ENTITY,E40_6,DIEM,Điểm,structure,4846,5222,"a) Áp dụng biện pháp tạm giam là việc Chánh án hoặc Phó Chánh án Toà án theo đề nghị của Thẩm phán được phân công chủ toạ phiên toà ra lệnh tạm giam bị can, bị cáo trong trường hợp bị can, bị cáo chưa bị tạm giam hoặc đang bị tạm giam mà thời hạn tạm giam đã hết và căn cứ vào quy định tại Điều 88 của BLTTHS, xét thấy cần thiết tạm giam hoặc tiếp tục tạm giam bị can, bị cáo."
+ENTITY,E40_7,DIEM,Điểm,structure,5223,5665,"b) Thay đổi biện pháp tạm giam là việc Chánh án hoặc Phó Chánh án Toà án theo đề nghị của Thẩm phán được phân công chủ toạ phiên toà ra quyết định thay đổi biện pháp tạm giam bằng biện pháp ngăn chặn khác trong trường hợp bị can, bị cáo đang bị tạm giam, nhưng xét thấy không cần thiết tiếp tục tạm giam bị can, bị cáo mà có thể áp dụng biện pháp ngăn chặn khác (cấm đi khỏi nơi cư trú; bảo lĩnh; đặt tiền hoặc tài sản có giá trị để bảo đảm)."
+ENTITY,E40_8,DIEM,Điểm,structure,5666,6031,"c) Huỷ bỏ biện pháp tạm giam là việc Chánh án hoặc Phó Chánh án Toà án theo đề nghị của Thẩm phán được phân công chủ toạ phiên toà ra quyết định huỷ bỏ biện pháp tạm giam đối với bị can, bị cáo trong trường hợp bị can, bị cáo đang bị tạm giam, nhưng xét thấy không cần thiết tiếp tục tạm giam bị can, bị cáo và cũng không cần thiết áp dụng biện pháp ngăn chặn khác."
+ENTITY,E40_9,DIEM,Điểm,structure,6032,6221,"d) Sau khi quyết định áp dụng, thay đổi hoặc huỷ bỏ biện pháp tạm giam, nếu xét thấy cần thiết thì Chánh án hoặc Phó Chánh án Toà án vẫn có quyền huỷ bỏ hoặc áp dụng lại biện pháp tạm giam."
+ENTITY,E40_10,DIEM,Điểm,structure,6630,7167,"a) Đối với bị can đang bị tạm giam mà khi thời hạn tạm giam gần hết (thời hạn tạm giam còn lại không quá năm ngày) và xét thấy cần thiết tiếp tục tạm giam bị can thì đề nghị Chánh án hoặc Phó Chánh án Toà án ra lệnh tạm giam. Thời hạn tạm giam trong trường hợp này được tính kể từ ngày nhận hồ sơ vụ án và không được quá bốn mươi lăm ngày đối với tội phạm ít nghiêm trọng, hai tháng đối với tội phạm nghiêm trọng, hai tháng mười lăm ngày đối với tội phạm rất nghiêm trọng và ba tháng mười lăm ngày đối với tội phạm đặc biệt nghiêm trọng."
+ENTITY,E40_11,DIEM,Điểm,structure,7168,8606,"b) Đối với bị can đang bị tạm giam mà thời hạn tạm giam đang còn, thì khi thời hạn tạm giam gần hết (thời hạn tạm giam còn lại không quá năm ngày) cần phải xem xét có cần thiết tiếp tục tạm giam nữa hay không. Nếu xét thấy cần thiết tiếp tục tạm giam bị can (hoặc bị cáo, nếu đã có quyết định đưa vụ án ra xét xử) thì đề nghị Chánh án hoặc Phó Chánh án Toà án ra lệnh tạm giam. Thời hạn tạm giam trong trường hợp này được tính kể từ ngày tiếp theo ngày tạm giam cuối cùng của lệnh tạm giam trước đó và không được quá thời hạn chuẩn bị xét xử quy định tại Điều 176 của BLTTHS và được hướng dẫn tại điểm a tiểu mục 1.2.1 mục 1 Phần I của Nghị quyết này trừ đi thời hạn bị can (hoặc bị cáo) bị tạm giam, kể từ ngày Toà án nhận hồ sơ vụ án.
+Ví dụ: Ngày 01-02-2004, Toà án nhận được hồ sơ vụ án đối với bị can A. Bị can A bị Viện kiểm sát truy tố về tội phạm nghiêm trọng và đang bị tạm giam theo lệnh tạm giam của Viện kiểm sát đến hết ngày 15-02-2004. Khi thời hạn tạm giam theo lệnh tạm giam trước đó gần hết và xét thấy cần thiết tiếp tục tạm giam bị can (hoặc bị cáo, nếu đã có quyết định đưa vụ án ra xét xử) thì đề nghị Chánh án hoặc Phó Chánh án Toà án ra lệnh tạm giam kể từ ngày 16-02-2004 và thời hạn tạm giam không được quá bốn mươi lăm ngày (hai tháng là thời hạn chuẩn bị xét xử đối với tội phạm nghiêm trọng trừ đi mười lăm ngày bị can đã bị tạm giam theo lệnh tạm giam trước đó, kể từ ngày 01-02-2004 là ngày nhận hồ sơ vụ án)."
+ENTITY,E40_12,DIEM,Điểm,structure,8607,9498,"c) Đối với bị can đang được tại ngoại, nếu sau khi nhận hồ sơ vụ án hoặc trong thời hạn nghiên cứu hồ sơ vụ án xét thấy cần thiết áp dụng biện pháp tạm giam đối với họ, thì đề nghị Chánh án hoặc Phó Chánh án Toà án ra lệnh bắt và tạm giam ngay. Theo quy định tại đoạn 2 Điều 177 của BLTTHS thì thời hạn tạm giam để chuẩn bị xét xử không được quá thời hạn chuẩn bị xét xử quy định tại Điều 176 của BLTTHS và được tính kể từ ngày bắt bị can để tạm giam; do đó, trong trường hợp này phải tính thời hạn chuẩn bị xét xử theo quy định tại Điều 176 của BLTTHS và hướng dẫn tại điểm a tiểu mục 1.2.1 mục 1 Phần I của Nghị quyết này để xác định cụ thể ngày kết thúc thời hạn chuẩn bị xét xử và ghi thời hạn tạm giam trong ""Lệnh bắt và tạm giam"" như sau:
+""Thời hạn tạm giam tính từ ngày bắt để tạm giam cho đến ngày... tháng... năm..."" (ghi ngày, tháng, năm kết thúc thời hạn chuẩn bị xét xử sơ thẩm)."
+ENTITY,E40_13,DIEM,Điểm,structure,9499,9953,"d) Trong trường hợp phải gia hạn thời hạn chuẩn bị xét xử, nếu khi gần hết thời hạn tạm giam (thời hạn tạm giam còn lại không quá năm ngày) được hướng dẫn tại các điểm a, b và c tiểu mục 2.2 mục 2 Phần I của Nghị quyết này và xét thấy cần thiết tiếp tục tạm giam, thì Chánh án Toà án có quyền ra lệnh tạm giam tiếp. Thời hạn tạm giam trong trường hợp này không quá thời hạn được gia hạn để chuẩn bị xét xử quy định tại đoạn 2 khoản 2 Điều 176 của BLTTHS."
+ENTITY,E40_14,DIEM,Điểm,structure,9954,10597,"đ) Trường hợp trong vụ án có nhiều bị can bị truy tố về nhiều tội phạm khác nhau (tội phạm ít nghiêm trọng, tội phạm nghiêm trọng, tội phạm rất nghiêm trọng, tội phạm đặc biệt nghiêm trọng), thì thời hạn tạm giam đối với từng bị can không được quá thời hạn chuẩn bị xét xử đối với tội phạm nặng nhất mà bị can đó bị truy tố. Nếu khi hết thời hạn tạm giam theo hướng dẫn tại các điểm a, b, c và d tiểu mục 2.2 mục 2 Phần I của Nghị quyết này và xét thấy cần thiết tiếp tục tạm giam để hoàn thành việc xét xử, thì thực hiện việc tạm giam trong trường hợp để hoàn thành việc xét xử theo hướng dẫn tại tiểu mục 2.3 mục 2 Phần I của Nghị quyết này."
+ENTITY,E40_15,DIEM,Điểm,structure,10598,11046,"e) Trường hợp Thẩm phán được phân công chủ toạ phiên toà ra quyết định đình chỉ vụ án theo quy định tại khoản 2 Điều 105 và các điểm 3, 4, 5 và 6 Điều 107 của BLTTHS hoặc khi Viện kiểm sát rút toàn bộ quyết định truy tố trước khi mở phiên toà nếu bị can đang bị tạm giam, thì đề nghị Chánh án hoặc Phó Chánh án Toà án ra quyết định huỷ bỏ biện pháp tạm giam và trả tự do ngay cho bị can, nếu họ không bị giam, giữ về hành vi vi phạm pháp luật khác."
+ENTITY,E40_16,DIEM,Điểm,structure,15149,15388,"a) Đối với bị cáo đang bị tạm giam, thì phải tuyên bố: ""Giao bị cáo đang bị tạm giam cho những người có nhiệm vụ dẫn giải giám sát trong thời gian Hội đồng xét xử tạm nghỉ (hoặc trong thời gian Hội đồng xét xử vào phòng nghị án tho luận)""."
+ENTITY,E40_17,DIEM,Điểm,structure,15389,15699,"b) Đối với bị cáo không bị tạm giam thì phải tuyên bố: ""Bị cáo không bị tạm giam phải có mặt khi Hội đồng xét xử trở lại phòng xử án. Nếu vắng mặt không có lý do chính đáng và không được phép của chủ toạ phiên toà thì Hội đồng xét xử vẫn tiếp tục xét xử vụ án theo thủ tục chung hoặc tuyên án vắng mặt bị cáo""."
+ENTITY,E40_18,DIEM,Điểm,structure,16624,16965,"a) Tội phạm khác bằng tội phạm mà Viện kiểm sát đã truy tố là trường hợp điều luật quy định về trách nhiệm hình sự (hình phạt chính, hình phạt bổ sung) đối với hai tội phạm như nhau.
+Ví dụ: Bị cáo B bị Viện kiểm sát truy tố về tội ""Vận chuyển trái phép chất ma tuý"", thì Toà án có thể xét xử bị cáo B về tội ""Tàng trữ trái phép chất ma tuý""."
+ENTITY,E40_19,DIEM,Điểm,structure,16966,20155,"b) Tội phạm khác nhẹ hơn tội phạm mà Viện kiểm sát đã truy tố là trường hợp điều luật quy định về trách nhiệm hình sự (hình phạt chính, hình phạt bổ sung) đối với tội phạm khác nhẹ hơn so với tội phạm mà Viện kiểm sát đã truy tố. Để xác định tội nào nhẹ hơn, tội nào nặng hơn thì cần thực hiện theo thứ tự như sau:
+b.1. Trước hết xem xét hình phạt chính đối với hai tội phạm, nếu tội nào điều luật có quy định loại hình phạt nặng nhất nặng hơn thì tội đó nặng hơn.
+Ví dụ: Đối với tội cố ý gây thương tích (Điều 104 của Bộ luật hình sự), điều luật quy định loại hình phạt nặng nhất là tù chung thân, còn đối với tội giết người (Điều 93 của Bộ luật hình sự), điều luật quy định loại hình phạt nặng nhất là tử hình; do đó, tội giết người nặng hơn tội cố ý gây thương tích.
+b.2. Trong trường hợp điều luật quy định loại hình phạt nặng nhất đối với cả hai tội là tù có thời hạn (không quy định hình phạt tử hình, hình phạt tù chung thân) thì tội nào, điều luật quy định mức hình phạt tù cao nhất đối với tội ấy cao hơn là tội đó nặng hơn.
+Ví dụ: Đối với tội làm chết người trong khi thi hành công vụ (Điều 97 của Bộ luật hình sự), điều luật quy định mức hình phạt tù cao nhất là mười lăm năm, còn đối với tội vô ý làm chết người do vi phạm quy tắc nghề nghiệp hoặc quy tắc hành chính (Điều 99 của Bộ luật hình sự), điều luật quy định mức hình phạt tù cao nhất là mười hai năm; do đó, tội làm chết người trong khi thi hành công vụ nặng hơn tội vô ý làm chết người do vi phạm quy tắc nghề nghiệp hoặc quy tắc hành chính.
+b.3. Trong trường hợp điều luật quy định loại hình phạt nặng nhất đối với cả hai tội đều tử hình hoặc đều tù chung thân hoặc đều tù có thời hạn và mức hình phạt tù cao nhất đối với cả hai tội như nhau, thì tội nào điều luật quy định mức hình phạt tù khởi điểm cao hơn là tội đó nặng hơn.
+Ví dụ: Đối với tội hiếp dâm (Điều 111 của Bộ luật hình sự) và đối với tội hiếp dâm trẻ em (Điều 112 của Bộ luật hình sự), điều luật đều quy định hình phạt tử hình, hình phạt tù chung thân và hình phạt tù có thời hạn có mức cao nhất là hai mươi năm, nhưng mức hình phạt tù khởi điểm đối với tội hiếp dâm là hai năm, còn đối với tội hiếp dâm trẻ em là bảy năm; do đó, tội hiếp dâm trẻ em nặng hơn tội hiếp dâm.
+b.4. Trong trường hợp điều luật quy định loại hình phạt nặng nhất đối với cả hai tội đều là tù có thời hạn và mức hình phạt tù khởi điểm, mức hình phạt tù cao nhất như nhau, thì tội nào điều luật còn quy định loại hình phạt chính khác nhẹ hơn (ci tạo không giam giữ, phạt tiền, cảnh cáo) thì tội đó nhẹ hơn. Nếu điều luật cùng quy định các loại hình phạt như nhau, nhưng có mức cao nhất, mức khởi điểm khác nhau thì việc xác định tội nặng hơn, tội nhẹ hơn được thực hiện tương tự như hướng dẫn tại các điểm b.2 và b.3 tiểu mục 2.2 mục 2 Phần II của Nghị quyết này.
+b.5. Trong trường hợp điều luật quy định các loại hình phạt chính đối với cả hai tội như nhau, thì tội nào điều luật còn quy định hình phạt bổ sung là tội đó nặng hơn. Nếu điều luật cùng quy định hình phạt bổ sung như nhau, nhưng đối với tội này thì hình phạt bổ sung là bắt buộc, còn đối với tội khác hình phạt bổ sung có thể áp dụng, thì tội nào điều luật quy định hình phạt bổ sung bắt buộc là tội đó nặng hơn."
+ENTITY,E40_20,DIEM,Điểm,structure,23809,23815,a) ...
+ENTITY,E40_21,DIEM,Điểm,structure,23816,23822,b) ...
+ENTITY,E40_22,DIEM,Điểm,structure,23866,23872,a. ...
+ENTITY,E40_23,DIEM,Điểm,structure,23873,23879,b. ...
+ENTITY,E40_24,DIEM,Điểm,structure,24072,24340,"a) Đối với bị cáo phải hỏi họ để họ khai về: họ tên; ngày, tháng, năm sinh; nơi sinh; nơi cư trú (nơi đăng ký hộ khẩu thường trú; nơi tạm trú); nghề nghiệp; trình độ văn hoá; hoàn cảnh gia đình (bố, mẹ, vợ hoặc chồng, con); tiền án, tiền sự; ngày bị tạm giữ, tạm giam."
+ENTITY,E40_25,DIEM,Điểm,structure,24341,24490,b) Đối với người đại diện hợp pháp của bị cáo phải hỏi họ để họ khai về: họ tên; tuổi; nghề nghiệp; nơi sinh; nơi cư trú; quan hệ thế nào với bị cáo.
+ENTITY,E40_26,DIEM,Điểm,structure,24491,24983,"c) Đối với người bị hại, nguyên đơn dân sự, bị đơn dân sự, người có quyền lợi, nghĩa vụ liên quan đến vụ án và người đại diện hợp pháp của họ phải hỏi họ để họ khai về: họ tên; tuổi; nghề nghiệp; nơi cư trú. Trong trường hợp người bị hại, nguyên đơn dân sự, bị đơn dân sự, người có quyền lợi, nghĩa vụ liên quan đến vụ án là cơ quan, tổ chức thì khai về: tên và địa chỉ trụ sở chính của cơ quan, tổ chức; họ tên; tuổi; nghề nghiệp; nơi cư trú của người đại diện hợp pháp cho cơ quan, tổ chức."
+ENTITY,E40_27,DIEM,Điểm,structure,29101,29205,a) Phần mở đầu. Trong phần này phải ghi đầy đủ các vấn đề theo quy định tại khoản 2 Điều 224 của BLTTHS.
+ENTITY,E40_28,DIEM,Điểm,structure,29206,30280,"b) Phần nội dung. Trong phần này có hai phần nhỏ như sau:
+- Phần thứ nhất là phần ""nhận thấy"", trong đó phải trình bày các hành vi phạm tội của bị cáo mà Viện kiểm sát truy tố; số của cáo trạng; ngày, tháng, năm ra cáo trạng; tên Viện kiểm sát truy tố bị cáo; tội danh, điểm, khoản, điều của Bộ luật hình sự và mức hình phạt mà Viện kiểm sát đề nghị áp dụng đối với bị cáo. Cuối cùng của phần này ghi: ""Sau khi xem xét, kiểm tra những tài liệu, chứng cứ tại phiên toà, qua việc xét hỏi và tranh luận tại phiên toà"" và chuyển sang phần thứ hai.
+- Phần thứ hai là phần ""xét thấy"", trong đó phân tích những chứng cứ xác định có tội và chứng cứ xác định không có tội đối với các hành vi mà Viện kiểm sát đã truy tố đối với bị cáo; nếu xác định bị cáo phạm tội thì phạm tội gì, theo điểm, khoản, điều luật nào của Bộ luật hình sự; tình tiết tăng nặng, tình tiết giảm nhẹ trách nhiệm hình sự đối với bị cáo và hướng xử lý. Nếu bị cáo không phạm tội thì phải ghi rõ những căn cứ xác định bị cáo không phạm tội và giải quyết việc khôi phục danh dự, quyền và lợi ích hợp pháp cho họ."
+ENTITY,E40_29,DIEM,Điểm,structure,30281,30608,"c. Phần quyết định. Trong phần này ghi những quyết định của Toà án. Nếu bị cáo phạm tội thì ghi tuyên bố bị cáo phạm tội gì; áp dụng điểm, khoản, điều luật của Bộ luật hình sự để xử phạt bị cáo và hình phạt cụ thể; các biện pháp tư pháp; án phí hình sự và án phí dân sự sơ thẩm. Cuối cùng là ghi quyền kháng cáo đối với bản án."
+ENTITY,E40_30,DIEM,Điểm,structure,33305,33450,"a) Nếu thời hạn hình phạt tù còn lại từ 45 (bốn mươi lăm) ngày trở lên, thì ghi thời hạn tạm giam là 45 (bốn mươi lăm) ngày, kể từ ngày tuyên án;"
+ENTITY,E40_31,DIEM,Điểm,structure,33451,33761,"b) Nếu thời hạn hình phạt tù còn lại dưới 45 (bốn mươi lăm) ngày, thì ghi thời hạn tạm giam bằng thời hạn hình phạt tù còn lại, kể từ ngày tuyên án và cần ghi thêm: ""hết thời hạn tạm giam này, Trại tạm giam có trách nhiệm trả tự do ngay cho bị cáo, nếu họ không bị giam, giữ về hành vi vi phạm pháp luật khác""."
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R6_2,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_2,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R22_1,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_2,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_45,THUOC,Thuộc,E39_56,E34_5,,
+RELATION,R22_46,THUOC,Thuộc,E39_57,E34_5,,
+RELATION,R22_47,THUOC,Thuộc,E39_58,E34_5,,
+RELATION,R22_48,THUOC,Thuộc,E39_59,E34_5,,
+RELATION,R22_49,THUOC,Thuộc,E39_60,E34_5,,
+RELATION,R22_50,THUOC,Thuộc,E39_61,E34_5,,
+RELATION,R22_51,THUOC,Thuộc,E39_62,E34_5,,
+RELATION,R22_52,THUOC,Thuộc,E39_63,E34_5,,
+RELATION,R22_53,THUOC,Thuộc,E39_64,E34_5,,
+RELATION,R22_54,THUOC,Thuộc,E39_65,E34_5,,
+RELATION,R22_55,THUOC,Thuộc,E39_66,E34_5,,
+RELATION,R22_56,THUOC,Thuộc,E39_67,E34_5,,
+RELATION,R22_57,THUOC,Thuộc,E40_7,E39_3,,
+RELATION,R22_58,THUOC,Thuộc,E40_8,E39_3,,
+RELATION,R22_59,THUOC,Thuộc,E40_9,E39_3,,
+RELATION,R22_60,THUOC,Thuộc,E40_10,E39_4,,
+RELATION,R22_61,THUOC,Thuộc,E40_11,E39_4,,
+RELATION,R22_62,THUOC,Thuộc,E40_12,E39_4,,
+RELATION,R22_63,THUOC,Thuộc,E40_13,E39_4,,
+RELATION,R22_64,THUOC,Thuộc,E40_14,E39_4,,
+RELATION,R22_65,THUOC,Thuộc,E40_15,E39_4,,
+RELATION,R22_66,THUOC,Thuộc,E40_16,E39_17,,
+RELATION,R22_67,THUOC,Thuộc,E40_17,E39_17,,
+RELATION,R22_68,THUOC,Thuộc,E40_18,E39_20,,
+RELATION,R22_69,THUOC,Thuộc,E40_19,E39_20,,
+RELATION,R22_70,THUOC,Thuộc,E40_20,E39_29,,
+RELATION,R22_71,THUOC,Thuộc,E40_21,E39_29,,
+RELATION,R22_72,THUOC,Thuộc,E40_22,E39_30,,
+RELATION,R22_73,THUOC,Thuộc,E40_23,E39_30,,
+RELATION,R22_74,THUOC,Thuộc,E40_24,E39_32,,
+RELATION,R22_75,THUOC,Thuộc,E40_25,E39_32,,
+RELATION,R22_76,THUOC,Thuộc,E40_26,E39_32,,
+RELATION,R22_77,THUOC,Thuộc,E40_27,E39_43,,
+RELATION,R22_78,THUOC,Thuộc,E40_28,E39_43,,
+RELATION,R22_79,THUOC,Thuộc,E40_29,E39_43,,
+RELATION,R22_80,THUOC,Thuộc,E40_30,E39_51,,
+RELATION,R22_81,THUOC,Thuộc,E40_31,E39_51,,
+RELATION,R22_82,THUOC,Thuộc,E40_3,E39_1,,
+RELATION,R22_83,THUOC,Thuộc,E40_4,E39_1,,
+RELATION,R22_84,THUOC,Thuộc,E40_5,E39_1,,
+RELATION,R22_85,THUOC,Thuộc,E40_6,E39_3,,
+RELATION,R22_91,THUOC,Thuộc,E36_6,E34_1,,
+RELATION,R22_92,THUOC,Thuộc,E39_1,E36_6,,
+RELATION,R22_105,THUOC,Thuộc,E39_68,E36_6,,
+RELATION,R22_106,THUOC,Thuộc,E40_1,E39_68,,
+RELATION,R22_107,THUOC,Thuộc,E40_2,E39_68,,
+RELATION,R22_108,THUOC,Thuộc,E39_69,E36_6,,
+RELATION,R22_109,THUOC,Thuộc,E36_7,E34_1,,
+RELATION,R22_110,THUOC,Thuộc,E39_3,E36_7,,
+RELATION,R22_111,THUOC,Thuộc,E39_4,E36_7,,
+RELATION,R22_112,THUOC,Thuộc,E39_5,E36_7,,
+RELATION,R22_121,THUOC,Thuộc,E36_8,E34_1,,
+RELATION,R22_122,THUOC,Thuộc,E39_7,E36_8,,
+RELATION,R22_123,THUOC,Thuộc,E39_8,E36_8,,
+RELATION,R22_129,THUOC,Thuộc,E36_9,E34_1,,
+RELATION,R22_130,THUOC,Thuộc,E39_10,E36_9,,
+RELATION,R22_131,THUOC,Thuộc,E39_11,E36_9,,
+RELATION,R22_132,THUOC,Thuộc,E39_12,E36_9,,
+RELATION,R22_133,THUOC,Thuộc,E39_13,E36_9,,
+RELATION,R22_138,THUOC,Thuộc,E36_10,E34_2,,
+RELATION,R22_139,THUOC,Thuộc,E39_15,E36_10,,
+RELATION,R22_140,THUOC,Thuộc,E39_16,E36_10,,
+RELATION,R22_141,THUOC,Thuộc,E39_17,E36_10,,
+RELATION,R22_155,THUOC,Thuộc,E36_11,E34_2,,
+RELATION,R22_156,THUOC,Thuộc,E39_19,E36_11,,
+RELATION,R22_157,THUOC,Thuộc,E39_20,E36_11,,
+RELATION,R22_158,THUOC,Thuộc,E39_21,E36_11,,
+RELATION,R22_159,THUOC,Thuộc,E39_22,E36_11,,
+RELATION,R22_168,THUOC,Thuộc,E36_12,E34_2,,
+RELATION,R22_176,THUOC,Thuộc,E36_13,E34_2,,
+RELATION,R22_177,THUOC,Thuộc,E39_25,E36_13,,
+RELATION,R22_178,THUOC,Thuộc,E39_26,E36_13,,
+RELATION,R22_179,THUOC,Thuộc,E39_27,E36_13,,
+RELATION,R22_180,THUOC,Thuộc,E39_28,E36_13,,
+RELATION,R22_181,THUOC,Thuộc,E39_29,E36_13,,
+RELATION,R22_182,THUOC,Thuộc,E39_30,E36_13,,
+RELATION,R22_186,THUOC,Thuộc,E36_14,E34_3,,
+RELATION,R22_187,THUOC,Thuộc,E39_32,E36_14,,
+RELATION,R22_188,THUOC,Thuộc,E39_33,E36_14,,
+RELATION,R22_189,THUOC,Thuộc,E39_34,E36_14,,
+RELATION,R22_190,THUOC,Thuộc,E39_35,E36_14,,
+RELATION,R22_191,THUOC,Thuộc,E39_36,E36_14,,
+RELATION,R22_194,THUOC,Thuộc,E36_15,E34_4,,
+RELATION,R22_195,THUOC,Thuộc,E39_38,E36_15,,
+RELATION,R22_196,THUOC,Thuộc,E39_39,E36_15,,
+RELATION,R22_197,THUOC,Thuộc,E39_40,E36_15,,
+RELATION,R22_198,THUOC,Thuộc,E39_41,E36_15,,
+RELATION,R22_213,THUOC,Thuộc,E36_16,E34_4,,
+RELATION,R22_214,THUOC,Thuộc,E39_43,E36_16,,
+RELATION,R22_215,THUOC,Thuộc,E39_44,E36_16,,
+RELATION,R22_227,THUOC,Thuộc,E36_17,E34_4,,
+RELATION,R22_228,THUOC,Thuộc,E39_46,E36_17,,
+RELATION,R22_229,THUOC,Thuộc,E39_47,E36_17,,
+RELATION,R22_230,THUOC,Thuộc,E39_48,E36_17,,
+RELATION,R22_231,THUOC,Thuộc,E39_49,E36_17,,
+RELATION,R22_238,THUOC,Thuộc,E36_18,E34_4,,
+RELATION,R22_239,THUOC,Thuộc,E39_51,E36_18,,
+RELATION,R22_240,THUOC,Thuộc,E39_52,E36_18,,
+RELATION,R22_244,THUOC,Thuộc,E36_19,E34_4,,
+RELATION,R22_245,THUOC,Thuộc,E39_54,E36_19,,
+RELATION,R22_246,THUOC,Thuộc,E39_55,E36_19,,

@@ -1,0 +1,108 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,92,Nghị quyết số 03/2019/NQ-HĐTP Hướng dẫn áp dụng Điều 324 của Bộ luật Hình sự về tội rửa tiền
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,29,03/2019/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E4_1,NGANH,Ngành,metadata,11276,11308,Lao động - Thương binh và Xã hội
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,285,309,ngày 24 tháng 5 năm 2019
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,11321,11335,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,11356,11366,2019-07-07
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,11390,11402,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,112,135,TÒA ÁN NHÂN DÂN TỐI CAO
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,11182,11190,CHÁNH ÁN
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,11199,11214,Nguyễn Hòa Bình
+ENTITY,E13_1,VB_DUOC_HUONG_DAN_AP_DUNG,Văn bản được hướng dẫn áp dụng,reference,11501,11587,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Hình sự số 100/2015/QH13 số 12/2017/QH14"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,457,511,Luật Tổ chức Tòa án nhân dân ngày 24 tháng 11 năm 2014
+ENTITY,E38_1,DIEU,Điều,structure,765,890,"Điều 1. Phạm vi điều chỉnh
+Nghị quyết này hướng dẫn áp dụng một số quy định tại Điều 324 của Bộ luật Hình sự về tội rửa tiền."
+ENTITY,E38_2,DIEU,Điều,structure,891,984,Điều 2. Về một số thuật ngữ được sử dụng trong hướng dẫn áp dụng Điều 324 của Bộ luật Hình sự
+ENTITY,E38_3,DIEU,Điều,structure,2992,3014,Điều 3. Tội phạm nguồn
+ENTITY,E38_4,DIEU,Điều,structure,5089,5125,Điều 4. Về một số tình tiết định tội
+ENTITY,E38_5,DIEU,Điều,structure,8391,8439,Điều 5. Về một số tình tiết định khung hình phạt
+ENTITY,E38_6,DIEU,Điều,structure,10497,10679,"Điều 6. Hiệu lực thi hành
+Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 23 tháng 5 năm 2019 và có hiệu lực thi hành kể từ ngày 07 tháng 7 năm 2019."
+ENTITY,E39_1,KHOAN,Khoản,structure,985,1071,"1. Tiền bao gồm Việt Nam đồng, ngoại tệ; có thể là tiền mặt hoặc tiền trong tài khoản."
+ENTITY,E39_2,KHOAN,Khoản,structure,1072,1363,"2. Tài sản bao gồm vật, giấy tờ có giá, các quyền tài sản theo quy định của Bộ luật Dân sự, có thể tồn tại dưới hình thức vật chất hoặc phi vật chất; động sản hoặc bất động sản; hữu hình hoặc vô hình; các chứng từ hoặc công cụ pháp lý chứng minh quyền sở hữu hoặc lợi ích đối với tài sản đó."
+ENTITY,E39_3,KHOAN,Khoản,structure,1364,1523,"3. Tiền, tài sản do phạm tội mà có là tiền, tài sản có được từ hành vi phạm tội. Việc xác định hành vi phạm tội được căn cứ vào một trong các tài liệu sau đây:"
+ENTITY,E39_4,KHOAN,Khoản,structure,1926,2023,4. Biết hay có cơ sở để biết là do người khác phạm tội mà có là một trong các trường hợp sau đây:
+ENTITY,E39_5,KHOAN,Khoản,structure,3015,4879,"1. Tội phạm nguồn là tội phạm được quy định trong Bộ luật Hình sự và tài sản có được từ tội phạm đó trở thành đối tượng của tội rửa tiền (ví dụ: Tội giết người; Tội cố ý gây thương tích hoặc gây tổn hại cho sức khỏe của người khác; Tội mua bán người; Tội mua bán người dưới 16 tuổi; Tội cướp tài sản; Tội bắt cóc nhằm chiếm đoạt tài sản; Tội trộm cắp tài sản; Tội lừa đảo chiếm đoạt tài sản; Tội lạm dụng tín nhiệm chiếm đoạt tài sản; Tội buôn lậu; Tội vận chuyển trái phép hàng hoá, tiền tệ qua biên giới; Tội sản xuất, buôn bán hàng cấm; Tội tàng trữ, vận chuyển hàng cấm; Tội sản xuất, buôn bán hàng giả; Tội trốn thuế; Tội làm, tàng trữ, vận chuyển, lưu hành tiền giả; Tội thao túng thị trường chứng khoán; Tội xâm phạm quyền tác giả, quyền liên quan; Tội vi phạm quy định về bảo vệ động vật hoang dã; Tội gây ô nhiễm môi trường; Tội vi phạm quy định về bảo vệ động vật nguy cấp, quý, hiếm; Tội tàng trữ trái phép chất ma tuý; Tội vận chuyển trái phép chất ma túy; Tội mua bán trái phép chất ma túy; Tội chiếm đoạt chất ma túy; Tội khủng bố; Tội tài trợ khủng bố; Tội bắt cóc con tin; Tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vũ khí quân dụng, phương tiện kỹ thuật quân sự; Tội đánh bạc; Tội tổ chức đánh bạc hoặc gá bạc; Tội tham ô tài sản; Tội nhận hối lộ; Tội lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản...). Hành vi phạm tội nguồn có thể do công dân Việt Nam, pháp nhân thương mại Việt Nam, người không quốc tịch thường trú tại Việt Nam thực hiện trong hoặc ngoài lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+Cũng được coi là tội phạm nguồn đối với hành vi phạm tội thực hiện ngoài lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam, do công dân nước ngoài, pháp nhân thương mại nước ngoài thực hiện mà theo quy định của Bộ luật Hình sự Việt Nam, pháp luật của quốc gia, vùng lãnh thổ sở tại quy định là tội phạm."
+ENTITY,E39_6,KHOAN,Khoản,structure,4880,5088,2. Việc truy cứu trách nhiệm hình sự về tội rửa tiền có thể được tiến hành đồng thời với việc truy cứu trách nhiệm hình sự về tội phạm nguồn và không loại trừ việc truy cứu trách nhiệm hình sự tội phạm nguồn.
+ENTITY,E39_7,KHOAN,Khoản,structure,5126,5517,"1. Hành vi tham gia trực tiếp hoặc gián tiếp vào các giao dịch tài chính, ngân hàng quy định tại điểm a khoản 1 Điều 324 của Bộ luật Hình sự là thực hiện, hỗ trợ thực hiện hoặc thông qua người khác để thực hiện, hỗ trợ thực hiện một trong các hành vi sau đây nhằm che giấu nguồn gốc bất hợp pháp của tiền, tài sản do mình phạm tội mà có hoặc có cơ sở để biết là do người khác phạm tội mà có:"
+ENTITY,E39_8,KHOAN,Khoản,structure,6433,6808,"2. Hành vi tham gia trực tiếp hoặc gián tiếp vào các giao dịch khác quy định tại điểm a khoản 1 Điều 324 của Bộ luật Hình sự là thực hiện, hỗ trợ thực hiện hoặc thông qua người khác để thực hiện, hỗ trợ thực hiện một trong các hành vi sau đây nhằm che giấu nguồn gốc bất hợp pháp của tiền, tài sản do mình phạm tội mà có hoặc có cơ sở để biết là do người khác phạm tội mà có:"
+ENTITY,E39_9,KHOAN,Khoản,structure,6981,7414,"3. Hành vi sử dụng tiền, tài sản do mình phạm tội mà có hoặc biết hay có cơ sở để biết là do người khác thực hiện hành vi phạm tội mà có vào việc tiến hành các hoạt động kinh doanh quy định tại điểm b khoản 1 Điều 324 của Bộ luật Hình sự là hành vi dùng tiền, tài sản thực hiện một, một số hoặc tất cả các công đoạn của quá trình đầu tư, từ sản xuất đến tiêu thụ sản phẩm hoặc cung ứng dịch vụ trên thị trường nhằm mục đích sinh lợi."
+ENTITY,E39_10,KHOAN,Khoản,structure,7415,7814,"4. Hành vi sử dụng tiền, tài sản do mình phạm tội mà có hoặc biết hay có cơ sở để biết là do người khác thực hiện hành vi phạm tội mà có vào việc tiến hành các hoạt động khác quy định tại điểm b khoản 1 Điều 324 của Bộ luật Hình sự là hành vi dùng tiền, tài sản để làm dịch vụ, xây dựng trường học, bệnh viện hoặc sử dụng dưới danh nghĩa tài trợ, từ thiện, viện trợ nhân đạo hoặc các hoạt động khác."
+ENTITY,E39_11,KHOAN,Khoản,structure,7815,8390,"5. Hành vi cản trở việc xác minh thông tin về nguồn gốc, bản chất thực sự, vị trí, quá trình di chuyển hoặc quyền sở hữu đối với tiền, tài sản do mình phạm tội mà có hoặc biết hay có cơ sở để biết do người khác phạm tội mà có quy định tại điểm c khoản 1 Điều 324 của Bộ luật Hình sự là hành vi cố ý gây khó khăn, trở ngại cho việc làm rõ nguồn gốc, bản chất thực sự, vị trí, quá trình di chuyển hoặc quyền sở hữu đối với tiền, tài sản (ví dụ: cung cấp tài liệu, thông tin giả; không cung cấp, cung cấp không đầy đủ; hủy bỏ, tiêu hủy, sửa chữa, tẩy xóa tài liệu, chứng cứ...)."
+ENTITY,E39_12,KHOAN,Khoản,structure,8440,8725,"1. Lợi dụng chức vụ, quyền hạn quy định tại điểm b khoản 2 Điều 324 của Bộ luật Hình sự là trường hợp người có chức vụ, quyền hạn sử dụng chức vụ, quyền hạn để thực hiện một trong các hành vi quy định tại khoản 1 Điều 324 của Bộ luật Hình sự và hướng dẫn tại Điều 4 của Nghị quyết này."
+ENTITY,E39_13,KHOAN,Khoản,structure,8726,9343,"2. Phạm tội 02 lần trở lên quy định tại điểm c khoản 2 Điều 324 của Bộ luật Hình sự là trường hợp người phạm tội đã thực hiện hành vi phạm tội rửa tiền từ 02 lần trở lên nhưng đều chưa bị truy cứu trách nhiệm hình sự và chưa hết thời hiệu truy cứu trách nhiệm hình sự.
+Ví dụ: Ngày 15-5-2018, Nguyễn Văn A có hành vi rửa tiền. Ngày 15-2-2019, A lại có hành vi rửa tiền và bị bắt giữ. Cả hai lần phạm tội trên, Nguyễn Văn A đều chưa bị truy cứu trách nhiệm hình sự về tội rửa tiền. Trong trường hợp này, Nguyễn Văn A bị truy cứu trách nhiệm về tội rửa tiền theo quy định tại điểm c khoản 2 Điều 324 của Bộ luật Hình sự."
+ENTITY,E39_14,KHOAN,Khoản,structure,9344,9766,"3. Có tính chất chuyên nghiệp quy định tại điểm d khoản 2 Điều 324 của Bộ luật Hình sự là trường hợp người phạm tội thực hiện hành vi rửa tiền từ 05 lần trở lên (không phân biệt đã bị truy cứu trách nhiệm hình sự hay chưa bị truy cứu trách nhiệm hình sự, nếu chưa hết thời hiệu truy cứu trách nhiệm hình sự hoặc chưa được xóa án tích) và người phạm tội lấy khoản lợi bất chính thu được từ việc rửa tiền làm nguồn thu nhập."
+ENTITY,E39_15,KHOAN,Khoản,structure,9767,10121,"4. Dùng thủ đoạn tinh vi, xảo quyệt quy định tại điểm đ khoản 2 Điều 324 của Bộ luật Hình sự là trường hợp người phạm tội sử dụng công nghệ cao, móc nối với người có chức vụ, quyền hạn trong cơ quan Nhà nước hoặc thủ đoạn gian dối, mánh khóe khác để tiêu hủy chứng cứ, che giấu hành vi phạm tội, gây khó khăn cho việc phát hiện, điều tra, xử lý tội phạm."
+ENTITY,E39_16,KHOAN,Khoản,structure,10122,10496,"5. Gây ảnh hưởng xấu đến an toàn hệ thống tài chính, tiền tệ quốc gia quy định tại điểm c khoản 3 Điều 324 của Bộ luật Hình sự là trường hợp hành vi phạm tội làm ảnh hưởng đến tính ổn định hoặc gây ra nguy cơ mất ổn định hệ thống tài chính, tiền tệ quốc gia (ví dụ: làm mất lòng tin của công chúng, làm mất khả năng thanh khoản, mất cân bằng hệ thống tài chính, tiền tệ...)."
+ENTITY,E40_1,DIEM,Điểm,structure,1524,1557,"a) Bản án, quyết định của Tòa án;"
+ENTITY,E40_2,DIEM,Điểm,structure,1558,1703,"b) Tài liệu, chứng cứ do các cơ quan có thẩm quyền tiến hành tố tụng cung cấp (ví dụ: Quyết định khởi tố vụ án, Kết luận điều tra, Cáo trạng...);"
+ENTITY,E40_3,DIEM,Điểm,structure,1704,1925,"c) Tài liệu, chứng cứ khác để xác định hành vi phạm tội (ví dụ: tài liệu, chứng cứ của Tổ chức Cảnh sát hình sự quốc tế (Interpol), Lực lượng đặc nhiệm tài chính quốc tế (FATF), tài liệu tương trợ tư pháp về hình sự... )."
+ENTITY,E40_4,DIEM,Điểm,structure,2024,2220,"a) Người phạm tội trực tiếp biết được tiền, tài sản do người khác phạm tội mà có (ví dụ: người phạm tội được người thực hiện hành vi phạm tội nguồn cho biết là tiền, tài sản do họ phạm tội mà có);"
+ENTITY,E40_5,DIEM,Điểm,structure,2221,2444,"b) Qua các phương tiện thông tin đại chúng, người phạm tội biết được người khác thực hiện hành vi phạm tội nguồn (ví dụ: hành vi phạm tội của người thực hiện tội phạm nguồn đã được báo, đài phát thanh, truyền hình đưa tin);"
+ENTITY,E40_6,DIEM,Điểm,structure,2445,2778,"c) Bằng nhận thức thông thường, người phạm tội có thể biết được tiền, tài sản do người khác phạm tội mà có (ví dụ: biết chồng là nhân viên của cơ quan nhà nước có mức lương là 08 triệu đồng/tháng và không có nguồn thu nhập khác nhưng A vẫn nhận của chồng số tiền 10 tỷ đồng để góp vốn vào doanh nghiệp mà không hỏi rõ về nguồn tiền);"
+ENTITY,E40_7,DIEM,Điểm,structure,2779,2991,"d) Theo quy định của pháp luật, người phạm tội buộc phải biết nguồn gốc tiền, tài sản do người khác phạm tội mà có (ví dụ: A mua xe ô tô của B không có giấy tờ với giá bằng một phần mười trị giá của chiếc xe đó)."
+ENTITY,E40_8,DIEM,Điểm,structure,5518,5609,"a) Mở tài khoản và gửi tiền, rút tiền tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài;"
+ENTITY,E40_9,DIEM,Điểm,structure,5610,5690,"b) Góp vốn, huy động vốn vào doanh nghiệp bằng tiền, tài sản dưới mọi hình thức;"
+ENTITY,E40_10,DIEM,Điểm,structure,5691,5843,"c) Rút tiền với bất kỳ hình thức nào và bằng các công cụ khác nhau như: séc, hối phiếu, các phương tiện thanh toán hợp pháp theo quy định của pháp luật."
+ENTITY,E40_11,DIEM,Điểm,structure,5844,5872,"d) Cầm cố, thế chấp tài sản;"
+ENTITY,E40_12,DIEM,Điểm,structure,5873,5904,"đ) Cho vay, cho thuê tài chính;"
+ENTITY,E40_13,DIEM,Điểm,structure,5905,5940,e) Chuyển tiền hoặc chuyển giá trị;
+ENTITY,E40_14,DIEM,Điểm,structure,5941,5996,"g) Giao dịch cổ phiếu, trái phiếu, giấy tờ có giá khác;"
+ENTITY,E40_15,DIEM,Điểm,structure,5997,6031,h) Tham gia phát hành chứng khoán;
+ENTITY,E40_16,DIEM,Điểm,structure,6032,6153,"i) Bảo lãnh và cam kết về tài chính, kinh doanh ngoại tệ, công cụ thị trường tiền tệ và chứng khoán có thể chuyển nhượng;"
+ENTITY,E40_17,DIEM,Điểm,structure,6154,6200,k) Quản lý danh mục đầu tư cá nhân và tập thể;
+ENTITY,E40_18,DIEM,Điểm,structure,6201,6264,"l) Quản lý tiền mặt hoặc chứng khoán cho tổ chức, cá nhân khác;"
+ENTITY,E40_19,DIEM,Điểm,structure,6265,6346,m) Quản lý hoặc cung cấp bảo hiểm nhân thọ và bảo hiểm liên quan đến đầu tư khác;
+ENTITY,E40_20,DIEM,Điểm,structure,6347,6432,"n) Các hành vi khác trong giao dịch tài chính, ngân hàng theo quy định của pháp luật."
+ENTITY,E40_21,DIEM,Điểm,structure,6809,6848,"a) Hoạt động (chơi, kinh doanh) casino;"
+ENTITY,E40_22,DIEM,Điểm,structure,6849,6899,"b) Tham gia (chơi, kinh doanh) trò chơi có thưởng;"
+ENTITY,E40_23,DIEM,Điểm,structure,6900,6918,c) Mua bán cổ vật;
+ENTITY,E40_24,DIEM,Điểm,structure,6919,6980,"d) Các hành vi khác không liên quan đến tài chính, ngân hàng."
+RELATION,R1_1,DUOC_HUONG_DAN_AP_DUNG,Được hướng dẫn áp dụng,E2_1,E13_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R22_1,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_2,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_10,E38_4,,
+RELATION,R22_5,THUOC,Thuộc,E39_11,E38_4,,
+RELATION,R22_6,THUOC,Thuộc,E39_12,E38_5,,
+RELATION,R22_7,THUOC,Thuộc,E39_13,E38_5,,
+RELATION,R22_8,THUOC,Thuộc,E39_14,E38_5,,
+RELATION,R22_9,THUOC,Thuộc,E39_15,E38_5,,
+RELATION,R22_10,THUOC,Thuộc,E39_16,E38_5,,
+RELATION,R22_11,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_12,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_13,THUOC,Thuộc,E39_4,E38_2,,
+RELATION,R22_14,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_15,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,R22_16,THUOC,Thuộc,E39_7,E38_4,,
+RELATION,R22_17,THUOC,Thuộc,E39_8,E38_4,,
+RELATION,R22_18,THUOC,Thuộc,E39_9,E38_4,,
+RELATION,R22_19,THUOC,Thuộc,E40_1,E39_3,,
+RELATION,R22_20,THUOC,Thuộc,E40_10,E39_7,,
+RELATION,R22_21,THUOC,Thuộc,E40_11,E39_7,,
+RELATION,R22_22,THUOC,Thuộc,E40_12,E39_7,,
+RELATION,R22_23,THUOC,Thuộc,E40_13,E39_7,,
+RELATION,R22_24,THUOC,Thuộc,E40_14,E39_7,,
+RELATION,R22_25,THUOC,Thuộc,E40_15,E39_7,,
+RELATION,R22_26,THUOC,Thuộc,E40_16,E39_7,,
+RELATION,R22_27,THUOC,Thuộc,E40_17,E39_7,,
+RELATION,R22_28,THUOC,Thuộc,E40_18,E39_7,,
+RELATION,R22_29,THUOC,Thuộc,E40_19,E39_7,,
+RELATION,R22_30,THUOC,Thuộc,E40_2,E39_3,,
+RELATION,R22_31,THUOC,Thuộc,E40_20,E39_7,,
+RELATION,R22_32,THUOC,Thuộc,E40_21,E39_8,,
+RELATION,R22_33,THUOC,Thuộc,E40_22,E39_8,,
+RELATION,R22_34,THUOC,Thuộc,E40_23,E39_8,,
+RELATION,R22_35,THUOC,Thuộc,E40_24,E39_8,,
+RELATION,R22_36,THUOC,Thuộc,E40_3,E39_3,,
+RELATION,R22_37,THUOC,Thuộc,E40_4,E39_4,,
+RELATION,R22_38,THUOC,Thuộc,E40_5,E39_4,,
+RELATION,R22_39,THUOC,Thuộc,E40_6,E39_4,,
+RELATION,R22_40,THUOC,Thuộc,E40_7,E39_4,,
+RELATION,R22_41,THUOC,Thuộc,E40_8,E39_7,,
+RELATION,R22_42,THUOC,Thuộc,E40_9,E39_7,,

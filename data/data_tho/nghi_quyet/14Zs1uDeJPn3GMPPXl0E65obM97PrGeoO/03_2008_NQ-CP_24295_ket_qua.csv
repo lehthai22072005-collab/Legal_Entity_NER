@@ -1,0 +1,25 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,92,Nghị quyết số 03/2008/NQ-CP Ban hành chương trình hành động của Chính phủ nhiệm kỳ 2007-2011
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,27,03/2008/NQ-CP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E4_1,NGANH,Ngành,metadata,1010,1028,Kế hoạch và Đầu tư
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,184,208,Ngày 11 tháng 1 năm 2008
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1041,1055,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1076,1086,2008-02-04
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1110,1122,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,64,73,Chính phủ
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,906,925,THỦ TƯỚNG CHÍNH PHỦ
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,933,948,Nguyễn Tấn Dũng
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,331,379,Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,1230,1344,Quyết định số 961/QĐ-TTg Ban hành Chương trình hành động của Chính phủ về phát triển dịch vụ giai đoạn 2009 - 2011
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,1364,1478,Quyết định số 961/QĐ-TTg Ban hành Chương trình hành động của Chính phủ về phát triển dịch vụ giai đoạn 2009 - 2011
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,1498,1711,Quyết định số 05/2008/QĐ-BXD Ban hành chương trình hành động của ngành Xây dựng thực hiện Nghị quyết số 03/2008/NQ-CP ngày 11/01/2008 của Chính phủ Ban  hành Chương trình hành động của Chính phủ nhiệm kỳ 2007-2011
+ENTITY,E38_1,DIEU,Điều,structure,513,612,Điều 1. Ban hành kèm theo Nghị quyết này Chương trình hành động của Chính phủ nhiệm kỳ 2007 - 2011.
+ENTITY,E38_2,DIEU,Điều,structure,613,695,"Điều 2. Nghị quyết này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo."
+ENTITY,E38_3,DIEU,Điều,structure,696,888,"Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị quyết "
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

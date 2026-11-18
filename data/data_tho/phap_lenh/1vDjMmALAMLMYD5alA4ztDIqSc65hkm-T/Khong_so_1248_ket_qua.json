@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "document_id": "1248",
+  "document_code": "Không số",
+  "file_name": "Khong_so_1248.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Pháp lệnh số Không số Về việc quy định cấm nấu rượu trái phép",
+    "so_hieu": "Không số",
+    "loai_van_ban": "PHÁP LỆNH",
+    "co_quan_ban_hanh": "ỦY BAN THƯỜNG VỤ QUỐC HỘI",
+    "ngay_ban_hanh": "ngày 13 tháng 10 năm 1966",
+    "ngay_co_hieu_luc": "1966-10-28",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Ngưng hiệu lực",
+    "chuc_danh": "CHỦ TỊCH",
+    "nguoi_ky": "Trường Chinh",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Pháp lệnh số Không số Về việc quy định cấm nấu rượu trái phép\nPHÁP LỆNH\nQUY ĐỊNH CẤM NẤU RƯỢU TRÁI PHÉP\nCăn cứ vào Điều 53 của Hiến pháp nước Việt Nam dân chủ cộng hoà;\nĐể tiết kiệm lương thực, bảo vệ sức khoẻ của nhân dân và tăng cường quản lý lao động trong các hợp tác xã sản xuất nông nghiệp, góp phần vào sự nghiệp xây dựng chủ nghĩa xã hội và chống Mỹ, cứu nước;\nĐể đẩy mạnh việc giáo dục nếp sống mới và xoá bỏ tệ nấu rượu trái phép,\nUỶ BAN THƯỜNG VỤ QUỐC HỘI QUY ĐỊNH.\nĐiều 1.- Nghiêm cấm nấu trái phép các loại rượu bằng gạo, ngô, khoai, sắn, đường và mật đường, sản xuất trái phép các loại men để nấu rượu và tàng trữ, chuyên chở hoặc mua bán các loại rượu và men đó.\nĐiều 2.- Ai vi phạm Điều 1 trên đây sẽ bị xử lý như sau:\n1- Bị xử phạt hành chính từ 20đ đến 100đ,\n2- Bị truy tố trước Toà án và có thể bị phạt tù từ 3 tháng đến 1 năm và phạt tiền từ 100đ đến 500đ hoặc một trong hai hình phạt đó, nếu phạm vào một trong những trường hợp dưới đây:\n- Đã được giáo dục nhiều lần hoặc đã bị xử lý hành chính mà vẫn phạm pháp;\n- Khối lượng rượu hoặc men phạm pháp khá lớn;\n- Phạm pháp có tổ chức.\nTrong trường hợp phạm pháp có nhiều tình tiết nghiêm trọng thì có thể bị phạt tù đến 2 năm và phạt tiền đến 1.000 đ hoặc một trong hai hình phạt đó.\nTrong mọi trường hợp, tang vật đều bị tịch thu.\nĐiều 3.- Việc thống nhất quản lý kinh doanh rượu của cơ quan Nhà nước, việc nấu rượu bằng các nguyên liệu khác ngoài các nguyên liệu nói ở điều 1, cũng như việc sản xuất các loại men do Chính phủ quy định.\nĐiều 4.- Hội đồng nhân dân các khu tự trị và Hội đồng nhân dân các tỉnh trực thuộc trung ương có đồng bào miền núi căn cứ vào pháp lệnh này mà quy định cho thích hợp với miền núi.\nNhững quy định ấy phải được Uỷ ban thường vụ Quốc hội phê chuẩn.\nĐiều 5.- Những quy định trái với pháp lệnh này đều bị bãi bỏ.\nPháp lệnh này đã được Uỷ ban thường vụ Quốc hội thông qua ngày 13 tháng 10 năm 1966.\nỦY BAN THƯỜNG VỤ QUỐC HỘI\nNƯỚC VIỆT NAM DÂN CHỦ CỘNG HÒA\nCHỦ TỊCH\nTrường Chinh\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Ngày có hiệu lực]: 1966-10-28\n[Tình trạng hiệu lực]: Ngưng hiệu lực\n[Lĩnh vực]: Chưa phân loại\n[Căn cứ ban hành]: Hiến pháp năm 1959\n[Văn bản được quy định chi tiết, hướng dẫn thi hành]: Hiến pháp năm 1959",
+  "structural_units": [
+    {
+      "id": "unit_preamble",
+      "type": "PREAMBLE",
+      "title": "Phần mở đầu và Căn cứ ban hành",
+      "start": 0,
+      "end": 477,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_00_00_001",
+      "type": "DIEU",
+      "title": "Điều 1",
+      "start": 477,
+      "end": 678,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_00_00_002",
+      "type": "DIEU",
+      "title": "Điều 2",
+      "start": 678,
+      "end": 1301,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_00_00_003",
+      "type": "DIEU",
+      "title": "Điều 3",
+      "start": 1301,
+      "end": 1507,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_00_00_004",
+      "type": "DIEU",
+      "title": "Điều 4",
+      "start": 1507,
+      "end": 1752,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_00_00_005",
+      "type": "DIEU",
+      "title": "Điều 5",
+      "start": 1752,
+      "end": 1977,
+      "parent_id": null
+    }
+  ],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 61,
+      "text": "Pháp lệnh số Không số Về việc quy định cấm nấu rượu trái phép",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 13,
+      "end": 21,
+      "text": "Không số",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 62,
+      "end": 71,
+      "text": "PHÁP LỆNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 1872,
+      "end": 1897,
+      "text": "ngày 13 tháng 10 năm 1966",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 2111,
+      "end": 2125,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 2050,
+      "end": 2060,
+      "text": "1966-10-28",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 2084,
+      "end": 2098,
+      "text": "Ngưng hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 1899,
+      "end": 1924,
+      "text": "ỦY BAN THƯỜNG VỤ QUỐC HỘI",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 1956,
+      "end": 1964,
+      "text": "CHỦ TỊCH",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 1965,
+      "end": 1977,
+      "text": "Trường Chinh",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E14_1",
+      "start": 2218,
+      "end": 2236,
+      "text": "Hiến pháp năm 1959",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 2145,
+      "end": 2163,
+      "text": "Hiến pháp năm 1959",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E38_1",
+      "start": 477,
+      "end": 483,
+      "text": "Điều 1",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E38_2",
+      "start": 678,
+      "end": 684,
+      "text": "Điều 2",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E38_3",
+      "start": 1301,
+      "end": 1307,
+      "text": "Điều 3",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E38_4",
+      "start": 1507,
+      "end": 1513,
+      "text": "Điều 4",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E38_5",
+      "start": 1752,
+      "end": 1758,
+      "text": "Điều 5",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E39_1",
+      "start": 735,
+      "end": 776,
+      "text": "1- Bị xử phạt hành chính từ 20đ đến 100đ,",
+      "code": "KHOAN",
+      "label": "Khoản",
+      "scope": "structure"
+    },
+    {
+      "id": "E39_2",
+      "start": 777,
+      "end": 958,
+      "text": "2- Bị truy tố trước Toà án và có thể bị phạt tù từ 3 tháng đến 1 năm và phạt tiền từ 100đ đến 500đ hoặc một trong hai hình phạt đó, nếu phạm vào một trong những trường hợp dưới đây:",
+      "code": "KHOAN",
+      "label": "Khoản",
+      "scope": "structure"
+    }
+  ],
+  "relations": [
+    {
+      "id": "RCAN_CU_BAN_HANH_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "RTHUOC_1",
+      "from_id": "E39_1",
+      "to_id": "E38_2",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "RTHUOC_2",
+      "from_id": "E39_2",
+      "to_id": "E38_2",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1",
+      "from_id": "E14_1",
+      "to_id": "E2_1",
+      "code": "DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Được quy định chi tiết, hướng dẫn thi hành"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

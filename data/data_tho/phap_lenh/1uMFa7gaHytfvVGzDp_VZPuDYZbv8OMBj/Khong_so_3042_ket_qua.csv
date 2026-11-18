@@ -1,0 +1,294 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,52,91,"PHÁP LỆNH
+TỔ CHỨC VIỆN KIỂM SÁT QUÂN SỰ"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,52,61,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,28222,28247,ngày 21 tháng 12 năm 1985
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,28312,28326,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,28347,28357,1986-01-03
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,28379,28389,1993-04-26
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,28413,28433,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,6836,6844,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,28447,28455,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,28468,28480,Trường Chinh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,28643,28661,Hiến pháp năm 1980
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,28500,28550,Luật Tổ chức Viện kiểm sát nhân dân số 3-LCT/HĐNN7
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,28570,28588,Hiến pháp năm 1980
+ENTITY,E35_1,CHUONG,Chương,structure,376,405,"CHƯƠNG I
+NHỮNG QUY ĐỊNH CHUNG"
+ENTITY,E35_2,CHUONG,Chương,structure,6070,6122,"CHƯƠNG II
+CÁC MẶT CÔNG TÁC CỦA VIỆN KIỂM SÁT QUÂN SỰ"
+ENTITY,E35_3,CHUONG,Chương,structure,21148,21202,"CHƯƠNG III
+TỔ CHỨC VÀ CÁN BỘ CỦA VIỆN KIỂM SÁT QUÂN SỰ"
+ENTITY,E35_4,CHUONG,Chương,structure,28071,28080,CHƯƠNG IV
+ENTITY,E36_1,MUC,Mục,structure,6123,6152,"MỤC 1
+CÔNG TÁC KIỂM SÁT CHUNG"
+ENTITY,E36_2,MUC,Mục,structure,10101,10133,"MỤC 2
+CÔNG TÁC KIỂM SÁT ĐIỀU TRA"
+ENTITY,E36_3,MUC,Mục,structure,13091,13121,"MỤC 3
+CÔNG TÁC KIỂM SÁT XÉT XỬ"
+ENTITY,E36_4,MUC,Mục,structure,14964,15000,"MỤC 4
+CÔNG TÁC KIỂM SÁT CHẤP HÀNH ÁN"
+ENTITY,E36_5,MUC,Mục,structure,17196,17299,"MỤC 5
+CÔNG TÁC KIỂM SÁT GIAM, GIỮ, CẢI TẠO Ở ĐƠN VỊ
+KỶ LUẬT CỦA QUÂN ĐỘI VÀ PHẠT GIAM KỶ LUẬT QUÂN NHÂN"
+ENTITY,E36_6,MUC,Mục,structure,20428,20451,"MỤC 6
+CÔNG TÁC ĐIỀU TRA"
+ENTITY,E38_1,DIEU,Điều,structure,406,412,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1238,1244,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1694,1700,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,2815,2821,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,3648,3654,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,4254,4260,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,4757,4763,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,6153,6159,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,6965,6971,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,9085,9092,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,10134,10141,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,10979,10986,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,12501,12508,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,13122,13129,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,13323,13330,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,14203,14210,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,15001,15008,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,15363,15370,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,16651,16658,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,17300,17307,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,17905,17912,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,19357,19364,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,20452,20459,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,20975,20982,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,21203,21210,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,22404,22411,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,23688,23695,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,23952,23959,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,24177,24184,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,24662,24669,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,26284,26291,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,27270,27277,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,27868,27875,Điều 33
+ENTITY,E38_34,DIEU,Điều,structure,28102,28109,Điều 34
+ENTITY,E39_1,KHOAN,Khoản,structure,2972,3039,1- Kiểm sát chung việc tuân theo pháp luật trong Quân đội nhân dân;
+ENTITY,E39_2,KHOAN,Khoản,structure,3040,3183,2- Kiểm sát việc tuân theo pháp luật trong việc điều tra của các cơ quan điều tra đối với các vụ án thuộc thẩm quyền xét xử của Toà án quân sự;
+ENTITY,E39_3,KHOAN,Khoản,structure,3184,3262,3- Kiểm sát việc tuân theo pháp luật trong việc xét xử của các Toà án quân sự;
+ENTITY,E39_4,KHOAN,Khoản,structure,3263,3390,4- Kiểm sát việc tuân theo pháp luật trong việc chấp hành các bản án và quyết định đã có hiệu lực pháp luật của Toà án quân sự;
+ENTITY,E39_5,KHOAN,Khoản,structure,3391,3573,"5- Kiểm sát việc tuân theo pháp luật của các cơ quan, đơn vị trong quân đội có trách nhiệm trong việc giam, giữ, cải tạo ở đơn vị kỷ luật của quân đội và phạt giam kỷ luật quân nhân;"
+ENTITY,E39_6,KHOAN,Khoản,structure,3574,3647,6- Điều tra các vụ án hình sự thuộc thẩm quyền của Viện kiểm sát quân sự.
+ENTITY,E39_7,KHOAN,Khoản,structure,4261,4433,"1- Các đơn vị đóng quân ở địa phương nào thì chịu sự kiểm sát việc tuân theo pháp luật của Viện kiểm sát quân sự tại địa phương đó, trừ các đơn vị có Viện kiểm sát quân sự."
+ENTITY,E39_8,KHOAN,Khoản,structure,4434,4756,"2- Người chỉ huy và cơ quan chỉ huy các cấp phải kịp thời thông báo về các tội phạm và các vi phạm pháp luật xẩy ra ở đơn vị mình cho Viện trưởng Viện kiểm sát quân sự; trong trường hợp cần thiết thì kịp thời thông báo cho Viện trưởng Viện kiểm sát quân sự gần nhất, đồng thời thông báo cho Viện kiểm sát quân sự cấp mình."
+ENTITY,E39_9,KHOAN,Khoản,structure,4764,5445,"1- Các Viện kiểm sát quân sự tổ chức và hoạt động theo chế độ tập trung, thống nhất.
+Viện kiểm sát quân sự do Viện trưởng lãnh đạo. Viện trưởng Viện kiểm sát quân sự cấp dưới chịu sự lãnh đạo của Viện trưởng Viện kiểm sát quân sự cấp trên. Khi thực hành chức năng của mình, các Viện kiểm sát quân sự chỉ căn cứ vào pháp luật và sự lãnh đạo thống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao và Viện trưởng Viện kiểm sát quân sự trung ương, không phụ thuộc vào người chỉ huy và cơ quan chỉ huy quân sự.
+Viện trưởng Viện kiểm sát quân sự trung ương chịu trách nhiệm trước Viện trưởng Viện kiểm sát nhân dân tối cao về công tác kiểm sát việc tuân theo pháp luật trong quân đội."
+ENTITY,E39_10,KHOAN,Khoản,structure,5446,5648,"2- Viện trưởng Viện kiểm sát quân sự trung ương do Hội đồng Nhà nước cử và bãi miễn, theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao sau khi đã thống nhất ý kiến với Bộ trưởng Bộ quốc phòng."
+ENTITY,E39_11,KHOAN,Khoản,structure,5649,6069,"3- Các Phó Viện trưởng Viện kiểm sát quân sự trung ương do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm và bãi miễn trong số kiểm sát viên quân sự cao cấp, theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương.
+Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự các cấp dưới do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm và bãi miễn, theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương."
+ENTITY,E39_12,KHOAN,Khoản,structure,7083,7968,"1- Yêu cầu các cơ quan quản lý quân sự, các cấp chỉ huy, các đơn vị cùng cấp và cấp dưới, các đơn vị thuộc cấp trên đóng tại địa phương và các cơ quan Nhà nước, các tổ chức xã hội, khi những cơ quan và tổ chức xã hội ấy có liên quan tới việc vi phạm pháp luật, xâm phạm lợi ích của quân đội:
+a) Cung cấp cho Viện kiểm sát quân sự các văn bản, tài liệu cần thiết cho việc xác định việc vi phạm pháp luật;
+b) Thông báo cho Viện kiểm sát quân sự biết các hành vi xâm phạm lợi ích của Nhà nước, của quân đội, của tập thể và quyền lợi chính đáng của quân nhân, công nhân, viên chức quốc phòng và công dân khác đã xảy ra trong cơ quan, đơn vị mình và kết quả việc xử lý các hành vi đó;
+c) Kiểm tra việc vi phạm pháp luật của đơn vị cấp dưới trực thuộc và thông báo kết quả cho Viện kiểm sát quân sự biết;
+d) Cử chuyên viên để làm rõ những vấn đề cần thiết thuộc phạm vi trách nhiệm của mình."
+ENTITY,E39_13,KHOAN,Khoản,structure,7969,8101,2- Yêu cầu cơ quan thanh tra quân đội cùng cấp thanh tra việc vi phạm pháp luật và thông báo kết quả cho Viện kiểm sát quân sự biết.
+ENTITY,E39_14,KHOAN,Khoản,structure,8102,8235,"3- Yêu cầu các quân nhân, công nhân, viên chức quốc phòng và các công dân khác trả lời về việc vi phạm pháp luật có liên quan đến họ."
+ENTITY,E39_15,KHOAN,Khoản,structure,8236,8672,"4- Kiểm sát tại chỗ việc tuân theo pháp luật của các cơ quan, đơn vị nói ở điểm 1 Điều này trong việc áp dụng các biện pháp quản lý và xử lý hành chính, giải quyết các khiếu nại và tố cáo của quân nhân, công nhân, viên chức quốc phòng và công dân khác, khi thấy có vi phạm pháp luật; triệu tập hoặc tham dự các cuộc họp bàn các biện pháp giải quyết, phòng ngừa những việc vi phạm pháp luật của các cơ quan, đơn vị đó khi thấy cần thiết."
+ENTITY,E39_16,KHOAN,Khoản,structure,8673,9084,"5- Kiến nghị hoặc kháng nghị với các cơ quan, đơn vị và các cấp chỉ huy nói ở điểm 1 Điều này, yêu cầu sửa đổi, bãi bỏ hoặc đình chỉ thi hành các văn bản, biện pháp hoặc việc vi phạm pháp luật, xử lý người chịu trách nhiệm về những việc làm đó. Trong trường hợp cần thiết thì khởi tố về hình sự hoặc áp dụng các biện pháp thích đáng để bảo đảm bồi thường cho người bị thiệt hại do việc vi phạm pháp luật gây ra."
+ENTITY,E39_17,KHOAN,Khoản,structure,10352,10480,"1- Mọi hành vi phạm tội đều phải được điều tra để xử lý theo pháp luật, không để lọt người phạm tội, không làm oan người vô tội;"
+ENTITY,E39_18,KHOAN,Khoản,structure,10481,10637,"2- Không để một người nào bị bắt, bị giam, giữ, bị hạn chế các quyền công dân, bị xâm phạm tính mạng, tài sản, danh dự và nhân phẩm một cách trái pháp luật;"
+ENTITY,E39_19,KHOAN,Khoản,structure,10638,10904,"3- Việc khởi tố và điều tra phải đúng quy định của pháp luật. Trong việc điều tra phải thu thập cả chứng cứ kết tội và chứng cứ gỡ tội, phải làm rõ những tình tiết tăng nặng hoặc giảm nhẹ trách nhiệm của bị cáo, tìm ra những nguyên nhân và điều kiện gây ra tội phạm;"
+ENTITY,E39_20,KHOAN,Khoản,structure,10905,10978,4- Việc truy cứu trách nhiệm hình sự phải có đủ căn cứ và đúng pháp luật.
+ENTITY,E39_21,KHOAN,Khoản,structure,11065,11208,"1- Kiểm sát việc khởi tố hình sự của cơ quan điều tra, hoặc khởi tố hình sự và chuyển vụ án đến cơ quan điều tra để yêu cầu tiến hành điều tra;"
+ENTITY,E39_22,KHOAN,Khoản,structure,11209,11569,"2- Phê chuẩn hoặc không phê chuẩn lệnh bắt, tạm giam, gia hạn tạm giam, tha, tạm tha, khám xét và các biện pháp khác của cơ quan điều tra, theo quy định của pháp luật; ra các quyết định bắt, tạm giam, gia hạn tạm giam, tha, tạm tha, khám xét, thu giữ tang vật và chuyển đến cơ quan điều tra để thi hành; yêu cầu cơ quan điều tra truy nã bị can đang trốn tránh;"
+ENTITY,E39_23,KHOAN,Khoản,structure,11570,11809,"3- Đề ra yêu cầu điều tra, trả lại hồ sơ vụ án khi thấy chứng cứ chưa đầy đủ và yêu cầu điều tra bổ sung; yêu cầu cơ quan điều tra cung cấp những tài liệu cần thiết về tội phạm và vi phạm pháp luật, thông báo tình hình phạm pháp đã xảy ra;"
+ENTITY,E39_24,KHOAN,Khoản,structure,11810,11993,"4- Kiểm sát việc khám nghiệm hiện trường, kiểm sát việc hỏi cung bị can hoặc các việc khác trong công tác điều tra của cơ quan điều tra; trực tiếp hỏi cung bị can, khi thấy cần thiết;"
+ENTITY,E39_25,KHOAN,Khoản,structure,11994,12233,"5- Quyết định truy tố hoặc miễn tố, đình chỉ hoặc tạm đình chỉ điều tra, di lý vụ án, huỷ bỏ các quyết định thiếu căn cứ hoặc trái pháp luật của cơ quan điều tra. Trong trường hợp quyết định truy tố thì Viện kiểm sát quân sự làm cáo trạng;"
+ENTITY,E39_26,KHOAN,Khoản,structure,12234,12500,"6- Yêu cầu cơ quan điều tra thay đổi nhân viên điều tra đã vi phạm pháp luật trong khi tiến hành điều tra; sửa chữa việc vi phạm pháp luật trong công tác điều tra.
+Trong trường hợp nhân viên điều tra phạm tội trong công tác điều tra thì truy cứu trách nhiệm hình sự."
+ENTITY,E39_27,KHOAN,Khoản,structure,13407,13463,1- Tham dự phiên toà trù bị của Toà án quân sự cùng cấp;
+ENTITY,E39_28,KHOAN,Khoản,structure,13464,13553,"2- Tham gia tố tụng, đọc cáo trạng và luận tội tại phiên toà của Toà án quân sự cùng cấp;"
+ENTITY,E39_29,KHOAN,Khoản,structure,13554,13653,3- Yêu cầu Toà án quân sự cùng cấp chuyển hồ sơ những vụ án cần thiết cho công tác kiểm sát xét xử;
+ENTITY,E39_30,KHOAN,Khoản,structure,13654,13791,4- Kháng nghị theo thủ tục phúc thẩm các bản án và quyết định sơ thẩm chưa có hiệu lực pháp luật của Toà án quân sự cùng cấp và cấp dưới;
+ENTITY,E39_31,KHOAN,Khoản,structure,13792,14202,"5- Kháng nghị theo thủ tục giám đốc thẩm các bản án và quyết định đã có hiệu lực pháp luật của các Toà án quân sự cấp dưới, khi thấy có vi phạm pháp luật;
+Viện trưởng Viện kiểm sát nhân dân tối cao có quyền kháng nghị các bản án và quyết định đã có hiệu lực pháp luật của Toà án quân sự các cấp theo thủ tục giám đốc thẩm khi thấy có vi phạm pháp luật hoặc theo thủ tục tái thẩm khi phát hiện có tình tiết mới."
+ENTITY,E39_32,KHOAN,Khoản,structure,14211,14603,"1- Viện trưởng Viện kiểm sát quân sự trung ương có quyền tham dự cuộc họp của tập thể Chánh án, các Phó Chánh án và các thẩm phán Toà án quân sự cấp cao bàn về việc hướng dẫn áp dụng pháp luật và đường lối xét xử.
+Trong trường hợp Viện trưởng Viện kiểm sát quân sự trung ương không nhất trí với quyết định của Toà án quân sự cấp cao thì báo cáo lên Viện trưởng Viện kiểm sát nhân dân tối cao."
+ENTITY,E39_33,KHOAN,Khoản,structure,14604,14963,"2- Viện trưởng Viện kiểm sát quân sự Quân khu và cấp tương đương có quyền tham dự cuộc họp của Uỷ ban thẩm phán Toà án quân sự cùng cấp bàn về việc áp dụng pháp luật và đường lối xét xử.
+Trong trường hợp không nhất trí với nghị quyết của Uỷ ban thẩm phán Toà án quân sự quân khu và cấp tương đương thì báo cáo lên Viện trưởng Viện kiểm sát quân sự trung ương."
+ENTITY,E39_34,KHOAN,Khoản,structure,15453,15887,"1- Yêu cầu cơ quan chấp hành án và đơn vị hữu quan:
+a) Tự kiểm tra việc chấp hành các bản án và quyết định của Toà án quân sự đã có hiệu lực pháp luật và thông báo kết quả kiểm tra cho Viện kiểm sát quân sự biết;
+b) Cung cấp những tài liệu, văn bản hoặc xuất trình các hồ sơ, sổ sách, giấy tờ có liên quan đến việc chấp hành án;
+c) Chấp hành các bản án và quyết định của Toà án quân sự đã có hiệu lực pháp luật mà chưa được chấp hành."
+ENTITY,E39_35,KHOAN,Khoản,structure,15888,16323,"2- Kiểm sát việc tuân theo pháp luật của các cơ quan, đơn vị, tổ chức của quân đội, các cơ quan Nhà nước, tổ chức xã hội và những người hữu quan trong việc chấp hành các bản án và quyết định của Toà án quân sự đã có hiệu lực pháp luật; kiểm sát việc tuân theo pháp luật của các cơ quan, đơn vị đó trong việc giải quyết khiếu nại, tố cáo của quân nhân, công nhân, viên chức quốc phòng và của các công dân khác đối với việc chấp hành án."
+ENTITY,E39_36,KHOAN,Khoản,structure,16324,16650,"3- Kiến nghị hoặc kháng nghị với các cơ quan, đơn vị hữu quan, yêu cầu sửa đổi, bãi bỏ hoặc đình chỉ thi hành những văn bản, biện pháp hoặc việc vi phạm pháp luật trong việc chấp hành án; yêu cầu xử lý hành chính người chịu trách nhiệm về việc vi phạm pháp luật đó. Trong trường hợp cần thiết thì truy cứu trách nhiệm hình sự."
+ENTITY,E39_37,KHOAN,Khoản,structure,17528,17665,"1- Các việc giam, giữ, cải tạo và việc phạt giam kỷ luật quân nhân phải có căn cứ, đúng pháp luật và đúng điều lệnh kỷ luật của quân đội;"
+ENTITY,E39_38,KHOAN,Khoản,structure,17666,17788,"2- Các chế độ giam, giữ, cải tạo ở đơn vị kỷ luật của quân đội và phạt giam kỷ luật quân nhân được chấp hành nghiêm chỉnh;"
+ENTITY,E39_39,KHOAN,Khoản,structure,17789,17904,"3- Tính mạng, tài sản, danh dự, nhân phẩm và các quyền khác của đương sự không bị pháp luật tước bỏ được tôn trọng."
+ENTITY,E39_40,KHOAN,Khoản,structure,18059,18182,"1- Thường kỳ và bất thường kiểm sát tại chỗ các nơi giam, giữ, cải tạo ở đơn vị kỷ luật và nơi phạt giam kỷ luật quân nhân;"
+ENTITY,E39_41,KHOAN,Khoản,structure,18183,18339,"2- Xem xét các sổ sách, hồ sơ, tài liệu của cơ quan, đơn vị cùng cấp và cấp dưới về việc giam, giữ, cải tạo ở đơn vị kỷ luật và phạt giam kỷ luật quân nhân;"
+ENTITY,E39_42,KHOAN,Khoản,structure,18340,18437,"3- Tiếp nhận và giải quyết khiếu nại, tố cáo của các đương sự; trực tiếp lấy lời khai báo của họ;"
+ENTITY,E39_43,KHOAN,Khoản,structure,18438,18631,"4- Yêu cầu cơ quan cùng cấp quản lý các nơi giam, giữ cải tạo ở đơn vị kỷ luật và phạt giam kỷ luật quân nhân kiểm tra những nơi đó và thông báo kết quả kiểm tra cho Viện kiểm sát quân sự biết;"
+ENTITY,E39_44,KHOAN,Khoản,structure,18632,18830,"5- Yêu cầu cơ quan cùng cấp, cấp dưới và người có trách nhiệm trả lời về văn bản, biện pháp hoặc việc vi phạm pháp luật trong việc giam, giữ, cải tạo ở đơn vị kỷ luật và phạt giam kỷ luật quân nhân;"
+ENTITY,E39_45,KHOAN,Khoản,structure,18831,18999,"6- Quyết định việc trả tự do cho người bị giam, giữ, cải tạo ở đơn vị kỷ luật và bị phạt giam kỷ luật không có căn cứ, trái pháp luật và điều lệnh kỷ luật của quân đội;"
+ENTITY,E39_46,KHOAN,Khoản,structure,19000,19356,"7- Kiến nghị hoặc kháng nghị với cơ quan cùng cấp và cấp dưới, yêu cầu sửa đổi, bãi bỏ hoặc đình chỉ thi hành các văn bản, biện pháp hoặc việc làm trái pháp luật và xử lý người chịu trách nhiệm về việc làm trái pháp luật đó. Trong trường hợp người làm công tác giam, giữ, cải tạo và phạt giam kỷ luật quân nhân mà phạm tội thì truy cứu trách nhiệm hình sự."
+ENTITY,E39_47,KHOAN,Khoản,structure,20460,20610,"1- Các Viện kiểm sát quân sự điều tra các vụ án hình sự, theo quy định của pháp luật, trừ các vụ án thuộc quyền điều tra của cơ quan an ninh quân đội."
+ENTITY,E39_48,KHOAN,Khoản,structure,20611,20974,"2- Đối với các vụ án hình sự có nhiều bị can hoặc có nhiều tội phạm, trong đó có bị can hoặc tội phạm thuộc quyền điều tra của Viện kiểm sát quân sự thì cơ quan điều tra của Viện kiểm sát quân sự điều tra toàn bộ vụ án. Trong trường hợp cần thiết thì Viện kiểm sát quân sự có thể chuyển một phần hoặc toàn bộ vụ án cho cơ quan điều tra khác để tiến hành điều tra."
+ENTITY,E39_49,KHOAN,Khoản,structure,21211,21568,"1- Viện kiểm sát quân sự trung ương gồm có Viện trưởng, Phó Viện trưởng thứ nhất, các Phó Viện trưởng và các kiểm sát viên.
+Viện kiểm sát quân sự trung ương do Viện trưởng lãnh đạo.
+Các Phó Viện trưởng giúp Viện trưởng, được Viện trưởng phân công và chịu trách nhiệm trước Viện trưởng.
+Phó Viện trưởng thứ nhất thay thế Viện trưởng khi Viện trưởng vắng mặt."
+ENTITY,E39_50,KHOAN,Khoản,structure,21569,22403,"2- Viện kiểm sát quân sự trung ương có Uỷ ban kiểm sát gồm Viện trưởng, các Phó Viện trưởng và một số kiểm sát viên cao cấp do Viện trưởng Viện kiểm sát nhân dân tối cao chỉ định, theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương.
+Uỷ ban kiểm sát Viện kiểm sát quân sự trung ương căn cứ vào chỉ thị của Viện trưởng Viện kiểm sát nhân dân tối cao và nhiệm vụ của quân đội, thảo luận phương hướng, nhiệm vụ, kế hoạch công tác kiểm sát, các dự thảo chỉ thị, báo cáo của Viện trưởng và những việc quan trọng khác mà Viện trưởng thấy cần thiết.
+Trong các cuộc họp của Uỷ ban kiểm sát, Viện trưởng kết luận và quyết định cuối cùng. Trong trường hợp Viện trưởng quyết định khác với ý kiến đa số trong Uỷ ban kiểm sát thì Viện trưởng thực hiện quyết định của mình, đồng thời báo cáo lên Viện trưởng Viện kiểm sát nhân dân tối cao."
+ENTITY,E39_51,KHOAN,Khoản,structure,22412,22843,"1- Viện kiểm sát quân sự Quân khu, Quân chủng, Tổng cục và cấp tương đương có Viện trưởng, Phó Viện trưởng thứ nhất, các Phó Viện trưởng và các kiểm sát viên.
+Viện kiểm sát quân sự Quân khu, Quân chủng, Tổng cục và cấp tương đương do Viện trưởng lãnh đạo.
+Các Phó Viện trưởng giúp Viện trưởng, được Viện trưởng phân công và chịu trách nhiệm trước Viện trưởng.
+Phó Viện trưởng thứ nhất thay thế Viện trưởng khi Viện trưởng vắng mặt."
+ENTITY,E39_52,KHOAN,Khoản,structure,22844,23687,"2- Viện kiểm sát quân sự Quân khu, Quân chủng, Tổng cục và cấp tương đương có Uỷ ban kiểm sát gồm Viện trưởng, các Phó Viện trưởng và một số kiểm sát viên do Viện trưởng Viện kiểm sát quân sự trung ương chỉ định, theo đề nghị của Viện trưởng Viện kiểm sát quân sự cấp đó.
+Uỷ ban kiểm sát căn cứ vào chỉ thị của Viện trưởng Viện kiểm sát quân sự trung ương và nhiệm vụ của đơn vị, thảo luận việc thực hiện phương hướng, nhiệm vụ, kế hoạch công tác kiểm sát, dự thảo chỉ thị, báo cáo của Viện trưởng và các vấn đề quan trọng khác mà Viện trưởng thấy cần thiết.
+Trong các cuộc họp của Uỷ ban kiểm sát, Viện trưởng kết luận và quyết định cuối cùng. Trong trường hợp Viện trưởng quyết định khác với ý kiến đa số trong Uỷ ban kiểm sát thì Viện trưởng thực hiện quyết định của mình, đồng thời báo cáo lên Viện trưởng Viện kiểm sát quân sự trung ương."
+ENTITY,E39_53,KHOAN,Khoản,structure,24670,24879,"1- Viện trưởng Viện kiểm sát quân sự trung ương chịu trách nhiệm trước Viện trưởng Viện kiểm sát nhân dân tối cáo, lãnh đạo hoạt động của Viện kiểm sát quân sự trung ương và Viện kiểm sát quân sự các cấp dưới."
+ENTITY,E39_54,KHOAN,Khoản,structure,24880,26283,"2- Căn cứ vào pháp luật, chỉ thị của Viện trưởng Viện kiểm sát nhân dân tối cao về công tác kiểm sát và mệnh lệnh của Bộ trưởng Bộ quốc phòng về nhiệm vụ của quân đội, Viện trưởng Viện kiểm sát quân sự trung ương có nhiệm vụ:
+a) Đề ra phương hướng, nhiệm vụ, kế hoạch công tác kiểm sát trong quân đội;
+b) Chỉ đạo và kiểm tra hoạt động của viện kiểm sát quân sự các cấp, ra các quyết định và chỉ thị có tính chất bắt buộc đối với các viện kiểm sát quân sự;
+c) Tổ chức bộ máy làm việc; đề nghị bổ nhiệm, bãi miễn các chức vụ, quản lý và tổ chức bồi dưỡng đội ngũ cán bộ của Viện kiểm sát quân sự các cấp;
+d) Tổng kết công tác kiểm sát việc tuân theo pháp luật trong quân đội, phối hợp với các cơ quan hữu quan trong và ngoài quân đội trong việc tuyên truyền giáo dục pháp luật, thống kê tội phạm và vi phạm pháp luật.
+đ) Chỉ đạo và tổ chức việc nghiên cứu khoa học công tác kiểm sát và khoa học tội phạm trong quân đội.
+e) Kiến nghị với Bộ trưởng Bộ quốc phòng, Chủ nhiệm Tổng cục chính trị, các chỉ huy, chủ nhiệm chính trị các cấp và các cơ quan quản lý quân sự về các biện pháp phòng ngừa đấu tranh chống các tội phạm và các vi phạm pháp luật trong quân đội.
+Viện trưởng Viện kiểm sát quân sự trung ương được tham dự các cuộc họp của Bộ quốc phòng và cơ quan quản lý quân sự các cấp bàn về việc chấp hành pháp luật, điều lệnh quân đội, việc tăng cường pháp chế xã hội chủ nghĩa và kỷ luật của quân đội."
+ENTITY,E39_55,KHOAN,Khoản,structure,26292,26433,"1- Kiểm sát viên của Viện kiểm sát quân sự là sĩ quan Quân đội nhân dân Việt Nam, có đủ tiêu chuẩn theo quy chế ngạch kiểm sát viên nhân dân."
+ENTITY,E39_56,KHOAN,Khoản,structure,26434,27269,"2- Kiểm sát viên của Viện kiểm sát quân sự có 3 cấp: kiểm sát viên cao cấp, kiểm sát viên trung cấp và kiểm sát viên sơ cấp, tương ứng với phân cấp sĩ quan trong quân đội.
+Kiểm sát viên cao cấp của Viện kiểm sát quân sự trung ương là kiểm sát viên của Viện kiểm sát nhân dân tối cao, do Hội đồng Nhà nước cử và bãi miễn, theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao.
+Kiểm sát viên của Viện kiểm sát quân sự các cấp dưới do viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm và bãi miễn, theo đề nghị của viện trưởng viện kiểm sát quân sự trung ương.
+Viện trưởng, Phó Viện trưởng và kiểm sát viên của Viện kiểm sát quân sự các cấp được Viện trưởng Viện kiểm sát nhân dân tối cao cấp giấy chứng minh kiểm sát viên để làm nhiệm vụ kiểm sát việc tuân theo pháp luật, và có đủ quyền năng pháp lý theo quy định của pháp luật."
+ENTITY,E39_57,KHOAN,Khoản,structure,27278,27469,1- Các cán bộ và nhân viên của Viện kiểm sát quân sự được khen thưởng và chịu trách nhiệm kỷ luật theo các quy định theo các quy định của Nhà nước và điều lệnh của Quân đội nhân dân Việt Nam.
+ENTITY,E39_58,KHOAN,Khoản,structure,27470,27867,"2- Trong phạm vi quyền hạn của mình, chỉ có Viện trưởng Viện kiểm sát nhân dân tối cao, Viện trưởng Viện kiểm sát quân sự trung ương và các Viện trưởng Viện kiểm sát quân sự cấp trên mới được quyết định khen thưởng và thi hành kỷ luật các Viện trưởng Viện kiểm sát quân sự, kiểm sát viên và nhân viên điều tra của các Viện kiểm sát quân sự cấp dưới về việc thực hiện nhiệm vụ kiểm sát và điều tra."
+ENTITY,E40_1,DIEM,Điểm,structure,7375,7486,"a) Cung cấp cho Viện kiểm sát quân sự các văn bản, tài liệu cần thiết cho việc xác định việc vi phạm pháp luật;"
+ENTITY,E40_2,DIEM,Điểm,structure,7487,7762,"b) Thông báo cho Viện kiểm sát quân sự biết các hành vi xâm phạm lợi ích của Nhà nước, của quân đội, của tập thể và quyền lợi chính đáng của quân nhân, công nhân, viên chức quốc phòng và công dân khác đã xảy ra trong cơ quan, đơn vị mình và kết quả việc xử lý các hành vi đó;"
+ENTITY,E40_3,DIEM,Điểm,structure,7763,7881,c) Kiểm tra việc vi phạm pháp luật của đơn vị cấp dưới trực thuộc và thông báo kết quả cho Viện kiểm sát quân sự biết;
+ENTITY,E40_4,DIEM,Điểm,structure,7882,7968,d) Cử chuyên viên để làm rõ những vấn đề cần thiết thuộc phạm vi trách nhiệm của mình.
+ENTITY,E40_5,DIEM,Điểm,structure,15505,15665,a) Tự kiểm tra việc chấp hành các bản án và quyết định của Toà án quân sự đã có hiệu lực pháp luật và thông báo kết quả kiểm tra cho Viện kiểm sát quân sự biết;
+ENTITY,E40_6,DIEM,Điểm,structure,15666,15781,"b) Cung cấp những tài liệu, văn bản hoặc xuất trình các hồ sơ, sổ sách, giấy tờ có liên quan đến việc chấp hành án;"
+ENTITY,E40_7,DIEM,Điểm,structure,15782,15887,c) Chấp hành các bản án và quyết định của Toà án quân sự đã có hiệu lực pháp luật mà chưa được chấp hành.
+ENTITY,E40_8,DIEM,Điểm,structure,25106,25181,"a) Đề ra phương hướng, nhiệm vụ, kế hoạch công tác kiểm sát trong quân đội;"
+ENTITY,E40_9,DIEM,Điểm,structure,25182,25335,"b) Chỉ đạo và kiểm tra hoạt động của viện kiểm sát quân sự các cấp, ra các quyết định và chỉ thị có tính chất bắt buộc đối với các viện kiểm sát quân sự;"
+ENTITY,E40_10,DIEM,Điểm,structure,25336,25482,"c) Tổ chức bộ máy làm việc; đề nghị bổ nhiệm, bãi miễn các chức vụ, quản lý và tổ chức bồi dưỡng đội ngũ cán bộ của Viện kiểm sát quân sự các cấp;"
+ENTITY,E40_11,DIEM,Điểm,structure,25483,25695,"d) Tổng kết công tác kiểm sát việc tuân theo pháp luật trong quân đội, phối hợp với các cơ quan hữu quan trong và ngoài quân đội trong việc tuyên truyền giáo dục pháp luật, thống kê tội phạm và vi phạm pháp luật."
+ENTITY,E40_12,DIEM,Điểm,structure,25696,25797,đ) Chỉ đạo và tổ chức việc nghiên cứu khoa học công tác kiểm sát và khoa học tội phạm trong quân đội.
+ENTITY,E40_13,DIEM,Điểm,structure,25798,26283,"e) Kiến nghị với Bộ trưởng Bộ quốc phòng, Chủ nhiệm Tổng cục chính trị, các chỉ huy, chủ nhiệm chính trị các cấp và các cơ quan quản lý quân sự về các biện pháp phòng ngừa đấu tranh chống các tội phạm và các vi phạm pháp luật trong quân đội.
+Viện trưởng Viện kiểm sát quân sự trung ương được tham dự các cuộc họp của Bộ quốc phòng và cơ quan quản lý quân sự các cấp bàn về việc chấp hành pháp luật, điều lệnh quân đội, việc tăng cường pháp chế xã hội chủ nghĩa và kỷ luật của quân đội."
+ENTITY,E41_1,VB_SUA_DOI_BO_SUNG,Văn bản sửa đổi bổ sung,reference,28689,28787,"Pháp lệnh số 36-LCT/HĐNN8 Sửa đổi, bổ sung một số điều của Pháp lệnh tổ chức Viện kiểm sát quân sự"
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,0,51,Pháp lệnh số Không số Tổ chức Viện kiểm sát quân sự
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E36_1,E35_2,,
+RELATION,R22_2,THUOC,Thuộc,E36_2,E35_2,,
+RELATION,R22_3,THUOC,Thuộc,E36_3,E35_2,,
+RELATION,R22_4,THUOC,Thuộc,E36_4,E35_2,,
+RELATION,R22_5,THUOC,Thuộc,E36_5,E35_2,,
+RELATION,R22_6,THUOC,Thuộc,E36_6,E35_2,,
+RELATION,R22_7,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E38_10,E36_1,,
+RELATION,R22_9,THUOC,Thuộc,E38_11,E36_2,,
+RELATION,R22_10,THUOC,Thuộc,E38_12,E36_2,,
+RELATION,R22_11,THUOC,Thuộc,E38_13,E36_2,,
+RELATION,R22_12,THUOC,Thuộc,E38_14,E36_3,,
+RELATION,R22_13,THUOC,Thuộc,E38_15,E36_3,,
+RELATION,R22_14,THUOC,Thuộc,E38_16,E36_3,,
+RELATION,R22_15,THUOC,Thuộc,E38_17,E36_4,,
+RELATION,R22_16,THUOC,Thuộc,E38_18,E36_4,,
+RELATION,R22_17,THUOC,Thuộc,E38_19,E36_4,,
+RELATION,R22_18,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_19,THUOC,Thuộc,E38_20,E36_5,,
+RELATION,R22_20,THUOC,Thuộc,E38_21,E36_5,,
+RELATION,R22_21,THUOC,Thuộc,E38_22,E36_5,,
+RELATION,R22_22,THUOC,Thuộc,E38_23,E36_6,,
+RELATION,R22_23,THUOC,Thuộc,E38_24,E36_6,,
+RELATION,R22_24,THUOC,Thuộc,E38_25,E35_3,,
+RELATION,R22_25,THUOC,Thuộc,E38_26,E35_3,,
+RELATION,R22_26,THUOC,Thuộc,E38_27,E35_3,,
+RELATION,R22_27,THUOC,Thuộc,E38_28,E35_3,,
+RELATION,R22_28,THUOC,Thuộc,E38_29,E35_3,,
+RELATION,R22_29,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_30,THUOC,Thuộc,E38_30,E35_3,,
+RELATION,R22_31,THUOC,Thuộc,E38_31,E35_3,,
+RELATION,R22_32,THUOC,Thuộc,E38_32,E35_3,,
+RELATION,R22_33,THUOC,Thuộc,E38_33,E35_3,,
+RELATION,R22_34,THUOC,Thuộc,E38_34,E35_4,,
+RELATION,R22_35,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_36,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_37,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_38,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_39,THUOC,Thuộc,E38_8,E36_1,,
+RELATION,R22_40,THUOC,Thuộc,E38_9,E36_1,,
+RELATION,R22_41,THUOC,Thuộc,E39_1,E38_4,,
+RELATION,R22_42,THUOC,Thuộc,E39_10,E38_7,,
+RELATION,R22_43,THUOC,Thuộc,E39_11,E38_7,,
+RELATION,R22_44,THUOC,Thuộc,E39_12,E38_9,,
+RELATION,R22_45,THUOC,Thuộc,E39_13,E38_9,,
+RELATION,R22_46,THUOC,Thuộc,E39_14,E38_9,,
+RELATION,R22_47,THUOC,Thuộc,E39_15,E38_9,,
+RELATION,R22_48,THUOC,Thuộc,E39_16,E38_9,,
+RELATION,R22_49,THUOC,Thuộc,E39_17,E38_11,,
+RELATION,R22_50,THUOC,Thuộc,E39_18,E38_11,,
+RELATION,R22_51,THUOC,Thuộc,E39_19,E38_11,,
+RELATION,R22_52,THUOC,Thuộc,E39_2,E38_4,,
+RELATION,R22_53,THUOC,Thuộc,E39_20,E38_11,,
+RELATION,R22_54,THUOC,Thuộc,E39_21,E38_12,,
+RELATION,R22_55,THUOC,Thuộc,E39_22,E38_12,,
+RELATION,R22_56,THUOC,Thuộc,E39_23,E38_12,,
+RELATION,R22_57,THUOC,Thuộc,E39_24,E38_12,,
+RELATION,R22_58,THUOC,Thuộc,E39_25,E38_12,,
+RELATION,R22_59,THUOC,Thuộc,E39_26,E38_12,,
+RELATION,R22_60,THUOC,Thuộc,E39_27,E38_15,,
+RELATION,R22_61,THUOC,Thuộc,E39_28,E38_15,,
+RELATION,R22_62,THUOC,Thuộc,E39_29,E38_15,,
+RELATION,R22_63,THUOC,Thuộc,E39_3,E38_4,,
+RELATION,R22_64,THUOC,Thuộc,E39_30,E38_15,,
+RELATION,R22_65,THUOC,Thuộc,E39_31,E38_15,,
+RELATION,R22_66,THUOC,Thuộc,E39_32,E38_16,,
+RELATION,R22_67,THUOC,Thuộc,E39_33,E38_16,,
+RELATION,R22_68,THUOC,Thuộc,E39_34,E38_18,,
+RELATION,R22_69,THUOC,Thuộc,E39_35,E38_18,,
+RELATION,R22_70,THUOC,Thuộc,E39_36,E38_18,,
+RELATION,R22_71,THUOC,Thuộc,E39_37,E38_20,,
+RELATION,R22_72,THUOC,Thuộc,E39_38,E38_20,,
+RELATION,R22_73,THUOC,Thuộc,E39_39,E38_20,,
+RELATION,R22_74,THUOC,Thuộc,E39_4,E38_4,,
+RELATION,R22_75,THUOC,Thuộc,E39_40,E38_21,,
+RELATION,R22_76,THUOC,Thuộc,E39_41,E38_21,,
+RELATION,R22_77,THUOC,Thuộc,E39_42,E38_21,,
+RELATION,R22_78,THUOC,Thuộc,E39_43,E38_21,,
+RELATION,R22_79,THUOC,Thuộc,E39_44,E38_21,,
+RELATION,R22_80,THUOC,Thuộc,E39_45,E38_21,,
+RELATION,R22_81,THUOC,Thuộc,E39_46,E38_21,,
+RELATION,R22_82,THUOC,Thuộc,E39_47,E38_23,,
+RELATION,R22_83,THUOC,Thuộc,E39_48,E38_23,,
+RELATION,R22_84,THUOC,Thuộc,E39_49,E38_25,,
+RELATION,R22_85,THUOC,Thuộc,E39_5,E38_4,,
+RELATION,R22_86,THUOC,Thuộc,E39_50,E38_25,,
+RELATION,R22_87,THUOC,Thuộc,E39_51,E38_26,,
+RELATION,R22_88,THUOC,Thuộc,E39_52,E38_26,,
+RELATION,R22_89,THUOC,Thuộc,E39_53,E38_30,,
+RELATION,R22_90,THUOC,Thuộc,E39_54,E38_30,,
+RELATION,R22_91,THUOC,Thuộc,E39_55,E38_31,,
+RELATION,R22_92,THUOC,Thuộc,E39_56,E38_31,,
+RELATION,R22_93,THUOC,Thuộc,E39_57,E38_32,,
+RELATION,R22_94,THUOC,Thuộc,E39_58,E38_32,,
+RELATION,R22_95,THUOC,Thuộc,E39_6,E38_4,,
+RELATION,R22_96,THUOC,Thuộc,E39_7,E38_6,,
+RELATION,R22_97,THUOC,Thuộc,E39_8,E38_6,,
+RELATION,R22_98,THUOC,Thuộc,E39_9,E38_7,,
+RELATION,R22_99,THUOC,Thuộc,E40_1,E39_12,,
+RELATION,R22_100,THUOC,Thuộc,E40_10,E39_54,,
+RELATION,R22_101,THUOC,Thuộc,E40_11,E39_54,,
+RELATION,R22_102,THUOC,Thuộc,E40_12,E39_54,,
+RELATION,R22_103,THUOC,Thuộc,E40_13,E39_54,,
+RELATION,R22_104,THUOC,Thuộc,E40_2,E39_12,,
+RELATION,R22_105,THUOC,Thuộc,E40_3,E39_12,,
+RELATION,R22_106,THUOC,Thuộc,E40_4,E39_12,,
+RELATION,R22_107,THUOC,Thuộc,E40_5,E39_34,,
+RELATION,R22_108,THUOC,Thuộc,E40_6,E39_34,,
+RELATION,R22_109,THUOC,Thuộc,E40_7,E39_34,,
+RELATION,R22_110,THUOC,Thuộc,E40_8,E39_54,,
+RELATION,R22_111,THUOC,Thuộc,E40_9,E39_54,,
+RELATION,R23_1,SUA_DOI_BO_SUNG,Sửa đổi bổ sung,E41_1,E2_1,,
+RELATION,R25_1,THAY_THE,Thay thế,E43_1,E2_1,,

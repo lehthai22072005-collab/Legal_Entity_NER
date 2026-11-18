@@ -1,0 +1,318 @@
+{
+  "schema_version": "1.0",
+  "document_id": "1223",
+  "document_code": "Không số",
+  "file_name": "22_phap_1223.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "PHÁP LỆNH\nSửa đổi và bổ sung pháp lệnh quy định cụ thể về tổ chức",
+    "so_hieu": "Không số",
+    "loai_van_ban": "PHÁP LỆNH",
+    "nganh": null,
+    "ngay_ban_hanh": "ngày 15 tháng 1 năm 1970",
+    "linh_vuc": "Chưa phân loại",
+    "ngay_co_hieu_luc": "1970-01-27",
+    "ngay_het_hieu_luc": "1981-07-13",
+    "tinh_trang_hieu_luc": "Hết hiệu lực toàn bộ",
+    "co_quan_ban_hanh": "UỶ BAN THƯỜNG VỤ QUỐC HỘI",
+    "chuc_danh": "Chủ tịch",
+    "nguoi_ky": "Trường Chinh"
+  },
+  "full_text": "Pháp lệnh số Không số Về việc sửa đổi và bổ sung Pháp lệnh quy định cụ thể về tổ chức của Viện kiểm sát nhân dân tối cao ngày 16-4-1962\nPHÁP LỆNH\nSửa đổi và bổ sung pháp lệnh quy định cụ thể về tổ chức\ncủa Viện kiểm sát nhân dân tối cao ngày 16 tháng 4 năm 1962.\nUỶ BAN THƯỜNG VỤ QUỐC HỘI\nNƯỚC VIỆT NAM DÂN CHỦ CỘNG HOÀ\nCăn cứ vào điều 7 và điều 25 của Luật tổ chức Viện kiểm sát nhân dân ngày 15 tháng 7 năm 1960;\nTheo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao,\nQuyết định:\nĐiều 1. Nay thay điều 5 của Pháp lệnh quy định cụ thể về tổ chức của Viện kiểm sát nhân dân tối cao ngày 16 tháng 4 năm 1962, bằng điều 5 (mới) sau đây:\nĐiều 5 (mới).- Bộ máy làm việc và biên chế của Viện kiểm sát nhân dân tối cao do Viện trưởng Viện kiểm sát nhân dân tối cao định và trình Uỷ ban thường vụ Quốc hội phê chuẩn.\nĐiều 2. Nay bổ sung điều 7 của pháp lệnh nói trên bằng điều 7 (mới) sau đây:\nĐiều 7 (mới).- Để tăng cường hiệu lực của công tác kiểm sát, nay thành lập ngạch kiểm sát viên gồm có: kiểm sát viên cao cấp, kiểm sát viên trung cấp và kiểm sát viên sơ cấp.\nPháp lệnh này đã được Uỷ ban thường vụ Quốc hội thông qua tại Hà Nội ngày 15 tháng 1 năm 1970./.\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 1970-01-27\n[Ngày hết hiệu lực]: 1981-07-13\n[Tình trạng hiệu lực]: Hết hiệu lực toàn bộ\n[Chức danh]: Chủ tịch\n[Người ký]: Trường Chinh\n[Căn cứ ban hành]: Luật Tổ chức Viện kiểm sát nhân dân số Không số\n[Văn bản dẫn chiếu]: Pháp lệnh số 18/LCT Công bố Pháp lệnh sửa đổi và bổ sung Pháp Lệnh quy định cụ thể về tổ chức của Viện kiểm sát nhân dân tối cao ngày 16-4-1962\n[Văn bản được quy định chi tiết, hướng dẫn thi hành]: Luật Tổ chức Viện kiểm sát nhân dân số Không số\n[Văn bản được sửa đổi bổ sung]: Pháp lệnh số 12/LCT Quy định cụ thể về tổ chức của Viện kiểm sát nhân dân tối cao\n[Văn bản thay thế]: Luật Tổ chức Viện kiểm sát nhân dân số 3-LCT/HĐNN7\n",
+  "structural_units": [
+    {
+      "id": "unit_preamble",
+      "type": "PREAMBLE",
+      "title": "Phần mở đầu và Căn cứ ban hành",
+      "start": 0,
+      "end": 488,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_01",
+      "type": "DIEU",
+      "title": "Điều 1",
+      "start": 488,
+      "end": 816,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_02",
+      "type": "DIEU",
+      "title": "Điều 2",
+      "start": 816,
+      "end": 1164,
+      "parent_id": null
+    }
+  ],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 136,
+      "end": 201,
+      "text": "PHÁP LỆNH\nSửa đổi và bổ sung pháp lệnh quy định cụ thể về tổ chức",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 13,
+      "end": 21,
+      "text": "Không số",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 136,
+      "end": 145,
+      "text": "PHÁP LỆNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 1137,
+      "end": 1161,
+      "text": "ngày 15 tháng 1 năm 1970",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 1229,
+      "end": 1243,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 1264,
+      "end": 1274,
+      "text": "1970-01-27",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E8_1",
+      "start": 1296,
+      "end": 1306,
+      "text": "1981-07-13",
+      "code": "NGAY_HET_HIEU_LUC",
+      "label": "Ngày hết hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 1330,
+      "end": 1350,
+      "text": "Hết hiệu lực toàn bộ",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 263,
+      "end": 288,
+      "text": "UỶ BAN THƯỜNG VỤ QUỐC HỘI",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 1364,
+      "end": 1372,
+      "text": "Chủ tịch",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 1385,
+      "end": 1397,
+      "text": "Trường Chinh",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E14_1",
+      "start": 1684,
+      "end": 1731,
+      "text": "Luật Tổ chức Viện kiểm sát nhân dân số Không số",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 1417,
+      "end": 1464,
+      "text": "Luật Tổ chức Viện kiểm sát nhân dân số Không số",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E29_1",
+      "start": 1486,
+      "end": 1629,
+      "text": "Pháp lệnh số 18/LCT Công bố Pháp lệnh sửa đổi và bổ sung Pháp Lệnh quy định cụ thể về tổ chức của Viện kiểm sát nhân dân tối cao ngày 16-4-1962",
+      "code": "VB_DAN_CHIEU",
+      "label": "Văn bản dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E38_1",
+      "start": 488,
+      "end": 494,
+      "text": "Điều 1",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E38_2",
+      "start": 816,
+      "end": 822,
+      "text": "Điều 2",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E42_1",
+      "start": 1764,
+      "end": 1845,
+      "text": "Pháp lệnh số 12/LCT Quy định cụ thể về tổ chức của Viện kiểm sát nhân dân tối cao",
+      "code": "VB_DUOC_SUA_DOI_BO_SUNG",
+      "label": "Văn bản được sửa đổi bổ sung",
+      "scope": "reference"
+    },
+    {
+      "id": "E43_1",
+      "start": 1866,
+      "end": 1916,
+      "text": "Luật Tổ chức Viện kiểm sát nhân dân số 3-LCT/HĐNN7",
+      "code": "VB_THAY_THE",
+      "label": "Văn bản thay thế",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R2_1",
+      "from_id": "E14_1",
+      "to_id": "E2_1",
+      "code": "DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Được quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R17_1",
+      "from_id": "E29_1",
+      "to_id": "E2_1",
+      "code": "DAN_CHIEU",
+      "label": "Dẫn chiếu"
+    },
+    {
+      "id": "R24_1",
+      "from_id": "E42_1",
+      "to_id": "E2_1",
+      "code": "DUOC_SUA_DOI_BO_SUNG",
+      "label": "Được sửa đổi bổ sung"
+    },
+    {
+      "id": "R25_1",
+      "from_id": "E43_1",
+      "to_id": "E2_1",
+      "code": "THAY_THE",
+      "label": "Thay thế"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": [],
+    "vbpl_relation_provenance": [
+      {
+        "relation_id": "R7_1",
+        "from_entity_id": "E19_1",
+        "to_entity_id": "E2_1",
+        "original_direction": "outgoing",
+        "original_relation_type": "Căn cứ ban hành",
+        "other_document_id": "881",
+        "other_title": "Luật Tổ chức Viện kiểm sát nhân dân số Không số",
+        "source": "vbpl_luoc_do_json_snapshot",
+        "original_source_from_document_id": "1223",
+        "original_source_to_document_id": "881"
+      },
+      {
+        "relation_id": "R17_1",
+        "from_entity_id": "E29_1",
+        "to_entity_id": "E2_1",
+        "original_direction": "incoming",
+        "original_relation_type": "Văn bản dẫn chiếu",
+        "other_document_id": "1214",
+        "other_title": "Pháp lệnh số 18/LCT Công bố Pháp lệnh sửa đổi và bổ sung Pháp Lệnh quy định cụ thể về tổ chức của Viện kiểm sát nhân dân tối cao ngày 16-4-1962",
+        "source": "vbpl_luoc_do_json_snapshot",
+        "original_source_from_document_id": "1214",
+        "original_source_to_document_id": "1223"
+      },
+      {
+        "relation_id": "R2_1",
+        "from_entity_id": "E14_1",
+        "to_entity_id": "E2_1",
+        "original_direction": "outgoing",
+        "original_relation_type": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+        "other_document_id": "881",
+        "other_title": "Luật Tổ chức Viện kiểm sát nhân dân số Không số",
+        "source": "vbpl_luoc_do_json_snapshot",
+        "original_source_from_document_id": "1223",
+        "original_source_to_document_id": "881"
+      },
+      {
+        "relation_id": "R24_1",
+        "from_entity_id": "E42_1",
+        "to_entity_id": "E2_1",
+        "original_direction": "outgoing",
+        "original_relation_type": "Văn bản được sửa đổi bổ sung",
+        "other_document_id": "1344",
+        "other_title": "Pháp lệnh số 12/LCT Quy định cụ thể về tổ chức của Viện kiểm sát nhân dân tối cao",
+        "source": "vbpl_luoc_do_json_snapshot",
+        "original_source_from_document_id": "1223",
+        "original_source_to_document_id": "1344"
+      },
+      {
+        "relation_id": "R25_1",
+        "from_entity_id": "E43_1",
+        "to_entity_id": "E2_1",
+        "original_direction": "incoming",
+        "original_relation_type": "Văn bản thay thế",
+        "other_document_id": "4090",
+        "other_title": "Luật Tổ chức Viện kiểm sát nhân dân số 3-LCT/HĐNN7",
+        "source": "vbpl_luoc_do_json_snapshot",
+        "original_source_from_document_id": "4090",
+        "original_source_to_document_id": "1223"
+      }
+    ],
+    "annotation_status": "silver_automated_not_gold",
+    "source_vbpl_item_id": "1223"
+  }
+}

@@ -1,0 +1,194 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,40,49,PHÁP LỆNH
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,55/1997/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,14934,14944,1997-03-28
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,14957,14971,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,14992,15002,1997-04-07
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,15026,15038,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,15059,15084,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1259,1267,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,15097,15110,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,18269,18314,Luật Sỹ quan Quân đội nhân dân số 6-LCT/HĐNN7
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,17897,17947,Pháp lệnh số 17-LCT/HĐNN8 Tổ chức điều tra hình sự
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,17974,18001,Bộ luật Hình sự số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,15130,15163,Luật Nghĩa vụ quân sự số Không số
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,15183,15201,Hiến pháp năm 1992
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,15221,15266,Luật Sỹ quan Quân đội nhân dân số 6-LCT/HĐNN7
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,18364,18482,"Nghị định số 114/2011/NĐ-CP Quy định về mẫu biểu trong xử phạt vi phạm hành chính của bộ đội biên phòng, cảnh sát biển"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,18532,18592,Nghị định số 89/2009/NĐ-CP Về hoạt động đối ngoại biên phòng
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,18642,18866,"Nghị định số 133/2015/NĐ-CP Quy định việc phối hợp của Dân quân tự vệ với các lực lượng trong hoạt động bảo vệ biên giới, biển, đảo; bảo vệ an ninh chính trị, trật tự, an toàn xã hội ở cơ sở; bảo vệ và phòng, chống cháy rừng"
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,18916,19055,"Nghị định số 71/2015/NĐ-CP Về quản lý hoạt động của người, phương tiện trong khu vực biên giới biển nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,19105,19183,Quyết định số 10/2016/QĐ-TTg Về thực hiện thủ tục biên phòng điện tử cảng biển
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18023,18214,"Quyết định số 130a/2005/QĐ-UBND Về việc ban hành quy định thực hiện Nghị Định số 34/2000/NĐ-CP ngày 18/8/2000 của Chính phủ về quy chế khu vực biên giới, đất liền trên địa bàn tỉnh Bình Phước"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,15286,15409,Nghị quyết số 47/2016/NQ-HĐND về việc xác định phạm vi vành đai biên giới và vùng cấm trong khu vực biên giới tỉnh Đắk Nông
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,15429,15533,"Nghị định số 129/2006/NĐ-CP Quy định xử phạt vi phạm hành chính trong quản lý, bảo vệ biên giới quốc gia"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,15553,15777,"Nghị định số 133/2015/NĐ-CP Quy định việc phối hợp của Dân quân tự vệ với các lực lượng trong hoạt động bảo vệ biên giới, biển, đảo; bảo vệ an ninh chính trị, trật tự, an toàn xã hội ở cơ sở; bảo vệ và phòng, chống cháy rừng"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,15797,15981,"Quyết định số 87/1999/QĐ-UB Về việc ban hành quy định công tác kiểm tra, kiểm soát, quản lý người, phương tiện, hàng hoá ra vào Cửa sông, Cửa lạch, Cảng biển thuộc khu vực biển Nghệ An"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,16001,16079,"Nghị định số 114/2017/NĐ-CP Quy định về đồn Biên phòng thuộc vùng sâu, vùng xa"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,16099,16217,"Nghị định số 114/2011/NĐ-CP Quy định về mẫu biểu trong xử phạt vi phạm hành chính của bộ đội biên phòng, cảnh sát biển"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,16237,16297,Nghị định số 89/2009/NĐ-CP Về hoạt động đối ngoại biên phòng
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,16317,16465,"Nghị định số 78/CP Quy định quân hiệu, cấp hiệu, lễ phục, quân kỳ, phù hiệu kiểm soát, biển công tác, cờ hiệu, giấy chứng minh của Bộ đội biên phòng"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,16485,16589,Nghị định số 34/2014/NĐ-CP Về Quy chế khu vực biên giới đất liền nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,16609,16687,Quyết định số 10/2016/QĐ-TTg Về thực hiện thủ tục biên phòng điện tử cảng biển
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,16707,16804,Nghị định số 02/1998/NĐ-CP Quy định chi tiết thi hành một số điều của Pháp lệnh Bộ đội biên phòng
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,16824,17149,"Quyết định số 2512/2001/QĐ-BQP Về việc ban hành Quy định quan hệ giữa Bộ Tư lệnh Bộ đội Biên phòng vối Bộ Tư lệnh Quân khu, Bộ Tư lệnh Hải quân; giữa Bộ chỉ huy Bộ đội Biên phòng tỉnh, thành phố, Hải đoàn biên phòng với Bộ chỉ huy Quân sự tỉnh, thành phố, Bộ chỉ huy vùng Hải quân trong thực hiện nhiệm vụ phòng thủ tác chiến"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,17169,17308,"Nghị định số 71/2015/NĐ-CP Về quản lý hoạt động của người, phương tiện trong khu vực biên giới biển nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,17328,17442,Nghị quyết số 23/2017/NQ-HĐND Xác định vành đai biên giới và xác lập vùng cấm trong khu vực biên giới tỉnh Kon Tum
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,17462,17585,Thông tư liên tịch số 2076/1998/TTLT/BQP-BLĐTBXH-BTC Hướng dẫn thực hiện một số chế độ chính sách đối với bộ đội biên phòng
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,17605,17737,Quyết định số 43/2002/QĐ-UB V/v ban hành quy định quản lý hoạt động của người và phương tiện trong khu vực biên phòng tỉnh Thái Bình
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,17757,17870,"Nghị định số 71/2015/NĐ-CP về quản lý hoạt động của người, phương tiện trong khu vực biên giới biển nước Việt Nam"
+ENTITY,E35_1,CHUONG,Chương,structure,515,543,CHƯƠNG INHỮNG QUY ĐỊNH CHUNG
+ENTITY,E35_2,CHUONG,Chương,structure,2000,2050,"CHƯƠNG IINHIỆM VỤ, QUYỀN HẠN CỦA BỘ ĐỘI BIÊN PHÒNG"
+ENTITY,E35_3,CHUONG,Chương,structure,8627,8666,CHƯƠNG IIITỔ CHỨC CỦA BỘ ĐỘI BIÊN PHÒNG
+ENTITY,E35_4,CHUONG,Chương,structure,9909,9960,CHƯƠNG IVQUẢN LÝ NHÀ NƯỚC ĐỐI VỚI BỘ ĐỘI BIÊN PHÒNG
+ENTITY,E35_5,CHUONG,Chương,structure,12201,12253,"CHƯƠNG VCHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI BỘ ĐỘI BIÊN PHÒNG"
+ENTITY,E35_6,CHUONG,Chương,structure,13711,13748,CHƯƠNG VIKHEN THƯỞNG VÀ XỬ LÝ VI PHẠM
+ENTITY,E35_7,CHUONG,Chương,structure,14646,14675,CHƯƠNG VIIĐIỀU KHOẢN THI HÀNH
+ENTITY,E38_1,DIEU,Điều,structure,544,550,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1123,1129,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1441,1447,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1728,1734,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,2051,2057,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,2634,2640,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,3757,3763,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,4039,4045,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,4293,4299,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,4672,4679,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,5055,5062,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,5399,5406,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,5640,5647,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,6449,6456,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,6888,6895,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,7449,7456,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,7872,7879,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,8667,8674,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,8852,8859,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,8973,8980,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,9358,9365,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,9613,9620,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,9961,9968,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,10509,10516,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,10890,10897,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,11458,11465,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,11859,11866,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,12254,12261,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,12516,12523,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,13749,13756,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,14290,14297,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,14676,14683,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,14790,14797,Điều 33
+ENTITY,E39_1,KHOAN,Khoản,structure,6981,7178,"1- Trực tiếp truy đuổi, bắt giữ người, phương tiện vi phạm pháp luật từ biên giới vào nội địa; phối hợp với các lượng truy tìm, bắt giữ người có hành vi vi phạm pháp luật trốn chạy sâu vào nội địa;"
+ENTITY,E39_2,KHOAN,Khoản,structure,7179,7448,"2- Truy đuổi, bắt giữ người, phương tiện vi phạm pháp luật trong nội thuỷ, lãnh hải Việt Nam ra ngoài phạm vi lãnh hải Việt Nam theo pháp luật của nước Cộng hoà Xã hội Chủ nghĩa Việt Nam và điều ước quốc tế mà Cộng hoà Xã hội Chủ nghĩa Việt Nam đã ký kết hoặc tham gia."
+ENTITY,E39_3,KHOAN,Khoản,structure,8036,8089,1- Để bắt giữ người có hành vi phạm tội mà chạy chốn;
+ENTITY,E39_4,KHOAN,Khoản,structure,8090,8177,"2- Để bắt giữ người có hành vi phạm tội đang bị dẫn giải, bị giữ, bị giam mà chạy trốn;"
+ENTITY,E39_5,KHOAN,Khoản,structure,8178,8626,"3- Để bảo vệ cán bộ, chiến sĩ Bộ đội biên phòng và công dân bị người khác dùng vũ khí và các hung khí khác uy hiếp trực tiếp đến tính mạng.
+Cán bộ, chiến sĩ Bộ đội biên phòng chỉ được nổ súng trực tiếp vào đối tượng sau khi đã bắn cảnh cáo hoặc đã sử dụng các công cụ hỗ trợ nhằm ngăn chặn nhưng không có kết quả, trong trường hợp có người bị thương thì phải tổ chức cấp cứu, nếu có người chết thì phải cùng với chính quyền địa phương lập biên bản."
+ENTITY,E39_6,KHOAN,Khoản,structure,9104,9181,1- Đối với sĩ quan thực hiện theo Luật về sĩ quan Quân đội Nhân dân Việt Nam;
+ENTITY,E39_7,KHOAN,Khoản,structure,9182,9275,"2- Đối với quân nhân chuyên nghiệp, hạ sĩ quan, binh sĩ thực hiện theo Luật nghĩa vụ quân sự;"
+ENTITY,E39_8,KHOAN,Khoản,structure,9276,9357,"3- Đối với công nhân, viên chức quốc phòng thực hiện theo quy định của pháp luật."
+ENTITY,E39_9,KHOAN,Khoản,structure,10026,10126,1- Ban hành và hướng dẫn thi hành các văn bản pháp luật về công tác biên phòng và Bộ đội biên phòng;
+ENTITY,E39_10,KHOAN,Khoản,structure,10127,10192,"2- Quy định hệ thống tổ chức, chỉ đạo, chỉ huy Bộ đội biên phòng;"
+ENTITY,E39_11,KHOAN,Khoản,structure,10193,10267,"3- Quy định và thực hiện các chế độ, chính sách đối với Bộ đội biên phòng;"
+ENTITY,E39_12,KHOAN,Khoản,structure,10268,10362,4- Quyết định ngân sách hoạt động công tác hoạt động biên phòng và xây dựng Bộ đội biên phòng;
+ENTITY,E39_13,KHOAN,Khoản,structure,10363,10431,"5- Kiểm tra, thanh tra việc thi hành pháp luật về Bộ đội biên phòng;"
+ENTITY,E39_14,KHOAN,Khoản,structure,10432,10508,"6- Sơ kết, tổng kết công tác biên phòng và xây dựng nền biên phòng toàn dân."
+ENTITY,E39_15,KHOAN,Khoản,structure,10517,10579,1- Chính phủ thống nhất quản lý Nhà nước về Bộ đội biên phòng.
+ENTITY,E39_16,KHOAN,Khoản,structure,10580,10889,"2- Bộ quốc phòng giúp Chính phủ thực hiện quản lý Nhà nước về xây dựng và hoạt động của Bộ đội biên phòng; chủ trì phối hợp với các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ và hướng dẫn, chỉ đạo Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương trong việc xây dựng và hoạt động của Bộ đội biên phòng."
+ENTITY,E39_17,KHOAN,Khoản,structure,10898,11248,"1- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ quốc phòng thực hiện quản lý Nhà nước về xây dựng, bảo vệ biên giới quốc gia và xây dựng Bộ đội biên phòng, kết hợp với nhiệm vụ phát triển kinh tế, xã hội, văn hoá, giáo dục, y tế nhằm xây dựng khu vực biên giới vững mạnh."
+ENTITY,E39_18,KHOAN,Khoản,structure,11249,11457,"2- Chính phủ ban hành Quy chế phối hợp giữa Bộ quốc phòng và Bộ nội vụ về việc thống nhất chỉ đạo, hướng dẫn Bộ đội biên phòng thực hiện nhiệm vụ bảo vệ an ninh và trật tự, an toàn xã hội ở khu vực biên giới."
+ENTITY,E39_19,KHOAN,Khoản,structure,12645,12796,"1- Đầu tư xây dựng cơ sở hạ tầng và đảm bảo đời sống vật chất, tinh thần đối với cán bộ, chiến sĩ phục vụ ở các đồn, trạm biên phòng và đơn vị cơ động;"
+ENTITY,E39_20,KHOAN,Khoản,structure,12797,12933,"2- Phụ cấp trách nhiệm cho cán bộ, chiến sĩ Bộ đội biên phòng trong thời gian trực tiếp làm nhiệm vụ quản lý, bảo vệ biên giới, hải đảo;"
+ENTITY,E39_21,KHOAN,Khoản,structure,12934,13022,"3- Phụ cấp cho cán bộ, chiến sĩ Bộ đội biên phòng công tác lâu năm ở biên giới, hải đảo;"
+ENTITY,E39_22,KHOAN,Khoản,structure,13023,13186,"4- Chế độ, chính sách thương binh, bệnh binh, liệt sĩ đối với cán bộ, chiến sĩ Bộ đội biên phòng trực tiếp bảo vệ biên giới, hải đảo ở những nơi đăc biệt khó khăn;"
+ENTITY,E39_23,KHOAN,Khoản,structure,13187,13308,"5- Chế độ, chính sách khen thưởng đối với cán bộ, chiến sĩ Bộ đội biên phòng hoạt động bảo vệ biên giới, hải đảo lâu năm;"
+ENTITY,E39_24,KHOAN,Khoản,structure,13309,13452,"6- Tuyển chọn con em dân tộc ít người và người ở nơi khác đến định cư ở khu vực biên giới, hải đảo để đào tạo, phục vụ trong Bộ đội biên phòng;"
+ENTITY,E39_25,KHOAN,Khoản,structure,13453,13710,"7- Chế độ, chính sách đối với gia đình cán bộ, chiến sĩ Bộ đội biên phòng đến định cư ở khu vực biên giới, hải đảo và chính sách hậu phương đối với cán bộ, chiến sĩ Bộ đội biên phòng;
+Chính phủ quy định chi tiết chế độ, chính sách đối với Bộ đội biên phòng."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,R6_2,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_2,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_3,E2_1,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_4,E2_1,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_5,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_3,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_4,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_5,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_6,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_7,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_8,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,R22_9,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_10,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,R22_11,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,R22_12,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_13,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,R22_14,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,R22_15,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,R22_16,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_17,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,R22_18,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,R22_19,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_20,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,R22_21,THUOC,Thuộc,E38_28,E35_5,,
+RELATION,R22_22,THUOC,Thuộc,E38_29,E35_5,,
+RELATION,R22_23,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_24,THUOC,Thuộc,E38_30,E35_6,,
+RELATION,R22_25,THUOC,Thuộc,E38_31,E35_6,,
+RELATION,R22_26,THUOC,Thuộc,E38_32,E35_7,,
+RELATION,R22_27,THUOC,Thuộc,E38_33,E35_7,,
+RELATION,R22_28,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_29,THUOC,Thuộc,E38_5,E35_2,,
+RELATION,R22_30,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_31,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_32,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_33,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_34,THUOC,Thuộc,E39_1,E38_15,,
+RELATION,R22_35,THUOC,Thuộc,E39_10,E38_23,,
+RELATION,R22_36,THUOC,Thuộc,E39_11,E38_23,,
+RELATION,R22_37,THUOC,Thuộc,E39_12,E38_23,,
+RELATION,R22_38,THUOC,Thuộc,E39_13,E38_23,,
+RELATION,R22_39,THUOC,Thuộc,E39_14,E38_23,,
+RELATION,R22_40,THUOC,Thuộc,E39_15,E38_24,,
+RELATION,R22_41,THUOC,Thuộc,E39_16,E38_24,,
+RELATION,R22_42,THUOC,Thuộc,E39_17,E38_25,,
+RELATION,R22_43,THUOC,Thuộc,E39_18,E38_25,,
+RELATION,R22_44,THUOC,Thuộc,E39_19,E38_29,,
+RELATION,R22_45,THUOC,Thuộc,E39_2,E38_15,,
+RELATION,R22_46,THUOC,Thuộc,E39_20,E38_29,,
+RELATION,R22_47,THUOC,Thuộc,E39_21,E38_29,,
+RELATION,R22_48,THUOC,Thuộc,E39_22,E38_29,,
+RELATION,R22_49,THUOC,Thuộc,E39_23,E38_29,,
+RELATION,R22_50,THUOC,Thuộc,E39_24,E38_29,,
+RELATION,R22_51,THUOC,Thuộc,E39_25,E38_29,,
+RELATION,R22_52,THUOC,Thuộc,E39_3,E38_17,,
+RELATION,R22_53,THUOC,Thuộc,E39_4,E38_17,,
+RELATION,R22_54,THUOC,Thuộc,E39_5,E38_17,,
+RELATION,R22_55,THUOC,Thuộc,E39_6,E38_20,,
+RELATION,R22_56,THUOC,Thuộc,E39_7,E38_20,,
+RELATION,R22_57,THUOC,Thuộc,E39_8,E38_20,,
+RELATION,R22_58,THUOC,Thuộc,E39_9,E38_23,,

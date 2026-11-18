@@ -1,0 +1,24 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,48,78,"LỆNH
+Về việc công bố Pháp lệnh"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,02/2009/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,48,52,LỆNH
+ENTITY,E4_1,NGANH,Ngành,metadata,726,745,"Công an, Quốc phòng"
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,826,836,2009-03-06
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,758,772,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,857,867,2009-03-06
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,796,808,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,91,104,"CHỦ TỊCH
+NƯỚC"
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,91,99,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,880,897,Nguyễn Minh Triết
+ENTITY,E14_2,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,172,230,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,466,543,"Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh tổ chức điều tra hình sự"
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,172,230,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E19_4,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,411,452,"Luật ban hành văn bản quy phạm pháp luật,"
+ENTITY,E19_5,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,369,390,Luật tổ chức Quốc hội
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_2,E2_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E19_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_4,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_5,E2_1,,

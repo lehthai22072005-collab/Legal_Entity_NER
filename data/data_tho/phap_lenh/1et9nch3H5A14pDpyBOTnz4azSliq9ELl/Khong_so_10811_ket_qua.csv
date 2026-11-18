@@ -1,0 +1,70 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,61,Pháp lệnh số Không số Về Kiểm sát viên Viện kiểm sát nhân dân
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,62,71,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,9736,9760,ngày 12 tháng 5 năm 1993
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,9825,9839,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,9860,9870,1993-05-26
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,9892,9902,2002-10-11
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,9926,9946,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,9967,9992,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,10006,10014,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,10027,10040,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,10095,10113,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,10133,10151,Hiến pháp năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,10171,10218,Luật Tổ chức Viện kiểm sát nhân dân số Không số
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,10240,10314,Lệnh số 15-L/CTN Công bố Pháp lệnh về Kiểm sát viên Viện kiểm sát nhân dân
+ENTITY,E35_1,CHUONG,Chương,structure,307,315,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,2301,2310,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,4002,4012,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,9419,9428,CHƯƠNG IV
+ENTITY,E38_1,DIEU,Điều,structure,337,343,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,485,491,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,856,862,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1105,1111,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1269,1275,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,1792,1798,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,2379,2385,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,2685,2691,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,3043,3049,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,3284,3291,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,3403,3410,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,3496,3503,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,3759,3766,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,4105,4112,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,4689,4696,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,5393,5400,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,6085,6092,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,6753,6760,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,7742,7749,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,8424,8431,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,9449,9456,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,9609,9616,Điều 22
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,10335,10404,Pháp lệnh số 03/2002/PL-UBTVQH11 Kiểm sát viên Viện kiểm sát nhân dân
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,RDAN_CHIEU_1,DAN_CHIEU,dẫn chiếu,E29_1,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,RTHAY_THE_1,THAY_THE,thay thế,E43_1,E2_1,,
+RELATION,RTHUOC_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,RTHUOC_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,RTHUOC_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,RTHUOC_4,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,RTHUOC_5,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,RTHUOC_6,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,RTHUOC_7,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,RTHUOC_8,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,RTHUOC_9,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,RTHUOC_10,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,RTHUOC_11,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,RTHUOC_12,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,RTHUOC_13,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,RTHUOC_14,THUOC,Thuộc,E38_14,E35_3,,
+RELATION,RTHUOC_15,THUOC,Thuộc,E38_15,E35_3,,
+RELATION,RTHUOC_16,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,RTHUOC_17,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,RTHUOC_18,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,RTHUOC_19,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,RTHUOC_20,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,RTHUOC_21,THUOC,Thuộc,E38_21,E35_4,,
+RELATION,RTHUOC_22,THUOC,Thuộc,E38_22,E35_4,,

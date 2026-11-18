@@ -1,0 +1,94 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,78,"Pháp lệnh số Không số Sửa đổi, bổ sung một số điều của Pháp lệnh Thuế Nhà, Đất"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,79,88,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,1996,2006,1994-05-19
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,2019,2033,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1757,1780,ngày 1 tháng 1 năm 1994
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,2055,2065,2012-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,2089,2109,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,2130,2155,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,2169,2177,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,2190,2203,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,2258,2276,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,2296,2314,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2364,2486,"Thông tư số 08/2007/TT-BTC Hướng dẫn chế độ tài chính và thủ tục hải quan áp dụng tại Khu kinh tế Nghi Sơn, tỉnh Thanh Hoá"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2536,2717,"Thông tư số 104/2011/TT-BTC Sửa đổi, bổ sung Thông tư số 11/2010/TT-BTC ngày 19/01/2010 của Bộ Tài chính hướng dẫn thực hiện nghĩa vụ thuế đối với nhà đầu tư Việt Nam đầu tư ra nước"
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2767,2943,"Quyết định số 1135/QĐ-UB Về việc ban hành bản quy định trình tự và thủ tục giao, cho thuê, thu hồi, chuyển quyền sử dụng và đăng ký cấp giấy chứng nhận quyền sử dụng đất đô thị"
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2993,3301,"Thông tư số 151/2010/TT-BTC Hướng dẫn áp dụng các loại thuế và các khoản nộp ngân sách nhà nước đối với Quỹ phát triển đất quy định tại Điều 34 Nghị định số 69/2009/NĐ-CP ngày 13 tháng 8 năm 2009 của Chính phủ quy định bổ sung về quy hoạch sử dụng đất, giá đất, thu hồi đất, bồi thường, hỗ trợ và tái định cư"
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3351,3471,"Thông tư số 07/2007/TT-BTC Hướng dẫn chế độ tài chính và thủ tục hải
+quan áp dụng tại Khu kinh tế Vũng Áng, tỉnh Hà Tĩnh"
+ENTITY,E24_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3521,3702,"Thông tư số 32/2009/TT-BTC Hướng dẫn thực hiện qui định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò và khai thác dầu khí theo qui định của Luật Dầu khí"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,3724,3814,"Lệnh số 34-L/CTN Công bố Pháp lệnh sửa đổi, bổ sung một số điều Pháp lệnh về thuế nhà, đất"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,3834,4063,"Quyết định số 18/2007/QĐ-UBND Về việc sửa đổi, bổ sung Quyết định số 52/2006/QĐ-UBND ngày 19/12/2006 của UBND tỉnh về ban hành bảng phân loại đường phố thành phố Buôn Ma Thuột và thị trấn các huyện để làm cơ sở tính thuế nhà, đất"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,4083,4296,"Thông tư số 71/2002/TT-BTC Sửa đổi, bổ sung Thông tư số 83TC/TCT ngày 7/10/1994 của Bộ Tài chính hướng dẫn thi hành Nghị định số 94/CP ngày 25/8/1994 của Chính phủ qui định chi tiết thi hành Pháp lệnh thuế nhà đất"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,4316,4492,"Quyết định số 1135/QĐ-UB Về việc ban hành bản quy định trình tự và thủ tục giao, cho thuê, thu hồi, chuyển quyền sử dụng và đăng ký cấp giấy chứng nhận quyền sử dụng đất đô thị"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,4512,4671,"Quyết định số 39/2010/QĐ-UBND Về việc điều chỉnh bảng phân loại đường phố ban hành theo Quyết định 
+số 31/2010/QĐ-UBND ngày 03/8/2010 của UBND thành phố Hà Nội"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,4691,4811,"Thông tư số 07/2007/TT-BTC Hướng dẫn chế độ tài chính và thủ tục hải
+quan áp dụng tại Khu kinh tế Vũng Áng, tỉnh Hà Tĩnh"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,4831,4953,"Thông tư số 08/2007/TT-BTC Hướng dẫn chế độ tài chính và thủ tục hải quan áp dụng tại Khu kinh tế Nghi Sơn, tỉnh Thanh Hoá"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,4973,5116,"Thông tư số 83-TC/TCT hướng dẫn thi hành Nghị định số 94-CP ngày 25-08-1994 của Chính phủ quy định chi tiết thi hành Pháp lệnh về thuế nhà, đất"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,5136,5317,"Thông tư số 104/2011/TT-BTC Sửa đổi, bổ sung Thông tư số 11/2010/TT-BTC ngày 19/01/2010 của Bộ Tài chính hướng dẫn thực hiện nghĩa vụ thuế đối với nhà đầu tư Việt Nam đầu tư ra nước"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,5337,5472,"Quyết định số 08/2010/QĐ-UBND Ban hành Quy định về phân loại đường phố tại thị xã Buôn Hồ, tỉnh Đắk Lắk để làm cơ sở tính thuế nhà, đất"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,5492,5633,"Quyết định số 52/2006/QĐ-UBND Ban hành bảng phân loại đường phố thành phố Buôn Ma Thuột và thị trấn các huyện để làm cơ sở tính thuế nhà, đất"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,5653,5760,"Quyết định số 148/QĐ-UB V/v Phân loại đường phố thị xã, thị trấn trong tỉnh để thu thuế đất ở, đất xây dựng"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,5780,5962,"Quyết định số 21/2007/QĐ-UBND Về việc phê duyệt giá thóc tính thu thuế sử dụng đất nông nghiệp, nhà đất và giá tính thuế sử dụng đất nông nghiệp đối với cây lâu năm thu hoạch một lần"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,5982,6088,Quyết định số 14/2010/QĐ-UBND Điều chỉnh Điều 2 Quyết định số 08/2010/QĐ-UBND ngày 29/3/2010 của UBND tỉnh
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,6108,6247,"Quyết định số 40/2002/QĐ-UB Điều chỉnh, bổ sung nội dung Quyết định số 19/1999/QĐ-UB ngày 02 tháng 4 năm 1999 của Uỷ ban nhân dân Thành phố"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,6267,6490,"Quyết định số 18/2008/QĐ-UBND Về việc sửa đổi Quyết định 52/2006/QĐ-UBND, ngày 19/12/2006 của UBND tỉnh về việc ban hành Bảng phân loại đường phố thành phố Buôn Ma Thuột và thị trấn các huyện để làm cơ sở tính thuế nhà, đất"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,6510,6643,Thông tư số 13/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các hình thức đầu tư theo Luật đầu tư nước ngoài tại Việt Nam
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,6663,6923,"Thông tư số 41/2006/TT-BTC Hướng dẫn thực hiện Quyết định số 161/2005/QĐ-TTg ngày 30/6/2005 của Thủ tướng Chính phủ về việc mở rộng thí điểm cơ sở sản xuất, kinh doanh tự kê  khai, tự nộp thuế nhà đất,thuế thu nhập đối với người có thu nhập cao và thuế môn bài"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,6943,7124,"Thông tư số 32/2009/TT-BTC Hướng dẫn thực hiện qui định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò và khai thác dầu khí theo qui định của Luật Dầu khí"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,7144,7371,"Quyết định số 271/QĐ-UB Về việc phân loại đường phố trong các đô thị để áp dụng tính thuế đất ở đối với các khu vực: tụ điểm sản xuất kinh doanh dịch vụ, khu công nghiệp, khu du lịch, ven trục đường giao thông chính trong tỉnh."
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,7391,7559,"Thông tư số 48/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò dầu khí theo quy định của luật dầu khí"
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,7579,7699,Thông tư số 75-TC/TCT hướng dẫn tỷ giá quy đổi ngoại tệ ra đồng Việt Nam để nộp thuế và các khoản thu Ngân sách Nhà nước
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,7719,7803,Quyết định số 122/2002/QĐ-UB V/v Quy định giá thóc áp dụng thu thuế nhà đất năm 2003
+ENTITY,E38_1,DIEU,Điều,structure,407,413,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1721,1727,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1782,1788,Điều 3
+ENTITY,E39_1,KHOAN,Khoản,structure,484,516,"1) Điều 7 được sửa đổi, bổ sung:"
+ENTITY,E39_2,KHOAN,Khoản,structure,811,1003,"2- Đối với đất ở, đất xây dựng công trình thuộc vùng ven đô thị, ven trục giao thông chính, mức thuế đất bằng 1,5 đến 2,5 lần mức thuế sử dụng đất nông nghiệp của hạng đất cao nhất trong vùng."
+ENTITY,E39_3,KHOAN,Khoản,structure,1085,1264,"3- Đối với đất ở, đất xây dựng công trình thuộc vùng nông thôn đồng bằng, trung du, miền núi, mức thuế đất bằng 1 lần mức thuế sử dụng đất nông nghiệp ghi thu bình quân trong xã""."
+ENTITY,E39_4,KHOAN,Khoản,structure,1265,1298,"2) Khoản 3, Điều 15 được sửa đổi:"
+ENTITY,E39_5,KHOAN,Khoản,structure,1563,1720,"3) Các chữ ""Hội đồng bộ trưởng"" được sửa đổi thành các chữ ""Chính phủ""; các chữ ""thuế nông nghiệp"" được sửa đổi thành các chữ ""thuế sử dụng đất nông nghiệp""."
+ENTITY,E42_1,VB_DUOC_SUA_DOI_BO_SUNG,Văn bản được sửa đổi bổ sung,reference,7836,7878,"Pháp lệnh số 69-LCT/HĐNN8 Về thuế Nhà, Đất"
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,7899,7952,Luật Thuế sử dụng đất phi nông nghiệp số 48/2010/QH12
+RELATION,RAP_DUNG_1,AP_DUNG,áp dụng,E30_1,E2_1,,
+RELATION,RAP_DUNG_2,AP_DUNG,áp dụng,E30_2,E2_1,,
+RELATION,RAP_DUNG_3,AP_DUNG,áp dụng,E30_3,E2_1,,
+RELATION,RAP_DUNG_4,AP_DUNG,áp dụng,E30_4,E2_1,,
+RELATION,RAP_DUNG_5,AP_DUNG,áp dụng,E30_5,E2_1,,
+RELATION,RAP_DUNG_6,AP_DUNG,áp dụng,E30_6,E2_1,,
+RELATION,RAP_DUNG_7,AP_DUNG,áp dụng,E30_7,E2_1,,
+RELATION,RAP_DUNG_8,AP_DUNG,áp dụng,E30_8,E2_1,,
+RELATION,RAP_DUNG_9,AP_DUNG,áp dụng,E30_9,E2_1,,
+RELATION,RAP_DUNG_10,AP_DUNG,áp dụng,E30_10,E2_1,,
+RELATION,RAP_DUNG_11,AP_DUNG,áp dụng,E30_11,E2_1,,
+RELATION,RAP_DUNG_12,AP_DUNG,áp dụng,E30_12,E2_1,,
+RELATION,RAP_DUNG_13,AP_DUNG,áp dụng,E30_13,E2_1,,
+RELATION,RAP_DUNG_14,AP_DUNG,áp dụng,E30_14,E2_1,,
+RELATION,RAP_DUNG_15,AP_DUNG,áp dụng,E30_15,E2_1,,
+RELATION,RAP_DUNG_16,AP_DUNG,áp dụng,E30_16,E2_1,,
+RELATION,RAP_DUNG_17,AP_DUNG,áp dụng,E30_17,E2_1,,
+RELATION,RAP_DUNG_18,AP_DUNG,áp dụng,E30_18,E2_1,,
+RELATION,RAP_DUNG_19,AP_DUNG,áp dụng,E30_19,E2_1,,
+RELATION,RAP_DUNG_20,AP_DUNG,áp dụng,E30_20,E2_1,,
+RELATION,RAP_DUNG_21,AP_DUNG,áp dụng,E30_21,E2_1,,
+RELATION,RAP_DUNG_22,AP_DUNG,áp dụng,E30_22,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RDAN_CHIEU_1,DAN_CHIEU,dẫn chiếu,E29_1,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,RDUOC_SUA_DOI_BO_SUNG_1,DUOC_SUA_DOI_BO_SUNG,được sửa đổi bổ sung,E42_1,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"quy định chi tiết, hướng dẫn thi hành",E24_3,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"quy định chi tiết, hướng dẫn thi hành",E24_4,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"quy định chi tiết, hướng dẫn thi hành",E24_5,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"quy định chi tiết, hướng dẫn thi hành",E24_6,E2_1,,
+RELATION,RTHAY_THE_1,THAY_THE,thay thế,E43_1,E2_1,,
+RELATION,RTHUOC_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,RTHUOC_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,RTHUOC_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,RTHUOC_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,RTHUOC_5,THUOC,Thuộc,E39_5,E38_1,,

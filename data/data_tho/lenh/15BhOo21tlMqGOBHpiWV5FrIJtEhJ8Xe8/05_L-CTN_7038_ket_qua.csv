@@ -1,0 +1,17 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,134,"Lệnh số 05/L-CTN Về việc công bố Luật sửa đổi, bổ sung một số điều của Luật Báo chí; Luật Doanh nghiệp; Luật Mặt trận Tổ quốc Việt Nam"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,16,05/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,740,765,ngày 12 tháng 06 năm 1999
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,833,847,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,868,878,1999-06-26
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,902,914,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,281,329,CHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,281,294,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,927,941,Trần Đức Lương
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,991,1191,"Thông tư liên tịch số 85/2008/TTLT-BVHTTDL-BTTTT Hướng dẫn về cấp phép, đăng ký, thực hiện quảng cáo trên báo chí, mạng thông tin máy tính, xuất bản phẩm và công tác thanh tra, kiểm tra, xử lý vi phạm"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,1211,1411,"Thông tư liên tịch số 85/2008/TTLT-BVHTTDL-BTTTT Hướng dẫn về cấp phép, đăng ký, thực hiện quảng cáo trên báo chí, mạng thông tin máy tính, xuất bản phẩm và công tác thanh tra, kiểm tra, xử lý vi phạm"
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

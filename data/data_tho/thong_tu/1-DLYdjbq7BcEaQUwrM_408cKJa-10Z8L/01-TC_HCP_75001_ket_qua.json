@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0",
+  "document_id": "75001",
+  "document_code": "01-TC/HCP",
+  "file_name": "01-TC_HCP_75001.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Về việc thống nhất mẫu sổ lương",
+    "so_hieu": "01-TC/HCP",
+    "loai_van_ban": "THÔNG TƯ",
+    "co_quan_ban_hanh": "BỘ TÀI CHÍNH",
+    "ngay_ban_hanh": "1959-07-01",
+    "ngay_co_hieu_luc": "1959-07-01",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "THỨ TRƯỞNG",
+    "nguoi_ky": "Nguyễn Thanh Sơn",
+    "nganh": null,
+    "linh_vuc": null
+  },
+  "full_text": "Thông tư số 01-TC/HCP Về việc thống nhất mẫu sổ lương\nBỘ TÀI CHÍNH\n————\nSố: 01-TC/HCP\nVIỆT NAM DÂN CHỦ CỘNG HOÀ\nĐộc lập – Tự do – Hạnh phúc\n————————————\nHà Nội, ngày 07 tháng 01 năm 1959\nTHÔNG TƯ\nVề việc thống nhất mẫu sổ lương\n________________________\nBỘ TRƯỞNG BỘ TÀI CHÍNH\nKính gửi: Các đơn vị dự toán cấp trung ương.\nCho đến nay mỗi nơi lập sổ lương bổng một khác, không có mẫu mực thống nhất. Cách làm cũng mỗi nơi một khác: nơi thì đánh máy sẵn thành nhiều bản dùng làm nhiều tháng, nếu cần thì sửa chữa thêm bớt, nơi thì hàng tháng phải viết tay tốn rất nhiều thì giờ.\nĐặc biệt là rất ít nơi lập “Sổ thống kê theo dõi lương bổng” của tất cả nhân viên của cơ quan hoặc “Phiếu kiểm soát lương bổng cá nhân”, nên không nắm được chắc chắn số người lĩnh lương ở cơ quan, hoặc khi cần làm truy lĩnh lương thiếu hay truy nộp lương lĩnh thừa cho một số cán bộ nào đó cũng bị lúng túng vì phải tra cứu nhiều tài liệu.\nĐứng trước tình hình ấy, Bộ Tài chính nhận thấy cần phải thống nhất cách lập sở lương bổng của cán bộ nhân viên nhằm đạt các mục đích sau đây:\n1) Kiểm soát dễ dàng số lương và phụ cấp của mỗi cán bộ, đối chiếu dễ dàng tháng trước với tháng sau để phát hiện chênh lệch, đồng thời nắm được chắc chắn tổng số cán bộ trong biên chế của cơ quan lĩnh lương và phụ cấp hàng tháng.\n2) Giảm bớt thì giờ trong việc làm lương hàng tháng. Hàng tháng không phải đánh máy hoặc viết tay sổ lương.\n3) Tiết kiệm số lượng giấy để lập sổ lương.\nVậy Bộ Tài chính xin đề nghị lập một sổ lương và phụ cấp dùng luôn trong một năm. Sổ lương này mở như một quyển sách, mỗi tháng một trang. Hàng tháng không viết lại các cột “Họ tên”, “Bậc lương”, “Số con được hưởng trợ cấp”.\nKèm theo đây mẫu sổ lương và bảng lương dẫn cách sử dụng sổ lương đó. Sổ lương này thay thế cho “Sổ thống kê theo dõi lương bổng của cơ quan” và “Phiếu kiểm soát lương bổng cá nhân”.\nSổ lương không phải kèm theo quyết toán hàng tháng. Khi nào cần nghiên cứu, cơ quan Tài chính sẽ cử cán bộ đến xem tại chỗ hoặc mượn xem xong rồi trả lại.\nBộ Tài chính trân trọng yêu cầu các đơn vị nghiên cứu và nếu thấy thuận lợi thì cho áp dụng ngay. Đơn vị nào có sáng kiến có thể giản đơn được hơn nữa và đạt được các mục đích trên đây, cho Bộ Tài chính biết để kịp thời phổ biến đi nơi khác.\nTHỨ TRƯỞNG\n(Đã ký)\nNguyễn Thanh Sơn\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Ngày ban hành]: 1959-07-01\n[Ngày có hiệu lực]: 1959-07-01\n[Tình trạng hiệu lực]: Còn hiệu lực",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 196,
+      "end": 227,
+      "text": "Về việc thống nhất mẫu sổ lương",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 76,
+      "end": 85,
+      "text": "01-TC/HCP",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 187,
+      "end": 195,
+      "text": "THÔNG TƯ",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 2352,
+      "end": 2362,
+      "text": "1959-07-01",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 2383,
+      "end": 2393,
+      "text": "1959-07-01",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 2417,
+      "end": 2429,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 54,
+      "end": 66,
+      "text": "BỘ TÀI CHÍNH",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 2247,
+      "end": 2257,
+      "text": "THỨ TRƯỞNG",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 2266,
+      "end": 2282,
+      "text": "Nguyễn Thanh Sơn",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "document_id": "99_2022_NĐ-CP_159372",
+    "entity_id": "E37_1",
+    "label": "Tiểu mục",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "99_2022_NĐ-CP_159372",
+    "entity_id": "E37_2",
+    "label": "Tiểu mục",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "Khong_so_10812",
+    "entity_id": "E41_2",
+    "label": "Văn bản được thay thế",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "Khong_so_10813",
+    "entity_id": "E41_1",
+    "label": "Văn bản được thay thế",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "Khong_so_3042",
+    "entity_id": "E43_1",
+    "label": "Văn bản thay thế",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "Khong_so_3043",
+    "entity_id": "E43_1",
+    "label": "Văn bản thay thế",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "002_2025_TT-BNV_176720",
+    "entity_id": "E41_1",
+    "label": "Văn bản được sửa đổi bổ sung",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "004_2025_TT-BNV_177460",
+    "entity_id": "E41_1",
+    "label": "Văn bản được thay thế",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "01_1998_TT-BKH_8003",
+    "entity_id": "E41_1",
+    "label": "Văn bản được sửa đổi bổ sung",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "01_1999_TT-NG_25133",
+    "entity_id": "E41_1",
+    "label": "Văn bản được thay thế",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "01_2000_TT-BTM_6363",
+    "entity_id": "E41_1",
+    "label": "Văn bản được sửa đổi bổ sung",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "01_2001_TT-BTS_22669",
+    "entity_id": "E41_1",
+    "label": "Văn bản được sửa đổi bổ sung",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "01_2001_TT-NHNN_23420",
+    "entity_id": "E41_1",
+    "label": "Văn bản được thay thế",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "01_2003_TT-BGTVT_21826",
+    "entity_id": "E41_1",
+    "label": "Văn bản được thay thế",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  },
+  {
+    "document_id": "01_2004_TT-BLĐTBXH_17852",
+    "entity_id": "E41_1",
+    "label": "Văn bản được sửa đổi bổ sung",
+    "status": "NEEDS_HUMAN_REVIEW",
+    "used_as_target": false
+  }
+]

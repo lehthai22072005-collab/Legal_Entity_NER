@@ -1,0 +1,277 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,52,"Luật Bảo vệ, chăm sóc và giáo dục trẻ em số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,44,52,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,11032,11064,Lao động - Thương binh và Xã hội
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,10915,10939,ngày 12 tháng 8 năm 1991
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,11077,11091,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,11112,11122,1991-08-16
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,11144,11154,2005-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,11178,11198,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,53,61,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,10941,10949,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,10958,10970,Lê Quang Đạo
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,11291,11309,Hiến pháp năm 1980
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,11218,11236,Hiến pháp năm 1980
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,11359,11479,"Chỉ thị số 02/CT-UB Về việc triển khai thực hiện Luật bảo vệ, chăm sóc giáo dục trẻ em và luật phổ cập giáo dục tiểu học"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,11529,11746,"Quyết định số 145-HĐBT Ban hành quy định tạm thời về việc cho người nước ngoài nhận con nuôi là trẻ em Việt nam bị mồ côi, bị bỏ rơi, bị tàn tật ở các cơ sở nuôi dưỡng do ngành Lao động - Thương binh và Xã hội quản lý"
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,11796,11862,Quyết định số 117/QĐ-BT về việc trao giải thưởng báo chí Vì trẻ em
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,11912,12001,Chỉ thị số 11/2001/CT-UB Về việc triển khai “Tháng hành động vì trẻ em” từ 15/5-30/6/2001
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,18231,18287,"Luật Bảo vệ, chăm sóc và giáo dục trẻ em số 25/2004/QH11"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12023,12126,Chỉ thị số 08/2008/CT-UBND Về việc tổ chức “Tháng hành động vì trẻ em” và “Ngày Gia đình Việt Nam 28-6”
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12148,12269,Thông tư số 28/TT-BT Hướng dẫn tổ chức phân bổ và quản lý kinh phí Trung ương Chương trình bảo vệ và chăm sóc trẻ em 1996
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12291,12396,"Chỉ thị số 22/2004/CT-UB Về việc tổ chức ""Tháng hành động vì trẻ em"" và ""Ngày gia đình Việt Nam"" năm 2004"
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12418,12572,"Chỉ thị số 06/1998/CT-TTg Về việc tăng cường công tác bảo vệ trẻ em, ngăn ngừa và giải quyết tình trạng trẻ em lang thanh, trẻ em bị lạm dụng sức lao động"
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12594,12771,"Chỉ thị số 29/1998/CT-UBND Về việc tăng cường công tác bảo vệ, chăm sóc và giáo dục trẻ em, ngăn ngừa và giải quyết tình trạng trẻ em lang thang, trẻ em bị lạm dụng sức lao động"
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12793,12889,"Chỉ thị số 03/2000/CT-TTg Về việc đẩy mạnh các hoạt động văn hóa, vui chơi, giải trí cho trẻ em."
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12911,13135,"Chỉ thị số 04/2000/CT.UB-VX Về việc đẩy nhanh thực hiện các mục tiêu đến năm 2000 vì trẻ em, tổng kết Chương, trình hành động Quốc gia vì trẻ em 1991 - 2000; xây dựng Chương trình hành động Quốc gia vì trẻ em năm 2001 – 2010"
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,13157,13281,Chỉ thị số 10/2001/CT-UB Về việc triển khai thực hiện chương trình hành động Vì trẻ em thành phố Đà Nẵng giai đoạn 2001-2010
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,13301,13433,"Quyết định số 1421/1998/QĐ-UB V/v Ban hành quy chế về tổ chức, hoạt động của Ủy ban Bảo vệ và chăn sóc trẻ em tỉnh Bà Rịa - Vũng Tàu"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,13453,13537,Quyết định số 833/1998/QĐ-UB V/v bàn giao mục tiêu phòng chống suy dinh dưỡng trẻ em
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,13557,13699,"Quyết định số 16/2007/QĐ-UBND Ban hành Quy định về phong trào thi đua Thực hiện công tác 
+Dân số, Gia đình và Trẻ em trên địa bàn tỉnh Lào Cai"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,13719,13936,"Quyết định số 145-HĐBT Ban hành quy định tạm thời về việc cho người nước ngoài nhận con nuôi là trẻ em Việt nam bị mồ côi, bị bỏ rơi, bị tàn tật ở các cơ sở nuôi dưỡng do ngành Lao động - Thương binh và Xã hội quản lý"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,13956,14073,"Nghị định số 118-CP Về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Uỷ ban Bảo vệ và chăm sóc trẻ em Việt Nam"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,14093,14202,Quyết định số 381/1998/QĐ-UB Về việc ban hành quy chế quản lý cây xanh thuộc phạm vi nội thị thành phố Đà Lạt
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,14222,14350,Quyết định số 134/1999/QĐ-TTg Về việc phê duyệt Chương trình hành động Bảo vệ trẻ em có hoàn cảnh đặc biệt giai đoạn 1999 - 2002
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,14370,14504,Quyết định số 46/QĐ-UB/TC Về việc thành lập Quĩ Bảo trợ trẻ em tỉnh Lâm Đồng và Ban vận động xây dựng Quĩ Bảo trợ trẻ em tỉnh Lâm Đồng
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,14524,14616,"Quyết định số 643/QĐ-UB V/v ban hành quy định thu nộp, quản lý và sử dụng quỹ bảo trợ trẻ em"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,14636,14846,"Nghị quyết số 192/NQ-HĐND17 V/v sửa đổi, bổ sung Nghị quyết số 79/2013/NQ-HĐND17 của HĐND tỉnh về thực hiện Chương trình “Sữa học đường” trong các trường mầm non trên địa bàn tỉnh Bắc Ninh giai đoạn 2013 – 2017"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,14866,14998,Nghị định số 74/2000/NĐ-CP Về kinh doanh và sử dụng các sản phẩm thay thế sữa mẹ để bảo vệ và khuyến khích việc nuôi con bằng sữa mẹ
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,15018,15095,Quyết định số 89/2001/QĐ-UB Về việc thành lập Quỹ bảo trợ Trẻ em tỉnh Gia Lai
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,15115,15251,"Quyết định số 426/1997/QĐ-UB Về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Ủy ban bảo vệ và chăm sóc trẻ em tỉnh tỉnh Hưng Yên"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,15271,15358,Quyết định số 135/2003/QĐ-TTg Về việc củng cố và phát triển Quỹ Bảo trợ trẻ em Việt Nam
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,15378,15513,Quyết định số 36/2002/QĐ-UB Về việc Sửa đổi một số Điều của Quyết định số 710/QĐ-UB ngày 31 tháng 3 năm 1997 của UBND thành phố Đà Nẵng
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,15533,15664,Quyết định số 302/2002/QĐ-UB Về việc ban hành quy định về quản lý và hoạt động Quỹ bảo trợ trẻ em các cấp trên địa bàn tỉnh Lào Cai
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,15684,15763,Quyết định số 480/1997/QĐ-UB Về việc thành lập quỹ bảo trợ trẻ em tỉnh Hưng Yên
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,15783,15902,Quyết định số 23/2001/QĐ-TTg Về việc phê duyệt Chương trình Hành động quốc gia vì trẻ em Việt Nam giai đoạn 2001 - 2010
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,15922,16042,"Chỉ thị số 02/CT-UB Về việc triển khai thực hiện Luật bảo vệ, chăm sóc giáo dục trẻ em và luật phổ cập giáo dục tiểu học"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,16062,16143,Quyết định số 803/QĐ-UB Về việc ban hành Điều lệ Quỹ bảo trợ trẻ em tỉnh Cao Bằng
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,16163,16295,"Quyết định số 38/2004/QĐ-TTg Về chính sách trợ giúp kinh phí cho gia đình, cá nhân nhận nuôi dưỡng trẻ em mồ côi và trẻ em bị bỏ rơi"
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,16315,16404,Chỉ thị số 11/2001/CT-UB Về việc triển khai “Tháng hành động vì trẻ em” từ 15/5-30/6/2001
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,16424,16578,"Chỉ thị số 06/1998/CT-TTg Về việc tăng cường công tác bảo vệ trẻ em, ngăn ngừa và giải quyết tình trạng trẻ em lang thanh, trẻ em bị lạm dụng sức lao động"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,16598,16776,"Quyết định số 853/2007/QĐ-UBND Về việc phê duyệt đề án ngăn ngừa và giải quyết tình trạng trẻ em phải lao động nặng nhọc, trong điều kiện độc hại và nguy hiểm giai đoạn 2006-2010"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,16796,16929,"Quyết định số 3213/QĐ-UB Về việc thành lập Ban chỉ đạo thực hiện ""chiến dịch tiêm nhắc lạivắc xin phòng bệnh sởi"" thành phố Hải Phòng"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,16949,17083,Quyết định số 307-TTg Quy định một số vấn đề về kinh doanh và sử dụng các sản phẩm thay thế sữa mẹ để hỗ trợ việc nuôi con bằng sữa mẹ
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,17103,17184,Quyết định số 25/2002/QĐ-UB V/v ban hành điều lệ Quỹ bảo trợ trẻ em tỉnh Hưng Yên
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,17204,17327,Quyết định số 12/2000/QĐ-UB Về việc ban hành chương trình hành động bảo vệ trẻ em có hoàn cảnh đặc biệt giai đoạn 2000-2002
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,17347,17486,"Quyết định số 2485/QĐ.UB-VX Về việc dừng thu viện phí đối với trẻ em dưới 6 tuổi của tỉnh, khi các cháu khám chữa bệnh vượt tuyến trái phép"
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,17506,17614,"Quyết định số 831/QĐ-UBT Ban hành Quy định về vận động, quản lý và sử dụng quỹ Bảo trợ trẻ em tỉnh Vĩnh Long"
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,17634,17717,Quyết định số 17/2002/QĐ-UB Về việc ban hành Điều lệ Quỹ Bảo trợ trẻ em tỉnh Cà Mau
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,17737,17841,"Chỉ thị số 05/CT-UB Về việc triển khai tháng hành động vì trẻ em và sơ kết 1 năm
+thực hiện Chỉ thị 38/TW"
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,17861,17927,Quyết định số 117/QĐ-BT về việc trao giải thưởng báo chí Vì trẻ em
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,17947,18181,"Quyết định số 19/2004/QĐ-TTg Về việc phê duyệt Chương trình Ngăn ngừa và giải quyết tình trạng trẻ em lang thang, trẻ em bị xâm phạm tình dục và trẻ em phải lao động nặng nhọc, trong điều kiện độc hại, nguy hiểm  giai đoạn 2004 - 2010"
+ENTITY,E35_1,CHUONG,Chương,structure,759,767,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,1646,1655,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,5884,5894,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,9968,9977,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,10621,10629,CHƯƠNG V
+ENTITY,E38_1,DIEU,Điều,structure,789,867,"Điều 1
+Trẻ em quy định trong Luật này là công dân Việt Nam dưới mười sáu tuổi."
+ENTITY,E38_2,DIEU,Điều,structure,868,1187,"Điều 2
+Trẻ em, không phân biệt gái, trai, con trong giá thú, con ngoài giá thú, con đẻ, con nuôi, con riêng, con chung; không phân biệt dân tộc, tôn giáo, thành phần, địa vị xã hội, chính kiến của cha mẹ hoặc của người nuôi dưỡng, đều được bảo vệ, chăm sóc và giáo dục, được hưởng các quyền theo quy định của pháp luật."
+ENTITY,E38_3,DIEU,Điều,structure,1188,1472,"Điều 3
+Việc bảo vệ, chăm sóc và giáo dục trẻ em là trách nhiệm của gia đình, nhà trường, cơ quan Nhà nước, tổ chức xã hội và công dân.
+Nhà nước khuyến khích và tạo điều kiện để các tổ chức, cá nhân ở trong nước và ngoài nước góp phần vào sự nghiệp bảo vệ, chăm sóc và giáo dục trẻ em."
+ENTITY,E38_4,DIEU,Điều,structure,1473,1646,"Điều 4
+Các quyền của trẻ em phải được tôn trọng và thực hiện.
+Mọi hành vi vi phạm quyền của trẻ em, làm tổn hại đến sự phát triển bình thường của trẻ em, đều bị nghiêm trị.
+"
+ENTITY,E38_5,DIEU,Điều,structure,1696,1702,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,1860,1866,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,2375,2739,"Điều 7
+Trẻ em có quyền sống chung với cha mẹ. Không ai có quyền buộc trẻ em phải cách ly cha mẹ, trừ trường hợp vì lợi ích của đứa trẻ.
+Việc giao, nhận trẻ em làm con nuôi phải theo quy định của pháp luật, bảo đảm cho đứa trẻ được nuôi dưỡng, chăm sóc, giáo dục tốt.
+Mọi trường hợp đưa trẻ em ra nước ngoài hoặc từ nước ngoài vào, phải theo quy định của pháp luật."
+ENTITY,E38_8,DIEU,Điều,structure,2740,2746,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,3169,3175,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,3640,3647,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,4032,4039,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,4479,4731,"Điều 12
+Trẻ em có quyền có tài sản, quyền thừa kế, quyền hưởng các chế độ bảo hiểm theo quy định của pháp luật. Cha mẹ, người đỡ đầu hoặc cơ quan, tổ chức hữu quan phải giữ gìn, quản lý tài sản của trẻ em và giao lại cho trẻ em khi đến tuổi thành niên."
+ENTITY,E38_13,DIEU,Điều,structure,4732,4759,"Điều 13
+Trẻ em có bổn phận:"
+ENTITY,E38_14,DIEU,Điều,structure,5286,5293,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,5700,5884,"Điều 15
+Việc truy cứu trách nhiệm hành chính, trách nhiệm dân sự, trách nhiệm hình sự đối với trẻ em vi phạm pháp luật, phải theo quy định của pháp luật đối với người chưa thành niên.
+"
+ENTITY,E38_16,DIEU,Điều,structure,5940,5947,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,6694,6839,"Điều 17
+Cha mẹ, người đỡ đầu phải chịu trách nhiệm hành chính, trách nhiệm dân sự về những thiệt hại do hành vi của đứa trẻ mình nuôi dạy gây ra."
+ENTITY,E38_18,DIEU,Điều,structure,6840,6847,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,7216,7223,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,7886,8237,"Điều 20
+Uỷ ban bảo vệ và chăm sóc trẻ em có nhiệm vụ giúp Hội đồng bộ trưởng, Uỷ ban nhân dân cùng cấp hướng dẫn, kiểm tra, đôn đốc và giám sát việc thực hiện kế hoạch bảo vệ, chăm sóc và giáo dục trẻ em; tổ chức sự phối hợp giữa các cơ quan Nhà nước, tổ chức xã hội, tổ chức kinh tế có liên quan để thực hiện việc bảo vệ, chăm sóc và giáo dục trẻ em."
+ENTITY,E38_21,DIEU,Điều,structure,8238,8245,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,9203,9210,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,10007,10170,"Điều 23
+Cơ quan, tổ chức, gia đình, cá nhân có thành tích xuất sắc trong việc bảo vệ, chăm sóc và giáo dục trẻ em, được khen thưởng theo chế độ chung của Nhà nước."
+ENTITY,E38_24,DIEU,Điều,structure,10171,10621,"Điều 24
+Người xâm phạm quyền của trẻ em, ngược đãi, làm nhục, hành hạ, ruồng bỏ trẻ em; kích động, lôi kéo, ép buộc trẻ em thực hiện những hành vi vi phạm pháp luật, thiếu tinh thần trách nhiệm trong việc thực hiện nhiệm vụ bảo vệ, chăm sóc, giáo dục trẻ em làm hại đến sự phát triển bình thường của trẻ em hoặc vi phạm các quy định khác của Luật này, thì tuỳ theo mức độ mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự.
+"
+ENTITY,E38_25,DIEU,Điều,structure,10651,10709,"Điều 25
+Những quy định trước đây trái Luật này đều bãi bỏ."
+ENTITY,E38_26,DIEU,Điều,structure,10710,10773,"Điều 26
+Hội đồng bộ trưởng quy định chi tiết thi hành Luật này."
+ENTITY,E39_1,KHOAN,Khoản,structure,1703,1753,1- Trẻ em có quyền được khai sinh và có quốc tịch.
+ENTITY,E39_2,KHOAN,Khoản,structure,1754,1859,"2- Trẻ em không rõ cha, mẹ, khi có yêu cầu, được cơ quan có thẩm quyền giúp đỡ xác định cha, mẹ cho mình."
+ENTITY,E39_3,KHOAN,Khoản,structure,1867,1953,"1- Trẻ em có quyền được chăm sóc, nuôi dạy để phát triển thể chất, trí tuệ và đạo đức."
+ENTITY,E39_4,KHOAN,Khoản,structure,1954,2100,"2- Trẻ em dân tộc thiểu số, trẻ em ở vùng cao, hải đảo, vùng xa xôi hẻo lánh, được Nhà nước tạo điều kiện trong việc bảo vệ, chăm sóc và giáo dục."
+ENTITY,E39_5,KHOAN,Khoản,structure,2101,2291,"3- Trẻ em tàn tật, trẻ em có khuyết tật, được Nhà nước và xã hội giúp đỡ trong việc điều trị, phục hồi chức năng để hoà nhập vào cuộc sống xã hội; được thu nhận vào các trường, lớp đặc biệt."
+ENTITY,E39_6,KHOAN,Khoản,structure,2292,2374,"4- Trẻ em không nơi nương tựa, được Nhà nước và xã hội tổ chức chăm sóc, nuôi dạy."
+ENTITY,E39_7,KHOAN,Khoản,structure,2747,2912,"1- Trẻ em được Nhà nước và xã hội tôn trọng, bảo vệ tính mạng, thân thể, nhân phẩm và danh dự; được bày tỏ ý kiến, nguyện vọng của mình về những vấn đề có liên quan."
+ENTITY,E39_8,KHOAN,Khoản,structure,2913,3168,"2- Nghiêm cấm việc ngược đãi, làm nhục, hành hạ, ruồng bỏ trẻ em; bắt trộm, bắt cóc, mua bán, đánh tráo trẻ em; kích động, lôi kéo, ép buộc trẻ em thực hiện những hành vi vi phạm pháp luật hoặc làm những việc có hại đến sự phát triển lành mạnh của trẻ em."
+ENTITY,E39_9,KHOAN,Khoản,structure,3176,3386,"1- Trẻ em được chăm sóc, bảo vệ sức khoẻ. Trẻ em dưới sáu tuổi được chăm sóc sức khoẻ ban đầu, được khám bệnh, chữa bệnh không phải trả tiền tại các cơ sở y tế của Nhà nước theo quy định của Hội đồng bộ trưởng."
+ENTITY,E39_10,KHOAN,Khoản,structure,3387,3518,"2- Cơ quan y tế Nhà nước có trách nhiệm theo dõi, hướng dẫn, tổ chức thực hiện việc phòng bệnh và khám sức khoẻ định kỳ cho trẻ em."
+ENTITY,E39_11,KHOAN,Khoản,structure,3519,3639,"3- Nghiêm cấm việc sử dụng lao động trẻ em trái quy định của pháp luật, có hại cho sự phát triển bình thường của trẻ em."
+ENTITY,E39_12,KHOAN,Khoản,structure,3648,3812,"1- Trẻ em có quyền được học tập và có bổn phận học hết chương trình giáo dục phổ cập. Trẻ em học bậc tiểu học trong các trường, lớp quốc lập không phải trả học phí."
+ENTITY,E39_13,KHOAN,Khoản,structure,3813,3889,"2- Cha mẹ, người đỡ đầu có trách nhiệm tạo điều kiện tốt cho con em học tập."
+ENTITY,E39_14,KHOAN,Khoản,structure,3890,4031,"3- Nhà nước có chính sách bảo đảm quyền học tập của trẻ em, khuyến khích trẻ em học tập tốt và tạo điều kiện để trẻ em phát triển năng khiếu."
+ENTITY,E39_15,KHOAN,Khoản,structure,4040,4171,"1- Trẻ em có quyền vui chơi, giải trí lành mạnh, được hoạt động văn hoá, văn nghệ, thể dục, thể thao, du lịch phù hợp với lứa tuổi."
+ENTITY,E39_16,KHOAN,Khoản,structure,4172,4335,"2- Nhà nước khuyến khích và bảo trợ việc xây dựng, bảo vệ, sử dụng tốt những cơ sở vật chất, kỹ thuật và phương tiện phục vụ trẻ em học tập, sinh hoạt và vui chơi."
+ENTITY,E39_17,KHOAN,Khoản,structure,4336,4478,"3- Nghiêm cấm việc sử dụng những cơ sở vật chất, phương tiện công cộng dành cho việc học tập, vui chơi, giải trí của trẻ em vào mục đích khác."
+ENTITY,E39_18,KHOAN,Khoản,structure,4760,4958,"1- Yêu quý, kính trọng, hiếu thảo đối với ông bà, cha mẹ, lễ phép với người lớn, thương yêu em nhỏ, đoàn kết với bạn bè, giúp đỡ người già yếu, tàn tật, giúp đỡ gia đình làm những việc vừa sức mình;"
+ENTITY,E39_19,KHOAN,Khoản,structure,4959,5033,"2- Chăm chỉ học tập, rèn luyện thân thể; tuân theo nội quy của nhà trường;"
+ENTITY,E39_20,KHOAN,Khoản,structure,5034,5179,"3- Tôn trọng pháp luật; thực hiện nếp sống văn minh, trật tự công cộng và an toàn giao thông; giữ gìn của công, tôn trọng tài sản của người khác;"
+ENTITY,E39_21,KHOAN,Khoản,structure,5180,5285,"4- Yêu quê hương, đất nước, yêu đồng bào, có ý thức xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa."
+ENTITY,E39_22,KHOAN,Khoản,structure,5294,5399,"1- Trẻ em không được đánh bạc, uống rượu, hút thuốc và dùng các chất kích thích khác có hại cho sức khoẻ."
+ENTITY,E39_23,KHOAN,Khoản,structure,5400,5518,"2- Nghiêm cấm việc lôi kéo trẻ em đánh bạc, cho trẻ em uống rượu, hút thuốc, dùng chất kích thích có hại cho sức khoẻ."
+ENTITY,E39_24,KHOAN,Khoản,structure,5519,5699,"3- Nghiêm cấm việc dụ dỗ, dẫn dắt trẻ em mại dâm, bán hoặc cho trẻ em sử dụng những văn hoá phẩm đồi truỵ, đồ chơi hoặc chơi trò chơi có hại cho sự phát triển lành mạnh của trẻ em."
+ENTITY,E39_25,KHOAN,Khoản,structure,5948,6109,"1- Cha mẹ hoặc người đỡ đầu là người trước tiên chịu trách nhiệm về việc bảo vệ, chăm sóc, nuôi dạy trẻ em, dành điều kiện tốt nhất cho sự phát triển của trẻ em."
+ENTITY,E39_26,KHOAN,Khoản,structure,6110,6366,"2- Cha mẹ, các thành viên lớn tuổi khác trong gia đình, người đỡ đầu phải làm gương tốt về mọi mặt cho trẻ em noi theo; khi gặp khó khăn tự mình không giải quyết được, có thể yêu cầu cơ quan hoặc tổ chức hữu quan giúp đỡ để thực hiện tốt nghĩa vụ của mình."
+ENTITY,E39_27,KHOAN,Khoản,structure,6367,6693,"3- Trong trường hợp ly hôn hoặc trong các trường hợp khác, người cha hoặc người mẹ không trực tiếp nuôi con chưa thành niên có nghĩa vụ đóng góp để nuôi dưỡng, giáo dục con; có quyền và nghĩa vụ thăm nom, chăm sóc con theo quy định của pháp luật.
+Nghiêm cấm hành vi xúi giục trẻ em thù ghét cha mẹ, gia đình hoặc người đỡ đầu."
+ENTITY,E39_28,KHOAN,Khoản,structure,6848,7017,"1- Nhà trẻ, trường, lớp mẫu giáo, trường phổ thông phải có những điều kiện cần thiết để bảo đảm chất lượng nuôi dạy trẻ em, thực hiện tốt mục tiêu giáo dục của Nhà nước."
+ENTITY,E39_29,KHOAN,Khoản,structure,7018,7215,"2- Cô nuôi dạy trẻ, giáo viên, tổng phụ trách Đội phải được đào tạo, bồi dưỡng về chuyên môn, nghiệp vụ, phải có sức khoẻ, có phẩm chất, đạo đức tốt, yêu nghề, yêu trẻ, bảo đảm hoàn thành nhiệm vụ."
+ENTITY,E39_30,KHOAN,Khoản,structure,7224,7341,"1- Nhà nước dành một tỷ lệ ngân sách thích đáng trong kế hoạch hàng năm cho việc bảo vệ, chăm sóc và giáo dục trẻ em."
+ENTITY,E39_31,KHOAN,Khoản,structure,7342,7628,"2- Các Bộ, Uỷ ban Nhà nước, các cơ quan khác thuộc Hội đồng bộ trưởng, Hội đồng nhân dân và Uỷ ban nhân dân các cấp, theo chức năng, quyền hạn của mình, chịu trách nhiệm tổ chức thực hiện chương trình công tác bảo vệ, chăm sóc và giáo dục trẻ em, bảo đảm thực hiện các quyền của trẻ em."
+ENTITY,E39_32,KHOAN,Khoản,structure,7629,7885,"3- Các cơ quan bảo vệ pháp luật, theo chức năng của mình, có trách nhiệm thực hiện hoặc phối hợp thực hiện việc bảo vệ các quyền và lợi ích của trẻ em, phòng ngừa hành vi vi phạm pháp luật của trẻ em, giáo dục trẻ em hư và cải tạo trẻ em vi phạm pháp luật."
+ENTITY,E39_33,KHOAN,Khoản,structure,8246,8362,"1- Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, các cơ quan thông tin đại chúng có trách nhiệm:"
+ENTITY,E39_34,KHOAN,Khoản,structure,8815,9006,"2- Hội liên hiệp phụ nữ Việt Nam, ngoài trách nhiệm quy định tại khoản 1, Điều này, có nhiệm vụ phối hợp với cơ quan, tổ chức hữu quan để tổ chức, hướng dẫn việc nuôi con khoẻ, dạy con ngoan."
+ENTITY,E39_35,KHOAN,Khoản,structure,9007,9202,"3- Đoàn thanh niên cộng sản Hồ Chí Minh, ngoài trách nhiệm quy định tại khoản 1, Điều này, có nhiệm vụ phụ trách Đội thiếu niên tiền phong Hồ Chí Minh, tổ chức, hướng dẫn hoạt động của thiếu nhi."
+ENTITY,E39_36,KHOAN,Khoản,structure,9211,9526,"1- Nhà nước bảo trợ các công trình khoa học và công nghệ, các tác phẩm văn học, nghệ thuật, mọi sáng kiến, việc làm có lợi cho sự nghiệp bảo vệ, chăm sóc và giáo dục trẻ em; khuyến khích các tổ chức kinh tế thuộc các thành phần dành một phần quỹ phúc lợi hoặc lợi nhuận vào việc bảo vệ, chăm sóc và giáo dục trẻ em."
+ENTITY,E39_37,KHOAN,Khoản,structure,9527,9824,"2- Quỹ bảo trợ trẻ em được thành lập bằng sự đóng góp của các cơ quan Nhà nước, đoàn thể nhân dân, tổ chức kinh tế, văn hoá, tổ chức từ thiện, tổ chức nhân đạo và các tổ chức xã hội khác, của các cá nhân ở trong nước, ngoài nước, viện trợ quốc tế cho sự nghiệp bảo vệ, chăm sóc và giáo dục trẻ em."
+ENTITY,E39_38,KHOAN,Khoản,structure,9825,9968,"3- Nghiêm cấm việc sử dụng Quỹ bảo trợ trẻ em và các nguồn tài chính khác dành cho việc bảo vệ, chăm sóc và giáo dục trẻ em vào mục đích khác.
+"
+ENTITY,E40_1,DIEM,Điểm,structure,8363,8455,"a) Tuyên truyền, giáo dục đoàn viên, hội viên và nhân dân chấp hành tốt pháp luật về trẻ em;"
+ENTITY,E40_2,DIEM,Điểm,structure,8456,8526,"b) Vận động các gia đình thực hiện tốt việc chăm sóc, giáo dục trẻ em;"
+ENTITY,E40_3,DIEM,Điểm,structure,8527,8814,"c) Chăm lo, bảo vệ quyền lợi của trẻ em, giám sát việc chấp hành pháp luật về trẻ em, đưa ra những kiến nghị cần thiết đối với các cơ quan Nhà nước hữu quan để thực hiện những nhiệm vụ đó; ngăn ngừa những hành vi và kháng nghị đối với những quyết định xâm phạm quyền, lợi ích của trẻ em."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_4,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E2_1,E29_6,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E2_1,E29_7,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E2_1,E29_8,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E2_1,E30_19,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E2_1,E30_20,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E2_1,E30_21,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E2_1,E30_22,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E2_1,E30_23,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E2_1,E30_24,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E2_1,E30_25,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E2_1,E30_26,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E2_1,E30_27,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E2_1,E30_28,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E2_1,E30_29,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E2_1,E30_30,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E2_1,E30_31,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E2_1,E30_32,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E2_1,E30_33,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E2_1,E30_34,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_2,,
+RELATION,R22_8,THUOC,Thuộc,E39_1,E38_5,,
+RELATION,R22_9,THUOC,Thuộc,E39_2,E38_5,,
+RELATION,R22_10,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_11,THUOC,Thuộc,E39_3,E38_6,,
+RELATION,R22_12,THUOC,Thuộc,E39_4,E38_6,,
+RELATION,R22_13,THUOC,Thuộc,E39_5,E38_6,,
+RELATION,R22_14,THUOC,Thuộc,E39_6,E38_6,,
+RELATION,R22_15,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_16,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_17,THUOC,Thuộc,E39_7,E38_8,,
+RELATION,R22_18,THUOC,Thuộc,E39_8,E38_8,,
+RELATION,R22_19,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_20,THUOC,Thuộc,E39_9,E38_9,,
+RELATION,R22_21,THUOC,Thuộc,E39_10,E38_9,,
+RELATION,R22_22,THUOC,Thuộc,E39_11,E38_9,,
+RELATION,R22_23,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_24,THUOC,Thuộc,E39_12,E38_10,,
+RELATION,R22_25,THUOC,Thuộc,E39_13,E38_10,,
+RELATION,R22_26,THUOC,Thuộc,E39_14,E38_10,,
+RELATION,R22_27,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_28,THUOC,Thuộc,E39_15,E38_11,,
+RELATION,R22_29,THUOC,Thuộc,E39_16,E38_11,,
+RELATION,R22_30,THUOC,Thuộc,E39_17,E38_11,,
+RELATION,R22_31,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_32,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_33,THUOC,Thuộc,E39_18,E38_13,,
+RELATION,R22_34,THUOC,Thuộc,E39_19,E38_13,,
+RELATION,R22_35,THUOC,Thuộc,E39_20,E38_13,,
+RELATION,R22_36,THUOC,Thuộc,E39_21,E38_13,,
+RELATION,R22_37,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_38,THUOC,Thuộc,E39_22,E38_14,,
+RELATION,R22_39,THUOC,Thuộc,E39_23,E38_14,,
+RELATION,R22_40,THUOC,Thuộc,E39_24,E38_14,,
+RELATION,R22_41,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_42,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,R22_43,THUOC,Thuộc,E39_25,E38_16,,
+RELATION,R22_44,THUOC,Thuộc,E39_26,E38_16,,
+RELATION,R22_45,THUOC,Thuộc,E39_27,E38_16,,
+RELATION,R22_46,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,R22_47,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,R22_48,THUOC,Thuộc,E39_28,E38_18,,
+RELATION,R22_49,THUOC,Thuộc,E39_29,E38_18,,
+RELATION,R22_50,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,R22_51,THUOC,Thuộc,E39_30,E38_19,,
+RELATION,R22_52,THUOC,Thuộc,E39_31,E38_19,,
+RELATION,R22_53,THUOC,Thuộc,E39_32,E38_19,,
+RELATION,R22_54,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,R22_55,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,R22_56,THUOC,Thuộc,E39_33,E38_21,,
+RELATION,R22_57,THUOC,Thuộc,E40_1,E39_33,,
+RELATION,R22_58,THUOC,Thuộc,E40_2,E39_33,,
+RELATION,R22_59,THUOC,Thuộc,E40_3,E39_33,,
+RELATION,R22_60,THUOC,Thuộc,E39_34,E38_21,,
+RELATION,R22_61,THUOC,Thuộc,E39_35,E38_21,,
+RELATION,R22_62,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,R22_63,THUOC,Thuộc,E39_36,E38_22,,
+RELATION,R22_64,THUOC,Thuộc,E39_37,E38_22,,
+RELATION,R22_65,THUOC,Thuộc,E39_38,E38_22,,
+RELATION,R22_66,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_67,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,R22_68,THUOC,Thuộc,E38_25,E35_5,,
+RELATION,R22_69,THUOC,Thuộc,E38_26,E35_5,,

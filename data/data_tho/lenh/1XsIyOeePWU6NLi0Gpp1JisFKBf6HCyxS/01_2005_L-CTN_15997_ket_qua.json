@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0",
+  "document_id": "15997",
+  "document_code": "01/2005/L-CTN",
+  "file_name": "01_2005_L-CTN_15997.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "LỆNH\nVề việc công bố Pháp lệnh của Uỷ ban Thường vụ Quốc hội",
+    "so_hieu": "01/2005/L-CTN",
+    "loai_van_ban": "LỆNH",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "ngày 14 tháng 04 năm 2005",
+    "ngay_co_hieu_luc": "ngày 02 tháng 04 năm 2005",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH",
+    "nguoi_ky": "Trần Đức Lương",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 01/2005/L-CTN Về việc công bố Pháp lệnh của Uỷ ban Thường vụ Quốc hội\nCHỦ TỊCH NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 01/2005/L-CTN\nHà Nội , ngày 14 tháng 04 năm 2005\nLỆNH\nVề việc công bố Pháp lệnh của Uỷ ban Thường vụ Quốc hội\nCHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 103 và Điều 106 của Hiếp pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25/12/2001 của Quốc hội Khoá X, kỳ họp thứ 10;\nCăn cứ vào Điều 19 của Luật Tổ chức Quốc hội;\nCăn cứ vào Điều 51 của Luật Ban hành văn bản quy phạm pháp luật,\nNAY CÔNG BỐ:\nPháp lệnh Cảnh vệ.\nĐã được Uỷ ban Thường vụ Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam Khoá XI thông qua ngày 02 tháng 04 năm 2005./.\nCHỦ TỊCH NƯỚC\n(Đã ký)\nTrần Đức Lương\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 208,
+      "end": 268,
+      "text": "LỆNH\nVề việc công bố Pháp lệnh của Uỷ ban Thường vụ Quốc hội",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 159,
+      "end": 172,
+      "text": "01/2005/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 208,
+      "end": 212,
+      "text": "LỆNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 182,
+      "end": 207,
+      "text": "ngày 14 tháng 04 năm 2005",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 883,
+      "end": 897,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 753,
+      "end": 778,
+      "text": "ngày 02 tháng 04 năm 2005",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 78,
+      "end": 91,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 782,
+      "end": 790,
+      "text": "CHỦ TỊCH",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 804,
+      "end": 818,
+      "text": "Trần Đức Lương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E18_1",
+      "start": 642,
+      "end": 659,
+      "text": "Pháp lệnh Cảnh vệ",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E18_2",
+      "start": 350,
+      "end": 408,
+      "text": "Hiếp pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E18_3",
+      "start": 541,
+      "end": 562,
+      "text": "Luật Tổ chức Quốc hội",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E18_4",
+      "start": 587,
+      "end": 627,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 350,
+      "end": 408,
+      "text": "Hiếp pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 541,
+      "end": 562,
+      "text": "Luật Tổ chức Quốc hội",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 587,
+      "end": 627,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R6_1",
+      "from_id": "E18_1",
+      "to_id": "E2_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E18_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E19_3",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

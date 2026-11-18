@@ -1,0 +1,918 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,304,439,"NGHỊ ĐỊNH
+Sửa đổi, bổ sung một số điều của các Nghị định quy định
+việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng giao thông"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,257,270,99/2026/NĐ-CP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,304,313,NGHỊ ĐỊNH
+ENTITY,E4_1,NGANH,Ngành,metadata,831,840,Tài chính
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,279,303,ngày 31 tháng 3 năm 2026
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,559,588,"Quản lý, sử dụng tài sản công"
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,283996,284015,từ ngày ký ban hành
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,285141,285153,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,150,159,CHÍNH PHỦ
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,284654,284667,PHÓ THỦ TƯỚNG
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,285166,285178,Trần Hồng Hà
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,447,485,Luật Tổ chức Chính phủ số 63/2025/QH15
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,494,545,Luật Tổ chức chính quyền địa phương số 72/2025/QH15
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,554,604,"Luật Quản lý, sử dụng tài sản công số 15/2017/QH14"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,285198,285351,"Nghị quyết số 35/2026/NQ-HĐND Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sử dụng tạm thời lòng đường, hè phố trên địa bàn tỉnh Thái Nguyên"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,285371,285555,"Quyết định số 64/2026/QĐ-UBND Phân cấp thẩm quyền quyết định, phê duyệt trong quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng giao thông thuộc phạm vi quản lý của tỉnh Quảng Ninh"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,285575,285792,Quyết định số 77/2026/QĐ-CTUBND phân cấp thẩm quyền quyết định áp dụng hình thức bảo trì công trình thuộc tài sản kết cấu hạ tầng đường bộ; thẩm quyền xử lý tài sản kết cấu hạ tầng đường bộ trên địa bàn tỉnh Đồng Tháp
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,285812,286080,"Quyết định số 55/2026/QĐ-UBND Quy chế phối hợp cung cấp thông tin để kiểm tra, đối chiếu kết quả đăng nhập dữ liệu tài sản công vào Cơ sở dữ liệu quốc gia và sử dụng thông tin lưu giữ trong Cơ sở dữ liệu quốc gia về tài sản công thuộc phạm vi quản lý của tỉnh An Giang"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,286100,286310,Quyết định số 29/2026/QĐ-UBND Bãi bỏ Quyết định số 46/2024/QĐ-UBND ngày 05/11/2024 của UBND tỉnh về việc quy định thẩm quyền quyết định xử lý tài sản kết cấu hạ tầng giao thông đường bộ thuộc địa phương quản lý
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,286330,286575,"Quyết định số 116/2026/QĐ-CTUBND Quy định thẩm quyền quyết định giao quản lý, thu hồi, điều chuyển, thanh lý tài sản kết cấu hạ tầng đường bộ, xử lý tài sản kết cấu hạ tầng đường bộ trong trường hợp bị mất, bị hủy hoại trên địa bàn tỉnh Tây Ninh"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,286595,286804,"Quyết định số 82/2026/QĐ-CTUBND Phân cấp thẩm quyền quyết định một số nội dung liên quan đến quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng đường thủy nội địa thuộc phạm vi quản lý của thành phố Cần Thơ"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,286824,286957,"Quyết định số 51/2026/QĐ-UBND Quy định về quản lý, vận hành, khai thác và bảo trì kết cấu hạ tầng đường bộ trên địa bàn tỉnh Cao Bằng"
+ENTITY,E35_1,CHUONG,Chương,structure,998,1193,"Chương I
+SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ
+44/2024/NĐ-CP NGÀY 24 THÁNG 4 NĂM 2024 CỦA CHÍNH PHỦ
+QUY ĐỊNH VIỆC QUẢN LÝ, SỬ DỤNG VÀ KHAI THÁC TÀI SẢN
+KẾT CẤU HẠ TẦNG GIAO THÔNG ĐƯỜNG BỘ"
+ENTITY,E35_2,CHUONG,Chương,structure,87301,87497,"Chương II
+SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ
+12/2025/NĐ-CP NGÀY 20 THÁNG 01 NĂM 2025 CỦA CHÍNH PHỦ
+QUY ĐỊNH VIỆC QUẢN LÝ, SỬ DỤNG VÀ KHAI THÁC TÀI SẢN
+KẾT CẤU HẠ TẦNG ĐƯỜNG THỦY NỘI ĐỊA"
+ENTITY,E35_3,CHUONG,Chương,structure,150010,150198,"Chương III
+SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ
+15/2025/NĐ-CP NGÀY 03 THÁNG 02 NĂM 2025 CỦA CHÍNH PHỦ
+QUY ĐỊNH VIỆC QUẢN LÝ, SỬ DỤNG VÀ KHAI THÁC TÀI SẢN
+KẾT CẤU HẠ TẦNG ĐƯỜNG SẮT"
+ENTITY,E35_4,CHUONG,Chương,structure,223984,224169,"Chương IV
+SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ
+84/2025/NĐ-CP NGÀY 04 THÁNG 4 NĂM 2025 CỦA CHÍNH PHỦ
+QUY ĐỊNH VIỆC QUẢN LÝ, SỬ DỤNG VÀ KHAI THÁC TÀI SẢN
+KẾT CẤU HẠ TẦNG HÀNG HẢI"
+ENTITY,E35_5,CHUONG,Chương,structure,280099,280127,Chương V ĐIỀU KHOẢN THI HÀNH
+ENTITY,E35_6,CHUONG,Chương,structure,998,1052,"Chương I
+SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ"
+ENTITY,E38_1,DIEU,Điều,structure,1194,1242,"Điều 1. Sửa đổi, bổ sung khoản 2, khoản 3 Điều 2"
+ENTITY,E38_2,DIEU,Điều,structure,2546,2594,"Điều 2. Sửa đổi, bổ sung một số khoản của Điều 4"
+ENTITY,E38_3,DIEU,Điều,structure,4316,4364,"Điều 3. Sửa đổi, bổ sung khoản 1, khoản 2 Điều 5"
+ENTITY,E38_4,DIEU,Điều,structure,6373,6404,"Điều 4. Sửa đổi, bổ sung Điều 6"
+ENTITY,E38_5,DIEU,Điều,structure,6846,6900,"Điều 5. Sửa đổi, bổ sung một số điểm, khoản của Điều 7"
+ENTITY,E38_6,DIEU,Điều,structure,9153,9208,"Điều 6. Sửa đổi, bổ sung một số điểm, khoản của Điều 12"
+ENTITY,E38_7,DIEU,Điều,structure,13113,13145,"Điều 7. Sửa đổi, bổ sung Điều 13"
+ENTITY,E38_8,DIEU,Điều,structure,14322,14377,"Điều 8. Sửa đổi, bổ sung một số điểm, khoản của Điều 14"
+ENTITY,E38_9,DIEU,Điều,structure,21610,21665,"Điều 9. Sửa đổi, bổ sung một số điểm, khoản của Điều 15"
+ENTITY,E38_10,DIEU,Điều,structure,27175,27231,"Điều 10. Sửa đổi, bổ sung một số điểm, khoản của Điều 16"
+ENTITY,E38_11,DIEU,Điều,structure,32789,32845,"Điều 11. Sửa đổi, bổ sung điểm a, điểm b khoản 5 Điều 17"
+ENTITY,E38_12,DIEU,Điều,structure,34981,35014,"Điều 12. Sửa đổi, bổ sung Điều 18"
+ENTITY,E38_13,DIEU,Điều,structure,39559,39615,"Điều 13. Sửa đổi, bổ sung một số điểm, khoản của Điều 21"
+ENTITY,E38_14,DIEU,Điều,structure,41544,41594,"Điều 14. Sửa đổi, bổ sung một số khoản của Điều 22"
+ENTITY,E38_15,DIEU,Điều,structure,48839,48889,"Điều 15. Sửa đổi, bổ sung một số khoản của Điều 23"
+ENTITY,E38_16,DIEU,Điều,structure,58979,59035,"Điều 16. Sửa đổi, bổ sung một số điểm, khoản của Điều 24"
+ENTITY,E38_17,DIEU,Điều,structure,64357,64390,"Điều 17. Sửa đổi, bổ sung Điều 26"
+ENTITY,E38_18,DIEU,Điều,structure,72734,72767,"Điều 18. Sửa đổi, bổ sung Điều 27"
+ENTITY,E38_19,DIEU,Điều,structure,76794,76850,"Điều 19. Sửa đổi, bổ sung một số điểm, khoản của Điều 28"
+ENTITY,E38_20,DIEU,Điều,structure,78731,78772,"Điều 20. Sửa đổi, bổ sung khoản 3 Điều 29"
+ENTITY,E38_21,DIEU,Điều,structure,80040,80093,"u 21. Sửa đổi, bổ sung điểm b, điểm c khoản 4 Điều 32"
+ENTITY,E38_22,DIEU,Điều,structure,82283,82372,"Điều 22. Thay thế, bãi bỏ một số điều, khoản, điểm, cụm từ tại Nghị định số 44/2024/NĐ-CP"
+ENTITY,E38_23,DIEU,Điều,structure,87498,87553,"Điều 23. Sửa đổi, bổ sung một số điểm, khoản của Điều 2"
+ENTITY,E38_24,DIEU,Điều,structure,88514,88563,"Điều 24. Sửa đổi, bổ sung một số khoản của Điều 4"
+ENTITY,E38_25,DIEU,Điều,structure,90745,90794,"Điều 25. Sửa đổi, bổ sung khoản 1, khoản 2 Điều 5"
+ENTITY,E38_26,DIEU,Điều,structure,96032,96065,"Điều 27. Sửa đổi, bổ sung Điều 13"
+ENTITY,E38_27,DIEU,Điều,structure,98957,99012,"Điều 28. Sửa đổi bổ sung một số điểm, khoản của Điều 14"
+ENTITY,E38_28,DIEU,Điều,structure,106488,106544,"Điều 29. Sửa đổi, bổ sung một số điểm, khoản của Điều 15"
+ENTITY,E38_29,DIEU,Điều,structure,111326,111382,"Điều 30. Sửa đổi, bổ sung điểm a, điểm b khoản 5 Điều 16"
+ENTITY,E38_30,DIEU,Điều,structure,113383,113439,"Điều 31. Sửa đổi, bổ sung một số điểm, khoản của Điều 17"
+ENTITY,E38_31,DIEU,Điều,structure,118397,118447,"Điều 33. Sửa đổi, bổ sung một số khoản của Điều 20"
+ENTITY,E38_32,DIEU,Điều,structure,124611,124667,"Điều 34. Sửa đổi, bổ sung một số điểm, khoản của Điều 21"
+ENTITY,E38_33,DIEU,Điều,structure,134421,134477,"Điều 35. Sửa đổi, bổ sung một số điểm, khoản của Điều 22"
+ENTITY,E38_34,DIEU,Điều,structure,138982,139015,"Điều 36. Sửa đổi, bổ sung Điều 24"
+ENTITY,E38_35,DIEU,Điều,structure,142923,142976,"Điều 37. Sửa đổi, bổ sung một số điểm, khoản của Điều"
+ENTITY,E38_36,DIEU,Điều,structure,144883,144981,"Điều 38. Thay thế, bổ sung, bãi bỏ một số điều, khoản, điểm, cụm từ tại Nghị định số 12/2025/NĐ-CP"
+ENTITY,E38_37,DIEU,Điều,structure,150199,150239,"Điều 39. Sửa đổi, bổ sung khoản 3 Điều 4"
+ENTITY,E38_38,DIEU,Điều,structure,151121,151176,"Điều 40. Sửa đổi, bổ sung một số điểm, khoản của Điều 7"
+ENTITY,E38_39,DIEU,Điều,structure,153099,153140,"Điều 41. Sửa đổi, bổ sung khoản 3 Điều 15"
+ENTITY,E38_40,DIEU,Điều,structure,155795,155828,"Điều 42. Sửa đổi, bổ sung Điều 16"
+ENTITY,E38_41,DIEU,Điều,structure,159235,159291,"Điều 43. Sửa đổi, bổ sung một số điểm, khoản của Điều 17"
+ENTITY,E38_42,DIEU,Điều,structure,168134,168190,"Điều 45. Sửa đổi, bổ sung điểm a, điểm b khoản 5 Điều 19"
+ENTITY,E38_43,DIEU,Điều,structure,170343,170393,"Điều 46. Sửa đổi, bổ sung một số khoản của Điều 20"
+ENTITY,E38_44,DIEU,Điều,structure,175770,175820,"Điều 47. Sửa đổi, bổ sung một số khoản của Điều 23"
+ENTITY,E38_45,DIEU,Điều,structure,181691,181742,"Điều 48. Sửa đổi, bổ sung một số điểm, khoản của Đi"
+ENTITY,E38_46,DIEU,Điều,structure,186993,187026,"Điều 50. Sửa đổi, bổ sung Điều 27"
+ENTITY,E38_47,DIEU,Điều,structure,190101,190157,"Điều 51. Sửa đổi, bổ sung một số điểm, khoản của Điều 28"
+ENTITY,E38_48,DIEU,Điều,structure,190659,190700,"Điều 52. Sửa đổi, bổ sung khoản 3 Điều 32"
+ENTITY,E38_49,DIEU,Điều,structure,193272,193305,"Điều 53. Sửa đổi, bổ sung Điều 33"
+ENTITY,E38_50,DIEU,Điều,structure,196288,196344,"Điều 54. Sửa đổi, bổ sung một số điểm, khoản của Điều 34"
+ENTITY,E38_51,DIEU,Điều,structure,200666,200707,"Điều 55. Sửa đổi, bổ sung khoản 4 Điều 35"
+ENTITY,E38_52,DIEU,Điều,structure,203159,203209,"Điều 56. Sửa đổi, bổ sung khoản 1, khoản 2 Điều 36"
+ENTITY,E38_53,DIEU,Điều,structure,208391,208447,"Điều 57. Sửa đổi, bổ sung một số khoản, điểm của Điều 38"
+ENTITY,E38_54,DIEU,Điều,structure,211292,211348,"Điều 58. Sửa đổi, bổ sung một số khoản, điểm của Điều 39"
+ENTITY,E38_55,DIEU,Điều,structure,212042,212088,"Điều 59. Sửa đổi, bổ sung một số khoản Điều 40"
+ENTITY,E38_56,DIEU,Điều,structure,218687,218720,"Điều 61. Sửa đổi, bổ sung Điều 43"
+ENTITY,E38_57,DIEU,Điều,structure,220864,220917,"Điều 62. Sửa đổi, bổ sung một số điểm, khoản của Điều"
+ENTITY,E38_58,DIEU,Điều,structure,221429,221527,"Điều 63. Thay thế, bổ sung, bãi bỏ một số điều, khoản, điểm, cụm từ tại Nghị định số 15/2025/NĐ-CP"
+ENTITY,E38_59,DIEU,Điều,structure,224170,224210,"Điều 64. Sửa đổi, bổ sung khoản 3 Điều 4"
+ENTITY,E38_60,DIEU,Điều,structure,224919,224951,Điều 65. Bổ sung khoản 6 Điều 12
+ENTITY,E38_61,DIEU,Điều,structure,227181,227214,"Điều 66. Sửa đổi, bổ sung Điều 13"
+ENTITY,E38_62,DIEU,Điều,structure,233871,233923,"Điều 68. Sửa đổi, bổ sung một số điểm, khoản Điều 15"
+ENTITY,E38_63,DIEU,Điều,structure,237305,237356,"Điều 69. Sửa đổi, bổ sung một số khoản, điểm Điều 1"
+ENTITY,E38_64,DIEU,Điều,structure,241791,241824,"Điều 70. Sửa đổi, bổ sung Điều 17"
+ENTITY,E38_65,DIEU,Điều,structure,245899,245955,"Điều 71. Sửa đổi, bổ sung một số điểm, khoản của Điều 20"
+ENTITY,E38_66,DIEU,Điều,structure,253018,253068,"Điều 72. Sửa đổi, bổ sung một số khoản của Điều 21"
+ENTITY,E38_67,DIEU,Điều,structure,264021,264077,"Điều 73. Sửa đổi, bổ sung một số điểm, khoản của Điều 22"
+ENTITY,E38_68,DIEU,Điều,structure,267715,267765,"Điều 74. Sửa đổi, bổ sung khoản 2, khoản 3 Điều 24"
+ENTITY,E38_69,DIEU,Điều,structure,271106,271139,"Điều 75. Sửa đổi, bổ sung Điều 25"
+ENTITY,E38_70,DIEU,Điều,structure,275149,275199,"Điều 76. Sửa đổi, bổ sung khoản 2, khoản 3 Điều 26"
+ENTITY,E38_71,DIEU,Điều,structure,277430,277519,"Điều 77. Thay thế, bãi bỏ một số điều, khoản, điểm, cụm từ tại Nghị định số 84/2025/NĐ-CP"
+ENTITY,E38_72,DIEU,Điều,structure,280128,280154,Điều 78. Xử lý chuyển tiếp
+ENTITY,E38_73,DIEU,Điều,structure,282158,282184,Điều 79. Tổ chức thực hiện
+ENTITY,E38_74,DIEU,Điều,structure,283931,283957,Điều 80. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,2595,2631,"1. Sửa đổi, bổ sung khoản 3 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,3513,3549,"2. Sửa đổi, bổ sung khoản 6 như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,6901,6935,1. Bổ sung điểm đ khoản 1 như sau:
+ENTITY,E39_4,KHOAN,Khoản,structure,7109,7154,"2. Sửa đổi, bổ sung khoản 2, khoản 3 như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,9209,9252,"1. Sửa đổi, bổ sung điểm đ khoản 1 như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,9315,9358,"2. Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+ENTITY,E39_7,KHOAN,Khoản,structure,9555,9591,"3. Sửa đổi, bổ sung khoản 4 như sau:"
+ENTITY,E39_8,KHOAN,Khoản,structure,14378,14423,"1. Sửa đổi, bổ sung khoản 5, khoản 6 như sau:"
+ENTITY,E39_9,KHOAN,Khoản,structure,15945,15989,2. Bổ sung khoản 6a vào sau khoản 6 như sau:
+ENTITY,E39_10,KHOAN,Khoản,structure,17195,17238,"3. Sửa đổi, bổ sung điểm c khoản 8 như sau:"
+ENTITY,E39_11,KHOAN,Khoản,structure,18236,18279,"4. Sửa đổi, bổ sung điểm h khoản 9 như sau:"
+ENTITY,E39_12,KHOAN,Khoản,structure,19768,19811,"5. Sửa đổi, bổ sung điểm l khoản 9 như sau:"
+ENTITY,E39_13,KHOAN,Khoản,structure,21340,21383,"6. Sửa đổi, bổ sung điểm p khoản 9 như sau:"
+ENTITY,E39_14,KHOAN,Khoản,structure,21666,21711,"1. Sửa đổi, bổ sung khoản 5, khoản 6 như sau:"
+ENTITY,E39_15,KHOAN,Khoản,structure,22524,22567,"2. Sửa đổi, bổ sung điểm c khoản 8 như sau:"
+ENTITY,E39_16,KHOAN,Khoản,structure,23832,23875,"3. Sửa đổi, bổ sung điểm h khoản 9 như sau:"
+ENTITY,E39_17,KHOAN,Khoản,structure,25284,25327,"4. Sửa đổi, bổ sung điểm l khoản 9 như sau:"
+ENTITY,E39_18,KHOAN,Khoản,structure,26916,26959,"5. Sửa đổi, bổ sung điểm p khoản 9 như sau:"
+ENTITY,E39_19,KHOAN,Khoản,structure,27232,27280,"1. Sửa đổi, bổ sung các khoản 4, 5 và 6 như sau:"
+ENTITY,E39_20,KHOAN,Khoản,structure,28529,28572,"2. Sửa đổi, bổ sung điểm c khoản 8 như sau:"
+ENTITY,E39_21,KHOAN,Khoản,structure,29698,29741,"3. Sửa đổi, bổ sung điểm h khoản 9 như sau:"
+ENTITY,E39_22,KHOAN,Khoản,structure,31248,31291,"4. Sửa đổi, bổ sung điểm l khoản 9 như sau:"
+ENTITY,E39_23,KHOAN,Khoản,structure,32619,32662,"5. Sửa đổi, bổ sung điểm o khoản 9 như sau:"
+ENTITY,E39_24,KHOAN,Khoản,structure,39616,39652,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_25,KHOAN,Khoản,structure,40223,40274,"2. Sửa đổi, bổ sung điểm a, điểm b khoản 4 như sau:"
+ENTITY,E39_26,KHOAN,Khoản,structure,41252,41286,3. Sửa đổi điểm a khoản 5 như sau:
+ENTITY,E39_27,KHOAN,Khoản,structure,41595,41640,"1. Sửa đổi, bổ sung khoản 2, khoản 3 như sau:"
+ENTITY,E39_28,KHOAN,Khoản,structure,42618,42873,"3. Trình tự, thủ tục điều chuyển tài sản kết cấu hạ tầng đường bộ giữa các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh hoặc từ Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh sang bộ, cơ quan trung ương, địa phương khác:"
+ENTITY,E39_29,KHOAN,Khoản,structure,46439,46483,2. Bổ sung khoản 3a vào sau khoản 3 như sau:
+ENTITY,E39_30,KHOAN,Khoản,structure,48890,48926,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_31,KHOAN,Khoản,structure,49591,49627,"2. Sửa đổi, bổ sung khoản 4 như sau:"
+ENTITY,E39_32,KHOAN,Khoản,structure,53853,53889,"3. Sửa đổi, bổ sung khoản 6 như sau:"
+ENTITY,E39_33,KHOAN,Khoản,structure,59036,59072,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_34,KHOAN,Khoản,structure,59503,59554,"2. Sửa đổi, bổ sung điểm a, điểm b khoản 4 như sau:"
+ENTITY,E39_35,KHOAN,Khoản,structure,60273,60309,"3. Sửa đổi, bổ sung khoản 5 như sau:"
+ENTITY,E39_36,KHOAN,Khoản,structure,76851,76887,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_37,KHOAN,Khoản,structure,77304,77355,"2. Sửa đổi, bổ sung điểm a, điểm b khoản 3 như sau:"
+ENTITY,E39_38,KHOAN,Khoản,structure,82373,82475,"1. Thay thế cụm từ ""Bộ Giao thông vận tải"" thành ""Bộ Xây dựng"" tại toàn bộ Nghị định số 44/2024/NĐ-CP."
+ENTITY,E39_39,KHOAN,Khoản,structure,82476,82621,"2. Thay thế cụm từ ""tài sản kết cấu hạ tầng giao thông đường bộ"" thành ""tài sản kết cấu hạ tầng đường bộ"" tại toàn bộ Nghị định số 44/2024/NĐ-CP."
+ENTITY,E39_40,KHOAN,Khoản,structure,82622,82778,"3. Thay thế cụm từ ""pháp luật giao thông đường bộ"", ""pháp luật về giao thông đường bộ"" thành ""pháp luật về đường bộ"" tại toàn bộ Nghị định số 44/2024/NĐ-CP."
+ENTITY,E39_41,KHOAN,Khoản,structure,82779,82987,"4. Thay thế cụm từ ""pháp luật về quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp"" thành ""pháp luật về quản lý và đầu tư vốn nhà nước tại doanh nghiệp"" tại điểm a khoản 2 Điều 1."
+ENTITY,E39_42,KHOAN,Khoản,structure,82988,83085,"5. Thay thế cụm từ ""cơ quan quản lý tài sản"" thành ""cơ quan quản lý đường bộ"" tại khoản 4 Điều 2."
+ENTITY,E39_43,KHOAN,Khoản,structure,83086,83202,"6. Thay thế cụm từ ""Trạm kiểm tra tải trọng xe"" thành ""Công trình kiểm soát tải trọng xe"" tại điểm đ khoản 1 Điều 3."
+ENTITY,E39_44,KHOAN,Khoản,structure,83203,83305,"7. Thay thế cụm từ ""khoản 2, khoản 3 Điều 22"" thành ""các khoản 2, 3 và 3a Điều 22"" tại khoản 6 Điều 5."
+ENTITY,E39_45,KHOAN,Khoản,structure,83306,83419,"8. Thay thế cụm từ ""điểm d khoản 1 Điều này"" thành ""điểm d và điểm đ khoản 1 Điều này"" tại điểm b khoản 5 Điều 7."
+ENTITY,E39_46,KHOAN,Khoản,structure,83420,83604,"9. Thay thế cụm từ ""giá trị xác định theo Biên bản nghiệm thu A-B"" thành ""Bảng tính giá trị quyết toán hợp đồng giữa chủ đầu tư và nhà thầu (quyết toán A-B)"" tại điểm a khoản 3 Điều 9."
+ENTITY,E39_47,KHOAN,Khoản,structure,83605,84052,"10. Thay thế cụm từ ""Bộ trưởng Bộ Giao thông vận tải (đối với tài sản thuộc trung ương quản lý), Ủy ban nhân dân cấp tỉnh (đối với tài sản thuộc địa phương quản lý) quyết định hoặc ban hành Quy định thẩm quyền quyết định"" thành ""Bộ trưởng Bộ Xây dựng (đối với tài sản thuộc trung ương quản lý), Chủ tịch Ủy ban nhân dân cấp tỉnh (đối với tài sản thuộc địa phương quản lý) quyết định hoặc phân cấp thẩm quyền quyết định"" tại điểm c khoản 2 Điều 10."
+ENTITY,E39_48,KHOAN,Khoản,structure,84053,84741,"11. Thay thế cụm từ ""Báo cáo tài chính đã được kiểm toán theo quy định"", ""Báo cáo tài chính được kiểm toán theo quy định"" thành ""Báo cáo tài chính đã được kiểm toán/Báo cáo quyết toán đã được thẩm định, xét duyệt theo quy định"", cụm từ ""Báo cáo tài chính chưa được kiểm toán theo quy định"" thành ""Báo cáo tài chính chưa được kiểm toán/Báo cáo quyết toán chưa được thẩm định, xét duyệt theo quy định""; ""Báo cáo tài chính của năm cuối cùng chưa được kiểm toán theo quy định"" thành ""Báo cáo tài chính của năm cuối cùng chưa được kiểm toán/Báo cáo quyết toán của năm cuối cùng chưa được thẩm định, xét duyệt theo quy định"" tại điểm đ khoản 11 Điều 14, điểm g khoản 9 Điều 15, khoản 1 Điều 17."
+ENTITY,E39_49,KHOAN,Khoản,structure,84742,85086,"12. Thay thế cụm từ ""ban hành Quy định thẩm quyền quyết định"" thành ""phân cấp thẩm quyền quyết định"" tại điểm a khoản 2 Điều 25; thay thế cụm từ ""Ủy ban nhân dân cấp tỉnh quyết định hoặc ban hành Quy định thẩm quyền quyết định"" thành ""Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định hoặc phân cấp thẩm quyền quyết định"" tại điểm b khoản 2 Điều 25."
+ENTITY,E39_50,KHOAN,Khoản,structure,85087,85439,"13. Thay thế cụm từ ""Văn bản của cơ quan quản lý cấp trên của cơ quan quản lý tài sản (nếu có) về việc đề nghị xử lý tài sản: 01 bản chính"" thành ""Văn bản của cơ quan quản lý cấp trên của cơ quan quản lý tài sản (nếu có) về việc đề nghị xử lý tài sản: 01 bản sao"" tại điểm a khoản 3 Điều 25, cụm từ ""30 ngày"" thành ""15 ngày"" tại điểm b khoản 3 Điều 25."
+ENTITY,E39_51,KHOAN,Khoản,structure,85440,85602,"14. Thay thế cụm từ ""báo cáo Thủ tướng Chính phủ"" thành ""cơ quan, người có thẩm quyền phê duyệt cơ chế thí điểm để quyết định việc thực hiện"" tại khoản 5 Điều 32."
+ENTITY,E39_52,KHOAN,Khoản,structure,85603,85863,"15. Thay thế cụm từ ""cơ quan quản lý tài sản"" thành ""cơ quan, đơn vị quản lý tài sản"" tại các khoản 3, 5 và 6 Điều 5, các Điều 7, 8, 9, 11, 12, 14, 15, 16, 17, 21, 22, 23, 24, 25, 28, 29 và 30, khoản 1 Điều 32, các Mẫu số 01A, 01C, 02B, 02C và 02D tại Phụ lục."
+ENTITY,E39_53,KHOAN,Khoản,structure,85864,86080,"16. Thay thế cụm từ ""cơ quan quy định tại"" thành ""cơ quan, đơn vị quy định tại"" tại các khoản 3, 4 và 5 Điều 5; thay thế cụm từ ""CƠ QUAN..."" thành ""CƠ QUAN, ĐƠN VỊ..."" tại các Mẫu số 01C, 02B, 02C và 02D tại Phụ lục."
+ENTITY,E39_54,KHOAN,Khoản,structure,86081,86444,"17. Thay thế cụm từ ""Luật Quản lý, sử dụng tài sản công năm 2017"" thành ""Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 64/2020/QH14, Luật số 07/2022/QH15, Luật số 24/2023/QH15, Luật số 31/2024/QH15, Luật số 43/2024/QH15, Luật số 56/2024/QH15, Luật số 90/2025/QH15"" tại các Mẫu số 02B, 02C và 02D tại Phụ lục."
+ENTITY,E39_55,KHOAN,Khoản,structure,86445,86936,"18. Thay thế cụm từ ""Nghị định số 44/2024/NĐ-CP ngày 24 tháng 4 năm 2024 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng giao thông đường bộ"" thành ""Nghị định số 44/2024/NĐ-CP ngày 24 tháng 4 năm 2024 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng giao thông đường bộ, được sửa đổi, bổ sung tại Nghị định số......./....../NĐ-CP ngày....../....../........ của Chính phủ"" tại các Mẫu số 01, 01A, 02B, 02C và 02D tại Phụ lục."
+ENTITY,E39_56,KHOAN,Khoản,structure,86937,86981,"19. Bãi bỏ Điều 19, các Mẫu 01B, 02A và 02Đ."
+ENTITY,E39_57,KHOAN,Khoản,structure,86982,87074,"20. Bãi bỏ cụm từ ""báo cáo cơ quan quản lý cấp trên (nếu có) để"" tại điểm a khoản 3 Điều 25."
+ENTITY,E39_58,KHOAN,Khoản,structure,87075,87300,"21. Bãi bỏ cụm từ ""Riêng khoản 1, khoản 2 Điều 19 Nghị định này về sử dụng đất gắn với tài sản kết cấu hạ tầng giao thông đường bộ có hiệu lực thi hành đến khi Luật Đất đai năm 2024 có hiệu lực thi hành."" tại khoản 1 Điều 33."
+ENTITY,E39_59,KHOAN,Khoản,structure,87554,87597,"1. Sửa đổi, bổ sung điểm c khoản 2 như sau:"
+ENTITY,E39_60,KHOAN,Khoản,structure,87726,87762,"2. Sửa đổi, bổ sung khoản 3 như sau:"
+ENTITY,E39_61,KHOAN,Khoản,structure,88564,88600,"1. Sửa đổi, bổ sung khoản 3 như sau:"
+ENTITY,E39_62,KHOAN,Khoản,structure,89498,89525,2. Bổ sung khoản 7 như sau:
+ENTITY,E39_63,KHOAN,Khoản,structure,92678,92721,"1. Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+ENTITY,E39_64,KHOAN,Khoản,structure,92894,92930,"2. Sửa đổi, bổ sung khoản 4 như sau:"
+ENTITY,E39_65,KHOAN,Khoản,structure,99013,99061,"1. Sửa đổi, bổ sung các khoản 5, 6 và 7 như sau:"
+ENTITY,E39_66,KHOAN,Khoản,structure,101757,101800,"2. Sửa đổi, bổ sung điểm c khoản 9 như sau:"
+ENTITY,E39_67,KHOAN,Khoản,structure,103136,103180,"3. Sửa đổi, bổ sung điểm h khoản 10 như sau:"
+ENTITY,E39_68,KHOAN,Khoản,structure,104589,104633,"4. Sửa đổi, bổ sung điểm l khoản 10 như sau:"
+ENTITY,E39_69,KHOAN,Khoản,structure,106228,106272,"5. Sửa đổi, bổ sung điểm p khoản 10 như sau:"
+ENTITY,E39_70,KHOAN,Khoản,structure,106545,106581,"1. Sửa đổi, bổ sung khoản 5 như sau:"
+ENTITY,E39_71,KHOAN,Khoản,structure,107114,107157,"2. Sửa đổi, bổ sung điểm c khoản 8 như sau:"
+ENTITY,E39_72,KHOAN,Khoản,structure,108278,108321,"3. Sửa đổi, bổ sung điểm h khoản 9 như sau:"
+ENTITY,E39_73,KHOAN,Khoản,structure,109835,109878,"4. Sửa đổi, bổ sung điểm l khoản 9 như sau:"
+ENTITY,E39_74,KHOAN,Khoản,structure,111156,111199,"5. Sửa đổi, bổ sung điểm o khoản 9 như sau:"
+ENTITY,E39_75,KHOAN,Khoản,structure,113440,113483,"1. Sửa đổi, bổ sung điểm b khoản 1 như sau:"
+ENTITY,E39_76,KHOAN,Khoản,structure,114030,114066,"2. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_77,KHOAN,Khoản,structure,117168,117204,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_78,KHOAN,Khoản,structure,117621,117672,"2. Sửa đổi, bổ sung điểm a, điểm b khoản 4 như sau:"
+ENTITY,E39_79,KHOAN,Khoản,structure,118448,118491,"1. Sửa đổi, bổ sung điểm a khoản 1 như sau:"
+ENTITY,E39_80,KHOAN,Khoản,structure,118649,118694,"2. Sửa đổi, bổ sung khoản 2, khoản 3 như sau:"
+ENTITY,E39_81,KHOAN,Khoản,structure,124668,124713,"1. Sửa đổi, bổ sung khoản 3, khoản 4 như sau:"
+ENTITY,E39_82,KHOAN,Khoản,structure,129288,129324,"2. Sửa đổi, bổ sung khoản 6 như sau:"
+ENTITY,E39_83,KHOAN,Khoản,structure,134478,134514,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_84,KHOAN,Khoản,structure,134986,135037,"2. Sửa đổi, bổ sung điểm a, điểm b khoản 4 như sau:"
+ENTITY,E39_85,KHOAN,Khoản,structure,135759,135804,"3. Sửa đổi, bổ sung khoản 7, khoản 8 như sau:"
+ENTITY,E39_86,KHOAN,Khoản,structure,142977,143013,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_87,KHOAN,Khoản,structure,143460,143513,"2. Sửa đổi, bổ sung điểm a và điểm b khoản 3 như sau:"
+ENTITY,E39_88,KHOAN,Khoản,structure,144982,145084,"1. Thay thế cụm từ ""Bộ Giao thông vận tải"" thành ""Bộ Xây dựng"" tại toàn bộ Nghị định số 12/2025/NĐ-CP."
+ENTITY,E39_89,KHOAN,Khoản,structure,145085,145192,"2. Thay thế cụm từ ""cơ quan quản lý tài sản"" thành ""cơ quan quản lý đường thủy nội địa"" tại khoản 4 Điều 2."
+ENTITY,E39_90,KHOAN,Khoản,structure,145193,145358,"3. Thay thế cụm từ ""Ủy ban nhân dân cấp tỉnh quyết định"" thành ""Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định hoặc phân cấp thẩm quyền quyết định"" tại khoản 2 Điều 6."
+ENTITY,E39_91,KHOAN,Khoản,structure,145359,145474,"4. Thay thế cụm từ ""Ủy ban nhân dân cấp tỉnh"" thành ""Chủ tịch Ủy ban nhân dân cấp tỉnh"" tại điểm c khoản 2 Điều 10."
+ENTITY,E39_92,KHOAN,Khoản,structure,145475,145577,"5. Thay thế cụm từ ""khoản 2, khoản 3 Điều 20"" thành ""các khoản 2, 3 và 3a Điều 20"" tại khoản 6 Điều 5."
+ENTITY,E39_93,KHOAN,Khoản,structure,145578,145794,"6. Bổ sung cụm từ ""đ) Tài sản kết cấu hạ tầng đường thủy nội địa được điều chuyển sang Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh theo quy định tại điểm b, điểm c khoản 5, khoản 6 Điều 5 Nghị định này"" vào khoản 1 Điều 7."
+ENTITY,E39_94,KHOAN,Khoản,structure,145795,146056,"7. Thay thế cụm từ ""báo cáo Bộ Giao thông vận tải (đối với tài sản thuộc trung ương quản lý), Ủy ban nhân dân cấp tỉnh (đối với tài sản thuộc địa phương quản lý)"" thành ""báo cáo cơ quan, người có thẩm quyền quy định tại Điều 6 Nghị định này"" tại khoản 2 Điều 7."
+ENTITY,E39_95,KHOAN,Khoản,structure,146057,146619,"8. Thay thế cụm từ ""Hội đồng nhân dân cấp tỉnh quyết định hoặc phân cấp thẩm quyền quyết định xử lý đối với tài sản kết cấu hạ tầng đường thủy nội địa do cơ quan quản lý tài sản ở địa phương quản lý theo quy định tại khoản 2 Điều 17 Luật Quản lý, sử dụng tài sản công (được sửa đổi, bổ sung tại khoản 1 Điều 5 Luật số 56/2024/QH15)"" thành ""Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định hoặc phân cấp thẩm quyền quyết định xử lý đối với tài sản kết cấu hạ tầng đường thủy nội địa do cơ quan, đơn vị quản lý tài sản ở địa phương quản lý"" tại điểm b khoản 2 Điều 23."
+ENTITY,E39_96,KHOAN,Khoản,structure,146620,146908,"9. Thay thế cụm từ ""sử dụng giá quy ước do Bộ trưởng Bộ Giao thông vận tải quyết định để làm nguyên giá tài sản"" thành ""sử dụng giá quy ước do cơ quan, người có thẩm quyền quy định tại khoản 1, khoản 3 Điều 28 Nghị định này quyết định để làm nguyên giá tài sản"" tại điểm d khoản 3 Điều 9."
+ENTITY,E39_97,KHOAN,Khoản,structure,146909,146998,"10. Thay thế cụm từ ""30 ngày"" thành ""15 ngày"" tại khoản 3 Điều 7, điểm b khoản 3 Điều 23."
+ENTITY,E39_98,KHOAN,Khoản,structure,146999,147485,"11. Thay thế cụm từ ""Cơ quan quản lý tài sản có trách nhiệm nộp tiền vào tài khoản tạm giữ theo quy định tại Điều 24 Nghị định này trong thời hạn 03 ngày làm việc, kể từ ngày nhận được tiền bán tài sản"" thành "" Cơ quan, đơn vị quản lý tài sản có trách nhiệm nộp tiền vào ngân sách nhà nước (sau khi trừ chi phí có liên quan đến việc xử lý tài sản theo quy định tại Điều 24 Nghị định này) trong thời hạn 30 ngày, kể từ ngày nhận được tiền bán tài sản"" tại điểm b, điểm c khoản 5 Điều 29."
+ENTITY,E39_99,KHOAN,Khoản,structure,147486,147748,"12. Thay thế cụm từ ""cơ quan quản lý tài sản"" thành ""cơ quan, đơn vị quản lý tài sản"" tại các khoản 3, 5 và 6 Điều 5, các Điều 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 25, 26 và 27, khoản 1 Điều 29, các Mẫu số 01A, 01B, 02B và 02C tại Phụ lục."
+ENTITY,E39_100,KHOAN,Khoản,structure,147749,147960,"13. Thay thế cụm từ ""cơ quan quy định tại"" thành ""cơ quan, đơn vị quy định tại"" tại các khoản 3, 4 và 5 Điều 5; thay thế cụm từ ""CƠ QUAN..."" thành ""CƠ QUAN, ĐƠN VỊ..."" tại các Mẫu số 01B, 02B và 02C tại Phụ lục."
+ENTITY,E39_101,KHOAN,Khoản,structure,147961,148075,"14. Thay thế cụm từ ""điểm d khoản 1 Điều này"" thành ""điểm d và điểm đ khoản 1 Điều này"" tại điểm b khoản 5 Điều 7."
+ENTITY,E39_102,KHOAN,Khoản,structure,148076,148395,"15. Thay thế cụm từ ""cơ quan quản lý tài sản ở trung ương phân cấp hoặc ủy quyền hoặc giao cho các tổ chức hành chính trực thuộc"" thành ""cơ quan quản lý đường thủy nội địa ở trung ương phân cấp hoặc ủy quyền hoặc giao cho các tổ chức hành chính trực thuộc hoặc đơn vị sự nghiệp công lập trực thuộc"" tại khoản 3 Điều 26."
+ENTITY,E39_103,KHOAN,Khoản,structure,148396,148563,"16. Thay thế cụm từ ""các đơn vị được phân cấp hoặc ủy quyền thực hiện"" thành ""các tổ chức, đơn vị được phân cấp hoặc ủy quyền hoặc giao thực hiện"" tại khoản 3 Điều 26."
+ENTITY,E39_104,KHOAN,Khoản,structure,148564,148780,"17. Thay thế cụm từ ""được thực hiện theo quy định tại các khoản 2, 3 và 8 Điều 24 Nghị định này"" thành ""được thực hiện theo quy định tại các khoản 2, 3, 5, 6, 7 và 8 Điều 24 Nghị định này"" tại điểm a khoản 5 Điều 29."
+ENTITY,E39_105,KHOAN,Khoản,structure,148781,149133,"18. Thay thế cụm từ ""Luật Quản lý, sử dụng tài sản công năm 2017"" thành ""Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 64/2020/QH14, Luật số 07/2022/QH15, Luật số 24/2023/QH15, Luật số 31/2024/QH15, Luật số 43/2024/QH15, Luật số 56/2024/QH15, Luật số 90/2025/QH15"" tại Mẫu số 02B, 02C tại Phụ lục."
+ENTITY,E39_106,KHOAN,Khoản,structure,149134,149612,"19. Thay thế cụm từ ""Nghị định số…./2025/NĐ-CP ngày ….tháng …. năm 2024 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng đường thủy nội địa"" thành ""Nghị định số 12/2025/NĐ-CP ngày 20 tháng 01 năm 2025 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng đường thủy nội địa, được sửa đổi, bổ sung tại Nghị định số......./....../NĐ-CP ngày....../....../........ của Chính phủ"" tại Mẫu số 01, 01A, 02B, 02C tại Phụ lục."
+ENTITY,E39_107,KHOAN,Khoản,structure,149613,149727,"20. Bãi bỏ cụm từ ""hoặc có văn bản hồi đáp trong trường hợp đề nghị giao tài sản chưa phù hợp"" tại khoản 3 Điều 7."
+ENTITY,E39_108,KHOAN,Khoản,structure,149728,149986,"21. Bãi bỏ cụm từ ""Văn bản của Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện về việc đề nghị xử lý tài sản trong trường hợp việc xử lý tài sản do Hội đồng nhân dân cấp tỉnh, Hội đồng nhân dân cấp huyện quyết định: bản chính"" tại điểm a khoản 3 Điều 23."
+ENTITY,E39_109,KHOAN,Khoản,structure,149987,150009,22. Bãi bỏ Mẫu số 02A.
+ENTITY,E39_110,KHOAN,Khoản,structure,151177,151213,"1. Sửa đổi, bổ sung khoản 1 như sau:"
+ENTITY,E39_111,KHOAN,Khoản,structure,151439,151482,"2. Sửa đổi, bổ sung điểm c khoản 3 như sau:"
+ENTITY,E39_112,KHOAN,Khoản,structure,152114,152150,"3. Sửa đổi, bổ sung khoản 4 như sau:"
+ENTITY,E39_113,KHOAN,Khoản,structure,152527,152563,"4. Sửa đổi, bổ sung khoản 6 như sau:"
+ENTITY,E39_114,KHOAN,Khoản,structure,159292,159335,"1. Sửa đổi, bổ sung điểm c khoản 6 như sau:"
+ENTITY,E39_115,KHOAN,Khoản,structure,160611,160654,"2. Sửa đổi, bổ sung điểm h khoản 7 như sau:"
+ENTITY,E39_116,KHOAN,Khoản,structure,162117,162160,"3. Sửa đổi, bổ sung điểm l khoản 7 như sau:"
+ENTITY,E39_117,KHOAN,Khoản,structure,163630,163673,"4. Sửa đổi, bổ sung điểm p khoản 7 như sau:"
+ENTITY,E39_118,KHOAN,Khoản,structure,163889,163932,"1. Sửa đổi, bổ sung điểm c khoản 6 như sau:"
+ENTITY,E39_119,KHOAN,Khoản,structure,165031,165074,"2. Sửa đổi, bổ sung điểm h khoản 7 như sau:"
+ENTITY,E39_120,KHOAN,Khoản,structure,166658,166701,"3. Sửa đổi, bổ sung điểm l khoản 7 như sau:"
+ENTITY,E39_121,KHOAN,Khoản,structure,167964,168007,"4. Sửa đổi, bổ sung điểm o khoản 7 như sau:"
+ENTITY,E39_122,KHOAN,Khoản,structure,170394,170430,"1. Sửa đổi, bổ sung khoản 1 như sau:"
+ENTITY,E39_123,KHOAN,Khoản,structure,171982,172018,"2. Sửa đổi, bổ sung khoản 3 như sau:"
+ENTITY,E39_124,KHOAN,Khoản,structure,175821,175875,"1. Sửa đổi, bổ sung khoản 1, khoản 2, khoản 3 như sau:"
+ENTITY,E39_125,KHOAN,Khoản,structure,181743,181786,"1. Sửa đổi, bổ sung điểm d khoản 4 như sau:"
+ENTITY,E39_126,KHOAN,Khoản,structure,182203,182246,"2. Sửa đổi, bổ sung điểm e khoản 4 như sau:"
+ENTITY,E39_127,KHOAN,Khoản,structure,183180,183223,"3. Sửa đổi, bổ sung điểm đ khoản 6 như sau:"
+ENTITY,E39_128,KHOAN,Khoản,structure,187447,187542,2. Nội dung chi phí có liên quan đến việc xử lý tài sản kết cấu hạ tầng đường sắt quốc gia gồm:
+ENTITY,E39_129,KHOAN,Khoản,structure,187794,187805,3. Mức chi:
+ENTITY,E39_130,KHOAN,Khoản,structure,188677,189021,4. Người đại diện theo pháp luật của doanh nghiệp quản lý tài sản đường sắt quốc gia chịu trách nhiệm trước pháp luật về tính chính xác của khoản chi phí có liên quan đến việc xử lý tài sản kết cấu hạ tầng đường sắt quốc gia; việc nộp tiền vào ngân sách nhà nước đối với các khoản thu từ xử lý tài sản khi đã hoàn thành việc thanh toán chi phí.
+ENTITY,E39_131,KHOAN,Khoản,structure,189022,189302,"5. Trường hợp không phát sinh nguồn thu từ xử lý tài sản hoặc số tiền thu được từ xử lý tài sản không đủ bù đắp chi phí thì phần còn thiếu doanh nghiệp quản lý tài sản đường sắt tự bù đắp từ nguồn thu của doanh nghiệp và được hạch toán vào chi phí hợp lý, hợp lệ của doanh nghiệp."
+ENTITY,E39_132,KHOAN,Khoản,structure,189303,189801,"6. Trường hợp phá dỡ tài sản kết cấu hạ tầng đường sắt quốc gia cũ theo quy định tại điểm b khoản 1 Điều 25 Nghị định này mà chi phí phá dỡ tài sản kết cấu hạ tầng đường sắt quốc gia cũ đã được bố trí trong tổng mức đầu tư của dự án đầu tư xây dựng tài sản mới do cơ quan, người có thẩm quyền quyết định đầu tư phê duyệt thì việc lập, phê duyệt dự toán và thanh toán chi phí xử lý tài sản được thực hiện theo dự án được cơ quan, người có thẩm quyền phê duyệt và quy định của pháp luật có liên quan."
+ENTITY,E39_133,KHOAN,Khoản,structure,189802,190100,"7. Trường hợp phải chi trả các khoản chi phí thuê ngoài khi xử lý tài sản theo quy định trước khi thu được tiền từ xử lý tài sản thì doanh nghiệp quản lý tài sản đường sắt quốc gia được ứng trước từ nguồn kinh phí được phép sử dụng của doanh nghiệp và được trừ vào tiền thu được từ xử lý tài sản.""."
+ENTITY,E39_134,KHOAN,Khoản,structure,190158,190194,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_135,KHOAN,Khoản,structure,190366,190409,"2. Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+ENTITY,E39_136,KHOAN,Khoản,structure,196345,196388,"1. Sửa đổi, bổ sung điểm c khoản 6 như sau:"
+ENTITY,E39_137,KHOAN,Khoản,structure,197669,197712,"2. Sửa đổi, bổ sung điểm h khoản 7 như sau:"
+ENTITY,E39_138,KHOAN,Khoản,structure,199176,199219,"3. Sửa đổi, bổ sung điểm l khoản 7 như sau:"
+ENTITY,E39_139,KHOAN,Khoản,structure,208448,208484,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_140,KHOAN,Khoản,structure,208644,208689,"2. Sửa đổi, bổ sung khoản 4, khoản 5 như sau:"
+ENTITY,E39_141,KHOAN,Khoản,structure,211349,211385,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_142,KHOAN,Khoản,structure,211803,211846,"2. Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+ENTITY,E39_143,KHOAN,Khoản,structure,212089,212125,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_144,KHOAN,Khoản,structure,212505,212541,"2. Sửa đổi, bổ sung khoản 4 như sau:"
+ENTITY,E39_145,KHOAN,Khoản,structure,216134,216170,"3. Sửa đổi, bổ sung khoản 5 như sau:"
+ENTITY,E39_146,KHOAN,Khoản,structure,216949,216985,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_147,KHOAN,Khoản,structure,217132,217168,"2. Sửa đổi, bổ sung khoản 7 như sau:"
+ENTITY,E39_148,KHOAN,Khoản,structure,220918,220954,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_149,KHOAN,Khoản,structure,221136,221179,"2. Sửa đổi, bổ sung điểm b khoản 3 như sau:"
+ENTITY,E39_150,KHOAN,Khoản,structure,221528,221630,"1. Thay thế cụm từ ""Bộ Giao thông vận tải"" thành ""Bộ Xây dựng"" tại toàn bộ Nghị định số 15/2025/NĐ-CP."
+ENTITY,E39_151,KHOAN,Khoản,structure,221631,221733,"2. Thay thế cụm từ ""khoản 2, khoản 3 Điều 23"" thành ""các khoản 2, 3 và 3a Điều 23"" tại khoản 4 Điều 5."
+ENTITY,E39_152,KHOAN,Khoản,structure,221734,221860,"3. Thay thế cụm từ ""01 bản chính"" thành ""01 bản sao"" tại điểm b khoản 2 Điều 7, điểm b khoản 3 Điều 9, điểm a khoản 4 Điều 23."
+ENTITY,E39_153,KHOAN,Khoản,structure,221861,222108,"4. Thay thế cụm từ ""Bán vật liệu, vật tư thu hồi còn sử dụng được"" thành ""Bán vật liệu, vật tư thu hồi không có nhu cầu sử dụng hoặc không còn sử dụng lại được cho công tác bảo trì công trình đường sắt"" tại điểm c khoản 5 Điều 25, khoản 8 Điều 41."
+ENTITY,E39_154,KHOAN,Khoản,structure,222109,222219,"5. Thay thế cụm từ ""Hội đồng nhân dân cấp tỉnh"" thành ""Chủ tịch Ủy ban nhân dân cấp tỉnh"" tại khoản 2 Điều 42."
+ENTITY,E39_155,KHOAN,Khoản,structure,222220,222404,"6. Thay thế cụm từ ""30 ngày"" thành ""15 ngày"" tại điểm b khoản 3 Điều 23, điểm b khoản 4, điểm c khoản 7 Điều 25, điểm a khoản 3 Điều 26, điểm b khoản 4 Điều 38, điểm a khoản 3 Điều 42."
+ENTITY,E39_156,KHOAN,Khoản,structure,222405,223040,"7. Thay thế cụm từ ""Luật Quản lý, sử dụng tài sản công năm 2017; Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính ngày 29 tháng 11 năm 2024"" thành ""Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 64/2020/QH14, Luật số 07/2022/QH15, Luật số 24/2023/QH15, Luật số 31/2024/QH15, Luật số 43/2024/QH15, Luật số 56/2024/QH15, Luật số 90/2025/QH15"" tại Mẫu số 02B, Mẫu số 02C Phụ lục."
+ENTITY,E39_157,KHOAN,Khoản,structure,223041,223510,"8. Thay thế cụm từ ""Nghị định số ...../2025/NĐ-CP ngày .... tháng .... năm 2025 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng đường sắt"" thành ""Nghị định số 15/2025/NĐ-CP ngày 03 tháng 02 năm 2025 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng đường sắt được sửa đổi, bổ sung tại Nghị định số......./....../NĐ-CP ngày....../....../........ của Chính phủ"" tại các Mẫu số 01, 01A, 02B và 02C Phụ lục."
+ENTITY,E39_158,KHOAN,Khoản,structure,223511,223960,"9. Bãi bỏ cụm từ ""hoặc có văn bản hồi đáp trong trường hợp đề nghị giao tài sản chưa phù hợp"", ""hoặc có văn bản hồi đáp trong trường hợp chuyển hình thức giao tài sản chưa phù hợp"", ""hoặc có văn bản hồi đáp trong trường hợp đề nghị chuyển giao tài sản chưa phù hợp"", ""hoặc có văn bản hồi đáp trong trường hợp đề nghị thanh lý tài sản chưa phù hợp"" tại khoản 4 Điều 9, khoản 4 Điều 10, điểm b khoản 4 Điều 24, điểm b khoản 4 Điều 25, khoản 4 Điều 41."
+ENTITY,E39_159,KHOAN,Khoản,structure,223961,223983,10. Bãi bỏ Mẫu số 02A.
+ENTITY,E39_160,KHOAN,Khoản,structure,228384,228455,"1. Sửa đổi, bổ sung các khoản 5, 6 và 7 thành khoản 5, khoản 6 như sau:"
+ENTITY,E39_161,KHOAN,Khoản,structure,229802,229845,"2. Sửa đổi, bổ sung điểm c khoản 9 như sau:"
+ENTITY,E39_162,KHOAN,Khoản,structure,231112,231156,"3. Sửa đổi, bổ sung điểm n khoản 10 như sau:"
+ENTITY,E39_163,KHOAN,Khoản,structure,231372,231409,"4. Sửa đổi, bổ sung khoản 17 như sau:"
+ENTITY,E39_164,KHOAN,Khoản,structure,232433,232470,"5. Sửa đổi, bổ sung khoản 19 như sau:"
+ENTITY,E39_165,KHOAN,Khoản,structure,233924,233960,"1. Sửa đổi, bổ sung khoản 5 như sau:"
+ENTITY,E39_166,KHOAN,Khoản,structure,234447,234490,"2. Sửa đổi, bổ sung điểm c khoản 8 như sau:"
+ENTITY,E39_167,KHOAN,Khoản,structure,235586,235629,"3. Sửa đổi, bổ sung điểm l khoản 9 như sau:"
+ENTITY,E39_168,KHOAN,Khoản,structure,236972,237015,"4. Sửa đổi, bổ sung điểm o khoản 9 như sau:"
+ENTITY,E39_169,KHOAN,Khoản,structure,237357,237393,"1. Sửa đổi, bổ sung khoản 3 như sau:"
+ENTITY,E39_170,KHOAN,Khoản,structure,238180,238231,"2. Sửa đổi, bổ sung điểm a, điểm b khoản 6 như sau:"
+ENTITY,E39_171,KHOAN,Khoản,structure,240426,240462,"3. Sửa đổi, bổ sung khoản 7 như sau:"
+ENTITY,E39_172,KHOAN,Khoản,structure,245956,245999,"1. Sửa đổi, bổ sung điểm a khoản 1 như sau:"
+ENTITY,E39_173,KHOAN,Khoản,structure,246151,246196,"2. Sửa đổi, bổ sung khoản 2, khoản 3 như sau:"
+ENTITY,E39_174,KHOAN,Khoản,structure,250696,250740,3. Bổ sung khoản 3a vào sau khoản 3 như sau:
+ENTITY,E39_175,KHOAN,Khoản,structure,253069,253105,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_176,KHOAN,Khoản,structure,253757,253805,"2. Sửa đổi, bổ sung các khoản 4, 5 và 6 như sau:"
+ENTITY,E39_177,KHOAN,Khoản,structure,264078,264114,"1. Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E39_178,KHOAN,Khoản,structure,264503,264548,"2. Sửa đổi, bổ sung khoản 7, khoản 8 như sau:"
+ENTITY,E39_179,KHOAN,Khoản,structure,277520,277622,"1. Thay thế cụm từ ""khoản 2, khoản 3 Điều 20"" thành ""các khoản 2, 3 và 3a Điều 20"" tại khoản 6 Điều 5."
+ENTITY,E39_180,KHOAN,Khoản,structure,277623,278148,"2. Thay thế cụm từ ""tại các điểm b, c, d và đ khoản 2 Điều này cho cơ quan, doanh nghiệp quản lý tài sản quy định tại khoản 1, khoản 2 Điều 5 Nghị định này, báo cáo Bộ Xây dựng (đối với tài sản thuộc trung ương quản lý), Ủy ban nhân dân cấp tỉnh (đối với tài sản thuộc địa phương quản lý)"" thành ""tại các điểm b, c, d và đ khoản 1 Điều này cho cơ quan, doanh nghiệp quản lý tài sản quy định tại khoản 1, khoản 2 Điều 5 Nghị định này, báo cáo cơ quan, người có thẩm quyền quy định tại Điều 6 Nghị định này"" tại khoản 2 Điều 7."
+ENTITY,E39_181,KHOAN,Khoản,structure,278149,278222,"3. Thay thế cụm từ ""bản chính"" thành ""bản sao"" tại điểm b khoản 2 Điều 7."
+ENTITY,E39_182,KHOAN,Khoản,structure,278223,278414,"4. Thay thế cụm từ ""Ủy ban nhân dân cấp tỉnh quyết định"" thành ""Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định hoặc phân cấp thẩm quyền quyết định"" tại khoản 2 Điều 6 và điểm b khoản 2 Điều 19."
+ENTITY,E39_183,KHOAN,Khoản,structure,278415,278525,"5. Thay thế cụm từ ""Hội đồng nhân dân cấp tỉnh"" thành ""Chủ tịch Ủy ban nhân dân cấp tỉnh"" tại khoản 2 Điều 23."
+ENTITY,E39_184,KHOAN,Khoản,structure,278526,278984,"6. Thay thế cụm từ ""hoặc có văn bản hồi đáp trong trường hợp đề nghị giao tài sản chưa phù hợp"", ""hoặc có văn bản hồi đáp trong trường hợp đề nghị thu hồi chưa phù hợp"", ""hoặc có văn bản hồi đáp trong trường hợp đề nghị thanh lý tài sản chưa phù hợp"", ""hoặc có văn bản hồi đáp trong trường hợp đề nghị điều chuyển chưa phù hợp"" thành ""trường hợp từ chối thì có văn bản trả lời nêu rõ lý do"" tại khoản 4 Điều 7, điểm b khoản 4 Điều 19, điểm b khoản 4 Điều 22."
+ENTITY,E39_185,KHOAN,Khoản,structure,278985,279620,"7. Thay thế cụm từ ""Luật Quản lý, sử dụng tài sản công năm 2017; Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính ngày 29 tháng 11 năm 2024"" thành ""Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 64/2020/QH14, Luật số 07/2022/QH15, Luật số 24/2023/QH15, Luật số 31/2024/QH15, Luật số 43/2024/QH15, Luật số 56/2024/QH15, Luật số 90/2025/QH15"" tại Mẫu số 02B, Mẫu số 02C Phụ lục."
+ENTITY,E39_186,KHOAN,Khoản,structure,279621,280076,"8. Thay thế cụm từ ""Nghị định số ...../2025/NĐ-CP ngày .... tháng .... năm 2025 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải"" thành ""Nghị định số 84/2025/NĐ-CP ngày 04 tháng 4 năm 2025 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải được sửa đổi, bổ sung tại Nghị định số...../..../NĐ-CP ngày..../..../..... của Chính phủ"" tại các Mẫu số 01, 01A, 02B và 02C Phụ lục."
+ENTITY,E39_187,KHOAN,Khoản,structure,280077,280098,9. Bãi bỏ Mẫu số 02A.
+ENTITY,E39_188,KHOAN,Khoản,structure,280155,280876,"1. Đối với các thẩm quyền trong giao quản lý, khai thác, xử lý tài sản kết cấu hạ tầng đường bộ, đường thủy nội địa, đường sắt, hàng hải giao Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định hoặc phân cấp thẩm quyền quyết định theo quy định tại Nghị định này thì trong thời gian Chủ tịch Ủy ban nhân dân cấp tỉnh chưa ban hành quy định phân cấp thẩm quyền quyết định, thẩm quyền quyết định được thực hiện theo phân cấp hoặc quy định về thẩm quyền đã được Hội đồng nhân dân cấp tỉnh/Ủy ban nhân dân cấp tỉnh đã ban hành trước ngày Nghị định này có hiệu lực thi hành; đối với các địa phương thực hiện sáp nhập, hợp nhất thì thực hiện theo phân cấp hoặc quy định về thẩm quyền của địa phương được giữ tên sau sáp nhập, hợp nhất."
+ENTITY,E39_189,KHOAN,Khoản,structure,280877,281355,"2. Đối với các thẩm quyền trong giao quản lý, khai thác, xử lý tài sản kết cấu hạ tầng đường bộ, đường thủy nội địa, đường sắt, hàng hải giao Bộ trưởng Bộ Xây dựng quyết định hoặc phân cấp thẩm quyền quyết định theo quy định tại Nghị định này thì trong thời gian Bộ trưởng Bộ Xây dựng chưa ban hành quy định phân cấp thẩm quyền quyết định, thẩm quyền quyết định được thực hiện theo phân cấp hoặc quy định đã được Bộ trưởng ban hành trước ngày Nghị định này có hiệu lực thi hành."
+ENTITY,E39_190,KHOAN,Khoản,structure,281356,282157,"3. Trong quá trình thực hiện thủ tục giao, khai thác, xử lý tài sản kết cấu hạ tầng đường bộ, đường thủy nội địa, đường sắt, hàng hải, trường hợp đã thực hiện một phần nhiệm vụ, công việc nhưng đến ngày Nghị định này có hiệu lực thi hành chưa hoàn thành (theo quy định tại các Nghị định số 44/2024/NĐ-CP ngày 24 tháng 4 năm 2024, số 12/2025/NĐ-CP ngày 20 tháng 01 năm 2025, số 15/2025/NĐ-CP ngày 03 tháng 02 năm 2025, số 84/2025/NĐ-CP ngày 04 tháng 4 năm 2025) thì tiếp tục thực hiện các công việc chưa hoàn thành theo quy định tại Nghị định này; trường hợp có thay đổi về đối tượng thực hiện và thẩm quyền quyết định thì thực hiện chuyển giao toàn bộ hồ sơ, tài liệu, kết quả đã thực hiện cho đối tượng tiếp nhận để tiếp tục thực hiện, giải quyết theo trình tự, thẩm quyền quy định tại Nghị định này."
+ENTITY,E39_191,KHOAN,Khoản,structure,282185,282254,"1. Các bộ, cơ quan trung ương, chính quyền địa phương có trách nhiệm:"
+ENTITY,E39_192,KHOAN,Khoản,structure,283013,283310,"2. Cơ quan, người có thẩm quyền quyết định giao, khai thác, xử lý tài sản kết cấu hạ tầng đường bộ, đường thủy nội địa, đường sắt, hàng hải quy định tại Nghị định này nếu không đồng ý với đề nghị giao, phê duyệt Đề án khai thác, xử lý tài sản thì phải có văn bản hồi đáp nêu rõ lý do không đồng ý."
+ENTITY,E39_193,KHOAN,Khoản,structure,283311,283930,"3. Tài sản kết cấu hạ tầng đường bộ, đường thủy nội địa, đường sắt, hàng hải có giá trị lớn và có nguy cơ chịu rủi ro cao do thiên tai, hỏa hoạn và các nguyên nhân bất khả kháng khác gây ra được mua bảo hiểm để chủ động đối phó có hiệu quả và chuyển giao rủi ro theo quy định tại Điều 111 Nghị định số 186/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ, pháp luật về kinh doanh bảo hiểm và pháp luật có liên quan. Bộ trưởng, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định việc mua bảo hiểm cho rủi ro bão, lũ, lụt đối với tài sản kết cấu hạ tầng đường bộ, đường thủy nội địa, đường sắt, hàng hải thuộc phạm vi quản lý."
+ENTITY,E39_194,KHOAN,Khoản,structure,283958,284016,1. Nghị định này có hiệu lực thi hành từ ngày ký ban hành.
+ENTITY,E39_195,KHOAN,Khoản,structure,284017,284040,2. Bãi bỏ các Điều sau:
+ENTITY,E39_196,KHOAN,Khoản,structure,284449,284615,"3. Trường hợp các văn bản dẫn chiếu tại Nghị định này được sửa đổi, bổ sung, thay thế thì thực hiện theo quy định tương ứng tại văn bản sửa đổi, bổ sung, thay thế đó."
+ENTITY,E39_197,KHOAN,Khoản,structure,1826,1978,"3. Cơ quan nhà nước, đơn vị sự nghiệp công lập được giao quản lý tài sản kết cấu hạ tầng đường bộ (sau đây gọi là cơ quan, đơn vị quản lý tài sản), gồm:"
+ENTITY,E39_198,KHOAN,Khoản,structure,4853,5000,"2. Việc giao tài sản kết cấu hạ tầng đường bộ cho các cơ quan, đơn vị quy định tại khoản 1 Điều này được thực hiện theo hình thức ghi tăng tài sản."
+ENTITY,E39_199,KHOAN,Khoản,structure,6482,6638,"1. Bộ trưởng Bộ Xây dựng quyết định giao đối với tài sản kết cấu hạ tầng đường bộ thuộc trung ương quản lý cho cơ quan, đơn vị quản lý tài sản ở trung ương."
+ENTITY,E39_200,KHOAN,Khoản,structure,6639,6845,"2. Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định hoặc phân cấp thẩm quyền quyết định giao đối với tài sản kết cấu hạ tầng đường bộ thuộc địa phương quản lý cho cơ quan, đơn vị quản lý tài sản ở địa phương.""."
+ENTITY,E39_201,KHOAN,Khoản,structure,8932,9152,"3. Trong thời hạn 15 ngày, kể từ ngày nhận được đầy đủ hồ sơ theo quy định tại khoản 2 Điều này, cơ quan, người có thẩm quyền quy định tại Điều 6 Nghị định này xem xét, quyết định giao tài sản kết cấu hạ tầng đường bộ.""."
+ENTITY,E39_202,KHOAN,Khoản,structure,13276,13579,"1. Cơ quan, đơn vị quản lý tài sản trực tiếp tổ chức khai thác tài sản kết cấu hạ tầng đường bộ thông qua việc cung cấp dịch vụ sử dụng đường bộ và các dịch vụ khác liên quan đến tài sản kết cấu hạ tầng đường bộ cho các tổ chức, cá nhân theo quy định của pháp luật về đường bộ và pháp luật có liên quan."
+ENTITY,E39_203,KHOAN,Khoản,structure,13580,14068,"2. Trường hợp tài sản kết cấu hạ tầng đường bộ được sử dụng để cung cấp dịch vụ khác (không phải là dịch vụ quy định tại khoản 1 Điều này) nhằm nâng cao hiệu quả khai thác tài sản kết cấu hạ tầng đường bộ thì cơ quan, đơn vị quản lý tài sản trực tiếp tổ chức khai thác tài sản được cung cấp dịch vụ khác theo quy định của pháp luật có liên quan đến việc cung cấp dịch vụ đó, đảm bảo tuân thủ quy định của pháp luật và không làm ảnh hưởng đến hoạt động bình thường của giao thông đường bộ."
+ENTITY,E39_204,KHOAN,Khoản,structure,14069,14321,"3. Trong quá trình khai thác tài sản kết cấu hạ tầng đường bộ, trường hợp phát sinh vật liệu, vật tư thu hồi thì việc xử lý vật liệu, vật tư thu hồi được thực hiện theo quy định về xử lý vật liệu, vật tư thu hồi từ thanh lý tài sản tại Nghị định này.""."
+ENTITY,E39_205,KHOAN,Khoản,structure,14906,15089,"6. Lập, phê duyệt Đề án chuyển nhượng quyền thu phí sử dụng tài sản kết cấu hạ tầng đường bộ thuộc thẩm quyền phê duyệt của Bộ trưởng Bộ Xây dựng quy định tại điểm a khoản 5 Điều này:"
+ENTITY,E39_206,KHOAN,Khoản,structure,22161,22523,"6. Việc lập, phê duyệt Đề án cho thuê quyền khai thác tài sản kết cấu hạ tầng đường bộ thuộc thẩm quyền phê duyệt của cơ quan, người có thẩm quyền quy định tại khoản 5 Điều này được thực hiện tương tự quy định tại khoản 6, khoản 6a Điều 14 Nghị định này. Riêng Đề án cho thuê quyền khai thác tài sản được lập theo Mẫu số 02C tại Phụ lục kèm theo Nghị định này.""."
+ENTITY,E39_207,KHOAN,Khoản,structure,27637,27742,5. Thẩm quyền phê duyệt Đề án chuyển nhượng có thời hạn quyền khai thác tài sản kết cấu hạ tầng đường bộ:
+ENTITY,E39_208,KHOAN,Khoản,structure,28132,28528,"6. Việc lập, phê duyệt Đề án chuyển nhượng có thời hạn quyền khai thác tài sản kết cấu hạ tầng đường bộ thuộc thẩm quyền phê duyệt của cơ quan, người có thẩm quyền quy định tại khoản 5 Điều này được thực hiện tương tự quy định tại khoản 6, khoản 6a Điều 14 Nghị định này. Riêng Đề án chuyển nhượng có thời hạn quyền khai thác tài sản được lập theo Mẫu số 02D tại Phụ lục kèm theo Nghị định này.""."
+ENTITY,E39_209,KHOAN,Khoản,structure,35105,35332,"1. Trường hợp cơ quan, đơn vị quản lý tài sản trực tiếp tổ chức khai thác tài sản kết cấu hạ tầng đường bộ theo quy định tại Điều 13 Nghị định này và các trường hợp quy định tại các điểm b, c và d khoản 4 Điều 12 Nghị định này:"
+ENTITY,E39_210,KHOAN,Khoản,structure,36117,36228,"2. Trường hợp khai thác tài sản kết cấu hạ tầng đường bộ theo quy định tại các Điều 14, 15 và 16 Nghị định này:"
+ENTITY,E39_211,KHOAN,Khoản,structure,64567,65030,"1. Việc giao lại tài sản cho doanh nghiệp theo hình thức đầu tư vốn nhà nước tại doanh nghiệp trong trường hợp cơ quan đại diện chủ sở hữu phê duyệt phương án đầu tư bổ sung vốn điều lệ tại doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ bằng giá trị tài sản kết cấu hạ tầng đường bộ mà tài sản đã giao cho cơ quan, đơn vị quản lý tài sản quy định tại khoản 1 Điều 5 Nghị định này thì phải thực hiện thu hồi hoặc điều chuyển tài sản đó để giao cho doanh nghiệp."
+ENTITY,E39_212,KHOAN,Khoản,structure,65031,65240,"2. Trường hợp cơ quan đại diện chủ sở hữu của doanh nghiệp được giao tài sản theo hình thức đầu tư vốn nhà nước vào doanh nghiệp là Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh đang quản lý tài sản thì xử lý như sau:"
+ENTITY,E39_213,KHOAN,Khoản,structure,66819,67039,"3. Trường hợp cơ quan đại diện chủ sở hữu của doanh nghiệp được giao tài sản theo hình thức đầu tư vốn nhà nước vào doanh nghiệp không phải là Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh đang quản lý tài sản thì xử lý như sau:"
+ENTITY,E39_214,KHOAN,Khoản,structure,68407,68530,4. Xác định giá trị tài sản kết cấu hạ tầng đường bộ làm căn cứ xác định giá trị phần vốn nhà nước đầu tư vào doanh nghiệp:
+ENTITY,E39_215,KHOAN,Khoản,structure,70810,70982,"5. Cơ quan, đơn vị quản lý tài sản thực hiện kế toán giảm tài sản theo quy định của pháp luật về kế toán, báo cáo kê khai biến động tài sản theo quy định tại Nghị định này."
+ENTITY,E39_216,KHOAN,Khoản,structure,70983,71272,"6. Việc quản lý, sử dụng và khai thác đối với tài sản kết cấu hạ tầng đường bộ sau khi giao cho doanh nghiệp và chế độ báo cáo được thực hiện theo quy định của pháp luật về quản lý và đầu tư vốn nhà nước tại doanh nghiệp, pháp luật về đường bộ, pháp luật khác có liên quan và quy định sau:"
+ENTITY,E39_217,KHOAN,Khoản,structure,72854,73148,"1. Toàn bộ số tiền thu được từ việc xử lý tài sản kết cấu hạ tầng đường bộ (bao gồm cả tiền bồi thường thiệt hại, nếu có), sau khi trừ đi chi phí có liên quan đến việc xử lý tài sản, phần còn lại được nộp toàn bộ vào ngân sách nhà nước theo quy định của pháp luật về ngân sách nhà nước như sau:"
+ENTITY,E39_218,KHOAN,Khoản,structure,73329,73414,2. Nội dung chi phí có liên quan đến việc xử lý tài sản kết cấu hạ tầng đường bộ gồm:
+ENTITY,E39_219,KHOAN,Khoản,structure,73662,73738,3. Mức chi phí có liên quan đến việc xử lý tài sản kết cấu hạ tầng đường bộ:
+ENTITY,E39_220,KHOAN,Khoản,structure,74480,74818,"4. Trong thời hạn 30 ngày, kể từ ngày hoàn thành việc xử lý tài sản, bộ phận tham mưu của cơ quan, đơn vị quản lý tài sản có trách nhiệm lập hồ sơ đề nghị thanh toán trình người đứng đầu cơ quan, đơn vị quản lý tài sản phê duyệt để chi trả các khoản chi phí có liên quan đến việc xử lý tài sản kết cấu hạ tầng đường bộ. Hồ sơ đề nghị gồm:"
+ENTITY,E39_221,KHOAN,Khoản,structure,75314,75686,"5. Người đứng đầu cơ quan, đơn vị quản lý tài sản chịu trách nhiệm trước pháp luật về tính chính xác của các khoản chi phí có liên quan đến việc xử lý tài sản kết cấu hạ tầng đường bộ; việc nộp tiền vào ngân sách nhà nước đối với các khoản thu từ xử lý tài sản (sau khi trừ đi chi phí có liên quan đến việc xử lý tài sản) theo quy định của pháp luật về ngân sách nhà nước."
+ENTITY,E39_222,KHOAN,Khoản,structure,75687,75962,"6. Trường hợp số tiền thu được từ xử lý tài sản không đủ bù đắp chi phí thì phần còn thiếu được bố trí trong dự toán ngân sách nhà nước giao (kể cả giao bổ sung) cho cơ quan, đơn vị quản lý tài sản hoặc từ nguồn kinh phí được phép sử dụng của cơ quan, đơn vị quản lý tài sản."
+ENTITY,E39_223,KHOAN,Khoản,structure,75963,76436,"7. Trường hợp phá dỡ tài sản kết cấu hạ tầng đường bộ cũ quy định tại điểm b khoản 1 Điều 24 Nghị định này mà chi phí phá dỡ tài sản kết cấu hạ tầng đường bộ cũ đã được bố trí trong tổng mức đầu tư của dự án đầu tư xây dựng tài sản mới do cơ quan, người có thẩm quyền quyết định đầu tư phê duyệt thì việc lập, phê duyệt dự toán và thanh toán chi phí xử lý tài sản được thực hiện theo dự án được cơ quan, người có thẩm quyền phê duyệt và quy định của pháp luật có liên quan."
+ENTITY,E39_224,KHOAN,Khoản,structure,76437,76793,"8. Trường hợp phải chi trả các khoản chi phí thuê ngoài khi xử lý tài sản theo quy định trước khi thu được tiền từ xử lý tài sản thì cơ quan được giao nhiệm vụ tổ chức xử lý tài sản được tạm ứng từ nguồn kinh phí chi thường xuyên hoặc từ nguồn kinh phí được phép sử dụng của cơ quan, đơn vị quản lý tài sản và được trừ vào tiền thu được từ xử lý tài sản.""."
+ENTITY,E39_225,KHOAN,Khoản,structure,179469,179513,2. Bổ sung khoản 3a vào sau khoản 3 như sau:
+ENTITY,E39_226,KHOAN,Khoản,structure,139893,139904,3. Mức chi:
+ENTITY,E39_227,KHOAN,Khoản,structure,122640,122684,3. Bổ sung khoản 3a vào sau khoản 3 như sau:
+ENTITY,E40_1,DIEM,Điểm,structure,41701,41888,"a) Bộ trưởng Bộ Xây dựng quyết định điều chuyển tài sản kết cấu hạ tầng đường bộ giữa các cơ quan, tổ chức, đơn vị thuộc Bộ Xây dựng hoặc sang các bộ, cơ quan trung ương, địa phương khác."
+ENTITY,E40_2,DIEM,Điểm,structure,41889,42087,"b) Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định điều chuyển tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở địa phương quản lý sang các bộ, cơ quan trung ương, địa phương khác."
+ENTITY,E40_3,DIEM,Điểm,structure,42088,42268,"c) Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định hoặc phân cấp thẩm quyền quyết định điều chuyển tài sản kết cấu hạ tầng đường bộ giữa các cơ quan, tổ chức, đơn vị thuộc địa phương."
+ENTITY,E40_4,DIEM,Điểm,structure,42269,42434,"d) Bộ trưởng, Thủ trưởng cơ quan trung ương quyết định điều chuyển tài sản kết cấu hạ tầng đường bộ thuộc phạm vi quản lý sang Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh."
+ENTITY,E40_5,DIEM,Điểm,structure,42435,42617,đ) Thẩm quyền quyết định điều chuyển tài sản kết cấu hạ tầng đường bộ trong trường hợp quy định tại điểm c khoản 1 Điều này thực hiện theo quy định tại khoản 3 Điều 26 Nghị định này.
+ENTITY,E40_6,DIEM,Điểm,structure,42874,43108,"a) Khi có tài sản kết cấu hạ tầng đường bộ cần điều chuyển, cơ quan, đơn vị quản lý tài sản lập hồ sơ đề nghị điều chuyển tài sản, trình cơ quan, người có thẩm quyền quy định tại các điểm a, b và c khoản 2 Điều này. Hồ sơ đề nghị gồm:"
+ENTITY,E40_7,DIEM,Điểm,structure,44382,44608,"b) Trong thời hạn 15 ngày, kể từ ngày nhận được đầy đủ hồ sơ quy định tại điểm a khoản này, cơ quan, người có thẩm quyền quy định tại các điểm a, b và c khoản 2 Điều này xem xét, quyết định điều chuyển tài sản theo thẩm quyền."
+ENTITY,E40_8,DIEM,Điểm,structure,44609,45054,"c) Nội dung chủ yếu của Quyết định điều chuyển tài sản gồm: Tên cơ quan, đơn vị có tài sản điều chuyển; tên cơ quan, tổ chức, đơn vị, doanh nghiệp tiếp nhận tài sản điều chuyển; danh mục tài sản đề nghị điều chuyển (tên tài sản; địa chỉ; loại/cấp/hạng; năm đưa vào sử dụng; thông số cơ bản (số lượng/chiều dài/diện tích...); nguyên giá, giá trị còn lại (nếu có); tình trạng sử dụng của tài sản); lý do điều chuyển; trách nhiệm tổ chức thực hiện."
+ENTITY,E40_9,DIEM,Điểm,structure,45055,45324,"d) Trong thời hạn 30 ngày, kể từ ngày có Quyết định điều chuyển tài sản của cơ quan, người có thẩm quyền quy định tại các điểm a, b và c khoản 2 Điều này, cơ quan, đơn vị có tài sản điều chuyển và cơ quan, tổ chức, đơn vị, doanh nghiệp tiếp nhận tài sản có trách nhiệm:"
+ENTITY,E40_10,DIEM,Điểm,structure,46219,46365,"đ) Chi phí hợp lý có liên quan trực tiếp đến việc bàn giao, tiếp nhận tài sản do cơ quan, tổ chức, đơn vị tiếp nhận tài sản chi trả theo quy định."
+ENTITY,E40_11,DIEM,Điểm,structure,46366,46438,"e) Không thực hiện thanh toán giá trị tài sản khi điều chuyển tài sản.""."
+ENTITY,E40_12,DIEM,Điểm,structure,59131,59309,"a) Bộ trưởng Bộ Xây dựng quyết định hoặc phân cấp thẩm quyền quyết định thanh lý đối với tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở trung ương quản lý."
+ENTITY,E40_13,DIEM,Điểm,structure,59310,59502,"b) Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định hoặc phân cấp thẩm quyền quyết định thanh lý đối với tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở địa phương quản lý.""."
+ENTITY,E40_14,DIEM,Điểm,structure,187543,187569,"a) Chi phí kiểm kê, đo vẽ."
+ENTITY,E40_15,DIEM,Điểm,structure,187570,187604,"b) Chi phí di dời, phá dỡ, hủy bỏ."
+ENTITY,E40_16,DIEM,Điểm,structure,187605,187644,"c) Chi phí xác định giá, thẩm định giá."
+ENTITY,E40_17,DIEM,Điểm,structure,187645,187693,"d) Chi phí tổ chức bán vật liệu, vật tư thu hồi."
+ENTITY,E40_18,DIEM,Điểm,structure,187694,187756,"đ) Chi phí bảo vệ, bảo quản tài sản trong thời gian chờ xử lý."
+ENTITY,E40_19,DIEM,Điểm,structure,187757,187793,e) Chi phí hợp lý khác có liên quan.
+ENTITY,E40_20,DIEM,Điểm,structure,187806,188080,"a) Đối với các nội dung chi đã có hệ thống định mức kinh tế - kỹ thuật, chế độ, chính sách do cơ quan có thẩm quyền ban hành hoặc pháp luật quy định (thuế, kế toán, thống kê và các pháp luật khác có liên quan) hoặc có giá của Nhà nước quy định thì tính theo các quy định đó."
+ENTITY,E40_21,DIEM,Điểm,structure,188081,188377,b) Đối với các nội dung thuê dịch vụ liên quan đến xử lý tài sản được thực hiện theo hợp đồng ký giữa doanh nghiệp được giao quản lý tài sản và đơn vị cung cấp dịch vụ. Việc lựa chọn đơn vị cung cấp dịch vụ liên quan đến xử lý tài sản được thực hiện theo quy định của pháp luật khác có liên quan.
+ENTITY,E40_22,DIEM,Điểm,structure,188378,188676,"c) Đối với các nội dung chi không thuộc phạm vi quy định tại điểm a, điểm b khoản này, người đại diện theo pháp luật của doanh nghiệp được giao nhiệm vụ xử lý tài sản quyết định mức chi, bảo đảm phù hợp với chế độ quản lý tài chính hiện hành của Nhà nước và chịu trách nhiệm về quyết định của mình."
+ENTITY,E40_23,DIEM,Điểm,structure,201979,202375,"b) Trên cơ sở các căn cứ quy định tại khoản 3 Điều này, kết quả thẩm định giá của doanh nghiệp thẩm định giá hoặc Hội đồng thẩm định giá theo quy định tại điểm a khoản này, doanh nghiệp quản lý tài sản đường sắt đô thị lập 01 bộ hồ sơ đề nghị phê duyệt giá khởi điểm để đấu giá, trình cơ quan, người có thẩm quyền quy định tại khoản 2 Điều này phê duyệt giá khởi điểm để đấu giá. Hồ sơ trình gồm:"
+ENTITY,E40_24,DIEM,Điểm,structure,202898,203158,"c) Trong Quyết định phê duyệt giá khởi điểm để đấu giá cho thuê quyền khai thác tài sản phải xác định doanh thu ước tính hằng năm trong phương án giá khởi điểm để làm doanh thu đối chiếu trong các trường hợp quy định tại điểm l khoản 7 Điều 34 Nghị định này.""."
+ENTITY,E40_25,DIEM,Điểm,structure,264173,264330,a) Bộ trưởng Bộ Xây dựng quyết định hoặc phân cấp thẩm quyền quyết định thanh lý đối với tài sản kết cấu hạ tầng hàng hải thuộc phạm vi quản lý ở trung ương.
+ENTITY,E40_26,DIEM,Điểm,structure,264331,264502,"b) Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định hoặc phân cấp thẩm quyền quyết định thanh lý đối với tài sản kết cấu hạ tầng hàng hải thuộc phạm vi quản lý ở địa phương.""."
+ENTITY,E40_27,DIEM,Điểm,structure,282255,282692,"a) Tổ chức triển khai Nghị định này; rà soát các văn bản quy phạm pháp luật do mình ban hành không phù hợp với quy định của Luật Quản lý, sử dụng tài sản công số 15/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 64/2020/QH14, Luật số 07/2022/QH15, Luật số 24/2023/QH15, Luật số 31/2024/QH15, Luật số 43/2024/QH15, Luật số 56/2024/QH15, Luật số 90/2025/QH15 và Nghị định này để bãi bỏ, sửa đổi, bổ sung, thay thế cho phù hợp."
+ENTITY,E40_28,DIEM,Điểm,structure,282693,283012,"b) Thanh tra, kiểm tra, giám sát, theo dõi, đánh giá việc chấp hành pháp luật về quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng đường bộ, đường thủy nội địa, đường sắt, hàng hải và xử lý vi phạm pháp luật về quản lý, sử dụng và khai thác đối với tài sản thuộc phạm vi quản lý, tránh thất thoát, lãng phí tài sản."
+ENTITY,E40_29,DIEM,Điểm,structure,284041,284251,"a) Bãi bỏ Điều 16, Điều 19 Nghị định số 125/2025/NĐ-CP ngày 11 tháng 6 năm 2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tài chính."
+ENTITY,E40_30,DIEM,Điểm,structure,284252,284448,"b) Bãi bỏ các Điều 7, 10, 11 và 12 Nghị định số 127/2025/NĐ-CP ngày 11 tháng 6 năm 2025 của Chính phủ quy định về phân cấp thẩm quyền quản lý nhà nước trong lĩnh vực quản lý, sử dụng tài sản công."
+ENTITY,E40_31,DIEM,Điểm,structure,1278,1459,"a) Cơ quan quản lý đường bộ ở trung ương là tổ chức trực thuộc Bộ Xây dựng thực hiện chức năng tham mưu, giúp Bộ trưởng Bộ Xây dựng thực hiện chức năng quản lý nhà nước về đường bộ."
+ENTITY,E40_32,DIEM,Điểm,structure,1460,1710,"b) Cơ quan quản lý đường bộ cấp tỉnh là cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Ủy ban nhân dân cấp tỉnh) thực hiện chức năng tham mưu, giúp Ủy ban nhân dân cấp tỉnh quản lý nhà nước về đường bộ."
+ENTITY,E40_33,DIEM,Điểm,structure,1711,1825,"c) Cơ quan quản lý đường bộ cấp xã là Ủy ban nhân dân xã, phường, đặc khu (sau đây gọi là Ủy ban nhân dân cấp xã)."
+ENTITY,E40_34,DIEM,Điểm,structure,1979,2122,"a) Cơ quan, đơn vị quản lý tài sản ở trung ương là cơ quan quy định tại điểm a khoản 2 Điều này và đơn vị sự nghiệp công lập thuộc Bộ Xây dựng."
+ENTITY,E40_35,DIEM,Điểm,structure,2123,2275,"b) Cơ quan, đơn vị quản lý tài sản cấp tỉnh là cơ quan quy định tại điểm b khoản 2 Điều này và đơn vị sự nghiệp công lập thuộc Ủy ban nhân dân cấp tỉnh."
+ENTITY,E40_36,DIEM,Điểm,structure,2276,2545,"c) Cơ quan, đơn vị quản lý tài sản cấp xã là cơ quan chuyên môn về đường bộ cấp xã (cơ quan thuộc Ủy ban nhân dân cấp xã thực hiện chức năng tham mưu, giúp Ủy ban nhân dân cấp xã quản lý nhà nước về đường bộ) và đơn vị sự nghiệp công lập thuộc Ủy ban nhân dân cấp xã.""."
+ENTITY,E40_37,DIEM,Điểm,structure,4499,4631,"a) Cơ quan, đơn vị quản lý tài sản ở trung ương được giao quản lý đối với tài sản kết cấu hạ tầng đường bộ thuộc trung ương quản lý."
+ENTITY,E40_38,DIEM,Điểm,structure,4632,4852,"b) Cơ quan, đơn vị quản lý tài sản ở địa phương (gồm: Cơ quan, đơn vị quản lý tài sản cấp tỉnh; cơ quan, đơn vị quản lý tài sản cấp xã) được giao quản lý đối với tài sản kết cấu hạ tầng đường bộ thuộc địa phương quản lý."
+ENTITY,E40_39,DIEM,Điểm,structure,7707,7830,"a) Văn bản của cơ quan quản lý đường bộ ở trung ương, cơ quan quản lý đường bộ cấp tỉnh về việc giao tài sản: 01 bản chính."
+ENTITY,E40_40,DIEM,Điểm,structure,7831,8309,"b) Biên bản họp liên ngành hoặc ý kiến bằng văn bản về việc giao tài sản của: Cơ quan, tổ chức, đơn vị, doanh nghiệp đang quản lý hoặc tạm quản lý tài sản và cơ quan quản lý cấp trên (nếu có) của cơ quan, tổ chức, đơn vị, doanh nghiệp đó; cơ quan, đơn vị có liên quan của Bộ Xây dựng (đối với tài sản thuộc trung ương quản lý), cơ quan, đơn vị có liên quan của địa phương (đối với tài sản thuộc địa phương quản lý); cơ quan, đơn vị dự kiến được giao quản lý tài sản: 01 bản sao."
+ENTITY,E40_41,DIEM,Điểm,structure,8310,8667,"c) Danh mục tài sản đề nghị giao (tên tài sản; địa chỉ; loại/cấp/hạng; năm đưa vào sử dụng; thông số cơ bản (số lượng/chiều dài/diện tích...); nguyên giá, giá trị còn lại (nếu có); tình trạng sử dụng của tài sản; cơ quan, đơn vị dự kiến được giao quản lý tài sản) do cơ quan quản lý đường bộ ở trung ương/cơ quan quản lý đường bộ cấp tỉnh lập: 01 bản chính."
+ENTITY,E40_42,DIEM,Điểm,structure,8668,8880,"d) Hồ sơ pháp lý về tài sản (Quyết định giao/điều chuyển tài sản, Biên bản bàn giao, tiếp nhận tài sản hoặc các giấy tờ, tài liệu khác chứng minh quyền quản lý, sử dụng, tạm quản lý tài sản (nếu có)): 01 bản sao."
+ENTITY,E40_43,DIEM,Điểm,structure,8881,8931,đ) Giấy tờ khác có liên quan (nếu có): 01 bản sao.
+ENTITY,E40_44,DIEM,Điểm,structure,9676,10327,"a) Trường hợp sử dụng một phần tài sản kết cấu hạ tầng đường bộ vào mục đích an ninh - quốc phòng, phòng chống, khắc phục hậu quả thiên tai và cứu nạn; xây dựng, lắp đặt biển thông tin cổ động, tuyên truyền chính trị - xã hội, an toàn giao thông; sử dụng tạm thời một phần tài sản kết cấu hạ tầng đường bộ (lòng đường, hè phố) để tổ chức hoạt động văn hoá, thể thao, diễu hành, lễ hội trên đường bộ hoặc các hoạt động khác trên đường bộ theo quy định của Luật Đường bộ thì thực hiện theo quy định của pháp luật về đường bộ và pháp luật khác có liên quan; không thực hiện việc khai thác tài sản kết cấu hạ tầng đường bộ theo quy định tại Nghị định này."
+ENTITY,E40_45,DIEM,Điểm,structure,10328,10878,"b) Trường hợp xây dựng, lắp đặt công trình viễn thông trên tài sản kết cấu hạ tầng đường bộ thì việc xây dựng, lắp đặt công trình viễn thông trên tài sản kết cấu hạ tầng đường bộ thực hiện theo quy định của pháp luật về viễn thông và pháp luật về đường bộ; không thực hiện việc khai thác tài sản kết cấu hạ tầng đường bộ theo quy định tại Nghị định này. Riêng việc quản lý, sử dụng số tiền thu được từ xây dựng, lắp đặt công trình viễn thông trên tài sản kết cấu hạ tầng đường bộ được thực hiện theo quy định tại điểm b khoản 1 Điều 18 Nghị định này."
+ENTITY,E40_46,DIEM,Điểm,structure,10879,11451,"c) Trường hợp xây dựng, lắp đặt trạm sạc pin điện thoại công cộng, trạm sạc pin phương tiện giao thông trên tài sản kết cấu hạ tầng đường bộ thì việc xây dựng, lắp đặt thực hiện theo quy định của pháp luật liên quan đến phát triển giao thông xanh và pháp luật về đường bộ; không thực hiện việc khai thác tài sản kết cấu hạ tầng đường bộ theo quy định tại Nghị định này. Riêng việc quản lý, sử dụng số tiền thu được từ xây dựng, lắp đặt trạm sạc pin điện thoại công cộng, trạm sạc pin phương tiện giao thông thực hiện theo quy định tại điểm b khoản 1 Điều 18 Nghị định này."
+ENTITY,E40_47,DIEM,Điểm,structure,11452,12537,"d) Trường hợp cần thiết sử dụng một phần tài sản kết cấu hạ tầng đường bộ kết hợp với tài sản khác nhằm nâng cao hiệu quả khai thác của các tài sản được kết hợp với nhau (sau đây gọi là khai thác hỗn hợp) theo đề nghị khai thác hỗn hợp của bộ, ngành, địa phương khác (Bên đề xuất khai thác hỗn hợp) thì Bộ trưởng Bộ Xây dựng, Chủ tịch Ủy ban nhân dân cấp tỉnh (Bên có tài sản kết cấu hạ tầng đường bộ) quyết định việc khai thác hỗn hợp đảm bảo phù hợp với quy định của pháp luật về đường bộ, pháp luật liên quan đến tài sản khác đó. Trong thời gian khai thác hỗn hợp, cơ quan, đơn vị quản lý tài sản có trách nhiệm quản lý, kế toán tài sản kết cấu hạ tầng đường bộ, Bên có tài sản kết cấu hạ tầng đường bộ và Bên đề xuất khai thác hỗn hợp có trách nhiệm phối hợp đảm bảo giao thông thông suốt và các yêu cầu khác theo quy định của pháp luật, xác định cụ thể trách nhiệm của các bên liên quan (trong đó có trách nhiệm bảo trì tài sản kết cấu hạ tầng đường bộ). Việc quản lý, sử dụng số tiền thu được từ khai thác hỗn hợp thực hiện theo quy định tại điểm b khoản 1 Điều 18 Nghị định này."
+ENTITY,E40_48,DIEM,Điểm,structure,12538,13112,"đ) Trường hợp sử dụng chung công trình hạ tầng kỹ thuật, cơ sở hạ tầng viễn thông của cơ quan, tổ chức, doanh nghiệp để thực hiện nhiệm vụ quốc phòng, bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội thì thực hiện theo quy định tại Nghị quyết số 66.10/2025/NQ-CP ngày 15 tháng 12 năm 2025 của Chính phủ về sử dụng chung công trình hạ tầng kỹ thuật, cơ sở hạ tầng viễn thông của cơ quan, tổ chức, doanh nghiệp để thực hiện nhiệm vụ quốc phòng, bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội; không thực hiện việc khai thác theo quy định tại Nghị định này.""."
+ENTITY,E40_49,DIEM,Điểm,structure,14525,14691,"a) Bộ trưởng Bộ Xây dựng phê duyệt Đề án chuyển nhượng quyền thu phí sử dụng tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở trung ương quản lý."
+ENTITY,E40_50,DIEM,Điểm,structure,14692,14905,"b) Chủ tịch Ủy ban nhân dân cấp tỉnh phê duyệt hoặc phân cấp thẩm quyền phê duyệt Đề án chuyển nhượng quyền thu phí sử dụng tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở địa phương quản lý."
+ENTITY,E40_51,DIEM,Điểm,structure,15090,15289,"a) Cơ quan, đơn vị quản lý tài sản ở trung ương lập hồ sơ đề nghị phê duyệt Đề án chuyển nhượng quyền thu phí sử dụng tài sản kết cấu hạ tầng đường bộ, trình Bộ trưởng Bộ Xây dựng. Hồ sơ đề nghị gồm:"
+ENTITY,E40_52,DIEM,Điểm,structure,15715,15944,"b) Trong thời hạn 30 ngày, kể từ ngày nhận được đầy đủ hồ sơ quy định tại điểm a khoản này, cơ quan, người có thẩm quyền quy định tại điểm a khoản 5 Điều này xem xét, phê duyệt Đề án chuyển nhượng quyền thu phí sử dụng tài sản.""."
+ENTITY,E40_53,DIEM,Điểm,structure,16183,16413,"a) Cơ quan, đơn vị quản lý tài sản lập hồ sơ đề nghị phê duyệt Đề án chuyển nhượng quyền thu phí sử dụng tài sản kết cấu hạ tầng đường bộ, trình cơ quan, người có thẩm quyền quy định tại điểm b khoản 5 Điều này. Hồ sơ đề nghị gồm:"
+ENTITY,E40_54,DIEM,Điểm,structure,16965,17194,"b) Trong thời hạn 30 ngày, kể từ ngày nhận được đầy đủ hồ sơ quy định tại điểm a khoản này, cơ quan, người có thẩm quyền quy định tại điểm b khoản 5 Điều này xem xét, phê duyệt Đề án chuyển nhượng quyền thu phí sử dụng tài sản.""."
+ENTITY,E40_55,DIEM,Điểm,structure,21802,21957,"a) Bộ trưởng Bộ Xây dựng phê duyệt Đề án cho thuê quyền khai thác tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở trung ương quản lý."
+ENTITY,E40_56,DIEM,Điểm,structure,21958,22160,"b) Chủ tịch Ủy ban nhân dân cấp tỉnh phê duyệt hoặc phân cấp thẩm quyền phê duyệt Đề án cho thuê quyền khai thác tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở địa phương quản lý."
+ENTITY,E40_57,DIEM,Điểm,structure,27743,27915,"a) Bộ trưởng Bộ Xây dựng phê duyệt Đề án chuyển nhượng có thời hạn quyền khai thác tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở trung ương quản lý."
+ENTITY,E40_58,DIEM,Điểm,structure,27916,28131,"b) Chủ tịch Ủy ban nhân dân cấp tỉnh phê duyệt hoặc phân cấp thẩm quyền phê duyệt Đề án chuyển nhượng có thời hạn quyền khai thác tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở địa phương quản"
+ENTITY,E40_59,DIEM,Điểm,structure,34019,34398,"b) Trên cơ sở các căn cứ quy định tại khoản 3, khoản 4 Điều này, kết quả thẩm định giá của doanh nghiệp thẩm định giá hoặc Hội đồng thẩm định giá theo quy định tại điểm a khoản này, cơ quan, đơn vị quản lý tài sản lập hồ sơ đề nghị phê duyệt giá khởi điểm để đấu giá, trình cơ quan, người có thẩm quyền quy định tại khoản 2 Điều này phê duyệt giá khởi điểm để đấu giá. Hồ sơ gồm:"
+ENTITY,E40_60,DIEM,Điểm,structure,35333,35647,"a) Số tiền thu được từ khai thác tài sản kết cấu hạ tầng đường bộ là phí sử dụng đường bộ và các khoản phí khác theo quy định của pháp luật quy định tại điểm a, điểm d khoản 3 Điều 12 Nghị định này được quản lý, sử dụng theo quy định của pháp luật về phí, pháp luật về ngân sách nhà nước và pháp luật có liên quan."
+ENTITY,E40_61,DIEM,Điểm,structure,35648,36116,"b) Số tiền thu được từ khai thác tài sản kết cấu hạ tầng đường bộ là tiền thu từ cung cấp các dịch vụ quy định tại điểm b khoản 3 Điều 12 Nghị định này (bao gồm cả số tiền thu được quy định tại các điểm b, c và d khoản 4 Điều 12 Nghị định này) được quản lý, sử dụng theo cơ chế tài chính áp dụng đối với cơ quan, đơn vị quản lý tài sản theo quy định tại khoản 2 Điều 85 Luật Quản lý, sử dụng tài sản công, được sửa đổi, bổ sung tại khoản 7 Điều 8 Luật số 90/2025/QH15."
+ENTITY,E40_62,DIEM,Điểm,structure,36229,36621,"a) Số tiền thu được từ chuyển nhượng quyền thu phí sử dụng tài sản, cho thuê quyền khai thác tài sản, chuyển nhượng có thời hạn quyền khai thác tài sản kết cấu hạ tầng đường bộ (bao gồm cả số tiền chậm nộp - nếu có), sau khi trừ đi chi phí có liên quan đến việc khai thác tài sản, phần còn lại được nộp toàn bộ vào ngân sách nhà nước theo quy định của pháp luật về ngân sách nhà nước như sau:"
+ENTITY,E40_63,DIEM,Điểm,structure,36810,36865,b) Chi phí có liên quan đến việc khai thác tài sản gồm:
+ENTITY,E40_64,DIEM,Điểm,structure,37552,37948,"c) Mức chi; trình tự, thủ tục thanh toán chi phí có liên quan đến việc khai thác tài sản kết cấu hạ tầng đường bộ được thực hiện theo quy định tại khoản 3, khoản 4 Điều 27 Nghị định này. Riêng chi phí phục vụ công tác quản lý trong thời gian thực hiện hợp đồng quy định tại điểm b khoản này được bố trí hằng năm vào dự toán chi thường xuyên ngân sách nhà nước của cơ quan, đơn vị quản lý tài sản."
+ENTITY,E40_65,DIEM,Điểm,structure,37949,38300,"d) Bên nhận chuyển nhượng quyền thu phí, Bên thuê quyền khai thác, Bên nhận chuyển nhượng có thời hạn quyền khai thác tài sản thực hiện thanh toán tiền theo quy định tại điểm g khoản 9 của các Điều 14, 15 và 16 Nghị định này cho cơ quan, đơn vị quản lý tài sản vào tài khoản riêng tại Kho bạc Nhà nước nơi cơ quan, đơn vị quản lý tài sản mở tài khoản."
+ENTITY,E40_66,DIEM,Điểm,structure,39262,39558,"đ) Người đứng đầu cơ quan, đơn vị quản lý tài sản chịu trách nhiệm trước pháp luật về tính chính xác của các khoản chi phí có liên quan đến việc khai thác tài sản kết cấu hạ tầng đường bộ quy định tại điểm b, điểm c khoản này; việc nộp tiền vào ngân sách nhà nước quy định tại điểm d khoản này.""."
+ENTITY,E40_67,DIEM,Điểm,structure,39721,39854,"a) Bộ trưởng Bộ Xây dựng quyết định thu hồi tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở trung ương quản lý."
+ENTITY,E40_68,DIEM,Điểm,structure,39855,40036,"b) Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định hoặc phân cấp thẩm quyền quyết định thu hồi tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở địa phương quản lý."
+ENTITY,E40_69,DIEM,Điểm,structure,40037,40222,"c) Thẩm quyền quyết định thu hồi tài sản kết cấu hạ tầng đường bộ trong trường hợp quy định tại điểm d khoản 1 Điều này được thực hiện theo quy định tại khoản 2 Điều 26 Nghị định này.""."
+ENTITY,E40_70,DIEM,Điểm,structure,41062,41251,"b) Trong thời hạn 15 ngày, kể từ ngày nhận được đầy đủ hồ sơ quy định tại điểm a khoản này, cơ quan, người có thẩm quyền quy định tại khoản 2 Điều này xem xét, quyết định thu hồi tài sản.""."
+ENTITY,E40_71,DIEM,Điểm,structure,46671,46928,"a) Khi có tài sản kết cấu hạ tầng đường bộ cần điều chuyển, cơ quan, tổ chức, đơn vị đang quản lý tài sản thuộc bộ, cơ quan trung ương lập hồ sơ đề nghị điều chuyển, trình cơ quan, người có thẩm quyền quy định tại điểm d khoản 2 Điều này. Hồ sơ đề nghị gồm:"
+ENTITY,E40_72,DIEM,Điểm,structure,47605,47819,"b) Trong thời hạn 15 ngày, kể từ ngày nhận được đầy đủ hồ sơ quy định tại điểm a khoản này, cơ quan, người có thẩm quyền quy định tại điểm d khoản 2 Điều này xem xét, quyết định điều chuyển tài sản theo thẩm quyền."
+ENTITY,E40_73,DIEM,Điểm,structure,47820,48277,"c) Nội dung chủ yếu của Quyết định điều chuyển tài sản của cơ quan, người có thẩm quyền quy định tại điểm d khoản 2 Điều này được thực hiện theo quy định tại điểm c khoản 3 Điều này. Riêng cơ quan tiếp nhận tài sản điều chuyển từ bộ, cơ quan khác ở trung ương sang Bộ Xây dựng là cơ quan quản lý đường bộ ở trung ương, cơ quan tiếp nhận tài sản điều chuyển từ bộ, cơ quan khác ở trung ương sang Ủy ban nhân dân cấp tỉnh là cơ quan quản lý đường bộ cấp tỉnh."
+ENTITY,E40_74,DIEM,Điểm,structure,48278,48838,"d) Việc bàn giao, tiếp nhận tài sản và các nội dung khác được thực hiện theo quy định tại các điểm d, đ và e khoản 3 Điều này. Sau khi có Quyết định điều chuyển tài sản của cơ quan, người có thẩm quyền quy định tại điểm d khoản 2 Điều này, cơ quan quản lý đường bộ ở trung ương (đối với tài sản điều chuyển sang Bộ Xây dựng), cơ quan quản lý đường bộ cấp tỉnh (đối với tài sản điều chuyển sang Ủy ban nhân dân cấp tỉnh) chủ trì, lập hồ sơ đề nghị giao tài sản cho cơ quan, đơn vị quản lý tài sản theo quy định tại các khoản 2, 3, 4 và 5 Điều 7 Nghị định này.""."
+ENTITY,E40_75,DIEM,Điểm,structure,49028,49221,"a) Bộ trưởng Bộ Xây dựng quyết định chuyển giao tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở trung ương quản lý về địa phương (Ủy ban nhân dân cấp tỉnh) quản lý, xử lý."
+ENTITY,E40_76,DIEM,Điểm,structure,49222,49590,"b) Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định chuyển giao tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở địa phương quản lý cho các cơ quan chức năng của địa phương (Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, tổ chức phát triển quỹ đất, tổ chức có chức năng quản lý, kinh doanh nhà địa phương, Ủy ban nhân dân cấp xã) quản lý, xử lý.""."
+ENTITY,E40_77,DIEM,Điểm,structure,49725,49940,"a) Khi có tài sản kết cấu hạ tầng đường bộ cần chuyển giao, cơ quan, đơn vị quản lý tài sản lập hồ sơ đề nghị chuyển giao tài sản, trình cơ quan, người có thẩm quyền quy định tại khoản 2 Điều này. Hồ sơ đề nghị gồm:"
+ENTITY,E40_78,DIEM,Điểm,structure,50658,50854,"b) Trong thời hạn 15 ngày, kể từ ngày nhận được đầy đủ hồ sơ quy định tại điểm a khoản này, cơ quan, người có thẩm quyền quy định tại khoản 2 Điều này xem xét, quyết định việc chuyển giao tài sản."
+ENTITY,E40_79,DIEM,Điểm,structure,50855,51505,"c) Nội dung chủ yếu của Quyết định chuyển giao tài sản gồm: Tên cơ quan, đơn vị quản lý tài sản có tài sản chuyển giao; tên cơ quan tiếp nhận tài sản chuyển giao (Ủy ban nhân dân cấp tỉnh đối với trường hợp chuyển giao tài sản từ Bộ Xây dựng về địa phương; cơ quan chức năng của địa phương quy định tại điểm b khoản 2 Điều này đối với trường hợp chuyển giao tài sản của địa phương); danh mục tài sản đề nghị chuyển giao (tên tài sản; địa chỉ; loại/cấp/hạng; năm đưa vào sử dụng; thông số cơ bản (số lượng/chiều dài/diện tích...); nguyên giá, giá trị còn lại (nếu có); tình trạng sử dụng của tài sản); lý do chuyển giao; trách nhiệm tổ chức thực hiện."
+ENTITY,E40_80,DIEM,Điểm,structure,51506,51925,"d) Trong thời hạn 15 ngày, kể từ ngày có Quyết định chuyển giao tài sản của cơ quan, người có thẩm quyền quy định tại điểm a khoản 2 Điều này, Chủ tịch Ủy ban nhân dân cấp tỉnh giao nhiệm vụ tiếp nhận tài sản chuyển giao cho cơ quan chức năng của địa phương (cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, tổ chức phát triển quỹ đất, tổ chức có chức năng quản lý, kinh doanh nhà địa phương, Ủy ban nhân dân cấp xã)."
+ENTITY,E40_81,DIEM,Điểm,structure,51926,52607,"đ) Trong thời hạn 30 ngày, kể từ ngày có văn bản giao nhiệm vụ tiếp nhận tài sản của Chủ tịch Ủy ban nhân dân cấp tỉnh (đối với trường hợp quy định tại điểm d khoản này), kể từ ngày có Quyết định chuyển giao tài sản (đối với trường hợp còn lại), cơ quan, đơn vị quản lý tài sản có tài sản chuyển giao (Bên giao) chủ trì, phối hợp với cơ quan được giao nhiệm vụ tiếp nhận tài sản (Bên nhận) tổ chức bàn giao, tiếp nhận tài sản; việc bàn giao, tiếp nhận tài sản được lập thành Biên bản theo Mẫu số 01 tại Phụ lục kèm theo Nghị định này. Bên giao thực hiện kế toán giảm tài sản theo quy định của pháp luật về kế toán; báo cáo kê khai biến động tài sản theo quy định tại Nghị định này."
+ENTITY,E40_82,DIEM,Điểm,structure,52608,52735,"e) Chi phí hợp lý có liên quan trực tiếp đến việc bàn giao, tiếp nhận tài sản do cơ quan tiếp nhận tài sản chuyển giao chi trả."
+ENTITY,E40_83,DIEM,Điểm,structure,52991,53090,"g) Không thực hiện thanh toán giá trị tài sản khi chuyển giao tài sản về địa phương quản lý, xử lý."
+ENTITY,E40_84,DIEM,Điểm,structure,53091,53634,"h) Trường hợp quá thời hạn theo quy định tại điểm đ khoản này mà cơ quan, đơn vị quản lý tài sản không bàn giao tài sản hoặc cơ quan chức năng của địa phương không tiếp nhận tài sản thì bên không bàn giao, bên không tiếp nhận tài sản phải chịu trách nhiệm chi trả chi phí cho việc quản lý, bảo quản, bảo trì, bảo vệ tài sản trong thời gian chậm bàn giao, chậm tiếp nhận và chịu trách nhiệm bồi thường trong trường hợp tài sản bị huỷ hoại, mất hoặc hư hỏng; không sử dụng ngân sách nhà nước để thanh toán chi phí phát sinh trong trường hợp này."
+ENTITY,E40_85,DIEM,Điểm,structure,53635,53852,"i) Cơ quan tiếp nhận tài sản chuyển giao có trách nhiệm mở sổ theo dõi, tính hao mòn đối với tài sản nhận chuyển giao từ năm nhận chuyển giao đến năm hoàn thành việc xử lý tài sản theo quy định tại khoản 6 Điều này.""."
+ENTITY,E40_86,DIEM,Điểm,structure,54144,54311,"a) Trường hợp giao, điều chuyển cho cơ quan, tổ chức, đơn vị, doanh nghiệp quản lý, sử dụng thì thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công."
+ENTITY,E40_87,DIEM,Điểm,structure,54312,54789,"b) Trường hợp giao cho tổ chức có chức năng quản lý, kinh doanh nhà địa phương quản lý, khai thác thì thực hiện theo quy định tại Nghị định số 108/2024/NĐ-CP ngày 23 tháng 8 năm 2024 của Chính phủ quy định việc quản lý, sử dụng và khai thác nhà, đất là tài sản công không sử dụng vào mục đích để ở giao cho tổ chức có chức năng quản lý, kinh doanh nhà địa phương quản lý, khai thác, được sửa đổi, bổ sung tại Nghị định số 286/2025/NĐ-CP ngày 03 tháng 11 năm 2025 của Chính phủ."
+ENTITY,E40_88,DIEM,Điểm,structure,54790,54921,"c) Trường hợp xử lý theo chính sách nhà ở, đất ở thì thực hiện theo quy định của pháp luật về nhà ở và pháp luật khác có liên quan."
+ENTITY,E40_89,DIEM,Điểm,structure,54922,55143,"d) Trường hợp thực hiện giao đất, cho thuê đất thì thực hiện theo quy định của pháp luật về đất đai và pháp luật khác có liên quan. Trong trường hợp này, việc xử lý đối với tài sản gắn liền với đất được thực hiện như sau:"
+ENTITY,E40_90,DIEM,Điểm,structure,57452,57570,"đ) Trường hợp giao tổ chức phát triển quỹ đất quản lý, khai thác thì thực hiện theo quy định của pháp luật về đất đai."
+ENTITY,E40_91,DIEM,Điểm,structure,58436,58978,"e) Cơ quan chuyên môn về tài chính có trách nhiệm tham mưu cho Ủy ban nhân dân/Chủ tịch Ủy ban nhân dân cùng cấp trong trường hợp xử lý theo quy định tại điểm a, điểm b khoản này. Cơ quan chuyên môn về xây dựng có trách nhiệm tham mưu cho Ủy ban nhân dân/Chủ tịch Ủy ban nhân dân cùng cấp trong trường hợp xử lý theo quy định tại điểm c khoản này. Cơ quan chuyên môn về nông nghiệp và môi trường có trách nhiệm tham mưu cho Ủy ban nhân dân/Chủ tịch Ủy ban nhân dân cùng cấp trong trường hợp xử lý theo quy định tại điểm d, điểm đ khoản này.""."
+ENTITY,E40_92,DIEM,Điểm,structure,60082,60272,"b) Trong thời hạn 15 ngày, kể từ ngày nhận được đầy đủ hồ sơ quy định tại điểm a khoản này, cơ quan, người có thẩm quyền quy định tại khoản 2 Điều này xem xét, quyết định thanh lý tài sản.""."
+ENTITY,E40_93,DIEM,Điểm,structure,60402,61073,"a) Giao vật liệu, vật tư thu hồi cho cơ quan, đơn vị quản lý tài sản (cơ quan, đơn vị có tài sản thanh lý) để sử dụng vào công tác bảo trì đối với vật liệu, vật tư còn sử dụng được: Cơ quan, đơn vị quản lý tài sản có văn bản trình cơ quan, người có thẩm quyền đã quyết định thanh lý tài sản để quyết định giao vật liệu, vật tư thu hồi đưa vào sử dụng; trong trường hợp này, không thực hiện bố trí kinh phí bảo trì đối với phần giá trị vật liệu, vật tư đưa vào sử dụng cho công tác bảo trì, trường hợp đã bố trí trong dự toán kinh phí bảo trì thì giảm trừ vào dự toán kinh phí bảo trì năm đó tương ứng với giá trị vật liệu, vật tư theo dự toán và giá trị hợp đồng bảo trì."
+ENTITY,E40_94,DIEM,Điểm,structure,61074,61143,"b) Điều chuyển cho cơ quan, tổ chức, đơn vị khác để quản lý, sử dụng:"
+ENTITY,E40_95,DIEM,Điểm,structure,63540,63670,"c) Bán vật liệu, vật tư thu hồi không có nhu cầu sử dụng hoặc không còn sử dụng lại được cho công tác bảo trì công trình đường bộ:"
+ENTITY,E40_96,DIEM,Điểm,structure,64193,64356,"d) Hủy bỏ đối với vật liệu, vật tư không còn sử dụng được: Cơ quan, đơn vị quản lý tài sản tổ chức thực hiện việc hủy bỏ vật liệu, vật tư không còn sử dụng được.""."
+ENTITY,E40_97,DIEM,Điểm,structure,65241,65386,"a) Bộ trưởng Bộ Xây dựng, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định thu hồi tài sản của cơ quan, đơn vị quản lý tài sản thuộc phạm vi quản lý."
+ENTITY,E40_98,DIEM,Điểm,structure,65480,65818,"b) Căn cứ quyết định thu hồi tài sản của cơ quan, người có thẩm quyền quy định tại điểm a khoản này, cơ quan, người có thẩm quyền quy định tại Điều 6 Nghị định này quyết định giao tài sản cho doanh nghiệp theo hình thức đầu tư vốn nhà nước vào doanh nghiệp. Quyết định giao tài sản kết cấu hạ tầng đường bộ gồm những nội dung chủ yếu sau:"
+ENTITY,E40_99,DIEM,Điểm,structure,66242,66654,"c) Căn cứ quyết định giao tài sản kết cấu hạ tầng đường bộ quy định tại điểm b khoản này, doanh nghiệp quản lý tài sản có trách nhiệm báo cáo cơ quan, người có thẩm quyền thực hiện thủ tục đầu tư bổ sung vốn điều lệ bằng giá trị tài sản kết cấu hạ tầng đường bộ cho doanh nghiệp theo quy định của pháp luật về quản lý và đầu tư vốn nhà nước tại doanh nghiệp, pháp luật về đường bộ và pháp luật khác có liên quan."
+ENTITY,E40_100,DIEM,Điểm,structure,67040,67293,"a) Bộ trưởng Bộ Xây dựng, Chủ tịch Ủy ban nhân dân cấp tỉnh đang quản lý tài sản quyết định điều chuyển tài sản từ Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh về bộ, cơ quan trung ương, Ủy ban nhân dân cấp tỉnh là cơ quan đại diện chủ sở hữu của doanh nghiệp."
+ENTITY,E40_101,DIEM,Điểm,structure,67391,67829,"b) Căn cứ quyết định điều chuyển tài sản của cơ quan, người có thẩm quyền quy định tại điểm a khoản này, Bộ trưởng, Thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh (là cơ quan đại diện chủ sở hữu của doanh nghiệp) quyết định giao tài sản cho doanh nghiệp theo hình thức đầu tư vốn nhà nước vào doanh nghiệp. Quyết định giao tài sản kết cấu hạ tầng đường bộ gồm những nội dung chủ yếu quy định tại điểm b khoản 2 Điều này."
+ENTITY,E40_102,DIEM,Điểm,structure,67830,68242,"c) Căn cứ quyết định giao tài sản kết cấu hạ tầng đường bộ quy định tại điểm b khoản này, doanh nghiệp quản lý tài sản có trách nhiệm báo cáo cơ quan, người có thẩm quyền thực hiện thủ tục đầu tư bổ sung vốn điều lệ bằng giá trị tài sản kết cấu hạ tầng đường bộ cho doanh nghiệp theo quy định của pháp luật về quản lý và đầu tư vốn nhà nước tại doanh nghiệp, pháp luật về đường bộ và pháp luật khác có liên quan."
+ENTITY,E40_103,DIEM,Điểm,structure,68531,69515,"a) Trường hợp tài sản được mua sắm, đầu tư xây dựng hoàn thành đưa vào sử dụng trong vòng 03 năm tính đến ngày lập hồ sơ đề nghị giao lại tài sản cho doanh nghiệp quản lý theo hình thức đầu tư vốn nhà nước tại doanh nghiệp thì cơ quan quản lý đường bộ ở trung ương hoặc cơ quan ở trung ương được giao nhiệm vụ (đối với tài sản thuộc trung ương quản lý), cơ quan quản lý đường bộ cấp tỉnh (đối với tài sản thuộc địa phương quản lý) thực hiện xác định giá trị tài sản kết cấu hạ tầng đường bộ làm căn cứ xác định giá trị phần vốn nhà nước đầu tư vào doanh nghiệp là giá trị còn lại của tài sản trên sổ kế toán. Trường hợp tài sản chưa được theo dõi trên sổ kế toán hoặc đã theo dõi trên sổ kế toán nhưng chưa tính hao mòn hoặc đã tính hao mòn nhưng chưa phù hợp với quy định thì cơ quan quản lý đường bộ ở trung ương/cấp tỉnh hoặc cơ quan ở trung ương được giao nhiệm vụ phải xác định lại giá trị còn lại theo đúng quy định làm căn cứ xác định phần vốn nhà nước đầu tư vào doanh nghiệp."
+ENTITY,E40_104,DIEM,Điểm,structure,69516,70035,"b) Các trường hợp không thuộc quy định tại điểm a khoản này, cơ quan quản lý đường bộ ở trung ương hoặc cơ quan ở trung ương được giao nhiệm vụ (đối với tài sản thuộc trung ương quản lý), cơ quan quản lý đường bộ cấp tỉnh (đối với tài sản thuộc địa phương quản lý) thuê doanh nghiệp thẩm định giá để thẩm định giá tài sản kết cấu hạ tầng đường bộ. Chi phí thuê thẩm định giá được sử dụng từ nguồn kinh phí chi thường xuyên của cơ quan quản lý đường bộ ở trung ương/cấp tỉnh hoặc cơ quan ở trung ương được giao nhiệm vụ."
+ENTITY,E40_105,DIEM,Điểm,structure,71273,71597,a) Việc thực hiện các quyền và nghĩa vụ của doanh nghiệp liên quan đến tài sản kết cấu hạ tầng đường bộ phải bảo đảm quyền sở hữu của Nhà nước đối với tài sản kết cấu hạ tầng đường bộ giao cho doanh nghiệp quản lý theo quy định của pháp luật về quản lý và đầu tư vốn nhà nước tại doanh nghiệp và pháp luật khác có liên quan.
+ENTITY,E40_106,DIEM,Điểm,structure,71598,71764,b) Doanh nghiệp quản lý tài sản có trách nhiệm thực hiện chế độ báo cáo kế toán đối với tài sản theo quy định của pháp luật về kế toán và pháp luật khác có liên quan.
+ENTITY,E40_107,DIEM,Điểm,structure,71765,72330,"c) Đối với công trình hoặc hạng mục công trình kết cấu hạ tầng đường bộ không còn nhu cầu sử dụng vào mục đích làm tài sản kết cấu hạ tầng đường bộ mà doanh nghiệp tự nguyện trả lại đất gắn với công trình, hạng mục công trình đó cho Nhà nước và các trường hợp khác phải thu hồi đất gắn với công trình, hạng mục công trình kết cấu hạ tầng đường bộ theo quy định của pháp luật về đất đai thì việc thu hồi đất, bồi thường, hỗ trợ khi Nhà nước thu hồi đất và xử lý đất, tài sản sau khi thu hồi thực hiện theo quy định của pháp luật về đất đai và pháp luật có liên quan."
+ENTITY,E40_108,DIEM,Điểm,structure,72331,72558,"d) Doanh nghiệp quản lý tài sản có trách nhiệm đăng ký đất đai, thực hiện quản lý, sử dụng đất gắn với công trình kết cấu hạ tầng đường bộ theo quy định của pháp luật về đất đai, pháp luật về đường bộ và pháp luật có liên quan."
+ENTITY,E40_109,DIEM,Điểm,structure,72559,72733,"đ) Doanh nghiệp quản lý tài sản không phải thực hiện việc quản lý, sử dụng và khai thác đối với tài sản kết cấu hạ tầng đường bộ theo quy định tại Chương III Nghị định này.""."
+ENTITY,E40_110,DIEM,Điểm,structure,73415,73441,"a) Chi phí kiểm kê, đo vẽ."
+ENTITY,E40_111,DIEM,Điểm,structure,73442,73476,"b) Chi phí di dời, phá dỡ, hủy bỏ."
+ENTITY,E40_112,DIEM,Điểm,structure,73477,73516,"c) Chi phí xác định giá, thẩm định giá."
+ENTITY,E40_113,DIEM,Điểm,structure,73517,73565,"d) Chi phí tổ chức bán vật liệu, vật tư thu hồi."
+ENTITY,E40_114,DIEM,Điểm,structure,73566,73624,"đ) Chi phí bảo vệ, bảo quản tài sản trong thời gian chờ xử"
+ENTITY,E40_115,DIEM,Điểm,structure,73625,73661,e) Chi phí hợp lý khác có liên quan.
+ENTITY,E40_116,DIEM,Điểm,structure,73739,73934,"a) Đối với các nội dung chi đã có tiêu chuẩn, định mức, chế độ do cơ quan, người có thẩm quyền quy định thì thực hiện theo tiêu chuẩn, định mức và chế độ do cơ quan, người có thẩm quyền quy định."
+ENTITY,E40_117,DIEM,Điểm,structure,73935,74219,"b) Đối với các nội dung thuê dịch vụ liên quan đến xử lý tài sản được thực hiện theo hợp đồng ký giữa cơ quan, đơn vị quản lý tài sản và đơn vị cung cấp dịch vụ. Việc lựa chọn đơn vị cung cấp dịch vụ liên quan đến xử lý tài sản được thực hiện theo quy định của pháp luật có liên quan."
+ENTITY,E40_118,DIEM,Điểm,structure,74220,74479,"c) Đối với các nội dung chi ngoài phạm vi quy định tại điểm a, điểm b khoản này, người đứng đầu cơ quan, đơn vị quản lý tài sản quyết định mức chi, bảo đảm phù hợp với chế độ quản lý tài chính hiện hành của Nhà nước và chịu trách nhiệm về quyết định của mình."
+ENTITY,E40_119,DIEM,Điểm,structure,74819,75054,"a) Văn bản đề nghị thanh toán của bộ phận tham mưu (trong đó nêu rõ số tiền thu được từ việc xử lý tài sản, tổng chi phí xử lý tài sản, thông tin về tài khoản tiếp nhận thanh toán) kèm theo bảng kê chi tiết các khoản chi: 01 bản chính."
+ENTITY,E40_120,DIEM,Điểm,structure,75055,75128,"b) Quyết định xử lý tài sản của cơ quan, người có thẩm quyền: 01 bản sao."
+ENTITY,E40_121,DIEM,Điểm,structure,75129,75313,"c) Các hồ sơ, giấy tờ chứng minh cho các khoản chi như: hợp đồng thuê dịch vụ thẩm định giá, đấu giá, phá dỡ và các dịch vụ khác (nếu có); hóa đơn, phiếu thu tiền (nếu có): 01 bản sao."
+ENTITY,E40_122,DIEM,Điểm,structure,77022,77155,"a) Bộ trưởng Bộ Xây dựng quyết định đối với tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở trung ương quản lý."
+ENTITY,E40_123,DIEM,Điểm,structure,77156,77303,"b) Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định đối với tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản ở địa phương quản lý.""."
+ENTITY,E40_124,DIEM,Điểm,structure,78483,78730,"b) Trong thời hạn 15 ngày, kể từ ngày nhận được đầy đủ hồ sơ quy định tại điểm a khoản này, cơ quan, người có thẩm quyền quy định tại khoản 2 Điều này xem xét, quyết định sử dụng tài sản để tham gia dự án đầu tư theo phương thức đối tác công tư.""."
+ENTITY,E40_125,DIEM,Điểm,structure,122433,122579,"đ) Chi phí hợp lý có liên quan trực tiếp đến việc bàn giao, tiếp nhận tài sản do cơ quan, tổ chức, đơn vị tiếp nhận tài sản chi trả theo quy định."
+ENTITY,E40_126,DIEM,Điểm,structure,250623,250695,"e) Không thực hiện thanh toán giá trị tài sản khi điều chuyển tài sản.""."
+ENTITY,E40_127,DIEM,Điểm,structure,139642,139668,"a) Chi phí kiểm kê, đo vẽ."
+ENTITY,E40_128,DIEM,Điểm,structure,139669,139703,"b) Chi phí di dời, phá dỡ, hủy bỏ."
+ENTITY,E40_129,DIEM,Điểm,structure,139704,139743,"c) Chi phí xác định giá, thẩm định giá."
+ENTITY,E40_130,DIEM,Điểm,structure,139744,139792,"d) Chi phí tổ chức bán vật liệu, vật tư thu hồi."
+ENTITY,E40_131,DIEM,Điểm,structure,139793,139855,"đ) Chi phí bảo vệ, bảo quản tài sản trong thời gian chờ xử lý."
+ENTITY,E40_132,DIEM,Điểm,structure,139856,139892,e) Chi phí hợp lý khác có liên quan.
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_3,E38_5,,
+RELATION,R22_9,THUOC,Thuộc,E39_4,E38_5,,
+RELATION,R22_10,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_11,THUOC,Thuộc,E39_5,E38_6,,
+RELATION,R22_12,THUOC,Thuộc,E39_6,E38_6,,
+RELATION,R22_13,THUOC,Thuộc,E39_7,E38_6,,
+RELATION,R22_14,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_15,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_16,THUOC,Thuộc,E39_8,E38_8,,
+RELATION,R22_17,THUOC,Thuộc,E39_9,E38_8,,
+RELATION,R22_18,THUOC,Thuộc,E39_10,E38_8,,
+RELATION,R22_19,THUOC,Thuộc,E39_11,E38_8,,
+RELATION,R22_20,THUOC,Thuộc,E39_12,E38_8,,
+RELATION,R22_21,THUOC,Thuộc,E39_13,E38_8,,
+RELATION,R22_22,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,R22_23,THUOC,Thuộc,E39_14,E38_9,,
+RELATION,R22_24,THUOC,Thuộc,E39_15,E38_9,,
+RELATION,R22_25,THUOC,Thuộc,E39_16,E38_9,,
+RELATION,R22_26,THUOC,Thuộc,E39_17,E38_9,,
+RELATION,R22_27,THUOC,Thuộc,E39_18,E38_9,,
+RELATION,R22_28,THUOC,Thuộc,E38_10,E35_1,,
+RELATION,R22_29,THUOC,Thuộc,E39_19,E38_10,,
+RELATION,R22_30,THUOC,Thuộc,E39_20,E38_10,,
+RELATION,R22_31,THUOC,Thuộc,E39_21,E38_10,,
+RELATION,R22_32,THUOC,Thuộc,E39_22,E38_10,,
+RELATION,R22_33,THUOC,Thuộc,E39_23,E38_10,,
+RELATION,R22_34,THUOC,Thuộc,E38_11,E35_1,,
+RELATION,R22_35,THUOC,Thuộc,E38_12,E35_1,,
+RELATION,R22_36,THUOC,Thuộc,E38_13,E35_1,,
+RELATION,R22_37,THUOC,Thuộc,E39_24,E38_13,,
+RELATION,R22_38,THUOC,Thuộc,E39_25,E38_13,,
+RELATION,R22_39,THUOC,Thuộc,E39_26,E38_13,,
+RELATION,R22_40,THUOC,Thuộc,E38_14,E35_1,,
+RELATION,R22_41,THUOC,Thuộc,E39_27,E38_14,,
+RELATION,R22_42,THUOC,Thuộc,E40_1,E39_27,,
+RELATION,R22_43,THUOC,Thuộc,E40_2,E39_27,,
+RELATION,R22_44,THUOC,Thuộc,E40_3,E39_27,,
+RELATION,R22_45,THUOC,Thuộc,E40_4,E39_27,,
+RELATION,R22_46,THUOC,Thuộc,E40_5,E39_27,,
+RELATION,R22_47,THUOC,Thuộc,E39_28,E38_14,,
+RELATION,R22_48,THUOC,Thuộc,E40_6,E39_28,,
+RELATION,R22_49,THUOC,Thuộc,E40_7,E39_28,,
+RELATION,R22_50,THUOC,Thuộc,E40_8,E39_28,,
+RELATION,R22_51,THUOC,Thuộc,E40_9,E39_28,,
+RELATION,R22_52,THUOC,Thuộc,E40_10,E39_28,,
+RELATION,R22_53,THUOC,Thuộc,E40_11,E39_28,,
+RELATION,R22_54,THUOC,Thuộc,E39_29,E38_14,,
+RELATION,R22_55,THUOC,Thuộc,E38_15,E35_1,,
+RELATION,R22_56,THUOC,Thuộc,E39_30,E38_15,,
+RELATION,R22_57,THUOC,Thuộc,E39_31,E38_15,,
+RELATION,R22_58,THUOC,Thuộc,E39_32,E38_15,,
+RELATION,R22_59,THUOC,Thuộc,E38_16,E35_1,,
+RELATION,R22_60,THUOC,Thuộc,E39_33,E38_16,,
+RELATION,R22_61,THUOC,Thuộc,E40_12,E39_33,,
+RELATION,R22_62,THUOC,Thuộc,E40_13,E39_33,,
+RELATION,R22_63,THUOC,Thuộc,E39_34,E38_16,,
+RELATION,R22_64,THUOC,Thuộc,E39_35,E38_16,,
+RELATION,R22_65,THUOC,Thuộc,E38_17,E35_1,,
+RELATION,R22_66,THUOC,Thuộc,E38_18,E35_1,,
+RELATION,R22_67,THUOC,Thuộc,E38_19,E35_1,,
+RELATION,R22_68,THUOC,Thuộc,E39_36,E38_19,,
+RELATION,R22_69,THUOC,Thuộc,E39_37,E38_19,,
+RELATION,R22_70,THUOC,Thuộc,E38_20,E35_1,,
+RELATION,R22_71,THUOC,Thuộc,E38_21,E35_1,,
+RELATION,R22_72,THUOC,Thuộc,E38_22,E35_1,,
+RELATION,R22_73,THUOC,Thuộc,E39_38,E38_22,,
+RELATION,R22_74,THUOC,Thuộc,E39_39,E38_22,,
+RELATION,R22_75,THUOC,Thuộc,E39_40,E38_22,,
+RELATION,R22_76,THUOC,Thuộc,E39_41,E38_22,,
+RELATION,R22_77,THUOC,Thuộc,E39_42,E38_22,,
+RELATION,R22_78,THUOC,Thuộc,E39_43,E38_22,,
+RELATION,R22_79,THUOC,Thuộc,E39_44,E38_22,,
+RELATION,R22_80,THUOC,Thuộc,E39_45,E38_22,,
+RELATION,R22_81,THUOC,Thuộc,E39_46,E38_22,,
+RELATION,R22_82,THUOC,Thuộc,E39_47,E38_22,,
+RELATION,R22_83,THUOC,Thuộc,E39_48,E38_22,,
+RELATION,R22_84,THUOC,Thuộc,E39_49,E38_22,,
+RELATION,R22_85,THUOC,Thuộc,E39_50,E38_22,,
+RELATION,R22_86,THUOC,Thuộc,E39_51,E38_22,,
+RELATION,R22_87,THUOC,Thuộc,E39_52,E38_22,,
+RELATION,R22_88,THUOC,Thuộc,E39_53,E38_22,,
+RELATION,R22_89,THUOC,Thuộc,E39_54,E38_22,,
+RELATION,R22_90,THUOC,Thuộc,E39_55,E38_22,,
+RELATION,R22_91,THUOC,Thuộc,E39_56,E38_22,,
+RELATION,R22_92,THUOC,Thuộc,E39_57,E38_22,,
+RELATION,R22_93,THUOC,Thuộc,E39_58,E38_22,,
+RELATION,R22_94,THUOC,Thuộc,E38_23,E35_2,,
+RELATION,R22_95,THUOC,Thuộc,E39_59,E38_23,,
+RELATION,R22_96,THUOC,Thuộc,E39_60,E38_23,,
+RELATION,R22_97,THUOC,Thuộc,E38_24,E35_2,,
+RELATION,R22_98,THUOC,Thuộc,E39_61,E38_24,,
+RELATION,R22_99,THUOC,Thuộc,E39_62,E38_24,,
+RELATION,R22_100,THUOC,Thuộc,E38_25,E35_2,,
+RELATION,R22_101,THUOC,Thuộc,E39_63,E38_25,,
+RELATION,R22_102,THUOC,Thuộc,E39_64,E38_25,,
+RELATION,R22_103,THUOC,Thuộc,E38_26,E35_2,,
+RELATION,R22_104,THUOC,Thuộc,E38_27,E35_2,,
+RELATION,R22_105,THUOC,Thuộc,E39_65,E38_27,,
+RELATION,R22_106,THUOC,Thuộc,E39_66,E38_27,,
+RELATION,R22_107,THUOC,Thuộc,E39_67,E38_27,,
+RELATION,R22_108,THUOC,Thuộc,E39_68,E38_27,,
+RELATION,R22_109,THUOC,Thuộc,E39_69,E38_27,,
+RELATION,R22_110,THUOC,Thuộc,E38_28,E35_2,,
+RELATION,R22_111,THUOC,Thuộc,E39_70,E38_28,,
+RELATION,R22_112,THUOC,Thuộc,E39_71,E38_28,,
+RELATION,R22_113,THUOC,Thuộc,E39_72,E38_28,,
+RELATION,R22_114,THUOC,Thuộc,E39_73,E38_28,,
+RELATION,R22_115,THUOC,Thuộc,E39_74,E38_28,,
+RELATION,R22_116,THUOC,Thuộc,E38_29,E35_2,,
+RELATION,R22_117,THUOC,Thuộc,E38_30,E35_2,,
+RELATION,R22_118,THUOC,Thuộc,E39_75,E38_30,,
+RELATION,R22_119,THUOC,Thuộc,E39_76,E38_30,,
+RELATION,R22_120,THUOC,Thuộc,E39_77,E38_30,,
+RELATION,R22_121,THUOC,Thuộc,E39_78,E38_30,,
+RELATION,R22_122,THUOC,Thuộc,E38_31,E35_2,,
+RELATION,R22_123,THUOC,Thuộc,E39_79,E38_31,,
+RELATION,R22_124,THUOC,Thuộc,E39_80,E38_31,,
+RELATION,R22_125,THUOC,Thuộc,E38_32,E35_2,,
+RELATION,R22_126,THUOC,Thuộc,E39_81,E38_32,,
+RELATION,R22_127,THUOC,Thuộc,E39_82,E38_32,,
+RELATION,R22_128,THUOC,Thuộc,E38_33,E35_2,,
+RELATION,R22_129,THUOC,Thuộc,E39_83,E38_33,,
+RELATION,R22_130,THUOC,Thuộc,E39_84,E38_33,,
+RELATION,R22_131,THUOC,Thuộc,E39_85,E38_33,,
+RELATION,R22_132,THUOC,Thuộc,E38_34,E35_2,,
+RELATION,R22_133,THUOC,Thuộc,E38_35,E35_2,,
+RELATION,R22_134,THUOC,Thuộc,E39_86,E38_35,,
+RELATION,R22_135,THUOC,Thuộc,E39_87,E38_35,,
+RELATION,R22_136,THUOC,Thuộc,E38_36,E35_2,,
+RELATION,R22_137,THUOC,Thuộc,E39_88,E38_36,,
+RELATION,R22_138,THUOC,Thuộc,E39_89,E38_36,,
+RELATION,R22_139,THUOC,Thuộc,E39_90,E38_36,,
+RELATION,R22_140,THUOC,Thuộc,E39_91,E38_36,,
+RELATION,R22_141,THUOC,Thuộc,E39_92,E38_36,,
+RELATION,R22_142,THUOC,Thuộc,E39_93,E38_36,,
+RELATION,R22_143,THUOC,Thuộc,E39_94,E38_36,,
+RELATION,R22_144,THUOC,Thuộc,E39_95,E38_36,,
+RELATION,R22_145,THUOC,Thuộc,E39_96,E38_36,,
+RELATION,R22_146,THUOC,Thuộc,E39_97,E38_36,,
+RELATION,R22_147,THUOC,Thuộc,E39_98,E38_36,,
+RELATION,R22_148,THUOC,Thuộc,E39_99,E38_36,,
+RELATION,R22_149,THUOC,Thuộc,E39_100,E38_36,,
+RELATION,R22_150,THUOC,Thuộc,E39_101,E38_36,,
+RELATION,R22_151,THUOC,Thuộc,E39_102,E38_36,,
+RELATION,R22_152,THUOC,Thuộc,E39_103,E38_36,,
+RELATION,R22_153,THUOC,Thuộc,E39_104,E38_36,,
+RELATION,R22_154,THUOC,Thuộc,E39_105,E38_36,,
+RELATION,R22_155,THUOC,Thuộc,E39_106,E38_36,,
+RELATION,R22_156,THUOC,Thuộc,E39_107,E38_36,,
+RELATION,R22_157,THUOC,Thuộc,E39_108,E38_36,,
+RELATION,R22_158,THUOC,Thuộc,E39_109,E38_36,,
+RELATION,R22_159,THUOC,Thuộc,E38_37,E35_3,,
+RELATION,R22_160,THUOC,Thuộc,E38_38,E35_3,,
+RELATION,R22_161,THUOC,Thuộc,E39_110,E38_38,,
+RELATION,R22_162,THUOC,Thuộc,E39_111,E38_38,,
+RELATION,R22_163,THUOC,Thuộc,E39_112,E38_38,,
+RELATION,R22_164,THUOC,Thuộc,E39_113,E38_38,,
+RELATION,R22_165,THUOC,Thuộc,E38_39,E35_3,,
+RELATION,R22_166,THUOC,Thuộc,E38_40,E35_3,,
+RELATION,R22_167,THUOC,Thuộc,E38_41,E35_3,,
+RELATION,R22_168,THUOC,Thuộc,E39_114,E38_41,,
+RELATION,R22_169,THUOC,Thuộc,E39_115,E38_41,,
+RELATION,R22_170,THUOC,Thuộc,E39_116,E38_41,,
+RELATION,R22_171,THUOC,Thuộc,E39_117,E38_41,,
+RELATION,R22_172,THUOC,Thuộc,E39_118,E38_41,,
+RELATION,R22_173,THUOC,Thuộc,E39_119,E38_41,,
+RELATION,R22_174,THUOC,Thuộc,E39_120,E38_41,,
+RELATION,R22_175,THUOC,Thuộc,E39_121,E38_41,,
+RELATION,R22_176,THUOC,Thuộc,E38_42,E35_3,,
+RELATION,R22_177,THUOC,Thuộc,E38_43,E35_3,,
+RELATION,R22_178,THUOC,Thuộc,E39_122,E38_43,,
+RELATION,R22_179,THUOC,Thuộc,E39_123,E38_43,,
+RELATION,R22_180,THUOC,Thuộc,E38_44,E35_3,,
+RELATION,R22_181,THUOC,Thuộc,E39_124,E38_44,,
+RELATION,R22_182,THUOC,Thuộc,E38_45,E35_3,,
+RELATION,R22_183,THUOC,Thuộc,E39_125,E38_45,,
+RELATION,R22_184,THUOC,Thuộc,E39_126,E38_45,,
+RELATION,R22_185,THUOC,Thuộc,E39_127,E38_45,,
+RELATION,R22_186,THUOC,Thuộc,E38_46,E35_3,,
+RELATION,R22_187,THUOC,Thuộc,E39_128,E38_46,,
+RELATION,R22_188,THUOC,Thuộc,E40_14,E39_128,,
+RELATION,R22_189,THUOC,Thuộc,E40_15,E39_128,,
+RELATION,R22_190,THUOC,Thuộc,E40_16,E39_128,,
+RELATION,R22_191,THUOC,Thuộc,E40_17,E39_128,,
+RELATION,R22_192,THUOC,Thuộc,E40_18,E39_128,,
+RELATION,R22_193,THUOC,Thuộc,E40_19,E39_128,,
+RELATION,R22_194,THUOC,Thuộc,E39_129,E38_46,,
+RELATION,R22_195,THUOC,Thuộc,E40_20,E39_129,,
+RELATION,R22_196,THUOC,Thuộc,E40_21,E39_129,,
+RELATION,R22_197,THUOC,Thuộc,E40_22,E39_129,,
+RELATION,R22_198,THUOC,Thuộc,E39_130,E38_46,,
+RELATION,R22_199,THUOC,Thuộc,E39_131,E38_46,,
+RELATION,R22_200,THUOC,Thuộc,E39_132,E38_46,,
+RELATION,R22_201,THUOC,Thuộc,E39_133,E38_46,,
+RELATION,R22_202,THUOC,Thuộc,E38_47,E35_3,,
+RELATION,R22_203,THUOC,Thuộc,E39_134,E38_47,,
+RELATION,R22_204,THUOC,Thuộc,E39_135,E38_47,,
+RELATION,R22_205,THUOC,Thuộc,E38_48,E35_3,,
+RELATION,R22_206,THUOC,Thuộc,E38_49,E35_3,,
+RELATION,R22_207,THUOC,Thuộc,E38_50,E35_3,,
+RELATION,R22_208,THUOC,Thuộc,E39_136,E38_50,,
+RELATION,R22_209,THUOC,Thuộc,E39_137,E38_50,,
+RELATION,R22_210,THUOC,Thuộc,E39_138,E38_50,,
+RELATION,R22_211,THUOC,Thuộc,E38_51,E35_3,,
+RELATION,R22_212,THUOC,Thuộc,E40_23,E38_51,,
+RELATION,R22_213,THUOC,Thuộc,E40_24,E38_51,,
+RELATION,R22_214,THUOC,Thuộc,E38_52,E35_3,,
+RELATION,R22_215,THUOC,Thuộc,E38_53,E35_3,,
+RELATION,R22_216,THUOC,Thuộc,E39_139,E38_53,,
+RELATION,R22_217,THUOC,Thuộc,E39_140,E38_53,,
+RELATION,R22_218,THUOC,Thuộc,E38_54,E35_3,,
+RELATION,R22_219,THUOC,Thuộc,E39_141,E38_54,,
+RELATION,R22_220,THUOC,Thuộc,E39_142,E38_54,,
+RELATION,R22_221,THUOC,Thuộc,E38_55,E35_3,,
+RELATION,R22_222,THUOC,Thuộc,E39_143,E38_55,,
+RELATION,R22_223,THUOC,Thuộc,E39_144,E38_55,,
+RELATION,R22_224,THUOC,Thuộc,E39_145,E38_55,,
+RELATION,R22_225,THUOC,Thuộc,E39_146,E38_55,,
+RELATION,R22_226,THUOC,Thuộc,E39_147,E38_55,,
+RELATION,R22_227,THUOC,Thuộc,E38_56,E35_3,,
+RELATION,R22_228,THUOC,Thuộc,E38_57,E35_3,,
+RELATION,R22_229,THUOC,Thuộc,E39_148,E38_57,,
+RELATION,R22_230,THUOC,Thuộc,E39_149,E38_57,,
+RELATION,R22_231,THUOC,Thuộc,E38_58,E35_3,,
+RELATION,R22_232,THUOC,Thuộc,E39_150,E38_58,,
+RELATION,R22_233,THUOC,Thuộc,E39_151,E38_58,,
+RELATION,R22_234,THUOC,Thuộc,E39_152,E38_58,,
+RELATION,R22_235,THUOC,Thuộc,E39_153,E38_58,,
+RELATION,R22_236,THUOC,Thuộc,E39_154,E38_58,,
+RELATION,R22_237,THUOC,Thuộc,E39_155,E38_58,,
+RELATION,R22_238,THUOC,Thuộc,E39_156,E38_58,,
+RELATION,R22_239,THUOC,Thuộc,E39_157,E38_58,,
+RELATION,R22_240,THUOC,Thuộc,E39_158,E38_58,,
+RELATION,R22_241,THUOC,Thuộc,E39_159,E38_58,,
+RELATION,R22_242,THUOC,Thuộc,E38_59,E35_4,,
+RELATION,R22_243,THUOC,Thuộc,E38_60,E35_4,,
+RELATION,R22_244,THUOC,Thuộc,E38_61,E35_4,,
+RELATION,R22_245,THUOC,Thuộc,E39_160,E38_61,,
+RELATION,R22_246,THUOC,Thuộc,E39_161,E38_61,,
+RELATION,R22_247,THUOC,Thuộc,E39_162,E38_61,,
+RELATION,R22_248,THUOC,Thuộc,E39_163,E38_61,,
+RELATION,R22_249,THUOC,Thuộc,E39_164,E38_61,,
+RELATION,R22_250,THUOC,Thuộc,E38_62,E35_4,,
+RELATION,R22_251,THUOC,Thuộc,E39_165,E38_62,,
+RELATION,R22_252,THUOC,Thuộc,E39_166,E38_62,,
+RELATION,R22_253,THUOC,Thuộc,E39_167,E38_62,,
+RELATION,R22_254,THUOC,Thuộc,E39_168,E38_62,,
+RELATION,R22_255,THUOC,Thuộc,E38_63,E35_4,,
+RELATION,R22_256,THUOC,Thuộc,E39_169,E38_63,,
+RELATION,R22_257,THUOC,Thuộc,E39_170,E38_63,,
+RELATION,R22_258,THUOC,Thuộc,E39_171,E38_63,,
+RELATION,R22_259,THUOC,Thuộc,E38_64,E35_4,,
+RELATION,R22_260,THUOC,Thuộc,E38_65,E35_4,,
+RELATION,R22_261,THUOC,Thuộc,E39_172,E38_65,,
+RELATION,R22_262,THUOC,Thuộc,E39_173,E38_65,,
+RELATION,R22_263,THUOC,Thuộc,E39_174,E38_65,,
+RELATION,R22_264,THUOC,Thuộc,E38_66,E35_4,,
+RELATION,R22_265,THUOC,Thuộc,E39_175,E38_66,,
+RELATION,R22_266,THUOC,Thuộc,E39_176,E38_66,,
+RELATION,R22_267,THUOC,Thuộc,E38_67,E35_4,,
+RELATION,R22_268,THUOC,Thuộc,E39_177,E38_67,,
+RELATION,R22_269,THUOC,Thuộc,E40_25,E39_177,,
+RELATION,R22_270,THUOC,Thuộc,E40_26,E39_177,,
+RELATION,R22_271,THUOC,Thuộc,E39_178,E38_67,,
+RELATION,R22_272,THUOC,Thuộc,E38_68,E35_4,,
+RELATION,R22_273,THUOC,Thuộc,E38_69,E35_4,,
+RELATION,R22_274,THUOC,Thuộc,E38_70,E35_4,,
+RELATION,R22_275,THUOC,Thuộc,E38_71,E35_4,,
+RELATION,R22_276,THUOC,Thuộc,E39_179,E38_71,,
+RELATION,R22_277,THUOC,Thuộc,E39_180,E38_71,,
+RELATION,R22_278,THUOC,Thuộc,E39_181,E38_71,,
+RELATION,R22_279,THUOC,Thuộc,E39_182,E38_71,,
+RELATION,R22_280,THUOC,Thuộc,E39_183,E38_71,,
+RELATION,R22_281,THUOC,Thuộc,E39_184,E38_71,,
+RELATION,R22_282,THUOC,Thuộc,E39_185,E38_71,,
+RELATION,R22_283,THUOC,Thuộc,E39_186,E38_71,,
+RELATION,R22_284,THUOC,Thuộc,E39_187,E38_71,,
+RELATION,R22_285,THUOC,Thuộc,E38_72,E35_5,,
+RELATION,R22_286,THUOC,Thuộc,E39_188,E38_72,,
+RELATION,R22_287,THUOC,Thuộc,E39_189,E38_72,,
+RELATION,R22_288,THUOC,Thuộc,E39_190,E38_72,,
+RELATION,R22_289,THUOC,Thuộc,E38_73,E35_5,,
+RELATION,R22_290,THUOC,Thuộc,E39_191,E38_73,,
+RELATION,R22_291,THUOC,Thuộc,E40_27,E39_191,,
+RELATION,R22_292,THUOC,Thuộc,E40_28,E39_191,,
+RELATION,R22_293,THUOC,Thuộc,E39_192,E38_73,,
+RELATION,R22_294,THUOC,Thuộc,E39_193,E38_73,,
+RELATION,R22_295,THUOC,Thuộc,E38_74,E35_5,,
+RELATION,R22_296,THUOC,Thuộc,E39_194,E38_74,,
+RELATION,R22_297,THUOC,Thuộc,E39_195,E38_74,,
+RELATION,R22_298,THUOC,Thuộc,E40_29,E39_195,,
+RELATION,R22_299,THUOC,Thuộc,E40_30,E39_195,,
+RELATION,R22_300,THUOC,Thuộc,E39_196,E38_74,,
+RELATION,R22_301,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_302,THUOC,Thuộc,E40_31,E38_1,,
+RELATION,R22_303,THUOC,Thuộc,E40_32,E38_1,,
+RELATION,R22_304,THUOC,Thuộc,E40_33,E38_1,,
+RELATION,R22_305,THUOC,Thuộc,E39_197,E38_1,,
+RELATION,R22_306,THUOC,Thuộc,E40_34,E39_197,,
+RELATION,R22_307,THUOC,Thuộc,E40_35,E39_197,,
+RELATION,R22_308,THUOC,Thuộc,E40_36,E39_197,,
+RELATION,R22_309,THUOC,Thuộc,E40_37,E38_3,,
+RELATION,R22_310,THUOC,Thuộc,E40_38,E38_3,,
+RELATION,R22_311,THUOC,Thuộc,E39_198,E38_3,,
+RELATION,R22_312,THUOC,Thuộc,E39_199,E38_4,,
+RELATION,R22_313,THUOC,Thuộc,E39_200,E38_4,,
+RELATION,R22_314,THUOC,Thuộc,E40_39,E39_4,,
+RELATION,R22_315,THUOC,Thuộc,E40_40,E39_4,,
+RELATION,R22_316,THUOC,Thuộc,E40_41,E39_4,,
+RELATION,R22_317,THUOC,Thuộc,E40_42,E39_4,,
+RELATION,R22_318,THUOC,Thuộc,E40_43,E39_4,,
+RELATION,R22_319,THUOC,Thuộc,E39_201,E38_5,,
+RELATION,R22_320,THUOC,Thuộc,E40_44,E39_7,,
+RELATION,R22_321,THUOC,Thuộc,E40_45,E39_7,,
+RELATION,R22_322,THUOC,Thuộc,E40_46,E39_7,,
+RELATION,R22_323,THUOC,Thuộc,E40_47,E39_7,,
+RELATION,R22_324,THUOC,Thuộc,E40_48,E39_7,,
+RELATION,R22_325,THUOC,Thuộc,E39_202,E38_7,,
+RELATION,R22_326,THUOC,Thuộc,E39_203,E38_7,,
+RELATION,R22_327,THUOC,Thuộc,E39_204,E38_7,,
+RELATION,R22_328,THUOC,Thuộc,E40_49,E39_8,,
+RELATION,R22_329,THUOC,Thuộc,E40_50,E39_8,,
+RELATION,R22_330,THUOC,Thuộc,E39_205,E38_8,,
+RELATION,R22_331,THUOC,Thuộc,E40_51,E39_205,,
+RELATION,R22_332,THUOC,Thuộc,E40_52,E39_205,,
+RELATION,R22_333,THUOC,Thuộc,E40_53,E39_9,,
+RELATION,R22_334,THUOC,Thuộc,E40_54,E39_9,,
+RELATION,R22_335,THUOC,Thuộc,E40_55,E39_14,,
+RELATION,R22_336,THUOC,Thuộc,E40_56,E39_14,,
+RELATION,R22_337,THUOC,Thuộc,E39_206,E38_9,,
+RELATION,R22_338,THUOC,Thuộc,E39_207,E38_10,,
+RELATION,R22_339,THUOC,Thuộc,E40_57,E39_207,,
+RELATION,R22_340,THUOC,Thuộc,E40_58,E39_207,,
+RELATION,R22_341,THUOC,Thuộc,E39_208,E38_10,,
+RELATION,R22_342,THUOC,Thuộc,E40_59,E38_11,,
+RELATION,R22_343,THUOC,Thuộc,E39_209,E38_12,,
+RELATION,R22_344,THUOC,Thuộc,E40_60,E39_209,,
+RELATION,R22_345,THUOC,Thuộc,E40_61,E39_209,,
+RELATION,R22_346,THUOC,Thuộc,E39_210,E38_12,,
+RELATION,R22_347,THUOC,Thuộc,E40_62,E39_210,,
+RELATION,R22_348,THUOC,Thuộc,E40_63,E39_210,,
+RELATION,R22_349,THUOC,Thuộc,E40_64,E39_210,,
+RELATION,R22_350,THUOC,Thuộc,E40_65,E39_210,,
+RELATION,R22_351,THUOC,Thuộc,E40_66,E39_210,,
+RELATION,R22_352,THUOC,Thuộc,E40_67,E39_24,,
+RELATION,R22_353,THUOC,Thuộc,E40_68,E39_24,,
+RELATION,R22_354,THUOC,Thuộc,E40_69,E39_24,,
+RELATION,R22_355,THUOC,Thuộc,E40_70,E39_25,,
+RELATION,R22_356,THUOC,Thuộc,E40_71,E39_29,,
+RELATION,R22_357,THUOC,Thuộc,E40_72,E39_29,,
+RELATION,R22_358,THUOC,Thuộc,E40_73,E39_29,,
+RELATION,R22_359,THUOC,Thuộc,E40_74,E39_29,,
+RELATION,R22_360,THUOC,Thuộc,E40_75,E39_30,,
+RELATION,R22_361,THUOC,Thuộc,E40_76,E39_30,,
+RELATION,R22_362,THUOC,Thuộc,E40_77,E39_31,,
+RELATION,R22_363,THUOC,Thuộc,E40_78,E39_31,,
+RELATION,R22_364,THUOC,Thuộc,E40_79,E39_31,,
+RELATION,R22_365,THUOC,Thuộc,E40_80,E39_31,,
+RELATION,R22_366,THUOC,Thuộc,E40_81,E39_31,,
+RELATION,R22_367,THUOC,Thuộc,E40_82,E39_31,,
+RELATION,R22_368,THUOC,Thuộc,E40_83,E39_31,,
+RELATION,R22_369,THUOC,Thuộc,E40_84,E39_31,,
+RELATION,R22_370,THUOC,Thuộc,E40_85,E39_31,,
+RELATION,R22_371,THUOC,Thuộc,E40_86,E39_32,,
+RELATION,R22_372,THUOC,Thuộc,E40_87,E39_32,,
+RELATION,R22_373,THUOC,Thuộc,E40_88,E39_32,,
+RELATION,R22_374,THUOC,Thuộc,E40_89,E39_32,,
+RELATION,R22_375,THUOC,Thuộc,E40_90,E39_32,,
+RELATION,R22_376,THUOC,Thuộc,E40_91,E39_32,,
+RELATION,R22_377,THUOC,Thuộc,E40_92,E39_34,,
+RELATION,R22_378,THUOC,Thuộc,E40_93,E39_35,,
+RELATION,R22_379,THUOC,Thuộc,E40_94,E39_35,,
+RELATION,R22_380,THUOC,Thuộc,E40_95,E39_35,,
+RELATION,R22_381,THUOC,Thuộc,E40_96,E39_35,,
+RELATION,R22_382,THUOC,Thuộc,E39_211,E38_17,,
+RELATION,R22_383,THUOC,Thuộc,E39_212,E38_17,,
+RELATION,R22_384,THUOC,Thuộc,E40_97,E39_212,,
+RELATION,R22_385,THUOC,Thuộc,E40_98,E39_212,,
+RELATION,R22_386,THUOC,Thuộc,E40_99,E39_212,,
+RELATION,R22_387,THUOC,Thuộc,E39_213,E38_17,,
+RELATION,R22_388,THUOC,Thuộc,E40_100,E39_213,,
+RELATION,R22_389,THUOC,Thuộc,E40_101,E39_213,,
+RELATION,R22_390,THUOC,Thuộc,E40_102,E39_213,,
+RELATION,R22_391,THUOC,Thuộc,E39_214,E38_17,,
+RELATION,R22_392,THUOC,Thuộc,E40_103,E39_214,,
+RELATION,R22_393,THUOC,Thuộc,E40_104,E39_214,,
+RELATION,R22_394,THUOC,Thuộc,E39_215,E38_17,,
+RELATION,R22_395,THUOC,Thuộc,E39_216,E38_17,,
+RELATION,R22_396,THUOC,Thuộc,E40_105,E39_216,,
+RELATION,R22_397,THUOC,Thuộc,E40_106,E39_216,,
+RELATION,R22_398,THUOC,Thuộc,E40_107,E39_216,,
+RELATION,R22_399,THUOC,Thuộc,E40_108,E39_216,,
+RELATION,R22_400,THUOC,Thuộc,E40_109,E39_216,,
+RELATION,R22_401,THUOC,Thuộc,E39_217,E38_18,,
+RELATION,R22_402,THUOC,Thuộc,E39_218,E38_18,,
+RELATION,R22_403,THUOC,Thuộc,E40_110,E39_218,,
+RELATION,R22_404,THUOC,Thuộc,E40_111,E39_218,,
+RELATION,R22_405,THUOC,Thuộc,E40_112,E39_218,,
+RELATION,R22_406,THUOC,Thuộc,E40_113,E39_218,,
+RELATION,R22_407,THUOC,Thuộc,E40_114,E39_218,,
+RELATION,R22_408,THUOC,Thuộc,E40_115,E39_218,,
+RELATION,R22_409,THUOC,Thuộc,E39_219,E38_18,,
+RELATION,R22_410,THUOC,Thuộc,E40_116,E39_219,,
+RELATION,R22_411,THUOC,Thuộc,E40_117,E39_219,,
+RELATION,R22_412,THUOC,Thuộc,E40_118,E39_219,,
+RELATION,R22_413,THUOC,Thuộc,E39_220,E38_18,,
+RELATION,R22_414,THUOC,Thuộc,E40_119,E39_220,,
+RELATION,R22_415,THUOC,Thuộc,E40_120,E39_220,,
+RELATION,R22_416,THUOC,Thuộc,E40_121,E39_220,,
+RELATION,R22_417,THUOC,Thuộc,E39_221,E38_18,,
+RELATION,R22_418,THUOC,Thuộc,E39_222,E38_18,,
+RELATION,R22_419,THUOC,Thuộc,E39_223,E38_18,,
+RELATION,R22_420,THUOC,Thuộc,E39_224,E38_18,,
+RELATION,R22_421,THUOC,Thuộc,E40_122,E39_36,,
+RELATION,R22_422,THUOC,Thuộc,E40_123,E39_36,,
+RELATION,R22_423,THUOC,Thuộc,E40_124,E39_37,,
+RELATION,R22_424,THUOC,Thuộc,E40_125,E39_80,,
+RELATION,R22_425,THUOC,Thuộc,E39_227,E38_31,,
+RELATION,R22_426,THUOC,Thuộc,E40_127,E38_34,,
+RELATION,R22_427,THUOC,Thuộc,E40_128,E38_34,,
+RELATION,R22_428,THUOC,Thuộc,E40_129,E38_34,,
+RELATION,R22_429,THUOC,Thuộc,E40_130,E38_34,,
+RELATION,R22_430,THUOC,Thuộc,E40_131,E38_34,,
+RELATION,R22_431,THUOC,Thuộc,E40_132,E38_34,,
+RELATION,R22_432,THUOC,Thuộc,E39_226,E38_34,,
+RELATION,R22_433,THUOC,Thuộc,E39_225,E38_44,,
+RELATION,R22_434,THUOC,Thuộc,E40_126,E39_173,,

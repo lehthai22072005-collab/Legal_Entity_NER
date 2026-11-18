@@ -1,0 +1,164 @@
+{
+  "entities": [
+    {
+      "id": "E1",
+      "label": "Tên văn bản"
+    },
+    {
+      "id": "E2",
+      "label": "Số hiệu"
+    },
+    {
+      "id": "E3",
+      "label": "Loại văn bản"
+    },
+    {
+      "id": "E4",
+      "label": "Ngành"
+    },
+    {
+      "id": "E5",
+      "label": "Ngày ban hành"
+    },
+    {
+      "id": "E6",
+      "label": "Lĩnh vực"
+    },
+    {
+      "id": "E7",
+      "label": "Ngày có hiệu lực"
+    },
+    {
+      "id": "E8",
+      "label": "Ngày hết hiệu lực"
+    },
+    {
+      "id": "E9",
+      "label": "Tình trạng hiệu lực"
+    },
+    {
+      "id": "E10",
+      "label": "Cơ quan ban hành"
+    },
+    {
+      "id": "E11",
+      "label": "Chức danh"
+    },
+    {
+      "id": "E12",
+      "label": "Người ký"
+    },
+    {
+      "id": "E13",
+      "label": "Văn bản được hướng dẫn áp dụng"
+    },
+    {
+      "id": "E14",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "E15",
+      "label": "Văn bản bị tác động hiệu lực một phần"
+    },
+    {
+      "id": "E16",
+      "label": "Văn bản bị tác động hiệu lực toàn bộ"
+    },
+    {
+      "id": "E17",
+      "label": "Văn bản được đính chính"
+    },
+    {
+      "id": "E18",
+      "label": "Văn bản được dẫn chiếu"
+    },
+    {
+      "id": "E19",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "E20",
+      "label": "Văn bản được giải thích"
+    },
+    {
+      "id": "E21",
+      "label": "Văn bản bị đình chỉ thi hành"
+    },
+    {
+      "id": "E22",
+      "label": "Văn bản bị tạm ngưng/ gia hạn/ công bố tiếp tục còn hiệu lực"
+    },
+    {
+      "id": "E23",
+      "label": "Văn bản hướng dẫn áp dụng"
+    },
+    {
+      "id": "E24",
+      "label": "Văn bản quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "E25",
+      "label": "Văn bản quy định về việc hết hiệu lực một phần"
+    },
+    {
+      "id": "E26",
+      "label": "Văn bản quy định về việc hết hiệu lực toàn bộ"
+    },
+    {
+      "id": "E27",
+      "label": "Văn bản hợp nhất"
+    },
+    {
+      "id": "E28",
+      "label": "Văn bản đính chính"
+    },
+    {
+      "id": "E29",
+      "label": "Văn bản dẫn chiếu"
+    },
+    {
+      "id": "E30",
+      "label": "Văn bản áp dụng"
+    },
+    {
+      "id": "E31",
+      "label": "Văn bản giải thích"
+    },
+    {
+      "id": "E32",
+      "label": "Văn bản đình chỉ thi hành"
+    },
+    {
+      "id": "E33",
+      "label": "Văn bản quy định tạm ngưng/ gia hạn/ công bố tiếp tục còn hiệu lực"
+    },
+    {
+      "id": "E34",
+      "label": "Phần"
+    },
+    {
+      "id": "E35",
+      "label": "Chương"
+    },
+    {
+      "id": "E36",
+      "label": "Mục"
+    },
+    {
+      "id": "E37",
+      "label": "Tiểu Mục"
+    },
+    {
+      "id": "E38",
+      "label": "Điều"
+    },
+    {
+      "id": "E39",
+      "label": "Khoản"
+    },
+    {
+      "id": "E40",
+      "label": "Điểm"
+    }
+  ]
+}

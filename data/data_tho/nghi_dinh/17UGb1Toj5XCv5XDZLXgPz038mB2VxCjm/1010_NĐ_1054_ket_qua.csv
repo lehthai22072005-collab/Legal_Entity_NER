@@ -1,0 +1,29 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,225,472,"NGHỊ ĐỊNH
+CỦA BỘ GIÁO DỤC SỐ 1010/NĐ NGÀY 10-10-1956 QUY ĐỊNH
+TIÊU CHUẨN CÔNG NHẬN THANH TOÁN NẠN MÙ CHỮ CHO CÁC
+ĐƠN VỊ GIA ĐÌNH, XÃ, XÍ NGHIỆP NÔNG TRƯỜNG, LÂM TRƯỜNG, CÔNG TRƯỜNG, HUYỆN, TỈNH VÀ THỂ THAO KIỂM TRA,
+CÔNG NHÂN THANH TOÁN NẠN MÙ CHỮ"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,254,261,1010/NĐ
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,720,729,NGHỊ ĐỊNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,262,277,NGÀY 10-10-1956
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,3416,3430,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,3451,3461,1956-10-25
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,3485,3505,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,473,494,BỘ TRƯỞNG BỘ GIÁO DỤC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,473,482,BỘ TRƯỞNG
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,3327,3343,Nguyễn Văn Huyên
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,568,665,Nghị định số 317-ND ngày 26-5-1956 của Bộ Giáo dục quy định tiêu chuẩn công nhận thoát nạn mù chữ
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,503,558,"Sắc lệnh số 119-SL, ngày 9-7-1946 thành lập Bộ Giáo dục"
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,568,665,Nghị định số 317-ND ngày 26-5-1956 của Bộ Giáo dục quy định tiêu chuẩn công nhận thoát nạn mù chữ
+ENTITY,E38_1,DIEU,Điều,structure,730,1258,"Điều 1 - Được công nhận là thanh toán xong nạn mù chữ: các đơn vị gia đình, xã (hoặc khu phố, thị trấn), xí nghiệp, nông trường, lâm trường, công trường huyện (hoặc quận, châu, thị xã), tỉnh, (hoặc thành phố) hết thảy mọi người ở trong đơn vị đó, trừ những người tàn tật và những người có những trường hợp thật đặc biệt (sẽ do cơ quan có thẩm quyền công nhận xét từng trường hợp cụ thể và quyết định), ở trong hạn tuổi phải thanh toán nạn mù chữ đều có trình độ quy định trong Nghị định số 317-NĐ ngày 26-5-1956 của Bộ Giáo dục."
+ENTITY,E38_2,DIEU,Điều,structure,1259,1321,Điều 2 - Hạn tuổi phải thanh toán nạn mù chữ quy định như sau:
+ENTITY,E38_3,DIEU,Điều,structure,1734,2046,"Điều 3 - Thể thức công nhận: mỗi khi có một đơn vị đạt được những tiêu chuẩn trên, Uỷ ban hành chính và cơ quan nơi đó làm báo cáo lên cấp trên. Khi nhận được báo cáo, Uỷ ban hành chính và cơ quan Giáo dục cấp có thẩm quyền sẽ tổ chức các đoàn kiểm tra xem xét lại những thành tích đó và ra quyết định công nhận."
+ENTITY,E38_4,DIEU,Điều,structure,2047,2110,Điều 4 - Quyền hạn kiểm tra và công nhận sẽ phân nhiệm như sau:
+ENTITY,E38_5,DIEU,Điều,structure,2783,3189,Điều 5 - Thành phần đoàn kiểm tra sẽ do UBHC các cấp có thẩm quyền kiểm tra quyết định và do một đại diện của UBHC cấp đó làm trưởng đoàn. Trong trường hợp nhiều đơn vị trong địa phương cùng thanh toán nạn mù chữ xong một lúc thì UBHC cấp đó có thẩm quyền có thể uỷ nhiệm cho UBHC cấp liền dưới kiểm tra và xác nhận nhưng quyền hạn và trách nhiệm công nhận vẫn do UBHC cấp trên quyết định và báo cáo về Bộ.
+ENTITY,E38_6,DIEU,Điều,structure,3190,3326,"Điều 6 - Các ông Chánh Văn phòng Bộ Giáo dục, Giám đốc Nha Bình dân học vụ, chủ tịch UBHC các Liên khu, Khu... chiểu nghị định thi hành."
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

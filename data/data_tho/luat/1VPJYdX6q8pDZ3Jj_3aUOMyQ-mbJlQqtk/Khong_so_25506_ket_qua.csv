@@ -1,0 +1,494 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,41,Luật Bảo vệ sức khỏe nhân dân số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,33,41,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,27278,27302,ngày 30 tháng 6 năm 1989
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,27370,27384,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,27405,27415,1989-07-11
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,27439,27451,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,27472,27480,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,27494,27511,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,27524,27536,Lê Quang Đạo
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,27556,27574,Hiến pháp năm 1980
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,27624,27750,Quyết định số 149/2007/QĐ-TTg Về việc phê duyệt Chương trình mục tiêu quốc gia Vệ sinh an toàn thực phẩm giai đoạn 2006 - 2010
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,27800,27901,Thông tư số 19/2001/TT-BYT Hướng dẫn điều kiện nhập khẩu trực tiếp thuốc phòng và chữa bệnh cho người
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,27951,28139,"Nghị định số 85/2012/NĐ-CP Về cơ chế hoạt động, cơ chế tài chính đối với các đơn vị sự nghiệp y tế công lập và giá dịch vụ khám bệnh, chữa bệnh của các cơ sở  khám bệnh, chữa bệnh công lập"
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,28189,28297,Quyết định số 4701/2003/QĐ-BYT Về việc ban hành Quy định Bệnh viện đủ điều kiện thực hiện kỹ thuật ghép thận
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,28347,28464,"Thông tư số 10/2003/TT-BYT Hướng dẫn các công ty nước ngoài đăng ký hoạt động về vắc xin, sinh phẩm y tế với Việt Nam"
+ENTITY,E24_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,28514,28633,Quyết định số 77/2002/QĐ-TTg Về việc phê duyệt Chương trình Phòng chống một số bệnh không lây nhiễm giai đoạn 2002-2010
+ENTITY,E24_7,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,28683,28804,Quyết định số 43/2006/QĐ-TTg Về việc phê duyệt Kế hoạch hành động quốc gia bảo đảm vệ sinh an toàn thực phẩm đến năm 2010
+ENTITY,E24_8,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,28854,28919,Quyết định số 1895/1997/QĐ-BYT Về việc ban hành Quy chế bệnh viện
+ENTITY,E24_9,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,28969,29105,"Quyết định số 401/QĐ-TTg Về việc phê duyệt Chương trình phòng, chống bệnh, tật trong các cơ sở giáo dục thuộc hệ thống giáo dục quốc dân"
+ENTITY,E24_10,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,29155,29252,Quyết định số 40/2007/QĐ-BYT Về việc ban hành Quy trình và Danh mục thanh tra hành nghề y tư nhân
+ENTITY,E24_11,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,29302,29554,"Quyết định số 172/2008/QĐ-TTg Về việc bổ sung Quyết định số 108/2007/QĐ-TTg ngày 17 tháng 7 năm 2007 của Thủ tướng Chính phủ phê duyệt Chương trình mục tiêu quốc gia phòng, chống một số bệnh xã hội, bệnh dịch nguy hiểm và HIV/AIDS giai đoạn 2006 – 2010"
+ENTITY,E24_12,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,29604,29729,"Quyết định số 3733/2002/QĐ-BYT Về việc ban hành 21 tiêu chuẩn vệ sinh lao động, 05 nguyên tắc và 07 thông số vệ sinh lao động"
+ENTITY,E24_13,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,29779,29978,"Thông tư liên tịch số 9-TT/LB Hướng dẫn thực hiện Nghị định số 114-HĐBT ngày 7-4-1992 của Hội đồng Bộ trưởng về quản lý đối với xuất khẩu, nhập khẩu thuốc và nguyên liệu làm thuốc chữa bệnh cho người"
+ENTITY,E24_14,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30028,30159,"Nghị quyết số 18/2008/QH12 Về đẩy mạnh thực hiện chính sách, pháp luật xã hội hóa để nâng cao chất lượng chăm sóc sức khỏe nhân dân"
+ENTITY,E24_15,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30209,30304,Quyết định số 950/QĐ-TTg Đầu tư xây dựng trạm y tế xã thuộc vùng khó khăn giai đoạn 2008 - 2010
+ENTITY,E24_16,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30354,30451,Quyết định số 2701/2001/QĐ-BYT Về việc triển khai áp dụng nguyên tắc thực hành tốt bảo quản thuốc
+ENTITY,E24_17,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30501,30661,"Quyết định số 1467/2007/QĐ-BYT Về việc ban hành Quy chế công nhận danh hiệu “Gia đình sức khỏe”, “Làng sức khỏe”, “Tổ dân phố sức khỏe” và “Khu dân cư sức khỏe”"
+ENTITY,E24_18,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30711,30907,"Thông tư số 32/2009/TT-BCT Quy định tạm thời về giới hạn cho phép đối với hàm lượng formaldehyt, các amin thơm có thể giải phóng ra từ thuốc nhuộm azo trong các điều kiện khử trên sản phẩm dệt may"
+ENTITY,E24_19,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30957,31104,Quyết định số 28/QĐ-TTg Về việc phê duyệt đề án quốc gia về kiểm soát ô nhiễm vi sinh vật và tồn dư hóa chất trong thực phẩm giai đoạn đến năm 2010
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,31124,31195,Quyết định số 5071/QĐ-UB V/v tiêm phòng bệnh dại và xử lý chó chạy rông
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,31215,31339,"Nghị quyết số 122/2019/NQ-HĐND Về chính sách khuyến khích bác sĩ, dược sĩ về công tác tại tỉnh Sơn La, giai đoạn 2020 - 2025"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,31359,31547,"Nghị định số 85/2012/NĐ-CP Về cơ chế hoạt động, cơ chế tài chính đối với các đơn vị sự nghiệp y tế công lập và giá dịch vụ khám bệnh, chữa bệnh của các cơ sở  khám bệnh, chữa bệnh công lập"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,31567,31684,Nghị quyết số 06/2009/NQ-HĐND Về qui hoạch phát triển sự nghiệp chăm sóc sức khoẻ nhân dân tỉnh Lạng Sơn đến năm 2020
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,31704,31789,Quyết định số 106/BYT-QĐ Ban hành Quy chế gia công thuốc phòng và chữa bệnh cho người
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,31809,31991,"Quyết định số 4198/1999/QĐ-BYT Về việc ban hành Danh mục các vắc xin, sinh phẩm miễn dịch sản xuất ở nước ngoài được Bộ Y tế xem xét để cấp số đăng ký lưu hành tại Việt Nam năm 2000."
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,32011,32116,Nghị quyết số 29/2016/NQ-HĐND Về việc thông qua Đề án Xã hội hóa y tế tỉnh Lâm Đồng giai đoạn 2016 - 2020
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,32136,32339,"Nghị quyết số 10/2014/NQ-HĐND Về việc hỗ trợ kinh phí đối với các trạm y tế ở các xã, phường, thị trấn trên địa bàn tỉnh Ninh Bình được công nhận đạt bộ tiêu chí quốc gia về y tế xã giai đoạn 2011 - 2020"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,32359,32456,Quyết định số 2701/2001/QĐ-BYT Về việc triển khai áp dụng nguyên tắc thực hành tốt bảo quản thuốc
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,32476,32577,Thông tư số 19/2001/TT-BYT Hướng dẫn điều kiện nhập khẩu trực tiếp thuốc phòng và chữa bệnh cho người
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,32597,32757,"Quyết định số 1467/2007/QĐ-BYT Về việc ban hành Quy chế công nhận danh hiệu “Gia đình sức khỏe”, “Làng sức khỏe”, “Tổ dân phố sức khỏe” và “Khu dân cư sức khỏe”"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,32777,32872,Quyết định số 950/QĐ-TTg Đầu tư xây dựng trạm y tế xã thuộc vùng khó khăn giai đoạn 2008 - 2010
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,32892,33028,Quyết định số 29/2002/QĐ-UB V/v phê duyệt chương trình chăm sóc và bảo vệ sức khoẻ nhân dân giai đoạn 2001 - 2005 và định hướng đến 2010
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,33048,33144,"Quyết định số 33/2003/QÐ-BYT Về việc ban hành Thường quy giám sát và phòng, chống bệnh Dịch hạch"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,33164,33281,"Thông tư số 10/2003/TT-BYT Hướng dẫn các công ty nước ngoài đăng ký hoạt động về vắc xin, sinh phẩm y tế với Việt Nam"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,33301,33438,"Nghị quyết số 19/2023/NQ-HĐND Quy định chính sách hỗ trợ công chức, viên chức và nhân viên ngành Y tế tỉnh Tiền Giang giai đọan 2024-2026"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,33458,33658,"NGHỊ QUYẾT SỐ Số: 18/2019/NQ-HĐND BAN HÀNH QUY ĐỊNH CHÍNH SÁCH THU HÚT, ĐÃI NGỘ VÀ ĐÀO TẠO, PHÁT TRIỂN NGUỒN NHÂN LỰC Y TẾ TRÊN ĐỊA BÀN TỈNH BÌNH PHƯỚC GIAI ĐOẠN 2020 - 2025 VÀ ĐỊNH HƯỚNG ĐẾN NĂM 2030"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,33678,33808,"Quyết định số 82/2006/QĐ-UBND V/v Phê duyệt Kế hoạch triển khai thực hiện Chiến lược quốc gia về dinh dưỡng, giai đoạn 2006 - 2010"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,33828,33959,"Nghị quyết số 18/2008/QH12 Về đẩy mạnh thực hiện chính sách, pháp luật xã hội hóa để nâng cao chất lượng chăm sóc sức khỏe nhân dân"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,33979,34104,"Quyết định số 3733/2002/QĐ-BYT Về việc ban hành 21 tiêu chuẩn vệ sinh lao động, 05 nguyên tắc và 07 thông số vệ sinh lao động"
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,34124,34229,"Quyết định số 63/2005/QĐ-UBND Về việc thành lập Trung tâm Truyền thông - Giáo dục sức khỏe
+tỉnh Hậu Giang"
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,34249,34330,Quyết định số 576/TTg Về việc phê duyệt kế hoạch hành động quốc gia về dinh dưỡng
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,34350,34486,Quyết định số 07/2008/QĐ-UBND Phê duyệt Kế hoạch hành động bảo đảm vệ sinh an toàn thực phẩm đến năm 2010 trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,34506,34571,Quyết định số 1895/1997/QĐ-BYT Về việc ban hành Quy chế bệnh viện
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,34591,34986,"Nghị quyết số 03/2019/NQ-HĐND Sửa đổi, bổ sung Khoản 2 Điều 2 Nghị quyết 03/2015/NQ-HĐND ngày 08/7/2015 của Hội đồng nhân dân tỉnh sửa đổi, bổ sung Nghị quyết số 07/2014/NQ-HĐND ngày 09/7/2014 cảu Hội đồng nhân dân tỉnh về viêc quy định chế độ  hỗ trợ đào tạo, bồi dưỡng cán bộ, công chức, viên chức; xây dựng nguồn cán bộ quy hoạch dự bị dài hạn và thu hút nhân tài trên địa bàn tỉnh Khánh Hòa."
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,35006,35114,Quyết định số 4701/2003/QĐ-BYT Về việc ban hành Quy định Bệnh viện đủ điều kiện thực hiện kỹ thuật ghép thận
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,35134,35292,Nghị quyết số 205/2015/NQ-HĐND Về việc hỗ trợ kinh phí thực hiện chương trình Dân số - Kế hoạch hóa gia đình trên địa bàn tỉnh Vĩnh Phúc giai đoạn 2016 - 2020
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,35312,35471,"Quyết định số 2061/1999/QĐ-UBND Về việc ban hành quy định việc quản lý sản xuất, cung ứng lưu thông thuốc chữa bệnh và vật tư thiết bị, dụng cụ y tế trong tỉnh"
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,35491,35735,"Quyết định số 46/2005/QĐ-UBND Ban hành Chương trình hành động thực hiện Nghị quyết số 46 -NQ/TW của Bộ Chính trị và Kế hoạch số 65 -KH/TU của Ban Thường vụ Tỉnh uỷ “Về công tác bảo vệ, chăm sóc và nâng cao sức khoẻ nhân dân trong tình hình mới”"
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,35755,35832,Nghị định số 16-CP Quy định một số vấn đề về phòng và chống nhiễm HIV và SIDA
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,35852,35950,Nghị quyết số 37/2011/NQ-HĐND Thông qua Đề án xã hội hóa y tế tỉnh Lâm Đồng giai đoạn 2011 – 2015.
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,35970,36067,Quyết định số 111/TTg Về việc quản lý thuốc chữa bệnh cho người theo đường nhập khẩu phi mậu dịch
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,36087,36283,"Thông tư số 32/2009/TT-BCT Quy định tạm thời về giới hạn cho phép đối với hàm lượng formaldehyt, các amin thơm có thể giải phóng ra từ thuốc nhuộm azo trong các điều kiện khử trên sản phẩm dệt may"
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,36303,36409,Nghị quyết số 34/2022/NQ-HĐND quy định chế độ hỗ trợ nguồn nhân lực y tế tỉnh Đồng Nai giai đoạn 2023-2025
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,36429,36764,"Nghị quyết số 27/2020/NQ-HĐND Sửa đổi, bổ sung một số điều của Quy định về chính sách thu hút, đãi ngộ và đào tạo, phát triển nguồn nhân lực y tế trên địa bàn tỉnh Bình Phước giai đoạn 2020 - 2025 và định hướng đến năm 2030 ban hành kèm theo Nghị quyết số 18/2019/NQ-HĐND ngày 16 tháng 12 năm 2019 của Hội đồng nhân dân tỉnh Bình Phước"
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,36784,36927,Nghị quyết số 06/2009/NQ-HĐND Về việc phê duyệt Đề án chính sách phát triển nguồn nhân lực y tế trên địa bàn tỉnh Yên Bái giai đoạn 2009 - 2015
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,36947,37084,Quyết định số 33/2006/QĐ-UBND Về việc phê duyệt Kế hoạch hành động bảo đảm vệ sinh an toàn thực phẩm giai đoạn 2006 - 2010 tỉnh Hậu Giang
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,37104,37356,"Quyết định số 172/2008/QĐ-TTg Về việc bổ sung Quyết định số 108/2007/QĐ-TTg ngày 17 tháng 7 năm 2007 của Thủ tướng Chính phủ phê duyệt Chương trình mục tiêu quốc gia phòng, chống một số bệnh xã hội, bệnh dịch nguy hiểm và HIV/AIDS giai đoạn 2006 – 2010"
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,37376,37519,"Quyết định số 55/2008/QĐ-UBND Về việc phê duyệt Kế hoạch hành động phòng, chống tai nạn thương tích
+đến năm 2010 trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,37539,37738,"Thông tư liên tịch số 9-TT/LB Hướng dẫn thực hiện Nghị định số 114-HĐBT ngày 7-4-1992 của Hội đồng Bộ trưởng về quản lý đối với xuất khẩu, nhập khẩu thuốc và nguyên liệu làm thuốc chữa bệnh cho người"
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,37758,37935,"Quyết định số 224/1998/QĐ-TTg về việc bổ sung mục tiêu phòng, chống duy dinh dưỡng trẻ em vào chương trình mục tiêu quốc gia thanh toán một số bệnh xã hội và dịch bệnh nguy hiểm"
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,37955,38151,"Nghị quyết số 18/2019/NQ-HĐND Ban hành Quy định chính sách thu hút, đãi ngộ và đào tạo, phát triển nguồn nhân lực y tế trên địa bàn tỉnh Bình Phước giai đoạn 2020 - 2025 và định hướng đến năm 2030"
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,38171,38318,Quyết định số 28/QĐ-TTg Về việc phê duyệt đề án quốc gia về kiểm soát ô nhiễm vi sinh vật và tồn dư hóa chất trong thực phẩm giai đoạn đến năm 2010
+ENTITY,E35_1,CHUONG,Chương,structure,475,504,Chương 1 NHỮNG QUY ĐỊNH CHUNG
+ENTITY,E35_2,CHUONG,Chương,structure,4507,4596,"Chương 2 VỆ SINH TRONG SINH HOẠT VÀ LAO ĐỘNG, VỆ SINH CÔNG CỘNG, PHÒNG VÀ CHỐNG DỊCH BỆNH"
+ENTITY,E35_3,CHUONG,Chương,structure,10488,10547,"Chương 3 THỂ DỤC THỂ THAO, ĐIỀU DƯỠNG VÀ PHỤC HỒI CHỨC NĂNG"
+ENTITY,E35_4,CHUONG,Chương,structure,12403,12434,Chương 4 KHÁM BỆNH VÀ CHỮA BỆNH
+ENTITY,E35_5,CHUONG,Chương,structure,17224,17266,"Chương 5 Y HỌC, DƯỢC HỌC CỔ TRUYỀN DÂN TỘC"
+ENTITY,E35_6,CHUONG,Chương,structure,19045,19081,"Chương 6 THUỐC PHÒNG BỆNH, CHỮA BỆNH"
+ENTITY,E35_7,CHUONG,Chương,structure,20569,20680,"Chương 7 BẢO VỆ SỨC KHOẺ NGƯỜI CAO TUỔI, THƯƠNG BINH, BỆNH BINH, NGƯỜI TÀN TẬT VÀ ĐỒNG BÀO CÁC DÂN TỘC THIỂU SỐ"
+ENTITY,E35_8,CHUONG,Chương,structure,21767,21841,"Chương 8 THỰC HIỆN KẾ HOẠCH HOÁ GIA ĐÌNH VÀ BẢO VỆ SỨC KHOẺ PHỤ NỮ, TRẺ EM"
+ENTITY,E35_9,CHUONG,Chương,structure,24291,24326,Chương 9 THANH TRA NHÀ NƯỚC VỀ Y TẾ
+ENTITY,E35_10,CHUONG,Chương,structure,25855,25897,Chương 10 KHEN THƯỞNG VÀ XỬ LÝ CÁC VI PHẠM
+ENTITY,E35_11,CHUONG,Chương,structure,27018,27048,Chương 11 ĐIỀU KHOẢN CUỐI CÙNG
+ENTITY,E38_1,DIEU,Điều,structure,505,566,Điều 1. Quyền và nghĩa vụ của công dân trong bảo vệ sức khoẻ.
+ENTITY,E38_2,DIEU,Điều,structure,969,1021,Điều 2. Nguyên tắc chỉ đạo công tác bảo vệ sức khoẻ.
+ENTITY,E38_3,DIEU,Điều,structure,1980,2013,Điều 3. Trách nhiệm của Nhà nước.
+ENTITY,E38_4,DIEU,Điều,structure,3202,3690,"Điều 4. Trách nhiệm của các cơ quan Nhà nước, các cơ sở sản xuất, kinh doanh, các đơn vị vũ trang nhân dân.
+Các cơ quan Nhà nước, các cơ sở sản xuất, kinh doanh của Nhà nước, các đơn vị vũ trang nhân dân (gọi chung là các tổ chức Nhà nước), các cơ sở sản xuất, kinh doanh của tập thể và tư nhân có trách nhiệm trực tiếp chăm lo, bảo vệ, tăng cường sức khoẻ của những thành viên trong cơ quan, đơn vị mình và đóng góp tiền của, công sức theo khả năng cho công tác bảo vệ sức khoẻ nhân dân."
+ENTITY,E38_5,DIEU,Điều,structure,3691,3734,Điều 5. Trách nhiệm của các tổ chức xã hội.
+ENTITY,E38_6,DIEU,Điều,structure,4597,4622,Điều 6. Giáo dục vệ sinh.
+ENTITY,E38_7,DIEU,Điều,structure,5059,5125,"Điều 7. Vệ sinh lương thực, thực phẩm, các loại nước uống và rượu."
+ENTITY,E38_8,DIEU,Điều,structure,5805,5878,Điều 8. Vệ sinh nước và các nguồn nước dùng trong sinh hoạt của nhân dân.
+ENTITY,E38_9,DIEU,Điều,structure,6117,6190,"Điều 9. Vệ sinh trong sản xuất, bảo quản, vận chuyển và sử dụng hoá chất."
+ENTITY,E38_10,DIEU,Điều,structure,6611,6679,Điều 10. Vệ sinh các chất thải trong công nghiệp và trong sinh hoạt.
+ENTITY,E38_11,DIEU,Điều,structure,7066,7116,"Điều 11. Vệ sinh trong chăn nuôi gia súc, gia cầm."
+ENTITY,E38_12,DIEU,Điều,structure,7421,7597,"Điều 12. Vệ sinh trong xây dựng.
+Việc quy hoạch xây dựng và cải tạo các khu dân cư, các công trình công nghiệp và các công trình dân dụng đều phải tuân theo tiêu chuẩn vệ sinh."
+ENTITY,E38_13,DIEU,Điều,structure,7598,7643,Điều 13. Vệ sinh trong trường học và nhà trẻ.
+ENTITY,E38_14,DIEU,Điều,structure,8076,8108,Điều 14. Vệ sinh trong lao động.
+ENTITY,E38_15,DIEU,Điều,structure,8632,8663,Điều 15. Vệ sinh nơi công cộng.
+ENTITY,E38_16,DIEU,Điều,structure,8952,9034,"Điều 16. Vệ sinh trong việc quàn, ướp, chôn, hoả táng, di chuyển thi hài, hài cốt."
+ENTITY,E38_17,DIEU,Điều,structure,9359,9415,"Điều 17. Phòng và chống các bệnh nhiễm khuẩn, bệnh dịch."
+ENTITY,E38_18,DIEU,Điều,structure,10142,10161,Điều 18. Kiểm dịch.
+ENTITY,E38_19,DIEU,Điều,structure,10548,10592,Điều 19. Tổ chức hoạt động thể dục thể thao.
+ENTITY,E38_20,DIEU,Điều,structure,11212,11253,Điều 20. Tổ chức nghỉ ngơi và điều dưỡng.
+ENTITY,E38_21,DIEU,Điều,structure,11558,11586,Điều 21. Phục hồi chức năng.
+ENTITY,E38_22,DIEU,Điều,structure,12019,12403,"Điều 22. Điều dưỡng, phục hồi sức khoẻ bằng yếu tố thiên nhiên.
+Nguồn nước khoáng, mỏ bùn thuốc, khu vực bãi biển, vùng khí hậu và các yếu tố thiên nhiên khác có tác dụng dược lý đặc biệt phải được sử dụng vào việc điều dưỡng và phục hồi sức khoẻ. Hội đồng bộ trưởng quy định việc xác định, xếp hạng, quản lý khai thác, sử dụng và bảo vệ các yếu tố thiên nhiên quy định tại Điều này.
+"
+ENTITY,E38_23,DIEU,Điều,structure,12435,12478,Điều 23. Quyền được khám bệnh và chữa bệnh.
+ENTITY,E38_24,DIEU,Điều,structure,12965,13204,"Điều 24. Điều kiện hành nghề của thầy thuốc.
+Người có bằng tốt nghiệp y khoa ở các trường đại học hoặc trung học và có giấy phép hành nghề do Bộ y tế hoặc Sở y tế cấp được khám bệnh, chữa bệnh tại các cơ sở y tế Nhà nước, tập thể, tư nhân."
+ENTITY,E38_25,DIEU,Điều,structure,13205,13241,Điều 25. Trách nhiệm của thầy thuốc.
+ENTITY,E38_26,DIEU,Điều,structure,13836,13889,Điều 26. Giúp đỡ bảo vệ thầy thuốc và nhân viên y tế.
+ENTITY,E38_27,DIEU,Điều,structure,14406,14442,Điều 27. Trách nhiệm của người bệnh.
+ENTITY,E38_28,DIEU,Điều,structure,14664,15250,"Điều 28. Chữa bệnh bằng phẵu thuật.
+Thầy thuốc chỉ tiến hành phẵu thuật sau khi được sự đồng ý của người bệnh. Đối với người bệnh chưa thành niên, người bệnh đang bị hôn mê hay mắc bệnh tâm thần thì phải được sự đồng ý của thân nhân hoặc người giám hộ của người bệnh. Trong trường hợp mà thân nhân hay người giám hộ của người bệnh không đồng ý hoặc thân nhân hay người giám hộ vắng mặt, nếu không kịp thời phẵu thuật có thể nguy hại đến tính mạng người bệnh, thì thầy thuốc được quyền quyết định, nhưng phải có sự phê chuẩn của người phụ trách hay người được uỷ quyền của cơ sở y tế đó."
+ENTITY,E38_29,DIEU,Điều,structure,15251,15279,Điều 29. Bắt buộc chữa bệnh.
+ENTITY,E38_30,DIEU,Điều,structure,15655,15717,Điều 30. Lấy và ghép mô hoặc một bộ phận của cơ thể con người.
+ENTITY,E38_31,DIEU,Điều,structure,16169,16480,"Điều 31. Giải phẵu tử thi.
+Bệnh viện được quyền giải phẵu thi thể người chết tại bệnh viện trong trường hợp cần thiết để nâng cao chất lượng khám bệnh, chữa bệnh. Các trường đại học y khoa được dùng tử thi vô thừa nhận và tử thi của người có di chúc cho phép sử dụng vào mục đích học tập và nghiên cứu khoa học."
+ENTITY,E38_32,DIEU,Điều,structure,16481,16544,"Điều 32 Khám bệnh, chữa bệnh cho người nước ngoài tại Việt Nam."
+ENTITY,E38_33,DIEU,Điều,structure,16868,16894,Điều 33. Giám định y khoa.
+ENTITY,E38_34,DIEU,Điều,structure,17267,17336,"Điều 34. Kế thừa và phát triển nền y học, dược học cổ truyền dân tộc."
+ENTITY,E38_35,DIEU,Điều,structure,17883,18240,"Điều 35. Điều kiện hành nghề của lương y.
+Người đã tốt nghiệp ở các trường, lớp hoặc được gia truyền về y học, dược học cổ truyền dân tộc, chữa bệnh bằng các phương pháp y học cổ truyền dân tộc hoặc bằng các bài thuốc gia truyền và có giấy phép hành nghề do Bộ y tế hoặc Sở y tế cấp được khám bệnh, chữa bệnh tại các cơ sở y tế Nhà nước, tập thể và tư nhân."
+ENTITY,E38_36,DIEU,Điều,structure,18241,18274,Điều 36. Trách nhiệm của lương y.
+ENTITY,E38_37,DIEU,Điều,structure,18725,18760,Điều 37. Giúp đỡ và bảo vệ lương y.
+ENTITY,E38_38,DIEU,Điều,structure,19082,19172,"Điều 38. Quản lý sản xuất, lưu thông, xuất khẩu, nhập khẩu thuốc và nguyên liệu làm thuốc."
+ENTITY,E38_39,DIEU,Điều,structure,19956,20044,"Điều 39. Quản lý thuốc độc, thuốc và chất dễ gây nghiện, gây hưng phấn, ức chế tâm thần."
+ENTITY,E38_40,DIEU,Điều,structure,20331,20357,Điều 40. Chất lượng thuốc.
+ENTITY,E38_41,DIEU,Điều,structure,20681,20762,"Điều 41. Bảo vệ sức khoẻ người cao tuổi, thương binh, bệnh binh và người tàn tật."
+ENTITY,E38_42,DIEU,Điều,structure,21084,21139,Điều 42. Bảo vệ sức khoẻ đồng bào các dân tộc thiểu số.
+ENTITY,E38_43,DIEU,Điều,structure,21842,21883,Điều 43. Thực hiện kế hoạch hoá gia đình.
+ENTITY,E38_44,DIEU,Điều,structure,22621,22704,"Điều 44. Quyền của phụ nữ được khám bệnh, chữa bệnh phụ khoa và nạo thai, phá thai."
+ENTITY,E38_45,DIEU,Điều,structure,23187,23216,Điều 45. Sử dụng lao động nữ.
+ENTITY,E38_46,DIEU,Điều,structure,23597,23629,Điều 46. Bảo vệ sức khoẻ trẻ em.
+ENTITY,E38_47,DIEU,Điều,structure,24091,24291,"Điều 47. Chăm sóc trẻ em có khuyết tật.
+Bộ y tế, Bộ lao động - thương binh và xã hội, Bộ giáo dục có trách nhiệm tổ chức chăm sóc và áp dụng các biện pháp phục hồi chức năng cho trẻ em có khuyết tật.
+"
+ENTITY,E38_48,DIEU,Điều,structure,24327,24388,Điều 48. Tổ chức và quyền hạn của thanh tra Nhà nước về y tế.
+ENTITY,E38_49,DIEU,Điều,structure,25233,25400,"Điều 49. Thanh tra vệ sinh.
+Thanh tra vệ sinh thanh tra việc chấp hành pháp luật về vệ sinh của các tổ chức Nhà nước, tổ chức xã hội, tập thể, tư nhân và mọi công dân."
+ENTITY,E38_50,DIEU,Điều,structure,25401,25626,"Điều 50. Thanh tra khám bệnh, chữa bệnh.
+Thanh tra khám bệnh và chữa bệnh thanh tra việc chấp hành những quy định chuyên môn, nghiệp vụ và điều lệ kỹ thuật y tế của các cơ sở khám bệnh, chữa bệnh Nhà nước, tập thể và tư nhân."
+ENTITY,E38_51,DIEU,Điều,structure,25627,25855,"Điều 51. Thanh tra dược.
+Thanh tra dược thanh tra việc chấp hành những quy định chuyên môn, nghiệp vụ dược trong sản xuất, lưu thông, xuất khẩu, nhập khẩu thuốc và nguyên liệu làm thuốc của các cơ sở Nhà nước, tập thể, tư nhân.
+"
+ENTITY,E38_52,DIEU,Điều,structure,25898,26313,"Điều 52. Khen thưởng.
+Địa phương, đơn vị, cá nhân có thành tích trong công tác bảo vệ sức khoẻ nhân dân được Nhà nước khen thưởng vật chất và tinh thần. Thầy thuốc, lương y, dược sĩ và nhân viên y tế khác có nhiều cống hiến trong sự nghiệp bảo vệ sức khoẻ nhân dân, có trình độ nghiệp vụ, chuyên môn kỹ thuật giỏi, có đạo đức, được nhân dân và đồng nghiệp tín nhiệm thì được xét tặng danh hiệu cao quý của Nhà nước."
+ENTITY,E38_53,DIEU,Điều,structure,26314,26488,"Điều 53. Xử lý các vi phạm
+Người nào có những hành vi sau đây thì tuỳ theo mức độ nhẹ hoặc nặng sẽ bị xứ lý kỷ luật, bị xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự."
+ENTITY,E38_54,DIEU,Điều,structure,27049,27112,Điều 54. Những quy định trước đây trái với Luật này đều bãi bỏ.
+ENTITY,E38_55,DIEU,Điều,structure,27113,27305,"Điều 55. Hội đồng bộ trưởng quy định chi tiết thi hành Luật này.
+Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá VIII, kỳ họp thứ 5 thông qua ngày 30 tháng 6 năm 1989./."
+ENTITY,E39_1,KHOAN,Khoản,structure,567,767,"1- Công dân có quyền được bảo vệ sức khoẻ, nghỉ ngơi, giải trí, rèn luyện thân thể; được bảo đảm vệ sinh trong lao động, vệ sinh dinh dưỡng, vệ sinh môi trường sống và được phục vụ về chuyên môn y tế."
+ENTITY,E39_2,KHOAN,Khoản,structure,768,968,2- Bảo vệ sức khoẻ là sự nghiệp của toàn dân. Tất cả công dân có nghĩa vụ thực hiện nghiêm chỉnh những quy định của pháp luật về bảo vệ sức khoẻ nhân dân để giữ gìn sức khoẻ cho mình và cho mọi người.
+ENTITY,E39_3,KHOAN,Khoản,structure,1022,1269,"1- Đẩy mạnh tuyên truyền, giáo dục vệ sinh trong nhân dân; tiến hành các biện pháp dự phòng, cải tạo và làm sạch môi trường sống; bảo đảm tiêu chuẩn vệ sinh lao động, vệ sinh lương thực, thực phẩm và nước uống theo quy định của Hội đồng bộ trưởng."
+ENTITY,E39_4,KHOAN,Khoản,structure,1270,1484,"2- Mở rộng mạng lưới nhà nghỉ, nhà điều dưỡng, cơ sở tập luyện thể dục thể thao; kết hợp lao động, học tập với nghỉ ngơi và giải trí; phát triển thể dục thể thao quần chúng để duy trì và phục hồi khả năng lao động."
+ENTITY,E39_5,KHOAN,Khoản,structure,1485,1660,"3- Hoàn thiện, nâng cao chất lượng và phát triển mạng lưới phòng, chống dịch, khám bệnh, chữa bệnh; kết hợp phát triển hệ thống y tế Nhà nước với y tế tập thể và y tế tư nhân."
+ENTITY,E39_6,KHOAN,Khoản,structure,1661,1979,"4- Xây dựng nền y học Việt Nam kế thừa và phát triển nền y học, dược học cổ truyền dân tộc; kết hợp y học, dược học hiện đại với y học, dược học cổ truyền dân tộc, nghiên cứu và ứng dụng những tiến bộ khoa học kỹ thuật của y học thế giới vào thực tiễn Việt Nam, xây dựng các mũi nhọn khoa học y học, dược học Việt Nam."
+ENTITY,E39_7,KHOAN,Khoản,structure,2014,2264,"1- Nhà nước chăm lo bảo vệ và tăng cường sức khoẻ nhân dân; đưa công tác bảo vệ sức khoẻ nhân dân vào kế hoạch phát triển kinh tế - xã hội và ngân sách Nhà nước; quyết định những chế độ chính sách, biện pháp để bảo vệ và tăng cường sức khoẻ nhân dân."
+ENTITY,E39_8,KHOAN,Khoản,structure,2265,2514,"2- Bộ y tế có trách nhiệm quản lý, hoàn thiện, nâng cao chất lượng và phát triển hệ thống phòng bệnh, chống dịch, khám bệnh, chữa bệnh, sản xuất, lưu thông thuốc và thiết bị y tế, kiểm tra việc thực hiện các quy định về chuyên môn nghiệp vụ y, dược."
+ENTITY,E39_9,KHOAN,Khoản,structure,2515,3201,"3- Hội đồng nhân dân các cấp dành tỷ lệ ngân sách thích đáng cho công tác bảo vệ sức khoẻ nhân dân ở địa phương; thường xuyên giám sát, kiểm tra việc tuân theo pháp luật về bảo vệ sức khoẻ nhân dân của Uỷ ban nhân dân cùng cấp, của các cơ quan, các tổ chức xã hội, cơ sở sản xuất, kinh doanh của Nhà nước, tập thể, tư nhân và mọi công dân trong địa phương. Uỷ ban nhân dân các cấp có trách nhiệm thực hiện các biện pháp để bảo đảm vệ sinh ăn, ở, sinh hoạt, vệ sinh công cộng cho nhân dân trong địa phương; lãnh đạo các cơ quan y tế trực thuộc, chỉ đạo sự phối hợp giữa các ngành, các tổ chức xã hội trong địa phương để thực hiện những quy định của pháp luật về bảo vệ sức khoẻ nhân dân."
+ENTITY,E39_10,KHOAN,Khoản,structure,3735,4200,"1- Mặt trận Tổ quốc Việt Nam, Tổng liên đoàn lao động Việt Nam, Đoàn thanh niên Cộng sản Hồ Chí Minh, Hội liên hiệp phụ nữ Việt Nam, Hội nông dân Việt Nam, Tổng hội y dược học Việt Nam, Hội y học cổ truyền dân tộc Việt Nam và các tổ chức xã hội khác động viên, giáo dục các thành viên trong tổ chức thực hiện những quy định của pháp luật về bảo vệ sức khoẻ nhân dân và tham gia tích cực vào sự nghiệp bảo vệ sức khoẻ nhân dân trong phạm vi điều lệ của tổ chức mình."
+ENTITY,E39_11,KHOAN,Khoản,structure,4201,4507,"2- Hội chữ thập đỏ Việt Nam tuyên truyền, phổ biến những kiến thức y học thường thức cho hội viên và nhân dân, vận động nhân dân thực hiện các biện pháp giữ gìn sức khoẻ cho bản thân và cho mọi người, hiến máu cứu người; tổ chức cứu trợ nhân dân khi có tai nạn, thiên tai, dịch bệnh và chiến tranh xảy ra.
+"
+ENTITY,E39_12,KHOAN,Khoản,structure,4623,4888,"1- Các cơ quan y tế, văn hoá, giáo dục, thể dục thể thao, thông tin đại chúng và các tổ chức xã hội có trách nhiệm tuyên truyền, giáo dục cho nhân dân kiến thức về y học và vệ sinh thường thức, vệ sinh môi trường, vệ sinh phụ nữ, vệ sinh thai nghén và nuôi dạy con."
+ENTITY,E39_13,KHOAN,Khoản,structure,4889,5058,"2- Bộ giáo dục xây dựng chương trình giáo dục vệ sinh cho học sinh phổ thông, mẫu giáo, nhà trẻ, tạo thói quen giữ gìn vệ sinh chung, vệ sinh trong sinh hoạt và học tập."
+ENTITY,E39_14,KHOAN,Khoản,structure,5126,5516,"1- Các tổ chức Nhà nước, tập thể, tư nhân khi sản xuất, chế biến, bao bì đóng gói, bảo quản, vận chuyển lương thực, thực phẩm, các loại nước uống và rượu phải bảo đảm tiêu chuẩn vệ sinh. Khi đưa các hoá chất mới, nguyên liệu mới hoặc các chất phụ gia mới vào chế biến, bảo quản lương thực, thực phẩm, các loại nước uống, rượu và sản phẩm các loại bao bì đóng gói phải được phép của Sở y tế."
+ENTITY,E39_15,KHOAN,Khoản,structure,5517,5671,"2- Nghiêm cấm sản xuất, lưu thông, xuất khẩu, nhập khẩu những mặt hàng lương thực, thực phẩm, các loại nước uống và rượu không bảo đảm tiêu chuẩn vệ sinh."
+ENTITY,E39_16,KHOAN,Khoản,structure,5672,5804,"3- Người đang mắc bệnh truyền nhiễm không được làm những công việc có liên quan trực tiếp đến thực phẩm, các loại nước uống và rượu."
+ENTITY,E39_17,KHOAN,Khoản,structure,5879,5985,"1- Các cơ quan, xí nghiệp cấp nước phải bảo đảm tiêu chuẩn vệ sinh nước dùng trong sinh hoạt của nhân dân."
+ENTITY,E39_18,KHOAN,Khoản,structure,5986,6116,"2- Nghiêm cấm các tổ chức Nhà nước, tập thể, tư nhân và mọi công dân làm ô nhiễm các nguồn nước dùng trong sinh hoạt của nhân dân."
+ENTITY,E39_19,KHOAN,Khoản,structure,6191,6492,"1- Các tổ chức Nhà nước, tập thể, tư nhân và mọi công dân khi sản xuất, bảo quản, vận chuyển, sử dụng phân bón, thuốc trừ sâu, diệt cỏ, diệt chuột, hoá chất kích thích sinh trưởng vật nuôi, cây trồng và các loại hoá chất khác phải bảo đảm tiêu chuẩn vệ sinh, không gây nguy hại đến sức khoẻ con người."
+ENTITY,E39_20,KHOAN,Khoản,structure,6493,6610,"2- Các cơ sở sản xuất mỹ phẩm, đồ chơi trẻ em, đồ dùng vệ sinh cá nhân bằng hoá chất phải bảo đảm tiêu chuẩn vệ sinh."
+ENTITY,E39_21,KHOAN,Khoản,structure,6680,6897,"1- Các xí nghiệp, các cơ sở sản xuất của Nhà nước, tập thể, tư nhân phải thực hiện những biện pháp xử lý chất thải trong công nghiệp để phòng, chống ô nhiễm không khí, đất và nước theo quy định của Hội đồng bộ trưởng."
+ENTITY,E39_22,KHOAN,Khoản,structure,6898,7065,"2- Các tổ chức Nhà nước, tổ chức xã hội, tập thể, tư nhân và mọi công dân không được để các chất phế thải trong sinh hoạt làm ô nhiễm môi trường sống ở các khu dân cư."
+ENTITY,E39_23,KHOAN,Khoản,structure,7117,7292,"1- Việc chăn nuôi gia súc, gia cầm phải bảo đảm vệ sinh chung. Không được giết mổ, mua, bán, ăn thịt gia súc, gia cầm bị bệnh truyền nhiễm gây nguy hại cho sức khoẻ con người."
+ENTITY,E39_24,KHOAN,Khoản,structure,7293,7420,"2- Nghiêm cấm việc thả rông chó ở thành phố, thị xã và thị trấn; chó nuôi phải được tiêm phòng theo quy định của cơ quan thú y."
+ENTITY,E39_25,KHOAN,Khoản,structure,7644,7908,"1- Hội đồng nhân dân, Uỷ ban nhân dân các cấp, ngành giáo dục và các ngành có liên quan phải từng bước bảo đảm cơ sở vật chất, trang thiết bị, ánh sáng, đồ dùng giảng dạy, học tập ở trường học và nhà trẻ, không làm ảnh hưởng đến sức khoẻ của học sinh và giáo viên."
+ENTITY,E39_26,KHOAN,Khoản,structure,7909,8075,"2- Hiệu trưởng các trường học và Chủ nhiệm các nhà trẻ phải bảo đảm thực hiện chương trình học tập rèn luyện đã được quy định; bảo đảm vệ sinh trường, lớp và nhà trẻ."
+ENTITY,E39_27,KHOAN,Khoản,structure,8109,8458,"1- Các tổ chức Nhà nước, tập thể và tư nhân phải thực hiện các biện pháp bảo đảm an toàn lao động, bảo đảm tiêu chuẩn vệ sinh về độ nóng, ẩm, khói, bụi, tiếng ồn, rung chuyển và về các yếu tố độc hại khác trong lao động sản xuất để bảo vệ sức khoẻ, phòng, chống bệnh nghề nghiệp cho người lao động, không gây ảnh hưởng xấu đến môi trường xung quanh."
+ENTITY,E39_28,KHOAN,Khoản,structure,8459,8631,2- Đơn vị và cá nhân sử dụng lao động phải tổ chức việc khám sức khoẻ định kỳ cho người lao động và phải phải bảo đảm trang bị bảo hộ lao động cần thiết cho người lao động.
+ENTITY,E39_29,KHOAN,Khoản,structure,8664,8747,1- Mọi người phải có trách nhiệm thực hiện những quy định về vệ sinh nơi công cộng.
+ENTITY,E39_30,KHOAN,Khoản,structure,8748,8863,"2- Cấm phóng uế, vứt rác và các chất phế thải khác trên đường phố, vườn hoa, công viên và những nơi công cộng khác."
+ENTITY,E39_31,KHOAN,Khoản,structure,8864,8951,"3- Cấm hút thuốc trong phòng họp, ở rạp chiếu bóng, rạp hát và những nơi quy định khác."
+ENTITY,E39_32,KHOAN,Khoản,structure,9035,9204,"1- Việc quàn, ướp, chôn, hoả táng, di chuyển thi hài, hài cốt, phải tuân theo các quy định về vệ sinh phòng dịch. Nhà nước khuyến khích việc hoả táng thi hài và hài cốt."
+ENTITY,E39_33,KHOAN,Khoản,structure,9205,9358,"2- Khi di chuyển thi hài, hài cốt qua biên giới Việt Nam, phải có giấy phép theo quy định của Hội đồng bộ trưởng nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+ENTITY,E39_34,KHOAN,Khoản,structure,9416,9495,1- Y tế cơ sở phải tổ chức tiêm chủng các loại vắc xin phòng bệnh cho nhân dân.
+ENTITY,E39_35,KHOAN,Khoản,structure,9496,9794,"2- Các tổ chức Nhà nước, tập thể, tư nhân và mọi công dân phải thực hiện các biện pháp phòng, chống các bệnh nhiễm khuẩn, bệnh dịch. Khi phát hiện có bệnh dịch hoặc nghi có bệnh dịch trong đơn vị, địa phương, cơ quan y tế phải báo cáo kịp thời với Uỷ ban nhân dân cùng cấp và cơ quan y tế cấp trên."
+ENTITY,E39_36,KHOAN,Khoản,structure,9795,9882,"3- Uỷ ban nhân dân các cấp phải bảo đảm công tác phòng dịch, chống dịch tại địa phương."
+ENTITY,E39_37,KHOAN,Khoản,structure,9883,10141,"4- Căn cứ vào tính chất nguy hiểm, mức độ lây lan của từng vụ dịch, Chủ tịch Hội đồng bộ trưởng, Bộ trưởng Bộ y tế, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố, đặc khu trực thuộc trung ương có quyền áp dụng những biện pháp đặc biệt để nhanh chóng dập tắt dịch."
+ENTITY,E39_38,KHOAN,Khoản,structure,10162,10310,"1- Động vật, thực vật, phương tiện vận chuyển hàng hoá ra vào biên giới và quá cảnh nước Cộng hoà xã hội chủ nghĩa Việt Nam đều phải được kiểm dịch."
+ENTITY,E39_39,KHOAN,Khoản,structure,10311,10488,"2- Động vật, thực vật, phương tiện vận chuyển, hàng hoá và bưu phẩm từ vùng có dịch chuyển ra vùng không có dịch đều phải được kiểm dịch tại các đầu mối giao thông và bưu điện.
+"
+ENTITY,E39_40,KHOAN,Khoản,structure,10593,10778,"1- Các ngành, các cấp, các tổ chức Nhà nước, tổ chức xã hội, tập thể, tư nhân có trách nhiệm tạo điều kiện cần thiết và tổ chức, động viên mọi người tham gia hoạt động thể dục thể thao."
+ENTITY,E39_41,KHOAN,Khoản,structure,10779,11132,"2- Tổng cục thể dục thể thao phối hợp với các ngành có liên quan nghiên cứu, phố biến các phương pháp tập luyện, các môn tập, bài tập thể dục thể thao phù hợp với thể lực, lứa tuổi, ngành nghề, hướng dẫn chữa bệnh bằng thể dục; xây dựng và phát triển y học thể dục thể thao; đào tạo cán bộ, hướng dẫn viên, huấn luyện viên và giáo viên thể dục thể thao."
+ENTITY,E39_42,KHOAN,Khoản,structure,11133,11211,3- Nghiêm cấm các hành vi thô bạo trong tập luyện và thi đấu thể dục thể thao.
+ENTITY,E39_43,KHOAN,Khoản,structure,11254,11446,"1- Tổng liên đoàn Lao động Việt Nam, các ngành, các cấp, các tổ chức Nhà nước, các tổ chức xã hội, tổ chức tập thể có trách nhiệm mở rộng các cơ sở điều dưỡng, nhà nghỉ và câu lạc bộ sức khoẻ."
+ENTITY,E39_44,KHOAN,Khoản,structure,11447,11557,2- Các tổ chức và tư nhân sử dụng lao động phải tạo điều kiện cho người lao động được điều dưỡng và nghỉ ngơi.
+ENTITY,E39_45,KHOAN,Khoản,structure,11587,11723,"1- Bộ y tế, Bộ lao động - thương binh và xã hội phải xây dựng và bảo đảm điều kiện cần thiết cho các cơ sở phục hồi chức năng hoạt động."
+ENTITY,E39_46,KHOAN,Khoản,structure,11724,12018,"2- Ngành y tế, ngành lao động - thương binh và xã hội phối hợp với các ngành liên quan, các tổ chức xã hội mở rộng hoạt động phục hồi chức năng dựa vào cộng đồng để phòng ngừa và hạn chế hậu quả tàn tật; áp dụng kỹ thuật thích hợp để đưa người tàn tật có khả năng trở lại cuộc sống bình thường."
+ENTITY,E39_47,KHOAN,Khoản,structure,12479,12788,"1- Mọi người khi ốm đau, bệnh tật, bị tai nạn được khám bệnh, chữa bệnh tại các cơ sở khám bệnh, chữa bệnh ở nơi công dân cư trú, lao động, học tập. Người bệnh còn được chọn thầy thuốc hoặc lương y, chọn cơ sở khám bệnh, chữa bệnh và ra nước ngoài để khám bệnh, chữa bệnh theo quy định của Hội đồng bộ trưởng."
+ENTITY,E39_48,KHOAN,Khoản,structure,12789,12964,"2- Trong trường hợp cấp cứu, người bệnh được cấp cứu tại bất kỳ cơ sở khám bệnh, chữa bệnh nào. Các cơ sở khám bệnh, chữa bệnh phải tiếp nhận và xử trí mọi trường hợp cấp cứu."
+ENTITY,E39_49,KHOAN,Khoản,structure,13242,13455,"1- Thầy thuốc có nghĩa vụ khám bệnh chữa bệnh, kê đơn và hướng dẫn cách phòng bệnh, tự chữa bệnh cho người bệnh; phải giữ bí mật về những điều có liên quan đến bệnh tật hoặc đời tư mà mình được biết về người bệnh."
+ENTITY,E39_50,KHOAN,Khoản,structure,13456,13690,"2- Thầy thuốc phải có y đức, có tinh thần trách nhiệm, tận tình cứu chữa người bệnh; chấp hành nghiêm chỉnh các quy định chuyên môn nghiệp vụ, kỹ thuật y tế; chỉ sử dụng những phương pháp, phương tiện, dược phẩm được Bộ y tế cho phép."
+ENTITY,E39_51,KHOAN,Khoản,structure,13691,13835,"3- Nghiêm cấm hành vi vô trách nhiệm trong cấp cứu, khám bệnh, chữa bệnh làm tổn hại đến sức khoẻ, tính mạng, danh dự, nhân phẩm của người bệnh."
+ENTITY,E39_52,KHOAN,Khoản,structure,13890,13997,"1- Mọi tổ chức và công dân có trách nhiệm giúp đỡ, bảo vệ thầy thuốc và nhân viên y tế khi họ làm nhiệm vụ."
+ENTITY,E39_53,KHOAN,Khoản,structure,13998,14265,"2- Trong trường hợp khẩn cấp để đưa người bệnh hay người bị tai nạn đến cơ sở cấp cứu, thầy thuốc, nhân viên y tế được quyền sử dụng các phương tiện vận chuyển có mặt tại chỗ. Người điều khiển phương tiện phải thực hiện yêu cầu của người thầy thuốc và nhân viên y tế."
+ENTITY,E39_54,KHOAN,Khoản,structure,14266,14405,"3- Nghiêm cấm hành vi làm tổn hại đến sức khoẻ, tính mạng, danh dự, nhân phẩm của thầy thuốc và nhân viên y tế trong khi đang làm nhiệm vụ."
+ENTITY,E39_55,KHOAN,Khoản,structure,14443,14564,"1- Người bệnh có trách nhiệm tôn trọng thầy thuốc và nhân viên y tế; chấp hành những quy định trong khám bệnh, chữa bệnh."
+ENTITY,E39_56,KHOAN,Khoản,structure,14565,14663,2- Người bệnh phải trả một phần chi phí y tế. Hội đồng bộ trưởng quy định chế độ thu chi phí y tế.
+ENTITY,E39_57,KHOAN,Khoản,structure,15280,15559,"1- Các cơ sở y tế phải tiến hành các biện pháp bắt buộc chữa bệnh đối với người mắc bệnh tâm thần thể nặng, bệnh lao, phong đang thời kỳ lây truyền, bệnh lây truyền qua đường sinh dục, bệnh nghiện ma tuý, bệnh SIDA và một số bệnh truyền nhiễm khác có thể gây nguy hại cho xã hội."
+ENTITY,E39_58,KHOAN,Khoản,structure,15560,15654,2- Việc bắt buộc chữa bệnh tại các cơ sở y tế phải được thực hiện theo quy định của pháp luật.
+ENTITY,E39_59,KHOAN,Khoản,structure,15718,15926,"1- Thầy thuốc chỉ tiến hành lấy mô hoặc bộ phận của cơ thể người sống hay người chết dùng vào mục đích y tế sau khi đã được sự đồng ý của người cho, của thân nhân người chết hoặc người chết có di chúc để lại."
+ENTITY,E39_60,KHOAN,Khoản,structure,15927,16081,2- Việc ghép mô hoặc một bộ phận cho cơ thể người bệnh phải được sự đồng ý của người bệnh hoặc thân nhân hay người giám hộ của người bệnh chưa thành niên.
+ENTITY,E39_61,KHOAN,Khoản,structure,16082,16168,3- Bộ y tế quy định chế độ chăm sóc sức khoẻ người cho mô hoặc một bộ phận của cơ thể.
+ENTITY,E39_62,KHOAN,Khoản,structure,16545,16773,"1- Người nước ngoài đang ở trên lãnh thổ Việt Nam được khám bệnh, chữa bệnh tại các cơ sở y tế và phải chấp hành những quy định pháp luật về bảo vệ sức khoẻ nhân dân. Người nước ngoài có thể vào Việt Nam để khám bệnh, chữa bệnh."
+ENTITY,E39_63,KHOAN,Khoản,structure,16774,16867,"2- Hội đồng bộ trưởng quy định chế độ khám bệnh, chữa bệnh cho người nước ngoài tại Việt Nam."
+ENTITY,E39_64,KHOAN,Khoản,structure,16895,17057,1- Hội đồng giám định y khoa xác định tình trạng sức khoẻ và khả năng lao động của người lao động theo yêu cầu của các tổ chức sử dụng lao động và người lao động.
+ENTITY,E39_65,KHOAN,Khoản,structure,17058,17224,"2- Các tổ chức sử dụng lao động và các cơ quan bảo hiểm xã hội phải căn cứ vào kết luận của Hội đồng giám định y khoa để thực hiện chính sách đối với người lao động.
+"
+ENTITY,E39_66,KHOAN,Khoản,structure,17337,17699,"1- Bộ y tế, Hội y học cổ truyền dân tộc Việt Nam và Tổng hội y dược học Việt Nam có trách nhiệm tổ chức thực hiện việc kế thừa, phát triển nền y học, dược học cổ truyền dân tộc, kết hợp y học, dược học hiện đại với y học, dược học cổ truyền dân tộc trong mọi lĩnh vực hoạt động y tế và bảo đảm điều kiện hoạt động cho các bệnh viện, viện đầu ngành y học dân tộc."
+ENTITY,E39_67,KHOAN,Khoản,structure,17700,17882,"2- Ngành y tế, Uỷ ban nhân dân các cấp phải củng cố và mở rộng mạng lưới phục vụ y tế bằng y học, dược học cổ truyền dân tộc và phát triển nuôi trồng dược liệu trong địa phương mình."
+ENTITY,E39_68,KHOAN,Khoản,structure,18275,18447,"1- Lương y có nhiệm vụ khám bệnh, chữa bệnh và hướng dẫn cách phòng bệnh, tự chữa bệnh cho người bệnh; phải có y đức, có tinh thần trách nhiệm tận tình cứu chữa người bệnh."
+ENTITY,E39_69,KHOAN,Khoản,structure,18448,18648,"2- Những bài thuốc mới, phương pháp chữa bệnh mới phải được Bộ y tế hoặc Sở y tế cùng với Hội y học cổ truyền dân tộc cùng cấp kiểm tra xác nhận mới được áp dụng vào khám bệnh, chữa bệnh cho nhân dân."
+ENTITY,E39_70,KHOAN,Khoản,structure,18649,18724,"3- Nghiêm cấm việc sử dụng các hình thức mê tín trong khám bệnh, chữa bệnh."
+ENTITY,E39_71,KHOAN,Khoản,structure,18761,18922,"1- Nhà nước bảo đảm quyền tác giả cho lương y về việc phổ biến những bài thuốc, vị thuốc và dược liệu quý, phương pháp chữa bệnh gia truyền có hiệu quả của mình."
+ENTITY,E39_72,KHOAN,Khoản,structure,18923,19045,"2- Mọi người có trách nhiệm giúp đỡ và bảo vệ lương y cũng như đối với thầy thuốc theo quy định tại Điều 26 của Luật này.
+"
+ENTITY,E39_73,KHOAN,Khoản,structure,19173,19358,"1- Bộ y tế thống nhất quản lý sản xuất, lưu thông, xuất khẩu, nhập khẩu thuốc và nguyên liệu làm thuốc, tổ chức bán và cung cấp thuốc thiết yếu trong phòng bệnh, chữa bệnh cho nhân dân."
+ENTITY,E39_74,KHOAN,Khoản,structure,19359,19648,"2- Các cơ sở của Nhà nước, tập thể, tư nhân được cơ quan y tế có thẩm quyền cho phép mới được sản xuất, lưu thông, xuất khẩu, nhập khẩu thuốc, nguyên liệu làm thuốc và chỉ được phép sản xuất, lưu thông, xuất khẩu, nhập khẩu các loại thuốc và nguyên liệu làm thuốc đã được Bộ y tế quy định."
+ENTITY,E39_75,KHOAN,Khoản,structure,19649,19756,3- Người có bằng cấp chuyên môn về dược và được Bộ y tế hoặc Sở y tế cấp giấy phép mới được hành nghề dược.
+ENTITY,E39_76,KHOAN,Khoản,structure,19757,19955,"4- Các loại thuốc mới phải được Bộ y tế hoặc Sở y tế kiểm tra, xác định hiệu lực phòng bệnh, chữa bệnh, bảo đảm an toàn đối với người bệnh mới được đưa vào sản xuất, lưu thông, xuất khẩu, nhập khẩu."
+ENTITY,E39_77,KHOAN,Khoản,structure,20045,20194,"1- Các loại thuốc có độc tính cao, các thuốc và chất dễ gây nghiện, gây hưng phấn, ức chế tâm thần chỉ được dùng để chữa bệnh và nghiên cứu khoa học."
+ENTITY,E39_78,KHOAN,Khoản,structure,20195,20330,"2- Bộ y tế quy định chế độ sản xuất, lưu thông, bảo quản, sử dụng, tồn trữ cá loại thuốc và các chất quy định tại khoản 1 của Điều này."
+ENTITY,E39_79,KHOAN,Khoản,structure,20358,20466,1- Thuốc đưa vào lưu thông và sử dụng phải bảo đảm tiêu chuẩn chất lượng Nhà nước và an toàn cho người dùng.
+ENTITY,E39_80,KHOAN,Khoản,structure,20467,20569,"2- Nghiêm cấm việc sản xuất, lưu thông thuốc giả, thuốc không bảo đảm tiêu chuẩn chất lượng Nhà nước.
+"
+ENTITY,E39_81,KHOAN,Khoản,structure,20763,20945,"1- Người cao tuổi, thương binh, bệnh binh và người tàn tật được ưu tiên trong khám bệnh, chữa bệnh, được tạo điều kiện thuận lợi để đóng góp cho xã hội phù hợp với sức khoẻ của mình."
+ENTITY,E39_82,KHOAN,Khoản,structure,20946,21083,"2- Bộ y tế, Tổng cục thể dục thể thao hướng dẫn phương pháp rèn luyện thân thể, nghỉ ngơi và giải trí để phòng, chống các bệnh người già."
+ENTITY,E39_83,KHOAN,Khoản,structure,21140,21324,"1- Nhà nước dành ngân sách thích đáng để củng cố mở rộng mạng lưới y tế khám bệnh, chữa bệnh cho đồng bào các dân tộc thiểu số, đặc biệt là y tế cơ sở ở vùng cao, vùng xã xôi hẻo lánh."
+ENTITY,E39_84,KHOAN,Khoản,structure,21325,21434,"2- Nhà nước có chế độ đãi ngộ thích đáng đối với cán bộ y tế công tác tại các vùng cao, vùng xa xôi hẻo lánh."
+ENTITY,E39_85,KHOAN,Khoản,structure,21435,21572,"3- Hội đồng bộ trưởng có trách nhiệm bảo đảm đủ thuốc phòng và chữa bệnh sốt rét, bướu cổ cho các vùng quy định tại khoản 1 của Điều này."
+ENTITY,E39_86,KHOAN,Khoản,structure,21573,21767,"4- Uỷ ban nhân dân các cấp, các ngành có liên quan và các tổ chức xã hội có trách nhiệm tuyên truyền giáo dục vệ sinh, xây dựng nếp sống văn minh, văn hoá mới cho đồng bào các dân tộc thiểu số.
+"
+ENTITY,E39_87,KHOAN,Khoản,structure,21884,22058,"1- Mọi người có trách nhiệm thực hiện kế hoạch hoá gia đình, có quyền lựa chọn biện pháp sinh đẻ có kế hoạch theo nguyện vọng. Mỗi cặp vợ chống chỉ nên có từ một đến hai con."
+ENTITY,E39_88,KHOAN,Khoản,structure,22059,22347,"2- Nhà nước có chính sách, biện pháp khuyến khích và tạo điều kiện cần thiết cho mọi người thực hiện kế hoạch hoá gia đình. Các cơ sở chuyên khoa phụ sản của Nhà nước, tập thể và tư nhân phải thực hiện yêu cầu của mọi người về việc lựa chọn biện pháp sinh đẻ có kế hoạch theo nguyện vọng."
+ENTITY,E39_89,KHOAN,Khoản,structure,22348,22526,"3- Các cơ quan y tế, văn hoá, giáo dục, thông tin đại chúng và các tổ chức xã hội có trách nhiệm tuyên truyền, giáo dục kiến thức về dân số và kế hoạch hoá gia đình cho nhân dân."
+ENTITY,E39_90,KHOAN,Khoản,structure,22527,22620,4- Nghiêm cấm hành vi gây trở ngại hoặc cưỡng bức trong việc thực hiện kế hoạch hoá gia đình.
+ENTITY,E39_91,KHOAN,Khoản,structure,22705,22898,"1- Phụ nữ được quyền nạo thai, phá thai theo nguyện vọng, được khám bệnh, chữa bệnh phụ khoa, được theo dõi sức khoẻ trong thời kỳ thai nghén, được phục vụ y tế khi sinh con tại các cơ sở y tế."
+ENTITY,E39_92,KHOAN,Khoản,structure,22899,23035,"2- Bộ y tế có trách nhiệm củng cố, phát triển mạng lưới chuyên khoa phụ sản và sơ sinh đến tận cơ sở để bảo đảm phục vụ y tế cho phụ nữ."
+ENTITY,E39_93,KHOAN,Khoản,structure,23036,23186,"3- Nghiêm cấm các cơ sở y tế và cá nhân làm các thủ thuật nạo thai, phá thai, tháo vòng tránh thai nếu không có giấy phép do Bộ y tế hoặc Sở y tế cấp."
+ENTITY,E39_94,KHOAN,Khoản,structure,23217,23425,"1- Các tổ chức và cá nhân sử dụng lao động nữ phải thực hiện các quy định về bảo vệ sức khoẻ cho phụ nữ, bảo đảm chế độ đối với phụ nữ có thai, sinh con, nuôi con và áp dụng các biện pháp sinh đẻ có kế hoạch."
+ENTITY,E39_95,KHOAN,Khoản,structure,23426,23596,"2- Không được sử dụng lao động nữ vào những công việc nặng nhọc, độc hại. Bộ y tế, Bộ lao động - thương binh và xã hội quy định danh mục các công việc nặng nhọc, độc hại."
+ENTITY,E39_96,KHOAN,Khoản,structure,23630,23740,"1- Trẻ em được y tế cơ sở quản lý sức khoẻ, được tiêm chủng phòng bệnh, phòng dịch, được khám bệnh, chữa bệnh."
+ENTITY,E39_97,KHOAN,Khoản,structure,23741,23832,"2- Ngành y tế có trách nhiệm phát triển, củng cố mạng lưới chăm sóc bảo vệ sức khoẻ trẻ em."
+ENTITY,E39_98,KHOAN,Khoản,structure,23833,24090,"3- Cha mẹ, người nuôi dưỡng trẻ em có trách nhiệm thực hiện những quy định về kiểm tra sức khoẻ và tiêm chủng theo kế hoạch của y tế cơ sở, chăm lo trẻ em khi đau ốm và thực hiện các quyết định của người thầy thuốc trong khám bệnh, chữa bệnh đối với trẻ em."
+ENTITY,E39_99,KHOAN,Khoản,structure,24389,24577,"1- Thanh tra Nhà nước về y tế thuộc ngành y tế bao gồm: Thanh tra vệ sinh, thanh tra khám bệnh, chữa bệnh và thanh tra dược. Hội đồng bộ trưởng quy định tổ chức thanh tra Nhà nước về y tế."
+ENTITY,E39_100,KHOAN,Khoản,structure,24578,24944,"2- Thanh tra Nhà nước về y tế có quyền thanh tra, kiểm tra việc thực hiện những quy định của pháp luật về bảo vệ sức khoẻ nhân dân, về vệ sinh, phòng, chống dịch, khám bệnh, chữa bệnh và dược; quyết định các hình thức xử phạt hành chính; ra quyết định tạm đình chỉ hoặc đình chỉ hoạt động của những đơn vị, cá nhân vi phạm và chịu trách nhiệm về quyết định của mình."
+ENTITY,E39_101,KHOAN,Khoản,structure,24945,25232,"3- Các tổ chức Nhà nước, tổ chức xã hội, tập thể, tư nhân và mọi công dân nơi đang tiến hành thanh tra phải báo cáo tình hình, cung cấp tài liệu bằng văn bản những sự việc có liên quan đến nội dung thanh tra theo đúng thời hạn quy định và cử cán bộ tham gia đoàn thanh tra khi cần thiết."
+ENTITY,E39_102,KHOAN,Khoản,structure,26489,26573,"1- Vi phạm các quy định về giữ gìn vệ sinh nơi công cộng, phòng và chống dịch, bệnh."
+ENTITY,E39_103,KHOAN,Khoản,structure,26574,26651,"2- Vi phạm các quy định về khám bệnh, chữa bệnh, sản xuất thuốc và bán thuốc."
+ENTITY,E39_104,KHOAN,Khoản,structure,26652,27018,"3- Vi phạm các quy định về vệ sinh lương thực, thực phẩm, vệ sinh lao động và các quy định khác của Luật bảo vệ sức khoẻ nhân dân. Ngoài những hình thức xử lý nói trên, người nào có hành vi vi phạm quy định tại các điểm 1, 2, 3 của Điều này nếu gây thiệt hại đến sức khoẻ, tính mạng, tài sản của người khác thì phải bồi thường thiệt hại theo quy định của pháp luật.
+"
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_4,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_5,,
+RELATION,R12_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_6,,
+RELATION,R12_7,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_7,,
+RELATION,R12_8,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_8,,
+RELATION,R12_9,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_9,,
+RELATION,R12_10,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_10,,
+RELATION,R12_11,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_11,,
+RELATION,R12_12,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_12,,
+RELATION,R12_13,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_13,,
+RELATION,R12_14,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_14,,
+RELATION,R12_15,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_15,,
+RELATION,R12_16,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_16,,
+RELATION,R12_17,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_17,,
+RELATION,R12_18,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_18,,
+RELATION,R12_19,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_19,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E2_1,E30_19,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E2_1,E30_20,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E2_1,E30_21,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E2_1,E30_22,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E2_1,E30_23,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E2_1,E30_24,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E2_1,E30_25,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E2_1,E30_26,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E2_1,E30_27,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E2_1,E30_28,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E2_1,E30_29,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E2_1,E30_30,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E2_1,E30_31,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E2_1,E30_32,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E2_1,E30_33,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E2_1,E30_34,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E2_1,E30_35,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E2_1,E30_36,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E2_1,E30_37,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E2_1,E30_38,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E2_1,E30_39,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E2_1,E30_40,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E2_1,E30_41,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E2_1,E30_42,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E2_1,E30_43,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_8,THUOC,Thuộc,E39_4,E38_2,,
+RELATION,R22_9,THUOC,Thuộc,E39_5,E38_2,,
+RELATION,R22_10,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,R22_11,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_12,THUOC,Thuộc,E39_7,E38_3,,
+RELATION,R22_13,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,R22_14,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_15,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_16,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_17,THUOC,Thuộc,E39_10,E38_5,,
+RELATION,R22_18,THUOC,Thuộc,E39_11,E38_5,,
+RELATION,R22_19,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_20,THUOC,Thuộc,E39_12,E38_6,,
+RELATION,R22_21,THUOC,Thuộc,E39_13,E38_6,,
+RELATION,R22_22,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_23,THUOC,Thuộc,E39_14,E38_7,,
+RELATION,R22_24,THUOC,Thuộc,E39_15,E38_7,,
+RELATION,R22_25,THUOC,Thuộc,E39_16,E38_7,,
+RELATION,R22_26,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_27,THUOC,Thuộc,E39_17,E38_8,,
+RELATION,R22_28,THUOC,Thuộc,E39_18,E38_8,,
+RELATION,R22_29,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_30,THUOC,Thuộc,E39_19,E38_9,,
+RELATION,R22_31,THUOC,Thuộc,E39_20,E38_9,,
+RELATION,R22_32,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_33,THUOC,Thuộc,E39_21,E38_10,,
+RELATION,R22_34,THUOC,Thuộc,E39_22,E38_10,,
+RELATION,R22_35,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_36,THUOC,Thuộc,E39_23,E38_11,,
+RELATION,R22_37,THUOC,Thuộc,E39_24,E38_11,,
+RELATION,R22_38,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_39,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_40,THUOC,Thuộc,E39_25,E38_13,,
+RELATION,R22_41,THUOC,Thuộc,E39_26,E38_13,,
+RELATION,R22_42,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_43,THUOC,Thuộc,E39_27,E38_14,,
+RELATION,R22_44,THUOC,Thuộc,E39_28,E38_14,,
+RELATION,R22_45,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_46,THUOC,Thuộc,E39_29,E38_15,,
+RELATION,R22_47,THUOC,Thuộc,E39_30,E38_15,,
+RELATION,R22_48,THUOC,Thuộc,E39_31,E38_15,,
+RELATION,R22_49,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,R22_50,THUOC,Thuộc,E39_32,E38_16,,
+RELATION,R22_51,THUOC,Thuộc,E39_33,E38_16,,
+RELATION,R22_52,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_53,THUOC,Thuộc,E39_34,E38_17,,
+RELATION,R22_54,THUOC,Thuộc,E39_35,E38_17,,
+RELATION,R22_55,THUOC,Thuộc,E39_36,E38_17,,
+RELATION,R22_56,THUOC,Thuộc,E39_37,E38_17,,
+RELATION,R22_57,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,R22_58,THUOC,Thuộc,E39_38,E38_18,,
+RELATION,R22_59,THUOC,Thuộc,E39_39,E38_18,,
+RELATION,R22_60,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,R22_61,THUOC,Thuộc,E39_40,E38_19,,
+RELATION,R22_62,THUOC,Thuộc,E39_41,E38_19,,
+RELATION,R22_63,THUOC,Thuộc,E39_42,E38_19,,
+RELATION,R22_64,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,R22_65,THUOC,Thuộc,E39_43,E38_20,,
+RELATION,R22_66,THUOC,Thuộc,E39_44,E38_20,,
+RELATION,R22_67,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,R22_68,THUOC,Thuộc,E39_45,E38_21,,
+RELATION,R22_69,THUOC,Thuộc,E39_46,E38_21,,
+RELATION,R22_70,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,R22_71,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_72,THUOC,Thuộc,E39_47,E38_23,,
+RELATION,R22_73,THUOC,Thuộc,E39_48,E38_23,,
+RELATION,R22_74,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,R22_75,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,R22_76,THUOC,Thuộc,E39_49,E38_25,,
+RELATION,R22_77,THUOC,Thuộc,E39_50,E38_25,,
+RELATION,R22_78,THUOC,Thuộc,E39_51,E38_25,,
+RELATION,R22_79,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_80,THUOC,Thuộc,E39_52,E38_26,,
+RELATION,R22_81,THUOC,Thuộc,E39_53,E38_26,,
+RELATION,R22_82,THUOC,Thuộc,E39_54,E38_26,,
+RELATION,R22_83,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,R22_84,THUOC,Thuộc,E39_55,E38_27,,
+RELATION,R22_85,THUOC,Thuộc,E39_56,E38_27,,
+RELATION,R22_86,THUOC,Thuộc,E38_28,E35_4,,
+RELATION,R22_87,THUOC,Thuộc,E38_29,E35_4,,
+RELATION,R22_88,THUOC,Thuộc,E39_57,E38_29,,
+RELATION,R22_89,THUOC,Thuộc,E39_58,E38_29,,
+RELATION,R22_90,THUOC,Thuộc,E38_30,E35_4,,
+RELATION,R22_91,THUOC,Thuộc,E39_59,E38_30,,
+RELATION,R22_92,THUOC,Thuộc,E39_60,E38_30,,
+RELATION,R22_93,THUOC,Thuộc,E39_61,E38_30,,
+RELATION,R22_94,THUOC,Thuộc,E38_31,E35_4,,
+RELATION,R22_95,THUOC,Thuộc,E38_32,E35_4,,
+RELATION,R22_96,THUOC,Thuộc,E39_62,E38_32,,
+RELATION,R22_97,THUOC,Thuộc,E39_63,E38_32,,
+RELATION,R22_98,THUOC,Thuộc,E38_33,E35_4,,
+RELATION,R22_99,THUOC,Thuộc,E39_64,E38_33,,
+RELATION,R22_100,THUOC,Thuộc,E39_65,E38_33,,
+RELATION,R22_101,THUOC,Thuộc,E38_34,E35_5,,
+RELATION,R22_102,THUOC,Thuộc,E39_66,E38_34,,
+RELATION,R22_103,THUOC,Thuộc,E39_67,E38_34,,
+RELATION,R22_104,THUOC,Thuộc,E38_35,E35_5,,
+RELATION,R22_105,THUOC,Thuộc,E38_36,E35_5,,
+RELATION,R22_106,THUOC,Thuộc,E39_68,E38_36,,
+RELATION,R22_107,THUOC,Thuộc,E39_69,E38_36,,
+RELATION,R22_108,THUOC,Thuộc,E39_70,E38_36,,
+RELATION,R22_109,THUOC,Thuộc,E38_37,E35_5,,
+RELATION,R22_110,THUOC,Thuộc,E39_71,E38_37,,
+RELATION,R22_111,THUOC,Thuộc,E39_72,E38_37,,
+RELATION,R22_112,THUOC,Thuộc,E38_38,E35_6,,
+RELATION,R22_113,THUOC,Thuộc,E39_73,E38_38,,
+RELATION,R22_114,THUOC,Thuộc,E39_74,E38_38,,
+RELATION,R22_115,THUOC,Thuộc,E39_75,E38_38,,
+RELATION,R22_116,THUOC,Thuộc,E39_76,E38_38,,
+RELATION,R22_117,THUOC,Thuộc,E38_39,E35_6,,
+RELATION,R22_118,THUOC,Thuộc,E39_77,E38_39,,
+RELATION,R22_119,THUOC,Thuộc,E39_78,E38_39,,
+RELATION,R22_120,THUOC,Thuộc,E38_40,E35_6,,
+RELATION,R22_121,THUOC,Thuộc,E39_79,E38_40,,
+RELATION,R22_122,THUOC,Thuộc,E39_80,E38_40,,
+RELATION,R22_123,THUOC,Thuộc,E38_41,E35_7,,
+RELATION,R22_124,THUOC,Thuộc,E39_81,E38_41,,
+RELATION,R22_125,THUOC,Thuộc,E39_82,E38_41,,
+RELATION,R22_126,THUOC,Thuộc,E38_42,E35_7,,
+RELATION,R22_127,THUOC,Thuộc,E39_83,E38_42,,
+RELATION,R22_128,THUOC,Thuộc,E39_84,E38_42,,
+RELATION,R22_129,THUOC,Thuộc,E39_85,E38_42,,
+RELATION,R22_130,THUOC,Thuộc,E39_86,E38_42,,
+RELATION,R22_131,THUOC,Thuộc,E38_43,E35_8,,
+RELATION,R22_132,THUOC,Thuộc,E39_87,E38_43,,
+RELATION,R22_133,THUOC,Thuộc,E39_88,E38_43,,
+RELATION,R22_134,THUOC,Thuộc,E39_89,E38_43,,
+RELATION,R22_135,THUOC,Thuộc,E39_90,E38_43,,
+RELATION,R22_136,THUOC,Thuộc,E38_44,E35_8,,
+RELATION,R22_137,THUOC,Thuộc,E39_91,E38_44,,
+RELATION,R22_138,THUOC,Thuộc,E39_92,E38_44,,
+RELATION,R22_139,THUOC,Thuộc,E39_93,E38_44,,
+RELATION,R22_140,THUOC,Thuộc,E38_45,E35_8,,
+RELATION,R22_141,THUOC,Thuộc,E39_94,E38_45,,
+RELATION,R22_142,THUOC,Thuộc,E39_95,E38_45,,
+RELATION,R22_143,THUOC,Thuộc,E38_46,E35_8,,
+RELATION,R22_144,THUOC,Thuộc,E39_96,E38_46,,
+RELATION,R22_145,THUOC,Thuộc,E39_97,E38_46,,
+RELATION,R22_146,THUOC,Thuộc,E39_98,E38_46,,
+RELATION,R22_147,THUOC,Thuộc,E38_47,E35_8,,
+RELATION,R22_148,THUOC,Thuộc,E38_48,E35_9,,
+RELATION,R22_149,THUOC,Thuộc,E39_99,E38_48,,
+RELATION,R22_150,THUOC,Thuộc,E39_100,E38_48,,
+RELATION,R22_151,THUOC,Thuộc,E39_101,E38_48,,
+RELATION,R22_152,THUOC,Thuộc,E38_49,E35_9,,
+RELATION,R22_153,THUOC,Thuộc,E38_50,E35_9,,
+RELATION,R22_154,THUOC,Thuộc,E38_51,E35_9,,
+RELATION,R22_155,THUOC,Thuộc,E38_52,E35_10,,
+RELATION,R22_156,THUOC,Thuộc,E38_53,E35_10,,
+RELATION,R22_157,THUOC,Thuộc,E39_102,E38_53,,
+RELATION,R22_158,THUOC,Thuộc,E39_103,E38_53,,
+RELATION,R22_159,THUOC,Thuộc,E39_104,E38_53,,
+RELATION,R22_160,THUOC,Thuộc,E38_54,E35_11,,
+RELATION,R22_161,THUOC,Thuộc,E38_55,E35_11,,

@@ -1,0 +1,58 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,381,526,"NGHỊ QUYẾT
+Sửa đổi, bổ sung một số điều của Nghị quyết số 02/2018/NQ-HĐTP
+ngày 15 tháng 5 năm 2018 của Hội đồng Thẩm phán Tòa án nhân dân tối cao"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,332,347,01/2022/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,381,391,NGHỊ QUYẾT
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,356,380,ngày 15 tháng 4 năm 2022
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,7160,7174,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,6550,6574,ngày 10 tháng 5 năm 2022
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,7198,7210,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,241,264,TÒA ÁN NHÂN DÂN TỐI CAO
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,7063,7071,CHÁNH ÁN
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,7080,7095,Nguyễn Hòa Bình
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,425,454,Nghị quyết số 02/2018/NQ-HĐTP
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,634,688,Luật Tổ chức Tòa án nhân dân ngày 24 tháng 11 năm 2014
+ENTITY,E23_1,VB_HUONG_DAN_AP_DUNG,Văn bản hướng dẫn áp dụng,reference,7587,7765,Thông tư liên tịch số 01/2023/TTLT-BCA-BQP-TANDTC-VKSNDTC Quy định việc phối hợp trong thực hiện một số quy định của Luật Thi hành án hình sự về thi hành án hình sự tại cộng đồng
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,7230,7328,"Quyết định số 01/2024/QĐ-UBND Ban hành Quy định về dạy thêm, học thêm trên địa bàn tỉnh Tiền Giang"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,7348,7557,"Quyết định số 24/2022/QĐ-UBND quy định mức thu học phí trong năm học 2022-2023 và vùng thu học phí từ năm học 2022-2023 đối với cơ sở giáo dục mầm non, giáo dục phổ thông công lập trên địa bàn tỉnh Ninh Thuận."
+ENTITY,E38_1,DIEU,Điều,structure,941,1140,"Điều 1. Sửa đổi, bổ sung một số điều của Nghị quyết số 02/2018/NQ-HĐTP ngày 15 tháng 5 năm 2018 của Hội đồng Thẩm phán Tòa án nhân dân tối cao hướng dẫn áp dụng Điều 65 của Bộ luật Hình sự về án treo"
+ENTITY,E38_2,DIEU,Điều,structure,5964,6170,"Điều 2. Bãi bỏ điều, biểu mẫu ban hành kèm theo Nghị quyết số 02/2018/NQ-HĐTP ngày 15 tháng 5 năm 2018 của Hội đồng Thẩm phán Tòa án nhân dân tối cao hướng dẫn áp dụng Điều 65 của Bộ luật Hình sự về án treo"
+ENTITY,E38_3,DIEU,Điều,structure,6390,6415,Điều 3. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,1141,1176,"1. Sửa đổi, bổ sung Điều 2 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,2668,2703,"2. Sửa đổi, bổ sung Điều 3 như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,3647,3689,3. Bổ sung Điều 4a vào sau Điều 4 như sau:
+ENTITY,E39_4,KHOAN,Khoản,structure,4277,4315,4. Bổ sung khoản 9 vào Điều 5 như sau:
+ENTITY,E39_5,KHOAN,Khoản,structure,4578,4614,"5. Sửa đổi, bổ sung Điều 10 như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,6171,6188,1. Bãi bỏ Điều 9.
+ENTITY,E39_7,KHOAN,Khoản,structure,6189,6389,2. Bãi bỏ Mẫu số 01-HS ban hành kèm theo Nghị quyết số 02/2018/NQ-HĐTP ngày 15 tháng 5 năm 2018 của Hội đồng Thẩm phán Tòa án nhân dân tối cao hướng dẫn áp dụng Điều 65 của Bộ luật Hình sự về án treo.
+ENTITY,E39_8,KHOAN,Khoản,structure,6416,6575,1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 23 tháng 3 năm 2022 và có hiệu lực thi hành kể từ ngày 10 tháng 5 năm 2022.
+ENTITY,E39_9,KHOAN,Khoản,structure,6576,6792,"2. Đối với hành vi phạm tội xảy ra trước ngày Nghị quyết này có hiệu lực mà vụ án đang trong quá trình xét xử sơ thẩm, xét xử phúc thẩm, xét xử giám đốc thẩm, xét xử tái thẩm thì áp dụng Nghị quyết này để giải quyết."
+ENTITY,E39_10,KHOAN,Khoản,structure,6793,7039,"3. Trường hợp người phạm tội đã bị xét xử trước ngày Nghị quyết này có hiệu lực theo đúng các văn bản hướng dẫn trước đây và bản án đã có hiệu lực pháp luật thì không căn cứ vào Nghị quyết này để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm./."
+ENTITY,E40_1,DIEM,Điểm,structure,1177,1220,"a) Sửa đổi, bổ sung khoản 2 Điều 2 như sau:"
+ENTITY,E40_2,DIEM,Điểm,structure,2361,2395,b) Bổ sung khoản 6 Điều 2 như sau:
+ENTITY,E40_3,DIEM,Điểm,structure,2704,2747,"a) Sửa đổi, bổ sung khoản 2 Điều 3 như sau:"
+ENTITY,E40_4,DIEM,Điểm,structure,2937,2980,"b) Sửa đổi, bổ sung khoản 4 Điều 3 như sau:"
+ENTITY,E40_5,DIEM,Điểm,structure,3290,3333,"c) Sửa đổi, bổ sung khoản 5 Điều 3 như sau:"
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R11_1,HUONG_DAN_AP_DUNG,Hướng dẫn áp dụng,E23_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E40_1,E39_1,,
+RELATION,R22_3,THUOC,Thuộc,E40_2,E39_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E40_3,E39_2,,
+RELATION,R22_6,THUOC,Thuộc,E40_4,E39_2,,
+RELATION,R22_7,THUOC,Thuộc,E40_5,E39_2,,
+RELATION,R22_8,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_11,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,R22_12,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,R22_13,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,R22_14,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_15,THUOC,Thuộc,E39_10,E38_3,,
+RELATION,R22_16,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_17,THUOC,Thuộc,E11_1,E10_1,,

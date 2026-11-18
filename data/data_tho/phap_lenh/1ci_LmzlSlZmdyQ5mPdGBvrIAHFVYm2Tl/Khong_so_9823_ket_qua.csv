@@ -1,0 +1,1153 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,46,Pháp lệnh số Không số Xử lý vi phạm hành chính
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,9,Pháp lệnh
+ENTITY,E4_1,NGANH,Ngành,metadata,50943,50950,Tư pháp
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,74623,74633,1995-07-06
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,74585,74605,Hình sự - hành chính
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,74139,74162,ngày 1 tháng 8 năm 1995
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,74655,74665,2002-10-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,74689,74709,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,74730,74755,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,14655,14663,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,74768,74778,Lê Đức Anh
+ENTITY,E35_1,CHUONG,Chương,structure,492,500,Chương I
+ENTITY,E35_2,CHUONG,Chương,structure,9286,9295,Chương II
+ENTITY,E35_3,CHUONG,Chương,structure,13914,13924,Chương III
+ENTITY,E35_4,CHUONG,Chương,structure,17937,17946,Chương IV
+ENTITY,E35_5,CHUONG,Chương,structure,28794,28802,Chương V
+ENTITY,E35_6,CHUONG,Chương,structure,37902,37911,Chương VI
+ENTITY,E35_7,CHUONG,Chương,structure,47524,47534,Chương VII
+ENTITY,E35_8,CHUONG,Chương,structure,67808,67819,Chương VIII
+ENTITY,E35_9,CHUONG,Chương,structure,73223,73232,Chương IX
+ENTITY,E35_10,CHUONG,Chương,structure,74069,74077,Chương X
+ENTITY,E36_1,MUC,Mục,structure,47587,47592,Mục 1
+ENTITY,E36_2,MUC,Mục,structure,49344,49349,Mục 2
+ENTITY,E36_3,MUC,Mục,structure,54559,54564,Mục 3
+ENTITY,E36_4,MUC,Mục,structure,59667,59672,Mục 4
+ENTITY,E36_5,MUC,Mục,structure,63075,63080,Mục 5
+ENTITY,E36_6,MUC,Mục,structure,66445,66450,Mục 6
+ENTITY,E38_1,DIEU,Điều,structure,522,528,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1165,1171,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1570,1576,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,2864,2870,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,4095,4101,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,5394,5400,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,6384,6390,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,6955,6961,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,7655,7661,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,8728,8735,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,9337,9344,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,10505,10512,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,10760,10767,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,11460,11467,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,11843,11850,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,12244,12251,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,12757,12764,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,13155,13162,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,13722,13729,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,13961,13968,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,14328,14335,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,14825,14832,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,16081,16088,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,16858,16865,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,17397,17404,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,17983,17990,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,18701,18708,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,19317,19324,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,20062,20069,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,22772,22779,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,23463,23470,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,24591,24598,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,25293,25300,Điều 33
+ENTITY,E38_34,DIEU,Điều,structure,26342,26349,Điều 34
+ENTITY,E38_35,DIEU,Điều,structure,27370,27377,Điều 35
+ENTITY,E38_36,DIEU,Điều,structure,27873,27880,Điều 36
+ENTITY,E38_37,DIEU,Điều,structure,28351,28358,Điều 37
+ENTITY,E38_38,DIEU,Điều,structure,28887,28894,Điều 38
+ENTITY,E38_39,DIEU,Điều,structure,29536,29543,Điều 39
+ENTITY,E38_40,DIEU,Điều,structure,30781,30788,Điều 40
+ENTITY,E38_41,DIEU,Điều,structure,31977,31984,Điều 41
+ENTITY,E38_42,DIEU,Điều,structure,34454,34461,Điều 42
+ENTITY,E38_43,DIEU,Điều,structure,35471,35478,Điều 43
+ENTITY,E38_44,DIEU,Điều,structure,36382,36389,Điều 44
+ENTITY,E38_45,DIEU,Điều,structure,37947,37954,Điều 45
+ENTITY,E38_46,DIEU,Điều,structure,38099,38106,Điều 46
+ENTITY,E38_47,DIEU,Điều,structure,38533,38540,Điều 47
+ENTITY,E38_48,DIEU,Điều,structure,39902,39909,Điều 48
+ENTITY,E38_49,DIEU,Điều,structure,41349,41356,Điều 49
+ENTITY,E38_50,DIEU,Điều,structure,41995,42002,Điều 50
+ENTITY,E38_51,DIEU,Điều,structure,42697,42704,Điều 51
+ENTITY,E38_52,DIEU,Điều,structure,43417,43424,Điều 52
+ENTITY,E38_53,DIEU,Điều,structure,45193,45200,Điều 53
+ENTITY,E38_54,DIEU,Điều,structure,45496,45503,Điều 54
+ENTITY,E38_55,DIEU,Điều,structure,46152,46159,Điều 55
+ENTITY,E38_56,DIEU,Điều,structure,47239,47246,Điều 56
+ENTITY,E38_57,DIEU,Điều,structure,47635,47642,Điều 57
+ENTITY,E38_58,DIEU,Điều,structure,48442,48449,Điều 58
+ENTITY,E38_59,DIEU,Điều,structure,48876,48883,Điều 59
+ENTITY,E38_60,DIEU,Điều,structure,49384,49391,Điều 60
+ENTITY,E38_61,DIEU,Điều,structure,50623,50630,Điều 61
+ENTITY,E38_62,DIEU,Điều,structure,51669,51676,Điều 62
+ENTITY,E38_63,DIEU,Điều,structure,52117,52124,Điều 63
+ENTITY,E38_64,DIEU,Điều,structure,52586,52593,Điều 64
+ENTITY,E38_65,DIEU,Điều,structure,53533,53540,Điều 65
+ENTITY,E38_66,DIEU,Điều,structure,54185,54192,Điều 66
+ENTITY,E38_67,DIEU,Điều,structure,54596,54603,Điều 67
+ENTITY,E38_68,DIEU,Điều,structure,55734,55741,Điều 68
+ENTITY,E38_69,DIEU,Điều,structure,56611,56618,Điều 69
+ENTITY,E38_70,DIEU,Điều,structure,57066,57073,Điều 70
+ENTITY,E38_71,DIEU,Điều,structure,57493,57500,Điều 71
+ENTITY,E38_72,DIEU,Điều,structure,58591,58598,Điều 72
+ENTITY,E38_73,DIEU,Điều,structure,59302,59309,Điều 73
+ENTITY,E38_74,DIEU,Điều,structure,59705,59712,Điều 74
+ENTITY,E38_75,DIEU,Điều,structure,60894,60901,Điều 75
+ENTITY,E38_76,DIEU,Điều,structure,61842,61849,Điều 76
+ENTITY,E38_77,DIEU,Điều,structure,62305,62312,Điều 77
+ENTITY,E38_78,DIEU,Điều,structure,62645,62652,Điều 78
+ENTITY,E38_79,DIEU,Điều,structure,63117,63124,Điều 79
+ENTITY,E38_80,DIEU,Điều,structure,63708,63715,Điều 80
+ENTITY,E38_81,DIEU,Điều,structure,64578,64585,Điều 81
+ENTITY,E38_82,DIEU,Điều,structure,65011,65018,Điều 82
+ENTITY,E38_83,DIEU,Điều,structure,65644,65651,Điều 83
+ENTITY,E38_84,DIEU,Điều,structure,66080,66087,Điều 84
+ENTITY,E38_85,DIEU,Điều,structure,66540,66547,Điều 85
+ENTITY,E38_86,DIEU,Điều,structure,67089,67096,Điều 86
+ENTITY,E38_87,DIEU,Điều,structure,67838,67845,Điều 87
+ENTITY,E38_88,DIEU,Điều,structure,68363,68370,Điều 88
+ENTITY,E38_89,DIEU,Điều,structure,71411,71418,Điều 89
+ENTITY,E38_90,DIEU,Điều,structure,72822,72829,Điều 90
+ENTITY,E38_91,DIEU,Điều,structure,73247,73254,Điều 91
+ENTITY,E38_92,DIEU,Điều,structure,73670,73677,Điều 92
+ENTITY,E38_93,DIEU,Điều,structure,74098,74105,Điều 93
+ENTITY,E38_94,DIEU,Điều,structure,74164,74171,Điều 94
+ENTITY,E38_95,DIEU,Điều,structure,74426,74433,Điều 95
+ENTITY,E39_1,KHOAN,Khoản,structure,555,557,1.
+ENTITY,E39_2,KHOAN,Khoản,structure,682,684,2.
+ENTITY,E39_3,KHOAN,Khoản,structure,917,919,3.
+ENTITY,E39_4,KHOAN,Khoản,structure,1614,1616,1.
+ENTITY,E39_5,KHOAN,Khoản,structure,1719,1721,2.
+ENTITY,E39_6,KHOAN,Khoản,structure,1958,1960,3.
+ENTITY,E39_7,KHOAN,Khoản,structure,2176,2178,4.
+ENTITY,E39_8,KHOAN,Khoản,structure,2423,2425,5.
+ENTITY,E39_9,KHOAN,Khoản,structure,2600,2602,6.
+ENTITY,E39_10,KHOAN,Khoản,structure,2927,2929,1.
+ENTITY,E39_11,KHOAN,Khoản,structure,3444,3446,2.
+ENTITY,E39_12,KHOAN,Khoản,structure,3687,3689,3.
+ENTITY,E39_13,KHOAN,Khoản,structure,3784,3786,4.
+ENTITY,E39_14,KHOAN,Khoản,structure,4145,4147,1.
+ENTITY,E39_15,KHOAN,Khoản,structure,5254,5256,2.
+ENTITY,E39_16,KHOAN,Khoản,structure,5449,5451,1.
+ENTITY,E39_17,KHOAN,Khoản,structure,5833,5835,2.
+ENTITY,E39_18,KHOAN,Khoản,structure,5949,5951,3.
+ENTITY,E39_19,KHOAN,Khoản,structure,6101,6103,4.
+ENTITY,E39_20,KHOAN,Khoản,structure,6458,6460,1.
+ENTITY,E39_21,KHOAN,Khoản,structure,6589,6591,2.
+ENTITY,E39_22,KHOAN,Khoản,structure,6692,6694,3.
+ENTITY,E39_23,KHOAN,Khoản,structure,6844,6846,4.
+ENTITY,E39_24,KHOAN,Khoản,structure,6923,6925,5.
+ENTITY,E39_25,KHOAN,Khoản,structure,7039,7041,1.
+ENTITY,E39_26,KHOAN,Khoản,structure,7062,7064,2.
+ENTITY,E39_27,KHOAN,Khoản,structure,7098,7100,3.
+ENTITY,E39_28,KHOAN,Khoản,structure,7217,7219,4.
+ENTITY,E39_29,KHOAN,Khoản,structure,7298,7300,5.
+ENTITY,E39_30,KHOAN,Khoản,structure,7341,7343,6.
+ENTITY,E39_31,KHOAN,Khoản,structure,7453,7455,7.
+ENTITY,E39_32,KHOAN,Khoản,structure,7581,7583,8.
+ENTITY,E39_33,KHOAN,Khoản,structure,7700,7702,1.
+ENTITY,E39_34,KHOAN,Khoản,structure,8196,8198,2.
+ENTITY,E39_35,KHOAN,Khoản,structure,8505,8507,3.
+ENTITY,E39_36,KHOAN,Khoản,structure,8791,8793,1.
+ENTITY,E39_37,KHOAN,Khoản,structure,9029,9031,2.
+ENTITY,E39_38,KHOAN,Khoản,structure,9387,9389,1.
+ENTITY,E39_39,KHOAN,Khoản,structure,9530,9532,2.
+ENTITY,E39_40,KHOAN,Khoản,structure,9772,9774,3.
+ENTITY,E39_41,KHOAN,Khoản,structure,10354,10356,4.
+ENTITY,E39_42,KHOAN,Khoản,structure,10779,10781,1.
+ENTITY,E39_43,KHOAN,Khoản,structure,14006,14008,1.
+ENTITY,E39_44,KHOAN,Khoản,structure,14201,14203,2.
+ENTITY,E39_45,KHOAN,Khoản,structure,14861,14863,1.
+ENTITY,E39_46,KHOAN,Khoản,structure,15128,15130,2.
+ENTITY,E39_47,KHOAN,Khoản,structure,15741,15743,3.
+ENTITY,E39_48,KHOAN,Khoản,structure,16114,16116,1.
+ENTITY,E39_49,KHOAN,Khoản,structure,16630,16632,2.
+ENTITY,E39_50,KHOAN,Khoản,structure,16720,16722,3.
+ENTITY,E39_51,KHOAN,Khoản,structure,16892,16894,1.
+ENTITY,E39_52,KHOAN,Khoản,structure,17149,17151,2.
+ENTITY,E39_53,KHOAN,Khoản,structure,17240,17242,3.
+ENTITY,E39_54,KHOAN,Khoản,structure,17427,17429,1.
+ENTITY,E39_55,KHOAN,Khoản,structure,17659,17661,2.
+ENTITY,E39_56,KHOAN,Khoản,structure,17814,17816,3.
+ENTITY,E39_57,KHOAN,Khoản,structure,17879,17881,4.
+ENTITY,E39_58,KHOAN,Khoản,structure,20187,20189,1.
+ENTITY,E39_59,KHOAN,Khoản,structure,20317,20319,2.
+ENTITY,E39_60,KHOAN,Khoản,structure,20533,20535,3.
+ENTITY,E39_61,KHOAN,Khoản,structure,20705,20707,4.
+ENTITY,E39_62,KHOAN,Khoản,structure,20992,20994,5.
+ENTITY,E39_63,KHOAN,Khoản,structure,21790,21792,6.
+ENTITY,E39_64,KHOAN,Khoản,structure,22190,22192,7.
+ENTITY,E39_65,KHOAN,Khoản,structure,22840,22842,1.
+ENTITY,E39_66,KHOAN,Khoản,structure,22946,22948,2.
+ENTITY,E39_67,KHOAN,Khoản,structure,23180,23182,3.
+ENTITY,E39_68,KHOAN,Khoản,structure,23531,23533,1.
+ENTITY,E39_69,KHOAN,Khoản,structure,23634,23636,2.
+ENTITY,E39_70,KHOAN,Khoản,structure,23859,23861,3.
+ENTITY,E39_71,KHOAN,Khoản,structure,24081,24083,4.
+ENTITY,E39_72,KHOAN,Khoản,structure,24294,24296,5.
+ENTITY,E39_73,KHOAN,Khoản,structure,24743,24745,1.
+ENTITY,E39_74,KHOAN,Khoản,structure,24845,24847,2.
+ENTITY,E39_75,KHOAN,Khoản,structure,24945,24947,3.
+ENTITY,E39_76,KHOAN,Khoản,structure,25138,25140,4.
+ENTITY,E39_77,KHOAN,Khoản,structure,25371,25373,1.
+ENTITY,E39_78,KHOAN,Khoản,structure,25481,25483,2.
+ENTITY,E39_79,KHOAN,Khoản,structure,25754,25756,3.
+ENTITY,E39_80,KHOAN,Khoản,structure,26052,26054,4.
+ENTITY,E39_81,KHOAN,Khoản,structure,26424,26426,1.
+ENTITY,E39_82,KHOAN,Khoản,structure,26715,26717,2.
+ENTITY,E39_83,KHOAN,Khoản,structure,27035,27037,3.
+ENTITY,E39_84,KHOAN,Khoản,structure,27467,27469,1.
+ENTITY,E39_85,KHOAN,Khoản,structure,27572,27574,2.
+ENTITY,E39_86,KHOAN,Khoản,structure,27690,27692,3.
+ENTITY,E39_87,KHOAN,Khoản,structure,28417,28419,1.
+ENTITY,E39_88,KHOAN,Khoản,structure,28537,28539,2.
+ENTITY,E39_89,KHOAN,Khoản,structure,28656,28658,3.
+ENTITY,E39_90,KHOAN,Khoản,structure,29583,29585,1.
+ENTITY,E39_91,KHOAN,Khoản,structure,29830,29832,2.
+ENTITY,E39_92,KHOAN,Khoản,structure,30209,30211,3.
+ENTITY,E39_93,KHOAN,Khoản,structure,30505,30507,4.
+ENTITY,E39_94,KHOAN,Khoản,structure,30616,30618,5.
+ENTITY,E39_95,KHOAN,Khoản,structure,32035,32037,1.
+ENTITY,E39_96,KHOAN,Khoản,structure,32354,32356,2.
+ENTITY,E39_97,KHOAN,Khoản,structure,32834,32836,3.
+ENTITY,E39_98,KHOAN,Khoản,structure,33282,33284,4.
+ENTITY,E39_99,KHOAN,Khoản,structure,33650,33652,5.
+ENTITY,E39_100,KHOAN,Khoản,structure,34299,34301,6.
+ENTITY,E39_101,KHOAN,Khoản,structure,34498,34500,1.
+ENTITY,E39_102,KHOAN,Khoản,structure,34667,34669,2.
+ENTITY,E39_103,KHOAN,Khoản,structure,35204,35206,3.
+ENTITY,E39_104,KHOAN,Khoản,structure,35380,35382,4.
+ENTITY,E39_105,KHOAN,Khoản,structure,35537,35539,1.
+ENTITY,E39_106,KHOAN,Khoản,structure,35731,35733,2.
+ENTITY,E39_107,KHOAN,Khoản,structure,35935,35937,3.
+ENTITY,E39_108,KHOAN,Khoản,structure,36214,36216,4.
+ENTITY,E39_109,KHOAN,Khoản,structure,36450,36452,1.
+ENTITY,E39_110,KHOAN,Khoản,structure,36626,36628,2.
+ENTITY,E39_111,KHOAN,Khoản,structure,37438,37440,3.
+ENTITY,E39_112,KHOAN,Khoản,structure,37606,37608,4.
+ENTITY,E39_113,KHOAN,Khoản,structure,37755,37757,5.
+ENTITY,E39_114,KHOAN,Khoản,structure,38577,38579,1.
+ENTITY,E39_115,KHOAN,Khoản,structure,38714,38716,2.
+ENTITY,E39_116,KHOAN,Khoản,structure,39295,39297,3.
+ENTITY,E39_117,KHOAN,Khoản,structure,39723,39725,4.
+ENTITY,E39_118,KHOAN,Khoản,structure,39930,39932,1.
+ENTITY,E39_119,KHOAN,Khoản,structure,40398,40400,2.
+ENTITY,E39_120,KHOAN,Khoản,structure,41093,41095,3.
+ENTITY,E39_121,KHOAN,Khoản,structure,41206,41208,4.
+ENTITY,E39_122,KHOAN,Khoản,structure,41376,41378,1.
+ENTITY,E39_123,KHOAN,Khoản,structure,41477,41479,2.
+ENTITY,E39_124,KHOAN,Khoản,structure,41661,41663,3.
+ENTITY,E39_125,KHOAN,Khoản,structure,41754,41756,4.
+ENTITY,E39_126,KHOAN,Khoản,structure,41855,41857,5.
+ENTITY,E39_127,KHOAN,Khoản,structure,41897,41899,6.
+ENTITY,E39_128,KHOAN,Khoản,structure,42041,42043,1.
+ENTITY,E39_129,KHOAN,Khoản,structure,42270,42272,2.
+ENTITY,E39_130,KHOAN,Khoản,structure,42475,42477,3.
+ENTITY,E39_131,KHOAN,Khoản,structure,43264,43266,2.
+ENTITY,E39_132,KHOAN,Khoản,structure,43473,43475,1.
+ENTITY,E39_133,KHOAN,Khoản,structure,43906,43908,2.
+ENTITY,E39_134,KHOAN,Khoản,structure,44457,44459,3.
+ENTITY,E39_135,KHOAN,Khoản,structure,44698,44700,4.
+ENTITY,E39_136,KHOAN,Khoản,structure,45552,45554,1.
+ENTITY,E39_137,KHOAN,Khoản,structure,45744,45746,2.
+ENTITY,E39_138,KHOAN,Khoản,structure,45868,45870,3.
+ENTITY,E39_139,KHOAN,Khoản,structure,46218,46220,1.
+ENTITY,E39_140,KHOAN,Khoản,structure,46613,46615,2.
+ENTITY,E39_141,KHOAN,Khoản,structure,46716,46718,3.
+ENTITY,E39_142,KHOAN,Khoản,structure,46943,46945,4.
+ENTITY,E39_143,KHOAN,Khoản,structure,47049,47051,5.
+ENTITY,E39_144,KHOAN,Khoản,structure,47689,47691,1.
+ENTITY,E39_145,KHOAN,Khoản,structure,47846,47848,2.
+ENTITY,E39_146,KHOAN,Khoản,structure,48323,48325,3.
+ENTITY,E39_147,KHOAN,Khoản,structure,49443,49445,1.
+ENTITY,E39_148,KHOAN,Khoản,structure,50252,50254,2.
+ENTITY,E39_149,KHOAN,Khoản,structure,50514,50516,3.
+ENTITY,E39_150,KHOAN,Khoản,structure,50669,50671,1.
+ENTITY,E39_151,KHOAN,Khoản,structure,50830,50832,2.
+ENTITY,E39_152,KHOAN,Khoản,structure,51053,51055,3.
+ENTITY,E39_153,KHOAN,Khoản,structure,51335,51337,4.
+ENTITY,E39_154,KHOAN,Khoản,structure,52172,52174,1.
+ENTITY,E39_155,KHOAN,Khoản,structure,52354,52356,2.
+ENTITY,E39_156,KHOAN,Khoản,structure,52657,52659,1.
+ENTITY,E39_157,KHOAN,Khoản,structure,52952,52954,2.
+ENTITY,E39_158,KHOAN,Khoản,structure,53185,53187,3.
+ENTITY,E39_159,KHOAN,Khoản,structure,53606,53608,1.
+ENTITY,E39_160,KHOAN,Khoản,structure,53756,53758,2.
+ENTITY,E39_161,KHOAN,Khoản,structure,53958,53960,3.
+ENTITY,E39_162,KHOAN,Khoản,structure,54646,54648,1.
+ENTITY,E39_163,KHOAN,Khoản,structure,55433,55435,2.
+ENTITY,E39_164,KHOAN,Khoản,structure,55627,55629,3.
+ENTITY,E39_165,KHOAN,Khoản,structure,55938,55940,2.
+ENTITY,E39_166,KHOAN,Khoản,structure,56191,56193,3.
+ENTITY,E39_167,KHOAN,Khoản,structure,56434,56436,4.
+ENTITY,E39_168,KHOAN,Khoản,structure,57118,57120,1.
+ENTITY,E39_169,KHOAN,Khoản,structure,57259,57261,2.
+ENTITY,E39_170,KHOAN,Khoản,structure,57561,57563,1.
+ENTITY,E39_171,KHOAN,Khoản,structure,58011,58013,2.
+ENTITY,E39_172,KHOAN,Khoản,structure,58239,58241,3.
+ENTITY,E39_173,KHOAN,Khoản,structure,58676,58678,1.
+ENTITY,E39_174,KHOAN,Khoản,structure,58840,58842,2.
+ENTITY,E39_175,KHOAN,Khoản,structure,59040,59042,3.
+ENTITY,E39_176,KHOAN,Khoản,structure,59756,59758,1.
+ENTITY,E39_177,KHOAN,Khoản,structure,60505,60507,2.
+ENTITY,E39_178,KHOAN,Khoản,structure,60727,60729,3.
+ENTITY,E39_179,KHOAN,Khoản,structure,60938,60940,1.
+ENTITY,E39_180,KHOAN,Khoản,structure,61096,61098,2.
+ENTITY,E39_181,KHOAN,Khoản,structure,61373,61375,3.
+ENTITY,E39_182,KHOAN,Khoản,structure,61616,61618,4.
+ENTITY,E39_183,KHOAN,Khoản,structure,62358,62360,1.
+ENTITY,E39_184,KHOAN,Khoản,structure,63164,63166,1.
+ENTITY,E39_185,KHOAN,Khoản,structure,63326,63328,2.
+ENTITY,E39_186,KHOAN,Khoản,structure,63555,63557,3.
+ENTITY,E39_187,KHOAN,Khoản,structure,63748,63750,1.
+ENTITY,E39_188,KHOAN,Khoản,structure,63905,63907,2.
+ENTITY,E39_189,KHOAN,Khoản,structure,64111,64113,3.
+ENTITY,E39_190,KHOAN,Khoản,structure,64358,64360,4.
+ENTITY,E39_191,KHOAN,Khoản,structure,65060,65062,1.
+ENTITY,E39_192,KHOAN,Khoản,structure,65338,65340,2.
+ENTITY,E39_193,KHOAN,Khoản,structure,65687,65689,1.
+ENTITY,E39_194,KHOAN,Khoản,structure,65875,65877,2.
+ENTITY,E39_195,KHOAN,Khoản,structure,66639,66641,1.
+ENTITY,E39_196,KHOAN,Khoản,structure,66808,66810,2.
+ENTITY,E39_197,KHOAN,Khoản,structure,67949,67951,1.
+ENTITY,E39_198,KHOAN,Khoản,structure,68189,68191,2.
+ENTITY,E39_199,KHOAN,Khoản,structure,68420,68422,1.
+ENTITY,E39_200,KHOAN,Khoản,structure,70672,70674,2.
+ENTITY,E39_201,KHOAN,Khoản,structure,70834,70836,3.
+ENTITY,E39_202,KHOAN,Khoản,structure,71019,71021,4.
+ENTITY,E39_203,KHOAN,Khoản,structure,71485,71487,1.
+ENTITY,E39_204,KHOAN,Khoản,structure,72478,72480,2.
+ENTITY,E39_205,KHOAN,Khoản,structure,72640,72642,3.
+ENTITY,E39_206,KHOAN,Khoản,structure,72849,72851,1.
+ENTITY,E39_207,KHOAN,Khoản,structure,73001,73003,2.
+ENTITY,E39_208,KHOAN,Khoản,structure,73323,73325,1.
+ENTITY,E40_1,DIEM,Điểm,structure,4199,4201,a)
+ENTITY,E40_2,DIEM,Điểm,structure,4405,4407,b)
+ENTITY,E40_3,DIEM,Điểm,structure,4856,4858,c)
+ENTITY,E40_4,DIEM,Điểm,structure,4931,4933,d)
+ENTITY,E40_5,DIEM,Điểm,structure,9503,9505,a)
+ENTITY,E40_6,DIEM,Điểm,structure,9516,9518,b)
+ENTITY,E40_7,DIEM,Điểm,structure,9669,9671,a)
+ENTITY,E40_8,DIEM,Điểm,structure,9702,9704,b)
+ENTITY,E40_9,DIEM,Điểm,structure,9936,9938,a)
+ENTITY,E40_10,DIEM,Điểm,structure,10070,10072,b)
+ENTITY,E40_11,DIEM,Điểm,structure,10196,10198,c)
+ENTITY,E40_12,DIEM,Điểm,structure,10274,10276,d)
+ENTITY,E40_13,DIEM,Điểm,structure,14054,14056,a)
+ENTITY,E40_14,DIEM,Điểm,structure,14092,14094,b)
+ENTITY,E40_15,DIEM,Điểm,structure,14122,14124,c)
+ENTITY,E40_16,DIEM,Điểm,structure,14149,14151,d)
+ENTITY,E40_17,DIEM,Điểm,structure,14177,14179,đ)
+ENTITY,E40_18,DIEM,Điểm,structure,15176,15178,a)
+ENTITY,E40_19,DIEM,Điểm,structure,15310,15312,b)
+ENTITY,E40_20,DIEM,Điểm,structure,15536,15538,c)
+ENTITY,E40_21,DIEM,Điểm,structure,18155,18157,a)
+ENTITY,E40_22,DIEM,Điểm,structure,18173,18175,b)
+ENTITY,E40_23,DIEM,Điểm,structure,18204,18206,c)
+ENTITY,E40_24,DIEM,Điểm,structure,18302,18304,d)
+ENTITY,E40_25,DIEM,Điểm,structure,18378,18380,đ)
+ENTITY,E40_26,DIEM,Điểm,structure,18464,18466,e)
+ENTITY,E40_27,DIEM,Điểm,structure,18574,18576,g)
+ENTITY,E40_28,DIEM,Điểm,structure,18647,18649,h)
+ENTITY,E40_29,DIEM,Điểm,structure,18918,18920,a)
+ENTITY,E40_30,DIEM,Điểm,structure,18936,18938,b)
+ENTITY,E40_31,DIEM,Điểm,structure,18970,18972,c)
+ENTITY,E40_32,DIEM,Điểm,structure,19525,19527,a)
+ENTITY,E40_33,DIEM,Điểm,structure,19543,19545,b)
+ENTITY,E40_34,DIEM,Điểm,structure,19578,19580,c)
+ENTITY,E40_35,DIEM,Điểm,structure,19619,19621,d)
+ENTITY,E40_36,DIEM,Điểm,structure,19657,19659,đ)
+ENTITY,E40_37,DIEM,Điểm,structure,19696,19698,e)
+ENTITY,E40_38,DIEM,Điểm,structure,19731,19733,g)
+ENTITY,E40_39,DIEM,Điểm,structure,20268,20270,a)
+ENTITY,E40_40,DIEM,Điểm,structure,20286,20288,b)
+ENTITY,E40_41,DIEM,Điểm,structure,20408,20410,a)
+ENTITY,E40_42,DIEM,Điểm,structure,20426,20428,b)
+ENTITY,E40_43,DIEM,Điểm,structure,20457,20459,c)
+ENTITY,E40_44,DIEM,Điểm,structure,20743,20745,a)
+ENTITY,E40_45,DIEM,Điểm,structure,20761,20763,b)
+ENTITY,E40_46,DIEM,Điểm,structure,20794,20796,c)
+ENTITY,E40_47,DIEM,Điểm,structure,21522,21524,a)
+ENTITY,E40_48,DIEM,Điểm,structure,21540,21542,b)
+ENTITY,E40_49,DIEM,Điểm,structure,21573,21575,c)
+ENTITY,E40_50,DIEM,Điểm,structure,21829,21831,a)
+ENTITY,E40_51,DIEM,Điểm,structure,21847,21849,b)
+ENTITY,E40_52,DIEM,Điểm,structure,21881,21883,c)
+ENTITY,E40_53,DIEM,Điểm,structure,22531,22533,a)
+ENTITY,E40_54,DIEM,Điểm,structure,22549,22551,b)
+ENTITY,E40_55,DIEM,Điểm,structure,22583,22585,c)
+ENTITY,E40_56,DIEM,Điểm,structure,22897,22899,a)
+ENTITY,E40_57,DIEM,Điểm,structure,22915,22917,b)
+ENTITY,E40_58,DIEM,Điểm,structure,23028,23030,a)
+ENTITY,E40_59,DIEM,Điểm,structure,23046,23048,b)
+ENTITY,E40_60,DIEM,Điểm,structure,23079,23081,c)
+ENTITY,E40_61,DIEM,Điểm,structure,23220,23222,a)
+ENTITY,E40_62,DIEM,Điểm,structure,23238,23240,b)
+ENTITY,E40_63,DIEM,Điểm,structure,23272,23274,c)
+ENTITY,E40_64,DIEM,Điểm,structure,23585,23587,a)
+ENTITY,E40_65,DIEM,Điểm,structure,23603,23605,b)
+ENTITY,E40_66,DIEM,Điểm,structure,23707,23709,a)
+ENTITY,E40_67,DIEM,Điểm,structure,23725,23727,b)
+ENTITY,E40_68,DIEM,Điểm,structure,23758,23760,c)
+ENTITY,E40_69,DIEM,Điểm,structure,23930,23932,a)
+ENTITY,E40_70,DIEM,Điểm,structure,23948,23950,b)
+ENTITY,E40_71,DIEM,Điểm,structure,23980,23982,c)
+ENTITY,E40_72,DIEM,Điểm,structure,24126,24128,a)
+ENTITY,E40_73,DIEM,Điểm,structure,24144,24146,b)
+ENTITY,E40_74,DIEM,Điểm,structure,24177,24179,c)
+ENTITY,E40_75,DIEM,Điểm,structure,24331,24333,a)
+ENTITY,E40_76,DIEM,Điểm,structure,24349,24351,b)
+ENTITY,E40_77,DIEM,Điểm,structure,24383,24385,c)
+ENTITY,E40_78,DIEM,Điểm,structure,24796,24798,a)
+ENTITY,E40_79,DIEM,Điểm,structure,24814,24816,b)
+ENTITY,E40_80,DIEM,Điểm,structure,24896,24898,a)
+ENTITY,E40_81,DIEM,Điểm,structure,24914,24916,b)
+ENTITY,E40_82,DIEM,Điểm,structure,24986,24988,a)
+ENTITY,E40_83,DIEM,Điểm,structure,25004,25006,b)
+ENTITY,E40_84,DIEM,Điểm,structure,25037,25039,c)
+ENTITY,E40_85,DIEM,Điểm,structure,25171,25173,a)
+ENTITY,E40_86,DIEM,Điểm,structure,25189,25191,b)
+ENTITY,E40_87,DIEM,Điểm,structure,25223,25225,c)
+ENTITY,E40_88,DIEM,Điểm,structure,25432,25434,a)
+ENTITY,E40_89,DIEM,Điểm,structure,25450,25452,b)
+ENTITY,E40_90,DIEM,Điểm,structure,25528,25530,a)
+ENTITY,E40_91,DIEM,Điểm,structure,25546,25548,b)
+ENTITY,E40_92,DIEM,Điểm,structure,25579,25581,c)
+ENTITY,E40_93,DIEM,Điểm,structure,25809,25811,a)
+ENTITY,E40_94,DIEM,Điểm,structure,25827,25829,b)
+ENTITY,E40_95,DIEM,Điểm,structure,25861,25863,c)
+ENTITY,E40_96,DIEM,Điểm,structure,26099,26101,a)
+ENTITY,E40_97,DIEM,Điểm,structure,26117,26119,b)
+ENTITY,E40_98,DIEM,Điểm,structure,26151,26153,c)
+ENTITY,E40_99,DIEM,Điểm,structure,26482,26484,a)
+ENTITY,E40_100,DIEM,Điểm,structure,26500,26502,b)
+ENTITY,E40_101,DIEM,Điểm,structure,26531,26533,c)
+ENTITY,E40_102,DIEM,Điểm,structure,26836,26838,a)
+ENTITY,E40_103,DIEM,Điểm,structure,26854,26856,b)
+ENTITY,E40_104,DIEM,Điểm,structure,26888,26890,c)
+ENTITY,E40_105,DIEM,Điểm,structure,27147,27149,a)
+ENTITY,E40_106,DIEM,Điểm,structure,27165,27167,b)
+ENTITY,E40_107,DIEM,Điểm,structure,27199,27201,c)
+ENTITY,E40_108,DIEM,Điểm,structure,27523,27525,a)
+ENTITY,E40_109,DIEM,Điểm,structure,27541,27543,b)
+ENTITY,E40_110,DIEM,Điểm,structure,27641,27643,a)
+ENTITY,E40_111,DIEM,Điểm,structure,27659,27661,b)
+ENTITY,E40_112,DIEM,Điểm,structure,27824,27826,a)
+ENTITY,E40_113,DIEM,Điểm,structure,27842,27844,b)
+ENTITY,E40_114,DIEM,Điểm,structure,29150,29152,a)
+ENTITY,E40_115,DIEM,Điểm,structure,29168,29170,b)
+ENTITY,E40_116,DIEM,Điểm,structure,29210,29212,c)
+ENTITY,E40_117,DIEM,Điểm,structure,29225,29227,d)
+ENTITY,E40_118,DIEM,Điểm,structure,29262,29264,e)
+ENTITY,E40_119,DIEM,Điểm,structure,30907,30909,a)
+ENTITY,E40_120,DIEM,Điểm,structure,30972,30974,b)
+ENTITY,E40_121,DIEM,Điểm,structure,31001,31003,c)
+ENTITY,E40_122,DIEM,Điểm,structure,31228,31230,d)
+ENTITY,E40_123,DIEM,Điểm,structure,31410,31412,đ)
+ENTITY,E40_124,DIEM,Điểm,structure,31438,31440,e)
+ENTITY,E40_125,DIEM,Điểm,structure,31467,31469,g)
+ENTITY,E40_126,DIEM,Điểm,structure,31505,31507,h)
+ENTITY,E40_127,DIEM,Điểm,structure,31668,31670,i)
+ENTITY,E40_128,DIEM,Điểm,structure,46370,46372,a)
+ENTITY,E40_129,DIEM,Điểm,structure,46463,46465,b)
+ENTITY,E40_130,DIEM,Điểm,structure,46541,46543,c)
+ENTITY,E40_131,DIEM,Điểm,structure,52765,52767,a)
+ENTITY,E40_132,DIEM,Điểm,structure,52831,52833,b)
+ENTITY,E40_133,DIEM,Điểm,structure,57687,57689,a)
+ENTITY,E40_134,DIEM,Điểm,structure,57778,57780,b)
+ENTITY,E40_135,DIEM,Điểm,structure,57895,57897,c)
+ENTITY,E40_136,DIEM,Điểm,structure,70908,70910,a)
+ENTITY,E40_137,DIEM,Điểm,structure,70942,70944,b)
+ENTITY,E40_138,DIEM,Điểm,structure,70992,70994,c)
+ENTITY,E40_139,DIEM,Điểm,structure,72714,72716,a)
+ENTITY,E40_140,DIEM,Điểm,structure,72746,72748,b)
+ENTITY,E40_141,DIEM,Điểm,structure,72797,72799,c)
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,74798,74816,Hiến pháp năm 1992
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,74836,75044,"Quyết định số 110/2000/QĐ-UB Về sửa đổi, bổ sung Quy chế tổ chức và hoạt động của Trung tâm Quản lý quảng cáo ban hành kèm theo Quyết định số 108/1999/QĐ-UB ngày 25 tháng 8 năm 1999 của UBND thành phố Đà Nẵng"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,75064,75235,"Quyết định số 2185/QĐ-UB-NCVX 2185/TB-UB-NCVX năm 1996 về tiêu hủy văn hoá phẩm độc hại, cấm tàng trữ, lưu hành, phổ biến do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,75255,75429,"Nghị định số 01/2002/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 01/CP ngày 03 tháng 01 năm 1996 của Chính phủ về xử phạt vi phạm hành chính trong lĩnh vực thương mại"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,75449,75548,"Quyết định số 145/QĐ-UB-NCVX Về việc tiêu hủy văn hóa phẩm độc hại, cấm tàng trữ lưu hành, phổ biến"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,75568,75661,Nghị định số 115/1997/NĐ-CP Về chế độ bảo hiểm Bắt buộc trách nhiệm dân sự của chủ xe cơ giới
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,75681,75791,Quyết định số 197/QĐ-UB Về việc thành lập hội đồng tư vấn xét đối tượng áp dụng các biện pháp xử lý hành chính
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,75811,75920,Quyết định số 1218/QĐ-UB Về việc ban hành quy chế tạm thời về cai nghiện ma tuý trên địa bàn tỉnh Tuyên Quang
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,75940,76071,"Quyết định số 641/1999/QĐ-UB V/v Phê duyệt đề án cải cách hành chính theo mô hình ""một cửa"" của Sở Địa chính tỉnh Bà Rịa - Vũng Tàu"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,76091,76144,Nghị định số 32/CP Ban hành Quy chế về cơ sở giáo dục
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,76164,76316,Quyết định số 3129/2001/QĐ-UB V/v ban hành Bản quy định về quản lý các hoạt động kinh doanh dịch vụ du lịch tại các bãi tắm thuộc tỉnh Bà Rịa - Vũng Tàu
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,76336,76436,Nghị định số 35/CP Quy định xử phạt vi phạm hành chính trong lĩnh vực quản lý Nhà nước về khoáng sản
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,76456,76612,Quyết định số 137/2001/QĐ-UB Về việc xử phạt hành chính và thu phạt trực tiếp đối với vi phạm hành chính trong quản lý đô thị trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,76632,76736,Nghị định số 57/CP Quy định về xử phạt vi phạm hành chính trong lĩnh vực đo lường và chất lượng hàng hoá
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,76756,76937,"Nghị định số 54/1998/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 16/CP ngày 20/3/1996 của Chính phủ về xử phạt vi phạm hành chính trong lĩnh vực quản lý Nhà nước về hải quan"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,76957,77060,Nghị định số 16/CP Quy định việc xử phạt vi phạm hành chính trong lĩnh vực quản lý Nhà nước về hải quan
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,77080,77159,Nghị định số 50/2002/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực du lịch
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,77179,77280,"Quyết định số 7066/QĐ-UB-NCVX Về việc tiêu hủy văn hóa phẩm độc hại cấm tàng trữ, lưu hành, phổ biến."
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,77300,77434,"Quyết định số 511/1999/QĐ-BCA(V26) Về việc ban hành quy chế về phòng, chống HIV/AIDS trong trại giam,cơ sở giáo dục, trường giáo dưỡng"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,77454,77555,"Quyết định số 2185/TB-UB-NCVX Về việc tiêu hủy văn hoá phẩm độc hại, cấm tàng trữ, lưu hành, phổ biến"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,77575,77812,"Nghị định số 58/2000/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 16/CP ngày 20/3/1996 và Nghị định số 54/1998/NĐ-CP ngày 21/7/1998 của Chính phủ quy định việc xử phạt vi phạm hành chính trong lĩnh vực quản lý nhà nước về hải quan"
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,77832,77946,"Nghị định số 76/1998/NĐ-CP Về việc sửa đổi, bổ sung một số điều của Nghị định số 39/CP ngày 5/7/1996 của Chính phủ"
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,77966,78160,"Nghị định số 36/1999/NĐ-CP Quy định về xử phạt vi phạm hành chính trong vùng lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa của nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,78180,78251,Nghị định số 18/CP Về xử lý vi phạm hành chính trong lĩnh vực ngân hàng
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,78271,78463,"Quyết định số 1766/1998/QĐ-BTC Của Bộ trưởng Bộ Tài chính ban hành ""Quy chế quản lý và xử lý tài sản khi có quyết định tịch thu sung quỹ nhà nước và tài sản được xác lập quyền sở hữu Nhà nước"""
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,78483,78780,"Quyết định số 29/2000/QĐ-BTC Về việc sửa đổi, bổ sung một số điều của Quy chế Quản lý và xử lý tài sản khi có quyết định tịch thu sung quỹ Nhà nước  và tài sản được xác lập quyền sở hữu Nhà nước  ban hành kèm theo Quyết định số 1766/1998/QĐ-BTC ngày 07 tháng 12 năm 1998 của Bộ trưởng Bộ Tài chính"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,78800,78909,"Nghị định số 77/1998/NĐ-CP Về sửa đổi, bổ sung một số điều của Nghị định số 40/CP ngày 5/7/1996 của Chính phủ"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,78929,79039,"Nghị định số 78/1998/NĐ-CP Về bổ sung, sửa đổi một số điều của Nghị định số 49/CP ngày 26/7/1995 của Chính phủ"
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,79059,79151,Nghị định số 78-CP Về xử phạt vi phạm hành chính trong lĩnh vực bảo vệ và kiểm dịch thực vật
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,79171,79309,Nghị định số 49/CP Quy định xử phạt hành chính về hành vi vi phạm trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,79329,79429,Thông tư số 52-TC/CSTC hướng dẫn việc thu và sử dụng tiền xử phạt đối với hành vi vi phạm hành chính
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,79449,79587,"Nghị định số 88/CP Quy định về xử phạt vi phạm hành chính trong các hoạt động văn hoá, dịch vụ văn hoá và phòng chống một số tệ nạn xã hội"
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,79607,79697,Nghị định số 12/1999/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực sở hữu công nghiệp
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,79717,79883,Quyết định số 1092/QĐ-UB Về việc thành lập Hội đồng tư vấn xét duyệt đưa người có hành vi vi phạm pháp luật xâm phạm đến An ninh Quốc gia vào diện quản chế hành chính
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,79903,80005,Quyết định số 3903/QĐ-UB V/v ban hành qui định về quản lý chất thải rắn trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,80025,80118,"Nghị định số 47/2001/NĐ-CP Về chức năng, nhiệm vụ, quyền hạn và tổ chức của Thanh tra Du lịch"
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,80138,80230,Nghị định số 87/2001/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực hôn nhân và gia đình
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,80250,80345,Nghị định số 48-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực bảo vệ nguồn lợi thuỷ sản
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,80365,80473,"Nghị định số 77-CP Về xử phạt vi phạm hành chính trong lĩnh vực quản lý rừng, bảo vệ rừng và quản lý lâm sản"
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,80493,80587,Nghị định số 80/CP Quy định tổ chức và hoạt động của Thanh tra chuyên ngành giao thông vận tải
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,80607,80821,"Quyết định số 264/2006/QĐ-UBND Về việc điều chỉnh, bổ sung Quyết định số 3634/2002/QĐ-UB ngày 29 tháng 10 năm 2002 của Ủy ban nhân dân tỉnh quy định về quản lý hệ thống cung cấp và sử dụng nước máy tại tỉnh Bến Tre"
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,80841,80909,Nghị định số 22/CP Về xử phạt vi phạm hành chính trong lĩnh vực thuế
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,80929,81037,Nghị định số 20/CP Ban hành Quy chế về cơ sở chữa bệnh theo Pháp lệnh xử lý vi phạm hành chính ngày 6-7-1995
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,81057,81181,Nghị định số 49/1998/NĐ-CP Về quản lý hoạt động nghề cá của người và phương tiện nước ngoài trong các vùng biển của Việt Nam
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,81201,81321,Nghị định số 16/2000/NĐ-CP Quy định xử phạt vi phạm hành chính  trong lĩnh vực quản lý nhà nước về chuyển giao công nghệ
+ENTITY,E30_45,VB_AP_DUNG,Văn bản áp dụng,reference,81341,81487,Nghị định số 49-CP Về việc quy định xử phạt hành chính về hành vi vi phạm trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị
+ENTITY,E30_46,VB_AP_DUNG,Văn bản áp dụng,reference,81507,81620,"Quyết định số 1118/QĐ về việc ban hành các mẫu văn bản thanh tra, xử phạt vi phạm hành chính về bảo vệ môi trường"
+ENTITY,E30_47,VB_AP_DUNG,Văn bản áp dụng,reference,81640,81795,"Quyết định số 441/2002/QĐ-BTM Ban hành Quy định về sử dụng cờ hiệu Quản lý thị trường dừng phương tiện giao thông chở hàng lậu tại thị xã, huyện biên giới."
+ENTITY,E30_48,VB_AP_DUNG,Văn bản áp dụng,reference,81815,82022,"Thông tư liên tịch số 24/2001/TTLT/BTM-BVGCP Hướng dẫn việc tổ chức kiểm tra, thanh tra thực hiện Nghị định số 44/2000/NĐ-CP ngày 01/09/2000 của Chính phủ về xử phạt vi phạm hành chính trong lĩnh vực giá cả."
+ENTITY,E30_49,VB_AP_DUNG,Văn bản áp dụng,reference,82042,82121,Nghị định số 49/1999/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực kế toán
+ENTITY,E30_50,VB_AP_DUNG,Văn bản áp dụng,reference,82141,82215,Nghị định số 01/CP Về xử phạt vi phạm hành chính trong lĩnh vực thương mại
+ENTITY,E30_51,VB_AP_DUNG,Văn bản áp dụng,reference,82235,82334,Nghị định số 46-CP Quy định việc xử phạt vi phạm hành chính trong lĩnh vực quản lý Nhà nước về y tế
+ENTITY,E30_52,VB_AP_DUNG,Văn bản áp dụng,reference,82354,82428,Nghị định số 24/CP Về xử phạt vi phạm hành chính trong lĩnh vực quốc phòng
+ENTITY,E30_53,VB_AP_DUNG,Văn bản áp dụng,reference,82448,82587,Quyết định số 503/1999/QĐ-UB V/v ban hành quy định về quản lý các hoạt động kinh doanh dịch vụ tại các bãi tắm thuộc tỉnh Bà Rịa - Vũng Tàu
+ENTITY,E30_54,VB_AP_DUNG,Văn bản áp dụng,reference,82607,82739,Nghị định số 172/1999/NĐ-CP Quy định chi tiết thi hành Pháp lệnh Bảo vệ công trình giao thông đối với công trình giao thông đường bộ
+ENTITY,E30_55,VB_AP_DUNG,Văn bản áp dụng,reference,82759,82837,Nghị định số 44/2000/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực giá cả
+ENTITY,E30_56,VB_AP_DUNG,Văn bản áp dụng,reference,82857,82941,Nghị định số 38/CP Quy định xử phạt hành chính về hành vi vi phạm pháp luật lao động
+ENTITY,E30_57,VB_AP_DUNG,Văn bản áp dụng,reference,82961,83070,Nghị định số 22/2000/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán
+ENTITY,E30_58,VB_AP_DUNG,Văn bản áp dụng,reference,83090,83170,Nghị định số 93/1999/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực thống kê
+ENTITY,E30_59,VB_AP_DUNG,Văn bản áp dụng,reference,83190,83306,"Quyết định số 659/QĐ-UB Ban hành quy định tạm thời về chức năng, nhiệm vụ, quyền hạn của Đội Kiểm tra liên ngành 814"
+ENTITY,E30_60,VB_AP_DUNG,Văn bản áp dụng,reference,83326,83425,Nghị định số 19/2001/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực an toàn và kiểm soát bức xạ
+ENTITY,E30_61,VB_AP_DUNG,Văn bản áp dụng,reference,83445,83520,Nghị định số 26/CP Quy định xử phạt vi phạm hành chính về bảo vệ môi trường
+ENTITY,E30_62,VB_AP_DUNG,Văn bản áp dụng,reference,83540,83595,Nghị định số 31/CP Ban hành Quy chế quản chế hành chính
+ENTITY,E30_63,VB_AP_DUNG,Văn bản áp dụng,reference,83615,83681,Nghị định số 39/CP Về bảo đảm trật tự an toàn giao thông đường sắt
+ENTITY,E30_64,VB_AP_DUNG,Văn bản áp dụng,reference,83701,83781,Nghị định số 92/1999/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực hàng hải
+ENTITY,E30_65,VB_AP_DUNG,Văn bản áp dụng,reference,83801,83892,Nghị định số 31/2001/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực văn hoá - thông tin
+ENTITY,E30_66,VB_AP_DUNG,Văn bản áp dụng,reference,83912,84000,"Nghị định số 04/CP Về xử phạt vi phạm hành chính trong lĩnh vực quản lý, sử dụng đất đai"
+ENTITY,E30_67,VB_AP_DUNG,Văn bản áp dụng,reference,84020,84091,Quyết định số 176/2001/QĐ-TTg Về tổ chức Thanh tra Nhà nước về Bưu điện
+ENTITY,E30_68,VB_AP_DUNG,Văn bản áp dụng,reference,84111,84214,Nghị định số 81/2000/NĐ-CP Quy định chi tiết và hướng dẫn thi hành Pháp lệnh Nghĩa vụ lao động công ích
+ENTITY,E30_69,VB_AP_DUNG,Văn bản áp dụng,reference,84234,84336,Nghị định số 20/2000/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực tiền tệ và hoạt động ngân hàng
+ENTITY,E30_70,VB_AP_DUNG,Văn bản áp dụng,reference,84356,84463,"Nghị định số 19/CP Ban hành Quy chế Giáo dục tại xã, phường, thị trấn đối với những người vi phạm pháp luật"
+ENTITY,E30_71,VB_AP_DUNG,Văn bản áp dụng,reference,84483,84629,Nghị định số 39/2001/NĐ-CP Quy định xử phạt hành chính về hành vi vi phạm trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị
+ENTITY,E30_72,VB_AP_DUNG,Văn bản áp dụng,reference,84649,84799,Quyết định số 100/TC-QLCS Ban hành quy chế quản lý và xử lý tài sản khi có quyết định tịch thu sung quỹ Nhà nước và được xác lập quyền sở hữu Nhà nước
+ENTITY,E30_73,VB_AP_DUNG,Văn bản áp dụng,reference,84819,85011,"Thông tư liên tịch số 01/2006/TTLT-BLĐTBXH-BGD&ĐT-BYT Hướng dẫn công tác dạy văn hóa, giáo dục phục hồi hành vi, nhân cách cho người nghiện ma túy, người bán dâm và người sau cai nghiện ma túy"
+ENTITY,E30_74,VB_AP_DUNG,Văn bản áp dụng,reference,85031,85111,"Nghị định số 49/CP Về xử phạt vi phạm hành chính trong lĩnh vực an ninh, trật tự"
+ENTITY,E30_75,VB_AP_DUNG,Văn bản áp dụng,reference,85131,85191,Nghị định số 33/CP Ban hành Quy chế về môi trường giáo dưỡng
+ENTITY,E30_76,VB_AP_DUNG,Văn bản áp dụng,reference,85211,85363,"Quyết định số 06/2000/QĐ-UB V/v Ban hành Quy định về thẩm quyền, trình tự, thủ tục giải quyết khiếu nại, tranh chấp đất đai trên điạ bàn Tỉnh Bình Phước"
+ENTITY,E30_77,VB_AP_DUNG,Văn bản áp dụng,reference,85383,85532,Quyết định số 1727/2004/QĐ-UB V/v ban hành Bản quy chế về quản lý và tổ chức kinh doanh dịch vụ du lịch tại các bãi tắm thuộc tỉnh Bà Rịa – Vũng Tàu.
+ENTITY,E30_78,VB_AP_DUNG,Văn bản áp dụng,reference,85552,85687,"Nghị định số 79/CP Quy định xử phạt vi phạm hành chính trong lĩnh vực quản lý Nhà nước về bưu chính, viễn thông và tần số vô tuyến điện"
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,85714,85741,Bộ luật Hình sự số Không số
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,85763,85855,Nghị định số 87/2001/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực hôn nhân và gia đình
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,85877,85997,Nghị định số 16/2000/NĐ-CP Quy định xử phạt vi phạm hành chính  trong lĩnh vực quản lý nhà nước về chuyển giao công nghệ
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,86019,86110,Nghị định số 01/2001/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực hàng không dân dụng
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,86132,86232,Chỉ thị số 29/2002/CT-UB V/v Tổ chức triển khai thi hành Pháp lệnh Xử lý vi phạm hành chính năm 2002
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,86254,86403,Thông tư liên tịch số 02/1998/TTLT-TANDTC-VKSNDTC-BCA Hướng dẫn áp dụng một số quy định tại Chương VIIA “ Các tội phạm về ma túy” của Bộ luật Hình sự
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,86425,86528,Nghị định số 81/2000/NĐ-CP Quy định chi tiết và hướng dẫn thi hành Pháp lệnh Nghĩa vụ lao động công ích
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,86550,86730,Chỉ thị số 39/2000/CT-UB Về việc tăng cường công tác thanh tra kiểm tra thực hiện Nghị định 38/CP của Chính phủ về xử phạt hành chính đối với các hành vi vi phạm pháp luật lao động
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,86752,86817,Pháp lệnh số 04/1998/PL-UBTVQH10 Lực lượng cảnh sát biển Việt Nam
+ENTITY,E29_9,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,86839,86948,Chỉ thị số 28/CT.UB Về việc tăng cường thực hiện Pháp lệnh xử lý vi phạm hành chính trên địa bàn tỉnh Nghệ An
+ENTITY,E29_10,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,86970,87069,Nghị định số 19/2001/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực an toàn và kiểm soát bức xạ
+ENTITY,E29_11,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,87091,87280,Thông tư liên tịch số 10/2000/TTLT/BTM-BCA-BTC-BKHCNMT Hướng dẫn thực hiện Chỉ thị số 31/1999/CT-TTg ngày 27/10/1999 của Thủ tướng Chính phủ về đấu tranh chống sản xuất và buôn bán hàng giả
+ENTITY,E29_12,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,87302,87392,Quyết định số 16/1998/QĐ-UB V/v: Quy định tạm thời về quản lý và bảo vệ nguồn lợi thủy sản
+ENTITY,E29_13,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,87414,87627,"Quyết định số 1679/QĐ- UB-KT Về việc ban hành bản quy định về phân công, phân cấp quản lý Nhà nước đối với các doanh nghiệp thành lập theo Luật doanh nghiệp tư nhân, Luật Công ty trên địa bàn thành phố Hồ Chí Minh"
+ENTITY,E29_14,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,87649,87745,Nghị định số 69/2001/NĐ-CP Quy định chi tiết thi hành Pháp lệnh Bảo vệ quyền lợi người tiêu dùng
+ENTITY,E29_15,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,87767,88012,Nghị định số 41/2001/NĐ-CP Ban hành Quy chế phối hợp thực hiện quản lý nhà nướcvề hoạt động của Lực lượng Cảnh sát biển và việc phối hợp hoạt động giữa các lực lượng trên các vùng biển và  thềm lục địa của nước cộng hoà xã hội chủ nghĩa Việt Nam
+ENTITY,E29_16,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,88034,88156,Nghị quyết số 11/2000/NQ-CP Về một số giải pháp điều hành kế hoạch phát triển kinh tế - xã hội trong 6 tháng cuối năm 2000
+ENTITY,E29_17,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,88178,88243,Nghị định số 54/2001/NĐ-CP Hướng dẫn thi hành hình phạt trục xuất
+ENTITY,E29_18,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,88265,88367,Nghị định số 20/2000/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực tiền tệ và hoạt động ngân hàng
+ENTITY,E29_19,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,88389,88467,Nghị định số 44/2000/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực giá cả
+ENTITY,E29_20,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,88489,88718,"Thông tư liên tịch số 19/2000/TTLT/BTC-BQP Hướng dẫn tổ chức thu, nộp, quản lý và sử dụng tiền phạt vi phạm hành chính trong vùng lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa của nước CHXHCN Việt Nam."
+ENTITY,E29_21,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,88740,88914,"Nghị định số 114/2007/NĐ-CP Quy định chế độ phụ cấp đối với cán bộ, viên chức làm việc tại các cơ sở quản lý người nghiện ma tuý, người bán dâm và người sau cai nghiện ma tuý"
+ENTITY,E29_22,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,88936,89114,"Chỉ thị số 04/2003/CT-UB Về việc thực hiện các biện pháp chấn chỉnh trong công tác kê khai, kiểm kê, lập phương án bồi thường thiệt hại khi Nhà nước thu hồi đất trên địa bàn tỉnh"
+ENTITY,E29_23,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,89136,89227,Nghị định số 31/2001/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực văn hoá - thông tin
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,89282,89300,Hiến pháp năm 1992
+ENTITY,E31_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,89350,89443,"Nghị định số 47/2001/NĐ-CP Về chức năng, nhiệm vụ, quyền hạn và tổ chức của Thanh tra Du lịch"
+ENTITY,E31_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,89493,89600,"Nghị định số 19/CP Ban hành Quy chế Giáo dục tại xã, phường, thị trấn đối với những người vi phạm pháp luật"
+ENTITY,E31_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,89650,89710,Nghị định số 33/CP Ban hành Quy chế về môi trường giáo dưỡng
+ENTITY,E31_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,89760,89869,"Nghị định số 77/1998/NĐ-CP Về sửa đổi, bổ sung một số điều của Nghị định số 40/CP ngày 5/7/1996 của Chính phủ"
+ENTITY,E31_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,89919,90053,"Quyết định số 511/1999/QĐ-BCA(V26) Về việc ban hành quy chế về phòng, chống HIV/AIDS trong trại giam,cơ sở giáo dục, trường giáo dưỡng"
+ENTITY,E31_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,90103,90249,Nghị định số 49-CP Về việc quy định xử phạt hành chính về hành vi vi phạm trật tự an toàn giao thông đường bộ và trật tự an toàn giao thông đô thị
+ENTITY,E31_7,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,90299,90491,"Quyết định số 1766/1998/QĐ-BTC Của Bộ trưởng Bộ Tài chính ban hành ""Quy chế quản lý và xử lý tài sản khi có quyết định tịch thu sung quỹ nhà nước và tài sản được xác lập quyền sở hữu Nhà nước"""
+ENTITY,E31_8,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,90541,90633,Nghị định số 87/2001/NĐ-CP Về xử phạt vi phạm hành chính trong lĩnh vực hôn nhân và gia đình
+ENTITY,E31_9,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,90683,90783,Thông tư số 52-TC/CSTC hướng dẫn việc thu và sử dụng tiền xử phạt đối với hành vi vi phạm hành chính
+ENTITY,E31_10,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,90833,91025,"Thông tư liên tịch số 01/2006/TTLT-BLĐTBXH-BGD&ĐT-BYT Hướng dẫn công tác dạy văn hóa, giáo dục phục hồi hành vi, nhân cách cho người nghiện ma túy, người bán dâm và người sau cai nghiện ma túy"
+ENTITY,E31_11,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,91075,91372,"Quyết định số 29/2000/QĐ-BTC Về việc sửa đổi, bổ sung một số điều của Quy chế Quản lý và xử lý tài sản khi có quyết định tịch thu sung quỹ Nhà nước  và tài sản được xác lập quyền sở hữu Nhà nước  ban hành kèm theo Quyết định số 1766/1998/QĐ-BTC ngày 07 tháng 12 năm 1998 của Bộ trưởng Bộ Tài chính"
+ENTITY,E31_12,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,91422,91535,"Quyết định số 1118/QĐ về việc ban hành các mẫu văn bản thanh tra, xử phạt vi phạm hành chính về bảo vệ môi trường"
+ENTITY,E33_1,VB_DUOC_THAY_THE,Văn bản được thay thế,reference,91561,91613,Pháp lệnh số 28-LCT/HĐNN8 Xử phạt vi phạm hành chính
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,91634,91691,Pháp lệnh số 44/2002/PL-UBTVQH10 Xử lý vi phạm hành chính
+RELATION,RTHUOC_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,RTHUOC_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,RTHUOC_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,RTHUOC_4,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,RTHUOC_5,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,RTHUOC_6,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,RTHUOC_7,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,RTHUOC_8,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,RTHUOC_9,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,RTHUOC_10,THUOC,Thuộc,E38_10,E35_1,,
+RELATION,RTHUOC_11,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,RTHUOC_12,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,RTHUOC_13,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,RTHUOC_14,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,RTHUOC_15,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,RTHUOC_16,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,RTHUOC_17,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,RTHUOC_18,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,RTHUOC_19,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,RTHUOC_20,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,RTHUOC_21,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,RTHUOC_22,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,RTHUOC_23,THUOC,Thuộc,E38_23,E35_3,,
+RELATION,RTHUOC_24,THUOC,Thuộc,E38_24,E35_3,,
+RELATION,RTHUOC_25,THUOC,Thuộc,E38_25,E35_3,,
+RELATION,RTHUOC_26,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,RTHUOC_27,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,RTHUOC_28,THUOC,Thuộc,E38_28,E35_4,,
+RELATION,RTHUOC_29,THUOC,Thuộc,E38_29,E35_4,,
+RELATION,RTHUOC_30,THUOC,Thuộc,E38_30,E35_4,,
+RELATION,RTHUOC_31,THUOC,Thuộc,E38_31,E35_4,,
+RELATION,RTHUOC_32,THUOC,Thuộc,E38_32,E35_4,,
+RELATION,RTHUOC_33,THUOC,Thuộc,E38_33,E35_4,,
+RELATION,RTHUOC_34,THUOC,Thuộc,E38_34,E35_4,,
+RELATION,RTHUOC_35,THUOC,Thuộc,E38_35,E35_4,,
+RELATION,RTHUOC_36,THUOC,Thuộc,E38_36,E35_4,,
+RELATION,RTHUOC_37,THUOC,Thuộc,E38_37,E35_4,,
+RELATION,RTHUOC_38,THUOC,Thuộc,E38_38,E35_5,,
+RELATION,RTHUOC_39,THUOC,Thuộc,E38_39,E35_5,,
+RELATION,RTHUOC_40,THUOC,Thuộc,E38_40,E35_5,,
+RELATION,RTHUOC_41,THUOC,Thuộc,E38_41,E35_5,,
+RELATION,RTHUOC_42,THUOC,Thuộc,E38_42,E35_5,,
+RELATION,RTHUOC_43,THUOC,Thuộc,E38_43,E35_5,,
+RELATION,RTHUOC_44,THUOC,Thuộc,E38_44,E35_5,,
+RELATION,RTHUOC_45,THUOC,Thuộc,E38_45,E35_6,,
+RELATION,RTHUOC_46,THUOC,Thuộc,E38_46,E35_6,,
+RELATION,RTHUOC_47,THUOC,Thuộc,E38_47,E35_6,,
+RELATION,RTHUOC_48,THUOC,Thuộc,E38_48,E35_6,,
+RELATION,RTHUOC_49,THUOC,Thuộc,E38_49,E35_6,,
+RELATION,RTHUOC_50,THUOC,Thuộc,E38_50,E35_6,,
+RELATION,RTHUOC_51,THUOC,Thuộc,E38_51,E35_6,,
+RELATION,RTHUOC_52,THUOC,Thuộc,E38_52,E35_6,,
+RELATION,RTHUOC_53,THUOC,Thuộc,E38_53,E35_6,,
+RELATION,RTHUOC_54,THUOC,Thuộc,E38_54,E35_6,,
+RELATION,RTHUOC_55,THUOC,Thuộc,E38_55,E35_6,,
+RELATION,RTHUOC_56,THUOC,Thuộc,E38_56,E35_6,,
+RELATION,RTHUOC_57,THUOC,Thuộc,E38_57,E35_7,,
+RELATION,RTHUOC_58,THUOC,Thuộc,E38_58,E35_7,,
+RELATION,RTHUOC_59,THUOC,Thuộc,E38_59,E35_7,,
+RELATION,RTHUOC_60,THUOC,Thuộc,E38_60,E35_7,,
+RELATION,RTHUOC_61,THUOC,Thuộc,E38_61,E35_7,,
+RELATION,RTHUOC_62,THUOC,Thuộc,E38_62,E35_7,,
+RELATION,RTHUOC_63,THUOC,Thuộc,E38_63,E35_7,,
+RELATION,RTHUOC_64,THUOC,Thuộc,E38_64,E35_7,,
+RELATION,RTHUOC_65,THUOC,Thuộc,E38_65,E35_7,,
+RELATION,RTHUOC_66,THUOC,Thuộc,E38_66,E35_7,,
+RELATION,RTHUOC_67,THUOC,Thuộc,E38_67,E35_7,,
+RELATION,RTHUOC_68,THUOC,Thuộc,E38_68,E35_7,,
+RELATION,RTHUOC_69,THUOC,Thuộc,E38_69,E35_7,,
+RELATION,RTHUOC_70,THUOC,Thuộc,E38_70,E35_7,,
+RELATION,RTHUOC_71,THUOC,Thuộc,E38_71,E35_7,,
+RELATION,RTHUOC_72,THUOC,Thuộc,E38_72,E35_7,,
+RELATION,RTHUOC_73,THUOC,Thuộc,E38_73,E35_7,,
+RELATION,RTHUOC_74,THUOC,Thuộc,E38_74,E35_7,,
+RELATION,RTHUOC_75,THUOC,Thuộc,E38_75,E35_7,,
+RELATION,RTHUOC_76,THUOC,Thuộc,E38_76,E35_7,,
+RELATION,RTHUOC_77,THUOC,Thuộc,E38_77,E35_7,,
+RELATION,RTHUOC_78,THUOC,Thuộc,E38_78,E35_7,,
+RELATION,RTHUOC_79,THUOC,Thuộc,E38_79,E35_7,,
+RELATION,RTHUOC_80,THUOC,Thuộc,E38_80,E35_7,,
+RELATION,RTHUOC_81,THUOC,Thuộc,E38_81,E35_7,,
+RELATION,RTHUOC_82,THUOC,Thuộc,E38_82,E35_7,,
+RELATION,RTHUOC_83,THUOC,Thuộc,E38_83,E35_7,,
+RELATION,RTHUOC_84,THUOC,Thuộc,E38_84,E35_7,,
+RELATION,RTHUOC_85,THUOC,Thuộc,E38_85,E35_7,,
+RELATION,RTHUOC_86,THUOC,Thuộc,E38_86,E35_7,,
+RELATION,RTHUOC_87,THUOC,Thuộc,E38_87,E35_8,,
+RELATION,RTHUOC_88,THUOC,Thuộc,E38_88,E35_8,,
+RELATION,RTHUOC_89,THUOC,Thuộc,E38_89,E35_8,,
+RELATION,RTHUOC_90,THUOC,Thuộc,E38_90,E35_8,,
+RELATION,RTHUOC_91,THUOC,Thuộc,E38_91,E35_9,,
+RELATION,RTHUOC_92,THUOC,Thuộc,E38_92,E35_9,,
+RELATION,RTHUOC_93,THUOC,Thuộc,E38_93,E35_10,,
+RELATION,RTHUOC_94,THUOC,Thuộc,E38_94,E35_10,,
+RELATION,RTHUOC_95,THUOC,Thuộc,E38_95,E35_10,,
+RELATION,RTHUOC_96,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,RTHUOC_97,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,RTHUOC_98,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,RTHUOC_99,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,RTHUOC_100,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,RTHUOC_101,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,RTHUOC_102,THUOC,Thuộc,E39_7,E38_3,,
+RELATION,RTHUOC_103,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,RTHUOC_104,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,RTHUOC_105,THUOC,Thuộc,E39_10,E38_4,,
+RELATION,RTHUOC_106,THUOC,Thuộc,E39_11,E38_4,,
+RELATION,RTHUOC_107,THUOC,Thuộc,E39_12,E38_4,,
+RELATION,RTHUOC_108,THUOC,Thuộc,E39_13,E38_4,,
+RELATION,RTHUOC_109,THUOC,Thuộc,E39_14,E38_5,,
+RELATION,RTHUOC_110,THUOC,Thuộc,E39_15,E38_5,,
+RELATION,RTHUOC_111,THUOC,Thuộc,E39_16,E38_6,,
+RELATION,RTHUOC_112,THUOC,Thuộc,E39_17,E38_6,,
+RELATION,RTHUOC_113,THUOC,Thuộc,E39_18,E38_6,,
+RELATION,RTHUOC_114,THUOC,Thuộc,E39_19,E38_6,,
+RELATION,RTHUOC_115,THUOC,Thuộc,E39_20,E38_7,,
+RELATION,RTHUOC_116,THUOC,Thuộc,E39_21,E38_7,,
+RELATION,RTHUOC_117,THUOC,Thuộc,E39_22,E38_7,,
+RELATION,RTHUOC_118,THUOC,Thuộc,E39_23,E38_7,,
+RELATION,RTHUOC_119,THUOC,Thuộc,E39_24,E38_7,,
+RELATION,RTHUOC_120,THUOC,Thuộc,E39_25,E38_8,,
+RELATION,RTHUOC_121,THUOC,Thuộc,E39_26,E38_8,,
+RELATION,RTHUOC_122,THUOC,Thuộc,E39_27,E38_8,,
+RELATION,RTHUOC_123,THUOC,Thuộc,E39_28,E38_8,,
+RELATION,RTHUOC_124,THUOC,Thuộc,E39_29,E38_8,,
+RELATION,RTHUOC_125,THUOC,Thuộc,E39_30,E38_8,,
+RELATION,RTHUOC_126,THUOC,Thuộc,E39_31,E38_8,,
+RELATION,RTHUOC_127,THUOC,Thuộc,E39_32,E38_8,,
+RELATION,RTHUOC_128,THUOC,Thuộc,E39_33,E38_9,,
+RELATION,RTHUOC_129,THUOC,Thuộc,E39_34,E38_9,,
+RELATION,RTHUOC_130,THUOC,Thuộc,E39_35,E38_9,,
+RELATION,RTHUOC_131,THUOC,Thuộc,E39_36,E38_10,,
+RELATION,RTHUOC_132,THUOC,Thuộc,E39_37,E38_10,,
+RELATION,RTHUOC_133,THUOC,Thuộc,E39_38,E38_11,,
+RELATION,RTHUOC_134,THUOC,Thuộc,E39_39,E38_11,,
+RELATION,RTHUOC_135,THUOC,Thuộc,E39_40,E38_11,,
+RELATION,RTHUOC_136,THUOC,Thuộc,E39_41,E38_11,,
+RELATION,RTHUOC_137,THUOC,Thuộc,E39_42,E38_13,,
+RELATION,RTHUOC_138,THUOC,Thuộc,E39_43,E38_20,,
+RELATION,RTHUOC_139,THUOC,Thuộc,E39_44,E38_20,,
+RELATION,RTHUOC_140,THUOC,Thuộc,E39_45,E38_22,,
+RELATION,RTHUOC_141,THUOC,Thuộc,E39_46,E38_22,,
+RELATION,RTHUOC_142,THUOC,Thuộc,E39_47,E38_22,,
+RELATION,RTHUOC_143,THUOC,Thuộc,E39_48,E38_23,,
+RELATION,RTHUOC_144,THUOC,Thuộc,E39_49,E38_23,,
+RELATION,RTHUOC_145,THUOC,Thuộc,E39_50,E38_23,,
+RELATION,RTHUOC_146,THUOC,Thuộc,E39_51,E38_24,,
+RELATION,RTHUOC_147,THUOC,Thuộc,E39_52,E38_24,,
+RELATION,RTHUOC_148,THUOC,Thuộc,E39_53,E38_24,,
+RELATION,RTHUOC_149,THUOC,Thuộc,E39_54,E38_25,,
+RELATION,RTHUOC_150,THUOC,Thuộc,E39_55,E38_25,,
+RELATION,RTHUOC_151,THUOC,Thuộc,E39_56,E38_25,,
+RELATION,RTHUOC_152,THUOC,Thuộc,E39_57,E38_25,,
+RELATION,RTHUOC_153,THUOC,Thuộc,E39_58,E38_29,,
+RELATION,RTHUOC_154,THUOC,Thuộc,E39_59,E38_29,,
+RELATION,RTHUOC_155,THUOC,Thuộc,E39_60,E38_29,,
+RELATION,RTHUOC_156,THUOC,Thuộc,E39_61,E38_29,,
+RELATION,RTHUOC_157,THUOC,Thuộc,E39_62,E38_29,,
+RELATION,RTHUOC_158,THUOC,Thuộc,E39_63,E38_29,,
+RELATION,RTHUOC_159,THUOC,Thuộc,E39_64,E38_29,,
+RELATION,RTHUOC_160,THUOC,Thuộc,E39_65,E38_30,,
+RELATION,RTHUOC_161,THUOC,Thuộc,E39_66,E38_30,,
+RELATION,RTHUOC_162,THUOC,Thuộc,E39_67,E38_30,,
+RELATION,RTHUOC_163,THUOC,Thuộc,E39_68,E38_31,,
+RELATION,RTHUOC_164,THUOC,Thuộc,E39_69,E38_31,,
+RELATION,RTHUOC_165,THUOC,Thuộc,E39_70,E38_31,,
+RELATION,RTHUOC_166,THUOC,Thuộc,E39_71,E38_31,,
+RELATION,RTHUOC_167,THUOC,Thuộc,E39_72,E38_31,,
+RELATION,RTHUOC_168,THUOC,Thuộc,E39_73,E38_32,,
+RELATION,RTHUOC_169,THUOC,Thuộc,E39_74,E38_32,,
+RELATION,RTHUOC_170,THUOC,Thuộc,E39_75,E38_32,,
+RELATION,RTHUOC_171,THUOC,Thuộc,E39_76,E38_32,,
+RELATION,RTHUOC_172,THUOC,Thuộc,E39_77,E38_33,,
+RELATION,RTHUOC_173,THUOC,Thuộc,E39_78,E38_33,,
+RELATION,RTHUOC_174,THUOC,Thuộc,E39_79,E38_33,,
+RELATION,RTHUOC_175,THUOC,Thuộc,E39_80,E38_33,,
+RELATION,RTHUOC_176,THUOC,Thuộc,E39_81,E38_34,,
+RELATION,RTHUOC_177,THUOC,Thuộc,E39_82,E38_34,,
+RELATION,RTHUOC_178,THUOC,Thuộc,E39_83,E38_34,,
+RELATION,RTHUOC_179,THUOC,Thuộc,E39_84,E38_35,,
+RELATION,RTHUOC_180,THUOC,Thuộc,E39_85,E38_35,,
+RELATION,RTHUOC_181,THUOC,Thuộc,E39_86,E38_35,,
+RELATION,RTHUOC_182,THUOC,Thuộc,E39_87,E38_37,,
+RELATION,RTHUOC_183,THUOC,Thuộc,E39_88,E38_37,,
+RELATION,RTHUOC_184,THUOC,Thuộc,E39_89,E38_37,,
+RELATION,RTHUOC_185,THUOC,Thuộc,E39_90,E38_39,,
+RELATION,RTHUOC_186,THUOC,Thuộc,E39_91,E38_39,,
+RELATION,RTHUOC_187,THUOC,Thuộc,E39_92,E38_39,,
+RELATION,RTHUOC_188,THUOC,Thuộc,E39_93,E38_39,,
+RELATION,RTHUOC_189,THUOC,Thuộc,E39_94,E38_39,,
+RELATION,RTHUOC_190,THUOC,Thuộc,E39_95,E38_41,,
+RELATION,RTHUOC_191,THUOC,Thuộc,E39_96,E38_41,,
+RELATION,RTHUOC_192,THUOC,Thuộc,E39_97,E38_41,,
+RELATION,RTHUOC_193,THUOC,Thuộc,E39_98,E38_41,,
+RELATION,RTHUOC_194,THUOC,Thuộc,E39_99,E38_41,,
+RELATION,RTHUOC_195,THUOC,Thuộc,E39_100,E38_41,,
+RELATION,RTHUOC_196,THUOC,Thuộc,E39_101,E38_42,,
+RELATION,RTHUOC_197,THUOC,Thuộc,E39_102,E38_42,,
+RELATION,RTHUOC_198,THUOC,Thuộc,E39_103,E38_42,,
+RELATION,RTHUOC_199,THUOC,Thuộc,E39_104,E38_42,,
+RELATION,RTHUOC_200,THUOC,Thuộc,E39_105,E38_43,,
+RELATION,RTHUOC_201,THUOC,Thuộc,E39_106,E38_43,,
+RELATION,RTHUOC_202,THUOC,Thuộc,E39_107,E38_43,,
+RELATION,RTHUOC_203,THUOC,Thuộc,E39_108,E38_43,,
+RELATION,RTHUOC_204,THUOC,Thuộc,E39_109,E38_44,,
+RELATION,RTHUOC_205,THUOC,Thuộc,E39_110,E38_44,,
+RELATION,RTHUOC_206,THUOC,Thuộc,E39_111,E38_44,,
+RELATION,RTHUOC_207,THUOC,Thuộc,E39_112,E38_44,,
+RELATION,RTHUOC_208,THUOC,Thuộc,E39_113,E38_44,,
+RELATION,RTHUOC_209,THUOC,Thuộc,E39_114,E38_47,,
+RELATION,RTHUOC_210,THUOC,Thuộc,E39_115,E38_47,,
+RELATION,RTHUOC_211,THUOC,Thuộc,E39_116,E38_47,,
+RELATION,RTHUOC_212,THUOC,Thuộc,E39_117,E38_47,,
+RELATION,RTHUOC_213,THUOC,Thuộc,E39_118,E38_48,,
+RELATION,RTHUOC_214,THUOC,Thuộc,E39_119,E38_48,,
+RELATION,RTHUOC_215,THUOC,Thuộc,E39_120,E38_48,,
+RELATION,RTHUOC_216,THUOC,Thuộc,E39_121,E38_48,,
+RELATION,RTHUOC_217,THUOC,Thuộc,E39_122,E38_49,,
+RELATION,RTHUOC_218,THUOC,Thuộc,E39_123,E38_49,,
+RELATION,RTHUOC_219,THUOC,Thuộc,E39_124,E38_49,,
+RELATION,RTHUOC_220,THUOC,Thuộc,E39_125,E38_49,,
+RELATION,RTHUOC_221,THUOC,Thuộc,E39_126,E38_49,,
+RELATION,RTHUOC_222,THUOC,Thuộc,E39_127,E38_49,,
+RELATION,RTHUOC_223,THUOC,Thuộc,E39_128,E38_50,,
+RELATION,RTHUOC_224,THUOC,Thuộc,E39_129,E38_50,,
+RELATION,RTHUOC_225,THUOC,Thuộc,E39_130,E38_50,,
+RELATION,RTHUOC_226,THUOC,Thuộc,E39_131,E38_51,,
+RELATION,RTHUOC_227,THUOC,Thuộc,E39_132,E38_52,,
+RELATION,RTHUOC_228,THUOC,Thuộc,E39_133,E38_52,,
+RELATION,RTHUOC_229,THUOC,Thuộc,E39_134,E38_52,,
+RELATION,RTHUOC_230,THUOC,Thuộc,E39_135,E38_52,,
+RELATION,RTHUOC_231,THUOC,Thuộc,E39_136,E38_54,,
+RELATION,RTHUOC_232,THUOC,Thuộc,E39_137,E38_54,,
+RELATION,RTHUOC_233,THUOC,Thuộc,E39_138,E38_54,,
+RELATION,RTHUOC_234,THUOC,Thuộc,E39_139,E38_55,,
+RELATION,RTHUOC_235,THUOC,Thuộc,E39_140,E38_55,,
+RELATION,RTHUOC_236,THUOC,Thuộc,E39_141,E38_55,,
+RELATION,RTHUOC_237,THUOC,Thuộc,E39_142,E38_55,,
+RELATION,RTHUOC_238,THUOC,Thuộc,E39_143,E38_55,,
+RELATION,RTHUOC_239,THUOC,Thuộc,E39_144,E38_57,,
+RELATION,RTHUOC_240,THUOC,Thuộc,E39_145,E38_57,,
+RELATION,RTHUOC_241,THUOC,Thuộc,E39_146,E38_57,,
+RELATION,RTHUOC_242,THUOC,Thuộc,E39_147,E38_60,,
+RELATION,RTHUOC_243,THUOC,Thuộc,E39_148,E38_60,,
+RELATION,RTHUOC_244,THUOC,Thuộc,E39_149,E38_60,,
+RELATION,RTHUOC_245,THUOC,Thuộc,E39_150,E38_61,,
+RELATION,RTHUOC_246,THUOC,Thuộc,E39_151,E38_61,,
+RELATION,RTHUOC_247,THUOC,Thuộc,E39_152,E38_61,,
+RELATION,RTHUOC_248,THUOC,Thuộc,E39_153,E38_61,,
+RELATION,RTHUOC_249,THUOC,Thuộc,E39_154,E38_63,,
+RELATION,RTHUOC_250,THUOC,Thuộc,E39_155,E38_63,,
+RELATION,RTHUOC_251,THUOC,Thuộc,E39_156,E38_64,,
+RELATION,RTHUOC_252,THUOC,Thuộc,E39_157,E38_64,,
+RELATION,RTHUOC_253,THUOC,Thuộc,E39_158,E38_64,,
+RELATION,RTHUOC_254,THUOC,Thuộc,E39_159,E38_65,,
+RELATION,RTHUOC_255,THUOC,Thuộc,E39_160,E38_65,,
+RELATION,RTHUOC_256,THUOC,Thuộc,E39_161,E38_65,,
+RELATION,RTHUOC_257,THUOC,Thuộc,E39_162,E38_67,,
+RELATION,RTHUOC_258,THUOC,Thuộc,E39_163,E38_67,,
+RELATION,RTHUOC_259,THUOC,Thuộc,E39_164,E38_67,,
+RELATION,RTHUOC_260,THUOC,Thuộc,E39_165,E38_68,,
+RELATION,RTHUOC_261,THUOC,Thuộc,E39_166,E38_68,,
+RELATION,RTHUOC_262,THUOC,Thuộc,E39_167,E38_68,,
+RELATION,RTHUOC_263,THUOC,Thuộc,E39_168,E38_70,,
+RELATION,RTHUOC_264,THUOC,Thuộc,E39_169,E38_70,,
+RELATION,RTHUOC_265,THUOC,Thuộc,E39_170,E38_71,,
+RELATION,RTHUOC_266,THUOC,Thuộc,E39_171,E38_71,,
+RELATION,RTHUOC_267,THUOC,Thuộc,E39_172,E38_71,,
+RELATION,RTHUOC_268,THUOC,Thuộc,E39_173,E38_72,,
+RELATION,RTHUOC_269,THUOC,Thuộc,E39_174,E38_72,,
+RELATION,RTHUOC_270,THUOC,Thuộc,E39_175,E38_72,,
+RELATION,RTHUOC_271,THUOC,Thuộc,E39_176,E38_74,,
+RELATION,RTHUOC_272,THUOC,Thuộc,E39_177,E38_74,,
+RELATION,RTHUOC_273,THUOC,Thuộc,E39_178,E38_74,,
+RELATION,RTHUOC_274,THUOC,Thuộc,E39_179,E38_75,,
+RELATION,RTHUOC_275,THUOC,Thuộc,E39_180,E38_75,,
+RELATION,RTHUOC_276,THUOC,Thuộc,E39_181,E38_75,,
+RELATION,RTHUOC_277,THUOC,Thuộc,E39_182,E38_75,,
+RELATION,RTHUOC_278,THUOC,Thuộc,E39_183,E38_77,,
+RELATION,RTHUOC_279,THUOC,Thuộc,E39_184,E38_79,,
+RELATION,RTHUOC_280,THUOC,Thuộc,E39_185,E38_79,,
+RELATION,RTHUOC_281,THUOC,Thuộc,E39_186,E38_79,,
+RELATION,RTHUOC_282,THUOC,Thuộc,E39_187,E38_80,,
+RELATION,RTHUOC_283,THUOC,Thuộc,E39_188,E38_80,,
+RELATION,RTHUOC_284,THUOC,Thuộc,E39_189,E38_80,,
+RELATION,RTHUOC_285,THUOC,Thuộc,E39_190,E38_80,,
+RELATION,RTHUOC_286,THUOC,Thuộc,E39_191,E38_82,,
+RELATION,RTHUOC_287,THUOC,Thuộc,E39_192,E38_82,,
+RELATION,RTHUOC_288,THUOC,Thuộc,E39_193,E38_83,,
+RELATION,RTHUOC_289,THUOC,Thuộc,E39_194,E38_83,,
+RELATION,RTHUOC_290,THUOC,Thuộc,E39_195,E38_85,,
+RELATION,RTHUOC_291,THUOC,Thuộc,E39_196,E38_85,,
+RELATION,RTHUOC_292,THUOC,Thuộc,E39_197,E38_87,,
+RELATION,RTHUOC_293,THUOC,Thuộc,E39_198,E38_87,,
+RELATION,RTHUOC_294,THUOC,Thuộc,E39_199,E38_88,,
+RELATION,RTHUOC_295,THUOC,Thuộc,E39_200,E38_88,,
+RELATION,RTHUOC_296,THUOC,Thuộc,E39_201,E38_88,,
+RELATION,RTHUOC_297,THUOC,Thuộc,E39_202,E38_88,,
+RELATION,RTHUOC_298,THUOC,Thuộc,E39_203,E38_89,,
+RELATION,RTHUOC_299,THUOC,Thuộc,E39_204,E38_89,,
+RELATION,RTHUOC_300,THUOC,Thuộc,E39_205,E38_89,,
+RELATION,RTHUOC_301,THUOC,Thuộc,E39_206,E38_90,,
+RELATION,RTHUOC_302,THUOC,Thuộc,E39_207,E38_90,,
+RELATION,RTHUOC_303,THUOC,Thuộc,E39_208,E38_91,,
+RELATION,RTHUOC_304,THUOC,Thuộc,E40_1,E38_5,,
+RELATION,RTHUOC_305,THUOC,Thuộc,E40_2,E38_5,,
+RELATION,RTHUOC_306,THUOC,Thuộc,E40_3,E38_5,,
+RELATION,RTHUOC_307,THUOC,Thuộc,E40_4,E38_5,,
+RELATION,RTHUOC_308,THUOC,Thuộc,E40_5,E38_11,,
+RELATION,RTHUOC_309,THUOC,Thuộc,E40_6,E38_11,,
+RELATION,RTHUOC_310,THUOC,Thuộc,E40_7,E38_11,,
+RELATION,RTHUOC_311,THUOC,Thuộc,E40_8,E38_11,,
+RELATION,RTHUOC_312,THUOC,Thuộc,E40_9,E38_11,,
+RELATION,RTHUOC_313,THUOC,Thuộc,E40_10,E38_11,,
+RELATION,RTHUOC_314,THUOC,Thuộc,E40_11,E38_11,,
+RELATION,RTHUOC_315,THUOC,Thuộc,E40_12,E38_11,,
+RELATION,RTHUOC_316,THUOC,Thuộc,E40_13,E38_20,,
+RELATION,RTHUOC_317,THUOC,Thuộc,E40_14,E38_20,,
+RELATION,RTHUOC_318,THUOC,Thuộc,E40_15,E38_20,,
+RELATION,RTHUOC_319,THUOC,Thuộc,E40_16,E38_20,,
+RELATION,RTHUOC_320,THUOC,Thuộc,E40_17,E38_20,,
+RELATION,RTHUOC_321,THUOC,Thuộc,E40_18,E38_22,,
+RELATION,RTHUOC_322,THUOC,Thuộc,E40_19,E38_22,,
+RELATION,RTHUOC_323,THUOC,Thuộc,E40_20,E38_22,,
+RELATION,RTHUOC_324,THUOC,Thuộc,E40_21,E38_26,,
+RELATION,RTHUOC_325,THUOC,Thuộc,E40_22,E38_26,,
+RELATION,RTHUOC_326,THUOC,Thuộc,E40_23,E38_26,,
+RELATION,RTHUOC_327,THUOC,Thuộc,E40_24,E38_26,,
+RELATION,RTHUOC_328,THUOC,Thuộc,E40_25,E38_26,,
+RELATION,RTHUOC_329,THUOC,Thuộc,E40_26,E38_26,,
+RELATION,RTHUOC_330,THUOC,Thuộc,E40_27,E38_26,,
+RELATION,RTHUOC_331,THUOC,Thuộc,E40_28,E38_26,,
+RELATION,RTHUOC_332,THUOC,Thuộc,E40_29,E38_27,,
+RELATION,RTHUOC_333,THUOC,Thuộc,E40_30,E38_27,,
+RELATION,RTHUOC_334,THUOC,Thuộc,E40_31,E38_27,,
+RELATION,RTHUOC_335,THUOC,Thuộc,E40_32,E38_28,,
+RELATION,RTHUOC_336,THUOC,Thuộc,E40_33,E38_28,,
+RELATION,RTHUOC_337,THUOC,Thuộc,E40_34,E38_28,,
+RELATION,RTHUOC_338,THUOC,Thuộc,E40_35,E38_28,,
+RELATION,RTHUOC_339,THUOC,Thuộc,E40_36,E38_28,,
+RELATION,RTHUOC_340,THUOC,Thuộc,E40_37,E38_28,,
+RELATION,RTHUOC_341,THUOC,Thuộc,E40_38,E38_28,,
+RELATION,RTHUOC_342,THUOC,Thuộc,E40_39,E38_29,,
+RELATION,RTHUOC_343,THUOC,Thuộc,E40_40,E38_29,,
+RELATION,RTHUOC_344,THUOC,Thuộc,E40_41,E38_29,,
+RELATION,RTHUOC_345,THUOC,Thuộc,E40_42,E38_29,,
+RELATION,RTHUOC_346,THUOC,Thuộc,E40_43,E38_29,,
+RELATION,RTHUOC_347,THUOC,Thuộc,E40_44,E38_29,,
+RELATION,RTHUOC_348,THUOC,Thuộc,E40_45,E38_29,,
+RELATION,RTHUOC_349,THUOC,Thuộc,E40_46,E38_29,,
+RELATION,RTHUOC_350,THUOC,Thuộc,E40_47,E38_29,,
+RELATION,RTHUOC_351,THUOC,Thuộc,E40_48,E38_29,,
+RELATION,RTHUOC_352,THUOC,Thuộc,E40_49,E38_29,,
+RELATION,RTHUOC_353,THUOC,Thuộc,E40_50,E38_29,,
+RELATION,RTHUOC_354,THUOC,Thuộc,E40_51,E38_29,,
+RELATION,RTHUOC_355,THUOC,Thuộc,E40_52,E38_29,,
+RELATION,RTHUOC_356,THUOC,Thuộc,E40_53,E38_29,,
+RELATION,RTHUOC_357,THUOC,Thuộc,E40_54,E38_29,,
+RELATION,RTHUOC_358,THUOC,Thuộc,E40_55,E38_29,,
+RELATION,RTHUOC_359,THUOC,Thuộc,E40_56,E38_30,,
+RELATION,RTHUOC_360,THUOC,Thuộc,E40_57,E38_30,,
+RELATION,RTHUOC_361,THUOC,Thuộc,E40_58,E38_30,,
+RELATION,RTHUOC_362,THUOC,Thuộc,E40_59,E38_30,,
+RELATION,RTHUOC_363,THUOC,Thuộc,E40_60,E38_30,,
+RELATION,RTHUOC_364,THUOC,Thuộc,E40_61,E38_30,,
+RELATION,RTHUOC_365,THUOC,Thuộc,E40_62,E38_30,,
+RELATION,RTHUOC_366,THUOC,Thuộc,E40_63,E38_30,,
+RELATION,RTHUOC_367,THUOC,Thuộc,E40_64,E38_31,,
+RELATION,RTHUOC_368,THUOC,Thuộc,E40_65,E38_31,,
+RELATION,RTHUOC_369,THUOC,Thuộc,E40_66,E38_31,,
+RELATION,RTHUOC_370,THUOC,Thuộc,E40_67,E38_31,,
+RELATION,RTHUOC_371,THUOC,Thuộc,E40_68,E38_31,,
+RELATION,RTHUOC_372,THUOC,Thuộc,E40_69,E38_31,,
+RELATION,RTHUOC_373,THUOC,Thuộc,E40_70,E38_31,,
+RELATION,RTHUOC_374,THUOC,Thuộc,E40_71,E38_31,,
+RELATION,RTHUOC_375,THUOC,Thuộc,E40_72,E38_31,,
+RELATION,RTHUOC_376,THUOC,Thuộc,E40_73,E38_31,,
+RELATION,RTHUOC_377,THUOC,Thuộc,E40_74,E38_31,,
+RELATION,RTHUOC_378,THUOC,Thuộc,E40_75,E38_31,,
+RELATION,RTHUOC_379,THUOC,Thuộc,E40_76,E38_31,,
+RELATION,RTHUOC_380,THUOC,Thuộc,E40_77,E38_31,,
+RELATION,RTHUOC_381,THUOC,Thuộc,E40_78,E38_32,,
+RELATION,RTHUOC_382,THUOC,Thuộc,E40_79,E38_32,,
+RELATION,RTHUOC_383,THUOC,Thuộc,E40_80,E38_32,,
+RELATION,RTHUOC_384,THUOC,Thuộc,E40_81,E38_32,,
+RELATION,RTHUOC_385,THUOC,Thuộc,E40_82,E38_32,,
+RELATION,RTHUOC_386,THUOC,Thuộc,E40_83,E38_32,,
+RELATION,RTHUOC_387,THUOC,Thuộc,E40_84,E38_32,,
+RELATION,RTHUOC_388,THUOC,Thuộc,E40_85,E38_32,,
+RELATION,RTHUOC_389,THUOC,Thuộc,E40_86,E38_32,,
+RELATION,RTHUOC_390,THUOC,Thuộc,E40_87,E38_32,,
+RELATION,RTHUOC_391,THUOC,Thuộc,E40_88,E38_33,,
+RELATION,RTHUOC_392,THUOC,Thuộc,E40_89,E38_33,,
+RELATION,RTHUOC_393,THUOC,Thuộc,E40_90,E38_33,,
+RELATION,RTHUOC_394,THUOC,Thuộc,E40_91,E38_33,,
+RELATION,RTHUOC_395,THUOC,Thuộc,E40_92,E38_33,,
+RELATION,RTHUOC_396,THUOC,Thuộc,E40_93,E38_33,,
+RELATION,RTHUOC_397,THUOC,Thuộc,E40_94,E38_33,,
+RELATION,RTHUOC_398,THUOC,Thuộc,E40_95,E38_33,,
+RELATION,RTHUOC_399,THUOC,Thuộc,E40_96,E38_33,,
+RELATION,RTHUOC_400,THUOC,Thuộc,E40_97,E38_33,,
+RELATION,RTHUOC_401,THUOC,Thuộc,E40_98,E38_33,,
+RELATION,RTHUOC_402,THUOC,Thuộc,E40_99,E38_34,,
+RELATION,RTHUOC_403,THUOC,Thuộc,E40_100,E38_34,,
+RELATION,RTHUOC_404,THUOC,Thuộc,E40_101,E38_34,,
+RELATION,RTHUOC_405,THUOC,Thuộc,E40_102,E38_34,,
+RELATION,RTHUOC_406,THUOC,Thuộc,E40_103,E38_34,,
+RELATION,RTHUOC_407,THUOC,Thuộc,E40_104,E38_34,,
+RELATION,RTHUOC_408,THUOC,Thuộc,E40_105,E38_34,,
+RELATION,RTHUOC_409,THUOC,Thuộc,E40_106,E38_34,,
+RELATION,RTHUOC_410,THUOC,Thuộc,E40_107,E38_34,,
+RELATION,RTHUOC_411,THUOC,Thuộc,E40_108,E38_35,,
+RELATION,RTHUOC_412,THUOC,Thuộc,E40_109,E38_35,,
+RELATION,RTHUOC_413,THUOC,Thuộc,E40_110,E38_35,,
+RELATION,RTHUOC_414,THUOC,Thuộc,E40_111,E38_35,,
+RELATION,RTHUOC_415,THUOC,Thuộc,E40_112,E38_35,,
+RELATION,RTHUOC_416,THUOC,Thuộc,E40_113,E38_35,,
+RELATION,RTHUOC_417,THUOC,Thuộc,E40_114,E38_38,,
+RELATION,RTHUOC_418,THUOC,Thuộc,E40_115,E38_38,,
+RELATION,RTHUOC_419,THUOC,Thuộc,E40_116,E38_38,,
+RELATION,RTHUOC_420,THUOC,Thuộc,E40_117,E38_38,,
+RELATION,RTHUOC_421,THUOC,Thuộc,E40_118,E38_38,,
+RELATION,RTHUOC_422,THUOC,Thuộc,E40_119,E38_40,,
+RELATION,RTHUOC_423,THUOC,Thuộc,E40_120,E38_40,,
+RELATION,RTHUOC_424,THUOC,Thuộc,E40_121,E38_40,,
+RELATION,RTHUOC_425,THUOC,Thuộc,E40_122,E38_40,,
+RELATION,RTHUOC_426,THUOC,Thuộc,E40_123,E38_40,,
+RELATION,RTHUOC_427,THUOC,Thuộc,E40_124,E38_40,,
+RELATION,RTHUOC_428,THUOC,Thuộc,E40_125,E38_40,,
+RELATION,RTHUOC_429,THUOC,Thuộc,E40_126,E38_40,,
+RELATION,RTHUOC_430,THUOC,Thuộc,E40_127,E38_40,,
+RELATION,RTHUOC_431,THUOC,Thuộc,E40_128,E38_55,,
+RELATION,RTHUOC_432,THUOC,Thuộc,E40_129,E38_55,,
+RELATION,RTHUOC_433,THUOC,Thuộc,E40_130,E38_55,,
+RELATION,RTHUOC_434,THUOC,Thuộc,E40_131,E38_64,,
+RELATION,RTHUOC_435,THUOC,Thuộc,E40_132,E38_64,,
+RELATION,RTHUOC_436,THUOC,Thuộc,E40_133,E38_71,,
+RELATION,RTHUOC_437,THUOC,Thuộc,E40_134,E38_71,,
+RELATION,RTHUOC_438,THUOC,Thuộc,E40_135,E38_71,,
+RELATION,RTHUOC_439,THUOC,Thuộc,E40_136,E38_88,,
+RELATION,RTHUOC_440,THUOC,Thuộc,E40_137,E38_88,,
+RELATION,RTHUOC_441,THUOC,Thuộc,E40_138,E38_88,,
+RELATION,RTHUOC_442,THUOC,Thuộc,E40_139,E38_89,,
+RELATION,RTHUOC_443,THUOC,Thuộc,E40_140,E38_89,,
+RELATION,RTHUOC_444,THUOC,Thuộc,E40_141,E38_89,,
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RAP_DUNG_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,RAP_DUNG_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,RAP_DUNG_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,RAP_DUNG_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,RAP_DUNG_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,RAP_DUNG_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,RAP_DUNG_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,RAP_DUNG_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,RAP_DUNG_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,RAP_DUNG_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,RAP_DUNG_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,RAP_DUNG_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,RAP_DUNG_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,RAP_DUNG_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,RAP_DUNG_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,RAP_DUNG_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,RAP_DUNG_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,RAP_DUNG_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,RAP_DUNG_19,AP_DUNG,Áp dụng,E30_19,E2_1,,
+RELATION,RAP_DUNG_20,AP_DUNG,Áp dụng,E30_20,E2_1,,
+RELATION,RAP_DUNG_21,AP_DUNG,Áp dụng,E30_21,E2_1,,
+RELATION,RAP_DUNG_22,AP_DUNG,Áp dụng,E30_22,E2_1,,
+RELATION,RAP_DUNG_23,AP_DUNG,Áp dụng,E30_23,E2_1,,
+RELATION,RAP_DUNG_24,AP_DUNG,Áp dụng,E30_24,E2_1,,
+RELATION,RAP_DUNG_25,AP_DUNG,Áp dụng,E30_25,E2_1,,
+RELATION,RAP_DUNG_26,AP_DUNG,Áp dụng,E30_26,E2_1,,
+RELATION,RAP_DUNG_27,AP_DUNG,Áp dụng,E30_27,E2_1,,
+RELATION,RAP_DUNG_28,AP_DUNG,Áp dụng,E30_28,E2_1,,
+RELATION,RAP_DUNG_29,AP_DUNG,Áp dụng,E30_29,E2_1,,
+RELATION,RAP_DUNG_30,AP_DUNG,Áp dụng,E30_30,E2_1,,
+RELATION,RAP_DUNG_31,AP_DUNG,Áp dụng,E30_31,E2_1,,
+RELATION,RAP_DUNG_32,AP_DUNG,Áp dụng,E30_32,E2_1,,
+RELATION,RAP_DUNG_33,AP_DUNG,Áp dụng,E30_33,E2_1,,
+RELATION,RAP_DUNG_34,AP_DUNG,Áp dụng,E30_34,E2_1,,
+RELATION,RAP_DUNG_35,AP_DUNG,Áp dụng,E30_35,E2_1,,
+RELATION,RAP_DUNG_36,AP_DUNG,Áp dụng,E30_36,E2_1,,
+RELATION,RAP_DUNG_37,AP_DUNG,Áp dụng,E30_37,E2_1,,
+RELATION,RAP_DUNG_38,AP_DUNG,Áp dụng,E30_38,E2_1,,
+RELATION,RAP_DUNG_39,AP_DUNG,Áp dụng,E30_39,E2_1,,
+RELATION,RAP_DUNG_40,AP_DUNG,Áp dụng,E30_40,E2_1,,
+RELATION,RAP_DUNG_41,AP_DUNG,Áp dụng,E30_41,E2_1,,
+RELATION,RAP_DUNG_42,AP_DUNG,Áp dụng,E30_42,E2_1,,
+RELATION,RAP_DUNG_43,AP_DUNG,Áp dụng,E30_43,E2_1,,
+RELATION,RAP_DUNG_44,AP_DUNG,Áp dụng,E30_44,E2_1,,
+RELATION,RAP_DUNG_45,AP_DUNG,Áp dụng,E30_45,E2_1,,
+RELATION,RAP_DUNG_46,AP_DUNG,Áp dụng,E30_46,E2_1,,
+RELATION,RAP_DUNG_47,AP_DUNG,Áp dụng,E30_47,E2_1,,
+RELATION,RAP_DUNG_48,AP_DUNG,Áp dụng,E30_48,E2_1,,
+RELATION,RAP_DUNG_49,AP_DUNG,Áp dụng,E30_49,E2_1,,
+RELATION,RAP_DUNG_50,AP_DUNG,Áp dụng,E30_50,E2_1,,
+RELATION,RAP_DUNG_51,AP_DUNG,Áp dụng,E30_51,E2_1,,
+RELATION,RAP_DUNG_52,AP_DUNG,Áp dụng,E30_52,E2_1,,
+RELATION,RAP_DUNG_53,AP_DUNG,Áp dụng,E30_53,E2_1,,
+RELATION,RAP_DUNG_54,AP_DUNG,Áp dụng,E30_54,E2_1,,
+RELATION,RAP_DUNG_55,AP_DUNG,Áp dụng,E30_55,E2_1,,
+RELATION,RAP_DUNG_56,AP_DUNG,Áp dụng,E30_56,E2_1,,
+RELATION,RAP_DUNG_57,AP_DUNG,Áp dụng,E30_57,E2_1,,
+RELATION,RAP_DUNG_58,AP_DUNG,Áp dụng,E30_58,E2_1,,
+RELATION,RAP_DUNG_59,AP_DUNG,Áp dụng,E30_59,E2_1,,
+RELATION,RAP_DUNG_60,AP_DUNG,Áp dụng,E30_60,E2_1,,
+RELATION,RAP_DUNG_61,AP_DUNG,Áp dụng,E30_61,E2_1,,
+RELATION,RAP_DUNG_62,AP_DUNG,Áp dụng,E30_62,E2_1,,
+RELATION,RAP_DUNG_63,AP_DUNG,Áp dụng,E30_63,E2_1,,
+RELATION,RAP_DUNG_64,AP_DUNG,Áp dụng,E30_64,E2_1,,
+RELATION,RAP_DUNG_65,AP_DUNG,Áp dụng,E30_65,E2_1,,
+RELATION,RAP_DUNG_66,AP_DUNG,Áp dụng,E30_66,E2_1,,
+RELATION,RAP_DUNG_67,AP_DUNG,Áp dụng,E30_67,E2_1,,
+RELATION,RAP_DUNG_68,AP_DUNG,Áp dụng,E30_68,E2_1,,
+RELATION,RAP_DUNG_69,AP_DUNG,Áp dụng,E30_69,E2_1,,
+RELATION,RAP_DUNG_70,AP_DUNG,Áp dụng,E30_70,E2_1,,
+RELATION,RAP_DUNG_71,AP_DUNG,Áp dụng,E30_71,E2_1,,
+RELATION,RAP_DUNG_72,AP_DUNG,Áp dụng,E30_72,E2_1,,
+RELATION,RAP_DUNG_73,AP_DUNG,Áp dụng,E30_73,E2_1,,
+RELATION,RAP_DUNG_74,AP_DUNG,Áp dụng,E30_74,E2_1,,
+RELATION,RAP_DUNG_75,AP_DUNG,Áp dụng,E30_75,E2_1,,
+RELATION,RAP_DUNG_76,AP_DUNG,Áp dụng,E30_76,E2_1,,
+RELATION,RAP_DUNG_77,AP_DUNG,Áp dụng,E30_77,E2_1,,
+RELATION,RAP_DUNG_78,AP_DUNG,Áp dụng,E30_78,E2_1,,
+RELATION,RDUOC_DAN_CHIEU_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,RDAN_CHIEU_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,RDAN_CHIEU_2,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,RDAN_CHIEU_3,DAN_CHIEU,Dẫn chiếu,E29_3,E2_1,,
+RELATION,RDAN_CHIEU_4,DAN_CHIEU,Dẫn chiếu,E29_4,E2_1,,
+RELATION,RDAN_CHIEU_5,DAN_CHIEU,Dẫn chiếu,E29_5,E2_1,,
+RELATION,RDAN_CHIEU_6,DAN_CHIEU,Dẫn chiếu,E29_6,E2_1,,
+RELATION,RDAN_CHIEU_7,DAN_CHIEU,Dẫn chiếu,E29_7,E2_1,,
+RELATION,RDAN_CHIEU_8,DAN_CHIEU,Dẫn chiếu,E29_8,E2_1,,
+RELATION,RDAN_CHIEU_9,DAN_CHIEU,Dẫn chiếu,E29_9,E2_1,,
+RELATION,RDAN_CHIEU_10,DAN_CHIEU,Dẫn chiếu,E29_10,E2_1,,
+RELATION,RDAN_CHIEU_11,DAN_CHIEU,Dẫn chiếu,E29_11,E2_1,,
+RELATION,RDAN_CHIEU_12,DAN_CHIEU,Dẫn chiếu,E29_12,E2_1,,
+RELATION,RDAN_CHIEU_13,DAN_CHIEU,Dẫn chiếu,E29_13,E2_1,,
+RELATION,RDAN_CHIEU_14,DAN_CHIEU,Dẫn chiếu,E29_14,E2_1,,
+RELATION,RDAN_CHIEU_15,DAN_CHIEU,Dẫn chiếu,E29_15,E2_1,,
+RELATION,RDAN_CHIEU_16,DAN_CHIEU,Dẫn chiếu,E29_16,E2_1,,
+RELATION,RDAN_CHIEU_17,DAN_CHIEU,Dẫn chiếu,E29_17,E2_1,,
+RELATION,RDAN_CHIEU_18,DAN_CHIEU,Dẫn chiếu,E29_18,E2_1,,
+RELATION,RDAN_CHIEU_19,DAN_CHIEU,Dẫn chiếu,E29_19,E2_1,,
+RELATION,RDAN_CHIEU_20,DAN_CHIEU,Dẫn chiếu,E29_20,E2_1,,
+RELATION,RDAN_CHIEU_21,DAN_CHIEU,Dẫn chiếu,E29_21,E2_1,,
+RELATION,RDAN_CHIEU_22,DAN_CHIEU,Dẫn chiếu,E29_22,E2_1,,
+RELATION,RDAN_CHIEU_23,DAN_CHIEU,Dẫn chiếu,E29_23,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_1,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_2,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_3,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_4,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_5,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_6,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_7,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_7,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_8,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_8,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_9,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_9,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_10,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_10,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_11,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_11,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_12,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_12,E2_1,,
+RELATION,RDUOC_THAY_THE_1,DUOC_THAY_THE,Được thay thế,E33_1,E2_1,,
+RELATION,RTHAY_THE_1,THAY_THE,Thay thế,E43_1,E2_1,,

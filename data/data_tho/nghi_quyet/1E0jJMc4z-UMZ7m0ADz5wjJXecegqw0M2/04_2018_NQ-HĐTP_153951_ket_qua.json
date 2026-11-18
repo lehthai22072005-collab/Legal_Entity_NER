@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0",
+  "document_id": "153951",
+  "document_code": "04/2018/NQ-HĐTP",
+  "file_name": "04_2018_NQ-HĐTP_153951.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Nghị quyết số 04/2018/NQ-HĐTP Ban hành một số biểu mẫu trong giải quyết việc dân sự",
+    "so_hieu": "04/2018/NQ-HĐTP",
+    "loai_van_ban": "Nghị quyết",
+    "co_quan_ban_hanh": "Tòa án nhân dân tối cao",
+    "ngay_ban_hanh": "ngày 09 tháng 8 năm 2018",
+    "ngay_co_hieu_luc": "2018-10-01",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHÁNH ÁN",
+    "nguoi_ky": "Nguyễn Hòa Bình",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Nghị quyết số 04/2018/NQ-HĐTP Ban hành một số biểu mẫu trong giải quyết việc dân sự\nHỘI ĐỒNG THẨM PHÁN\nTÒA ÁN NHÂN DÂN TỐI CAO\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 04/2018/NQ-HĐTP\nHà Nội, ngày 09 tháng 8 năm 2018\nNGHỊ QUYẾT\nBan hành một số biểu mẫu trong giải quyết việc dân sự\nHỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO\nCăn cứ Luật Tổ chức Tòa án nhân dân ngày 24 tháng 11 năm 2014;\nĐể áp dụng đúng và thống nhất biểu mẫu trong giải quyết việc dân sự;\nSau khi có ý kiến của Viện trưởng Viện kiểm sát nhân dân tối cao và Bộ trưởng Bộ Tư pháp,\nQUYẾT NGHỊ:\nĐiều 1. Ban hành biểu mẫu trong giải quyết việc dân sự\nBan hành 33 biểu mẫu theo Danh mục kèm theo Nghị quyết này.\nĐiều 2. Hiệu lực thi hành\n1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 09 tháng 8 năm 2018 và có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2018.\n2. Bãi bỏ các biểu mẫu số 92, 93 ban hành kèm theo Nghị quyết số 01/2017/NQ-HĐTP ngày 13 tháng 01 năm 2017 của Hội đồng Thẩm phán Tòa án nhân dân tối cao ban hành một số biểu mẫu trong tố tụng dân sự.\n3. Các biểu mẫu ban hành kèm theo Nghị quyết này được sử dụng trong quá trình xem xét thụ lý, giải quyết việc dân sự tại Tòa án nhân dân.\n4. Trong quá trình thực hiện nếu có vướng mắc, đề nghị phản ánh cho Tòa án nhân dân tối cao (thông qua Vụ Pháp chế và Quản lý khoa học) để hướng dẫn bổ sung kịp thời.TM. HỘI ĐỒNG THẨM PHÁNCHÁNH ÁN(Đã ký)\nNguyễn Hòa Bình\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 2018-10-01\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Văn bản bị tác động hiệu lực một phần]: Nghị quyết số 01/2017/NQ-HĐTP Ban hành một số biểu mẫu trong tố tụng dân sự\n[Căn cứ ban hành]: Luật Tổ chức Tòa án nhân dân số 62/2014/QH13",
+  "structural_units": [
+    {
+      "id": "unit_preamble",
+      "type": "PREAMBLE",
+      "title": "Phần mở đầu và Căn cứ ban hành",
+      "start": 0,
+      "end": 585,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_01",
+      "type": "DIEU",
+      "title": "Điều 1. Ban hành biểu mẫu trong giải quyết việc dân sự Ban hành 33 biểu mẫu theo Danh mục kèm theo Nghị quyết này.",
+      "start": 585,
+      "end": 700,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_02",
+      "type": "DIEU",
+      "title": "Điều 2. Hiệu lực thi hành",
+      "start": 700,
+      "end": 1414,
+      "parent_id": null
+    }
+  ],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 83,
+      "text": "Nghị quyết số 04/2018/NQ-HĐTP Ban hành một số biểu mẫu trong giải quyết việc dân sự",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 14,
+      "end": 29,
+      "text": "04/2018/NQ-HĐTP",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 10,
+      "text": "Nghị quyết",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 218,
+      "end": 242,
+      "text": "ngày 09 tháng 8 năm 2018",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 1510,
+      "end": 1524,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 1545,
+      "end": 1555,
+      "text": "2018-10-01",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 1579,
+      "end": 1591,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 771,
+      "end": 794,
+      "text": "Tòa án nhân dân tối cao",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 1414,
+      "end": 1422,
+      "text": "CHÁNH ÁN",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 1430,
+      "end": 1445,
+      "text": "Nguyễn Hòa Bình",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E15_1",
+      "start": 1633,
+      "end": 1708,
+      "text": "Nghị quyết số 01/2017/NQ-HĐTP Ban hành một số biểu mẫu trong tố tụng dân sự",
+      "code": "VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN",
+      "label": "Văn bản bị tác động hiệu lực một phần",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 358,
+      "end": 412,
+      "text": "Luật Tổ chức Tòa án nhân dân ngày 24 tháng 11 năm 2014",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E24_1",
+      "start": 938,
+      "end": 967,
+      "text": "Nghị quyết số 01/2017/NQ-HĐTP",
+      "code": "VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E29_2",
+      "start": 938,
+      "end": 993,
+      "text": "Nghị quyết số 01/2017/NQ-HĐTP ngày 13 tháng 01 năm 2017",
+      "code": "VB_DAN_CHIEU",
+      "label": "Văn bản dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E38_1",
+      "start": 585,
+      "end": 699,
+      "text": "Điều 1. Ban hành biểu mẫu trong giải quyết việc dân sự\nBan hành 33 biểu mẫu theo Danh mục kèm theo Nghị quyết này.",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E38_2",
+      "start": 700,
+      "end": 725,
+      "text": "Điều 2. Hiệu lực thi hành",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E39_1",
+      "start": 726,
+      "end": 886,
+      "text": "1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 09 tháng 8 năm 2018 và có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2018.",
+      "code": "KHOAN",
+      "label": "Khoản",
+      "scope": "structure"
+    },
+    {
+      "id": "E39_2",
+      "start": 1088,
+      "end": 1225,
+      "text": "3. Các biểu mẫu ban hành kèm theo Nghị quyết này được sử dụng trong quá trình xem xét thụ lý, giải quyết việc dân sự tại Tòa án nhân dân.",
+      "code": "KHOAN",
+      "label": "Khoản",
+      "scope": "structure"
+    },
+    {
+      "id": "E39_3",
+      "start": 1226,
+      "end": 1391,
+      "text": "4. Trong quá trình thực hiện nếu có vướng mắc, đề nghị phản ánh cho Tòa án nhân dân tối cao (thông qua Vụ Pháp chế và Quản lý khoa học) để hướng dẫn bổ sung kịp thời",
+      "code": "KHOAN",
+      "label": "Khoản",
+      "scope": "structure"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R2_1",
+      "from_id": "E24_1",
+      "to_id": "E2_1",
+      "code": "DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Được quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R3_1",
+      "from_id": "E2_1",
+      "to_id": "E15_1",
+      "code": "BI_TAC_DONG_HIEU_LUC_MOT_PHAN",
+      "label": "Bị tác động hiệu lực một phần"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R12_1",
+      "from_id": "E24_1",
+      "to_id": "E2_1",
+      "code": "QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R17_1",
+      "from_id": "E29_2",
+      "to_id": "E2_1",
+      "code": "DAN_CHIEU",
+      "label": "Dẫn chiếu"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E39_1",
+      "to_id": "E38_2",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E39_2",
+      "to_id": "E38_2",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_3",
+      "from_id": "E39_3",
+      "to_id": "E38_2",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_4",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_5",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

@@ -1,0 +1,214 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,297,419,"NGHỊ QUYẾT
+Về những giải pháp chủ yếu chỉ đạo điều hành thực hiện kế hoạch kinh tế - xã hội và ngân sách nhà nước năm 2006"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,163,176,01/2006/NQ-CP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,297,307,NGHỊ QUYẾT
+ENTITY,E4_1,NGANH,Ngành,metadata,25182,25214,Lao động - Thương binh và Xã hội
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,271,296,ngày 16 tháng 01 năm 2006
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,25227,25241,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,25262,25272,2006-02-13
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,25296,25308,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,140,149,CHÍNH PHỦ
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,25089,25098,THỦ TƯỚNG
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,25107,25120,Phan Văn Khải
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,25335,25379,"Luật Phòng, chống tham nhũng số 55/2005/QH11"
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,25429,25504,Nghị quyết số 02/2006/NQ-CP Phiên họp Chính phủ thường kỳ tháng 01 năm 2006
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,25554,25628,Nghị quyết số 04/2006/NQ-CP Phiên họp Chính phủ thường kỳ tháng 3 năm 2006
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,25678,25753,Nghị quyết số 03/2006/NQ-CP Phiên họp Chính phủ thường kỳ tháng 02 năm 2006
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,26972,27046,Nghị quyết số 14/2006/NQ-CP Phiên họp Chính phủ thường kỳ tháng 7 năm 2006
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27068,27142,Nghị quyết số 22/2006/NQ-CP Phiên họp chính phủ thường kỳ tháng 8 năm 2006
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27164,27238,Nghị quyết số 13/2006/NQ-CP Phiên họp Chính phủ thường kỳ tháng 6 năm 2006
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27260,27367,Chỉ thị 09/2006/CT-UBND về đẩy mạnh quyết toán vốn đầu tư các dự án hoàn thành do thành phố Hà Nội ban hành
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27389,27464,Nghị quyết số 34/2006/NQ-CP Phiên họp Chính phủ thường kỳ tháng 11 năm 2006
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27486,27560,Nghị quyết số 06/2006/NQ-CP Phiên họp Chính phủ thường kỳ tháng 4 năm 2006
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27582,27775,Chỉ thị số 27/2006/CT-TTg Về một số giải pháp cần tập trung chỉ đạo trong những tháng cuối năm để phấn đấu hoàn thành kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2006
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27797,27871,Nghị quyết số 12/2006/NQ-CP Phiên họp Chính phủ thường kỳ tháng 5 năm 2006
+ENTITY,E29_9,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27893,28015,"Quyết định số 70/2006/QĐ-UBND Về việc Ban hành Chương trình hành động của UBND tỉnh thực hiện Luật Phòng, chống tham nhũng"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,25773,25896,"Quyết định số 60/2006/QĐ-UBND V/v ban hành Chương trình hành động của UBND thành phố về thực hành tiết kiệm, chống lãng phí"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,25916,26031,Chỉ thị số 07/2006/CT-UBND V/v triển khai thực hiện chỉ tiêu nhiệm vụ kế hoạch phát triển kinh tế - xã hội năm 2006
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,26051,26224,Quyết định số 08/2006/QĐ-UBND Về việc ban hành Chương trình hành động của Ủy ban nhân dân tỉnh Tiền Giang thực hiện Nghị quyết số 01/2006/NQ-CP ngày 16/01/2006 của Chính phủ
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,26244,26440,Chỉ thị số 27/2006/CT-UBND Về một số giải pháp cần tập trung chỉ đạo trong những tháng cuối năm để phấn đấu hoàn thành kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách thành phố năm 2006.
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,26460,26694,"Thông tư số 74/2006/TT-BTC Hướng dẫn thực hiện miễn thuế đối với hoạt động đánh bắt hải sản, sản xuất muối chưa qua chế biến và giảm thuế đối với cơ sở kinh doanh sử dụng lao động là người dân tốc thiểu số từ năm 2006 đến hết năm 2010"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,26714,26817,Quyết định số 801/2006/QĐ-UBND Về việc ban hành chương trình công tác của Ủy ban nhân dân tỉnh năm 2006
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,26837,26950,Chỉ thị số 28/2006/CT-TTg Về tăng cường quản lý đầu tư và xây dựng bằng nguồn vốn nhà nước 06 tháng cuối năm 2006
+ENTITY,E34_1,PHAN,Phần,structure,1162,1308,"I. TIẾP TỤC CẢI THIỆN MÔI TRƯỜNG ĐẦU TƯ, KINH DOANH, DUY TRÌ TỐC ĐỘ TĂNG TRƯỞNG CAO, ĐỒNG THỜI NÂNG CAO CHẤT LƯỢNG VÀ HIỆU QUẢ TĂNG TRƯỞNG KINH TẾ"
+ENTITY,E34_2,PHAN,Phần,structure,10358,10457,"II. HUY ĐỘNG VÀ NÂNG CAO HIỆU QUẢ SỬ DỤNG VỐN ĐẦU TƯ, CHẤN CHỈNH CÔNG TÁC QUẢN LÝ ĐẦU TƯ PHÁT TRIỂN"
+ENTITY,E34_3,PHAN,Phần,structure,13958,14003,III. ĐIỀU HÀNH CHÍNH SÁCH TÀI CHÍNH - TIỀN TỆ
+ENTITY,E34_4,PHAN,Phần,structure,16715,16764,IV. TÍCH CỰC VÀ CHỦ ĐỘNG HỘI NHẬP KINH TẾ QUỐC TẾ
+ENTITY,E34_5,PHAN,Phần,structure,18621,18671,"V. ĐẨY MẠNH XÃ HỘI HOÁ CÁC LĨNH VỰC VĂN HOÁ, XÃ HỘ"
+ENTITY,E34_6,PHAN,Phần,structure,21355,21449,"VI. CHẤN CHỈNH BỘ MÁY HÀNH CHÍNH, PHÒNG, CHỐNG THAM NHŨNG, THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ"
+ENTITY,E34_7,PHAN,Phần,structure,23847,23869,VII. TỔ CHỨC THỰC HIỆN
+ENTITY,E35_1,CHUONG,Chương,structure,1309,1407,"A. Đẩy mạnh việc xây dựng thể chế, hoàn thiện môi trường pháp lý cho các hoạt động kinh tế, xã hội"
+ENTITY,E35_2,CHUONG,Chương,structure,3328,3381,B. Xây dựng và phát triển đồng bộ các loại thị trường
+ENTITY,E35_3,CHUONG,Chương,structure,4306,4423,"C. Tiếp tục cải thiện môi trường đầu tư, kinh doanh, nâng cao chất lượng phát triển và sức cạnh tranh của nền kinh tế"
+ENTITY,E35_4,CHUONG,Chương,structure,5797,5852,D. Thúc đẩy phát triển nông nghiệp và kinh tế nông thôn
+ENTITY,E35_5,CHUONG,Chương,structure,8035,8098,"Đ. Phát triển các ngành công nghiệp, xây dựng và quản lý đô thị"
+ENTITY,E35_6,CHUONG,Chương,structure,9061,9097,E. Phát triển mạnh các ngành dịch vụ
+ENTITY,E35_7,CHUONG,Chương,structure,10458,10520,A. Huy động và sử dụng có hiệu quả nguồn vốn đầu tư phát triển
+ENTITY,E35_8,CHUONG,Chương,structure,12265,12343,"B. Nâng cao hiệu quả và chấn chỉnh, đổi mới công tác quản lý đầu tư phát triển"
+ENTITY,E36_1,MUC,Mục,structure,1408,2569,"1. Đẩy nhanh tiến độ và nâng cao chất lượng xây dựng các văn bản quy phạm pháp luật; bảo đảm hoàn thành Chương trình xây dựng luật, pháp lệnh năm 2006 của Quốc hội, Chương trình công tác của Chính phủ, các Chương trình hành động của Chính phủ thực hiện Luật Phòng, chống tham nhũng, Luật Thực hành tiết kiệm, chống lãng phí và những việc đã nêu tại Phụ lục ban hành kèm theo Nghị quyết này.
+Cải tiến mạnh mẽ phương thức xây dựng và ban hành các văn bản, bảo đảm trong 6 tháng đầu năm 2006 ban hành đầy đủ các văn bản quy định chi tiết thi hành các luật, pháp lệnh đã được Quốc hội, Ủy ban Thường vụ Quốc hội thông qua trong năm 2005.
+Trong các dự án luật, pháp lệnh thuộc Chương trình năm 2006 phải quy định rõ những điều khoản nào phải có văn bản hướng dẫn của Chính phủ và phải trình các dự thảo văn bản này cùng một lúc với các dự án luật và pháp lệnh để Chính phủ xem xét, quyết định. Văn phòng Chính phủ được quyền trả lại các dự án luật và pháp lệnh không đủ các dự thảo văn bản hướng dẫn kèm theo và được quyền yêu cầu các cơ quan chủ trì soạn thảo dự án luật và pháp lệnh cũng như các văn bản hướng dẫn của Chính phủ thực hiện nghiêm chỉnh quy định này."
+ENTITY,E36_2,MUC,Mục,structure,2570,2923,"2. Ngay từ đầu năm 2006, các Bộ, chính quyền các cấp phải rà soát các văn bản do cấp mình ban hành để huỷ bỏ ngay những văn bản, những quy định trái với chủ trương, chính sách của Đảng và Nhà nước hoặc không đúng thẩm quyền; sửa đổi, bổ sung những quy định không còn phù hợp, gây khó khăn, cản trở hoạt động sản xuất, kinh doanh của dân và doanh nghiệp."
+ENTITY,E36_3,MUC,Mục,structure,2924,3134,3. Người đứng đầu các cơ quan phải chịu trách nhiệm chính trong việc xây dựng và tổ chức triển khai thực hiện các văn bản quy phạm pháp luật và chính sách phát triển kinh tế - xã hội của Nhà nước ở đơn vị mình.
+ENTITY,E36_4,MUC,Mục,structure,3135,3327,"4. Tăng cường công tác kiểm tra, kiểm soát việc thực hiện các văn bản quy phạm pháp luật, các chủ trương, chính sách; kịp thời phát hiện những tồn tại, vướng mắc để có các giải pháp khắc phục."
+ENTITY,E36_5,MUC,Mục,structure,3382,3574,"1. Nghiên cứu điều chỉnh, bổ sung, ban hành mới các cơ chế, chính sách đồng bộ nhằm tạo các điều kiện thuận lợi hơn cho phát triển thị trường vốn, thị trường lao động, thị trường bất động sản."
+ENTITY,E36_6,MUC,Mục,structure,3575,3791,"2. Đẩy mạnh việc thực hiện tái cơ cấu các ngân hàng thương mại nhà nước, các ngân hàng thương mại cổ phần và các tổ chức tín dụng khác; đồng thời tổ chức tốt hoạt động của các thị trường tín dụng, thị trường tiền tệ."
+ENTITY,E36_7,MUC,Mục,structure,3792,4305,"3. Nâng cao hiệu lực, hiệu quả hoạt động của các cơ quan quản lý nhà nước về sở hữu trí tuệ để bảo đảm hiệu lực thực thi của Luật Sở hữu trí tuệ; xây dựng và phát triển các trung tâm giao dịch công nghệ tại các vùng kinh tế lớn, trước hết là Hà Nội, thành phố Hồ Chí Minh và Đà Nẵng, tiến tới hình thành Trung tâm giao dịch công nghệ quốc gia; đẩy mạnh việc triển khai thực hiện đề án phát triển thị trường công nghệ gắn với thực hiện cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập."
+ENTITY,E36_8,MUC,Mục,structure,4424,4874,"1. Thực hiện các chính sách và giải pháp nhằm tăng cường năng lực và nâng cao khả năng cạnh tranh của các doanh nghiệp, trợ giúp phát triển doanh nghiệp nhỏ và vừa; công khai các quy trình, thủ tục hành chính, giải quyết kịp thời các vướng mắc của doanh nghiệp; thực hiện lộ trình áp dụng cơ chế một giá; tiếp tục mở rộng các lĩnh vực đầu tư và đa dạng hóa các hình thức đầu tư nước ngoài phù hợp với Luật Đầu tư và lộ trình hội nhập kinh tế quốc tế."
+ENTITY,E36_9,MUC,Mục,structure,4875,5275,"2. Hoàn thiện chính sách tài chính doanh nghiệp theo hướng bình đẳng, ổn định, minh bạch đối với mọi loại hình doanh nghiệp; khắc phục tình trạng biến độc quyền nhà nước thành độc quyền doanh nghiệp; tiếp tục tháo gỡ những vướng mắc về cơ chế, chính sách tài chính, tín dụng, đất đai... để doanh nghiệp tư nhân, doanh nghiệp nhỏ và vừa phát triển mạnh, nâng cao sức cạnh tranh và hiệu quả kinh doanh."
+ENTITY,E36_10,MUC,Mục,structure,5276,5796,"3. Đẩy mạnh sắp xếp, đổi mới, cổ phần hoá doanh nghiệp nhà nước theo phương án tổng thể đã được Thủ tướng Chính phủ phê duyệt. Có cơ chế quản lý thích hợp đối với các doanh nghiệp sau cổ phần hoá. Thực hiện đúng quyền và trách nhiệm của chủ sở hữu. Giới hạn thí điểm hình thành tập đoàn kinh tế trong một số lĩnh vực quan trọng và có đủ điều kiện do Tổng công ty nhà nước làm nòng cốt, có sự tham gia rộng rãi của các thành phần kinh tế trong nước và đầu tư của nước ngoài để sơ kết, đánh giá có kết luận về mô hình này."
+ENTITY,E36_11,MUC,Mục,structure,5853,6251,"1. Tập trung triển khai có hiệu quả chương trình giống cây trồng, vật nuôi thời kỳ 2006 - 2010 nhằm nghiên cứu, lai tạo, tuyển chọn và nhân nhanh các giống mới có năng suất, chất lượng cao. Trước hết, tập trung vào các sản phẩm có thị trường, có lợi thế cạnh tranh, có khả năng chuyển đổi mùa vụ cho các vùng kinh tế, đặc biệt là những vùng thường xuyên bị ảnh hưởng của thiên tai và vùng khó khăn."
+ENTITY,E36_12,MUC,Mục,structure,6252,6411,"2. Tăng cường hệ thống khuyến nông, khuyến lâm, khuyến ngư đến tận cơ sở. Thực hiện chuyển giao nhanh tiến bộ kỹ thuật, khoa học, công nghệ đến người sản xuất."
+ENTITY,E36_13,MUC,Mục,structure,6412,6681,"3. Thực hiện đồng bộ các biện pháp cấp bách về phòng, chống dịch cúm gia cầm, phấn đấu để năm 2006 không tái phát dịch. Quy hoạch, tổ chức lại các cơ sở chăn nuôi, giết mổ, chế biến gia súc, gia cầm tập trung gắn với kiểm soát chặt chẽ thú y, vệ sinh an toàn thực phẩm."
+ENTITY,E36_14,MUC,Mục,structure,6682,6883,"4. Quy hoạch lại các loại rừng theo hướng giảm diện tích rừng phòng hộ và đặc dụng, tăng diện tích rừng sản xuất, phát triển trồng rừng sản xuất đáp ứng nhu cầu gỗ cho chế biến, xuất khẩu và tiêu dựng."
+ENTITY,E36_15,MUC,Mục,structure,6884,7435,"5. Rà soát lại quy hoạch phát triển ngành thuỷ sản gắn với việc xây dựng và điều chỉnh quy hoạch phát triển các sản phẩm chủ lực, có lợi thế cạnh tranh. Tiếp tục xây dựng đồng bộ hạ tầng các vùng nuôi trồng thuỷ sản bảo đảm phát triển bền vững, giảm thiểu ô nhiễm môi trường và làm cạn kiệt nguồn nước. Bộ Thuỷ sản phối hợp với các địa phương hướng dẫn cho dân công nghệ mới, nhất là công nghệ nuôi sạch và sử dụng chất thay thế kháng sinh bị cấm sử dụng. Chủ động đối phó với các rào cản thương mại do các nước đặt ra đối với hàng thuỷ sản xuất khẩu."
+ENTITY,E36_16,MUC,Mục,structure,7436,7879,"6. Tăng cường kiểm tra, kiểm soát và thực hiện tốt các biện pháp quản lý chất lượng sản phẩm, vệ sinh an toàn thực phẩm; nâng cao chất lượng công tác dự báo thị trường, giá cả; đẩy mạnh xúc tiến thương mại đối với mặt hàng nông, lâm, thuỷ sản. Tiếp tục triển khai chính sách khuyến khích tiêu thụ nông sản thông qua hợp đồng nhằm liên kết nông dân với các doanh nghiệp, nhà khoa học và các tổ chức tín dụng trong sản xuất và tiêu thụ sản phẩm."
+ENTITY,E36_17,MUC,Mục,structure,7880,8034,"7. Tăng cường hơn nữa hệ thống cảnh báo, dự báo thiên tai, dịch bệnh; thực hiện tốt các chính sách hỗ trợ cho nông dân tại những vùng thường bị thiên tai."
+ENTITY,E36_18,MUC,Mục,structure,8099,8357,"1. Các Bộ, cơ quan trung ương, Ủy ban nhân dân cấp tỉnh tiếp tục rà soát lại các chiến lược, quy hoạch phát triển ngành, phân ngành công nghiệp đã có để bổ sung, điều chỉnh phù hợp với yêu cầu của thị trường, nhất là quy hoạch phát triển công nghiệp phụ trợ."
+ENTITY,E36_19,MUC,Mục,structure,8358,8692,"2. Công bố Danh mục các ngành công nghiệp có khả năng nâng cao sức cạnh tranh của sản phẩm trong nước, ngành công nghiệp mũi nhọn để có chính sách khuyến khích, hỗ trợ, thu hút đầu tư thích hợp. Tăng cường áp dụng các biện pháp cải tiến kỹ thuật, công nghệ và quản lý để hạ giá thành, nâng cao năng suất lao động, chất lượng sản phẩm."
+ENTITY,E36_20,MUC,Mục,structure,8693,9060,"3. Các địa phương tiếp tục tổ chức thực hiện các định hướng phát triển đô thị đến năm 2020; đồng thời, tăng cường hiệu lực quản lý nhà nước về xây dựng, mở rộng phân cấp, sắp xếp lại hệ thống đô thị trên địa bàn cả nước, phục vụ chủ trương công nghiệp hoá, hiện đại hoá. Đẩy nhanh việc phát triển đô thị, xây dựng kết cấu hạ tầng đô thị theo hướng văn minh, hiện đại."
+ENTITY,E36_21,MUC,Mục,structure,9098,9263,"1. Xác định cơ chế kiểm soát những mặt hàng có kim ngạch nhập khẩu lớn, phục vụ sản xuất trong nước phù hợp các quy định của pháp luật hiện hành và thông lệ quốc tế."
+ENTITY,E36_22,MUC,Mục,structure,9264,9688,"2. Đẩy mạnh tuyên truyền, quảng bá, xúc tiến du lịch; đào tạo phát triển nguồn nhân lực du lịch. Đơn giản các thủ tục xuất nhập cảnh đối với khách du lịch. Đẩy mạnh xã hội hóa trong phát triển du lịch, dịch vụ, thu hút các nguồn lực cho đầu tư phát triển du lịch. Kết hợp tốt việc lồng ghép các chương trình đầu tư phát triển du lịch với đầu tư bảo vệ, tôn tạo di tích, môi trường, cảnh quan trong các khu, các điểm du lịch."
+ENTITY,E36_23,MUC,Mục,structure,9689,9890,"3. Thực hiện các giải pháp để phát triển mạnh cơ sở hạ tầng bưu chính, viễn thông, đa dạng hóa các loại dịch vụ và chuẩn bị các điều kiện để mở cửa mạnh và có hiệu quả thị trường bưu chính, viễn thông."
+ENTITY,E36_24,MUC,Mục,structure,9891,10169,"4. Khẩn trương chuyển một số hoạt động sự nghiệp trong lĩnh vực khoa học và công nghệ sang cơ chế cung ứng dịch vụ phù hợp với kinh tế thị trường; khuyến khích và tạo điều kiện để các tổ chức, cá nhân thuộc mọi thành phần kinh tế tham gia cung cấp dịch vụ khoa học và công nghệ."
+ENTITY,E36_25,MUC,Mục,structure,10170,10357,"5. Thực hiện các chính sách khuyến khích phổ biến và cung cấp rộng rãi loại hình dịch vụ tài chính, ngân hàng; khuyến khích phát triển dịch vụ bảo hiểm trong mọi lĩnh vực kinh tế, xã hội."
+ENTITY,E36_26,MUC,Mục,structure,10521,10704,"1. Thực hiện các giải pháp tạo môi trường thuận lợi cho phát triển kinh tế dân doanh và thu hút đầu tư nước ngoài, tăng dần tỷ trọng của hai khu vực này trong tổng đầu tư toàn xã hội."
+ENTITY,E36_27,MUC,Mục,structure,10705,11147,"2. Phát triển và vận hành tốt các công trình hạ tầng đã đầu tư; thực hiện ngay các biện pháp đơn giản hoá, công khai, minh bạch thủ tục hành chính, nhất là trong các lĩnh vực: đất đai, hải quan, thuế vụ, cảnh sát giao thông, quản lý thị trường. Giải quyết tốt các vướng mắc trong khâu thiết kế, dự toán, đấu thầu, đền bù giải phóng mặt bằng, ... để đẩy nhanh tiến độ thi công, giải ngân các công trình, đặc biệt là công trình sử dụng vốn ODA."
+ENTITY,E36_28,MUC,Mục,structure,11148,11487,"3. Đẩy mạnh hơn nữa việc huy động vốn cho đầu tư phát triển thông qua phát hành nguồn vốn Công trái giáo dục, Trái phiếu Chính phủ, Trái phiếu đầu tư; đồng thời, quản lý và sử dụng có hiệu quả các nguồn vốn này; nghiên cứu xây dựng cơ chế thống nhất để hình thành các loại quỹ đầu tư phát triển địa phương và các loại hình quỹ đầu tư khác."
+ENTITY,E36_29,MUC,Mục,structure,11488,12264,"4. Các Bộ, cơ quan, địa phương phải bố trí tập trung vốn đầu tư trong kế koạch năm 2006 cho các công trình, dự án quan trọng, đặc biệt là các công trình thủy lợi, các công trình đa mục tiêu (cắt lũ, phát điện và cấp nước tưới tại các vùng khó khăn); các bệnh viện đầu ngành, bệnh viện vùng, trung tâm y tế chuyên sâu, các bệnh viện tuyến tỉnh, tuyến huyện và các công trình, dự án thuộc các lĩnh vực: giáo dục, đào tạo, dạy nghề, khoa học và công nghệ, trong đó tập trung đầu tư cho các viện nghiên cứu đầu ngành, các khu công nghệ cao, công nghệ phần mềm, các chương trình khoa học và công nghệ trọng điểm cấp nhà nước, các chương trình ươm tạo công nghệ, các chương trình kỹ thuật - kinh tế, các phòng thí nghiệm trọng điểm, các trung tâm phân tích, thử nghiệm của quốc gia."
+ENTITY,E36_30,MUC,Mục,structure,12344,12632,"1. Chấm dứt tình trạng đầu tư không đồng bộ, không tính kỹ hiệu quả, gây lãng phí lớn; khắc phục tình trạng “khép kín” trong đầu tư xây dựng. Quy định cụ thể và tạo điều kiện để Hội đồng nhân dân và cộng đồng dân cư tham gia giám sát thực hiện các công trình kết cấu hạ tầng trên địa bàn."
+ENTITY,E36_31,MUC,Mục,structure,12633,12964,"2. Đẩy mạnh công tác rà soát, sửa đổi, điều chỉnh, bổ sung các quy hoạch tổng thể các vùng kinh tế, vùng kinh tế trọng điểm, các hành lang kinh tế, các đặc khu kinh tế, quy hoạch tổng thể phát triển kinh tế - xã hội các tỉnh, thành phố. Có giải pháp tháo gỡ khó khăn cho các dự án nhóm A, các dự án trọng điểm đang triển khai chậm."
+ENTITY,E36_32,MUC,Mục,structure,12965,13493,"3. Triển khai thực hiện có hiệu quả Luật Đất đai; quản lý chặt chẽ và chỉ đạo thực hiện tốt quy hoạch, kế hoạch sử dụng đất đã được cấp có thẩm quyền phê duyệt; hạn chế tối đa việc chuyển đất sản xuất lúa hai vụ đã được đầu tư thuỷ lợi, hạ tầng cơ sở hoàn chỉnh sang mục đích phi nông nghiệp; tập trung giải phóng mặt bằng và xây dựng kết cấu hạ tầng trong các khu công nghiệp, khu đô thị; giải quyết nhanh chóng, thuận lợi các thủ tục về giao đất, cho thuê đất và các giao dịch về quyền sử dụng đất và tài sản gắn liền với đất."
+ENTITY,E36_33,MUC,Mục,structure,13494,13957,"4. Thực hiện nghiêm Quy chế quản lý đầu tư bằng nguồn vốn nhà nước. Nâng cao trách nhiệm của người ra quyết định và thẩm định các dự án đầu tư. Nâng cao chất lượng công tác quản lý đầu tư xây dựng, công tác giám sát và đánh giá đầu tư của các Bộ chủ quản và địa phương từ khâu lập, phê duyệt quy hoạch, chuẩn bị đầu tư đến quyết định đầu tư, thực hiện đầu tư. Từ năm 2006, tất cả các dự án đầu tư đã hoàn thành phải được kiểm toán trước khi quyết toán công trình."
+ENTITY,E36_34,MUC,Mục,structure,14004,14226,"1. Các Bộ, cơ quan và địa phương khẩn trương phân giao nhiệm vụ kế hoạch năm 2006 cho các đơn vị cơ sở để triển khai thực hiện ngay từ đầu năm. Công bố công khai dự toán ngân sách năm 2006 theo đúng quy định của pháp luật."
+ENTITY,E36_35,MUC,Mục,structure,14227,14582,"2. Tăng cường chỉ đạo công tác thu ngân sách, chống buôn lậu, gian lận thương mại, trốn lậu thuế, kiểm tra và thu triệt để các khoản nợ đọng ngân sách; xử lý kiên quyết, nghiêm minh các vi phạm pháp luật về thuế; phấn đấu tăng thu ngân sách tối thiểu 3% so với dự toán được Thủ tướng Chính phủ giao tại Quyết định số 1194/QĐ-TTg ngày 09 tháng 11 năm 2005."
+ENTITY,E36_36,MUC,Mục,structure,14583,14865,"3. Các Bộ, cơ quan và địa phương chủ động bố trí nguồn kinh phí thực hiện cải cách tiền lương năm 2006 theo Nghị quyết của Quốc hội; đồng thời bố trí vốn đầu tư tập trung cho các dự án chuyển tiếp, có hiệu quả, thanh toán nợ tồn đọng và phải bố trí đủ vốn đối ứng cho các dự án ODA."
+ENTITY,E36_37,MUC,Mục,structure,14866,15188,"4. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương tập trung chỉ đạo công tác quản lý đất đai, cấp Giấy chứng nhận quyền sử dụng đất; tổ chức thực hiện miễn thuế ở khâu đánh bắt hải sản, sản xuất muối chưa qua chế biến và giảm thuế cho những cơ sở sản xuất, kinh doanh sử dụng lao động là người dân tộc thiểu số."
+ENTITY,E36_38,MUC,Mục,structure,15189,15438,"5. Tiếp tục điều hành chính sách tiền tệ, tín dụng thận trọng, linh hoạt. Đổi mới và nâng cao hiệu quả điều hành chính sách tiền tệ của Ngân hàng Nhà nước Việt Nam. Phấn đấu giữ tốc độ tăng giá tiêu dùng năm 2006 thấp hơn tốc độ tăng trưởng kinh tế."
+ENTITY,E36_39,MUC,Mục,structure,15439,15682,"6. Tiếp tục thực hiện chính sách tỷ giá hối đoái linh hoạt, tiến tới mở rộng biên độ tỷ giá phù hợp với mức độ mở cửa thị trường tài chính, hỗ trợ phát triển kinh tế, khuyến khích xuất khẩu, kiểm soát nhập khẩu, tăng dự trữ ngoại hối nhà nước."
+ENTITY,E36_40,MUC,Mục,structure,15683,15877,7. Khẩn trương xây dựng và thực hiện Đề án phát triển hình thức thanh toán không dùng tiền mặt giai đoạn 2006 - 2010 và tầm nhìn đến năm 2020. Đẩy nhanh tiến độ hiện đại hoá hoạt động ngân hàng.
+ENTITY,E36_41,MUC,Mục,structure,15878,16345,"8. Đổi mới toàn diện công tác thanh tra, giám sát ngân hàng, nâng cao hiệu quả và chất lượng thanh tra, giám sát bảo đảm sự an toàn của hệ thống. Chấn chỉnh, củng cố công tác kiểm toán và kiểm soát nội bộ tại các tổ chức tín dụng. Áp dụng các biện pháp nâng cao chất lượng tín dụng và kiểm soát tăng trưởng tài sản có rủi ro nhằm ngăn chặn tình trạng gia tăng nợ xấu của các tổ chức tín dụng; phát hiện và xử lý kịp thời các vi phạm trong hoạt động tín dụng, tiền tệ."
+ENTITY,E36_42,MUC,Mục,structure,16346,16714,"9. Xây dựng và tổ chức thực hiện Đề án đổi mới tín dụng xuất khẩu, tín dụng đầu tư phát triển của Nhà nước phục vụ chuyển đổi cơ cấu và tăng trưởng kinh tế, khuyến khích xuất khẩu; hình thức và mức độ hỗ trợ phải phù hợp với các cam kết quốc tế. Nâng cao năng lực tài chính của Ngân hàng Chính sách Xã hội để đáp ứng nhu cầu vay vốn của các hộ nghèo theo tiêu chí mới."
+ENTITY,E36_43,MUC,Mục,structure,16765,17217,"1. Tiếp tục đàm phán để gia nhập Tổ chức Thương mại Thế giới (WTO) đáp ứng lợi ích trước mắt và lâu dài của đất nước. Đẩy mạnh tuyên truyền sâu rộng cho các cơ quan nhà nước, cộng đồng doanh nghiệp và toàn dân về hội nhập kinh tế quốc tế, nhất là thực hiện các cam kết AFTA, WTO; tích cực và chủ động triển khai các biện pháp tốt nhất để tranh thủ thời cơ, vượt qua thách thức và hạn chế tiêu cực của quá trình hội nhập kinh tế quốc tế và toàn cầu hóa."
+ENTITY,E36_44,MUC,Mục,structure,17218,17414,"2. Lựa chọn và áp dụng phương án đầu tư với công nghệ cao đối với những sản phẩm, dịch vụ có lợi thế so sánh, có sức cạnh tranh; phát triển các ngành kinh tế có hàm lượng trí tuệ và công nghệ cao."
+ENTITY,E36_45,MUC,Mục,structure,17415,17622,"3. Phát triển kinh tế tư nhân, bao gồm cả doanh nghiệp lớn, vừa và nhỏ với cách làm mới, năng động, mạnh dạn, sáng tạo, có hiệu quả kinh tế, xã hội cao để nâng cao hiệu quả và sức cạnh tranh của nền kinh tế."
+ENTITY,E36_46,MUC,Mục,structure,17623,18044,"4. Triển khai mạnh mẽ các giải pháp mở rộng thị trường, đẩy mạnh sản xuất hàng xuất khẩu theo hướng tăng tỷ trọng hàng công nghiệp, hàng đã qua chế biến để nâng cao giá trị hàng hoá xuất khẩu; áp dụng các biện pháp cụ thể để tiếp tục khuyến khích xuất khẩu, nhất là đối với các mặt hàng có mức tăng trưởng cao và giá trị gia tăng lớn. Thực hiện các biện pháp tổ chức lại sản xuất theo lộ trình cắt giảm bảo hộ và trợ cấp."
+ENTITY,E36_47,MUC,Mục,structure,18045,18318,"5. Đẩy mạnh xúc tiến thương mại, chú trọng các thị trường lớn như EU, Hoa Kỳ, Nhật Bản, Trung Quốc và các thị trường có tiềm năng khác; nâng cao chất lượng hỗ trợ và hướng dẫn các doanh nghiệp triển khai thực hiện các giải pháp mở rộng thị trường, dự báo giá cả thị trường."
+ENTITY,E36_48,MUC,Mục,structure,18319,18620,"6. Tổ chức tốt việc thực hiện các biện pháp phòng vệ chính đáng đối với hàng hoá sản xuất trong nước, phù hợp với các quy định của WTO và các cam kết quốc tế mà Việt Nam đã ký kết. Chủ động có các biện pháp điều tiết vĩ mô để đối phó với những biến động của thị trường quốc tế (về giá, cung - cầu...)."
+ENTITY,E36_49,MUC,Mục,structure,18958,19118,"1. Chuyển từ cơ chế Nhà nước hỗ trợ cho các đơn vị cung ứng các dịch vụ nói trên sang hỗ trợ trực tiếp cho người thụ hưởng ở những lĩnh vực, nhiệm vụ thích hợp."
+ENTITY,E36_50,MUC,Mục,structure,19119,19331,"2. Công bố công khai, minh bạch mức thu phí dịch vụ tại các cơ sở dịch vụ công lập và ngoài công lập; tất cả các tổ chức, cá nhân không được quy định thêm bất kỳ khoản thu nào ngoài các khoản thu đã được công bố."
+ENTITY,E36_51,MUC,Mục,structure,19332,19856,"3. Điều chỉnh lại cơ cấu đào tạo theo bậc đào tạo, theo ngành và lãnh thổ, chú trọng các vùng: Tây Nguyên, Tây Bắc, đồng bằng sông Cửu Long; tăng quy mô đào tạo gắn với củng cố chất lượng đào tạo, ưu tiên những ngành nghề phục vụ phát triển kinh tế - xã hội. Nâng cao tỷ lệ học sinh nữ ở các cấp học cao, gắn đào tạo với nhu cầu phát triển kinh tế - xã hội.
+Tổ chức triển khai Nghị quyết số 14/2005/NQ-CP ngày 02 tháng 11 năm 2005 của Chính phủ về đổi mới cơ bản và toàn diện giáo dục đại học Việt Nam giai đoạn 2006 - 2020."
+ENTITY,E36_52,MUC,Mục,structure,19857,20298,"4. Nghiên cứu và có giải pháp, lộ trình về chế độ học phí phù hợp với chủ trương xã hội hoá giáo dục. Có cơ chế và biện pháp cụ thể giải quyết chỗ ở cho sinh viên các trường đại học, cao đẳng, nhất là chỗ ở cho sinh viên các trường sư phạm, trường trọng điểm và trường ở khu vực kinh tế - xã hội khó khăn.
+Nghiên cứu và có giải pháp, lộ trình thực hiện chế độ viện phí phù hợp với chủ trương xã hội hóa và đẩy nhanh phát triển bảo hiểm y tế."
+ENTITY,E36_53,MUC,Mục,structure,20299,20436,"5. Rà soát lại chương trình, nội dung nghiên cứu khoa học của các Bộ, ngành, địa phương, đổi mới công tác nghiên cứu khoa học theo hướng:"
+ENTITY,E36_54,MUC,Mục,structure,21701,21861,"1. Các Bộ, cơ quan và địa phương phải xây dựng Chương trình hành động cụ thể thực hiện Luật Phòng, chống tham nhũng và Luật Thực hành tiết kiệm, chống lãng phí."
+ENTITY,E36_55,MUC,Mục,structure,21862,22169,"2. Tổ chức để cán bộ, công chức trong tất cả các ngành, các cấp quán triệt đầy đủ Luật Phòng, chống tham nhũng và Luật Thực hành tiết kiệm, chống lãng phí, tạo sự chuyển biến trong nhận thức và hành động ở mọi cấp, mọi ngành và toàn xã hội trong phòng, chống tham nhũng, thực hành tiết kiệm, chống lãng phí."
+ENTITY,E36_56,MUC,Mục,structure,22170,22371,"3. Xúc tiến việc thành lập Ban Chỉ đạo Trung ương về phòng, chống tham nhũng và bộ phận thường trực hoạt động chuyên trách giúp việc cho Ban Chỉ đạo theo đúng quy định của Luật Phòng, chống tham nhũng."
+ENTITY,E36_57,MUC,Mục,structure,22372,22846,"4. Các cấp, các ngành, các địa phương phải kiên quyết, triệt để đấu tranh chống tham nhũng, lãng phí, tiêu cực, trước hết là tham nhũng trong quản lý đất đai, đầu tư xây dựng, quản lý vốn, tài sản của Nhà nước, quản lý doanh nghiệp nhà nước, lãng phí trong sử dụng tài sản công, tiếp khách, hội nghị, hội thảo, mít tinh, kỷ niệm, đón nhận các danh hiệu thi đua, đi công tác, khảo sát, học tập ở trong và ngoài nước, mua sắm sử dụng ô tô công, lãng phí thời gian, lao động..."
+ENTITY,E36_58,MUC,Mục,structure,22847,23546,"5. Người đứng đầu cơ quan, đơn vị từ Trung ương đến địa phương phải đề cao trách nhiệm cá nhân, gương mẫu trong đấu tranh phòng, chống tham nhũng, thực hành tiết kiệm, chống lãng phí; phải chịu trách nhiệm khi để xảy ra tham nhũng, lãng phí ở cơ quan, đơn vị mình; nâng cao chất lượng công tác quản lý, tuyển dụng, sử dụng, đào tạo, bồi dưỡng công chức; phải tổ chức tăng cường công tác kiểm tra việc thực thi chức trách công vụ của công chức trong phạm vi quản lý; xử lý nghiêm, kịp thời những cán bộ, công chức lợi dụng chức vụ, quyền hạn được giao nhũng nhiễu, gây phiền hà cho dân và doanh nghiệp; kiên quyết đưa ra khỏi bộ máy những cán bộ, công chức thoái hoá, biến chất, tham nhũng, tiêu cực."
+ENTITY,E36_59,MUC,Mục,structure,23547,23846,"6. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương phải xem cải cách hành chính là một trong những nhiệm vụ trọng tâm trong công tác chỉ đạo, điều hành, xây dựng và triển khai kế hoạch cải cách hành chính của cơ quan và địa phương mình."
+ENTITY,E36_60,MUC,Mục,structure,23870,24127,"1. Căn cứ Nghị quyết này và các nhiệm vụ cụ thể tại Phụ lục kèm theo, các Bộ, cơ quan và địa phương khẩn trương xây dựng thành Chương trình công tác năm 2006 của mình, xác định rõ các trọng tâm để có biện pháp chỉ đạo, điều hành thích hợp, đạt hiệu quả cao."
+ENTITY,E36_61,MUC,Mục,structure,24128,24463,"2. Các Bộ, Ủy ban nhân dân các cấp cần phát động phong trào thi đua sôi nổi, kịp thời tuyên dương các điển hình tiên tiến để lập thành tích chào mừng các ngày lễ lớn trong năm 2006, trước hết là chào mừng Đại hội Đảng toàn quốc lần thứ X, góp phần thực hiện tốt kế hoạch phát triển kinh tế - xã hội 5 năm (2006 - 2010) ngay từ năm đầu."
+ENTITY,E36_62,MUC,Mục,structure,24464,24760,"3. Chính phủ sẽ tổ chức các hội nghị chuyên đề với địa phương bàn về các công tác cơ bản lâu dài cũng như để xử lý các vấn đề bức xúc phát sinh trong diện rộng; đồng thời, duy trì giao ban hàng tháng để kiểm điểm tình hình và đề ra các biện pháp đẩy mạnh thực hiện kế hoạch và ngân sách nhà nước."
+ENTITY,E36_63,MUC,Mục,structure,24761,25074,"4. Định kỳ 6 tháng, các Bộ, cơ quan và Ủy ban nhân dân cấp tỉnh báo cáo Thủ tướng Chính phủ tình hình thực hiện Nghị quyết này, đồng thời gửi Bộ Kế hoạch và Đầu tư để tổng hợp, đánh giá mức độ hoàn thành của từng Bộ, cơ quan và địa phương, báo cáo Chính phủ tại phiên họp Chính phủ tháng 6 và tháng 12 năm 2006./."
+ENTITY,E40_1,DIEM,Điểm,structure,20437,20551,"a) Tập trung nghiên cứu các đề tài gắn với ứng dụng vào thực tiễn đời sống, các đề tài nghiên cứu khoa học cơ bản."
+ENTITY,E40_2,DIEM,Điểm,structure,20552,20803,"b) Đổi mới phương pháp xây dựng nhiệm vụ khoa học trọng điểm quốc gia theo hướng phát huy tối đa tiềm năng khoa học và công nghệ trong nước, gắn kết chặt chẽ với xu thế phát triển khoa học và công nghệ thế giới phù hợp với tiến trình hội nhập quốc tế."
+ENTITY,E40_3,DIEM,Điểm,structure,20804,21354,"c) Nghiên cứu, xây dựng chiến lược đào tạo, phát triển nguồn nhân lực khoa học và công nghệ, trọng dụng nhân tài. Xây dựng đề án hình thành và phát triển các tập thể khoa học và công nghệ mạnh với đội ngũ các nhà khoa học đầu ngành, tổng công trình sư, kỹ sư trưởng, kỹ thuật viên lành nghề có trình độ khu vực và quốc tế, đủ sức hoàn thành các nhiệm vụ khoa học và công nghệ quốc gia, gắn với chiến lược hội nhập quốc tế về khoa học và công nghệ, sớm rút ngắn khoảng cách về khoa học và công nghệ giữa nước ta với các nước trong khu vực và thế giới."
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E2_1,E29_6,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E2_1,E29_7,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E2_1,E29_8,,
+RELATION,R17_9,DAN_CHIEU,Dẫn chiếu,E2_1,E29_9,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E35_1,E34_1,,
+RELATION,R22_4,THUOC,Thuộc,E35_2,E34_1,,
+RELATION,R22_5,THUOC,Thuộc,E35_3,E34_1,,
+RELATION,R22_6,THUOC,Thuộc,E35_4,E34_1,,
+RELATION,R22_7,THUOC,Thuộc,E35_5,E34_1,,
+RELATION,R22_8,THUOC,Thuộc,E35_6,E34_1,,
+RELATION,R22_9,THUOC,Thuộc,E35_7,E34_2,,
+RELATION,R22_10,THUOC,Thuộc,E35_8,E34_2,,
+RELATION,R22_11,THUOC,Thuộc,E36_1,E35_1,,
+RELATION,R22_12,THUOC,Thuộc,E36_2,E35_1,,
+RELATION,R22_13,THUOC,Thuộc,E36_3,E35_1,,
+RELATION,R22_14,THUOC,Thuộc,E36_4,E35_1,,
+RELATION,R22_15,THUOC,Thuộc,E36_5,E35_2,,
+RELATION,R22_16,THUOC,Thuộc,E36_6,E35_2,,
+RELATION,R22_17,THUOC,Thuộc,E36_7,E35_2,,
+RELATION,R22_18,THUOC,Thuộc,E36_8,E35_3,,
+RELATION,R22_19,THUOC,Thuộc,E36_9,E35_3,,
+RELATION,R22_20,THUOC,Thuộc,E36_10,E35_3,,
+RELATION,R22_21,THUOC,Thuộc,E36_11,E35_4,,
+RELATION,R22_22,THUOC,Thuộc,E36_12,E35_4,,
+RELATION,R22_23,THUOC,Thuộc,E36_13,E35_4,,
+RELATION,R22_24,THUOC,Thuộc,E36_14,E35_4,,
+RELATION,R22_25,THUOC,Thuộc,E36_15,E35_4,,
+RELATION,R22_26,THUOC,Thuộc,E36_16,E35_4,,
+RELATION,R22_27,THUOC,Thuộc,E36_17,E35_4,,
+RELATION,R22_28,THUOC,Thuộc,E36_18,E35_5,,
+RELATION,R22_29,THUOC,Thuộc,E36_19,E35_5,,
+RELATION,R22_30,THUOC,Thuộc,E36_20,E35_5,,
+RELATION,R22_31,THUOC,Thuộc,E36_21,E35_6,,
+RELATION,R22_32,THUOC,Thuộc,E36_22,E35_6,,
+RELATION,R22_33,THUOC,Thuộc,E36_23,E35_6,,
+RELATION,R22_34,THUOC,Thuộc,E36_24,E35_6,,
+RELATION,R22_35,THUOC,Thuộc,E36_25,E35_6,,
+RELATION,R22_36,THUOC,Thuộc,E36_26,E35_7,,
+RELATION,R22_37,THUOC,Thuộc,E36_27,E35_7,,
+RELATION,R22_38,THUOC,Thuộc,E36_28,E35_7,,
+RELATION,R22_39,THUOC,Thuộc,E36_29,E35_7,,
+RELATION,R22_40,THUOC,Thuộc,E36_30,E35_8,,
+RELATION,R22_41,THUOC,Thuộc,E36_31,E35_8,,
+RELATION,R22_42,THUOC,Thuộc,E36_32,E35_8,,
+RELATION,R22_43,THUOC,Thuộc,E36_33,E35_8,,
+RELATION,R22_44,THUOC,Thuộc,E36_34,E34_3,,
+RELATION,R22_45,THUOC,Thuộc,E36_35,E34_3,,
+RELATION,R22_46,THUOC,Thuộc,E36_36,E34_3,,
+RELATION,R22_47,THUOC,Thuộc,E36_37,E34_3,,
+RELATION,R22_48,THUOC,Thuộc,E36_38,E34_3,,
+RELATION,R22_49,THUOC,Thuộc,E36_39,E34_3,,
+RELATION,R22_50,THUOC,Thuộc,E36_40,E34_3,,
+RELATION,R22_51,THUOC,Thuộc,E36_41,E34_3,,
+RELATION,R22_52,THUOC,Thuộc,E36_42,E34_3,,
+RELATION,R22_53,THUOC,Thuộc,E36_43,E34_4,,
+RELATION,R22_54,THUOC,Thuộc,E36_44,E34_4,,
+RELATION,R22_55,THUOC,Thuộc,E36_45,E34_4,,
+RELATION,R22_56,THUOC,Thuộc,E36_46,E34_4,,
+RELATION,R22_57,THUOC,Thuộc,E36_47,E34_4,,
+RELATION,R22_58,THUOC,Thuộc,E36_48,E34_4,,
+RELATION,R22_59,THUOC,Thuộc,E36_49,E34_5,,
+RELATION,R22_60,THUOC,Thuộc,E36_50,E34_5,,
+RELATION,R22_61,THUOC,Thuộc,E36_51,E34_5,,
+RELATION,R22_62,THUOC,Thuộc,E36_52,E34_5,,
+RELATION,R22_63,THUOC,Thuộc,E36_53,E34_5,,
+RELATION,R22_64,THUOC,Thuộc,E36_54,E34_6,,
+RELATION,R22_65,THUOC,Thuộc,E36_55,E34_6,,
+RELATION,R22_66,THUOC,Thuộc,E36_56,E34_6,,
+RELATION,R22_67,THUOC,Thuộc,E36_57,E34_6,,
+RELATION,R22_68,THUOC,Thuộc,E36_58,E34_6,,
+RELATION,R22_69,THUOC,Thuộc,E36_59,E34_6,,
+RELATION,R22_70,THUOC,Thuộc,E36_60,E34_7,,
+RELATION,R22_71,THUOC,Thuộc,E36_61,E34_7,,
+RELATION,R22_72,THUOC,Thuộc,E36_62,E34_7,,
+RELATION,R22_73,THUOC,Thuộc,E36_63,E34_7,,
+RELATION,R22_74,THUOC,Thuộc,E40_1,E36_53,,
+RELATION,R22_75,THUOC,Thuộc,E40_2,E36_53,,
+RELATION,R22_76,THUOC,Thuộc,E40_3,E36_53,,

@@ -1,0 +1,125 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,111,Nghị quyết số 03/2025/NQ-HĐTP hướng dẫn áp dụng một số quy định về chuyển hình phạt tử hình thành tù chung thân
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,29,03/2025/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E4_1,NGANH,Ngành,metadata,14673,14679,Tòa án
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,265,289,ngày 30 tháng 9 năm 2025
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,14692,14706,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,14727,14737,2025-10-15
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,14761,14773,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,1005,1028,Tòa án nhân dân tối cao
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,12517,12525,Chánh án
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,14600,14611,Lê Minh Trí
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,424,531,"Luật Tổ chức Tòa án nhân dân số 34/2024/QH15 đã được sửa đổi, bổ sung một số điều theo Luật số 81/2025/QH15"
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,540,681,"Bộ luật Hình sự số 100/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 12/2017/QH14, Luật số 59/2024/QH15 và Luật số 86/2025/QH15"
+ENTITY,E38_1,DIEU,Điều,structure,1132,1433,"Điều 1. Phạm vi điều chỉnh
+Nghị quyết này hướng dẫn áp dụng một số quy định tại khoản 2 và khoản 3 Điều 4 của Luật sửa đổi, bổ sung một số điều của Bộ luật Hình sự số 86/2025/QH15 về chuyển hình phạt tử hình thành tù chung thân đối với người bị kết án tử hình trước ngày 01/7/2025 mà chưa thi hành án."
+ENTITY,E38_2,DIEU,Điều,structure,1434,1660,"Điều 2. Trường hợp chuyển hình phạt tử hình thành tù chung thân
+Người bị kết án tử hình trước ngày 01/7/2025 mà chưa thi hành án thì được chuyển hình phạt tử hình thành tù chung thân nếu thuộc một trong các trường hợp sau đây:"
+ENTITY,E38_3,DIEU,Điều,structure,3115,3245,Điều 3. Về chuyển hình phạt tử hình thành tù chung thân đối với trường hợp quy định tại điểm c khoản 3 Điều 40 của Bộ luật Hình sự
+ENTITY,E38_4,DIEU,Điều,structure,4543,4726,"Điều 4. Về chuyển hình phạt tử hình thành tù chung thân đối với trường hợp quy định tại điểm a khoản 3 Điều 4 của Luật sửa đổi, bổ sung một số điều của Bộ luật Hình sự số 86/2025/QH15"
+ENTITY,E38_5,DIEU,Điều,structure,6530,7051,"Điều 5. Về chuyển hình phạt tử hình thành tù chung thân đối với trường hợp quy định tại điểm b khoản 3 Điều 4 của Luật sửa đổi, bổ sung một số điều của Bộ luật Hình sự số 86/2025/QH15
+Người bị kết án tử hình về Tội sản xuất trái phép chất ma túy (Điều 248), Tội mua bán trái phép chất ma túy (Điều 251) được chuyển thành tù chung thân nếu trong bản án xác định khối lượng, thể tích chất ma túy lớn hơn khối lượng, thể tích chất ma túy được xác định tại Điều 4 của Nghị quyết này và thuộc một trong các trường hợp sau đây:"
+ENTITY,E38_6,DIEU,Điều,structure,8047,8150,"Điều 6. Xem xét, quyết định chuyển hình phạt tử hình thành tù chung thân trong một số trường hợp cụ thể"
+ENTITY,E38_7,DIEU,Điều,structure,10841,11225,"Điều 7. Rà soát, lập danh sách đối với trường hợp quy định tại khoản 3 Điều 4 của Luật sửa đổi, bổ sung một số điều của Bộ luật Hình sự số 86/2025/QH15
+Việc rà soát, lập danh sách người bị kết án tử hình được chuyển hình phạt tử hình thành tù chung thân theo quy định tại khoản 3 Điều 4 của Luật sửa đổi, bổ sung một số điều của Bộ luật Hình sự số 86/2025/QH15 được thực hiện như sau:"
+ENTITY,E38_8,DIEU,Điều,structure,12616,12676,Điều 8. Xem xét chuyển hình phạt tử hình thành tù chung thân
+ENTITY,E38_9,DIEU,Điều,structure,13856,14041,"Điều 9. Hiệu lực thi hành
+Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 30 tháng 9 năm 2025 và có hiệu lực thi hành kể từ ngày 15 tháng 10 năm 2025./."
+ENTITY,E39_1,KHOAN,Khoản,structure,1661,1914,"1. Bị mắc bệnh ung thư giai đoạn cuối quy định tại điểm c khoản 3 Điều 40 của Bộ luật Hình sự số 100/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 12/2017/QH14, Luật số 59/2024/QH15 và Luật số 86/2025/QH15 (sau đây gọi là Bộ luật Hình sự);"
+ENTITY,E39_2,KHOAN,Khoản,structure,1915,2388,"2. Bị kết án tử hình về một trong các tội: Tội hoạt động nhằm lật đổ chính quyền nhân dân (Điều 109); Tội gián điệp (Điều 110); Tội phá hoại cơ sở vật chất - kỹ thuật của nước Cộng hòa xã hội chủ nghĩa Việt Nam (Điều 114); Tội sản xuất, buôn bán hàng giả là thuốc chữa bệnh, thuốc phòng bệnh (Điều 194); Tội vận chuyển trái phép chất ma túy (Điều 250); Tội tham ô tài sản (Điều 353); Tội nhận hối lộ (Điều 354) và Tội phá hoại hòa bình, gây chiến tranh xâm lược (Điều 421);"
+ENTITY,E39_3,KHOAN,Khoản,structure,2389,2552,3. Bị kết án tử hình về Tội sản xuất trái phép chất ma túy (Điều 248) hoặc Tội mua bán trái phép chất ma túy (Điều 251) nếu thuộc một trong các trường hợp sau đây:
+ENTITY,E39_4,KHOAN,Khoản,structure,3246,3702,"1. Người bị kết án tử hình mắc bệnh ung thư giai đoạn cuối được xem xét, chuyển hình phạt tử hình thành tù chung thân phải có kết luận của cơ sở khám bệnh, chữa bệnh cấp chuyên sâu theo quy định của Luật Khám bệnh, chữa bệnh và văn bản hướng dẫn thi hành xác định họ mắc bệnh ung thư giai đoạn cuối. Kết luận của cơ sở khám bệnh, chữa bệnh tính từ thời điểm ban hành đến thời điểm Chánh án Tòa án nhân dân tối cao xem xét, quyết định là không quá 06 tháng."
+ENTITY,E39_5,KHOAN,Khoản,structure,3703,4269,"2. Sau khi nhận được văn bản của trại tạm giam thuộc Bộ Công an, trại tạm giam thuộc Bộ Quốc phòng, trại tạm giam Công an cấp tỉnh về việc người bị kết án tử hình thuộc trường hợp quy định tại điểm c khoản 3 Điều 40 của Bộ luật Hình sự hoặc trong quá trình rà soát, phát hiện người bị kết án tử hình thuộc trường hợp quy định tại điểm c khoản 3 Điều 40 của Bộ luật Hình sự, Tòa án đã xét xử sơ thẩm phải lập danh sách người được chuyển hình phạt tử hình thành tù chung thân và gửi danh sách này cùng hồ sơ vụ án, tài liệu kèm theo đến Viện kiểm sát nhân dân tối cao."
+ENTITY,E39_6,KHOAN,Khoản,structure,4270,4542,"3. Ngay sau khi nhận được danh sách người được chuyển hình phạt tử hình thành tù chung thân cùng hồ sơ vụ án, tài liệu kèm theo và ý kiến của Viện kiểm sát nhân dân tối cao, Chánh án Tòa án nhân dân tối cao xem xét, quyết định chuyển hình phạt tử hình thành tù chung thân."
+ENTITY,E39_7,KHOAN,Khoản,structure,4727,4902,"1. Người bị kết án tử hình về Tội sản xuất trái phép chất ma túy (Điều 248) được chuyển thành tù chung thân nếu trong bản án xác định khối lượng, thể tích chất ma túy như sau:"
+ENTITY,E39_8,KHOAN,Khoản,structure,5456,5630,"2. Người bị kết án tử hình về Tội mua bán trái phép chất ma túy (Điều 251) được chuyển thành tù chung thân nếu trong bản án xác định khối lượng, thể tích chất ma túy như sau:"
+ENTITY,E39_9,KHOAN,Khoản,structure,7052,7185,"1. Trong bản án không nhận định họ là người chủ mưu, cầm đầu hoặc chỉ huy. Người chủ mưu, cầm đầu hoặc chỉ huy được xác định như sau:"
+ENTITY,E39_10,KHOAN,Khoản,structure,7644,8046,"2. Trong bản án xác định họ không có 02 tình tiết tăng nặng trách nhiệm hình sự trở lên quy định tại Điều 52 của Bộ luật Hình sự. Trường hợp này, Tòa án chỉ căn cứ vào các tình tiết tăng nặng trách nhiệm hình sự quy định tại Điều 52 của Bộ luật Hình sự mà không căn cứ vào các tình tiết giảm nhẹ trách nhiệm hình sự quy định tại Điều 51 của Bộ luật Hình sự để xem xét, quyết định việc chuyển hình phạt."
+ENTITY,E39_11,KHOAN,Khoản,structure,8151,8356,"1. Khi xem xét, quyết định chuyển hình phạt tử hình thành tù chung thân đối với trường hợp hướng dẫn tại Điều 5 của Nghị quyết này, Tòa án căn cứ vào bản án sơ thẩm, bản án phúc thẩm và giải quyết như sau:"
+ENTITY,E39_12,KHOAN,Khoản,structure,9396,9803,"2. Trường hợp vụ án có đồng phạm nhưng chỉ 01 bị cáo bị đưa ra xét xử và bị kết án tử hình về Tội sản xuất trái phép chất ma túy (Điều 248) hoặc Tội mua bán trái phép chất ma túy (Điều 251) thì Tòa án chuyển hình phạt tử hình thành tù chung thân nếu bản án không nhận định, đánh giá người bị kết án tử hình là người chủ mưu, cầm đầu, chỉ huy hoặc không có 02 tình tiết tăng nặng trách nhiệm hình sự trở lên."
+ENTITY,E39_13,KHOAN,Khoản,structure,9804,10093,3. Trường hợp vụ án không có đồng phạm và bị cáo bị kết án tử hình về Tội sản xuất trái phép chất ma túy (Điều 248) hoặc Tội mua bán trái phép chất ma túy (Điều 251) thì Tòa án chuyển hình phạt tử hình thành tù chung thân nếu họ không có 02 tình tiết tăng nặng trách nhiệm hình sự trở lên.
+ENTITY,E39_14,KHOAN,Khoản,structure,10094,10454,"4. Trường hợp người phạm tội về Tội sản xuất trái phép chất ma túy (Điều 248) hoặc Tội mua bán trái phép chất ma túy (Điều 251) 02 lần trở lên nhưng bị xét xử trong cùng một vụ án và bị kết án tử hình trong đó có ít nhất 01 lần thực hiện tội phạm với vai trò là người chủ mưu, cầm đầu hoặc chỉ huy thì Tòa án không chuyển hình phạt tử hình thành tù chung thân."
+ENTITY,E39_15,KHOAN,Khoản,structure,10455,10840,"5. Trường hợp người bị kết án về Tội sản xuất trái phép chất ma túy (Điều 248) hoặc Tội mua bán trái phép chất ma túy (Điều 251) tại nhiều bản án, trong đó bản án tử hình nhận định họ không phải là người chủ mưu, cầm đầu hoặc chỉ huy, các bản án khác không phải bản án tử hình nhận định họ là người chủ mưu, cầm đầu hoặc chỉ huy thì Tòa án chuyển hình phạt tử hình thành tù chung thân."
+ENTITY,E39_16,KHOAN,Khoản,structure,11226,11525,"1. Trường hợp Tòa án đã xét xử sơ thẩm đang quản lý hồ sơ vụ án thì rà soát, lập danh sách người bị kết án tử hình được chuyển thành tù chung thân và gửi danh sách này cùng hồ sơ vụ án, tài liệu kèm theo (nếu có) đến Tòa án nhân dân tối cao trong thời hạn 03 ngày làm việc, kể từ ngày lập danh sách;"
+ENTITY,E39_17,KHOAN,Khoản,structure,11526,11976,"2. Trường hợp Tòa Phúc thẩm Tòa án nhân dân tối cao đang quản lý hồ sơ vụ án, nếu bản án phúc thẩm giữ nguyên bản án sơ thẩm về hình phạt tử hình thì chuyển hồ sơ vụ án đến Tòa án nhân dân cấp tỉnh đã xét xử sơ thẩm để rà soát, lập danh sách người bị kết án tử hình được chuyển thành tù chung thân và gửi danh sách này cùng hồ sơ vụ án, tài liệu kèm theo (nếu có) đến Tòa án nhân dân tối cao trong thời hạn 03 ngày làm việc, kể từ ngày lập danh sách;"
+ENTITY,E39_18,KHOAN,Khoản,structure,11977,12277,"3. Trường hợp Tòa án quân sự Trung ương đang quản lý hồ sơ vụ án thì rà soát, lập danh sách người bị kết án tử hình được chuyển thành tù chung thân và gửi danh sách này cùng hồ sơ vụ án, tài liệu kèm theo (nếu có) đến Tòa án nhân dân tối cao trong thời hạn 03 ngày làm việc, kể từ ngày lập danh sách;"
+ENTITY,E39_19,KHOAN,Khoản,structure,12278,12615,"4. Trường hợp sau khi nhận được danh sách người bị kết án tử hình được chuyển hình phạt tử hình thành tù chung thân cùng hồ sơ vụ án, tài liệu kèm theo (nếu có) do Viện kiểm sát nhân dân tối cao hoặc Văn phòng Chủ tịch nước chuyển đến thì Chánh án Tòa án nhân dân tối cao xem xét, quyết định chuyển hình phạt tử hình thành tù chung thân."
+ENTITY,E39_20,KHOAN,Khoản,structure,12677,12786,"1. Chánh án Tòa án nhân dân tối cao xem xét, quyết định chuyển hình phạt tử hình thành tù chung thân như sau:"
+ENTITY,E39_21,KHOAN,Khoản,structure,13173,13431,"2. Quyết định tại điểm b khoản 1 Điều này được gửi cho Văn phòng Chủ tịch nước, Viện kiểm sát nhân dân tối cao, Tòa án đã xét xử sơ thẩm, Viện kiểm sát cùng cấp với Tòa án đã xét xử sơ thẩm, trại tạm giam nơi đang giam giữ người bị kết án và người bị kết án."
+ENTITY,E39_22,KHOAN,Khoản,structure,13432,13855,"3. Trong thời hạn 07 ngày, kể từ ngày nhận được Quyết định chuyển hình phạt tử hình thành tù chung thân của Chánh án Tòa án nhân dân tối cao, Chánh án Tòa án đã xét xử sơ thẩm ra quyết định thi hành án hình phạt tù chung thân đối với người được chuyển hình phạt tử hình thành tù chung thân.
+Thời gian người bị kết án tử hình bị tạm giam trước khi được chuyển thành tù chung thân được tính vào thời hạn chấp hành án phạt tù."
+ENTITY,E40_1,DIEM,Điểm,structure,2553,2774,"a) Khối lượng, thể tích chất ma túy được xác định trong bản án để quyết định hình phạt bằng hoặc thấp hơn khối lượng, thể tích chất ma túy thấp nhất quy định tại khoản 5 Điều 248 hoặc khoản 5 Điều 251 của Bộ luật Hình sự;"
+ENTITY,E40_2,DIEM,Điểm,structure,2775,3114,"b) Khối lượng, thể tích chất ma túy được xác định trong bản án để quyết định hình phạt lớn hơn khối lượng, thể tích chất ma túy thấp nhất quy định tại khoản 5 Điều 248 hoặc khoản 5 Điều 251 của Bộ luật Hình sự mà người phạm tội không phải là người chủ mưu, cầm đầu, chỉ huy hoặc không có 02 tình tiết tăng nặng trách nhiệm hình sự trở lên."
+ENTITY,E40_3,DIEM,Điểm,structure,4903,4994,"a) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng bằng hoặc thấp hơn 30 kilôgam;"
+ENTITY,E40_4,DIEM,Điểm,structure,4995,5107,"b) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng bằng hoặc thấp hơn 03 kilôgam;"
+ENTITY,E40_5,DIEM,Điểm,structure,5108,5186,c) Các chất ma túy khác ở thể rắn có khối lượng bằng hoặc thấp hơn 09 kilôgam;
+ENTITY,E40_6,DIEM,Điểm,structure,5187,5260,d) Các chất ma túy khác ở thể lỏng có thể tích bằng hoặc thấp hơn 22 lít;
+ENTITY,E40_7,DIEM,Điểm,structure,5261,5455,đ) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm a đến điểm d khoản này.
+ENTITY,E40_8,DIEM,Điểm,structure,5631,5722,"a) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có khối lượng bằng hoặc thấp hơn 30 kilôgam;"
+ENTITY,E40_9,DIEM,Điểm,structure,5723,5835,"b) Heroine, Cocaine, Methamphetamine, Amphetamine, MDMA hoặc XLR-11 có khối lượng bằng hoặc thấp hơn 03 kilôgam;"
+ENTITY,E40_10,DIEM,Điểm,structure,5836,6040,"c) Lá cây côca; lá khát (lá cây Catha edulis); lá, rễ, thân, cành, hoa, quả của cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định có khối lượng bằng hoặc thấp hơn 150 kilôgam;"
+ENTITY,E40_11,DIEM,Điểm,structure,6041,6111,d) Quả thuốc phiện khô có khối lượng bằng hoặc thấp hơn 1.200 kilôgam;
+ENTITY,E40_12,DIEM,Điểm,structure,6112,6181,đ) Quả thuốc phiện tươi có khối lượng bằng hoặc thấp hơn 300 kilôgam;
+ENTITY,E40_13,DIEM,Điểm,structure,6182,6260,e) Các chất ma túy khác ở thể rắn có khối lượng bằng hoặc thấp hơn 09 kilôgam;
+ENTITY,E40_14,DIEM,Điểm,structure,6261,6334,g) Các chất ma túy khác ở thể lỏng có thể tích bằng hoặc thấp hơn 22 lít;
+ENTITY,E40_15,DIEM,Điểm,structure,6335,6529,h) Có 02 chất ma túy trở lên mà tổng khối lượng hoặc thể tích của các chất đó tương đương với khối lượng hoặc thể tích chất ma túy quy định tại một trong các điểm từ điểm a đến điểm g khoản này.
+ENTITY,E40_16,DIEM,Điểm,structure,7186,7284,"a) Người chủ mưu là người thành lập, rủ rê hoặc lôi kéo nhóm đồng phạm thực hiện hành vi phạm tội;"
+ENTITY,E40_17,DIEM,Điểm,structure,7285,7406,"b) Người cầm đầu là người khởi xướng chủ trương, đưa ra ý tưởng, kế hoạch hoặc phương hướng hoạt động của nhóm đồng phạm;"
+ENTITY,E40_18,DIEM,Điểm,structure,7407,7533,"c) Người chỉ huy là người phân công, giao trách nhiệm, đôn đốc, trực tiếp chỉ đạo hoặc điều hành hoạt động của nhóm đồng phạm;"
+ENTITY,E40_19,DIEM,Điểm,structure,7534,7643,"d) Cũng được coi là người chủ mưu, cầm đầu, chỉ huy đối với người có hành vi tổ chức việc thực hiện tội phạm."
+ENTITY,E40_20,DIEM,Điểm,structure,8357,8729,"a) Trường hợp bản án sơ thẩm nhận định, đánh giá người bị kết án tử hình là người chủ mưu, cầm đầu hoặc chỉ huy theo hướng dẫn tại khoản 1 Điều 5 của Nghị quyết này nhưng bản án phúc thẩm không nhận định hoặc có nhận định người bị kết án tử hình là người chủ mưu, cầm đầu hoặc chỉ huy và giữ nguyên hình phạt tử hình thì không chuyển hình phạt tử hình thành tù chung thân;"
+ENTITY,E40_21,DIEM,Điểm,structure,8730,9112,"b) Trường hợp bản án sơ thẩm, bản án phúc thẩm đều không nhận định, đánh giá người bị kết án tử hình là người chủ mưu, cầm đầu hoặc chỉ huy mà chỉ căn cứ vào khối lượng, thể tích chất ma túy, tình tiết tăng nặng, giảm nhẹ trách nhiệm hình sự để quyết định hình phạt thì chuyển hình phạt tử hình thành tù chung thân nếu họ không có 02 tình tiết tăng nặng trách nhiệm hình sự trở lên;"
+ENTITY,E40_22,DIEM,Điểm,structure,9113,9395,"c) Trường hợp bản án không nhận định người bị kết án tử hình là người chủ mưu, cầm đầu hoặc chỉ huy mà nhận định họ là người tổ chức hoặc đã thực hiện một hoặc nhiều hành vi theo hướng dẫn tại khoản 1 Điều 5 của Nghị quyết này thì không chuyển hình phạt tử hình thành tù chung thân."
+ENTITY,E40_23,DIEM,Điểm,structure,12787,12995,"a) Trường hợp người bị kết án không được chuyển hình phạt tử hình thành tù chung thân thì Chánh án Tòa án nhân dân tối cao thông báo bằng văn bản cho cơ quan lập danh sách, cơ quan khác có liên quan (nếu có);"
+ENTITY,E40_24,DIEM,Điểm,structure,12996,13172,b) Trường hợp người bị kết án được chuyển hình phạt tử hình thành tù chung thân thì Chánh án Tòa án nhân dân tối cao ra quyết định chuyển hình phạt tử hình thành tù chung thân.
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R22_1,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_2,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_10,E38_5,,
+RELATION,R22_5,THUOC,Thuộc,E39_11,E38_6,,
+RELATION,R22_6,THUOC,Thuộc,E39_12,E38_6,,
+RELATION,R22_7,THUOC,Thuộc,E39_13,E38_6,,
+RELATION,R22_8,THUOC,Thuộc,E39_14,E38_6,,
+RELATION,R22_9,THUOC,Thuộc,E39_15,E38_6,,
+RELATION,R22_10,THUOC,Thuộc,E39_16,E38_7,,
+RELATION,R22_11,THUOC,Thuộc,E39_17,E38_7,,
+RELATION,R22_12,THUOC,Thuộc,E39_18,E38_7,,
+RELATION,R22_13,THUOC,Thuộc,E39_19,E38_7,,
+RELATION,R22_14,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_15,THUOC,Thuộc,E39_20,E38_8,,
+RELATION,R22_16,THUOC,Thuộc,E39_21,E38_8,,
+RELATION,R22_17,THUOC,Thuộc,E39_22,E38_8,,
+RELATION,R22_18,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_19,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,R22_20,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_21,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,R22_22,THUOC,Thuộc,E39_7,E38_4,,
+RELATION,R22_23,THUOC,Thuộc,E39_8,E38_4,,
+RELATION,R22_24,THUOC,Thuộc,E39_9,E38_5,,
+RELATION,R22_25,THUOC,Thuộc,E40_1,E39_3,,
+RELATION,R22_26,THUOC,Thuộc,E40_10,E39_8,,
+RELATION,R22_27,THUOC,Thuộc,E40_11,E39_8,,
+RELATION,R22_28,THUOC,Thuộc,E40_12,E39_8,,
+RELATION,R22_29,THUOC,Thuộc,E40_13,E39_8,,
+RELATION,R22_30,THUOC,Thuộc,E40_14,E39_8,,
+RELATION,R22_31,THUOC,Thuộc,E40_15,E39_8,,
+RELATION,R22_32,THUOC,Thuộc,E40_16,E39_9,,
+RELATION,R22_33,THUOC,Thuộc,E40_17,E39_9,,
+RELATION,R22_34,THUOC,Thuộc,E40_18,E39_9,,
+RELATION,R22_35,THUOC,Thuộc,E40_19,E39_9,,
+RELATION,R22_36,THUOC,Thuộc,E40_2,E39_3,,
+RELATION,R22_37,THUOC,Thuộc,E40_20,E39_11,,
+RELATION,R22_38,THUOC,Thuộc,E40_21,E39_11,,
+RELATION,R22_39,THUOC,Thuộc,E40_22,E39_11,,
+RELATION,R22_40,THUOC,Thuộc,E40_23,E39_20,,
+RELATION,R22_41,THUOC,Thuộc,E40_24,E39_20,,
+RELATION,R22_42,THUOC,Thuộc,E40_3,E39_7,,
+RELATION,R22_43,THUOC,Thuộc,E40_4,E39_7,,
+RELATION,R22_44,THUOC,Thuộc,E40_5,E39_7,,
+RELATION,R22_45,THUOC,Thuộc,E40_6,E39_7,,
+RELATION,R22_46,THUOC,Thuộc,E40_7,E39_7,,
+RELATION,R22_47,THUOC,Thuộc,E40_8,E39_8,,
+RELATION,R22_48,THUOC,Thuộc,E40_9,E39_8,,

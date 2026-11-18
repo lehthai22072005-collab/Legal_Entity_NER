@@ -1,0 +1,382 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,37,Luật Cảnh sát cơ động số 04/2022/QH15
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,25,37,04/2022/QH15
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,135,159,ngày 14 tháng 6 năm 2022
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,26427,26441,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,26065,26090,ngày 01 tháng 01 năm 2023
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,26465,26477,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,38,46,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,26323,26340,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,26348,26362,Vương Đình Huệ
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,26095,26144,Pháp lệnh Cảnh sát cơ động số 08/2013/PL-UBTVQH13
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,26497,26642,"Thông tư số 55/2022/TT-BCA Quy định phù hiệu, giấy chứng nhận công tác đặc biệt, trang phục huấn luyện, trang phục chiến đấu của Cảnh sát cơ động"
+ENTITY,E35_1,CHUONG,Chương,structure,281,289,Chương I
+ENTITY,E35_2,CHUONG,Chương,structure,4127,4136,Chương II
+ENTITY,E35_3,CHUONG,Chương,structure,20076,20086,Chương III
+ENTITY,E35_4,CHUONG,Chương,structure,22833,22842,Chương IV
+ENTITY,E35_5,CHUONG,Chương,structure,25973,25981,Chương V
+ENTITY,E38_1,DIEU,Điều,structure,311,317,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,572,578,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,978,984,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1215,1221,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1919,1925,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,2195,2201,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,2310,2316,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,3041,3047,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,4200,4206,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,6296,6303,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,7940,7947,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,8856,8863,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,10066,10073,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,10752,10759,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,11263,11270,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,12314,12321,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,14010,14017,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,14229,14236,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,15288,15295,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,15863,15870,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,17388,17395,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,20152,20159,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,20367,20374,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,20774,20781,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,21263,21270,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,21736,21743,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,22234,22241,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,22930,22937,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,23546,23553,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,24001,24008,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,24548,24555,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,24987,24994,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,26002,26009,Điều 33
+ENTITY,E39_1,KHOAN,Khoản,structure,653,878,"1. Biện pháp vũ trang là cách thức, phương pháp sử dụng sức mạnh tinh thần, thể chất, vũ khí, vật liệu nổ, công cụ hỗ trợ, phương tiện, thiết bị kỹ thuật nghiệp vụ để Cảnh sát cơ động thực hiện chức năng, nhiệm vụ, quyền hạn."
+ENTITY,E39_2,KHOAN,Khoản,structure,879,977,"2. Cán bộ, chiến sĩ Cảnh sát cơ động bao gồm sĩ quan, hạ sĩ quan, chiến sĩ thuộc Cảnh sát cơ động."
+ENTITY,E39_3,KHOAN,Khoản,structure,1265,1366,"1. Đặt dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng Cộng sản Việt Nam, sự thống lĩnh của"
+ENTITY,E39_4,KHOAN,Khoản,structure,1367,1486,"2. Tuân thủ Hiến pháp, pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+ENTITY,E39_5,KHOAN,Khoản,structure,1487,1686,"3. Dựa vào Nhân dân, phát huy sức mạnh của Nhân dân và chịu sự giám sát của Nhân dân; bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân theo quy định của pháp luật."
+ENTITY,E39_6,KHOAN,Khoản,structure,1687,1835,"4. Kết hợp chặt chẽ biện pháp vũ trang với các biện pháp công tác khác của lực lượng Công an nhân dân trong thực hiện chức năng, nhiệm vụ được giao."
+ENTITY,E39_7,KHOAN,Khoản,structure,1836,1918,"5. Bảo đảm sự chỉ đạo, chỉ huy tập trung, thống nhất từ trung ương đến địa phương."
+ENTITY,E39_8,KHOAN,Khoản,structure,1953,2080,"1. Nhà nước xây dựng Cảnh sát cơ động cách mạng, chính quy, tinh nhuệ, hiện đại; ưu tiên nguồn lực phát triển Cảnh sát cơ động."
+ENTITY,E39_9,KHOAN,Khoản,structure,2081,2194,"2. Cơ quan, tổ chức và công dân Việt Nam có trách nhiệm tham gia xây dựng Cảnh sát cơ động trong sạch, vững mạnh."
+ENTITY,E39_10,KHOAN,Khoản,structure,2355,2549,"1. Hoạt động hợp tác quốc tế của Cảnh sát cơ động thực hiện theo pháp luật Việt Nam, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và thỏa thuận quốc tế có liên quan."
+ENTITY,E39_11,KHOAN,Khoản,structure,2550,2586,2. Nội dung hợp tác quốc tế bao gồm:
+ENTITY,E39_12,KHOAN,Khoản,structure,3075,3367,"1. Chống đối, cản trở hoạt động của Cảnh sát cơ động; trả thù, đe dọa, xâm phạm tính mạng, sức khỏe, danh dự, nhân phẩm của cán bộ, chiến sĩ Cảnh sát cơ động, cơ quan, tổ chức, cá nhân tham gia phối hợp, cộng tác, hỗ trợ, giúp đỡ Cảnh sát cơ động trong thi hành công vụ hoặc vì lý do công vụ."
+ENTITY,E39_13,KHOAN,Khoản,structure,3368,3557,"2. Chiếm đoạt, hủy hoại, cố ý làm hư hỏng, tàng trữ, sản xuất, mua bán, sử dụng trái phép vũ khí, vật liệu nổ, công cụ hỗ trợ, phương tiện, thiết bị kỹ thuật nghiệp vụ của Cảnh sát cơ động."
+ENTITY,E39_14,KHOAN,Khoản,structure,3558,3680,"3. Mua chuộc, hối lộ hoặc có hành vi ép buộc cán bộ, chiến sĩ Cảnh sát cơ động làm trái với nhiệm vụ, quyền hạn được giao."
+ENTITY,E39_15,KHOAN,Khoản,structure,3681,3871,"4. Giả danh cán bộ, chiến sĩ Cảnh sát cơ động; giả mạo phương tiện, làm giả, mua bán, sử dụng trái phép trang phục, phù hiệu, con dấu, giấy chứng nhận công tác đặc biệt của Cảnh sát cơ động."
+ENTITY,E39_16,KHOAN,Khoản,structure,3872,4126,"5. Cán bộ, chiến sĩ Cảnh sát cơ động lạm dụng, lợi dụng chức vụ, quyền hạn, vị trí công tác để vi phạm pháp luật, xâm phạm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân hoặc có hành vi sách nhiễu, gây khó khăn đối với cơ quan, tổ chức, cá nhân."
+ENTITY,E39_17,KHOAN,Khoản,structure,4238,4423,"1. Tham mưu với Bộ trưởng Bộ Công an về biện pháp vũ trang bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội; xây dựng Cảnh sát cơ động cách mạng, chính quy, tinh nhuệ, hiện đại."
+ENTITY,E39_18,KHOAN,Khoản,structure,4424,4501,"2. Sử dụng biện pháp vũ trang là chủ yếu để chống hành vi bạo loạn, khủng bố."
+ENTITY,E39_19,KHOAN,Khoản,structure,4502,4597,3. Sử dụng biện pháp vũ trang và các biện pháp công tác khác để thực hiện các nhiệm vụ sau đây:
+ENTITY,E39_20,KHOAN,Khoản,structure,5030,5219,"4. Xây dựng, diễn tập phương án để thực hiện nhiệm vụ quy định tại khoản 2 và khoản 3 Điều này. Bộ trưởng Bộ Công an quy định quy trình xây dựng và thực hiện phương án của Cảnh sát cơ động."
+ENTITY,E39_21,KHOAN,Khoản,structure,5220,5650,"5. Huấn luyện, bồi dưỡng điều lệnh, quân sự, võ thuật, kỹ thuật, chiến thuật đối với cán bộ, chiến sĩ Cảnh sát cơ động và cán bộ, chiến sĩ, học viên trong Công an nhân dân; chủ trì, phối hợp huấn luyện công tác phòng, chống khủng bố cho lực lượng chuyên trách và lực lượng được huy động tham gia chống khủng bố; tham gia huấn luyện nghiệp vụ bảo vệ cho lực lượng bảo vệ thuộc các Bộ, ngành, địa phương theo quy định của pháp luật."
+ENTITY,E39_22,KHOAN,Khoản,structure,5651,5761,"6. Quản lý, huấn luyện và sử dụng động vật nghiệp vụ bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội."
+ENTITY,E39_23,KHOAN,Khoản,structure,5762,5846,7. Thực hiện nghi lễ trong Công an nhân dân và các sự kiện quan trọng theo quy định.
+ENTITY,E39_24,KHOAN,Khoản,structure,5847,6184,"8. Phối hợp, hỗ trợ các lực lượng trong Công an nhân dân và cơ quan, tổ chức, đơn vị, các lực lượng khác trong bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm; phòng, chống, khắc phục thảm họa, thiên tai, dịch bệnh; tìm kiếm, cứu nạn, cứu hộ; xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc."
+ENTITY,E39_25,KHOAN,Khoản,structure,6185,6295,9. Thực hiện các nhiệm vụ khác theo quy định của Luật Công an nhân dân và quy định của pháp luật có liên quan.
+ENTITY,E39_26,KHOAN,Khoản,structure,6336,6464,"1. Sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ, phương tiện, thiết bị kỹ thuật nghiệp vụ theo quy định tại Điều 15 của Luật này."
+ENTITY,E39_27,KHOAN,Khoản,structure,6465,6662,"2. Được mang theo người vũ khí, vật liệu nổ, công cụ hỗ trợ, phương tiện, thiết bị kỹ thuật nghiệp vụ vào cảng hàng không, lên tàu bay dân sự để làm nhiệm vụ thuộc một trong các trường hợp sau đây:"
+ENTITY,E39_28,KHOAN,Khoản,structure,7018,7255,"3. Ngăn chặn, vô hiệu hóa tàu bay không người lái và các phương tiện bay siêu nhẹ trực tiếp tấn công, đe dọa tấn công hoặc xâm phạm mục tiêu bảo vệ của Cảnh sát cơ động trong phạm vi khu vực cấm bay, khu vực hạn chế bay theo quy định của"
+ENTITY,E39_29,KHOAN,Khoản,structure,7256,7340,4. Xử lý vi phạm hành chính theo quy định của pháp luật về xử lý vi phạm hành chính.
+ENTITY,E39_30,KHOAN,Khoản,structure,7341,7510,"5. Huy động người, phương tiện, thiết bị dân sự của cơ quan, tổ chức, cá nhân tại Việt Nam theo quy định tại Điều 16 của Luật này và quy định của pháp luật có liên quan."
+ENTITY,E39_31,KHOAN,Khoản,structure,7511,7837,"6. Yêu cầu cơ quan, tổ chức, cá nhân cung cấp sơ đồ, thiết kế của công trình, trụ sở, nhà ở, phương tiện, trừ công trình quốc phòng, khu quân sự, phương tiện thuộc phạm vi quản lý của Bộ Quốc phòng; được vào trụ sở cơ quan, tổ chức, chỗ ở của cá nhân theo quy định tại Điều 13 của Luật này để chống khủng bố, giải cứu con tin."
+ENTITY,E39_32,KHOAN,Khoản,structure,7838,7939,7. Các quyền hạn khác theo quy định của Luật Công an nhân dân và quy định của pháp luật có liên quan.
+ENTITY,E39_33,KHOAN,Khoản,structure,8092,8277,"1. Hoạt động của Cảnh sát cơ động bảo vệ sự kiện, mục tiêu quan trọng về chính trị, kinh tế, ngoại giao, khoa học - kỹ thuật, văn hóa, xã hội và bảo vệ vận chuyển hàng đặc biệt bao gồm:"
+ENTITY,E39_34,KHOAN,Khoản,structure,8526,8855,"2. Chính phủ quy định danh mục mục tiêu bảo vệ, hàng đặc biệt do Cảnh sát cơ động bảo vệ; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan trong việc phối hợp, hỗ trợ Cảnh sát cơ động thực hiện nhiệm vụ bảo vệ mục tiêu và bảo vệ vận chuyển hàng đặc biệt; các hành vi gây mất an toàn, đe dọa gây mất an toàn mục tiêu bảo vệ."
+ENTITY,E39_35,KHOAN,Khoản,structure,8910,9044,"1. Cảnh sát cơ động tuần tra, kiểm soát khu vực, tuyến, địa bàn phức tạp về an ninh, trật tự hoặc khi có sự kiện chính trị quan trọng."
+ENTITY,E39_36,KHOAN,Khoản,structure,9045,9172,"2. Hoạt động tuần tra, kiểm soát phải tuân thủ quy định của pháp luật, phương án, kế hoạch đã được cấp có thẩm quyền phê duyệt."
+ENTITY,E39_37,KHOAN,Khoản,structure,9173,9235,"3. Hoạt động tuần tra, kiểm soát của Cảnh sát cơ động bao gồm:"
+ENTITY,E39_38,KHOAN,Khoản,structure,9502,9623,"4. Cảnh sát cơ động được kiểm tra, kiểm soát người, phương tiện, đồ vật, tài liệu thuộc một trong các trường hợp sau đây:"
+ENTITY,E39_39,KHOAN,Khoản,structure,9971,10065,"5. Bộ trưởng Bộ Công an quy định quy trình hoạt động tuần tra, kiểm soát của Cảnh sát cơ động."
+ENTITY,E39_40,KHOAN,Khoản,structure,10158,10280,"1. Việc vào trụ sở của cơ quan, tổ chức, chỗ ở của cá nhân thực hiện theo quy định của pháp luật về phòng, chống khủng bố."
+ENTITY,E39_41,KHOAN,Khoản,structure,10281,10449,"2. Trường hợp vào trụ sở của cơ quan, đơn vị thuộc phạm vi quản lý của Bộ Quốc phòng thực hiện theo quy định của pháp luật về phối hợp giữa Bộ Công an và Bộ Quốc phòng."
+ENTITY,E39_42,KHOAN,Khoản,structure,10450,10751,"3. Trường hợp vào trụ sở cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự nước ngoài, cơ quan đại diện tổ chức quốc tế và chỗ ở của thành viên các cơ quan này tại Việt Nam phải tuân theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+ENTITY,E39_43,KHOAN,Khoản,structure,10801,11055,"1. Cảnh sát cơ động thực hiện các biện pháp công tác theo quy định của Luật Công an nhân dân và quy định của pháp luật có liên quan để thực hiện nhiệm vụ, quyền hạn được quy định tại Điều 9 và Điều 10 của Luật này, trong đó biện pháp vũ trang là chủ yếu."
+ENTITY,E39_44,KHOAN,Khoản,structure,11056,11262,"2. Tư lệnh Cảnh sát cơ động, Giám đốc Công an cấp tỉnh quyết định việc áp dụng các biện pháp công tác theo quy định tại khoản 1 Điều này, chịu trách nhiệm trước pháp luật và cấp trên về quyết định của mình."
+ENTITY,E39_45,KHOAN,Khoản,structure,11358,11580,"1. Khi thực hiện nhiệm vụ độc lập, cán bộ, chiến sĩ Cảnh sát cơ động được sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ và được nổ súng quân dụng theo quy định của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ."
+ENTITY,E39_46,KHOAN,Khoản,structure,11581,11957,"2. Khi thực hiện nhiệm vụ có tổ chức, việc sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ của Cảnh sát cơ động phải tuân theo mệnh lệnh của người chỉ huy trực tiếp. Người ra mệnh lệnh phải tuân thủ quy định của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ, quy định của pháp luật có liên quan và chịu trách nhiệm trước pháp luật và cấp trên về quyết định của mình."
+ENTITY,E39_47,KHOAN,Khoản,structure,11958,12110,"3. Việc sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ khi thực hiện nhiệm vụ của Cảnh sát cơ động theo phương án đã được cấp có thẩm quyền phê duyệt."
+ENTITY,E39_48,KHOAN,Khoản,structure,12111,12313,"4. Việc sử dụng vũ khí, vật liệu nổ, công cụ hỗ trợ, phương tiện, thiết bị kỹ thuật nghiệp vụ của Cảnh sát cơ động trong huấn luyện, diễn tập thực hiện theo kế hoạch đã được cấp có thẩm quyền phê duyệt."
+ENTITY,E39_49,KHOAN,Khoản,structure,12368,12909,"1. Khi thực hiện nhiệm vụ theo quy định tại khoản 2 và khoản 3 Điều 9 của Luật này, trong trường hợp cấp bách để bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội hoặc để ngăn chặn hậu quả thiệt hại cho xã hội đang xảy ra hoặc có nguy cơ xảy ra, cán bộ, chiến sĩ Cảnh sát cơ động được huy động người, phương tiện, thiết bị dân sự và người đang sử dụng, điều khiển phương tiện, thiết bị đó. Trường hợp thực hiện nhiệm vụ chống khủng bố, việc huy động người, phương tiện, thiết bị thực hiện theo quy định của Luật Phòng, chống khủng bố."
+ENTITY,E39_50,KHOAN,Khoản,structure,13188,13299,"2. Thẩm quyền huy động người, phương tiện, thiết bị dân sự của cơ quan, tổ chức, cá nhân được quy định như sau:"
+ENTITY,E39_51,KHOAN,Khoản,structure,13579,14009,"3. Cán bộ, chiến sĩ Cảnh sát cơ động huy động người, phương tiện, thiết bị có trách nhiệm hoàn trả ngay sau khi trường hợp cấp bách chấm dứt. Trường hợp người, phương tiện, thiết bị được huy động làm nhiệm vụ mà bị thiệt hại thì được hưởng chế độ, chính sách, đền bù theo quy định tại khoản 4 Điều 32 của Luật này; đơn vị có cán bộ, chiến sĩ huy động có trách nhiệm giải quyết việc đền bù theo quy định của pháp luật có liên quan."
+ENTITY,E39_52,KHOAN,Khoản,structure,14057,14106,1. Hệ thống tổ chức của Cảnh sát cơ động bao gồm:
+ENTITY,E39_53,KHOAN,Khoản,structure,14177,14228,2. Bộ trưởng Bộ Công an quy định chi tiết Điều này.
+ENTITY,E39_54,KHOAN,Khoản,structure,14300,14521,"1. Tuyệt đối trung thành với Tổ quốc, Nhân dân, với Đảng và Nhà nước; nghiêm chỉnh chấp hành chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước, điều lệnh Công an nhân dân, chỉ thị, mệnh lệnh của cấp trên."
+ENTITY,E39_55,KHOAN,Khoản,structure,14522,14677,"2. Tôn trọng và bảo vệ quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; liên hệ chặt chẽ với Nhân dân, kính trọng, lễ phép, tận tụy phục vụ Nhân dân."
+ENTITY,E39_56,KHOAN,Khoản,structure,14678,14893,"3. Trung thực, dũng cảm, cảnh giác, sẵn sàng chiến đấu, hoàn thành tốt mọi nhiệm vụ được giao; bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, kiên quyết đấu tranh phòng, chống tội phạm, vi phạm pháp luật."
+ENTITY,E39_57,KHOAN,Khoản,structure,14894,15133,"4. Thường xuyên học tập nâng cao trình độ, bản lĩnh chính trị, kiến thức pháp luật, trình độ chuyên môn, nghiệp vụ, ý thức tổ chức kỷ luật, rèn luyện thể lực, kỹ thuật, chiến thuật và sử dụng thành thạo trang thiết bị của Cảnh sát cơ động."
+ENTITY,E39_58,KHOAN,Khoản,structure,15134,15287,"5. Chịu trách nhiệm trước pháp luật, cấp trên về quyết định, hành vi của mình khi thực hiện nhiệm vụ và việc thực hiện nhiệm vụ của cấp dưới thuộc quyền."
+ENTITY,E39_59,KHOAN,Khoản,structure,15367,15589,"1. Tư lệnh Cảnh sát cơ động có trách nhiệm tổ chức thực hiện nhiệm vụ, quyền hạn theo quy định tại Điều 9 và Điều 10 của Luật này, chịu trách nhiệm trước pháp luật và Bộ trưởng Bộ Công an về hoạt động của Cảnh sát cơ động."
+ENTITY,E39_60,KHOAN,Khoản,structure,15590,15862,"2. Giám đốc Công an cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm chỉ đạo lực lượng Cảnh sát cơ động thuộc quyền thực hiện nhiệm vụ, quyền hạn theo quy định tại Điều 9 và Điều 10 của Luật này, chịu trách nhiệm trước pháp luật và Bộ trưởng Bộ Công an."
+ENTITY,E39_61,KHOAN,Khoản,structure,15918,16015,1. Bộ trưởng Bộ Công an điều động Cảnh sát cơ động trong phạm vi toàn quốc để thực hiện nhiệm vụ.
+ENTITY,E39_62,KHOAN,Khoản,structure,16016,16119,2. Tư lệnh Cảnh sát cơ động điều động Cảnh sát cơ động thực hiện nhiệm vụ trong các trường hợp sau đây:
+ENTITY,E39_63,KHOAN,Khoản,structure,16524,16647,3. Giám đốc Công an cấp tỉnh điều động đơn vị Cảnh sát cơ động thuộc quyền thực hiện nhiệm vụ trong các trường hợp sau đây:
+ENTITY,E39_64,KHOAN,Khoản,structure,16867,17192,"4. Chỉ huy đơn vị Cảnh sát cơ động điều động, sử dụng đơn vị thuộc quyền để thực hiện nhiệm vụ theo kế hoạch, phương án đã được cấp có thẩm quyền phê duyệt; điều động đơn vị thuộc quyền tham gia phòng, chống, khắc phục thảm họa, thiên tai, dịch bệnh, tìm kiếm, cứu nạn, cứu hộ và đồng thời báo cáo chỉ huy cấp trên trực tiếp."
+ENTITY,E39_65,KHOAN,Khoản,structure,17193,17387,"5. Việc điều động Cảnh sát cơ động trong tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm được thực hiện theo quy định của pháp luật và quyết định của cấp có thẩm quyền."
+ENTITY,E39_66,KHOAN,Khoản,structure,17446,17491,1. Nguyên tắc phối hợp được quy định như sau:
+ENTITY,E39_67,KHOAN,Khoản,structure,18043,18086,2. Nội dung phối hợp được quy định như sau:
+ENTITY,E39_68,KHOAN,Khoản,structure,18846,18941,3. Cơ chế chỉ huy trong phối hợp thực hiện nhiệm vụ của Cảnh sát cơ động được quy định như sau:
+ENTITY,E39_69,KHOAN,Khoản,structure,19941,20075,"4. Chính phủ quy định trách nhiệm của cơ quan, tổ chức, chính quyền địa phương trong phối hợp thực hiện nhiệm vụ của Cảnh sát cơ động."
+ENTITY,E39_70,KHOAN,Khoản,structure,20406,20544,"1. Nhà nước ưu tiên đầu tư trang bị hiện đại, nghiên cứu, ứng dụng thành tựu khoa học và công nghệ cho các hoạt động của Cảnh sát cơ động."
+ENTITY,E39_71,KHOAN,Khoản,structure,20545,20732,"2. Cảnh sát cơ động được trang bị vũ khí, vật liệu nổ, công cụ hỗ trợ, tàu bay, tàu thuyền, phương tiện, thiết bị kỹ thuật nghiệp vụ để thực hiện chức năng, nhiệm vụ, quyền hạn được giao."
+ENTITY,E39_72,KHOAN,Khoản,structure,20733,20773,3. Chính phủ quy định chi tiết Điều này.
+ENTITY,E39_73,KHOAN,Khoản,structure,20927,21083,"1. Cảnh sát cơ động sử dụng trang phục, công an hiệu, cờ hiệu, cấp hiệu, phù hiệu, giấy chứng minh Công an nhân dân theo quy định của Luật Công an nhân dân."
+ENTITY,E39_74,KHOAN,Khoản,structure,21084,21202,"2. Cảnh sát cơ động có phù hiệu, giấy chứng nhận công tác đặc biệt, trang phục huấn luyện, trang phục chiến đấu riêng."
+ENTITY,E39_75,KHOAN,Khoản,structure,21203,21262,3. Bộ trưởng Bộ Công an quy định chi tiết khoản 2 Điều này.
+ENTITY,E39_76,KHOAN,Khoản,structure,21333,21470,"1. Cán bộ, chiến sĩ Cảnh sát cơ động được hưởng chế độ, chính sách theo quy định của pháp luật đối với cán bộ, chiến sĩ Công an nhân dân."
+ENTITY,E39_77,KHOAN,Khoản,structure,21471,21631,"2. Cán bộ, chiến sĩ Cảnh sát cơ động khi phục vụ tại ngũ được hưởng các chính sách ưu đãi và chế độ đặc thù phù hợp với tính chất nhiệm vụ và địa bàn hoạt động."
+ENTITY,E39_78,KHOAN,Khoản,structure,21632,21686,3. Sĩ quan Cảnh sát cơ động được bố trí nhà ở công vụ.
+ENTITY,E39_79,KHOAN,Khoản,structure,21687,21735,4. Chính phủ quy định chi tiết khoản 2 Điều này.
+ENTITY,E39_80,KHOAN,Khoản,structure,21786,21969,"1. Công dân Việt Nam không phân biệt nam, nữ, có phẩm chất chính trị, đạo đức, có sức khỏe, độ tuổi phù hợp với yêu cầu nhiệm vụ và tự nguyện thì được tuyển chọn vào Cảnh sát cơ động."
+ENTITY,E39_81,KHOAN,Khoản,structure,21970,22181,"2. Cảnh sát cơ động được ưu tiên tuyển chọn công dân theo quy định tại khoản 1 Điều này có trình độ chuyên môn, kỹ thuật, nghiệp vụ hoặc có năng khiếu, tài năng phù hợp để phục vụ lâu dài trong Cảnh sát cơ động."
+ENTITY,E39_82,KHOAN,Khoản,structure,22182,22233,3. Bộ trưởng Bộ Công an quy định chi tiết Điều này.
+ENTITY,E39_83,KHOAN,Khoản,structure,22326,22598,"1. Cán bộ, chiến sĩ Cảnh sát cơ động được đào tạo, bồi dưỡng về chính trị, pháp luật, nghiệp vụ; huấn luyện quân sự, võ thuật và kiến thức cần thiết khác phù hợp với nhiệm vụ, quyền hạn được giao; khuyến khích phát triển tài năng để phục vụ lâu dài trong Cảnh sát cơ động."
+ENTITY,E39_84,KHOAN,Khoản,structure,22599,22772,"2. Cán bộ, chiến sĩ Cảnh sát cơ động được tổ chức theo biểu biên chế và bố trí sử dụng phù hợp với tính chất, yêu cầu nhiệm vụ, địa bàn hoạt động của từng đơn vị, lực lượng."
+ENTITY,E39_85,KHOAN,Khoản,structure,22773,22832,3. Bộ trưởng Bộ Công an quy định chi tiết khoản 2 Điều này.
+ENTITY,E39_86,KHOAN,Khoản,structure,22990,23111,"1. Ban hành, trình cấp có thẩm quyền ban hành và tổ chức thực hiện chiến lược, chính sách, pháp luật về Cảnh sát cơ động."
+ENTITY,E39_87,KHOAN,Khoản,structure,23112,23163,"2. Tổ chức, chỉ đạo hoạt động của Cảnh sát cơ động."
+ENTITY,E39_88,KHOAN,Khoản,structure,23164,23230,"3. Tuyên truyền, phổ biến, giáo dục pháp luật về Cảnh sát cơ động."
+ENTITY,E39_89,KHOAN,Khoản,structure,23231,23299,"4. Tuyển chọn, đào tạo, bồi dưỡng cán bộ, chiến sĩ Cảnh sát cơ động."
+ENTITY,E39_90,KHOAN,Khoản,structure,23300,23357,"5. Thực hiện chế độ, chính sách đối với Cảnh sát cơ động."
+ENTITY,E39_91,KHOAN,Khoản,structure,23358,23504,"6. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo; sơ kết, tổng kết, khen thưởng, xử lý vi phạm pháp luật trong hoạt động của Cảnh sát cơ động."
+ENTITY,E39_92,KHOAN,Khoản,structure,23505,23545,7. Hợp tác quốc tế của Cảnh sát cơ động.
+ENTITY,E39_93,KHOAN,Khoản,structure,23609,23675,1. Chính phủ thống nhất quản lý nhà nước đối với Cảnh sát cơ động.
+ENTITY,E39_94,KHOAN,Khoản,structure,23676,23785,2. Bộ trưởng Bộ Công an chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước đối với Cảnh sát cơ động.
+ENTITY,E39_95,KHOAN,Khoản,structure,23786,24000,"3. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ trưởng Bộ Công an thực hiện quản lý nhà nước đối với Cảnh sát cơ động."
+ENTITY,E39_96,KHOAN,Khoản,structure,24070,24197,"1. Phối hợp với Bộ Công an quy hoạch quỹ đất phù hợp để xây dựng trụ sở đóng quân, thao trường huấn luyện cho Cảnh sát cơ động."
+ENTITY,E39_97,KHOAN,Khoản,structure,24198,24357,"2. Hỗ trợ kinh phí, cơ sở vật chất cho hoạt động của Cảnh sát cơ động phù hợp với khả năng của địa phương và theo quy định của pháp luật về ngân sách nhà nước."
+ENTITY,E39_98,KHOAN,Khoản,structure,24358,24432,"3. Tổ chức tuyên truyền, phổ biến, giáo dục pháp luật về Cảnh sát cơ động."
+ENTITY,E39_99,KHOAN,Khoản,structure,24433,24547,"4. Ưu tiên thực hiện chính sách về nhà ở xã hội cho cán bộ, chiến sĩ Cảnh sát cơ động theo quy định của pháp luật."
+ENTITY,E39_100,KHOAN,Khoản,structure,25125,25237,"1. Cung cấp kịp thời cho người có thẩm quyền thông tin, tài liệu có liên quan đến công tác của Cảnh sát cơ động."
+ENTITY,E39_101,KHOAN,Khoản,structure,25238,25350,"2. Chấp hành quyết định, yêu cầu của Cảnh sát cơ động theo quy định tại khoản 6 Điều 10 và Điều 16 của Luật này."
+ENTITY,E39_102,KHOAN,Khoản,structure,25351,25586,"3. Nhà nước bảo đảm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân tham gia phối hợp, cộng tác, hỗ trợ, giúp đỡ Cảnh sát cơ động thực hiện nhiệm vụ, quyền hạn theo quy định của pháp luật và giữ bí mật thông tin khi có yêu cầu."
+ENTITY,E39_103,KHOAN,Khoản,structure,25587,25972,"4. Cơ quan, tổ chức, cá nhân tham gia phối hợp, cộng tác, hỗ trợ, giúp đỡ Cảnh sát cơ động thực hiện nhiệm vụ, quyền hạn có thành tích thì được khen thưởng; bị thiệt hại về tài sản thì được đền bù, bị tổn hại về danh dự, nhân phẩm thì được khôi phục; người bị thương tích, tổn hại về sức khỏe, tính mạng thì bản thân, gia đình được hưởng chế độ, chính sách theo quy định của pháp luật."
+ENTITY,E39_104,KHOAN,Khoản,structure,26029,26091,1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2023.
+ENTITY,E39_105,KHOAN,Khoản,structure,26092,26199,2. Pháp lệnh Cảnh sát cơ động số 08/2013/PL-UBTVQH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
+ENTITY,E40_1,DIEM,Điểm,structure,2587,2668,"a) Trao đổi thông tin, kinh nghiệm trong thực hiện nhiệm vụ của Cảnh sát cơ động;"
+ENTITY,E40_2,DIEM,Điểm,structure,2669,2809,"b) Đào tạo, huấn luyện, diễn tập, hỗ trợ, chuyển giao trang bị, phương tiện, khoa học và công nghệ tăng cường năng lực của Cảnh sát cơ động;"
+ENTITY,E40_3,DIEM,Điểm,structure,2810,2955,"c) Phòng, chống khủng bố, bắt cóc con tin, chiếm đoạt tàu bay, tàu thủy, tội phạm có tổ chức, tội phạm xuyên quốc gia; tìm kiếm, cứu nạn, cứu hộ;"
+ENTITY,E40_4,DIEM,Điểm,structure,2956,3040,"d) Các nội dung hợp tác khác trong phạm vi nhiệm vụ, quyền hạn của Cảnh sát cơ động."
+ENTITY,E40_5,DIEM,Điểm,structure,4598,4762,"a) Tấn công, ngăn chặn đối tượng thực hiện hành vi bắt cóc con tin, sử dụng bạo lực xâm phạm, đe dọa xâm phạm đến tính mạng, sức khỏe, tài sản của cá nhân, tổ chức;"
+ENTITY,E40_6,DIEM,Điểm,structure,4763,4833,"b) Giải tán các vụ việc tập trung đông người gây rối an ninh, trật tự;"
+ENTITY,E40_7,DIEM,Điểm,structure,4834,4980,"c) Bảo vệ sự kiện, mục tiêu quan trọng về chính trị, kinh tế, ngoại giao, khoa học - kỹ thuật, văn hóa, xã hội và bảo vệ vận chuyển hàng đặc biệt;"
+ENTITY,E40_8,DIEM,Điểm,structure,4981,5029,"d) Tuần tra, kiểm soát bảo đảm an ninh, trật tự."
+ENTITY,E40_9,DIEM,Điểm,structure,6663,6777,"a) Chống khủng bố, giải cứu con tin; trấn áp đối tượng thực hiện hành vi nguy hiểm có sử dụng vũ khí, vật liệu nổ;"
+ENTITY,E40_10,DIEM,Điểm,structure,6778,6868,"b) Bảo vệ vận chuyển hàng đặc biệt; áp giải bị can, bị cáo phạm tội đặc biệt nghiêm trọng;"
+ENTITY,E40_11,DIEM,Điểm,structure,6869,7017,"c) Sử dụng tàu bay do cấp có thẩm quyền huy động riêng cho Cảnh sát cơ động để kịp thời cơ động giải quyết các vụ việc phức tạp về an ninh, trật tự."
+ENTITY,E40_12,DIEM,Điểm,structure,8278,8311,"a) Canh gác, tuần tra, kiểm soát;"
+ENTITY,E40_13,DIEM,Điểm,structure,8312,8403,"b) Kiểm tra, kiểm soát người, phương tiện, đồ vật, tài liệu ra vào khu vực mục tiêu bảo vệ;"
+ENTITY,E40_14,DIEM,Điểm,structure,8404,8525,"c) Phát hiện, ngăn chặn, xử lý các hành vi gây mất an toàn, đe dọa gây mất an toàn mục tiêu bảo vệ, chuyến hàng đặc biệt."
+ENTITY,E40_15,DIEM,Điểm,structure,9236,9345,"a) Bố trí lực lượng, phương tiện, vũ khí, vật liệu nổ, công cụ hỗ trợ thực hiện nhiệm vụ tuần tra, kiểm soát;"
+ENTITY,E40_16,DIEM,Điểm,structure,9346,9441,"b) Kiểm tra, kiểm soát người, phương tiện, đồ vật, tài liệu theo quy định tại khoản 4 Điều này;"
+ENTITY,E40_17,DIEM,Điểm,structure,9442,9501,"c) Phát hiện, ngăn chặn và xử lý hành vi vi phạm pháp luật."
+ENTITY,E40_18,DIEM,Điểm,structure,9624,9683,"a) Phát hiện hành vi vi phạm pháp luật về an ninh, trật tự;"
+ENTITY,E40_19,DIEM,Điểm,structure,9684,9752,"b) Phát hiện người phạm tội quả tang, người bị truy nã, bị truy tìm;"
+ENTITY,E40_20,DIEM,Điểm,structure,9753,9970,"c) Có căn cứ cho rằng trong người, phương tiện có cất giấu đồ vật, tài liệu, phương tiện được sử dụng để vi phạm pháp luật, nếu không kiểm tra, kiểm soát ngay thì đồ vật, tài liệu, phương tiện đó bị tẩu tán, tiêu hủy."
+ENTITY,E40_21,DIEM,Điểm,structure,13300,13430,"a) Sĩ quan, hạ sĩ quan nghiệp vụ thuộc Cảnh sát cơ động được huy động người, phương tiện, thiết bị khi thực hiện nhiệm vụ độc lập;"
+ENTITY,E40_22,DIEM,Điểm,structure,13431,13578,"b) Người chỉ huy trực tiếp của Cảnh sát cơ động tại hiện trường quyết định huy động người, phương tiện, thiết bị khi thực hiện nhiệm vụ có tổ chức."
+ENTITY,E40_23,DIEM,Điểm,structure,14107,14138,a) Bộ Tư lệnh Cảnh sát cơ động;
+ENTITY,E40_24,DIEM,Điểm,structure,14139,14176,b) Cảnh sát cơ động Công an cấp tỉnh.
+ENTITY,E40_25,DIEM,Điểm,structure,16120,16230,"a) Đơn vị Cảnh sát cơ động thuộc quyền thực hiện nhiệm vụ theo kế hoạch, phương án thuộc thẩm quyền phê duyệt;"
+ENTITY,E40_26,DIEM,Điểm,structure,16231,16393,"b) Đơn vị Cảnh sát cơ động theo phương án đã được cấp trên phê duyệt, được ủy quyền phê duyệt hoặc khi được giao chủ trì chỉ huy giải quyết các tình huống cụ thể;"
+ENTITY,E40_27,DIEM,Điểm,structure,16394,16523,c) Đơn vị Cảnh sát cơ động thuộc quyền để thực hiện nhiệm vụ trong trường hợp cấp bách và đồng thời báo cáo Bộ trưởng Bộ Công an.
+ENTITY,E40_28,DIEM,Điểm,structure,16648,16754,"a) Thực hiện nhiệm vụ theo kế hoạch, phương án đã được cấp trên phê duyệt hoặc thuộc thẩm quyền phê duyệt;"
+ENTITY,E40_29,DIEM,Điểm,structure,16755,16866,b) Thực hiện nhiệm vụ trên địa bàn quản lý trong trường hợp cấp bách và đồng thời báo cáo Bộ trưởng Bộ Công an.
+ENTITY,E40_30,DIEM,Điểm,structure,17492,17682,"a) Việc phối hợp phải trên cơ sở nhiệm vụ, quyền hạn của cơ quan, tổ chức, lực lượng chức năng theo quy định của pháp luật, quyết định của cấp có thẩm quyền và phù hợp với tình hình thực tế;"
+ENTITY,E40_31,DIEM,Điểm,structure,17683,17924,"b) Bảo đảm sự chủ trì, điều hành tập trung, thống nhất trong công tác chỉ đạo, chỉ huy thực hiện nhiệm vụ; giữ bí mật thông tin về quốc phòng, an ninh và biện pháp nghiệp vụ của cơ quan, tổ chức, lực lượng chức năng trong quá trình phối hợp;"
+ENTITY,E40_32,DIEM,Điểm,structure,17925,18042,"c) Bảo đảm chủ động, linh hoạt, cụ thể và hiệu quả, gắn với trách nhiệm của người đứng đầu cơ quan chủ trì, phối hợp."
+ENTITY,E40_33,DIEM,Điểm,structure,18087,18199,"a) Bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, vi phạm pháp luật;"
+ENTITY,E40_34,DIEM,Điểm,structure,18200,18309,"b) Giải quyết các vụ việc tập trung đông người gây rối an ninh, trật tự, bạo loạn, khủng bố, bắt cóc con tin;"
+ENTITY,E40_35,DIEM,Điểm,structure,18310,18502,"c) Tuần tra, kiểm soát bảo đảm an ninh, trật tự; bảo vệ sự kiện, mục tiêu quan trọng về chính trị, kinh tế, ngoại giao, khoa học - kỹ thuật, văn hóa, xã hội và bảo vệ vận chuyển hàng đặc biệt;"
+ENTITY,E40_36,DIEM,Điểm,structure,18503,18641,"d) Phòng, chống, khắc phục thảm họa, thiên tai, dịch bệnh; tìm kiếm, cứu nạn, cứu hộ; xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc;"
+ENTITY,E40_37,DIEM,Điểm,structure,18642,18676,"đ) Đào tạo, huấn luyện, bồi dưỡng;"
+ENTITY,E40_38,DIEM,Điểm,structure,18677,18790,"e) Trao đổi thông tin, tài liệu, xây dựng văn bản quy phạm pháp luật, tuyên truyền, phổ biến, giáo dục pháp luật;"
+ENTITY,E40_39,DIEM,Điểm,structure,18791,18845,g) Thực hiện các hoạt động phối hợp khác có liên quan.
+ENTITY,E40_40,DIEM,Điểm,structure,18942,19333,"a) Khi giải quyết vụ việc phức tạp về an ninh, trật tự do cấp ủy, chính quyền địa phương chủ trì có sự tăng cường lực lượng của Bộ Tư lệnh Cảnh sát cơ động, Bộ Tư lệnh Cảnh sát cơ động có trách nhiệm phối hợp với chính quyền địa phương triển khai các biện pháp để giải quyết vụ việc và trực tiếp chỉ huy Cảnh sát cơ động thực hiện nhiệm vụ theo phương án đã được cấp có thẩm quyền phê duyệt;"
+ENTITY,E40_41,DIEM,Điểm,structure,19334,19693,"b) Khi giải quyết vụ việc phức tạp về an ninh, trật tự do Bộ Công an chủ trì, Bộ Tư lệnh Cảnh sát cơ động có trách nhiệm chủ trì phối hợp với các cơ quan, tổ chức, đơn vị để tham mưu với lãnh đạo Bộ Công an triển khai các biện pháp giải quyết vụ việc và trực tiếp chỉ huy Cảnh sát cơ động thực hiện nhiệm vụ theo phương án đã được cấp có thẩm quyền phê duyệt;"
+ENTITY,E40_42,DIEM,Điểm,structure,19694,19940,"c) Khi giải quyết vụ việc phức tạp về an ninh, trật tự do Bộ Tư lệnh Cảnh sát cơ động được giao chủ trì, các lực lượng tham gia phối hợp chịu sự chỉ huy trực tiếp của Bộ Tư lệnh Cảnh sát cơ động theo phương án đã được cấp có thẩm quyền phê duyệt."
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_3,E38_4,,
+RELATION,R22_8,THUOC,Thuộc,E39_4,E38_4,,
+RELATION,R22_9,THUOC,Thuộc,E39_5,E38_4,,
+RELATION,R22_10,THUOC,Thuộc,E39_6,E38_4,,
+RELATION,R22_11,THUOC,Thuộc,E39_7,E38_4,,
+RELATION,R22_12,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_13,THUOC,Thuộc,E39_8,E38_5,,
+RELATION,R22_14,THUOC,Thuộc,E39_9,E38_5,,
+RELATION,R22_15,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_16,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_17,THUOC,Thuộc,E39_10,E38_7,,
+RELATION,R22_18,THUOC,Thuộc,E39_11,E38_7,,
+RELATION,R22_19,THUOC,Thuộc,E40_1,E39_11,,
+RELATION,R22_20,THUOC,Thuộc,E40_2,E39_11,,
+RELATION,R22_21,THUOC,Thuộc,E40_3,E39_11,,
+RELATION,R22_22,THUOC,Thuộc,E40_4,E39_11,,
+RELATION,R22_23,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_24,THUOC,Thuộc,E39_12,E38_8,,
+RELATION,R22_25,THUOC,Thuộc,E39_13,E38_8,,
+RELATION,R22_26,THUOC,Thuộc,E39_14,E38_8,,
+RELATION,R22_27,THUOC,Thuộc,E39_15,E38_8,,
+RELATION,R22_28,THUOC,Thuộc,E39_16,E38_8,,
+RELATION,R22_29,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_30,THUOC,Thuộc,E39_17,E38_9,,
+RELATION,R22_31,THUOC,Thuộc,E39_18,E38_9,,
+RELATION,R22_32,THUOC,Thuộc,E39_19,E38_9,,
+RELATION,R22_33,THUOC,Thuộc,E40_5,E39_19,,
+RELATION,R22_34,THUOC,Thuộc,E40_6,E39_19,,
+RELATION,R22_35,THUOC,Thuộc,E40_7,E39_19,,
+RELATION,R22_36,THUOC,Thuộc,E40_8,E39_19,,
+RELATION,R22_37,THUOC,Thuộc,E39_20,E38_9,,
+RELATION,R22_38,THUOC,Thuộc,E39_21,E38_9,,
+RELATION,R22_39,THUOC,Thuộc,E39_22,E38_9,,
+RELATION,R22_40,THUOC,Thuộc,E39_23,E38_9,,
+RELATION,R22_41,THUOC,Thuộc,E39_24,E38_9,,
+RELATION,R22_42,THUOC,Thuộc,E39_25,E38_9,,
+RELATION,R22_43,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_44,THUOC,Thuộc,E39_26,E38_10,,
+RELATION,R22_45,THUOC,Thuộc,E39_27,E38_10,,
+RELATION,R22_46,THUOC,Thuộc,E40_9,E39_27,,
+RELATION,R22_47,THUOC,Thuộc,E40_10,E39_27,,
+RELATION,R22_48,THUOC,Thuộc,E40_11,E39_27,,
+RELATION,R22_49,THUOC,Thuộc,E39_28,E38_10,,
+RELATION,R22_50,THUOC,Thuộc,E39_29,E38_10,,
+RELATION,R22_51,THUOC,Thuộc,E39_30,E38_10,,
+RELATION,R22_52,THUOC,Thuộc,E39_31,E38_10,,
+RELATION,R22_53,THUOC,Thuộc,E39_32,E38_10,,
+RELATION,R22_54,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_55,THUOC,Thuộc,E39_33,E38_11,,
+RELATION,R22_56,THUOC,Thuộc,E40_12,E39_33,,
+RELATION,R22_57,THUOC,Thuộc,E40_13,E39_33,,
+RELATION,R22_58,THUOC,Thuộc,E40_14,E39_33,,
+RELATION,R22_59,THUOC,Thuộc,E39_34,E38_11,,
+RELATION,R22_60,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_61,THUOC,Thuộc,E39_35,E38_12,,
+RELATION,R22_62,THUOC,Thuộc,E39_36,E38_12,,
+RELATION,R22_63,THUOC,Thuộc,E39_37,E38_12,,
+RELATION,R22_64,THUOC,Thuộc,E40_15,E39_37,,
+RELATION,R22_65,THUOC,Thuộc,E40_16,E39_37,,
+RELATION,R22_66,THUOC,Thuộc,E40_17,E39_37,,
+RELATION,R22_67,THUOC,Thuộc,E39_38,E38_12,,
+RELATION,R22_68,THUOC,Thuộc,E40_18,E39_38,,
+RELATION,R22_69,THUOC,Thuộc,E40_19,E39_38,,
+RELATION,R22_70,THUOC,Thuộc,E40_20,E39_38,,
+RELATION,R22_71,THUOC,Thuộc,E39_39,E38_12,,
+RELATION,R22_72,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_73,THUOC,Thuộc,E39_40,E38_13,,
+RELATION,R22_74,THUOC,Thuộc,E39_41,E38_13,,
+RELATION,R22_75,THUOC,Thuộc,E39_42,E38_13,,
+RELATION,R22_76,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_77,THUOC,Thuộc,E39_43,E38_14,,
+RELATION,R22_78,THUOC,Thuộc,E39_44,E38_14,,
+RELATION,R22_79,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_80,THUOC,Thuộc,E39_45,E38_15,,
+RELATION,R22_81,THUOC,Thuộc,E39_46,E38_15,,
+RELATION,R22_82,THUOC,Thuộc,E39_47,E38_15,,
+RELATION,R22_83,THUOC,Thuộc,E39_48,E38_15,,
+RELATION,R22_84,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,R22_85,THUOC,Thuộc,E39_49,E38_16,,
+RELATION,R22_86,THUOC,Thuộc,E39_50,E38_16,,
+RELATION,R22_87,THUOC,Thuộc,E40_21,E39_50,,
+RELATION,R22_88,THUOC,Thuộc,E40_22,E39_50,,
+RELATION,R22_89,THUOC,Thuộc,E39_51,E38_16,,
+RELATION,R22_90,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_91,THUOC,Thuộc,E39_52,E38_17,,
+RELATION,R22_92,THUOC,Thuộc,E40_23,E39_52,,
+RELATION,R22_93,THUOC,Thuộc,E40_24,E39_52,,
+RELATION,R22_94,THUOC,Thuộc,E39_53,E38_17,,
+RELATION,R22_95,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,R22_96,THUOC,Thuộc,E39_54,E38_18,,
+RELATION,R22_97,THUOC,Thuộc,E39_55,E38_18,,
+RELATION,R22_98,THUOC,Thuộc,E39_56,E38_18,,
+RELATION,R22_99,THUOC,Thuộc,E39_57,E38_18,,
+RELATION,R22_100,THUOC,Thuộc,E39_58,E38_18,,
+RELATION,R22_101,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,R22_102,THUOC,Thuộc,E39_59,E38_19,,
+RELATION,R22_103,THUOC,Thuộc,E39_60,E38_19,,
+RELATION,R22_104,THUOC,Thuộc,E38_20,E35_2,,
+RELATION,R22_105,THUOC,Thuộc,E39_61,E38_20,,
+RELATION,R22_106,THUOC,Thuộc,E39_62,E38_20,,
+RELATION,R22_107,THUOC,Thuộc,E40_25,E39_62,,
+RELATION,R22_108,THUOC,Thuộc,E40_26,E39_62,,
+RELATION,R22_109,THUOC,Thuộc,E40_27,E39_62,,
+RELATION,R22_110,THUOC,Thuộc,E39_63,E38_20,,
+RELATION,R22_111,THUOC,Thuộc,E40_28,E39_63,,
+RELATION,R22_112,THUOC,Thuộc,E40_29,E39_63,,
+RELATION,R22_113,THUOC,Thuộc,E39_64,E38_20,,
+RELATION,R22_114,THUOC,Thuộc,E39_65,E38_20,,
+RELATION,R22_115,THUOC,Thuộc,E38_21,E35_2,,
+RELATION,R22_116,THUOC,Thuộc,E39_66,E38_21,,
+RELATION,R22_117,THUOC,Thuộc,E40_30,E39_66,,
+RELATION,R22_118,THUOC,Thuộc,E40_31,E39_66,,
+RELATION,R22_119,THUOC,Thuộc,E40_32,E39_66,,
+RELATION,R22_120,THUOC,Thuộc,E39_67,E38_21,,
+RELATION,R22_121,THUOC,Thuộc,E40_33,E39_67,,
+RELATION,R22_122,THUOC,Thuộc,E40_34,E39_67,,
+RELATION,R22_123,THUOC,Thuộc,E40_35,E39_67,,
+RELATION,R22_124,THUOC,Thuộc,E40_36,E39_67,,
+RELATION,R22_125,THUOC,Thuộc,E40_37,E39_67,,
+RELATION,R22_126,THUOC,Thuộc,E40_38,E39_67,,
+RELATION,R22_127,THUOC,Thuộc,E40_39,E39_67,,
+RELATION,R22_128,THUOC,Thuộc,E39_68,E38_21,,
+RELATION,R22_129,THUOC,Thuộc,E40_40,E39_68,,
+RELATION,R22_130,THUOC,Thuộc,E40_41,E39_68,,
+RELATION,R22_131,THUOC,Thuộc,E40_42,E39_68,,
+RELATION,R22_132,THUOC,Thuộc,E39_69,E38_21,,
+RELATION,R22_133,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,R22_134,THUOC,Thuộc,E38_23,E35_3,,
+RELATION,R22_135,THUOC,Thuộc,E39_70,E38_23,,
+RELATION,R22_136,THUOC,Thuộc,E39_71,E38_23,,
+RELATION,R22_137,THUOC,Thuộc,E39_72,E38_23,,
+RELATION,R22_138,THUOC,Thuộc,E38_24,E35_3,,
+RELATION,R22_139,THUOC,Thuộc,E39_73,E38_24,,
+RELATION,R22_140,THUOC,Thuộc,E39_74,E38_24,,
+RELATION,R22_141,THUOC,Thuộc,E39_75,E38_24,,
+RELATION,R22_142,THUOC,Thuộc,E38_25,E35_3,,
+RELATION,R22_143,THUOC,Thuộc,E39_76,E38_25,,
+RELATION,R22_144,THUOC,Thuộc,E39_77,E38_25,,
+RELATION,R22_145,THUOC,Thuộc,E39_78,E38_25,,
+RELATION,R22_146,THUOC,Thuộc,E39_79,E38_25,,
+RELATION,R22_147,THUOC,Thuộc,E38_26,E35_3,,
+RELATION,R22_148,THUOC,Thuộc,E39_80,E38_26,,
+RELATION,R22_149,THUOC,Thuộc,E39_81,E38_26,,
+RELATION,R22_150,THUOC,Thuộc,E39_82,E38_26,,
+RELATION,R22_151,THUOC,Thuộc,E38_27,E35_3,,
+RELATION,R22_152,THUOC,Thuộc,E39_83,E38_27,,
+RELATION,R22_153,THUOC,Thuộc,E39_84,E38_27,,
+RELATION,R22_154,THUOC,Thuộc,E39_85,E38_27,,
+RELATION,R22_155,THUOC,Thuộc,E38_28,E35_4,,
+RELATION,R22_156,THUOC,Thuộc,E39_86,E38_28,,
+RELATION,R22_157,THUOC,Thuộc,E39_87,E38_28,,
+RELATION,R22_158,THUOC,Thuộc,E39_88,E38_28,,
+RELATION,R22_159,THUOC,Thuộc,E39_89,E38_28,,
+RELATION,R22_160,THUOC,Thuộc,E39_90,E38_28,,
+RELATION,R22_161,THUOC,Thuộc,E39_91,E38_28,,
+RELATION,R22_162,THUOC,Thuộc,E39_92,E38_28,,
+RELATION,R22_163,THUOC,Thuộc,E38_29,E35_4,,
+RELATION,R22_164,THUOC,Thuộc,E39_93,E38_29,,
+RELATION,R22_165,THUOC,Thuộc,E39_94,E38_29,,
+RELATION,R22_166,THUOC,Thuộc,E39_95,E38_29,,
+RELATION,R22_167,THUOC,Thuộc,E38_30,E35_4,,
+RELATION,R22_168,THUOC,Thuộc,E39_96,E38_30,,
+RELATION,R22_169,THUOC,Thuộc,E39_97,E38_30,,
+RELATION,R22_170,THUOC,Thuộc,E39_98,E38_30,,
+RELATION,R22_171,THUOC,Thuộc,E39_99,E38_30,,
+RELATION,R22_172,THUOC,Thuộc,E38_31,E35_4,,
+RELATION,R22_173,THUOC,Thuộc,E38_32,E35_4,,
+RELATION,R22_174,THUOC,Thuộc,E39_100,E38_32,,
+RELATION,R22_175,THUOC,Thuộc,E39_101,E38_32,,
+RELATION,R22_176,THUOC,Thuộc,E39_102,E38_32,,
+RELATION,R22_177,THUOC,Thuộc,E39_103,E38_32,,
+RELATION,R22_178,THUOC,Thuộc,E38_33,E35_5,,
+RELATION,R22_179,THUOC,Thuộc,E39_104,E38_33,,
+RELATION,R22_180,THUOC,Thuộc,E39_105,E38_33,,
+RELATION,R22_181,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_182,THUOC,Thuộc,E11_1,E10_1,,

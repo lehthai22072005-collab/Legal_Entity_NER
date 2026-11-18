@@ -1,0 +1,130 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,77,"Nghị quyết số 04/2019/NQ-HĐTP Về quy trình lựa chọn, công bố và áp dụng án lệ"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,29,04/2019/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,212,236,ngày 18 tháng 6 năm 2019
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,9513,9527,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,9548,9558,2019-07-15
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,9582,9603,Hết hiệu lực một phần
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,745,768,Tòa án nhân dân tối cao
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,7762,7770,Chánh án
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,9616,9631,Nguyễn Hòa Bình
+ENTITY,E16_1,VB_BI_TAC_DONG_HIEU_LUC_TOAN_BO,Văn bản bị tác động hiệu lực toàn bộ,reference,9840,9917,"Nghị quyết số 03/2015/NQ-HĐTP Về quy trình lựa chọn, công bố và áp dụng án lệ"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,9727,9799,Nghị quyết số 81/2014/QH13 Về việc thi hành Luật Tổ chức tòa án nhân dân
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,409,474,Luật Ban Hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,9968,10095,"Nghị quyết số 02/2025/NQ-HĐTP Sửa đổi, bổ sung một số điều của một số Nghị quyết của Hội đồng thẩm phán Tòa án nhân dân tối cao"
+ENTITY,E38_1,DIEU,Điều,structure,588,883,"Điều 1. Án lệ
+Án lệ là những lập luận, phán quyết trong bản án, quyết định đã có hiệu lực pháp luật của Tòa án về một vụ việc cụ thể được Hội đồng Thẩm phán Tòa án nhân dân tối cao lựa chọn và được Chánh án Tòa án nhân dân tối cao công bố là án lệ để các Tòa án nghiên cứu, áp dụng trong xét xử."
+ENTITY,E38_2,DIEU,Điều,structure,884,970,"Điều 2. Tiêu chí lựa chọn án lệ
+Án lệ được lựa chọn phải đáp ứng các tiêu chí sau đây:"
+ENTITY,E38_3,DIEU,Điều,structure,1360,1420,"Điều 3. Đề xuất bản án, quyết định để phát triển thành án lệ"
+ENTITY,E38_4,DIEU,Điều,structure,1959,2050,"Điều 4. Lấy ý kiến đối với bản án, quyết định được đề xuất lựa chọn, phát triển thành án lệ"
+ENTITY,E38_5,DIEU,Điều,structure,2926,2955,Điều 5. Hội đồng tư vấn án lệ
+ENTITY,E38_6,DIEU,Điều,structure,4128,4151,Điều 6. Thông qua án lệ
+ENTITY,E38_7,DIEU,Điều,structure,5150,5171,Điều 7. Công bố án lệ
+ENTITY,E38_8,DIEU,Điều,structure,5898,5932,Điều 8. Áp dụng án lệ trong xét xử
+ENTITY,E38_9,DIEU,Điều,structure,6719,6739,Điều 9. Bãi bỏ án lệ
+ENTITY,E38_10,DIEU,Điều,structure,7151,7180,Điều 10. Thủ tục bãi bỏ án lệ
+ENTITY,E38_11,DIEU,Điều,structure,8396,8472,"Điều 11. Các biểu mẫu
+Ban hành kèm theo Nghị quyết này các biểu mẫu sau đây:"
+ENTITY,E38_12,DIEU,Điều,structure,8633,8659,Điều 12. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,971,1270,"1. Có giá trị làm rõ quy định của pháp luật còn có cách hiểu khác nhau, phân tích, giải thích các vấn đề, sự kiện pháp lý và chỉ ra nguyên tắc, đường lối xử lý, quy phạm pháp luật cần áp dụng trong một vụ việc cụ thể hoặc thể hiện lẽ công bằng đối với những vấn đề chưa có điều luật quy định cụ thể;"
+ENTITY,E39_2,KHOAN,Khoản,structure,1271,1292,2. Có tính chuẩn mực;
+ENTITY,E39_3,KHOAN,Khoản,structure,1293,1359,3. Có giá trị hướng dẫn áp dụng thống nhất pháp luật trong xét xử.
+ENTITY,E39_4,KHOAN,Khoản,structure,1421,1679,"1. Cá nhân, cơ quan, tổ chức có thể gửi đề xuất bản án, quyết định đã có hiệu lực pháp luật của Tòa án chứa đựng lập luận, phán quyết đáp ứng các tiêu chí hướng dẫn tại Điều 2 của Nghị quyết này cho Tòa án nhân dân tối cao để xem xét, phát triển thành án lệ."
+ENTITY,E39_5,KHOAN,Khoản,structure,1680,1958,"2. Các Tòa án có trách nhiệm tổ chức rà soát, phát hiện bản án, quyết định đã có hiệu lực pháp luật của Tòa án mình chứa đựng lập luận, phán quyết đáp ứng các tiêu chí hướng dẫn tại Điều 2 của Nghị quyết này và gửi cho Tòa án nhân dân tối cao để xem xét, phát triển thành án lệ."
+ENTITY,E39_6,KHOAN,Khoản,structure,2051,2545,"1. Bản án, quyết định được đề xuất lựa chọn, phát triển thành án lệ, nội dung đề xuất là án lệ, dự thảo án lệ phải được đăng tải trên Cổng thông tin điện tử của Tòa án nhân dân tối cao để các Tòa án, chuyên gia, nhà khoa học, nhà hoạt động thực tiễn, cá nhân, cơ quan, tổ chức quan tâm tham gia ý kiến, trừ trường hợp hướng dẫn tại các điểm b, c và d khoản 2 Điều 6 của Nghị quyết này.
+Ý kiến góp ý được gửi về Tòa án nhân dân tối cao. Thời gian lấy ý kiến góp ý là 30 ngày kể từ ngày đăng tải."
+ENTITY,E39_7,KHOAN,Khoản,structure,2546,2925,"2. Trên cơ sở kết quả lấy ý kiến rộng rãi đối với các bản án, quyết định được đề xuất lựa chọn, phát triển thành án lệ, nội dung đề xuất là án lệ, dự thảo án lệ, Chánh án Tòa án nhân dân tối cao xem xét, quyết định việc lấy ý kiến của Hội đồng tư vấn án lệ. Việc lấy ý kiến của Hội đồng tư vấn án lệ được thực hiện theo hướng dẫn tại khoản 2 và khoản 3 Điều 5 của Nghị quyết này."
+ENTITY,E39_8,KHOAN,Khoản,structure,2956,3674,"1. Hội đồng tư vấn án lệ do Chánh án Tòa án nhân dân tối cao thành lập gồm có ít nhất 09 thành viên. Chủ tịch Hội đồng là Chủ tịch Hội đồng khoa học Tòa án nhân dân tối cao, 01 Phó Chủ tịch Hội đồng là Phó Chủ tịch Hội đồng khoa học Tòa án nhân dân tối cao, các thành viên khác là đại diện Bộ Tư pháp, Viện kiểm sát nhân dân tối cao, Liên đoàn Luật sư Việt Nam, đại diện cơ quan, tổ chức có liên quan, các chuyên gia về pháp luật và 01 đại diện lãnh đạo Vụ Pháp chế và Quản lý khoa học Tòa án nhân dân tối cao (đồng thời là Thư ký Hội đồng).
+Trường hợp tư vấn án lệ về hình sự thì thành phần của Hội đồng tư vấn án lệ phải có đại diện Cơ quan điều tra của Bộ Công an, Bộ Quốc phòng hoặc Viện kiểm sát nhân dân tối cao."
+ENTITY,E39_9,KHOAN,Khoản,structure,3675,3855,"2. Hội đồng tư vấn án lệ có trách nhiệm thảo luận cho ý kiến đối với các bản án, quyết định được đề xuất lựa chọn, phát triển thành án lệ, nội dung đề xuất là án lệ, dự thảo án lệ."
+ENTITY,E39_10,KHOAN,Khoản,structure,3856,4127,3. Việc lấy ý kiến của Hội đồng tư vấn án lệ được thực hiện thông qua phiên họp thảo luận trực tiếp hoặc bằng văn bản. Chủ tịch Hội đồng tư vấn án lệ quyết định phương thức lấy ý kiến của các thành viên Hội đồng và báo cáo Chánh án Tòa án nhân dân tối cao kết quả tư vấn.
+ENTITY,E39_11,KHOAN,Khoản,structure,4152,4299,"1. Chánh án Tòa án nhân dân tối cao tổ chức phiên họp toàn thể Hội đồng Thẩm phán Tòa án nhân dân tối cao để thảo luận, biểu quyết thông qua án lệ."
+ENTITY,E39_12,KHOAN,Khoản,structure,4300,4371,2. Án lệ được xem xét thông qua khi thuộc một trong các trường hợp sau:
+ENTITY,E39_13,KHOAN,Khoản,structure,4729,4977,3. Phiên họp Hội đồng Thẩm phán Tòa án nhân dân tối cao phải có ít nhất hai phần ba tổng số thành viên tham gia; quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao phải được quá nửa tổng số thành viên Hội đồng Thẩm phán biểu quyết tán thành.
+ENTITY,E39_14,KHOAN,Khoản,structure,4978,5149,"4. Kết quả biểu quyết phải được ghi vào biên bản phiên họp lựa chọn, thông qua án lệ của Hội đồng Thẩm phán và là căn cứ để Chánh án Tòa án nhân dân tối cao công bố án lệ."
+ENTITY,E39_15,KHOAN,Khoản,structure,5172,5303,1. Chánh án Tòa án nhân dân tối cao ban hành quyết định công bố án lệ đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua.
+ENTITY,E39_16,KHOAN,Khoản,structure,5304,5332,2. Nội dung công bố bao gồm:
+ENTITY,E39_17,KHOAN,Khoản,structure,5707,5897,"3. Án lệ được đăng tải trên Cổng thông tin điện tử của Tòa án nhân dân tối cao; được gửi cho các Tòa án, các đơn vị thuộc Tòa án nhân dân tối cao và được đưa vào Tuyển tập án lệ để xuất bản."
+ENTITY,E39_18,KHOAN,Khoản,structure,5933,6011,"1. Án lệ được nghiên cứu, áp dụng trong xét xử sau 30 ngày kể từ ngày công bố."
+ENTITY,E39_19,KHOAN,Khoản,structure,6012,6308,"2. Khi xét xử, Thẩm phán, Hội thẩm phải nghiên cứu, áp dụng án lệ, bảo đảm những vụ việc có tình huống pháp lý tương tự thì phải được giải quyết như nhau. Trường hợp vụ việc có tình huống pháp lý tương tự nhưng Tòa án không áp dụng án lệ thì phải nêu rõ lý do trong bản án, quyết định của Tòa án."
+ENTITY,E39_20,KHOAN,Khoản,structure,6309,6718,"3. Trường hợp Tòa án áp dụng án lệ để giải quyết vụ việc thì số, tên án lệ, tình huống pháp lý, giải pháp pháp lý trong án lệ và tình huống pháp lý của vụ việc đang được giải quyết phải được viện dẫn, phân tích trong phần ""Nhận định của Tòa án""; tùy từng trường hợp cụ thể có thể trích dẫn toàn bộ hoặc một phần nội dung của án lệ để làm rõ quan điểm của Tòa án trong việc xét xử, giải quyết vụ việc tương tự."
+ENTITY,E39_21,KHOAN,Khoản,structure,6740,6844,1. Án lệ đương nhiên bị bãi bỏ trong trường hợp án lệ không còn phù hợp do có sự thay đổi của pháp luật.
+ENTITY,E39_22,KHOAN,Khoản,structure,6845,6972,"2. Hội đồng Thẩm phán Tòa án nhân dân tối cao xem xét, quyết định việc bãi bỏ án lệ khi thuộc một trong các trường hợp sau đây:"
+ENTITY,E39_23,KHOAN,Khoản,structure,7181,7367,"1. Cá nhân, cơ quan, tổ chức, Tòa án kiến nghị với Tòa án nhân dân tối cao xem xét việc bãi bỏ án lệ khi phát hiện án lệ thuộc trường hợp hướng dẫn tại khoản 2 Điều 9 của Nghị quyết này."
+ENTITY,E39_24,KHOAN,Khoản,structure,7368,7649,"2. Tòa án đã hủy, sửa bản án, quyết định thuộc trường hợp hướng dẫn tại điểm b khoản 2 Điều 9 của Nghị quyết này phải gửi báo cáo kèm theo quyết định đã hủy, sửa về Tòa án nhân dân tối cao để xem xét việc bãi bỏ án lệ trong thời hạn 05 ngày làm việc kể từ ngày ban hành quyết định."
+ENTITY,E39_25,KHOAN,Khoản,structure,7650,8395,"3. Trong thời hạn 30 ngày kể từ ngày nhận được kiến nghị, báo cáo theo hướng dẫn tại khoản 1, khoản 2 Điều này, Chánh án Tòa án nhân dân tối cao tổ chức phiên họp toàn thể
+Hội đồng Thẩm phán Tòa án nhân dân tối cao xem xét việc bãi bỏ án lệ. Hội đồng Thẩm phán Tòa án nhân dân tối cao họp biểu quyết thông qua việc bãi bỏ án lệ theo nguyên tắc hướng dẫn tại khoản 3 Điều 6 của Nghị quyết này.
+Trên cơ sở kết quả biểu quyết của Hội đồng Thẩm phán Tòa án nhân dân tối cao, Chánh án Tòa án nhân dân tối cao ban hành thông báo bãi bỏ án lệ, trong đó xác định rõ thời điểm án lệ bị bãi bỏ. Thông báo bãi bỏ án lệ được đăng tải trên Cổng thông tin điện tử của Tòa án nhân dân tối cao; được gửi cho các Tòa án, các đơn vị thuộc Tòa án nhân dân tối cao."
+ENTITY,E39_26,KHOAN,Khoản,structure,8473,8534,"1. Mẫu số 01-AL Biên bản phiên họp lựa chọn, thông qua án lệ;"
+ENTITY,E39_27,KHOAN,Khoản,structure,8535,8584,2. Mẫu số 02-AL Quyết định về việc công bố án lệ;
+ENTITY,E39_28,KHOAN,Khoản,structure,8585,8632,3. Mẫu số 03-AL Thông báo về việc bãi bỏ án lệ.
+ENTITY,E39_29,KHOAN,Khoản,structure,8660,8819,1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 23 tháng 5 năm 2019 và có hiệu lực thi hành kể từ ngày 15 tháng 7 năm 2019.
+ENTITY,E39_30,KHOAN,Khoản,structure,8820,8998,"2. Nghị quyết này thay thế Nghị quyết số 03/2015/NQ-HĐTP ngày 28 tháng 10 năm 2015 của Hội đồng Thẩm phán Tòa án nhân dân tối cao về quy trình lựa chọn, công bố và áp dụng án lệ."
+ENTITY,E39_31,KHOAN,Khoản,structure,8999,9212,"3. Giao Vụ Pháp chế và Quản lý khoa học là đơn vị thường trực tham mưu, giúp Chánh án Tòa án nhân dân tối cao, Hội đồng Thẩm phán Tòa án nhân dân tối cao trong công tác rà soát, lựa chọn, công bố và áp dụng án lệ."
+ENTITY,E39_32,KHOAN,Khoản,structure,9213,9448,4. Trong quá trình thực hiện nếu có vướng mắc cần phải giải thích hoặc hướng dẫn bổ sung thì đề nghị phản ánh cho Tòa án nhân dân tối cao để có sự giải thích hoặc hướng dẫn bổ sung kịp thời.tm. hội đồng thẩm phánCHÁNH ÁNNguyễn Hòa Bình
+ENTITY,E40_1,DIEM,Điểm,structure,4372,4523,"a) Được phát triển từ bản án, quyết định có hiệu lực pháp luật của Tòa án và đã được lấy ý kiến theo hướng dẫn tại Điều 4 và Điều 5 của Nghị quyết này;"
+ENTITY,E40_2,DIEM,Điểm,structure,4524,4574,b) Được Thẩm phán Tòa án nhân dân tối cao đề xuất;
+ENTITY,E40_3,DIEM,Điểm,structure,4575,4632,c) Được Ủy ban Thẩm phán Tòa án nhân dân cấp cao đề xuất;
+ENTITY,E40_4,DIEM,Điểm,structure,4633,4728,"d) Được Hội đồng Thẩm phán Tòa án nhân dân tối cao lựa chọn khi xét xử giám đốc thẩm, tái thẩm."
+ENTITY,E40_5,DIEM,Điểm,structure,5333,5350,"a) Số, tên án lệ;"
+ENTITY,E40_6,DIEM,Điểm,structure,5351,5432,"b) Số, tên bản án, quyết định của Tòa án có nội dung được phát triển thành án lệ;"
+ENTITY,E40_7,DIEM,Điểm,structure,5433,5484,"c) Tình huống pháp lý, giải pháp pháp lý của án lệ;"
+ENTITY,E40_8,DIEM,Điểm,structure,5485,5534,d) Quy định của pháp luật có liên quan đến án lệ;
+ENTITY,E40_9,DIEM,Điểm,structure,5535,5605,"đ) Từ khoá về những tình huống pháp lý, giải pháp pháp lý trong án lệ;"
+ENTITY,E40_10,DIEM,Điểm,structure,5606,5683,e) Các tình tiết trong vụ án và phán quyết của Tòa án có liên quan đến án lệ;
+ENTITY,E40_11,DIEM,Điểm,structure,5684,5706,g) Nội dung của án lệ.
+ENTITY,E40_12,DIEM,Điểm,structure,6973,7025,a) Án lệ không còn phù hợp do chuyển biến tình hình;
+ENTITY,E40_13,DIEM,Điểm,structure,7026,7150,"b) Bản án, quyết định có nội dung được lựa chọn phát triển thành án lệ đã bị hủy, sửa toàn bộ hoặc phần liên quan đến án lệ."
+RELATION,R4_1,BI_TAC_DONG_HIEU_LUC_TOAN_BO,Bị tác động hiệu lực toàn bộ,E2_1,E16_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R22_1,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_2,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_10,E38_5,,
+RELATION,R22_5,THUOC,Thuộc,E39_11,E38_6,,
+RELATION,R22_6,THUOC,Thuộc,E39_12,E38_6,,
+RELATION,R22_7,THUOC,Thuộc,E39_13,E38_6,,
+RELATION,R22_8,THUOC,Thuộc,E39_14,E38_6,,
+RELATION,R22_9,THUOC,Thuộc,E39_15,E38_7,,
+RELATION,R22_10,THUOC,Thuộc,E39_16,E38_7,,
+RELATION,R22_11,THUOC,Thuộc,E39_17,E38_7,,
+RELATION,R22_12,THUOC,Thuộc,E39_18,E38_8,,
+RELATION,R22_13,THUOC,Thuộc,E39_19,E38_8,,
+RELATION,R22_14,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_15,THUOC,Thuộc,E39_20,E38_8,,
+RELATION,R22_16,THUOC,Thuộc,E39_21,E38_9,,
+RELATION,R22_17,THUOC,Thuộc,E39_22,E38_9,,
+RELATION,R22_18,THUOC,Thuộc,E39_23,E38_10,,
+RELATION,R22_19,THUOC,Thuộc,E39_24,E38_10,,
+RELATION,R22_20,THUOC,Thuộc,E39_25,E38_10,,
+RELATION,R22_21,THUOC,Thuộc,E39_26,E38_11,,
+RELATION,R22_22,THUOC,Thuộc,E39_27,E38_11,,
+RELATION,R22_23,THUOC,Thuộc,E39_28,E38_11,,
+RELATION,R22_24,THUOC,Thuộc,E39_29,E38_12,,
+RELATION,R22_25,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_26,THUOC,Thuộc,E39_30,E38_12,,
+RELATION,R22_27,THUOC,Thuộc,E39_31,E38_12,,
+RELATION,R22_28,THUOC,Thuộc,E39_32,E38_12,,
+RELATION,R22_29,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,R22_30,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_31,THUOC,Thuộc,E39_6,E38_4,,
+RELATION,R22_32,THUOC,Thuộc,E39_7,E38_4,,
+RELATION,R22_33,THUOC,Thuộc,E39_8,E38_5,,
+RELATION,R22_34,THUOC,Thuộc,E39_9,E38_5,,
+RELATION,R22_35,THUOC,Thuộc,E40_1,E39_12,,
+RELATION,R22_36,THUOC,Thuộc,E40_10,E39_16,,
+RELATION,R22_37,THUOC,Thuộc,E40_11,E39_16,,
+RELATION,R22_38,THUOC,Thuộc,E40_12,E39_22,,
+RELATION,R22_39,THUOC,Thuộc,E40_13,E39_22,,
+RELATION,R22_40,THUOC,Thuộc,E40_2,E39_12,,
+RELATION,R22_41,THUOC,Thuộc,E40_3,E39_12,,
+RELATION,R22_42,THUOC,Thuộc,E40_4,E39_12,,
+RELATION,R22_43,THUOC,Thuộc,E40_5,E39_16,,
+RELATION,R22_44,THUOC,Thuộc,E40_6,E39_16,,
+RELATION,R22_45,THUOC,Thuộc,E40_7,E39_16,,
+RELATION,R22_46,THUOC,Thuộc,E40_8,E39_16,,
+RELATION,R22_47,THUOC,Thuộc,E40_9,E39_16,,

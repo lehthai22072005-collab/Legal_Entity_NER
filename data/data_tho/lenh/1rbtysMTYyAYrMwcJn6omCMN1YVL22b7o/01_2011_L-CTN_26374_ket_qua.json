@@ -1,0 +1,186 @@
+{
+  "schema_version": "1.0",
+  "document_id": "26374",
+  "document_code": "01/2011/L-CTN",
+  "file_name": "01_2011_L-CTN_26374.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "LỆNH\nVề việc công bố Pháp lệnh",
+    "so_hieu": "01/2011/L-CTN",
+    "loai_van_ban": "LỆNH",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "ngày 04 tháng 3 năm 2011",
+    "ngay_co_hieu_luc": "ngày 04 tháng 3 năm 2011",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH\nNƯỚC",
+    "nguoi_ky": "Nguyễn Minh Triết",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 01/2011/L-CTN Về việc công bố Pháp lệnh\nCHỦ TỊCH NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nSố: 01/2011/L-CTN\nHà Nội, ngày 04 tháng 3 năm 2011\nLỆNH\nVề việc công bố Pháp lệnh\n____________\nCHỦ TỊCH\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 103 và Điều 106 của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khóa X, kỳ họp thứ 10;\nCăn cứ Điều 91 của Luật Tổ chức Quốc hội;\nCăn cứ Điều 57 của Luật Ban hành văn bản quy phạm pháp luật,\nNAY CÔNG BỐ\nPháp lệnh Sửa đổi, bổ sung một số điều của Pháp lệnh Thẩm phán và Hội thẩm Tòa án nhân dân\nĐã được Ủy ban thường vụ Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII thông qua ngày 19 tháng 02 năm 2011./.\nCHỦ TỊCH\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nNguyễn Minh Triết\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Tình trạng hiệu lực]: Còn hiệu lực",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 176,
+      "end": 206,
+      "text": "LỆNH\nVề việc công bố Pháp lệnh",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 129,
+      "end": 142,
+      "text": "01/2011/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 176,
+      "end": 180,
+      "text": "LỆNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 151,
+      "end": 175,
+      "text": "ngày 04 tháng 3 năm 2011",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 938,
+      "end": 952,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 151,
+      "end": 175,
+      "text": "ngày 04 tháng 3 năm 2011",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 976,
+      "end": 988,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 48,
+      "end": 61,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 807,
+      "end": 820,
+      "text": "CHỦ TỊCH\nNƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 856,
+      "end": 873,
+      "text": "Nguyễn Minh Triết",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E14_1",
+      "start": 540,
+      "end": 580,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 301,
+      "end": 359,
+      "text": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 540,
+      "end": 580,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 498,
+      "end": 519,
+      "text": "Luật Tổ chức Quốc hội",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R2_1",
+      "from_id": "E14_1",
+      "to_id": "E2_1",
+      "code": "DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Được quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E19_3",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

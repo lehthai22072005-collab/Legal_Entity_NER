@@ -1,0 +1,251 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,229,300,"NGHỊ QUYẾT
+HƯỚNG DẪN THI HÀNH MỘT SỐ QUY ĐỊNH LUẬT TRỌNG TÀI THƯƠNG MẠI"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,180,195,01/2014/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,229,239,NGHỊ QUYẾT
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,204,228,ngày 20 tháng 3 năm 2014
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,45658,45672,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,45157,45181,ngày 02 tháng 7 năm 2014
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,45696,45708,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,320,343,TÒA ÁN NHÂN DÂN TỐI CAO
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,45562,45570,CHÁNH ÁN
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,45578,45593,Trương Hòa Bình
+ENTITY,E13_1,VB_DUOC_HUONG_DAN_AP_DUNG,Văn bản được hướng dẫn áp dụng,reference,42541,42571,Nghị quyết số  01/2012/NQ-HĐTP
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,45728,45768,Luật Tổ chức Tòa án nhân dân số Không số
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,45788,45832,Luật Tổ chức Tòa án nhân dân số 62/2014/QH13
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,2116,2147,Bộ luật tố tụng dân sự năm 2004
+ENTITY,E19_4,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,21811,21837,Nghị định số 63/2011/NĐ-CP
+ENTITY,E38_1,DIEU,Điều,structure,713,739,Điều 1. Phạm vi điều chỉnh
+ENTITY,E38_2,DIEU,Điều,structure,919,1015,"Điều 2. Xác định thẩm quyền giải quyết tranh chấp giữa Trọng tài, Tòa án theo quy định Luật TTTM"
+ENTITY,E38_3,DIEU,Điều,structure,5978,6055,Điều 3. Thoả thuận trọng tài vô hiệu quy định tại Điều 6 và Điều 18 Luật TTTM
+ENTITY,E38_4,DIEU,Điều,structure,8550,8633,Điều 4. Thỏa thuận trọng tài không thể thực hiện được quy định tại Điều 6 Luật TTTM
+ENTITY,E38_5,DIEU,Điều,structure,10535,10630,Điều 5. Xác định Tòa án có thẩm quyền đối với hoạt động trọng tài quy định tại Điều 7 Luật TTTM
+ENTITY,E38_6,DIEU,Điều,structure,16794,16851,Điều 6. Mất quyền phản đối quy định tại Điều 13 Luật TTTM
+ENTITY,E38_7,DIEU,Điều,structure,18530,18592,Điều 7. Về thỏa thuận trọng tài quy định tại Điều 16 Luật TTTM
+ENTITY,E38_8,DIEU,Điều,structure,19619,19694,Điều 8. Thành lập Hội đồng trọng tài vụ việc quy định tại Điều 41 Luật TTTM
+ENTITY,E38_9,DIEU,Điều,structure,22265,22353,Điều 9. Thay đổi Trọng tài viên trọng tài vụ việc quy định tại khoản 4 Điều 42 Luật TTTM
+ENTITY,E38_10,DIEU,Điều,structure,24301,24558,"Điều 10. Khiếu nại và giải quyết khiếu nại quyết định của Hội đồng trọng tài về việc không có thỏa thuận trọng tài, thỏa thuận trọng tài vô hiệu, thỏa thuận trọng tài không thể thực hiện được, thẩm quyền của Hội đồng trọng tài quy định tại Điều 44 Luật TTTM"
+ENTITY,E38_11,DIEU,Điều,structure,28278,28391,"Điều 11. Về đề nghị Tòa án thu thập chứng cứ, triệu tập người làm chứng quy định tại Điều 46 và Điều 47 Luật TTTM"
+ENTITY,E38_12,DIEU,Điều,structure,30686,30820,"Điều 12. Thẩm quyền, trình tự, thủ tục của Tòa án áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời quy định tại Điều 53 Luật TTTM"
+ENTITY,E38_13,DIEU,Điều,structure,33210,33286,Điều 13. Đăng ký phán quyết trọng tài vụ việc quy định tại Điều 62 Luật TTTM
+ENTITY,E38_14,DIEU,Điều,structure,35052,35123,Điều 14. Căn cứ hủy phán quyết trọng tài quy định tại Điều 68 Luật TTTM
+ENTITY,E38_15,DIEU,Điều,structure,40486,40573,Điều 15. Tòa án xét đơn yêu cầu huỷ phán quyết trọng tài quy định tại Điều 71 Luật TTTM
+ENTITY,E38_16,DIEU,Điều,structure,42303,42380,Điều 16. Lệ phí Tòa án liên quan đến Trọng tài quy định tại Điều 72 Luật TTTM
+ENTITY,E38_17,DIEU,Điều,structure,42941,42982,Điều 17. Ban hành các mẫu văn bản tố tụng
+ENTITY,E38_18,DIEU,Điều,structure,43552,43620,Điều 18. Về hiệu lực thi hành quy định tại khoản 3 Điều 81 Luật TTTM
+ENTITY,E38_19,DIEU,Điều,structure,44981,45022,Điều 19. Hiệu lực thi hành của Nghị quyết
+ENTITY,E39_1,KHOAN,Khoản,structure,1016,1223,"1. Trọng tài có thẩm quyền giải quyết các tranh chấp quy định tại Điều 2 Luật TTTM nếu các bên có thoả thuận trọng tài quy định tại Điều 5 và Điều 16 Luật TTTM, trừ trường hợp hướng dẫn tại khoản 3 Điều này."
+ENTITY,E39_2,KHOAN,Khoản,structure,1224,1640,"2. Khi có yêu cầu Tòa án giải quyết tranh chấp phát sinh trong lĩnh vực quy định tại Điều 2 Luật TTTM thì Tòa án yêu cầu một hoặc các bên cho biết tranh chấp đó các bên có thoả thuận trọng tài hay không. Tòa án phải kiểm tra, xem xét các tài liệu gửi kèm theo đơn khởi kiện để xác định vụ tranh chấp đó có thuộc trường hợp hướng dẫn tại khoản 3 Điều này hay không. Tùy từng trường hợp cụ thể mà Tòa án xử lý như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,3543,3744,"3. Tranh chấp có thỏa thuận trọng tài nhưng thuộc một trong các trường hợp sau đây thì thuộc thẩm quyền giải quyết của Tòa án, trừ trường hợp các bên có thoả thuận khác hoặc pháp luật có quy định khác:"
+ENTITY,E39_4,KHOAN,Khoản,structure,4142,4472,"4. Trường hợp các bên vừa có thỏa thuận giải quyết tranh chấp bằng Trọng tài, vừa có thỏa thuận giải quyết tranh chấp bằng Tòa án mà các bên không có thỏa thuận lại hoặc thỏa thuận mới về cơ quan có thẩm quyền giải quyết tranh chấp và không thuộc trường hợp quy định tại khoản 3 Điều này mà phát sinh tranh chấp thì xử lý như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,6281,6526,"1. ""Tranh chấp phát sinh trong các lĩnh vực không thuộc thẩm quyền của Trọng tài"" quy định tại khoản 1 Điều 18 Luật TTTM là trường hợp thỏa thuận trọng tài được xác lập để giải quyết tranh chấp không thuộc lĩnh vực quy định tại Điều 2 Luật TTTM."
+ENTITY,E39_6,KHOAN,Khoản,structure,6527,6862,"2. ""Người xác lập thỏa thuận trọng tài không có thẩm quyền theo quy định của pháp luật"" quy định tại khoản 2 Điều 18 Luật TTTM là người xác lập thỏa thuận trọng tài khi không phải là người đại diện theo pháp luật hoặc không phải là người được ủy quyền hợp pháp hoặc là người được ủy quyền hợp pháp nhưng vượt quá phạm vi được ủy quyền."
+ENTITY,E39_7,KHOAN,Khoản,structure,7268,7846,"3. ""Người xác lập thỏa thuận trọng tài không có năng lực hành vi dân sự"" quy định tại khoản 3 Điều 18 Luật TTTM là người chưa thành niên, người mất năng lực hành vi dân sự hoặc người bị hạn chế năng lực hành vi dân sự. Trong trường hợp này thì Tòa án cần thu thập chứng cứ để chứng minh người xác lập thoả thuận trọng tài không có năng lực hành vi dân sự thì phải có giấy tờ tài liệu chứng minh ngày tháng năm sinh hoặc kết luận của cơ quan có thẩm quyền hoặc quyết định của Tòa án xác định, tuyên bố người đó mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự."
+ENTITY,E39_8,KHOAN,Khoản,structure,7847,8128,"4. ""Hình thức của thoả thuận trọng tài không phù hợp với quy định tại Điều 16 Luật TTTM"" quy định tại khoản 4 Điều 18 Luật TTTM là trường hợp thỏa thuận trọng tài không được xác lập bằng một trong các hình thức quy định tại Điều 16 Luật TTTM và hướng dẫn tại Điều 7 Nghị quyết này."
+ENTITY,E39_9,KHOAN,Khoản,structure,8129,8380,"5. ""Một trong các bên bị lừa dối, đe dọa, cưỡng ép trong quá trình xác lập thoả thuận trọng tài"" quy định tại khoản 5 Điều 18 Luật TTTM là trường hợp một trong các bên bị lừa dối, đe dọa, cưỡng ép theo quy định tại Điều 4, Điều 132 của Bộ luật dân sự."
+ENTITY,E39_10,KHOAN,Khoản,structure,8381,8549,"6. ""Thỏa thuận trọng tài vi phạm điều cấm của pháp luật"" quy định tại khoản 6 Điều 18 Luật TTTM là thỏa thuận thuộc trường hợp quy định tại Điều 128 của Bộ luật dân sự."
+ENTITY,E39_11,KHOAN,Khoản,structure,8776,9049,"1. Các bên đã có thỏa thuận giải quyết tranh chấp tại một Trung tâm trọng tài cụ thể nhưng Trung tâm trọng tài này đã chấm dứt hoạt động mà không có tổ chức trọng tài kế thừa, và các bên không thỏa thuận được việc lựa chọn Trung tâm trọng tài khác để giải quyết tranh chấp."
+ENTITY,E39_12,KHOAN,Khoản,structure,9050,9454,"2. Các bên đã có thỏa thuận cụ thể về việc lựa chọn Trọng tài viên trọng tài vụ việc, nhưng tại thời điểm xảy ra tranh chấp, vì sự kiện bất khả kháng hoặc trở ngại khách quan mà Trọng tài viên không thể tham gia giải quyết tranh chấp, hoặc Trung tâm trọng tài, Tòa án không thể tìm được Trọng tài viên như các bên thỏa thuận và các bên không thỏa thuận được việc lựa chọn Trọng tài viên khác để thay thế."
+ENTITY,E39_13,KHOAN,Khoản,structure,9455,9763,"3. Các bên đã có thỏa thuận cụ thể về việc lựa chọn Trọng tài viên trọng tài vụ việc, nhưng tại thời điểm xảy ra tranh chấp, Trọng tài viên từ chối việc được chỉ định hoặc Trung tâm trọng tài từ chối việc chỉ định Trọng tài viên và các bên không thỏa thuận được việc lựa chọn Trọng tài viên khác để thay thế."
+ENTITY,E39_14,KHOAN,Khoản,structure,9764,10214,4. Các bên có thỏa thuận giải quyết tranh chấp tại một Trung tâm trọng tài nhưng lại thỏa thuận áp dụng Quy tắc tố tụng của Trung tâm trọng tài khác với Quy tắc tố tụng trọng tài của Trung tâm trọng tài đã thỏa thuận và điều lệ của Trung tâm trọng tài do các bên lựa chọn để giải quyết tranh chấp không cho phép áp dụng Quy tắc tố tụng của Trung tâm trọng tài khác và các bên không thỏa thuận được về việc lựa chọn Quy tắc tố tụng trọng tài thay thế.
+ENTITY,E39_15,KHOAN,Khoản,structure,10215,10534,"5. Nhà cung cấp hàng hóa, dịch vụ và người tiêu dùng có điều khoản về thỏa thuận trọng tài được ghi nhận trong các điều kiện chung về cung cấp hàng hoá, dịch vụ do nhà cung cấp soạn sẵn quy định tại Điều 17 Luật TTTM nhưng khi phát sinh tranh chấp, người tiêu dùng không đồng ý lựa chọn Trọng tài giải quyết tranh chấp."
+ENTITY,E39_16,KHOAN,Khoản,structure,10631,10981,"1. Các bên có quyền thỏa thuận lựa chọn một trong các Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương của Việt Nam để giải quyết vụ việc liên quan đến hoạt động trọng tài tại Việt Nam. Việc thỏa thuận lựa chọn Tòa án có thẩm quyền phải được lập thành văn bản, trong đó nêu rõ loại việc yêu cầu Tòa án giải quyết, tên Tòa án mà các bên lựa chọn."
+ENTITY,E39_17,KHOAN,Khoản,structure,11656,11957,2. Các bên có thể thỏa thuận lựa chọn Tòa án có thẩm quyền đối với hoạt động trọng tài trước hoặc sau khi có tranh chấp. Việc thỏa thuận lựa chọn Tòa án đối với hoạt động trọng tài phải đảm bảo nguyên tắc chỉ có một Tòa án có thẩm quyền đối với một hoạt động trọng tài hoặc tất cả hoạt động trọng tài.
+ENTITY,E39_18,KHOAN,Khoản,structure,11958,12071,3. Xác định Tòa án có thẩm quyền đối với yêu cầu chỉ định Trọng tài viên để thành lập Hội đồng trọng tài vụ việc.
+ENTITY,E39_19,KHOAN,Khoản,structure,14053,14316,"4. Tòa án có thẩm quyền đối với yêu cầu thay đổi Trọng tài viên, giải quyết khiếu nại quyết định của Hội đồng trọng tài, hủy phán quyết trọng tài, đăng ký phán quyết trọng tài vụ việc quy định tại các điểm b, c và g khoản 2 Điều 7 Luật TTTM được xác định như sau:"
+ENTITY,E39_20,KHOAN,Khoản,structure,16066,16155,5. Xác định thẩm quyền của Tòa án đối với hoạt động của Trọng tài nước ngoài tại Việt Nam
+ENTITY,E39_21,KHOAN,Khoản,structure,16852,17496,"1. Trường hợp một bên phát hiện có vi phạm quy định Luật TTTM hoặc của thỏa thuận trọng tài mà vẫn tiếp tục thực hiện tố tụng trọng tài và không phản đối với Hội đồng trọng tài, Trung tâm trọng tài những vi phạm đó trong thời hạn do Luật TTTM quy định thì mất quyền phản đối tại Trọng tài, hoặc tại Tòa án đối với những vi phạm đã biết đó. Trường hợp Luật TTTM không quy định thời hạn thì thời hạn được xác định theo thỏa thuận của các bên hoặc quy tắc tố tụng trọng tài. Trường hợp các bên không thỏa thuận hoặc quy tắc tố tụng trọng tài không quy định thì việc phản đối phải được thực hiện trước thời điểm Hội đồng trọng tài tuyên phán quyết."
+ENTITY,E39_22,KHOAN,Khoản,structure,17497,17787,"2. Trước khi xem xét yêu cầu của một hoặc các bên về việc có vi phạm quy định Luật TTTM hoặc của thỏa thuận trọng tài, Tòa án phải kiểm tra các tài liệu, chứng cứ, quy tắc tố tụng trọng tài để xác định đối với yêu cầu đó, một hoặc các bên có mất quyền phản đối hay không mất quyền phản đối."
+ENTITY,E39_23,KHOAN,Khoản,structure,18220,18529,"3. Khi giải quyết yêu cầu hủy phán quyết trọng tài, Tòa án có trách nhiệm xem xét theo quy định tại điểm đ khoản 2 và điểm b khoản 3 Điều 68 Luật TTTM. Trường hợp xét thấy có đủ căn cứ để chấp nhận hoặc không chấp nhận yêu cầu thì Tòa án có quyền quyết định ngay cả khi một hoặc các bên đã mất quyền phản đối."
+ENTITY,E39_24,KHOAN,Khoản,structure,18593,18777,1. Trường hợp có nhiều thỏa thuận trọng tài được xác lập đối với cùng một nội dung tranh chấp thì thỏa thuận trọng tài được xác lập hợp pháp sau cùng theo thời gian có giá trị áp dụng.
+ENTITY,E39_25,KHOAN,Khoản,structure,18778,18933,"2. Trường hợp thỏa thuận trọng tài có nội dung không rõ ràng, có thể hiểu theo nhiều nghĩa khác nhau thì áp dụng quy định của Bộ luật dân sự để giải thích."
+ENTITY,E39_26,KHOAN,Khoản,structure,18934,19252,"3. Khi có sự chuyển giao quyền, nghĩa vụ phát sinh từ giao dịch, hợp đồng mà trong giao dịch, hợp đồng đó các bên có xác lập thỏa thuận trọng tài hợp pháp thì thỏa thuận trọng tài trong giao dịch, hợp đồng vẫn có hiệu lực đối với bên được chuyển giao và bên nhận chuyển giao, trừ trường hợp các bên có thỏa thuận khác."
+ENTITY,E39_27,KHOAN,Khoản,structure,19253,19395,4. Việc gộp nhiều quan hệ pháp luật tranh chấp để giải quyết trong cùng một vụ kiện được thực hiện khi thuộc một trong các trường hợp sau đây:
+ENTITY,E39_28,KHOAN,Khoản,structure,19695,19837,"1. Trường hợp các bên không có thỏa thuận khác, thì Tòa án thực hiện việc chỉ định Trọng tài viên khi có yêu cầu trong các trường hợp sau đây:"
+ENTITY,E39_29,KHOAN,Khoản,structure,21013,21370,"2. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được đơn yêu cầu, Chánh án Tòa án nhân dân cấp tỉnh có thẩm quyền phân công một Thẩm phán chỉ định Trọng tài viên. Tòa án có thẩm quyền thông báo ngay cho các bên tranh chấp, Trọng tài viên của Hội đồng trọng tài vụ việc được lựa chọn về việc thụ lý vụ việc và Thẩm phán được phân công giải quyết vụ việc."
+ENTITY,E39_30,KHOAN,Khoản,structure,21371,21571,"3. Trong thời hạn 07 ngày làm việc, kể từ ngày được phân công, Thẩm phán xét đơn yêu cầu chỉ định Trọng tài viên mà không phải mở phiên họp để xét đơn yêu cầu, không phải triệu tập các bên tranh chấp."
+ENTITY,E39_31,KHOAN,Khoản,structure,21572,22113,"4. Khi xét đơn yêu cầu, Thẩm phán căn cứ vào quy định tại Điều 20 và Điều 21 Luật TTTM, danh sách Trọng tài viên của các tổ chức trọng tài hoạt động tại Việt Nam quy định tại điểm c khoản 1 Điều 15 Luật TTTM, khoản 4 Điều 2 và Điều 19 của Nghị định số 63/2011/NĐ-CP ngày 28 tháng 7 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều Luật Trọng tài thương mại và các tài liệu kèm theo để xem xét, quyết định. Quyết định chỉ định Trọng tài viên của Tòa án được thực hiện theo Mẫu số 01 ban hành kèm theo Nghị quyết này."
+ENTITY,E39_32,KHOAN,Khoản,structure,22114,22264,"5. Trong thời hạn 03 ngày làm việc, kể từ ngày ra quyết định, Tòa án gửi quyết định cho các bên, Hội đồng trọng tài, Trọng tài viên Trọng tài vụ việc."
+ENTITY,E39_33,KHOAN,Khoản,structure,22354,22635,"1. Tòa án chỉ thụ lý và giải quyết việc thay đổi Trọng tài viên trọng tài vụ việc trong những trường hợp quy định tại khoản 4 Điều 42 Luật TTTM. Người có yêu cầu thay đổi Trọng tài viên phải làm đơn yêu cầu bằng văn bản, trong đó nêu rõ trường hợp và lý do thay đổi Trọng tài viên."
+ENTITY,E39_34,KHOAN,Khoản,structure,22636,23005,"2. Trong thời hạn 15 ngày, kể từ ngày nhận được đơn yêu cầu, Chánh án Tòa án nhân dân cấp tỉnh có thẩm quyền phân công một Thẩm phán thực hiện việc thay đổi Trọng tài viên. Tòa án có thẩm quyền thông báo ngay cho Hội đồng trọng tài, các Trọng tài viên của Hội đồng trọng tài vụ việc, các bên tranh chấp về việc thụ lý đơn yêu cầu và Thẩm phán được phân công giải quyết."
+ENTITY,E39_35,KHOAN,Khoản,structure,23006,23206,"3. Trong thời hạn 07 ngày làm việc, kể từ ngày được phân công, Thẩm phán xét đơn yêu cầu thay đổi Trọng tài viên mà không phải mở phiên họp để xét đơn yêu cầu, không phải triệu tập các bên tranh chấp."
+ENTITY,E39_36,KHOAN,Khoản,structure,23207,23692,"4. Khi xét đơn yêu cầu, Thẩm phán căn cứ vào quy định tại Điều 20, Điều 21 và khoản 6 Điều 42 Luật TTTM, danh sách Trọng tài viên của các tổ chức trọng tài hoạt động tại Việt Nam quy định tại điểm c khoản 1 Điều 15 Luật TTTM, khoản 4 Điều 2 và Điều 19 Nghị định số 63/2011/NĐ-CP ngày 28 tháng 7 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều Luật TTTM và các tài liệu kèm theo để xem xét, quyết định Trọng tài viên có thuộc trường hợp bị thay đổi hay không."
+ENTITY,E39_37,KHOAN,Khoản,structure,24135,24300,"5. Trong thời hạn 03 ngày làm việc, kể từ ngày ra quyết định, Tòa án gửi quyết định cho các bên, Hội đồng trọng tài, Trọng tài viên, Viện kiểm sát nhân dân cùng cấp."
+ENTITY,E39_38,KHOAN,Khoản,structure,24559,25177,"1. Bên khiếu nại quyết định của Hội đồng trọng tài về việc không có thỏa thuận trọng tài, thỏa thuận trọng tài vô hiệu, thỏa thuận trọng tài không thể thực hiện được, thẩm quyền của Hội đồng trọng tài thì phải làm đơn khiếu nại. Đơn khiếu nại phải có các nội dung quy định tại khoản 2 Điều 44 Luật TTTM và nộp kèm theo các tài liệu, chứng cứ quy định tại khoản 3 Điều 44 Luật TTTM. Trường hợp Hội đồng trọng tài không ban hành quyết định riêng về thẩm quyền của Hội đồng trọng tài thì người yêu cầu phải cung cấp những tài liệu, chứng cứ chứng minh việc Hội đồng trọng tài không có thẩm quyền giải quyết tranh chấp đó."
+ENTITY,E39_39,KHOAN,Khoản,structure,25178,25387,"2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn khiếu nại và tài liệu, chứng cứ kèm theo đơn, Tòa án phải thông báo cho Hội đồng trọng tài biết về việc Tòa án đang thụ lý, giải quyết đơn khiếu nại."
+ENTITY,E39_40,KHOAN,Khoản,structure,25388,25827,"3. Thẩm phán căn cứ vào đơn khiếu nại, tài liệu, chứng cứ kèm theo đơn và quy định tại các điều 5, 6, 18 Luật TTTM để xác định khiếu nại về việc không có thỏa thuận trọng tài, thỏa thuận trọng tài vô hiệu, thỏa thuận trọng tài không thể thực hiện được, thẩm quyền của Hội đồng trọng tài là có căn cứ hay không có căn cứ. Trong trường hợp cần thiết, Thẩm phán có thể đề nghị Hội đồng trọng tài trình bày ý kiến của họ về nội dung khiếu nại."
+ENTITY,E39_41,KHOAN,Khoản,structure,25828,26225,"4. Trong thời hạn quy định tại khoản 4 Điều 44 Luật TTTM, Thẩm phán phải xem xét, ra quyết định giải quyết khiếu nại. Quyết định giải quyết khiếu nại được thực hiện theo Mẫu số 03 ban hành kèm theo Nghị quyết này. Trong thời hạn 05 ngày làm việc, kể từ ngày ra Quyết định giải quyết khiếu nại, Tòa án gửi quyết định cho các bên, Hội đồng trọng tài, Trọng tài viên, Viện kiểm sát nhân dân cùng cấp."
+ENTITY,E39_42,KHOAN,Khoản,structure,26226,26627,"5. Căn cứ vào quy định của pháp luật mà Thẩm phán chấp nhận hoặc không chấp nhận khiếu nại quyết định của Hội đồng trọng tài về việc không có thỏa thuận trọng tài, thỏa thuận trọng tài vô hiệu, thỏa thuận trọng tài không thể thực hiện được, thẩm quyền của Hội đồng trọng tài. Tòa án nêu rõ lý do và căn cứ của việc chấp nhận hoặc không chấp nhận khiếu nại, tùy từng trường hợp cụ thể mà xử lý như sau:"
+ENTITY,E39_43,KHOAN,Khoản,structure,28392,29164,"1. Tòa án chỉ tiến hành thu thập chứng cứ trong trường hợp quy định tại khoản 5, 6 Điều 46 Luật TTTM nếu Hội đồng trọng tài, một hoặc các bên đã áp dụng các biện pháp cần thiết để thu thập chứng cứ mà vẫn không thu thập được (đã áp dụng các biện pháp cần thiết là đã sử dụng mọi cách thức và khả năng cho phép để yêu cầu cá nhân, cơ quan, tổ chức đang quản lý, lưu giữ chứng cứ cung cấp cho mình chứng cứ mà vẫn không được cá nhân, cơ quan, tổ chức cung cấp). Văn bản đề nghị Tòa án thu thập chứng cứ phải có đầy đủ nội dung quy định tại khoản 5 Điều 46 Luật TTTM, gửi kèm theo văn bản đề nghị là thỏa thuận trọng tài, đơn khởi kiện, tài liệu khác có liên quan và tài liệu, chứng cứ chứng minh việc đã tiến hành thu thập chứng cứ nhưng vẫn không thể tự mình thu thập được."
+ENTITY,E39_44,KHOAN,Khoản,structure,29165,29315,"2. Trình tự, thủ tục thu thập, bảo quản, chuyển giao chứng cứ của Tòa án thực hiện theo quy định tại khoản 6 Điều 46 Luật TTTM và quy định của BLTTDS."
+ENTITY,E39_45,KHOAN,Khoản,structure,29316,29969,"3. Tòa án chỉ tiến hành triệu tập người làm chứng khi có căn cứ chứng minh người làm chứng đã được Hội đồng trọng tài triệu tập hợp lệ mà không đến phiên họp nhưng không có lý do chính đáng và việc vắng mặt của họ gây cản trở cho việc giải quyết tranh chấp. Văn bản đề nghị triệu tập người làm chứng phải có đầy đủ nội dung quy định tại khoản 2 Điều 47 Luật TTTM, gửi kèm theo văn bản đề nghị là thỏa thuận trọng tài, đơn khởi kiện, tài liệu khác có liên quan và tài liệu, chứng cứ chứng minh việc triệu tập hợp lệ mà người làm chứng không đến phiên họp nhưng không có lý do chính đáng và việc vắng mặt của họ gây cản trở cho việc giải quyết tranh chấp."
+ENTITY,E39_46,KHOAN,Khoản,structure,29970,30138,"4. Trình tự, thủ tục ra quyết định, triệu tập, thông báo kết quả triệu tập người làm chứng thực hiện theo quy định tại khoản 3 Điều 47 Luật TTTM và quy định của BLTTDS."
+ENTITY,E39_47,KHOAN,Khoản,structure,30139,30685,"5. Cùng với việc nộp các tài liệu, chứng cứ theo yêu cầu, bên yêu cầu thu thập chứng cứ, triệu tập người làm chứng phải nộp lệ phí thu thập chứng cứ, triệu tập người làm chứng và chi phí thu thập chứng cứ, chi phí cho người làm chứng theo quy định. Trường hợp Hội đồng trọng tài yêu cầu Tòa án thu thập chứng cứ, triệu tập người làm chứng thì lệ phí thu thập chứng cứ, triệu tập người làm chứng và chi phí thu thập chứng cứ, chi phí cho người làm chứng do bên yêu cầu thu thập chứng cứ, triệu tập người làm chứng nộp thông qua Hội đồng trọng tài."
+ENTITY,E39_48,KHOAN,Khoản,structure,30821,31167,"1. Một hoặc các bên tranh chấp có quyền làm đơn gửi đến Tòa án có thẩm quyền yêu cầu áp dụng một hoặc một số biện pháp khẩn cấp tạm thời ngay sau khi nộp đơn khởi kiện tại Trọng tài (khi thời điểm tố tụng trọng tài đã bắt đầu) mà không phân biệt Hội đồng trọng tài đã được thành lập hay chưa, Hội đồng trọng tài đã giải quyết tranh chấp hay chưa."
+ENTITY,E39_49,KHOAN,Khoản,structure,31168,31368,"2. Một hoặc các bên có quyền đề nghị Tòa án có thẩm quyền yêu cầu áp dụng một hoặc một số biện pháp khẩn cấp tạm thời quy định tại khoản 2 Điều 49 Luật TTTM, trừ trường hợp các bên có thỏa thuận khác."
+ENTITY,E39_50,KHOAN,Khoản,structure,31369,31562,"3. Cùng với việc nộp các tài liệu, chứng cứ theo yêu cầu, bên yêu cầu áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời phải nộp lệ phí yêu cầu và thực hiện biện pháp bảo đảm theo quy định."
+ENTITY,E39_51,KHOAN,Khoản,structure,31563,31818,"4. Trình tự, thủ tục áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời và kiểm sát việc tuân theo pháp luật trong việc áp dụng biện pháp khẩn cấp tạm thời của Tòa án thực hiện theo quy định tại các điều 48, 49, 52, 53 Luật TTTM và quy định của BLTTDS."
+ENTITY,E39_52,KHOAN,Khoản,structure,31819,32433,"5. Khi một trong các bên yêu cầu Tòa án áp dụng một hoặc một số biện pháp khẩn cấp tạm thời thì Tòa án đề nghị họ cho biết trước hoặc sau khi yêu cầu họ đã yêu cầu Hội đồng trọng tài áp dụng một hoặc một số biện pháp khẩn cấp tạm thời hay chưa. Nếu họ chưa yêu cầu Hội đồng trọng tài thì Tòa án yêu cầu họ phải cam kết trong đơn yêu cầu không yêu cầu tại các Tòa án khác, hoặc Hội đồng trọng tài. Đồng thời Tòa án phải kiểm tra, xem xét các tài liệu gửi kèm theo đơn yêu cầu để xác định vụ tranh chấp đó các bên đã có yêu cầu Tòa án, Hội đồng trọng tài áp dụng một hoặc một số biện pháp khẩn cấp tạm thời hay chưa."
+ENTITY,E39_53,KHOAN,Khoản,structure,33287,33862,"1. Theo quy định tại khoản 2 Điều 62 Luật TTTM thì hết thời hạn 01 năm, kể từ ngày ban hành phán quyết trọng tài, mà một hoặc các bên mới có đơn yêu cầu Tòa án đăng ký phán quyết trọng tài vụ việc, thì Tòa án không có thẩm quyền xem xét, giải quyết đơn yêu cầu đó. Trường hợp có căn cứ cho thấy phán quyết trọng tài vụ việc đang được xem xét, giải quyết theo thủ tục yêu cầu hủy phán quyết trọng tài tại Tòa án có thẩm quyền thì khi nhận được đơn yêu cầu đăng ký phán quyết trọng tài, Tòa án chưa thụ lý yêu cầu này để đợi kết quả giải quyết yêu cầu hủy phán quyết trọng tài."
+ENTITY,E39_54,KHOAN,Khoản,structure,33863,34038,2. Bên yêu cầu đăng ký phán quyết trọng tài vụ việc phải làm đơn yêu cầu bằng văn bản và gửi cùng các tài liệu quy định tại khoản 2 Điều 62 Luật TTTM đến Tòa án có thẩm quyền.
+ENTITY,E39_55,KHOAN,Khoản,structure,34039,34468,"3. Khi xem xét đăng ký phán quyết trọng tài vụ việc, Thẩm phán không phải mở phiên họp xét đơn yêu cầu. Trường hợp cần thiết, Thẩm phán có thể triệu tập một hoặc các bên tranh chấp, Hội đồng trọng tài để nghe ý kiến của họ về yêu cầu đăng ký phán quyết trọng tài vụ việc. Thẩm phán căn cứ vào quy định Luật TTTM, các tài liệu kèm theo, kiểm tra tính xác thực của các tài liệu gửi kèm theo đơn để xem xét, quyết định việc đăng ký."
+ENTITY,E39_56,KHOAN,Khoản,structure,34469,34723,4. Trường hợp xét thấy phán quyết trọng tài vụ việc và các tài liệu gửi kèm theo đơn yêu cầu là xác thực thì Thẩm phán thực hiện việc đăng ký. Quyết định đăng ký phán quyết trọng tài vụ việc được thực hiện theo Mẫu số 04 ban hành kèm theo Nghị quyết này.
+ENTITY,E39_57,KHOAN,Khoản,structure,34724,35051,"5. Trường hợp xác định phán quyết trọng tài không có thật, thì Thẩm phán từ chối đăng ký, trả lại đơn yêu cầu, các tài liệu kèm theo và phải thông báo ngay cho bên có yêu cầu biết, đồng thời nêu rõ lý do. Mẫu thông báo từ chối đăng ký phán quyết Trọng tài vụ việc được thực hiện theo Mẫu số 05 ban hành kèm theo Nghị quyết này."
+ENTITY,E39_58,KHOAN,Khoản,structure,35124,35385,1. Phán quyết trọng tài quy định tại khoản 10 Điều 3 và Điều 68 Luật TTTM bao gồm quyết định công nhận sự thỏa thuận của các bên của Hội đồng trọng tài quy định tại Điều 58 Luật TTTM và phán quyết trọng tài của Hội đồng trọng tài quy định tại Điều 61 Luật TTTM.
+ENTITY,E39_59,KHOAN,Khoản,structure,35386,35506,2. Tòa án hủy phán quyết trọng tài quy định tại Điều 58 và Điều 61 Luật TTTM khi thuộc một trong các trường hợp sau đây:
+ENTITY,E39_60,KHOAN,Khoản,structure,40574,40825,"1. Khi chỉ định Thẩm phán tham gia Hội đồng xét đơn yêu cầu huỷ phán quyết trọng tài, Chánh án Tòa án không chỉ định Thẩm phán đã ra quyết định chỉ định hoặc thay đổi Trọng tài viên, Thẩm phán đã giải quyết khiếu nại quyết định của Hội đồng trọng tài."
+ENTITY,E39_61,KHOAN,Khoản,structure,40826,41681,"2. Khi xét đơn yêu cầu, Hội đồng xét đơn không xét lại nội dung vụ tranh chấp mà cần kiểm tra phán quyết trọng tài có thuộc một trong các trường hợp quy định tại khoản 2 Điều 68 Luật TTTMhay không. Nếu xét thấy phán quyết trọng tài thuộc một trong các trường hợp quy định tại khoản 2 Điều 68 Luật TTTM và Hội đồng trọng tài không khắc phục hoặc không thể khắc phục được theo yêu cầu của Tòa án quy định tại khoản 7 Điều 71 Luật TTTM, thì Hội đồng xét đơn yêu cầu căn cứ vào điểm tương ứng tại khoản 2 Điều 68 Luật TTTM để ra quyết định huỷ phán quyết trọng tài. Nếu xét thấy phán quyết trọng tài không thuộc một trong các trường hợp quy định tại khoản 2 Điều 68 Luật TTTM, thì Hội đồng xét đơn yêu cầu ra quyết định không huỷ phán quyết trọng tài. Quyết định về việc hủy phán quyết trọng tài được thực hiện theo Mẫu số 08 ban hành kèm theo Nghị quyết này."
+ENTITY,E39_62,KHOAN,Khoản,structure,41682,42013,"3. Khi xét thấy cần thiết, Hội đồng xét đơn yêu cầu xem xét tạm đình chỉ việc xét đơn yêu cầu hủy phán quyết trọng tài khi có yêu cầu của một bên trong trường hợp quy định tại khoản 7 Điều 71 Luật TTTM. Quyết định tạm đình chỉ xét đơn yêu cầu hủy phán quyết trọng tài được thực hiện theo Mẫu số 06 ban hành kèm theo Nghị quyết này."
+ENTITY,E39_63,KHOAN,Khoản,structure,42014,42302,4. Hội đồng xét đơn yêu cầu có quyền quyết định đình chỉ việc xét đơn yêu cầu hủy phán quyết trọng tài trong các trường hợp quy định tại khoản 5 Điều 71 Luật TTTM. Quyết định đình chỉ xét đơn yêu cầu hủy phán quyết trọng tài được thực hiện theo Mẫu số 07 ban hành kèm theo Nghị quyết này.
+ENTITY,E39_64,KHOAN,Khoản,structure,43049,43099,1. Quyết định chỉ định Trọng tài viên (Mẫu số 01);
+ENTITY,E39_65,KHOAN,Khoản,structure,43100,43150,2. Quyết định thay đổi Trọng tài viên (Mẫu số 02);
+ENTITY,E39_66,KHOAN,Khoản,structure,43151,43198,3. Quyết định giải quyết khiếu nại (Mẫu số 03);
+ENTITY,E39_67,KHOAN,Khoản,structure,43199,43262,4. Quyết định đăng ký phán quyết trọng tài vụ việc (Mẫu số 04);
+ENTITY,E39_68,KHOAN,Khoản,structure,43263,43333,5. Thông báo từ chối đăng ký phán quyết trọng tài vụ việc (Mẫu số 05);
+ENTITY,E39_69,KHOAN,Khoản,structure,43334,43414,6. Quyết định tạm đình chỉ xét đơn yêu cầu hủy phán quyết trọng tài (Mẫu số 06);
+ENTITY,E39_70,KHOAN,Khoản,structure,43415,43491,7. Quyết định đình chỉ xét đơn yêu cầu hủy phán quyết trọng tài (Mẫu số 07);
+ENTITY,E39_71,KHOAN,Khoản,structure,43492,43551,8. Quyết định về việc hủy phán quyết trọng tài (Mẫu số 08).
+ENTITY,E39_72,KHOAN,Khoản,structure,45023,45325,1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 20 tháng 3 năm 2014 và có hiệu lực thi hành kể từ ngày 02 tháng 7 năm 2014. Các hướng dẫn của Tòa án nhân dân tối cao ban hành trước ngày Nghị quyết này có hiệu lực thi hành hết hiệu lực kể từ ngày 02 tháng 7 năm 2014.
+ENTITY,E39_73,KHOAN,Khoản,structure,45326,45517,2. Trong quá trình thực hiện nếu có vướng mắc cần phải giải thích hoặc hướng dẫn bổ sung thì đề nghị phản ánh về Tòa án nhân dân tối cao để có sự giải thích hoặc hướng dẫn bổ sung kịp thời./.
+ENTITY,E40_1,DIEM,Điểm,structure,1641,1930,"a) Trường hợp tranh chấp không có thoả thuận trọng tài hoặc đã có bản án, quyết định có hiệu lực pháp luật của Tòa án hoặc quyết định, phán quyết có hiệu lực pháp luật của Trọng tài xác định vụ tranh chấp không có thỏa thuận trọng tài thì Tòa án xem xét thụ lý, giải quyết theo thẩm quyền."
+ENTITY,E40_2,DIEM,Điểm,structure,1931,2370,"b) Trường hợp tranh chấp đã có thoả thuận trọng tài và thỏa thuận trọng tài không thuộc trường hợp hướng dẫn tại khoản 3 Điều này thì Tòa án căn cứ quy định tại điểm đ khoản 1 Điều 168 Bộ luật tố tụng dân sự năm 2004 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Bộ luật tố tụng dân sự năm 2011 (sau đây gọi tắt là BLTTDS) để trả lại đơn khởi kiện và các tài liệu, chứng cứ kèm theo đơn khởi kiện cho người khởi kiện."
+ENTITY,E40_3,DIEM,Điểm,structure,2737,3542,"c) Trường hợp đã có yêu cầu Trọng tài giải quyết tranh chấp và Hội đồng trọng tài đang giải quyết vụ tranh chấp thì dù Tòa án nhận thấy tranh chấp không thuộc thẩm quyền của Trọng tài, không có thỏa thuận trọng tài hoặc tuy đã có thoả thuận trọng tài nhưng thuộc trường hợp hướng dẫn tại khoản 3 Điều này mà người khởi kiện có yêu cầu Tòa án giải quyết tranh chấp thì Tòa án trả lại đơn khởi kiện cho người khởi kiện, trường hợp Tòa án đã thụ lý thì ra quyết định đình chỉ việc giải quyết vụ án, trừ trường hợp Tòa án thụ lý vụ tranh chấp trước khi có yêu cầu Trọng tài giải quyết tranh chấp. Sau khi có quyết định, phán quyết của Hội đồng trọng tài quy định tại các điều 43, 58, 59 và 61 Luật TTTM mà người khởi kiện có yêu cầu Tòa án giải quyết, thì Tòa án xem xét thụ lý, giải quyết theo thủ tục chung."
+ENTITY,E40_4,DIEM,Điểm,structure,3745,3881,"a) Có quyết định của Tòa án huỷ phán quyết trọng tài, hủy quyết định của Hội đồng trọng tài về việc công nhận sự thỏa thuận của các bên;"
+ENTITY,E40_5,DIEM,Điểm,structure,3882,4051,"b) Có quyết định đình chỉ giải quyết tranh chấp của Hội đồng trọng tài, Trung tâm trọng tài quy định tại khoản 1 Điều 43 các điểm a, b, d và đ khoản 1 Điều 59 Luật TTTM;"
+ENTITY,E40_6,DIEM,Điểm,structure,4052,4141,"c) Tranh chấp thuộc trường hợp quy định tại các khoản 1, 2, 3 và 5 Điều 4 Nghị quyết này."
+ENTITY,E40_7,DIEM,Điểm,structure,4473,5088,"a) Trường hợp người khởi kiện yêu cầu Trọng tài giải quyết tranh chấp trước khi yêu cầu Tòa án giải quyết tranh chấp hoặc yêu cầu Trọng tài giải quyết tranh chấp khi Tòa án chưa thụ lý vụ án quy định tại điểm b khoản 4 Điều này thì Tòa án căn cứ quy định tại Điều 6 Luật TTTM để từ chối thụ lý, giải quyết. Trong trường hợp này, khi nhận được đơn khởi kiện Tòa án phải trả lại đơn khởi kiện, nếu đã thụ lý vụ án thì căn cứ quy định tại điểm i khoản 1 Điều 192 BLTTDS ra quyết định đình chỉ việc giải quyết vụ án vì không thuộc thẩm quyền của Tòa án, trả lại đơn khởi kiện và các tài liệu gửi kèm theo đơn khởi kiện."
+ENTITY,E40_8,DIEM,Điểm,structure,5089,5279,"b) Trường hợp người khởi kiện yêu cầu Tòa án giải quyết tranh chấp, thì ngay sau khi nhận được đơn khởi kiện, Tòa án phải xác định một trong các bên đã yêu cầu Trọng tài giải quyết hay chưa."
+ENTITY,E40_9,DIEM,Điểm,structure,12072,12449,"a) Trường hợp yêu cầu chỉ định Trọng tài viên để thành lập Hội đồng trọng tài vụ việc mà có nhiều bị đơn thì nguyên đơn có quyền lựa chọn yêu cầu một trong các Tòa án nơi cư trú hoặc nơi có trụ sở của một trong các bị đơn đó. Trường hợp có một hoặc các bị đơn cư trú, hoặc có trụ sở ở nước ngoài thì nguyên đơn có quyền lựa chọn Tòa án nơi cư trú, nơi có trụ sở của nguyên đơn."
+ENTITY,E40_10,DIEM,Điểm,structure,12450,12836,"b) Khi nhận đơn yêu cầu chỉ định Trọng tài viên để thành lập Hội đồng trọng tài vụ việc, Tòa án phải giải thích cho người nộp đơn yêu cầu biết là chỉ có một Tòa án trong các Tòa án được quy định tại điểm a khoản 2 Điều 7 Luật TTTM có thẩm quyền giải quyết để họ lựa chọn. Tòa án do họ lựa chọn phải yêu cầu họ cam kết trong đơn yêu cầu về việc không nộp đơn yêu cầu tại các Tòa án khác."
+ENTITY,E40_11,DIEM,Điểm,structure,12837,13081,c) Trong trường hợp nguyên đơn nộp đơn yêu cầu tại nhiều Tòa án khác nhau và các Tòa án đều nhận được đơn yêu cầu thì Tòa án đã thụ lý đầu tiên theo thời gian có thẩm quyền giải quyết. Các Tòa án nhận được đơn yêu cầu sau thì xử lý đơn như sau:
+ENTITY,E40_12,DIEM,Điểm,structure,14317,14952,"a) ""Nơi Hội đồng trọng tài giải quyết tranh chấp"" quy định tại điểm b khoản 2 Điều 7 Luật TTTMđược xác định theo quy định tại khoản 8 Điều 3 Luật TTTM. Trường hợp các bên không thỏa thuận lựa chọn được địa điểm giải quyết tranh chấp và Hội đồng trọng tài không xác định hoặc không xác định rõ địa điểm giải quyết tranh chấp thì người yêu cầu phải nộp các tài liệu, chứng cứ chứng minh. Trường hợp họ không chứng minh được thì Tòa án hướng dẫn họ yêu cầu Hội đồng trọng tài xác định. Tòa án căn cứ vào kết quả xác định địa điểm giải quyết tranh chấp của Hội đồng trọng tài để xem xét, quyết định việc thụ lý theo quy định của pháp luật."
+ENTITY,E40_13,DIEM,Điểm,structure,14953,15649,"b) ""Nơi Hội đồng trọng tài ra quyết định"" và ""Nơi Hội đồng trọng tài đã tuyên phán quyết trọng tài"" quy định tại điểm c và điểm g khoản 2 Điều 7 Luật TTTM được xác định theo quyết định, phán quyết của Hội đồng trọng tài. Trường hợp quyết định, phán quyết của Hội đồng trọng tài không xác định hoặc không xác định rõ địa điểm nơi Hội đồng trọng tài ra quyết định, nơi Hội đồng trọng tài đã tuyên phán quyết trọng tài thì người yêu cầu phải nộp các tài liệu, chứng cứ chứng minh. Trường hợp họ không chứng minh được thì Tòa án hướng dẫn họ yêu cầu Hội đồng trọng tài xác định. Tòa án căn cứ vào kết quả xác định của Hội đồng trọng tài để xem xét, quyết định việc thụ lý theo quy định của pháp luật."
+ENTITY,E40_14,DIEM,Điểm,structure,15650,16065,"c) Trường hợp nơi Hội đồng trọng tài ra quyết định, nơi Hội đồng trọng tài đã tuyên phán quyết trọng tài quy định tại điểm c và điểm g khoản 2 Điều 7 Luật TTTM được tiến hành ở nước ngoài thì Tòa án có thẩm quyền là Tòa án nơi cư trú hoặc nơi có trụ sở của bị đơn tại Việt Nam. Trường hợp bị đơn có nơi cư trú hoặc trụ sở ở nước ngoài thì Tòa án có thẩm quyền là Tòa án nơi cư trú hoặc nơi có trụ sở của nguyên đơn."
+ENTITY,E40_15,DIEM,Điểm,structure,16156,16412,"a) Trọng tài nước ngoài tiến hành việc giải quyết tranh chấp và có yêu cầu Tòa án Việt Nam hỗ trợ hoạt động thì Tòa án Việt Nam có thẩm quyền đối với hoạt động của Trọng tài nước ngoài theo quy định tại các điểm a, b, c, d, đ và e khoản 2 Điều 7 Luật TTTM."
+ENTITY,E40_16,DIEM,Điểm,structure,16413,16793,"b) Tòa án Việt Nam không có thẩm quyền đối với yêu cầu hủy phán quyết trọng tài, đăng ký phán quyết trọng tài vụ việc của Trọng tài nước ngoài quy định tại điểm g khoản 2 Điều 7 Luật TTTM. Phán quyết của Trọng tài nước ngoài được công nhận và cho thi hành tại Việt Nam theo quy định của BLTTDS về thủ tục công nhận và cho thi hành tại Việt Nam quyết định của Trọng tài nước ngoài."
+ENTITY,E40_17,DIEM,Điểm,structure,19396,19502,a) Các bên thỏa thuận đồng ý gộp nhiều quan hệ pháp luật tranh chấp vào giải quyết trong cùng một vụ kiện;
+ENTITY,E40_18,DIEM,Điểm,structure,19503,19618,b) Quy tắc tố tụng trọng tài cho phép gộp nhiều quan hệ pháp luật tranh chấp vào giải quyết trong cùng một vụ kiện.
+ENTITY,E40_19,DIEM,Điểm,structure,19838,20084,"a) Hết thời hạn 30 ngày, kể từ ngày bị đơn nhận được đơn khởi kiện của nguyên đơn mà bị đơn không thông báo cho nguyên đơn tên Trọng tài viên mà mình lựa chọn, nếu nguyên đơn có yêu cầu thì Tòa án có thẩm quyền chỉ định Trọng tài viên cho bị đơn;"
+ENTITY,E40_20,DIEM,Điểm,structure,20085,20417,"b) Trường hợp vụ tranh chấp có nhiều bị đơn, khi hết thời hạn 30 ngày, kể từ ngày bị đơn cuối cùng nhận được đơn khởi kiện của nguyên đơn và các tài liệu, chứng cứ kèm theo, mà các bị đơn không thống nhất được việc chọn Trọng tài viên, nếu một hoặc các bên có yêu cầu thì Tòa án có thẩm quyền chỉ định Trọng tài viên cho các bị đơn;"
+ENTITY,E40_21,DIEM,Điểm,structure,20418,20674,"c) Hết thời hạn 15 ngày, kể từ ngày được các bên chọn hoặc được Tòa án chỉ định mà các Trọng tài viên này không bầu được Chủ tịch Hội đồng trọng tài, nếu một hoặc các bên có yêu cầu thì Tòa án có thẩm quyền chỉ định Chủ tịch Hội đồng trọng tài cho các bên;"
+ENTITY,E40_22,DIEM,Điểm,structure,20675,21012,"d) Trường hợp các bên thoả thuận vụ tranh chấp do một Trọng tài viên duy nhất giải quyết, nhưng không chọn được Trọng tài viên duy nhất mà đã hết thời hạn 30 ngày, kể từ ngày bị đơn cuối cùng nhận được đơn khởi kiện của nguyên đơn, thì theo yêu cầu của một hoặc các bên, Tòa án có thẩm quyền chỉ định Trọng tài viên duy nhất cho các bên."
+ENTITY,E40_23,DIEM,Điểm,structure,26628,26848,"a) Trường hợp Tòa án xác định vụ tranh chấp không thuộc thẩm quyền của Hội đồng trọng tài, không có thỏa thuận trọng tài, thỏa thuận trọng tài vô hiệu hoặc thỏa thuận trọng tài không thể thực hiện được thì xử lý như sau:"
+ENTITY,E40_24,DIEM,Điểm,structure,27452,27656,"b) Trường hợp Tòa án xác định vụ tranh chấp thuộc thẩm quyền của Hội đồng trọng tài, có thỏa thuận trọng tài, thỏa thuận trọng tài không vô hiệu hoặc thỏa thuận trọng tài thực hiện được thì xử lý như sau:"
+ENTITY,E40_25,DIEM,Điểm,structure,32434,32792,"a) Trường hợp có căn cứ cho thấy một trong các bên đã có yêu cầu Hội đồng trọng tài, Tòa án áp dụng một hoặc một số biện pháp khẩn cấp tạm thời thì Tòa án căn cứ vào quy định tại khoản 5 Điều 53 Luật TTTM để trả lại đơn yêu cầu cho các bên, trừ trường hợp yêu cầu áp dụng biện pháp khẩn cấp tạm thời của các bên không thuộc thẩm quyền của Hội đồng trọng tài."
+ENTITY,E40_26,DIEM,Điểm,structure,32793,33209,"b) Trường hợp sau khi đã ra quyết định áp dụng biện pháp khẩn cấp tạm thời, Tòa án mới phát hiện được vụ tranh chấp đó các bên đã có yêu cầu Hội đồng trọng tài, Tòa án áp dụng một hoặc một số biện pháp khẩn cấp tạm thời, thì Tòa án căn cứ vào quy định tương ứng để ra quyết định hủy bỏ biện pháp khẩn cấp tạm thời do mình ban hành, đồng thời, trả lại đơn yêu cầu và các tài liệu gửi kèm theo đơn yêu cầu cho các bên."
+ENTITY,E40_27,DIEM,Điểm,structure,35507,35723,"a) ""Không có thoả thuận trọng tài hoặc thỏa thuận trọng tài vô hiệu"" là thỏa thuận trọng tài thuộc một trong các trường hợp quy định tại Điều 6 và Điều 18 Luật TTTM và hướng dẫn tại các điều 2, 3 và 4 Nghị quyết này."
+ENTITY,E40_28,DIEM,Điểm,structure,35724,36309,"b) ""Thành phần Hội đồng trọng tài, thủ tục tố tụng trọng tài không phù hợp với thỏa thuận của các bên hoặc trái với các quy định Luật TTTM"" là trường hợp các bên có thỏa thuận về thành phần Hội đồng trọng tài, quy tắc tố tụng trọng tài nhưng Hội đồng trọng tài thực hiện không đúng thỏa thuận của các bên hoặc Hội đồng trọng tài thực hiện không đúng quy định Luật TTTM về nội dung này mà Tòa án xét thấy đó là những vi phạm nghiêm trọng và cần phải hủy nếu Hội đồng trọng tài không thể khắc phục được hoặc không khắc phục theo yêu cầu của Tòa án quy định tại khoản 7 Điều 71 Luật TTTM."
+ENTITY,E40_29,DIEM,Điểm,structure,37171,37558,"c) ""Vụ tranh chấp không thuộc thẩm quyền của Hội đồng trọng tài"" là trường hợp Hội đồng trọng tài giải quyết tranh chấp trong lĩnh vực không thuộc thẩm quyền của Trọng tài quy định tại Điều 2 Luật TTTM; hoặc Hội đồng trọng tài giải quyết tranh chấp mà không được các bên thỏa thuận yêu cầu Trọng tài giải quyết hoặc giải quyết vượt quá phạm vi của thỏa thuận đưa ra Trọng tài giải quyết."
+ENTITY,E40_30,DIEM,Điểm,structure,38143,38395,"d) ""Chứng cứ do các bên cung cấp mà Hội đồng trọng tài căn cứ vào đó để ra phán quyết là giả mạo; Trọng tài viên nhận tiền, tài sản hoặc lợi ích vật chất khác của một bên tranh chấp làm ảnh hưởng đến tính khách quan, công bằng của phán quyết trọng tài"""
+ENTITY,E40_31,DIEM,Điểm,structure,38819,39024,"đ) ""Phán quyết trọng tài trái với các nguyên tắc cơ bản của pháp luật Việt Nam"" là phán quyết vi phạm các nguyên tắc xử sự cơ bản có hiệu lực bao trùm đối với việc xây dựng và thực hiện pháp luật Việt Nam."
+RELATION,R7_5,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_6,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_7,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R7_8,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_4,E2_1,,
+RELATION,R11_2,HUONG_DAN_AP_DUNG,Hướng dẫn áp dụng,E13_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_3,THUOC,Thuộc,E40_1,E39_2,,
+RELATION,R22_4,THUOC,Thuộc,E40_2,E39_2,,
+RELATION,R22_5,THUOC,Thuộc,E40_3,E39_2,,
+RELATION,R22_6,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_7,THUOC,Thuộc,E40_4,E39_3,,
+RELATION,R22_8,THUOC,Thuộc,E40_5,E39_3,,
+RELATION,R22_9,THUOC,Thuộc,E40_6,E39_3,,
+RELATION,R22_10,THUOC,Thuộc,E39_4,E38_2,,
+RELATION,R22_11,THUOC,Thuộc,E40_7,E39_4,,
+RELATION,R22_12,THUOC,Thuộc,E40_8,E39_4,,
+RELATION,R22_13,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_14,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,R22_15,THUOC,Thuộc,E39_7,E38_3,,
+RELATION,R22_16,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,R22_17,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_18,THUOC,Thuộc,E39_10,E38_3,,
+RELATION,R22_19,THUOC,Thuộc,E39_11,E38_4,,
+RELATION,R22_20,THUOC,Thuộc,E39_12,E38_4,,
+RELATION,R22_21,THUOC,Thuộc,E39_13,E38_4,,
+RELATION,R22_22,THUOC,Thuộc,E39_14,E38_4,,
+RELATION,R22_23,THUOC,Thuộc,E39_15,E38_4,,
+RELATION,R22_24,THUOC,Thuộc,E39_16,E38_5,,
+RELATION,R22_25,THUOC,Thuộc,E39_17,E38_5,,
+RELATION,R22_26,THUOC,Thuộc,E39_18,E38_5,,
+RELATION,R22_27,THUOC,Thuộc,E40_9,E39_18,,
+RELATION,R22_28,THUOC,Thuộc,E40_10,E39_18,,
+RELATION,R22_29,THUOC,Thuộc,E40_11,E39_18,,
+RELATION,R22_30,THUOC,Thuộc,E39_19,E38_5,,
+RELATION,R22_31,THUOC,Thuộc,E40_12,E39_19,,
+RELATION,R22_32,THUOC,Thuộc,E40_13,E39_19,,
+RELATION,R22_33,THUOC,Thuộc,E40_14,E39_19,,
+RELATION,R22_34,THUOC,Thuộc,E39_20,E38_5,,
+RELATION,R22_35,THUOC,Thuộc,E40_15,E39_20,,
+RELATION,R22_36,THUOC,Thuộc,E40_16,E39_20,,
+RELATION,R22_37,THUOC,Thuộc,E39_21,E38_6,,
+RELATION,R22_38,THUOC,Thuộc,E39_22,E38_6,,
+RELATION,R22_39,THUOC,Thuộc,E39_23,E38_6,,
+RELATION,R22_40,THUOC,Thuộc,E39_24,E38_7,,
+RELATION,R22_41,THUOC,Thuộc,E39_25,E38_7,,
+RELATION,R22_42,THUOC,Thuộc,E39_26,E38_7,,
+RELATION,R22_43,THUOC,Thuộc,E39_27,E38_7,,
+RELATION,R22_44,THUOC,Thuộc,E40_17,E39_27,,
+RELATION,R22_45,THUOC,Thuộc,E40_18,E39_27,,
+RELATION,R22_46,THUOC,Thuộc,E39_28,E38_8,,
+RELATION,R22_47,THUOC,Thuộc,E40_19,E39_28,,
+RELATION,R22_48,THUOC,Thuộc,E40_20,E39_28,,
+RELATION,R22_49,THUOC,Thuộc,E40_21,E39_28,,
+RELATION,R22_50,THUOC,Thuộc,E40_22,E39_28,,
+RELATION,R22_51,THUOC,Thuộc,E39_29,E38_8,,
+RELATION,R22_52,THUOC,Thuộc,E39_30,E38_8,,
+RELATION,R22_53,THUOC,Thuộc,E39_31,E38_8,,
+RELATION,R22_54,THUOC,Thuộc,E39_32,E38_8,,
+RELATION,R22_55,THUOC,Thuộc,E39_33,E38_9,,
+RELATION,R22_56,THUOC,Thuộc,E39_34,E38_9,,
+RELATION,R22_57,THUOC,Thuộc,E39_35,E38_9,,
+RELATION,R22_58,THUOC,Thuộc,E39_36,E38_9,,
+RELATION,R22_59,THUOC,Thuộc,E39_37,E38_9,,
+RELATION,R22_60,THUOC,Thuộc,E39_38,E38_10,,
+RELATION,R22_61,THUOC,Thuộc,E39_39,E38_10,,
+RELATION,R22_62,THUOC,Thuộc,E39_40,E38_10,,
+RELATION,R22_63,THUOC,Thuộc,E39_41,E38_10,,
+RELATION,R22_64,THUOC,Thuộc,E39_42,E38_10,,
+RELATION,R22_65,THUOC,Thuộc,E40_23,E39_42,,
+RELATION,R22_66,THUOC,Thuộc,E40_24,E39_42,,
+RELATION,R22_67,THUOC,Thuộc,E39_43,E38_11,,
+RELATION,R22_68,THUOC,Thuộc,E39_44,E38_11,,
+RELATION,R22_69,THUOC,Thuộc,E39_45,E38_11,,
+RELATION,R22_70,THUOC,Thuộc,E39_46,E38_11,,
+RELATION,R22_71,THUOC,Thuộc,E39_47,E38_11,,
+RELATION,R22_72,THUOC,Thuộc,E39_48,E38_12,,
+RELATION,R22_73,THUOC,Thuộc,E39_49,E38_12,,
+RELATION,R22_74,THUOC,Thuộc,E39_50,E38_12,,
+RELATION,R22_75,THUOC,Thuộc,E39_51,E38_12,,
+RELATION,R22_76,THUOC,Thuộc,E39_52,E38_12,,
+RELATION,R22_77,THUOC,Thuộc,E40_25,E39_52,,
+RELATION,R22_78,THUOC,Thuộc,E40_26,E39_52,,
+RELATION,R22_79,THUOC,Thuộc,E39_53,E38_13,,
+RELATION,R22_80,THUOC,Thuộc,E39_54,E38_13,,
+RELATION,R22_81,THUOC,Thuộc,E39_55,E38_13,,
+RELATION,R22_82,THUOC,Thuộc,E39_56,E38_13,,
+RELATION,R22_83,THUOC,Thuộc,E39_57,E38_13,,
+RELATION,R22_84,THUOC,Thuộc,E39_58,E38_14,,
+RELATION,R22_85,THUOC,Thuộc,E39_59,E38_14,,
+RELATION,R22_86,THUOC,Thuộc,E40_27,E39_59,,
+RELATION,R22_87,THUOC,Thuộc,E40_28,E39_59,,
+RELATION,R22_88,THUOC,Thuộc,E40_29,E39_59,,
+RELATION,R22_89,THUOC,Thuộc,E40_30,E39_59,,
+RELATION,R22_90,THUOC,Thuộc,E40_31,E39_59,,
+RELATION,R22_91,THUOC,Thuộc,E39_60,E38_15,,
+RELATION,R22_92,THUOC,Thuộc,E39_61,E38_15,,
+RELATION,R22_93,THUOC,Thuộc,E39_62,E38_15,,
+RELATION,R22_94,THUOC,Thuộc,E39_63,E38_15,,
+RELATION,R22_95,THUOC,Thuộc,E39_64,E38_17,,
+RELATION,R22_96,THUOC,Thuộc,E39_65,E38_17,,
+RELATION,R22_97,THUOC,Thuộc,E39_66,E38_17,,
+RELATION,R22_98,THUOC,Thuộc,E39_67,E38_17,,
+RELATION,R22_99,THUOC,Thuộc,E39_68,E38_17,,
+RELATION,R22_100,THUOC,Thuộc,E39_69,E38_17,,
+RELATION,R22_101,THUOC,Thuộc,E39_70,E38_17,,
+RELATION,R22_102,THUOC,Thuộc,E39_71,E38_17,,
+RELATION,R22_103,THUOC,Thuộc,E39_72,E38_19,,
+RELATION,R22_104,THUOC,Thuộc,E39_73,E38_19,,
+RELATION,R22_105,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_106,THUOC,Thuộc,E11_1,E10_1,,

@@ -1,0 +1,267 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,60,110,"PHÁP LỆNH
+VỀ VIỆC BẦU CỬ HỘI ĐỒNG NHÂN DÂN CÁC CẤP"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,18,1/LCT
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,60,69,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,25918,25928,1961-01-18
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,25886,25900,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,25949,25959,1961-01-23
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,25981,25991,1984-01-02
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,26015,26035,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,269,294,Uỷ ban thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,26049,26062,Chủ tịch nước
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,25802,25813,Hồ Chí Minh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,122,162,Hiến pháp nước Việt Nam dân chủ cộng hoà
+ENTITY,E16_1,VB_BI_TAC_DONG_HIEU_LUC_TOAN_BO,Văn bản bị tác động hiệu lực toàn bộ,reference,311,343,bầu cử Hội đồng nhân dân các cấp
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,122,162,Hiến pháp nước Việt Nam dân chủ cộng hoà
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,26930,27068,Pháp lệnh số Không số Về việc sửa đổi và bổ sung một số điều khoản của Pháp lệnh năm 1961 quy định thể lệ bầu cử Hội đồng nhân dân các cấp
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,26112,26247,Pháp lệnh số Không số Về việc quy định một số điểm về bầu cử và tổ chức Hội đồng nhân dân và Uỷ ban hành chính các cấp trong thời chiến
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,26741,26879,"Thông tư số 01-CT Về việc hướng dẫn việc bầu cử đại biểu Hội đồng nhân dân huyện, thành phố thuộc tỉnh, thị xã, quận, xã, phường, thị trấn"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,26267,26396,"Quyết định số 14-CP Về việc quy định thời gian bầu cử đại biểu Hội đồng nhân dân tỉnh, thành phố và đặc khu trực thuộc Trung ương"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,26416,26554,"Thông tư số 01-CT Về việc hướng dẫn việc bầu cử đại biểu Hội đồng nhân dân huyện, thành phố thuộc tỉnh, thị xã, quận, xã, phường, thị trấn"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,26574,26719,"Quyết định số 01-HĐBT Về việc ấn định thời gian bầu cử đại biểu Hội đồng nhân dân huyện, thành phố thuộc tỉnh, thị xã, quận, xã, phường, thị trấn"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,27088,27223,Pháp lệnh số Không số Về việc quy định một số điểm về bầu cử và tổ chức Hội đồng nhân dân và Uỷ ban hành chính các cấp trong thời chiến
+ENTITY,E35_1,CHUONG,Chương,structure,353,378,"CHƯƠNG I
+NGUYÊN TẮC CHUNG"
+ENTITY,E35_2,CHUONG,Chương,structure,1214,1240,"CHƯƠNG II
+DANH SÁCH CỬ TRI"
+ENTITY,E35_3,CHUONG,Chương,structure,3081,3129,"CHƯƠNG III
+SỐ ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN CÁC CẤP"
+ENTITY,E35_4,CHUONG,Chương,structure,6681,6724,"CHƯƠNG IV
+ĐƠN VỊ BẦU CỬ VÀ KHU VỰC BỎ PHIẾU"
+ENTITY,E35_5,CHUONG,Chương,structure,9080,9128,"CHƯƠNG V
+HỘI ĐỒNG BẦU CỬ, BAN BẦU CỬ, TỔ BẦU CỬ,"
+ENTITY,E35_6,CHUONG,Chương,structure,13975,13991,"CHƯƠNG VI
+ỨNG CỬ"
+ENTITY,E35_7,CHUONG,Chương,structure,15846,15872,"CHƯƠNG VII
+TRÌNH TỰ BẦU CỬ"
+ENTITY,E35_8,CHUONG,Chương,structure,19051,19077,"CHƯƠNG VIII
+KẾT QUẢ BẦU CỬ"
+ENTITY,E35_9,CHUONG,Chương,structure,22535,22565,"CHƯƠNG IX
+TỔNG KẾT CUỘC BẦU CỬ"
+ENTITY,E35_10,CHUONG,Chương,structure,24815,24861,"CHƯƠNG X
+HÌNH PHẠT ĐỐI VỚI NHỮNG NGƯỜI VI PHẠM"
+ENTITY,E35_11,CHUONG,Chương,structure,25694,25724,"CHƯƠNG XI
+ĐIỀU KHOẢN CUỐI CÙNG"
+ENTITY,E36_1,MUC,Mục,structure,15873,15890,"MỤC 1
+NGÀY BẦU CỬ"
+ENTITY,E36_2,MUC,Mục,structure,17263,17286,"MỤC 2
+THỂ THỨC BỎ PHIẾU"
+ENTITY,E36_3,MUC,Mục,structure,19078,19094,"MỤC 1
+KIỂM PHIẾU"
+ENTITY,E36_4,MUC,Mục,structure,20546,20583,"MỤC 2
+KẾT QUẢ BẦU CỬ Ở ĐƠN VỊ BẦU CỬ;"
+ENTITY,E38_1,DIEU,Điều,structure,379,385,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,508,514,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,826,832,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,956,962,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1117,1123,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,1241,1247,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,1446,1452,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,1714,1720,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,2005,2011,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,2718,2725,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,3130,3137,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,6379,6386,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,6725,6732,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,7644,7651,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,8220,8227,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,8364,8371,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,8826,8833,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,8982,8989,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,9202,9209,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,9643,9650,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,10950,10957,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,11796,11803,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,12719,12726,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,13739,13746,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,13992,13999,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,14181,14188,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,14251,14258,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,14411,14418,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,14963,14970,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,15139,15146,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,15553,15560,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,15891,15898,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,16064,16071,Điều 33
+ENTITY,E38_34,DIEU,Điều,structure,16835,16842,Điều 34
+ENTITY,E38_35,DIEU,Điều,structure,17032,17039,Điều 35
+ENTITY,E38_36,DIEU,Điều,structure,17287,17294,Điều 36
+ENTITY,E38_37,DIEU,Điều,structure,17498,17505,Điều 37
+ENTITY,E38_38,DIEU,Điều,structure,17637,17644,Điều 38
+ENTITY,E38_39,DIEU,Điều,structure,18107,18114,Điều 39
+ENTITY,E38_40,DIEU,Điều,structure,18195,18202,Điều 40
+ENTITY,E38_41,DIEU,Điều,structure,18274,18281,Điều 41
+ENTITY,E38_42,DIEU,Điều,structure,18344,18351,Điều 42
+ENTITY,E38_43,DIEU,Điều,structure,18447,18454,Điều 43
+ENTITY,E38_44,DIEU,Điều,structure,18626,18633,Điều 44
+ENTITY,E38_45,DIEU,Điều,structure,18908,18915,Điều 45
+ENTITY,E38_46,DIEU,Điều,structure,19095,19102,Điều 46
+ENTITY,E38_47,DIEU,Điều,structure,19383,19390,Điều 47
+ENTITY,E38_48,DIEU,Điều,structure,19569,19576,Điều 48
+ENTITY,E38_49,DIEU,Điều,structure,19756,19763,Điều 49
+ENTITY,E38_50,DIEU,Điều,structure,19851,19858,Điều 50
+ENTITY,E38_51,DIEU,Điều,structure,20053,20060,Điều 51
+ENTITY,E38_52,DIEU,Điều,structure,20606,20613,Điều 52
+ENTITY,E38_53,DIEU,Điều,structure,21458,21465,Điều 53
+ENTITY,E38_54,DIEU,Điều,structure,21636,21643,Điều 54
+ENTITY,E38_55,DIEU,Điều,structure,22020,22027,Điều 55
+ENTITY,E38_56,DIEU,Điều,structure,22369,22376,Điều 56
+ENTITY,E38_57,DIEU,Điều,structure,22566,22573,Điều 57
+ENTITY,E38_58,DIEU,Điều,structure,23171,23178,Điều 58
+ENTITY,E38_59,DIEU,Điều,structure,24395,24402,Điều 59
+ENTITY,E38_60,DIEU,Điều,structure,24621,24628,Điều 60
+ENTITY,E38_61,DIEU,Điều,structure,24891,24898,Điều 61
+ENTITY,E38_62,DIEU,Điều,structure,25099,25106,Điều 62
+ENTITY,E38_63,DIEU,Điều,structure,25479,25486,Điều 63
+ENTITY,E38_64,DIEU,Điều,structure,25725,25732,Điều 64
+ENTITY,E39_1,KHOAN,Khoản,structure,3200,3236,1. Hội đồng nhân dân thị trấn và xã.
+ENTITY,E39_2,KHOAN,Khoản,structure,4020,4049,2. Hội đồng nhân dân khu phố.
+ENTITY,E39_3,KHOAN,Khoản,structure,4294,4322,3. Hội đồng nhân dân thị xã.
+ENTITY,E39_4,KHOAN,Khoản,structure,4566,4601,4. Hội đồng nhân dân huyện và châu.
+ENTITY,E39_5,KHOAN,Khoản,structure,5144,5170,5. Hội đồng nhân dân tỉnh.
+ENTITY,E39_6,KHOAN,Khoản,structure,5679,5710,6. Hội đồng nhân dân thành phố.
+ENTITY,E39_7,KHOAN,Khoản,structure,5959,5991,7. Hội đồng nhân dân khu tự trị.
+ENTITY,E39_8,KHOAN,Khoản,structure,6151,6208,8. Hội đồng nhân dân khu Hồng Quảng và khu vực Vĩnh Linh.
+ENTITY,E39_9,KHOAN,Khoản,structure,14554,14586,1. Giấy giới thiệu người ứng cử;
+ENTITY,E39_10,KHOAN,Khoản,structure,14587,14642,2. Giấy chứng nhận người ứng cử có đủ điều kiện ứng cử;
+ENTITY,E39_11,KHOAN,Khoản,structure,14643,14756,"3. Đơn ứng cử của những người được giới thiệu có ghi tên, tuổi, nghề nghiệp, nguyên quán, địa chỉ, nơi ra ứng cử."
+ENTITY,E39_12,KHOAN,Khoản,structure,19428,19487,1. Không phải là phiếu theo mẫu quy định do Tổ bầu cử phát;
+ENTITY,E39_13,KHOAN,Khoản,structure,19488,19518,2. Không có dấu của Tổ bầu cử;
+ENTITY,E39_14,KHOAN,Khoản,structure,19519,19568,3. Ghi tên người ứng cử quá số đại biểu được bầu.
+ENTITY,E40_1,DIEM,Điểm,structure,9868,9964,a) Kiểm tra và đôn đốc việc thi hành luật lệ bầu cử đại biểu Hội đồng nhân dân trong địa phương;
+ENTITY,E40_2,DIEM,Điểm,structure,9965,10059,b) Xét và giải quyết những khiếu nại của nhân dân về công tác của các Ban bầu cử và Tổ bầu cử;
+ENTITY,E40_3,DIEM,Điểm,structure,10060,10200,"c) Tiếp nhận đơn ứng cử, lập và niêm yết danh sách những người ứng cử, xét và giải quyết những khiếu nại về việc lập danh sách người ứng cử;"
+ENTITY,E40_4,DIEM,Điểm,structure,10201,10331,"d) Tiếp nhận phiếu bầu cử của Uỷ ban hành chính cùng cấp, để phân phối cho các ban bầu cử, chậm nhất là 10 ngày trước ngày bầu cử;"
+ENTITY,E40_5,DIEM,Điểm,structure,10332,10454,"đ) Tiếp nhận và kiểm tra biên bản bầu cử do các Ban bầu cử gửi đến, làm biên bản ghi kết quả cuộc bầu cử trong địa phương;"
+ENTITY,E40_6,DIEM,Điểm,structure,10455,10487,e) Tuyên bố kết quả cuộc bầu cử;
+ENTITY,E40_7,DIEM,Điểm,structure,10488,10594,g) Chuyển giao Uỷ ban hành chính cùng cấp biên bản tổng kết bầu cử và những hồ sơ tài liệu về cuộc bầu cử.
+ENTITY,E40_8,DIEM,Điểm,structure,11192,11259,a) Kiểm tra và đôn đốc các Tổ bầu cử chấp hành đúng luật lệ bầu cử;
+ENTITY,E40_9,DIEM,Điểm,structure,11260,11310,b) Kiểm tra việc lập và niêm yết danh sách cử tri;
+ENTITY,E40_10,DIEM,Điểm,structure,11311,11426,c) Tiếp nhận phiếu bầu cử của Hội đồng bầu cử để phân phối cho các Tổ bầu cử chậm nhất là 7 ngày trước ngày bầu cử;
+ENTITY,E40_11,DIEM,Điểm,structure,11427,11481,d) Kiểm tra và đôn đốc việc bố trí các phòng bỏ phiếu;
+ENTITY,E40_12,DIEM,Điểm,structure,11482,11534,đ) Kiểm tra công việc bầu cử tại các phòng bỏ phiếu;
+ENTITY,E40_13,DIEM,Điểm,structure,11535,11678,"e) Tiếp nhận và kiểm tra biên bản kiểm phiếu do các Tổ bầu cử gửi đến, làm biên bản ghi kết quả bầu cử trong đơn vị để gửi lên Hội đồng bầu cử."
+ENTITY,E40_14,DIEM,Điểm,structure,12011,12063,a) Phụ trách công tác bầu cử trong khu vực bỏ phiếu;
+ENTITY,E40_15,DIEM,Điểm,structure,12064,12114,b) Bố trí phòng bỏ phiếu và chuẩn bị hòm bỏ phiếu;
+ENTITY,E40_16,DIEM,Điểm,structure,12115,12177,c) Phát phiếu bầu cử có đóng dấu của Tổ bầu cử cho các cử tri;
+ENTITY,E40_17,DIEM,Điểm,structure,12178,12218,d) Bảo đảm trật tự trong phòng bỏ phiếu;
+ENTITY,E40_18,DIEM,Điểm,structure,12219,12282,đ) Kiểm phiếu và làm biên bản kiểm phiếu để gửi lên Ban bầu cử;
+ENTITY,E40_19,DIEM,Điểm,structure,12283,12396,"e) Chuyển giao biên bản kiểm phiếu và tất cả những phiếu bầu cho Uỷ ban hành chính thị xã, khu phố, thị trấn, xã."
+ENTITY,E40_20,DIEM,Điểm,structure,13133,13246,a) Hướng dẫn và kiểm tra việc thi hành luật lệ bầu cử đại biểu Hội đồng nhân dân thị trấn và xã trong địa phương;
+ENTITY,E40_21,DIEM,Điểm,structure,13247,13334,b) Tiếp nhận và kiểm tra biên bản bầu cử do các Hội đồng bầu cử thị trấn và xã gửi lên;
+ENTITY,E40_22,DIEM,Điểm,structure,13335,13419,c) Xét và giải quyết những khiếu nại về công tác của Hội đồng bầu cử thị trấn và xã.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R4_1,BI_TAC_DONG_HIEU_LUC_TOAN_BO,Bị tác động hiệu lực toàn bộ,E16_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E25_1,E2_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E26_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_7,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_8,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_9,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_10,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_11,THUOC,Thuộc,E38_11,E35_3,,
+RELATION,R22_12,THUOC,Thuộc,E39_1,E38_11,,
+RELATION,R22_13,THUOC,Thuộc,E39_2,E38_11,,
+RELATION,R22_14,THUOC,Thuộc,E39_3,E38_11,,
+RELATION,R22_15,THUOC,Thuộc,E39_4,E38_11,,
+RELATION,R22_16,THUOC,Thuộc,E39_5,E38_11,,
+RELATION,R22_17,THUOC,Thuộc,E39_6,E38_11,,
+RELATION,R22_18,THUOC,Thuộc,E39_7,E38_11,,
+RELATION,R22_19,THUOC,Thuộc,E39_8,E38_11,,
+RELATION,R22_20,THUOC,Thuộc,E38_12,E35_3,,
+RELATION,R22_21,THUOC,Thuộc,E38_13,E35_4,,
+RELATION,R22_22,THUOC,Thuộc,E38_14,E35_4,,
+RELATION,R22_23,THUOC,Thuộc,E38_15,E35_4,,
+RELATION,R22_24,THUOC,Thuộc,E38_16,E35_4,,
+RELATION,R22_25,THUOC,Thuộc,E38_17,E35_4,,
+RELATION,R22_26,THUOC,Thuộc,E38_18,E35_4,,
+RELATION,R22_27,THUOC,Thuộc,E38_19,E35_5,,
+RELATION,R22_28,THUOC,Thuộc,E38_20,E35_5,,
+RELATION,R22_29,THUOC,Thuộc,E40_1,E38_20,,
+RELATION,R22_30,THUOC,Thuộc,E40_2,E38_20,,
+RELATION,R22_31,THUOC,Thuộc,E40_3,E38_20,,
+RELATION,R22_32,THUOC,Thuộc,E40_4,E38_20,,
+RELATION,R22_33,THUOC,Thuộc,E40_5,E38_20,,
+RELATION,R22_34,THUOC,Thuộc,E40_6,E38_20,,
+RELATION,R22_35,THUOC,Thuộc,E40_7,E38_20,,
+RELATION,R22_36,THUOC,Thuộc,E38_21,E35_5,,
+RELATION,R22_37,THUOC,Thuộc,E40_8,E38_21,,
+RELATION,R22_38,THUOC,Thuộc,E40_9,E38_21,,
+RELATION,R22_39,THUOC,Thuộc,E40_10,E38_21,,
+RELATION,R22_40,THUOC,Thuộc,E40_11,E38_21,,
+RELATION,R22_41,THUOC,Thuộc,E40_12,E38_21,,
+RELATION,R22_42,THUOC,Thuộc,E40_13,E38_21,,
+RELATION,R22_43,THUOC,Thuộc,E38_22,E35_5,,
+RELATION,R22_44,THUOC,Thuộc,E40_14,E38_22,,
+RELATION,R22_45,THUOC,Thuộc,E40_15,E38_22,,
+RELATION,R22_46,THUOC,Thuộc,E40_16,E38_22,,
+RELATION,R22_47,THUOC,Thuộc,E40_17,E38_22,,
+RELATION,R22_48,THUOC,Thuộc,E40_18,E38_22,,
+RELATION,R22_49,THUOC,Thuộc,E40_19,E38_22,,
+RELATION,R22_50,THUOC,Thuộc,E38_23,E35_5,,
+RELATION,R22_51,THUOC,Thuộc,E40_20,E38_23,,
+RELATION,R22_52,THUOC,Thuộc,E40_21,E38_23,,
+RELATION,R22_53,THUOC,Thuộc,E40_22,E38_23,,
+RELATION,R22_54,THUOC,Thuộc,E38_24,E35_5,,
+RELATION,R22_55,THUOC,Thuộc,E38_25,E35_6,,
+RELATION,R22_56,THUOC,Thuộc,E38_26,E35_6,,
+RELATION,R22_57,THUOC,Thuộc,E38_27,E35_6,,
+RELATION,R22_58,THUOC,Thuộc,E38_28,E35_6,,
+RELATION,R22_59,THUOC,Thuộc,E39_9,E38_28,,
+RELATION,R22_60,THUOC,Thuộc,E39_10,E38_28,,
+RELATION,R22_61,THUOC,Thuộc,E39_11,E38_28,,
+RELATION,R22_62,THUOC,Thuộc,E38_29,E35_6,,
+RELATION,R22_63,THUOC,Thuộc,E38_30,E35_6,,
+RELATION,R22_64,THUOC,Thuộc,E38_31,E35_6,,
+RELATION,R22_65,THUOC,Thuộc,E36_1,E35_7,,
+RELATION,R22_66,THUOC,Thuộc,E38_32,E36_1,,
+RELATION,R22_67,THUOC,Thuộc,E38_33,E36_1,,
+RELATION,R22_68,THUOC,Thuộc,E38_34,E36_1,,
+RELATION,R22_69,THUOC,Thuộc,E38_35,E36_1,,
+RELATION,R22_70,THUOC,Thuộc,E36_2,E35_7,,
+RELATION,R22_71,THUOC,Thuộc,E38_36,E36_2,,
+RELATION,R22_72,THUOC,Thuộc,E38_37,E36_2,,
+RELATION,R22_73,THUOC,Thuộc,E38_38,E36_2,,
+RELATION,R22_74,THUOC,Thuộc,E38_39,E36_2,,
+RELATION,R22_75,THUOC,Thuộc,E38_40,E36_2,,
+RELATION,R22_76,THUOC,Thuộc,E38_41,E36_2,,
+RELATION,R22_77,THUOC,Thuộc,E38_42,E36_2,,
+RELATION,R22_78,THUOC,Thuộc,E38_43,E36_2,,
+RELATION,R22_79,THUOC,Thuộc,E38_44,E36_2,,
+RELATION,R22_80,THUOC,Thuộc,E38_45,E36_2,,
+RELATION,R22_81,THUOC,Thuộc,E36_3,E35_8,,
+RELATION,R22_82,THUOC,Thuộc,E38_46,E36_3,,
+RELATION,R22_83,THUOC,Thuộc,E38_47,E36_3,,
+RELATION,R22_84,THUOC,Thuộc,E39_12,E38_47,,
+RELATION,R22_85,THUOC,Thuộc,E39_13,E38_47,,
+RELATION,R22_86,THUOC,Thuộc,E39_14,E38_47,,
+RELATION,R22_87,THUOC,Thuộc,E38_48,E36_3,,
+RELATION,R22_88,THUOC,Thuộc,E38_49,E36_3,,
+RELATION,R22_89,THUOC,Thuộc,E38_50,E36_3,,
+RELATION,R22_90,THUOC,Thuộc,E38_51,E36_3,,
+RELATION,R22_91,THUOC,Thuộc,E36_4,E35_8,,
+RELATION,R22_92,THUOC,Thuộc,E38_52,E36_4,,
+RELATION,R22_93,THUOC,Thuộc,E38_53,E36_4,,
+RELATION,R22_94,THUOC,Thuộc,E38_54,E36_4,,
+RELATION,R22_95,THUOC,Thuộc,E38_55,E36_4,,
+RELATION,R22_96,THUOC,Thuộc,E38_56,E36_4,,
+RELATION,R22_97,THUOC,Thuộc,E38_57,E35_9,,
+RELATION,R22_98,THUOC,Thuộc,E38_58,E35_9,,
+RELATION,R22_99,THUOC,Thuộc,E38_59,E35_9,,
+RELATION,R22_100,THUOC,Thuộc,E38_60,E35_9,,
+RELATION,R22_101,THUOC,Thuộc,E38_61,E35_10,,
+RELATION,R22_102,THUOC,Thuộc,E38_62,E35_10,,
+RELATION,R22_103,THUOC,Thuộc,E38_63,E35_10,,
+RELATION,R22_104,THUOC,Thuộc,E38_64,E35_11,,

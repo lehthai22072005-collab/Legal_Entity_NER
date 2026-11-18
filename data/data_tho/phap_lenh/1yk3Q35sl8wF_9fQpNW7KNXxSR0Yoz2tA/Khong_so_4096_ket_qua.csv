@@ -1,0 +1,65 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,139,257,"PHÁP LỆNH
+SỬA ĐỔI VÀ BỔ SUNG MỘT SỐ ĐIỀU KHOẢN
+CỦA PHÁP LỆNH NĂM 1961 QUY ĐỊNH THỂ LỆ
+BẦU CỬ HỘI ĐỒNG NHÂN DÂN CÁC CẤP"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,139,148,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,5746,5756,1981-01-22
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,5769,5783,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,5804,5814,1981-02-06
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,5836,5846,1984-01-02
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,5870,5890,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,258,283,Uỷ ban thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,5904,5921,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,5934,5946,Trường Chinh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,6487,6505,Hiến pháp năm 1980
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,5966,6076,Nghị quyết số Không số Quy định một số điểm về việc thi hành Hiến pháp nước Cộng hoà xã hội Chủ nghĩa Việt Nam
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,6096,6114,Hiến pháp năm 1980
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,6294,6432,"Thông tư số 01-CT Về việc hướng dẫn việc bầu cử đại biểu Hội đồng nhân dân huyện, thành phố thuộc tỉnh, thị xã, quận, xã, phường, thị trấn"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,6134,6272,"Thông tư số 01-CT Về việc hướng dẫn việc bầu cử đại biểu Hội đồng nhân dân huyện, thành phố thuộc tỉnh, thị xã, quận, xã, phường, thị trấn"
+ENTITY,E38_1,DIEU,Điều,structure,883,889,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1442,1448,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,3398,3404,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,3668,3674,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,4099,4105,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,4412,4418,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,4508,4514,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,4705,4711,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,5203,5209,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,5393,5400,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,5608,5615,Điều 11
+ENTITY,E39_1,KHOAN,Khoản,structure,1474,1769,"1- Hội đồng nhân dân xã, phường và thị trấn.
+Xã, phường và thị trấn miền xuôi có từ 2. 000 người trở xuống được bầu cử 20 đại biểu; có trên 2.000 người thì cứ thêm 200 người được bầu thêm 1 đại biểu, nhưng tổng số không được quá 50 đại biểu.
+Các xã dưới 300 người được bầu từ 15 đến 20 đại biểu."
+ENTITY,E39_2,KHOAN,Khoản,structure,1770,2599,"2- Hội đồng nhân dân huyện, quận, thành phố thuộc tỉnh và thị xã.
+Huyện miền xuôi và quận có từ 50.000 người trở xuống được bầu cử 40 đại biểu; có trên 50.000 thì cứ thêm 4.000 người được bầu thêm 1 đại biểu, nhưng tổng số không được quá 70 đại biểu.
+Huyện miền núi và hải đảo có từ 20.000 người trở xuống được bầu cử 40 đại biểu; có trên 20.000 người được thì cứ thêm từ 1.500 người đến 2.000 người được bầu thêm 1 đại biểu, nhưng tổng số không được quá 70 đại biểu.
+Thành phố thuộc tỉnh có từ 60.000 người trở xuống được bầu cử 50 đại biểu; có trên 60.000 người thì cứ thêm 5.000 người được bầu thêm 1 đại biểu, nhưng tổng số không được quá 80 đại biểu.
+Thị xã có từ 20.000 người trở xuống được bầu cử 40 đại biểu; có trên 20.000 người thì cứ thêm 2.000 người được bầu thêm 1 đại biểu, nhưng tổng số không được quá 70 đại biểu."
+ENTITY,E39_3,KHOAN,Khoản,structure,2600,3397,"3- Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và đặc khu Vũng tàu - Côn đảo.
+Tỉnh miền xuôi có từ 500.000 người trở xuống được bầu cử 70 đại biểu; có trên 500.000 người thì cứ thêm 20.000 người được bầu thêm 1 đại biểu, nhưng tổng số không được quá 140 đại biểu.
+Tỉnh miền núi có từ 250.000 người trở xuống được bầu cử 70 đại biểu; có trên 250.000 người thì cứ thêm 10.000 người được bầu thêm 1 đại biểu, nhưng tổng số không được quá 140 đại biểu.
+Thành phố trực thuộc trung ương có từ 600.000 người trở xuống được bầu cử 70 đại biểu; có trên 600.000 người thì cứ thêm 20.000 người được bầu thêm 1 đại biểu.
+Thành phố Hà Nội và thành phố Hồ Chí Minh được bầu không quá 160 đại biểu.
+Thành phố Hải phòng được bầu không quá 140 đại biểu.
+Đặc khu Vũng Tàu - Côn Đảo được bầu 50 đại biểu."
+ENTITY,E39_4,KHOAN,Khoản,structure,3812,3844,1- Giấy giới thiệu người ứng cử;
+ENTITY,E39_5,KHOAN,Khoản,structure,3845,3957,"2- Đơn ứng cử của những người được giới thiệu có ghi tên, tuổi, nghề nghiệp, nguyên quán địa chỉ, nơi ra ứng cử;"
+ENTITY,E39_6,KHOAN,Khoản,structure,3958,4098,"3- Giấy chứng nhận người ứng cử có đủ điều kiện ứng cử nói ở Điều 1.
+Khi nhận các giấy tờ nói trên, Hội đồng bầu cử phải cấp giấy biên nhận."
+ENTITY,E42_1,VB_DUOC_SUA_DOI_BO_SUNG,Văn bản được sửa đổi bổ sung,reference,6538,6597,Pháp lệnh số 1/LCT Về việc Bầu cử Hội đồng nhân dân các cấp
+ENTITY,E44_1,VB_DUOC_THAY_THE,Văn bản được thay thế,reference,6623,6682,Pháp lệnh số 1/LCT Về việc Bầu cử Hội đồng nhân dân các cấp
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_4,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_4,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_4,,
+RELATION,R24_1,DUOC_SUA_DOI_BO_SUNG,Được sửa đổi bổ sung,E42_1,E2_1,,
+RELATION,R26_1,DUOC_THAY_THE,Được thay thế,E44_1,E2_1,,

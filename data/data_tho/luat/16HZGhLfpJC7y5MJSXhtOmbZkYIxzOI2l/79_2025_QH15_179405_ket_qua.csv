@@ -1,0 +1,107 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,77,"Luật Sửa đổi, bổ sung một số điều của Luật Quốc tịch Việt Nam số 79/2025/QH15"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,65,77,79/2025/QH15
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,22638,22645,Tư pháp
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,22259,22283,ngày 24 tháng 6 năm 2025
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,22658,22667,Quốc tịch
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,21554,21578,ngày 01 tháng 7 năm 2025
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,22399,22411,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,78,86,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,22284,22301,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,22309,22323,Trần Thanh Mẫn
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,418,457,Luật Quốc tịch Việt Nam số 24/2008/QH12
+ENTITY,E15_2,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,500,520,Luật số 56/2014/QH13
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,241,290,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,333,360,Nghị quyết số 203/2025/QH15
+ENTITY,E27_1,VB_HOP_NHAT,Văn bản hợp nhất,reference,22432,22483,Văn bản hợp nhất số 53/VBHN-VPQH Quốc tịch Việt Nam
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,22503,22628,"Nghị định số 191/2025/NĐ-CP Quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Quốc tịch Việt Nam"
+ENTITY,E38_1,DIEU,Điều,structure,522,528,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,21490,21496,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,21929,21935,Điều 3
+ENTITY,E39_1,KHOAN,Khoản,structure,587,680,"1. Sửa đổi, bổ sung khoản 4 và bổ sung các khoản 5, 6, 7 và 8 vào sau khoản 4 Điều 5 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,2544,2597,"2. Sửa đổi, bổ sung một số khoản của Điều 11 như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,3069,3148,"3. Sửa đổi, bổ sung khoản 2 và bổ sung khoản 3 vào sau khoản 2 Điều 13 như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,3652,3696,"4. Sửa đổi, bổ sung khoản 2 Điều 16 như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,4135,4171,"5. Sửa đổi, bổ sung Điều 19 như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,6703,6762,"6. Sửa đổi, bổ sung một số điểm, khoản của Điều 20 như sau:"
+ENTITY,E39_7,KHOAN,Khoản,structure,7322,7375,"7. Sửa đổi, bổ sung một số khoản của Điều 21 như sau:"
+ENTITY,E39_8,KHOAN,Khoản,structure,10407,10472,"8. Sửa đổi, bổ sung tên Điều và một số khoản của Điều 23 như sau:"
+ENTITY,E39_9,KHOAN,Khoản,structure,11605,11673,"9. Sửa đổi, bổ sung, bãi bỏ một số điểm của khoản 1 Điều 24 như sau:"
+ENTITY,E39_10,KHOAN,Khoản,structure,12026,12082,"10. Sửa đổi, bổ sung khoản 3 và khoản 4 Điều 25 như sau:"
+ENTITY,E39_11,KHOAN,Khoản,structure,13943,13996,11. Bổ sung khoản 2a vào sau khoản 2 Điều 26 như sau:
+ENTITY,E39_12,KHOAN,Khoản,structure,14097,14165,"12. Sửa đổi, bổ sung, bãi bỏ một số điểm, khoản của Điều 28 như sau:"
+ENTITY,E39_13,KHOAN,Khoản,structure,14525,14581,"13. Sửa đổi, bổ sung khoản 4 và khoản 5 Điều 29 như sau:"
+ENTITY,E39_14,KHOAN,Khoản,structure,15663,15713,"14. Sửa đổi, bổ sung tên Mục 4 Chương III như sau:"
+ENTITY,E39_15,KHOAN,Khoản,structure,15812,15860,"15. Sửa đổi, bổ sung Điều 33 và Điều 34 như sau:"
+ENTITY,E39_16,KHOAN,Khoản,structure,18381,18462,"16. Sửa đổi, bổ sung khoản 1 và bổ sung khoản 1a vào sau khoản 1 Điều 35 như sau:"
+ENTITY,E39_17,KHOAN,Khoản,structure,18868,18905,"17. Sửa đổi, bổ sung Điều 36 như sau:"
+ENTITY,E39_18,KHOAN,Khoản,structure,19301,19338,"18. Sửa đổi, bổ sung Điều 38 như sau:"
+ENTITY,E39_19,KHOAN,Khoản,structure,19736,19816,"19. Sửa đổi, bổ sung khoản 2 và bổ sung khoản 7 vào sau khoản 6 Điều 39 như sau:"
+ENTITY,E39_20,KHOAN,Khoản,structure,20254,20310,"20. Sửa đổi, bổ sung khoản 4 và khoản 5 Điều 40 như sau:"
+ENTITY,E39_21,KHOAN,Khoản,structure,21142,21179,"21. Sửa đổi, bổ sung Điều 41 như sau:"
+ENTITY,E39_22,KHOAN,Khoản,structure,21518,21579,1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.
+ENTITY,E39_23,KHOAN,Khoản,structure,21580,21928,"2. Bộ, cơ quan ngang Bộ và cơ quan có liên quan rà soát; sửa đổi, bổ sung theo thẩm quyền hoặc kiến nghị cơ quan có thẩm quyền sửa đổi, bổ sung các văn bản quy phạm pháp luật có nội dung liên quan đến quyền và nghĩa vụ của công dân Việt Nam đồng thời có quốc tịch nước ngoài (nếu có) trong thời hạn 02 năm, kể từ ngày Luật này có hiệu lực thi hành."
+ENTITY,E40_1,DIEM,Điểm,structure,2598,2634,"a) Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E40_2,DIEM,Điểm,structure,2722,2793,"b) Sửa đổi, bổ sung khoản 4 và bổ sung khoản 5 vào sau khoản 4 như sau:"
+ENTITY,E40_3,DIEM,Điểm,structure,6763,6806,"a) Sửa đổi, bổ sung điểm d khoản 1 như sau:"
+ENTITY,E40_4,DIEM,Điểm,structure,7102,7138,"b) Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E40_5,DIEM,Điểm,structure,7376,7457,"a) Sửa đổi, bổ sung khoản 1 và khoản 2; bổ sung khoản 2a vào sau khoản 2 như sau:"
+ENTITY,E40_6,DIEM,Điểm,structure,9078,9114,"b) Sửa đổi, bổ sung khoản 3 như sau:"
+ENTITY,E40_7,DIEM,Điểm,structure,10473,10510,"a) Sửa đổi, bổ sung tên Điều như sau:"
+ENTITY,E40_8,DIEM,Điểm,structure,10565,10601,"b) Sửa đổi, bổ sung khoản 1 như sau:"
+ENTITY,E40_9,DIEM,Điểm,structure,10773,10821,"c) Sửa đổi, bổ sung các khoản 4, 5 và 6 như sau:"
+ENTITY,E40_10,DIEM,Điểm,structure,11674,11709,"a) Sửa đổi, bổ sung điểm d như sau:"
+ENTITY,E40_11,DIEM,Điểm,structure,12008,12025,b) Bãi bỏ điểm e.
+ENTITY,E40_12,DIEM,Điểm,structure,14166,14209,"a) Sửa đổi, bổ sung điểm e khoản 1 như sau:"
+ENTITY,E40_13,DIEM,Điểm,structure,14318,14343,b) Bãi bỏ điểm d khoản 1;
+ENTITY,E40_14,DIEM,Điểm,structure,14344,14380,"c) Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E40_15,DIEM,Điểm,structure,19817,19853,"a) Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E40_16,DIEM,Điểm,structure,20026,20069,b) Bổ sung khoản 7 vào sau khoản 6 như sau:
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R3_2,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_2,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R15_1,HOP_NHAT,Hợp nhất,E27_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E40_1,E39_2,,
+RELATION,R22_4,THUOC,Thuộc,E40_2,E39_2,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E40_3,E39_6,,
+RELATION,R22_10,THUOC,Thuộc,E40_4,E39_6,,
+RELATION,R22_11,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_12,THUOC,Thuộc,E40_5,E39_7,,
+RELATION,R22_13,THUOC,Thuộc,E40_6,E39_7,,
+RELATION,R22_14,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_15,THUOC,Thuộc,E40_7,E39_8,,
+RELATION,R22_16,THUOC,Thuộc,E40_8,E39_8,,
+RELATION,R22_17,THUOC,Thuộc,E40_9,E39_8,,
+RELATION,R22_18,THUOC,Thuộc,E39_9,E38_1,,
+RELATION,R22_19,THUOC,Thuộc,E40_10,E39_9,,
+RELATION,R22_20,THUOC,Thuộc,E40_11,E39_9,,
+RELATION,R22_21,THUOC,Thuộc,E39_10,E38_1,,
+RELATION,R22_22,THUOC,Thuộc,E39_11,E38_1,,
+RELATION,R22_23,THUOC,Thuộc,E39_12,E38_1,,
+RELATION,R22_24,THUOC,Thuộc,E40_12,E39_12,,
+RELATION,R22_25,THUOC,Thuộc,E40_13,E39_12,,
+RELATION,R22_26,THUOC,Thuộc,E40_14,E39_12,,
+RELATION,R22_27,THUOC,Thuộc,E39_13,E38_1,,
+RELATION,R22_28,THUOC,Thuộc,E39_14,E38_1,,
+RELATION,R22_29,THUOC,Thuộc,E39_15,E38_1,,
+RELATION,R22_30,THUOC,Thuộc,E39_16,E38_1,,
+RELATION,R22_31,THUOC,Thuộc,E39_17,E38_1,,
+RELATION,R22_32,THUOC,Thuộc,E39_18,E38_1,,
+RELATION,R22_33,THUOC,Thuộc,E39_19,E38_1,,
+RELATION,R22_34,THUOC,Thuộc,E40_15,E39_19,,
+RELATION,R22_35,THUOC,Thuộc,E40_16,E39_19,,
+RELATION,R22_36,THUOC,Thuộc,E39_20,E38_1,,
+RELATION,R22_37,THUOC,Thuộc,E39_21,E38_1,,
+RELATION,R22_38,THUOC,Thuộc,E39_22,E38_2,,
+RELATION,R22_39,THUOC,Thuộc,E39_23,E38_2,,
+RELATION,R22_40,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_41,THUOC,Thuộc,E11_1,E10_1,,

@@ -1,0 +1,205 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,54,Pháp lệnh số Không số Trừng trị các tội phản cách mạng
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,144,156,Số: Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,13387,13396,Pháp lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,165,190,ngày 30 tháng 10 năm 1967
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,13409,13423,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,165,190,ngày 30 tháng 10 năm 1967
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,13447,13459,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,55,80,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,13473,13481,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,13306,13318,TRƯỜNG CHINH
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,13574,13592,Hiến pháp năm 1959
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,13501,13519,Hiến pháp năm 1959
+ENTITY,E36_1,MUC,Mục,structure,873,946,"Mục 1
+TỘI PHẢN CÁCH MẠNG VÀ NGUYÊN TẮC TRỪNG
+TRỊ NHỮNG TỘI PHẢN CÁCH MẠNG"
+ENTITY,E36_2,MUC,Mục,structure,1598,1625,"Mục 2
+TỘI PHẠM VÀ HÌNH PHẠT"
+ENTITY,E36_3,MUC,Mục,structure,10460,10482,"Mục 3
+ĐIỀU KHOẢN CHUNG"
+ENTITY,E38_1,DIEU,Điều,structure,947,953,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1242,1248,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1626,1647,Điều 3. Tội phản quốc
+ENTITY,E38_4,DIEU,Điều,structure,1919,1973,Điều 4. Tội âm mưu lật đổ chính quyền dân chủ nhân dân
+ENTITY,E38_5,DIEU,Điều,structure,2487,2508,Điều 5. Tội gián điệp
+ENTITY,E38_6,DIEU,Điều,structure,3353,3390,Điều 6. Tội xâm phạm an ninh lãnh thổ
+ENTITY,E38_7,DIEU,Điều,structure,3779,3799,Điều 7. Tội bạo loạn
+ENTITY,E38_8,DIEU,Điều,structure,4146,4171,Điều 8. Tội hoạt động phỉ
+ENTITY,E38_9,DIEU,Điều,structure,4612,4692,Điều 9. Tội trốn theo địch hoặc vì mục đích phản cách mạng mà trốn ra nước ngoài
+ENTITY,E38_10,DIEU,Điều,structure,5090,5097,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,5721,5742,Điều 11. Tội phá hoại
+ENTITY,E38_12,DIEU,Điều,structure,7019,7063,Điều 12. Tội phá hoại khối đoàn kết toàn dân
+ENTITY,E38_13,DIEU,Điều,structure,8006,8013,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,8721,8758,"Điều 14. Tội phá rối trật tự, an ninh"
+ENTITY,E38_15,DIEU,Điều,structure,9094,9134,Điều 15. Tội tuyên truyền phản cách mạng
+ENTITY,E38_16,DIEU,Điều,structure,9747,9826,"Điều 16. Tội phá trại giam, đánh cướp can phạm, tổ chức vượt trại giam, trốn tù"
+ENTITY,E38_17,DIEU,Điều,structure,10216,10260,Điều 17. Tội che giấu phần tử phản cách mạng
+ENTITY,E38_18,DIEU,Điều,structure,10483,10505,Điều 18. Hình phạt phụ
+ENTITY,E38_19,DIEU,Điều,structure,11248,11255,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,12015,12022,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,12744,12780,Điều 21. Áp dụng nguyên tắc tương tự
+ENTITY,E38_22,DIEU,Điều,structure,12919,12950,Điều 22. Hiệu lực của pháp lệnh
+ENTITY,E39_1,KHOAN,Khoản,structure,2534,2730,"1. Cung cấp, chuyển giao hoặc lấy cắp, thu thập, cất giữ để cung cấp, chuyển giao những bí mật Nhà nước, bí mật quân sự cho bọn đế quốc và bè lũ tay sai của chúng, cho cơ quan tình báo nước ngoài;"
+ENTITY,E39_2,KHOAN,Khoản,structure,2731,2846,"2. Nhận chỉ thị của nước ngoài, tổ chức người điều tra tình báo hoặc tiến hành những hoạt động phản cách mạng khác;"
+ENTITY,E39_3,KHOAN,Khoản,structure,2847,2893,"3. Chỉ điểm cho bọn xâm lược ném bom, bắn phá;"
+ENTITY,E39_4,KHOAN,Khoản,structure,2894,3352,"4. Nhận chỉ thị của nước ngoài, thu thập, cung cấp tin tức, tài liệu tuy không thuộc bí mật Nhà nước, nhưng để nước ngoài sử dụng gây thiệt hại cho lợi ích của nước Việt Nam Dân chủ Cộng hòa;
+thì bị xử phạt như sau:
+a) Bọn cầm đầu, chỉ huy, bọn hoạt động đắc lực, làm nội gián hoặc đã gây thiệt hại lớn thì bị phạt tù từ mười hai năm đến tù chung thân hoặc bị xử tử hình;
+b) Bọn gián điệp không thuộc loại trên đây thì bị phạt tù từ năm năm đến mười hai năm."
+ENTITY,E39_5,KHOAN,Khoản,structure,4693,4814,1. Kẻ nào trốn theo địch hoặc vì mục đích phản cách mạng mà trốn ra nước ngoài thì bị phạt tù từ ba năm đến mười hai năm.
+ENTITY,E39_6,KHOAN,Khoản,structure,4815,5089,"2. Kẻ nào vì mục đích phản cách mạng mà cưỡng ép, dụ dỗ, lừa phỉnh, tổ chức người khác trốn theo địch hoặc trốn ra nước ngoài thì bị phạt tù từ năm năm đến mười lăm năm.
+Trong trường hợp đặc biệt nghiêm trọng, thì kẻ phạm tội bị xử phạt đến tù chung thân hoặc bị xử tử hình."
+ENTITY,E39_7,KHOAN,Khoản,structure,5202,5378,"1. Kẻ nào vì mục đích phản cách mạng mà giết cán bộ, nhân viên nhà nước, bộ đội, công an hoặc giết nhân dân thì bị phạt tù từ mười lăm năm đến tù chung thân hoặc bị xử tử hình."
+ENTITY,E39_8,KHOAN,Khoản,structure,5379,5556,"2. Kẻ nào vì mục đích phản cách mạng mà đánh đập, gây thương tích, bắt giữ cán bộ, nhân viên nhà nước, bộ đội, công an hay là nhân dân thì bị phạt tù từ ba năm đến mười lăm năm."
+ENTITY,E39_9,KHOAN,Khoản,structure,5557,5720,"3. Kẻ nào vì mục đích phản cách mạng mà dọa giết cán bộ, nhân viên nhà nước, bộ đội, công an trong khi họ thi hành nhiệm vụ thì bị phạt tù từ hai năm đến mười năm."
+ENTITY,E39_10,KHOAN,Khoản,structure,5798,5983,"1. Phá hoại cơ quan của Nhà nước và của các chính đảng, các đoàn thể nhân dân trong Mặt trận Tổ quốc Việt Nam, các doanh trại của lực lượng vũ trang nhân dân, các công trình quốc phòng;"
+ENTITY,E39_11,KHOAN,Khoản,structure,5984,6178,"2. Phá hoại đê đập, cầu đường và phương tiện giao thông, vận tải, thông tin, liên lạc, xí nghiệp, kho tàng, công trình văn hóa hoặc mọi tài sản khác của Nhà nước, của hợp tác xã và của nhân dân;"
+ENTITY,E39_12,KHOAN,Khoản,structure,6179,6277,"3. Trộm cướp vũ khí, chất nổ, máy móc, nguyên liệu, nhiên liệu hoặc mọi tài sản khác của Nhà nước;"
+ENTITY,E39_13,KHOAN,Khoản,structure,6278,6412,"4. Bỏ thuốc độc, gieo rắc côn trùng, chất độc hóa học hoặc dùng cách nào khác gây thiệt hại cho người, cho súc vật, mùa màng, cây cối;"
+ENTITY,E39_14,KHOAN,Khoản,structure,6413,6478,5. Phá hoại chế độ tiền tệ và nền thương nghiệp xã hội chủ nghĩa;
+ENTITY,E39_15,KHOAN,Khoản,structure,6479,6697,"6. Cố ý làm sai hoặc không làm công việc mình phụ trách để phá hoại sản xuất, làm gián đoạn hoặc cản trở hoạt động của cơ quan nhà nước, của đoàn thể nhân dân, của tổ chức quân sự, kinh tế, khoa học, văn hóa và xã hội;"
+ENTITY,E39_16,KHOAN,Khoản,structure,6698,7018,"7. Kích động, xúi giục, lôi kéo người khác phá hoại kỷ luật lao động, kỷ luật quân đội, phá hoại tinh thần chiến đấu của các lực lượng vũ trang nhân dân và của nhân dân; thì bị phạt tù từ mười năm đến tù chung thân hoặc bị xử tử hình.
+Trong trường hợp ít nghiêm trọng, thì kẻ phạm tội bị phạt tù từ năm năm đến mười năm."
+ENTITY,E39_17,KHOAN,Khoản,structure,7158,7464,"1. Phá hoại khối đoàn kết và thống nhất dân tộc, gây hiềm khích và chia rẽ trong nhân dân, trong các lực lượng vũ trang nhân dân, chia rẽ Mặt trận Tổ quốc Việt Nam, chia rẽ nhân dân với chính quyền, chia rẽ nhân dân với lực lượng vũ trang nhân dân, chia rẽ lực lượng vũ trang nhân dân với cơ quan nhà nước;"
+ENTITY,E39_18,KHOAN,Khoản,structure,7465,7583,"2. Phá hoại chính sách dân tộc, gây hằn thù, xích mích giữa các dân tộc anh em cùng sống chung trên đất nước Việt Nam;"
+ENTITY,E39_19,KHOAN,Khoản,structure,7584,8005,"3. Phá hoại chính sách tôn giáo, gây chia rẽ giữa các tôn giáo, chia rẽ giữa người theo tôn giáo với người không theo tôn giáo, chia rẽ giữa các tín đồ tôn giáo với chính quyền; lợi dụng tín ngưỡng xâm phạm đến quyền tự do dân chủ của tín đồ, cản trở họ làm nghĩa vụ công dân hoặc tham gia các đoàn thể nhân dân, các hợp tác xã, các tổ chức quân sự, kinh tế, văn hóa và xã hội; thì bị phạt tù từ năm năm đến mười lăm năm."
+ENTITY,E39_20,KHOAN,Khoản,structure,8099,8277,"1. Kẻ nào vì mục đích phản cách mạng mà chống lại, phá hoại hoặc cản trở việc thực hiện các chính sách, pháp luật và kế hoạch của Nhà nước thì bị phạt tù từ hai năm đến mười năm."
+ENTITY,E39_21,KHOAN,Khoản,structure,8278,8499,"2. Kẻ nào vì mục đích phản cách mạng mà cưỡng ép, xúi giục, lôi kéo người khác chống lại, phá hoại hoặc cản trở việc thực hiện các chính sách, pháp luật và kế hoạch của Nhà nước thì bị phạt tù từ năm năm đến mười lăm năm."
+ENTITY,E39_22,KHOAN,Khoản,structure,8500,8720,"3. Kẻ nào chống lại, phá hoại, cản trở kế hoạch phục vụ quốc phòng hoặc gây trở ngại nghiêm trọng cho việc thực hiện các chính sách, pháp luật và kế hoạch của Nhà nước thì bị xử phạt đến tù chung thân hoặc bị xử tử hình."
+ENTITY,E39_23,KHOAN,Khoản,structure,8759,8975,"1. Kẻ nào vì mục đích phản cách mạng mà kích động, lôi kéo, tụ tập nhiều người nhằm phá rối trật tự, an ninh, ngăn trở cán bộ, nhân viên nhà nước, bộ đội, công an thi hành nhiệm vụ thì bị phạt tù từ 5 năm đến 12 năm."
+ENTITY,E39_24,KHOAN,Khoản,structure,8976,9093,"2. Kẻ nào vì mục đích phản cách mạng mà tham gia việc phá rối trật tự, an ninh thì bị phạt tù từ hai năm đến năm năm."
+ENTITY,E39_25,KHOAN,Khoản,structure,9190,9289,"1. Tuyên truyền, cổ động chống lại chính quyền dân chủ nhân dân, xuyên tạc chế độ xã hội chủ nghĩa;"
+ENTITY,E39_26,KHOAN,Khoản,structure,9290,9493,"2. Tuyên truyền những luận điệu chiến tranh tâm lý của địch; xuyên tạc cuộc kháng chiến chống Mỹ, cứu nước, giành độc lập dân tộc và thống nhất nước nhà, phao đồn tin nhảm, gây hoang mang trong nhân dân;"
+ENTITY,E39_27,KHOAN,Khoản,structure,9494,9579,3. Tuyên truyền cho chính sách nô dịch và cho văn hóa trụy lạc của chủ nghĩa đế quốc;
+ENTITY,E39_28,KHOAN,Khoản,structure,9580,9746,"4. Viết, in, lưu hành, cất giấu sách, báo, phim, tranh, ảnh hoặc mọi tài liệu khác có nội dung và mục đích phản cách mạng; thì bị phạt tù từ hai năm đến mười hai năm."
+ENTITY,E39_29,KHOAN,Khoản,structure,10621,10973,"1. Những kẻ phạm một trong các tội nêu từ Điều 3 đến Điều 16 thì bị tước từ hai năm đến năm năm những quyền lợi của công dân dưới đây:
+a) Quyền bầu cử và ứng cử;
+b) Quyền làm việc trong biên chế nhà nước và trong các tổ chức của lực lượng vũ trang nhân dân;
+c) Quyền đảm nhiệm cương vị phụ trách trong các tổ chức chính trị, kinh tế, văn hóa và xã hội."
+ENTITY,E39_30,KHOAN,Khoản,structure,10974,11088,2. Những kẻ phạm một trong các tội nêu từ Điều 3 đến Điều 16 thì có thể bị tịch thu một phần hoặc toàn bộ tài sản.
+ENTITY,E39_31,KHOAN,Khoản,structure,11089,11247,"3. Những kẻ phạm một trong các tội nêu ở Mục II thì có thể bị phạt quản chế, hoặc cư trú bắt buộc, hoặc cấm cư trú ở một số địa phương từ một năm đến năm năm."
+ENTITY,E39_32,KHOAN,Khoản,structure,11412,11505,"1. Làm thiệt hại trực tiếp đến cuộc kháng chiến chống Mỹ, cứu nước, đến sự nghiệp quốc phòng;"
+ENTITY,E39_33,KHOAN,Khoản,structure,11506,11631,"2. Lợi dụng hoàn cảnh chiến tranh, nơi có chiến sự, có thiên tai hoặc có những khó khăn khác để thực hiện tội phản cách mạng;"
+ENTITY,E39_34,KHOAN,Khoản,structure,11632,11671,3. Hoạt động phản cách mạng có tổ chức;
+ENTITY,E39_35,KHOAN,Khoản,structure,11672,11723,4. Lợi dụng chức quyền để hoạt động phản cách mạng;
+ENTITY,E39_36,KHOAN,Khoản,structure,11724,11820,"5. Dùng thủ đoạn cực kỳ gian ác, phương pháp đặc biệt nguy hiểm để tiến hành tội phản cách mạng;"
+ENTITY,E39_37,KHOAN,Khoản,structure,11821,11871,6. Hành động phạm tội đã gây hậu quả nghiêm trọng;
+ENTITY,E39_38,KHOAN,Khoản,structure,11872,11953,7. Kẻ phạm tội trước đây đã có án phản cách mạng hoặc có tội ác đối với nhân dân;
+ENTITY,E39_39,KHOAN,Khoản,structure,11954,12014,8. Kẻ phạm tội là những phần tử ngoan cố không chịu cải tạo.
+ENTITY,E39_40,KHOAN,Khoản,structure,12229,12296,"1. Có âm mưu phạm tội, nhưng đã tự nguyện không thực hiện tội phạm;"
+ENTITY,E39_41,KHOAN,Khoản,structure,12297,12408,"2. Tội phạm chưa bị phát giác mà thành thật tự thú, khai rõ những âm mưu và hành động của mình và của đồng bọn;"
+ENTITY,E39_42,KHOAN,Khoản,structure,12409,12524,3. Cố ý không thi hành đầy đủ hoặc khuyên bảo đồng bọn không thi hành đầy đủ âm mưu của bọn cầm đầu phản cách mạng;
+ENTITY,E39_43,KHOAN,Khoản,structure,12525,12581,4. Có những hành động làm giảm bớt tác hại của tội phạm;
+ENTITY,E39_44,KHOAN,Khoản,structure,12582,12657,"5. Phạm tội vì bị ép buộc, bị lừa phỉnh và việc làm chưa gây thiệt hại lớn;"
+ENTITY,E39_45,KHOAN,Khoản,structure,12658,12743,"6. Bị bắt, nhưng trước khi bị xét xử đã tỏ ra thành thật hối cải, lập công chuộc tội."
+ENTITY,E39_46,KHOAN,Khoản,structure,12951,13068,"1. Những tội phản cách mạng đã phạm trước ngày công bố Pháp lệnh nhưng chưa bị xét xử, thì xét xử theo Pháp lệnh này."
+ENTITY,E39_47,KHOAN,Khoản,structure,13069,13318,"2. Những điều quy định trước đây mà trái với Pháp lệnh này thì nay bị bãi bỏ./.
+Pháp lệnh này đã được Uỷ ban Thường vụ Quốc hội thông qua ngày 30 tháng 10 năm 1967.
+UỶ BAN THƯỜNG VỤ QUỐC HỘINƯỚC VIỆT NAM DÂN CHỦ CỘNG HÒACHỦ TỊCH
+(đã ký)
+TRƯỜNG CHINH"
+ENTITY,E40_1,DIEM,Điểm,structure,2212,2337,"a) Bọn chủ mưu, cầm đầu, xúi giục, bọn hoạt động đắc lực thì bị phạt tù từ mười lăm năm đến tù chung thân hoặc bị xử tử hình;"
+ENTITY,E40_2,DIEM,Điểm,structure,2338,2486,"b) Bọn tham gia thì bị phạt tù từ năm năm đến mười lăm năm.
+Trong trường hợp ít nghiêm trọng, thì kẻ phạm tội bị phạt tù từ ba năm đến mười hai năm."
+ENTITY,E40_3,DIEM,Điểm,structure,3110,3265,"a) Bọn cầm đầu, chỉ huy, bọn hoạt động đắc lực, làm nội gián hoặc đã gây thiệt hại lớn thì bị phạt tù từ mười hai năm đến tù chung thân hoặc bị xử tử hình;"
+ENTITY,E40_4,DIEM,Điểm,structure,3266,3352,b) Bọn gián điệp không thuộc loại trên đây thì bị phạt tù từ năm năm đến mười hai năm.
+ENTITY,E40_5,DIEM,Điểm,structure,3493,3613,"a) Bọn cầm đầu, chỉ huy, bọn có tội ác nghiêm trọng thì bị phạt tù từ mười hai năm đến tù chung thân hoặc bị xử tử hình;"
+ENTITY,E40_6,DIEM,Điểm,structure,3614,3673,b) Bọn tham gia thì bị phạt tù từ năm năm đến mười hai năm;
+ENTITY,E40_7,DIEM,Điểm,structure,3674,3778,"c) Kẻ nào tiếp tế, chỉ đường, giúp đỡ cho bọn nói trên hoạt động thì bị phạt tù từ hai năm đến mười năm."
+ENTITY,E40_8,DIEM,Điểm,structure,3936,4086,"a) Bọn chủ mưu, cầm đầu, chỉ huy, bọn hoạt động đắc lực, bọn đã gây thiệt hại lớn thì bị phạt tù từ mười hai năm đến tù chung thân hoặc bị xử tử hình;"
+ENTITY,E40_9,DIEM,Điểm,structure,4087,4145,b) Bọn tham gia thì bị phạt tù từ ba năm đến mười hai năm.
+ENTITY,E40_10,DIEM,Điểm,structure,4435,4551,"a) Bọn cầm đầu, chỉ huy, bọn có tội ác nghiêm trọng thì bị phạt tù từ mười năm đến tù chung thân hoặc bị xử tử hình;"
+ENTITY,E40_11,DIEM,Điểm,structure,4552,4611,b) Bọn tham gia phỉ thì bị phạt tù từ hai năm đến mười năm.
+ENTITY,E40_12,DIEM,Điểm,structure,9955,10156,"a) Bọn chủ mưu, cầm đầu, chỉ huy, bọn hoạt động đắc lực, bọn đã gây thiệt hại lớn, bọn đang bị giam giữ về một tội phạm nghiêm trọng thì bị phạt tù từ mười hai năm đến tù chung thân hoặc bị xử tử hình;"
+ENTITY,E40_13,DIEM,Điểm,structure,10157,10215,b) Bọn tham gia thì bị phạt tù từ ba năm đến mười hai năm.
+ENTITY,E40_14,DIEM,Điểm,structure,10756,10782,a) Quyền bầu cử và ứng cử;
+ENTITY,E40_15,DIEM,Điểm,structure,10783,10878,b) Quyền làm việc trong biên chế nhà nước và trong các tổ chức của lực lượng vũ trang nhân dân;
+ENTITY,E40_16,DIEM,Điểm,structure,10879,10973,"c) Quyền đảm nhiệm cương vị phụ trách trong các tổ chức chính trị, kinh tế, văn hóa và xã hội."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E36_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E36_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_3,E36_2,,
+RELATION,R22_4,THUOC,Thuộc,E38_4,E36_2,,
+RELATION,R22_5,THUOC,Thuộc,E40_1,E38_4,,
+RELATION,R22_6,THUOC,Thuộc,E40_2,E38_4,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E36_2,,
+RELATION,R22_8,THUOC,Thuộc,E39_1,E38_5,,
+RELATION,R22_9,THUOC,Thuộc,E39_2,E38_5,,
+RELATION,R22_10,THUOC,Thuộc,E39_3,E38_5,,
+RELATION,R22_11,THUOC,Thuộc,E39_4,E38_5,,
+RELATION,R22_12,THUOC,Thuộc,E40_3,E39_4,,
+RELATION,R22_13,THUOC,Thuộc,E40_4,E39_4,,
+RELATION,R22_14,THUOC,Thuộc,E38_6,E36_2,,
+RELATION,R22_15,THUOC,Thuộc,E40_5,E38_6,,
+RELATION,R22_16,THUOC,Thuộc,E40_6,E38_6,,
+RELATION,R22_17,THUOC,Thuộc,E40_7,E38_6,,
+RELATION,R22_18,THUOC,Thuộc,E38_7,E36_2,,
+RELATION,R22_19,THUOC,Thuộc,E40_8,E38_7,,
+RELATION,R22_20,THUOC,Thuộc,E40_9,E38_7,,
+RELATION,R22_21,THUOC,Thuộc,E38_8,E36_2,,
+RELATION,R22_22,THUOC,Thuộc,E40_10,E38_8,,
+RELATION,R22_23,THUOC,Thuộc,E40_11,E38_8,,
+RELATION,R22_24,THUOC,Thuộc,E38_9,E36_2,,
+RELATION,R22_25,THUOC,Thuộc,E39_5,E38_9,,
+RELATION,R22_26,THUOC,Thuộc,E39_6,E38_9,,
+RELATION,R22_27,THUOC,Thuộc,E38_10,E36_2,,
+RELATION,R22_28,THUOC,Thuộc,E39_7,E38_10,,
+RELATION,R22_29,THUOC,Thuộc,E39_8,E38_10,,
+RELATION,R22_30,THUOC,Thuộc,E39_9,E38_10,,
+RELATION,R22_31,THUOC,Thuộc,E38_11,E36_2,,
+RELATION,R22_32,THUOC,Thuộc,E39_10,E38_11,,
+RELATION,R22_33,THUOC,Thuộc,E39_11,E38_11,,
+RELATION,R22_34,THUOC,Thuộc,E39_12,E38_11,,
+RELATION,R22_35,THUOC,Thuộc,E39_13,E38_11,,
+RELATION,R22_36,THUOC,Thuộc,E39_14,E38_11,,
+RELATION,R22_37,THUOC,Thuộc,E39_15,E38_11,,
+RELATION,R22_38,THUOC,Thuộc,E39_16,E38_11,,
+RELATION,R22_39,THUOC,Thuộc,E38_12,E36_2,,
+RELATION,R22_40,THUOC,Thuộc,E39_17,E38_12,,
+RELATION,R22_41,THUOC,Thuộc,E39_18,E38_12,,
+RELATION,R22_42,THUOC,Thuộc,E39_19,E38_12,,
+RELATION,R22_43,THUOC,Thuộc,E38_13,E36_2,,
+RELATION,R22_44,THUOC,Thuộc,E39_20,E38_13,,
+RELATION,R22_45,THUOC,Thuộc,E39_21,E38_13,,
+RELATION,R22_46,THUOC,Thuộc,E39_22,E38_13,,
+RELATION,R22_47,THUOC,Thuộc,E38_14,E36_2,,
+RELATION,R22_48,THUOC,Thuộc,E39_23,E38_14,,
+RELATION,R22_49,THUOC,Thuộc,E39_24,E38_14,,
+RELATION,R22_50,THUOC,Thuộc,E38_15,E36_2,,
+RELATION,R22_51,THUOC,Thuộc,E39_25,E38_15,,
+RELATION,R22_52,THUOC,Thuộc,E39_26,E38_15,,
+RELATION,R22_53,THUOC,Thuộc,E39_27,E38_15,,
+RELATION,R22_54,THUOC,Thuộc,E39_28,E38_15,,
+RELATION,R22_55,THUOC,Thuộc,E38_16,E36_2,,
+RELATION,R22_56,THUOC,Thuộc,E40_12,E38_16,,
+RELATION,R22_57,THUOC,Thuộc,E40_13,E38_16,,
+RELATION,R22_58,THUOC,Thuộc,E38_17,E36_2,,
+RELATION,R22_59,THUOC,Thuộc,E38_18,E36_3,,
+RELATION,R22_60,THUOC,Thuộc,E39_29,E38_18,,
+RELATION,R22_61,THUOC,Thuộc,E40_14,E39_29,,
+RELATION,R22_62,THUOC,Thuộc,E40_15,E39_29,,
+RELATION,R22_63,THUOC,Thuộc,E40_16,E39_29,,
+RELATION,R22_64,THUOC,Thuộc,E39_30,E38_18,,
+RELATION,R22_65,THUOC,Thuộc,E39_31,E38_18,,
+RELATION,R22_66,THUOC,Thuộc,E38_19,E36_3,,
+RELATION,R22_67,THUOC,Thuộc,E39_32,E38_19,,
+RELATION,R22_68,THUOC,Thuộc,E39_33,E38_19,,
+RELATION,R22_69,THUOC,Thuộc,E39_34,E38_19,,
+RELATION,R22_70,THUOC,Thuộc,E39_35,E38_19,,
+RELATION,R22_71,THUOC,Thuộc,E39_36,E38_19,,
+RELATION,R22_72,THUOC,Thuộc,E39_37,E38_19,,
+RELATION,R22_73,THUOC,Thuộc,E39_38,E38_19,,
+RELATION,R22_74,THUOC,Thuộc,E39_39,E38_19,,
+RELATION,R22_75,THUOC,Thuộc,E38_20,E36_3,,
+RELATION,R22_76,THUOC,Thuộc,E39_40,E38_20,,
+RELATION,R22_77,THUOC,Thuộc,E39_41,E38_20,,
+RELATION,R22_78,THUOC,Thuộc,E39_42,E38_20,,
+RELATION,R22_79,THUOC,Thuộc,E39_43,E38_20,,
+RELATION,R22_80,THUOC,Thuộc,E39_44,E38_20,,
+RELATION,R22_81,THUOC,Thuộc,E39_45,E38_20,,
+RELATION,R22_82,THUOC,Thuộc,E38_21,E36_3,,
+RELATION,R22_83,THUOC,Thuộc,E38_22,E36_3,,
+RELATION,R22_84,THUOC,Thuộc,E39_46,E38_22,,
+RELATION,R22_85,THUOC,Thuộc,E39_47,E38_22,,

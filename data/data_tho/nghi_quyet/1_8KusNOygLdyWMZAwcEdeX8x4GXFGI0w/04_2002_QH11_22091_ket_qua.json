@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "document_id": "22091",
+  "document_code": "04/2002/QH11",
+  "file_name": "04_2002_QH11_22091.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Nghị quyết số 04/2002/QH11 Phê chuẩn đề nghị của Chủ tịch nước về danh sách Phó Chủ tịch và các Uỷ viên của Hội đồng Quốc phòng và an ninh.",
+    "so_hieu": "04/2002/QH11",
+    "loai_van_ban": "Nghị quyết",
+    "co_quan_ban_hanh": "Quốc hội",
+    "ngay_ban_hanh": "ngày 08 tháng 8 năm 2002",
+    "ngay_co_hieu_luc": "2002-08-08",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "Chủ tịch",
+    "nguoi_ky": "Nguyễn Văn An",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Nghị quyết số 04/2002/QH11 Phê chuẩn đề nghị của Chủ tịch nước về danh sách Phó Chủ tịch và các Uỷ viên của Hội đồng Quốc phòng và an ninh.\nQUỐC HỘI\n********\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n********\nSố: 04/2002/NQ-QH11\nHà Nội, ngày 08 tháng 8 năm 2002\nNGHỊ QUYẾT\nPhê chuẩn đề nghị của Chủ tịch nước về danh sách Phó Chủ tịch và các Uỷ viên của Hội đồng Quốc phòng và an ninh\nQUỐC HỘI NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ vào các điều 84, 103 và 104 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khoá X, kỳ họp thứ 10, Điều 81 của Luật tổ chức Quốc hội và Điều 15 của Nội quy kỳ họp Quốc hội;\nCăn cứ và biên bản xác định kết quả bỏ phiếu của Quốc hội phê chuẩn đề nghị của Chủ tịch nước về Danh sách Phó Chủ tịch và các Uỷ viên Hội đồng quốc phòng và an ninh ngày 8 tháng 8 năm 2002;\nQUYẾT NGHỊ\nPhê chuẩn đề nghị của Chủ tịch nước về Danh sách Phó Chủ tịch và các Uỷ viên của Hội đồng quốc phòng và an ninh, gồm có:\nPhó Chủ tịch:\nÔng Phan Văn Khải\nCác Uỷ viên:\nÔng Nguyễn Văn An\nÔng Phạm Văn Trà\nÔng Lê Hồng Anh\nÔng Nguyễn Dy Niên\nNghị quyết này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XI, kỳ họp thứ nhất thông qua tại phiên họp ngày 8 tháng 8 năm 2002.\n`\nCHỦ TỊCH\n(Đã ký)\nNguyễn Văn An\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 2002-08-08\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Nghị định số 51/2001/NĐ-CP Về việc điều chỉnh địa giới hành chính huyện Hoành Bồ để mở rộng thành phố Hạ Long và thành lập phường thuộc thị xã Cẩm Phả, tỉnh Quảng Ninh.\n[Căn cứ ban hành]: Hiến pháp năm 1992",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 139,
+      "text": "Nghị quyết số 04/2002/QH11 Phê chuẩn đề nghị của Chủ tịch nước về danh sách Phó Chủ tịch và các Uỷ viên của Hội đồng Quốc phòng và an ninh.",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 14,
+      "end": 26,
+      "text": "04/2002/QH11",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 10,
+      "text": "Nghị quyết",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 258,
+      "end": 282,
+      "text": "ngày 08 tháng 8 năm 2002",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 1427,
+      "end": 1441,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 1462,
+      "end": 1472,
+      "text": "2002-08-08",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 1496,
+      "end": 1508,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 640,
+      "end": 648,
+      "text": "Quốc hội",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E19_1",
+      "start": 466,
+      "end": 744,
+      "text": "các điều 84, 103 và 104 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khoá X, kỳ họp thứ 10, Điều 81 của Luật tổ chức Quốc hội và Điều 15 của Nội quy kỳ họp Quốc hội",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 753,
+      "end": 935,
+      "text": "và biên bản xác định kết quả bỏ phiếu của Quốc hội phê chuẩn đề nghị của Chủ tịch nước về Danh sách Phó Chủ tịch và các Uỷ viên Hội đồng quốc phòng và an ninh ngày 8 tháng 8 năm 2002",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E2_1",
+      "to_id": "E19_2",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

@@ -1,0 +1,19 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,78,187,"NGHỊ ĐỊNH
+CỦA THỦ TƯỚNG CHÍNH PHỦ SỐ 982/TTG, NGÀY 28-7-1956
+THÀNH LẬP CỤC CẢNH SÁT NHÂN DÂN THUỘC BỘ CÔNG AN"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,115,122,982/TTG
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,273,282,NGHỊ ĐỊNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,124,138,NGÀY 28-7-1956
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1465,1479,Chưa phân loại
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1503,1523,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,188,207,THỦ TƯỚNG CHÍNH PHỦ
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1537,1546,Thủ tướng
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1380,1392,Phan Kế Tọai
+ENTITY,E38_1,DIEU,Điều,structure,283,290,Điều 1:
+ENTITY,E38_2,DIEU,Điều,structure,698,705,Điều 2:
+ENTITY,E38_3,DIEU,Điều,structure,826,833,Điều 3:
+ENTITY,E38_4,DIEU,Điều,structure,1076,1083,Điều 4:
+ENTITY,E38_5,DIEU,Điều,structure,1230,1237,Điều 5:
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

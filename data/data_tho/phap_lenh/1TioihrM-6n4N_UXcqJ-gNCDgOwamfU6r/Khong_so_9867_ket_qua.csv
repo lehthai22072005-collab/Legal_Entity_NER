@@ -1,0 +1,126 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,180,212,"PHÁP LỆNH
+VỀ HÀM, CẤP NGOẠI GIAO"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,134,146,Số: Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,180,189,PHÁP LỆNH
+ENTITY,E4_1,NGANH,Ngành,metadata,9906,9938,Lao động - Thương binh và Xã hội
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,155,179,ngày 31 tháng 5 năm 1995
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,9951,9965,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,155,179,ngày 31 tháng 5 năm 1995
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,9989,10001,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,45,70,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,9814,9822,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,9831,9844,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,10614,10632,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,507,565,Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,578,659,"Nghị quyết Quốc hội khoá IX, kỳ họp thứ 6 về công tác xây dựng pháp luật năm 1995"
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,10021,10039,Hiến pháp năm 1992
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,10391,10559,"Lệnh số 40-L/CTN Về việc công bố Pháp lệnh về Hàm, cấp ngoại giao và Pháp lệnh Phòng, chống nhiễm vi rút gây ra hội chứng Suy giảm miễn dịch mắc phải ở người (HIV/AIDS)"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,10059,10137,"Nghị định số 13/CP Quy định chi tiết thi hành Pháp lệnh về hàm, cấp ngoại giao"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,10157,10369,"Thông tư số 10/2025/TT-BNG Quy định chi tiết, hướng dẫn thi hành Điều 13 và Điều 14 của Nghị định số 134/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực đối ngoại"
+ENTITY,E35_1,CHUONG,Chương,structure,717,746,"CHƯƠNG I
+NHỮNG QUY ĐỊNH CHUNG"
+ENTITY,E35_2,CHUONG,Chương,structure,1622,1706,"CHƯƠNG II
+HÀM, CẤP NGOẠI GIAO, MỐI QUAN HỆ GIỮA HÀM NGOẠI GIAO
+VÀ CHỨC VỤ NGOẠI GIAO"
+ENTITY,E35_3,CHUONG,Chương,structure,4551,4643,"CHƯƠNG III
+TIÊU CHUẨN CÁC HÀM NGOẠI GIAO
+PHONG HÀM, THĂNG HÀM, HẠ HÀM VÀ TƯỚC HÀM NGOẠI GIAO"
+ENTITY,E35_4,CHUONG,Chương,structure,7960,8021,"CHƯƠNG IV
+NGHĨA VỤ VÀ QUYỀN LỢI
+CỦA NGƯỜI MANG HÀM NGOẠI GIAO"
+ENTITY,E35_5,CHUONG,Chương,structure,9547,9575,"CHƯƠNG V
+ĐIỀU KHOẢN THI HÀNH"
+ENTITY,E38_1,DIEU,Điều,structure,747,753,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,888,894,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1168,1174,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1526,1532,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1707,1713,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,1996,2002,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,2144,2150,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,2340,2346,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,2706,2712,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,3222,3229,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,3900,3907,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,4216,4223,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,4644,4651,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,5479,5486,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,6136,6143,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,6924,6931,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,7018,7025,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,7190,7197,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,7524,7531,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,7722,7729,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,8022,8029,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,8568,8575,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,8869,8876,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,9039,9046,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,9168,9175,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,9348,9355,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,9576,9583,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,9691,9698,Điều 28
+ENTITY,E39_1,KHOAN,Khoản,structure,2347,2526,"1- Công chức thuộc cơ quan, tổ chức khác được điều động sang công tác tại ngành ngoại giao, nếu có đủ tiêu chuẩn theo quy định của Pháp lệnh này thì được xét phong hàm ngoại giao."
+ENTITY,E39_2,KHOAN,Khoản,structure,2527,2705,"2- Người mang hàm ngoại giao đã được điều động sang cơ quan, tổ chức khác, khi được điều động trở lại ngành ngoại giao được xét phong hàm ngoại giao phù hợp với trình độ hiện có."
+ENTITY,E39_3,KHOAN,Khoản,structure,2713,2936,1- Chức vụ ngoại giao là chức vụ bổ nhiệm cho thành viên có cương vị ngoại giao công tác tại Cơ quan đại diện ngoại giao Việt Nam ở nước ngoài hoặc Phái đoàn đại diện thường trực Việt Nam tại Tổ chức quốc tế Liên chính phủ.
+ENTITY,E39_4,KHOAN,Khoản,structure,2937,2975,2- Chức vụ ngoại giao Việt Nam gồm có:
+ENTITY,E39_5,KHOAN,Khoản,structure,3230,3649,"1- Người mang hàm ngoại giao được cử đi công tại tại Cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài, được bổ nhiệm giữ một chức vụ ngoại giao hoặc chức vụ lãnh sự tương ứng với hàm ngoại giao của người đó. Trong trường hợp do nhu cầu công tác, người mang hàm ngoại giao có thể được bổ nhiệm giữ một chức vụ ngoại giao hoặc chức vụ lãnh sự cao hơn hoặc thấp hơn so với hàm ngoại giao của người đó."
+ENTITY,E39_6,KHOAN,Khoản,structure,3650,3899,2- Người mang hàm ngoại giao có hàm từ Tham tán trở lên có thể được cử giữ chức vụ người đứng đầu Cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài; khi hết thời hạn công tác về nước thì giữ hàm ngoại giao đã được phong trước đó.
+ENTITY,E39_7,KHOAN,Khoản,structure,6144,6705,"1- Công chức ngành ngoại giao có đủ các tiêu chuẩn: trung thành với Tổ quốc Việt Nam xã hội chủ nghĩa; có phẩm chất chính trị, đạo đức tốt; có khả năng thực hiện đường lối, chính sách của Đảng và Nhà nước về đối nội và đối ngoại; có trình độ văn hoá đại học, trình độ chính trị trung cấp; được đào tạo về nghiệp vụ ngoại giao; biết sử dụng một ngoại ngữ; có thời gian công tác trong ngành ngoại giao từ 5 năm trở lên, có hiểu biết về nghiệp vụ chuyên ngành, là chuyên viên chính hoặc chuyên viên thì được xét phong từ hàm Bí thư thứ hai đến hàm Bí thư thứ nhất."
+ENTITY,E39_8,KHOAN,Khoản,structure,6706,6923,"2- Công chức ngành ngoại giao có đủ các tiêu chuẩn quy định tại khoản 1 Điều này, có thời gian công tác trong ngành ngoại giao từ 3 năm trở lên, là chuyên viên thì được xét phong từ hàm Tuỳ viên đến hàm Bí thư thứ ba."
+ENTITY,E39_9,KHOAN,Khoản,structure,7198,7372,"1- Việc thăng hàm, cấp ngoại giao được tiến hành khi có nhu cầu của công tác đối ngoại và căn cứ vào các tiêu chuẩn được quy định tại các điều 13, 14 và 15 của Pháp lệnh này."
+ENTITY,E39_10,KHOAN,Khoản,structure,7373,7523,"2- Người mang hàm ngoại giao hoàn thành xuất sắc nhiệm vụ và theo nhu cầu cần thiết của công tác đối ngoại, có thể được xét thăng vượt hàm ngoại giao."
+ENTITY,E39_11,KHOAN,Khoản,structure,8069,8163,"1- Tuyệt đối trung thành với Tổ quốc, nhân dân và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam;"
+ENTITY,E39_12,KHOAN,Khoản,structure,8164,8293,"2- Nghiêm chỉnh chấp hành đường lối, chính sách của Đảng và pháp luật của Nhà nước, quy chế và các quy định của ngành ngoại giao;"
+ENTITY,E39_13,KHOAN,Khoản,structure,8294,8361,"3- Bảo vệ lợi ích quốc gia, bí mật Nhà nước và danh dự của dân tộc;"
+ENTITY,E39_14,KHOAN,Khoản,structure,8362,8525,"4- Thường xuyên rèn luyện, học tập nâng cao trình độ và năng lực chính trị, nghiệp vụ chuyên môn và ngoại ngữ, giữ gìn tư cách công chức ngành ngoại giao Việt Nam."
+ENTITY,E39_15,KHOAN,Khoản,structure,8526,8567,5- Hoàn thành tốt mọi nhiệm vụ được giao.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_5,E35_2,,
+RELATION,R22_6,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_7,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_8,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_9,THUOC,Thuộc,E39_1,E38_8,,
+RELATION,R22_10,THUOC,Thuộc,E39_2,E38_8,,
+RELATION,R22_11,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_12,THUOC,Thuộc,E39_3,E38_9,,
+RELATION,R22_13,THUOC,Thuộc,E39_4,E38_9,,
+RELATION,R22_14,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_15,THUOC,Thuộc,E39_5,E38_10,,
+RELATION,R22_16,THUOC,Thuộc,E39_6,E38_10,,
+RELATION,R22_17,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_18,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_19,THUOC,Thuộc,E38_13,E35_3,,
+RELATION,R22_20,THUOC,Thuộc,E38_14,E35_3,,
+RELATION,R22_21,THUOC,Thuộc,E38_15,E35_3,,
+RELATION,R22_22,THUOC,Thuộc,E39_7,E38_15,,
+RELATION,R22_23,THUOC,Thuộc,E39_8,E38_15,,
+RELATION,R22_24,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,R22_25,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,R22_26,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,R22_27,THUOC,Thuộc,E39_9,E38_18,,
+RELATION,R22_28,THUOC,Thuộc,E39_10,E38_18,,
+RELATION,R22_29,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,R22_30,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,R22_31,THUOC,Thuộc,E38_21,E35_4,,
+RELATION,R22_32,THUOC,Thuộc,E39_11,E38_21,,
+RELATION,R22_33,THUOC,Thuộc,E39_12,E38_21,,
+RELATION,R22_34,THUOC,Thuộc,E39_13,E38_21,,
+RELATION,R22_35,THUOC,Thuộc,E39_14,E38_21,,
+RELATION,R22_36,THUOC,Thuộc,E39_15,E38_21,,
+RELATION,R22_37,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,R22_38,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_39,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,R22_40,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,R22_41,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_42,THUOC,Thuộc,E38_27,E35_5,,
+RELATION,R22_43,THUOC,Thuộc,E38_28,E35_5,,

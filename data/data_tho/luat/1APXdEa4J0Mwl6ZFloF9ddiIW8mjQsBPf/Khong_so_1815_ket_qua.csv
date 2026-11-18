@@ -1,0 +1,184 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,71,"Luật Sửa đổi, bổ sung một số điều của Luật Nghĩa vụ quân sự số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,63,71,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,7131,7156,ngày 21 tháng 12 năm 1990
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,7222,7236,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,7257,7267,1991-01-02
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,7289,7299,2016-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,7323,7343,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,275,283,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,7357,7374,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,7387,7399,Lê Quang Đạo
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,7492,7510,Hiến pháp năm 1980
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,7552,7585,Luật Nghĩa vụ quân sự số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,7419,7437,Hiến pháp năm 1980
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,7882,7980,Thông tư liên tịch số 36/2011/TTLT-BYT-BQP Hướng dẫn việc khám sức khỏe thực hiện nghĩa vụ quân sự
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8030,8096,Nghị định số 150/2007/NĐ-CP Về huấn luyện quân nhân dự bị hạng hai
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8146,8235,Thông tư số 167/2010/TT-BQP Về việc quy định tuyển chọn và gọi công dân nhập ngũ hàng năm
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8285,8405,Thông tư số 03/2014/TT-BQP Về quy định chi tiết và hướng dẫn thực hiện công tác tuyển sinh vào các trường trong Quân đội
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8455,8571,Nghị định số 42/2011/NĐ-CP Quy định công dân thuộc diện làm nghĩa vụ quân sự được miễn gọi nhập ngũ trong thời chiến
+ENTITY,E24_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8621,8801,"Nghị định số 65/2009/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 123/2003/NĐ-CP  ngày 22 tháng 10 năm 2003 quy định về tiêu chuẩn vật chất hậu cần đối với quân nhân tại ngũ"
+ENTITY,E24_7,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8851,8944,"Nghị định số 88/2011/NĐ-CP Về chế độ, chính sách đối với gia đình hạ sĩ quan, binh sĩ tại ngũ"
+ENTITY,E24_8,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8994,9120,Thông tư số 184/2011/TT-BQP Quy định Danh mục công dân thuộc diện làm nghĩa vụ quân sự được miễn gọi nhập ngũ trong thời chiến
+ENTITY,E24_9,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,9170,9573,"Thông tư liên tịch số 13/2013/TTLT-BQP-BGDĐT Sửa đổi, bổ sung một số điều của Thông tư liên tịch số 175/2011/TTLT-BQP-BGDĐT ngày 13 tháng 9 năm 2011 của Bộ Quốc phòng và Bộ Giáo dục và Đào tạo hướng dẫn thực hiện một số điều của Nghị định số 38/2007/NĐ-CP ngày 15 tháng 3 năm 2007 của Chính phủ về việc tạm hoãn gọi nhập ngũ và miễn gọi nhập ngũ thời bình đối với công dân nam trong độ tuổi gọi nhập ngũ"
+ENTITY,E24_10,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,9623,9854,"Thông tư số 10/2015/TT-BQP Sửa đổi, bổ sung một số điều tại Thông tư số 03/2014/TT-BQP ngày 16 tháng 01 năm 2014 của Bộ trưởng Bộ Quốc phòng quy định chi tiết và hướng dẫn thực hiện công tác tuyển sinh vào các trường trong Quân đội"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,7636,7707,"Luật Sửa đổi, bổ sung một số điều của Luật Nghĩa vụ quân sự số Không số"
+ENTITY,E25_2,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,7758,7832,Luật Sửa đổi bổ sung một số điều của Luật Nghĩa vụ quân sự số 43/2005/QH11
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,14803,14840,Luật Nghĩa vụ quân sự số 78/2015/QH13
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,9876,10004,"Quyết định số 44/2008/QĐ-BYT Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Vụ Kế hoạch - Tài chính thuộc Bộ Y tế"
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,10026,10175,Thông tư liên tịch số 182/2007/TTLT-BQP-BCA-BGDĐT-BNV Hướng dẫn thực hiện Nghị định số 116/2007/NĐ-CP ngày 10/07/2007 về Giáo dục quốc phòng- an ninh
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,10197,10299,"Pháp lệnh số Không số Về nhiệm vụ, quyền hạn cụ thể của Hội đồng nhân dân và Uỷ ban nhân dân ở mỗi cấp"
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,10321,10529,"Thông tư liên tịch số 181/2007/TTLT-BQP-BTC Thông tư hướng dẫn thực hiện Nghị định số 106/2007/NĐ-CP ngày 22 tháng 6 năm 2007 của Chính phủ về chế độ, chính sách đối với gia đình hạ sĩ quan và binh sĩ tại ngũ"
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,10551,10656,Thông tư liên tịch số 04/2010/TTLT-BQP-BTC Hướng dẫn thực hiện chính sách hỗ trợ bộ đội xuất ngũ học nghề
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,10676,10932,Thông tư liên tịch số 175/2011/TTLT-BQP-BGDĐT Hướng dẫn thực hiện một số điều của Nghị định số 38/2007/NĐ-CP ngày 15 tháng 3 năm 2007 của Chính phủ về việc tạm hoãn gọi nhập ngũ và miễn gọi nhập ngũ thời bình đối với công dân nam trong độ tuổi gọi nhập ngũ
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,10952,11076,"Quyết định số 40/2007/QĐ-UBND Ban hành Quy định về công tác tuyển chọn, gọi công dân nhập ngũ trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,11096,11301,"Nghị định số 122/2006/NĐ-CP Quy định chi tiết thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Nghĩa vụ quân sự năm 2005 về chế độ, chính sách đối với hạ sĩ quan, binh sĩ phục vụ tại ngũ"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,11321,11532,"Nghị định số 17/2007/NĐ-CP Về việc sửa đổi, bổ sung một số điều của Điều lệ phục vụ của hạ sĩ quan, binh sĩ Quân đội nhân dân Việt Nam ban hành kèm theo Nghị định số 54/CP ngày 07 tháng 08 năm 1995 của Chính phủ"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,11552,11650,Thông tư liên tịch số 14/2006/TTLT/BYT-BQP Hướng dẫn việc khám sức khỏe thực hiện nghĩa vụ quân sự
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,11670,11744,Thông tư số 07/2012/TT-BQP Quy định tuyển chọn và gọi Công dân nhập ngũ lẻ
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,11764,11830,Nghị định số 150/2007/NĐ-CP Về huấn luyện quân nhân dự bị hạng hai
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,11850,11943,Nghị định số 123/2003/NĐ-CP Quy định về tiêu chuẩn vật chất hậu cần đối với quân nhân tại ngũ
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,11963,12161,Thông tư số 30/2007/TT-BQP Hướng dẫn thực hiện Quyết định số 203/2006/QĐ-TTg ngày 31 tháng 08 năm 2006 của Thủ tướng Chính phủ về việc quy định ngành nghề chuyên môn của công dân nữ cần cho quân đội
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,12181,12361,"Nghị định số 65/2009/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 123/2003/NĐ-CP  ngày 22 tháng 10 năm 2003 quy định về tiêu chuẩn vật chất hậu cần đối với quân nhân tại ngũ"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,12381,12455,Quyết định số 10/CT Về việc giao chỉ tiêu gọi thanh niên nhập ngũ năm 1991
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,12475,12610,Nghị định số 38/2007/NĐ-CP Về việc tạm hoãn gọi nhập ngũ và miễn gọi nhập ngũ thời bình đối với công dân nam trong độ tuổi gọi nhập ngũ
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,12630,12726,"Nghị định số 106/2007/NĐ-CP Về chế độ, chính sách đối với gia đình hạ sĩ quan và binh sĩ tại ngũ"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,12746,12843,"Nghị định số 120/2013/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực quốc phòng, cơ yếu"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,12863,12952,Thông tư số 167/2010/TT-BQP Về việc quy định tuyển chọn và gọi công dân nhập ngũ hàng năm
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,12972,13066,"Nghị định số 54-CP Ban hành Điều lệ phục vụ của Hạ sỹ quan, Binh sỹ Quân đội nhân dân Việt Nam"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,13086,13153,Quyết định số 334/1999/QĐ-UB Về việc gọi công dân nhập ngũ năm 2000
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,13173,13256,Nghị định số 18/2007/NĐ-CP Quân nhân chuyên nghiệp trong Quân đội nhân dân Việt Nam
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,13276,13369,"Nghị định số 88/2011/NĐ-CP Về chế độ, chính sách đối với gia đình hạ sĩ quan, binh sĩ tại ngũ"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,13389,13792,"Thông tư liên tịch số 13/2013/TTLT-BQP-BGDĐT Sửa đổi, bổ sung một số điều của Thông tư liên tịch số 175/2011/TTLT-BQP-BGDĐT ngày 13 tháng 9 năm 2011 của Bộ Quốc phòng và Bộ Giáo dục và Đào tạo hướng dẫn thực hiện một số điều của Nghị định số 38/2007/NĐ-CP ngày 15 tháng 3 năm 2007 của Chính phủ về việc tạm hoãn gọi nhập ngũ và miễn gọi nhập ngũ thời bình đối với công dân nam trong độ tuổi gọi nhập ngũ"
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,13812,13932,Thông tư số 03/2014/TT-BQP Về quy định chi tiết và hướng dẫn thực hiện công tác tuyển sinh vào các trường trong Quân đội
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,13952,14007,Nghị định số 83/2001/NĐ-CP Về đăng ký nghĩa vụ quân sự.
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,14027,14125,Thông tư liên tịch số 36/2011/TTLT-BYT-BQP Hướng dẫn việc khám sức khỏe thực hiện nghĩa vụ quân sự
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,14145,14271,Thông tư số 184/2011/TT-BQP Quy định Danh mục công dân thuộc diện làm nghĩa vụ quân sự được miễn gọi nhập ngũ trong thời chiến
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,14291,14381,Thông tư liên tịch số 16/TT-LB Hướng dẫn bổ sung việc thực hiện nghĩa vụ lao động công ích
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,14401,14632,"Thông tư số 10/2015/TT-BQP Sửa đổi, bổ sung một số điều tại Thông tư số 03/2014/TT-BQP ngày 16 tháng 01 năm 2014 của Bộ trưởng Bộ Quốc phòng quy định chi tiết và hướng dẫn thực hiện công tác tuyển sinh vào các trường trong Quân đội"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,14652,14753,Quyết định số 203/2006/QĐ-TTg Về việc quy định ngành nghề chuyên môn của công dân nữ cần cho Quân đội
+ENTITY,E38_1,DIEU,Điều,structure,361,432,"Điều 1.
+Sửa đổi, bổ sung một số điều của Luật nghĩa vụ quân sự như sau:"
+ENTITY,E38_2,DIEU,Điều,structure,6218,6317,"Điều 2.
+Các Điều 69, 70, 71 về việc xử lý các vi phạm được thay bằng Điều 69 mới như sau:
+""Điều 69."
+ENTITY,E39_1,KHOAN,Khoản,structure,433,798,"1/ Điều 14 về thời hạn phục vụ tại ngũ của hạ sĩ quan và binh sĩ, được sửa đổi, bổ sung như sau:
+""Điều 14.
+Thời hạn phục vụ tại ngũ trong thời bình của hạ sĩ quan và binh sĩ là hai năm.
+Thời hạn phục vụ tại ngũ trong thời bình của hạ sĩ quan chỉ huy, hạ sĩ quan và binh sĩ chuyên môn kỹ thuật do Quân đội đào tạo, hạ sĩ quan và binh sĩ trên tầu hải quân là ba năm."""
+ENTITY,E39_2,KHOAN,Khoản,structure,799,1268,"2/ Đoạn 4 Điều 21 về trách nhiệm của Uỷ ban nhân dân các cấp trong việc gọi công dân nhập ngũ, được sửa đổi, bổ sung như sau:
+""Uỷ ban nhân dân các cấp có trách nhiệm chỉ đạo, tổ chức thực hiện việc tuyển chọn và gọi công dân nhập ngũ trong địa phương mình, bảo đảm công khai, dân chủ và công bằng; đúng thời gian, đủ số lượng, đúng tiêu chuẩn theo quy định của pháp luật. Các đơn vị nhận quân có trách nhiệm phối hợp với Uỷ ban nhân dân các cấp thực hiện nhiệm vụ này""."
+ENTITY,E39_3,KHOAN,Khoản,structure,1269,1574,"3/ Điều 29 về những người được hoãn gọi nhập ngũ, được sửa đổi, bổ sung như sau:
+""Điều 29.
+Trong thời bình, những người đây sau được hoãn gọi nhập ngũ:
+1- Người chưa đủ sức khoẻ phục vụ tại ngũ theo kết luận của Hội đồng khám sức khoẻ;
+2- Con của liệt sĩ;
+3- Anh hoặc em trai còn lại duy nhất của liệt sĩ;"
+ENTITY,E39_4,KHOAN,Khoản,structure,1575,1648,"4- Một con trai của thương binh hạng một, hạng hai và bệnh binh hàng một;"
+ENTITY,E39_5,KHOAN,Khoản,structure,1649,1776,5- Người là lao động duy nhất phải trực tiếp nuôi người khác trong gia đình không còn sức lao động hoặc chưa đến tuổi lao động;
+ENTITY,E39_6,KHOAN,Khoản,structure,1777,1882,"6- Người có anh, chị hoặc em ruột trong cùng một hộ gia đình là hạ sĩ quan, binh sĩ đang phục vụ tại ngũ;"
+ENTITY,E39_7,KHOAN,Khoản,structure,1883,2015,"7- Giáo viên, nhân viên y tế, thanh niên xung phong đang làm việc ở một số vùng cao xa xôi, hẻo lánh do Hội đồng bộ trưởng quy định;"
+ENTITY,E39_8,KHOAN,Khoản,structure,2016,2158,"8- Người đang nghiên cứu công trình khoa học cấp Nhà nước được Bộ trưởng, Chủ nhiệm Uỷ ban Nhà nước hoặc người có chức tương đương chứng nhận;"
+ENTITY,E39_9,KHOAN,Khoản,structure,2159,5646,"9- Người đang học ở các trường phổ thông; đang học ở các trường dạy nghề, trường trung học chuyên nghiệp, trường cao đẳng, trường đại học thuộc hệ tập trung dài hạn do Nhà nước quản lý.
+Hàng năm, những người nói ở các điểm 1, 5, 6, 7, 8 và 9 của Điều này phải được kiểm tra, nếu không còn lý do hoãn thì được gọi nhập ngũ; hết 27 tuổi mà vẫn không được gọi nhập ngũ thì chuyển sang ngạch dự bị"".
+4/ Điều 32 về việc xuất ngũ của hạ sĩ quan và binh sĩ, được sửa đổi, bổ sung như sau:
+""Điều 32.
+Hạ sĩ quan và binh sĩ đã phục vụ tại ngũ đủ thời hạn quy định ở Điều 14 của Luật này thì được xuất ngũ. Theo lệnh của Bộ trưởng Bộ quốc phòng, người chỉ huy đơn vị từ cấp trung đoàn và tương đương trở lên có trách nhiệm thực hiện việc xuất ngũ cho hạ sĩ quan và binh sĩ thuộc quyền.
+Thời gian xuất ngũ của hạ sĩ quan và binh sĩ phải được thông báo trước một tháng cho quân nhân, Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và đơn vị cơ sở, nơi quân nhân cư trú hoặc làm việc trước khi nhập ngũ. Người chỉ huy của đơn vị cấp trung đoàn và tương đương trở lên có hạ sĩ quan và binh sĩ xuất ngũ phải tổ chức tiễn và đưa họ về bàn giao cho Uỷ ban nhân dân địa phương đã giao quân. Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh có trách nhiệm tổ chức tiếp nhận hạ sĩ quan và binh sĩ xuất ngũ về địa phương mình.""
+5/ Điều 38 về hạn tuổi phục vụ của hạ sĩ quan và binh sĩ ở ngạch dự bị, được sửa đổi như sau:
+""Điều 38.
+Hạn tuổi phục vụ của hạ sĩ quan và binh sĩ ở ngạch dự bị được quy định như sau:
+Nam giới, đến hết 45 tuổi;
+Nữ giới, đến hết 40 tuổi;""
+6/ Điều 39 về chia nhóm quân nhân dự bị nam giới, được sửa đổi như sau:
+""Điều 39.
+Căn cứ vào lứa tuổi, hạ sĩ quan và binh sĩ dự bị nam giới ở mỗi hạng được chia thành 2 nhóm:
+Nhóm A gồm những người đến hết 35 tuổi;
+Nhóm B gồm những người từ 36 tuổi đến hết 45 tuổi.""
+7/ Bỏ khoản 3 Điều 40 về việc huấn luyện quân nhân dự bị ở nhóm C.
+8/ Điều 53 về quyền lợi của hạ sĩ quan và binh sĩ tại ngũ, được sửa đổi, bổ sung như sau:
+""Điều 53.
+Hạ sĩ quan và binh sĩ tại ngũ:
+1- Được bảo đảm cung cấp kịp thời, đủ số lượng, đúng chất lượng về lương thực, thực phẩm, quân trang, thuốc phòng bệnh, chữa bệnh, được bảo đảm chỗ ở, phụ cấp hàng tháng và nhu cầu về văn hoá, tinh thần phù hợp với tính chất nhiệm vụ của quân đội theo chế độ, tiêu chuẩn, định lượng do Hội đồng bộ trưởng quy định;
+2- Từ năm thứ 2 trở đi, được nghỉ phép theo quy định của Hội đồng bộ trưởng;
+3- Từ tháng thứ 25 trở đi, được hưởng thêm 100% phụ cấp hàng tháng;
+4- Được tính nhân khẩu ở gia đình khi gia đình được cấp hoặc điều chỉnh diện tích nhà ở, đất xây dựng nhà ở và đất canh tác;
+5- Được tính thời gian phục vụ tại ngũ vào thời gian công tác;
+6- Được ưu tiên mua vé khi đi lại bằng các phương tiện giao thông thuộc các thành phần kinh tế;
+7- Được ưu đãi về bưu phí theo quy định của Hội đồng bộ trưởng.""
+9/ Điều 54 về quyền lợi của gia đình quân nhân tại ngũ, được sửa đổi, bổ sung như sau:
+""Điều 54.
+Quyền lợi của gia đình hạ sĩ quan và binh sĩ tại ngũ được quy định như sau:
+1- Bố hoặc vợ được tạm miễn tham gia lao động công ích trong những trường hợp gia đình thực sự có khó khăn và được Uỷ ban nhân dân xã, phường, thị trấn chứng nhận;
+2- Bố, mẹ, vợ và con được hưởng chế độ trợ cấp khó khăn đột xuất theo chính sách chung của Nhà nước; được miễn viện phí khi khám bệnh và chữa bệnh tại các bệnh viện của Nhà nước;
+3- Con gửi ở nhà trẻ, học tại các trường mẫu giáo, trường phổ thông của Nhà nước được miễn học phí và tiền đóng góp xây dựng trường."""
+ENTITY,E39_10,KHOAN,Khoản,structure,5647,6217,"10/ Điều 55 về chế độ đối với hạ sĩ quan và binh sĩ xuất ngũ, được sửa đổi, bổ sung như sau:
+""Điều 55.
+Hạ sĩ quan và binh sĩ khi xuất ngũ được cấp tiền tầu xe, phụ cấp đi đường và trợ cấp xuất ngũ do Hội đồng bộ trưởng quy định.
+Hạ sĩ quan và binh sĩ kể từ ngày có quyết định xuất ngũ được tạm miễn làm nghĩa vụ lao động công ích; cứ mỗi năm phục vụ tại ngũ thì được miễn thời gian nghĩa vụ lao động công ích của một năm.
+Thời gian hạ sĩ quan, binh sĩ dự bị tập trung huấn luyện và kiểm tra sẵn sàng chiến đấu được trừ vào thời gian nghĩa vụ lao động công ích hàng năm."""
+ENTITY,E39_11,KHOAN,Khoản,structure,6318,6703,"1- Người nào vi phạm các quy định về đăng ký nghĩa vụ quân sự, tuyển chọn và gọi công dân nhập ngũ, gọi quân nhân dự bị tập trung huấn luyện; lợi dụng chức vụ, quyền hạn làm trái hoặc cản trở việc thực hiện các quy định trên đây hoặc vi phạm các quy định khác của Luật này, thì tuỳ theo mức độ nhẹ hoặc nặng mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự."
+ENTITY,E39_12,KHOAN,Khoản,structure,6704,7027,"2- Quân nhân nào vi phạm các quy định về việc tuyển chọn và gọi công dân nhập ngũ, về việc xuất ngũ của hạ sĩ quan, binh sĩ, về chế độ, quyền lợi của quân nhân hoặc vi phạm các quy định khác của Luật này, thì tuỳ theo mức độ nhẹ hoặc nặng mà bị xử lý theo Điều lệnh kỷ luật của quân đội hoặc bị truy cứu trách nhiệm hình sự"
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_4,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_5,,
+RELATION,R12_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_6,,
+RELATION,R12_7,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_7,,
+RELATION,R12_8,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_8,,
+RELATION,R12_9,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_9,,
+RELATION,R12_10,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_10,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R13_2,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_2,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E2_1,E30_19,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E2_1,E30_20,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E2_1,E30_21,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E2_1,E30_22,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E2_1,E30_23,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E2_1,E30_24,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E2_1,E30_25,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E2_1,E30_26,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E2_1,E30_27,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_11,THUOC,Thuộc,E39_9,E38_1,,
+RELATION,R22_12,THUOC,Thuộc,E39_10,E38_1,,
+RELATION,R22_13,THUOC,Thuộc,E39_11,E38_2,,
+RELATION,R22_14,THUOC,Thuộc,E39_12,E38_2,,

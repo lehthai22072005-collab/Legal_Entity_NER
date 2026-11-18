@@ -1,0 +1,41 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,387,585,"PHÁP LỆNH
+Sửa đổi Điều 22 và Điều 23 của Pháp lệnh
+Ưu đãi người hoạt động cách mạng, liệt sĩ và gia đình liệt sĩ, thương binh, bệnh binh, người
+hoạt động kháng chiến, người có công giúp đỡ cách mạng"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,333,352,01/2002/PL-UBTVQH11
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,387,396,PHÁP LỆNH
+ENTITY,E4_1,NGANH,Ngành,metadata,2566,2598,Lao động - Thương binh và Xã hội
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,361,386,ngày 04 tháng 10 năm 2002
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,2611,2625,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,2321,2346,ngày 01 tháng 01 năm 2003
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,2647,2657,2005-10-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,2681,2701,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,222,247,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,2715,2723,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,2483,2496,Nguyễn Văn An
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,597,655,Hiến pháp nước Cộng hoà xã hội Chủ nghĩa Việt Nam năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,829,1012,"Pháp lệnh ưu đãi người hoạt động cách mạng, liệt sĩ và gia đình liệt sĩ, thương binh, bệnh binh, người hoạt động kháng chiến, người có công giúp đỡ cách mạng ngày 29 tháng 8 năm 1994."
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,597,655,Hiến pháp nước Cộng hoà xã hội Chủ nghĩa Việt Nam năm 1992
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,3175,3487,"Nghị định số 69/2003/NĐ-CP Quy định chi tiết và hướng dẫn thi hành Pháp lệnh số 01/2002/PL-UBTVQH11 ngày 04 tháng 10 năm 2002 sửa đổi Điều 22, Điều 23 của Pháp lệnh Ưu đãi người hoạt động cách mạng, liệt sĩ và gia đình liệt sĩ, thương binh, bệnh binh, người hoạt động kháng chiến, người có công giúp đỡ cách mạng"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,2743,3055,"Nghị định số 69/2003/NĐ-CP Quy định chi tiết và hướng dẫn thi hành Pháp lệnh số 01/2002/PL-UBTVQH11 ngày 04 tháng 10 năm 2002 sửa đổi Điều 22, Điều 23 của Pháp lệnh Ưu đãi người hoạt động cách mạng, liệt sĩ và gia đình liệt sĩ, thương binh, bệnh binh, người hoạt động kháng chiến, người có công giúp đỡ cách mạng"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,3075,3153,Nghị quyết số 80/2012/NQ-HĐND Về việc quy định thu phí tham quan Bảo tàng tỉnh
+ENTITY,E38_1,DIEU,Điều,structure,1013,1219,"Điều 1. Sửa đổi, bổ sung Điều 22 và Điều 23 của Pháp lệnh ưu đãi người hoạt động cách mạng, liệt sĩ và gia đình liệt sĩ, thương binh, bệnh binh, người hoạt động kháng chiến, người có công giúp đỡ cách mạng:"
+ENTITY,E38_2,DIEU,Điều,structure,2281,2347,Điều 2. Pháp lệnh này có hiệu lực kể từ ngày 01 tháng 01 năm 2003.
+ENTITY,E38_3,DIEU,Điều,structure,2408,2482,Điều 3. Chính phủ quy định chi tiết và hướng dẫn thi hành Pháp lệnh này./.
+ENTITY,E39_1,KHOAN,Khoản,structure,1220,1261,"1. Điều 22 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,1704,1745,"2. Điều 23 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,1756,1950,"1. Người có công giúp đỡ cách mạng được Nhà nước tặng Kỷ niệm chương ""Tổ quốc ghi công"" hoặc Bằng ""Có công với nước"" được hưởng trợ cấp hàng tháng và chế độ ưu đãi như đối với thân nhân liệt sĩ."
+ENTITY,E39_4,KHOAN,Khoản,structure,1951,2109,2. Người có công giúp đỡ cách mạng được Nhà nước tặng Huân chương kháng chiến được hưởng trợ cấp hàng tháng và chế độ ưu đãi khác theo quy định của Chính phủ.
+ENTITY,E39_5,KHOAN,Khoản,structure,2110,2280,"3. Người có công giúp đỡ cách mạng được Nhà nước tặng Huy chương kháng chiến được hưởng trợ cấp một lần. Mức trợ cấp và thời hạn trả trợ cấp theo quy định của Chính phủ."""
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_1,,

@@ -1,0 +1,133 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,229,301,"PHÁP LỆNH
+Sửa đổi, bổ sung một số điều của Pháp lệnh Thi hành án phạt tù"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,186,202,01/2007/UBTVQH12
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,229,238,PHÁP LỆNH
+ENTITY,E4_1,NGANH,Ngành,metadata,1184,1191,Công an
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,203,228,Ngày 19 tháng 10 năm 2007
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,11563,11577,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,11270,11295,ngày 01 tháng 01 năm 2008
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,11599,11609,2011-07-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,11633,11653,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,93,118,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,11465,11473,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,11482,11498,Nguyễn Phú Trọng
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,511,550,Bộ luật tố tụng hình sự số 19/2003/QH11
+ENTITY,E14_2,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,12367,12398,Bộ luật Hình sự số 15/1999/QH10
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,731,761,Pháp lệnh thi hành án phạt tù.
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,559,651,"Nghị quyết số 04/2007/QH12 về việc điều chỉnh Chương trình xây dựng luật, pháp lệnh năm 2007"
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,511,550,Bộ luật tố tụng hình sự số 19/2003/QH11
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,335,393,Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E19_4,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,12418,12449,Bộ luật Hình sự số 15/1999/QH10
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,12197,12251,Nghị định số 113/2008/NĐ-CP Ban hành quy chế Trại giam
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,559,651,"Nghị quyết số 04/2007/QH12 về việc điều chỉnh Chương trình xây dựng luật, pháp lệnh năm 2007"
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12100,12147,Lệnh số 10/2007/L-CTN Về việc công bố Pháp lệnh
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,11673,11828,"Thông tư liên tịch số 04/2010/TTLT-BTC-BCA-BQP Hướng dẫn thực hiện chế độ lao động và sử dụng kết quả lao động, dạy nghề của phạm nhân trong các trại giam."
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,11848,12004,"Thông tư liên tịch số 04/2010 /TTLT-BTC-BCA-BQP Hướng dẫn thực hiện chế độ lao động và sử dụng kết quả lao động, dạy nghề của phạm nhân trong các trại giam."
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,12024,12078,Nghị định số 113/2008/NĐ-CP Ban hành quy chế Trại giam
+ENTITY,E38_1,DIEU,Điều,structure,762,768,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,3916,3922,Điều 2
+ENTITY,E39_1,KHOAN,Khoản,structure,818,858,"1. Điều 1 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,1133,1160,2. Bổ sung Điều 1a như sau:
+ENTITY,E39_3,KHOAN,Khoản,structure,1856,1897,"3. Điều 10 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,2311,2352,"4. Điều 11 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,2363,2469,"1. Căn cứ tính chất tội phạm, mức án của người chấp hành hình phạt tù, trại giam tổ chức giam giữ như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,2655,2737,"2. Người chấp hành hình phạt tù là nữ, người chưa thành niên được giam giữ riêng."""
+ENTITY,E39_7,KHOAN,Khoản,structure,2738,2767,5. Bãi bỏ Điều 12 và Điều 13.
+ENTITY,E39_8,KHOAN,Khoản,structure,2768,2809,"6. Điều 15 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_9,KHOAN,Khoản,structure,2820,2918,1. Khi đưa người bị kết án tù vào trại giam để chấp hành hình phạt phải có đủ các giấy tờ sau đây:
+ENTITY,E39_10,KHOAN,Khoản,structure,3318,3773,"2. Trong thời hạn 7 ngày, kể từ ngày tiếp nhận người bị kết án tù vào trại giam, Giám thị trại giam phải thông báo bằng văn bản cho Toà án đã ra quyết định thi hành án, cơ quan quản lý trại giam và thân nhân người bị kết án. Trường hợp người bị kết án tù là người nước ngoài thì Giám thị trại giam phải gửi thông báo bằng văn bản cho cơ quan lãnh sự của Bộ Ngoại giao Việt Nam để thông báo cho cơ quan đại diện của nước mà người bị kết án mang quốc tịch."""
+ENTITY,E39_11,KHOAN,Khoản,structure,3774,3815,"7. Điều 17 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_12,KHOAN,Khoản,structure,3826,4136,"1. Việc hoãn chấp hành hình phạt tù phải theo quy định tại Điều 61 của Bộ luật hình sự và Điều 261 của Bộ luật tố tụng hình sự. Chánh án Toà án đã cho hoãn chấp hành hình phạt tù phải ra quyết định thi hành án để khi hết thời hạn được hoãn, người bị kết án tù phải vào ngay trại giam để chấp hành hình phạt tù."
+ENTITY,E39_13,KHOAN,Khoản,structure,4295,4677,"2. Việc tạm đình chỉ chấp hành hình phạt tù phải theo quy định tại Điều 62 của Bộ luật hình sự và Điều 262 của Bộ luật tố tụng hình sự. Chánh án Toà án đã cho tạm đình chỉ chấp hành hình phạt tù phải ra quyết định thi hành án đối với phần hình phạt còn lại để khi hết thời hạn, người được tạm đình chỉ chấp hành hình phạt phải vào ngay trại giam để tiếp tục chấp hành hình phạt tù."""
+ENTITY,E39_14,KHOAN,Khoản,structure,4678,4719,"8. Điều 18 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_15,KHOAN,Khoản,structure,4730,5306,"1. Khi người bị kết án tù đã chấp hành xong hình phạt thì đúng ngày đó, Giám thị trại giam phải trả tự do cho họ, cấp giấy chứng nhận đã chấp hành xong hình phạt tù và giới thiệu họ về Uỷ ban nhân dân xã, phường, thị trấn nơi họ cư trú hoặc cơ quan, tổ chức nơi họ làm việc; đồng thời phải báo cáo bằng văn bản cho cơ quan quản lý trại giam và thông báo cho Tòa án đã ra quyết định thi hành án, cơ quan thi hành án dân sự nơi người đó cư trú hoặc làm việc trong trường hợp người đó phải chấp hành hình phạt tiền, nghĩa vụ dân sự trong bản án, quyết định của Tòa án về hình sự."
+ENTITY,E39_16,KHOAN,Khoản,structure,5307,5465,"2. Người nước ngoài đã chấp hành xong hình phạt tù được lưu trú tại cơ sở lưu trú do Bộ Công an, Bộ Quốc phòng quản lý trong thời gian làm thủ tục xuất cảnh."""
+ENTITY,E39_17,KHOAN,Khoản,structure,5466,5507,"9. Điều 20 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_18,KHOAN,Khoản,structure,5518,5836,"1. Người chấp hành hình phạt tù được Nhà nước bảo đảm tiêu chuẩn ăn. Căn cứ yêu cầu bảo đảm sức khỏe của người chấp hành hình phạt tù trong quá trình giam giữ, lao động, học tập tại trại giam, Chính phủ quy định cụ thể định mức ăn hàng tháng phù hợp với điều kiện kinh tế, ngân sách và biến động của giá cả thị trường."
+ENTITY,E39_19,KHOAN,Khoản,structure,5837,5944,"2. Người chấp hành hình phạt tù được ở theo buồng giam tập thể; chỗ nằm tối thiểu của mỗi người là 2 (m2)."""
+ENTITY,E39_20,KHOAN,Khoản,structure,5945,5987,"10. Điều 21 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_21,KHOAN,Khoản,structure,5998,6291,"1. Định kỳ, người chấp hành hình phạt tù được Nhà nước cấp phát quần, áo, chăn, chiếu, màn, các đồ dùng thiết yếu khác và quần, áo, phương tiện bảo hộ lao động căn cứ vào giới tính, điều kiện khí hậu và tính chất công việc mà họ phải làm. Chế độ cấp phát và mẫu quần, áo do Chính phủ quy định."
+ENTITY,E39_22,KHOAN,Khoản,structure,6292,6473,"2. Người đã chấp hành xong hình phạt tù được trả lại đầy đủ tiền và tài sản khác mà họ ký gửi ở trại giam; được cấp tiền tàu xe, tiền ăn trên đường về nơi cư trú hoặc nơi làm việc."""
+ENTITY,E39_23,KHOAN,Khoản,structure,6474,6516,"11. Điều 22 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_24,KHOAN,Khoản,structure,6527,6886,"1. Ngoài thời gian học tập, học nghề, người chấp hành hình phạt tù phải lao động và được nghỉ các ngày lễ, tết, thứ bảy, chủ nhật theo quy định của pháp luật. Mọi khoản thu, chi từ hoạt động lao động, dạy nghề của người chấp hành hình phạt tù phải được thể hiện qua hệ thống tài vụ - kế toán của trại giam theo chế độ kế toán, thống kê hiện hành của Nhà nước."
+ENTITY,E39_25,KHOAN,Khoản,structure,6887,6988,2. Kết quả lao động của người chấp hành hình phạt tù sau khi trừ chi phí hợp lý được sử dụng như sau:
+ENTITY,E39_26,KHOAN,Khoản,structure,7389,7431,"12. Điều 25 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_27,KHOAN,Khoản,structure,7634,7676,"13. Điều 27 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_28,KHOAN,Khoản,structure,7687,8000,"1. Người chấp hành hình phạt tù được hưởng chế độ phòng, chống dịch bệnh, khám và chữa bệnh ở bệnh xá của trại giam. Trường hợp mắc bệnh nặng phải điều trị tại cơ sở chữa bệnh khác của Nhà nước thì Giám thị trại giam thông báo cho thân nhân hoặc đại diện hợp pháp của người đó biết để phối hợp chăm sóc, điều trị."
+ENTITY,E39_29,KHOAN,Khoản,structure,8726,9003,"2. Bộ Y tế phối hợp với Bộ Công an, Bộ Quốc phòng và Bộ Tài chính tổ chức việc phòng, chống dịch bệnh, khám và chữa bệnh cho người đang chấp hành hình phạt tù; tổ chức các cơ sở chuyên khoa y tế để bắt buộc chữa bệnh đối với người đang chấp hành hình phạt tù mắc bệnh tâm thần."
+ENTITY,E39_30,KHOAN,Khoản,structure,9124,9166,"14. Điều 28 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_31,KHOAN,Khoản,structure,9177,9797,"1. Khi người đang chấp hành hình phạt tù chết trong trại giam, Giám thị trại giam có trách nhiệm báo ngay cho Cơ quan điều tra, Viện kiểm sát nhân dân và cơ quan y tế cấp huyện hoặc Cơ quan điều tra, Viện kiểm sát quân sự quân khu và bệnh viện quân khu nơi có trại giam đến xác định nguyên nhân chết và lập biên bản, có chứng kiến của đại diện những người đang chấp hành hình phạt tù và làm thủ tục khai tử với chính quyền địa phương. Trường hợp người đang chấp hành hình phạt tù chết khi đang điều trị tại các cơ sở chữa bệnh của Nhà nước thì cơ sở chữa bệnh có trách nhiệm thông báo và gửi giấy chứng tử cho trại giam."
+ENTITY,E39_32,KHOAN,Khoản,structure,10558,10809,"2. Trong trường hợp thân nhân hoặc đại diện hợp pháp của người chết có đơn đề nghị được nhận thi thể để tự an táng thì Giám thị trại giam có thể xem xét, quyết định cho nhận thi thể, trừ trường hợp ảnh hưởng đến an ninh, trật tự và vệ sinh môi trường."
+ENTITY,E39_33,KHOAN,Khoản,structure,10810,10950,"3. Người đang chấp hành hình phạt tù chết hoặc bị thương tật do tai nạn lao động thì được hưởng chế độ trợ cấp theo quy định của Chính phủ."""
+ENTITY,E39_34,KHOAN,Khoản,structure,11025,11106,"1. Cụm từ ""Bộ Nội vụ"" tại các điều 5, 9 và 23 được thay bằng cụm từ ""Bộ Công an""."
+ENTITY,E40_1,DIEM,Điểm,structure,2470,2590,"a) Khu giam giữ đối với người bị kết án tù trên 15 năm, tù chung thân, người bị kết án tù thuộc loại tái phạm nguy hiểm;"
+ENTITY,E40_2,DIEM,Điểm,structure,2591,2654,b) Khu giam giữ đối với người bị kết án tù từ 15 năm trở xuống.
+ENTITY,E40_3,DIEM,Điểm,structure,2919,3047,"a) Bản sao bản án đã có hiệu lực pháp luật; trường hợp xét xử phúc thẩm, giám đốc thẩm, tái thẩm thì có bản án sơ thẩm kèm theo;"
+ENTITY,E40_4,DIEM,Điểm,structure,3048,3074,b) Quyết định thi hành án;
+ENTITY,E40_5,DIEM,Điểm,structure,3075,3128,c) Danh bản xác định căn cước của người bị kết án tù;
+ENTITY,E40_6,DIEM,Điểm,structure,3129,3235,d) Bản sao hộ chiếu hoặc giấy tờ khác chứng minh quốc tịch đối với người bị kết án tù là người nước ngoài;
+ENTITY,E40_7,DIEM,Điểm,structure,3236,3317,đ) Quyết định của cơ quan quản lý trại giam đưa người bị kết án tù vào trại giam.
+ENTITY,E40_8,DIEM,Điểm,structure,6989,7044,a) Chi bổ sung mức ăn cho người chấp hành hình phạt tù;
+ENTITY,E40_9,DIEM,Điểm,structure,7045,7087,b) Bổ sung vào Quỹ phúc lợi của trại giam;
+ENTITY,E40_10,DIEM,Điểm,structure,7088,7199,"c) Thưởng cho người chấp hành hình phạt tù có kết quả lao động vượt chỉ tiêu kế hoạch, tăng năng suất lao động;"
+ENTITY,E40_11,DIEM,Điểm,structure,7200,7388,"d) Đầu tư trở lại cho trại giam, mua sắm trang thiết bị, phương tiện, công cụ lao động và xây dựng cơ sở vật chất phục vụ việc tổ chức lao động, dạy nghề cho người chấp hành hình phạt tù."""
+ENTITY,E42_1,VB_THAY_THE,Văn bản thay thế,reference,12272,12312,Luật Thi hành án hình sự số 53/2010/QH12
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R2_2,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_2,E2_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_4,E2_1,,
+RELATION,R7_4,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E42_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E40_1,E39_5,,
+RELATION,R22_7,THUOC,Thuộc,E40_2,E39_5,,
+RELATION,R22_8,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_11,THUOC,Thuộc,E39_9,E38_1,,
+RELATION,R22_12,THUOC,Thuộc,E40_3,E39_9,,
+RELATION,R22_13,THUOC,Thuộc,E40_4,E39_9,,
+RELATION,R22_14,THUOC,Thuộc,E40_5,E39_9,,
+RELATION,R22_15,THUOC,Thuộc,E40_6,E39_9,,
+RELATION,R22_16,THUOC,Thuộc,E40_7,E39_9,,
+RELATION,R22_17,THUOC,Thuộc,E39_10,E38_1,,
+RELATION,R22_18,THUOC,Thuộc,E39_11,E38_1,,
+RELATION,R22_19,THUOC,Thuộc,E39_12,E38_1,,
+RELATION,R22_20,THUOC,Thuộc,E39_13,E38_2,,
+RELATION,R22_21,THUOC,Thuộc,E39_14,E38_2,,
+RELATION,R22_22,THUOC,Thuộc,E39_15,E38_2,,
+RELATION,R22_23,THUOC,Thuộc,E39_16,E38_2,,
+RELATION,R22_24,THUOC,Thuộc,E39_17,E38_2,,
+RELATION,R22_25,THUOC,Thuộc,E39_18,E38_2,,
+RELATION,R22_26,THUOC,Thuộc,E39_19,E38_2,,
+RELATION,R22_27,THUOC,Thuộc,E39_20,E38_2,,
+RELATION,R22_28,THUOC,Thuộc,E39_21,E38_2,,
+RELATION,R22_29,THUOC,Thuộc,E39_22,E38_2,,
+RELATION,R22_30,THUOC,Thuộc,E39_23,E38_2,,
+RELATION,R22_31,THUOC,Thuộc,E39_24,E38_2,,
+RELATION,R22_32,THUOC,Thuộc,E39_25,E38_2,,
+RELATION,R22_33,THUOC,Thuộc,E40_8,E39_25,,
+RELATION,R22_34,THUOC,Thuộc,E40_9,E39_25,,
+RELATION,R22_35,THUOC,Thuộc,E40_10,E39_25,,
+RELATION,R22_36,THUOC,Thuộc,E40_11,E39_25,,
+RELATION,R22_37,THUOC,Thuộc,E39_26,E38_2,,
+RELATION,R22_38,THUOC,Thuộc,E39_27,E38_2,,
+RELATION,R22_39,THUOC,Thuộc,E39_28,E38_2,,
+RELATION,R22_40,THUOC,Thuộc,E39_29,E38_2,,
+RELATION,R22_41,THUOC,Thuộc,E39_30,E38_2,,
+RELATION,R22_42,THUOC,Thuộc,E39_31,E38_2,,
+RELATION,R22_43,THUOC,Thuộc,E39_32,E38_2,,
+RELATION,R22_44,THUOC,Thuộc,E39_33,E38_2,,
+RELATION,R22_45,THUOC,Thuộc,E39_34,E38_2,,

@@ -1,0 +1,377 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,40,Luật Tổ chức Tòa án nhân dân số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,32,40,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,19915,19939,ngày 6 tháng 10 năm 1992
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,20005,20019,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,20040,20050,1992-10-06
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,20072,20082,2002-04-12
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,20106,20126,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,1358,1366,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,20140,20157,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,20170,20183,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,20276,20294,Hiến pháp năm 1992
+ENTITY,E16_1,VB_BI_TAC_DONG_HIEU_LUC_TOAN_BO,Văn bản bị tác động hiệu lực toàn bộ,reference,20335,20397,"Luật Sửa đổi, bổ sung Luật Tổ chức Tòa án nhân dân số Không số"
+ENTITY,E16_2,VB_BI_TAC_DONG_HIEU_LUC_TOAN_BO,Văn bản bị tác động hiệu lực toàn bộ,reference,20438,20481,Luật Tổ chức Tòa án nhân dân số 3-LCT/HĐNN7
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,20203,20221,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,20789,20971,"Quyết định số 141/QĐ-QLTA-THA Ban hành Quy định về phân cấp quản lý về mặt tổ chức các Toà án nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh và Phòng thi hành án, Đội thi hành án"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,21021,21252,"Quyết định số 142/QĐ-QLTA Ban hành Quy định về việc uỷ quyền cho Chánh án Toà án nhân dân tỉnh, thành phố trực thuộc Trung ương thực hiện công tác quản lý về mặt tổ chức đối với Toà án nhân dân tỉnh, thành phố trực thuộc Trung ương"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,20532,20610,"Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức Tòa án nhân dân số Không số"
+ENTITY,E25_2,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,20661,20739,"Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức Tòa án nhân dân số Không số"
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,23653,23697,Luật Tổ chức Tòa án nhân dân số 33/2002/QH10
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,21274,21395,"Chỉ thị số 15/2002/CT.UB ""Về việc tổ chức thực hiện một số nhiệm vụ trọng tâm trong công tác Tư Pháp trong thời gian tới"""
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,21415,21505,Nghị quyết số 01/2014/NQ-HĐTP Hướng dẫn thi hành một số quy định Luật trọng tài thương mại
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,21525,21634,Nghị quyết số 01/2000/NQ-HĐTP Hướng dẫn áp dụng một số quy định trong phần chung của Bộ luật Hình sự năm 1999
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,21654,21752,Quyết định số 81/KT-CTN Về việc tặng thưởng Huân chương Sao Vàng cho đồng chí Khăm-tày Xi-phan-đon
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,21772,22003,"Quyết định số 142/QĐ-QLTA Ban hành Quy định về việc uỷ quyền cho Chánh án Toà án nhân dân tỉnh, thành phố trực thuộc Trung ương thực hiện công tác quản lý về mặt tổ chức đối với Toà án nhân dân tỉnh, thành phố trực thuộc Trung ương"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,22023,22242,"Nghị quyết số 217/NQ-UBTVQH9 Về số lượng thẩm phán và hội thẩm nhân dân của các toà án nhân dân địa phương; số lượng thẩm phán và hội thẩm quân nhân của các toà án quân sự quân khu và tương đương, toà án quân sự khu vực"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,22262,22306,Pháp lệnh số Không số Tổ chức Toà án quân sự
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,22326,22428,Quyết định số 173-TTg Về việc giao cho Bộ Tư pháp quản lý ngân sách của các Toà án nhân dân địa phương
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,22448,22521,Quyết định số 48/QĐ-CT Về việc bổ nhiệm Thẩm phán Toà án nhân dân tối cao
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,22541,22603,Pháp lệnh số Không số Về Thẩm phán và Hội thẩm Toà án nhân dân
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,22623,22805,"Quyết định số 141/QĐ-QLTA-THA Ban hành Quy định về phân cấp quản lý về mặt tổ chức các Toà án nhân dân quận, huyện, thị xã, thành phố thuộc tỉnh và Phòng thi hành án, Đội thi hành án"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,22825,22957,"Nghị quyết số 01/2001/NQ-HĐTP Hướng dẫn áp dụng một số quy định của các điều 139, 193, 194, 278, 279 và 289 Bộ luật Hình sự năm 1999"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,22977,23135,"Nghị quyết số 03/2000/NQ-HĐND Về việc phê chuẩn quy chế quản lý và hoạt động của Hội thẩm 
+Tòa án nhân dân tỉnh và các huyện, thị xã trên địa bàn tỉnh Lào Cai"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,23155,23243,"Nghị quyết số 36/NQ-HĐND V/v gia hạn nhiệm kỳ Hội thẩm nhân dân –  
+Toà án Nhân dân tỉnh"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,23263,23457,Nghị quyết số 02/2000/NQ-HĐTP Của Hội đồng Thẩm phán Toà án nhân dân tối cao số 02/2000/NĐ-HĐTP ngày 23 tháng 12 năm 2000 hướng dẫn áp dụng một số quy định của Luật Hôn nhân và Gia đình năm 2000
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,23477,23603,Quyết định số 426/QĐ Về quy chế làm việc của tập thể Thẩm phán phụ trách việc giải quyết yêu cầu tuyên bố phá sản doanh nghiệp
+ENTITY,E35_1,CHUONG,Chương,structure,212,220,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,5046,5055,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,10690,10700,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,14261,14270,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,15077,15085,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,18607,18616,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,19613,19623,CHƯƠNG VII
+ENTITY,E38_1,DIEU,Điều,structure,242,1049,"Điều 1
+Toà án nhân dân tối cao, các Toà án nhân dân địa phương, các Toà án quân sự và các Toà án khác do Luật định là các cơ quan xét xử của nước Cộng hoà xã hội chủ nghĩa Việt Nam.
+Các Toà án xét xử những vụ án hình sự, dân sự, hôn nhân và gia đình, lao động và những vụ án khác theo quy định của pháp luật.
+Trong phạm vi chức năng của mình, Toà án có nhiệm vụ bảo vệ pháp chế xã hội chủ nghĩa; bảo vệ chế độ xã hội chủ nghĩa và quyền làm chủ của nhân dân; bảo vệ tài sản của Nhà nước, của tập thể; bảo vệ tính mạng, tài sản, tự do, danh dự và nhân phẩm của công dân.
+Bằng hoạt động của mình, Toà án góp phần giáo dục công dân trung thành với Tổ quốc, chấp hành nghiêm chỉnh pháp luật, tôn trọng những quy tắc của cuộc sống xã hội, ý thức đấu tranh chống và phòng ngừa tội phạm, các vi phạm pháp luật khác."
+ENTITY,E38_2,DIEU,Điều,structure,1050,1056,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1622,1861,"Điều 3
+Chế độ bổ nhiệm Thẩm phán được thực hiện đối với các Toà án các cấp.
+Chế độ cử Hội thẩm được thực hiện đối với Toà án nhân dân tối cao và các Toà án quân sự. Chế độ bầu Hội thẩm được thực hiện đối với các Toà án nhân dân địa phương."
+ENTITY,E38_4,DIEU,Điều,structure,1862,2082,"Điều 4
+Việc xét xử của Toà án nhân dân có Hội thẩm nhân dân tham gia, việc xét xử của các Toà án quân sự có Hội thẩm quân nhân tham gia theo quy định của pháp luật tố tụng. Khi xét xử, Hội thẩm ngang quyền với Thẩm phán."
+ENTITY,E38_5,DIEU,Điều,structure,2083,2159,"Điều 5
+Khi xét xử, Thẩm phán và Hội thẩm độc lập và chỉ tuân theo pháp luật."
+ENTITY,E38_6,DIEU,Điều,structure,2160,2289,"Điều 6
+Toà án xét xử tập thể và quyết định theo đa số.
+Thành phần Hội đồng xét xử ở mỗi cấp xét xử do pháp luật tố tụng quy định."
+ENTITY,E38_7,DIEU,Điều,structure,2290,2415,"Điều 7
+Toà án xét xử công khai, trừ trường hợp cần xét xử kín để giữ gìn bí mật Nhà nước hoặc thuần phong mỹ tục của dân tộc."
+ENTITY,E38_8,DIEU,Điều,structure,2416,2586,"Điều 8
+Toà án xét xử theo nguyên tắc mọi công dân đều bình đẳng trước pháp luật, không phân biệt nam, nữ, dân tộc, tín ngưỡng, tôn giáo, thành phần xã hội, địa vị xã hội."
+ENTITY,E38_9,DIEU,Điều,structure,2587,2688,"Điều 9
+Toà án bảo đảm quyền bào chữa của bị cáo, quyền bảo vệ quyền và lợi ích hợp pháp của đương sự."
+ENTITY,E38_10,DIEU,Điều,structure,2689,2806,"Điều 10
+Toà án bảo đảm cho những người tham gia tố tụng quyền dùng tiếng nói, chữ viết của dân tộc mình trước Toà án."
+ENTITY,E38_11,DIEU,Điều,structure,2807,3307,"Điều 11
+Bản án, quyết định của Toà án đã có hiệu lực pháp luật phải được các cơ quan Nhà nước, đơn vị vũ trang, tổ chức kinh tế, tổ chức xã hội và mọi người tôn trọng.
+Cá nhân, cơ quan, tổ chức có nghĩa vụ chấp hành bản án, quyết định của Toà án phải nghiêm chỉnh chấp hành.
+Trong phạm vi chức năng của mình, Toà án nhân dân và các cơ quan, tổ chức được giao nhiệm vụ thi hành bản án, quyết định của Toà án phải nghiêm chỉnh thi hành và chịu trách nhiệm trước pháp luật về việc thực hiện nhiệm vụ đó."
+ENTITY,E38_12,DIEU,Điều,structure,3308,3727,"Điều 12
+Trong trường hợp cần thiết, cùng với việc ra bản án, quyết định, Toà án ra kiến nghị yêu cầu cơ quan, tổ chức hữu quan áp dụng biện pháp khắc phục nguyên nhân, điều kiện phát sinh tội phạm hoặc vi phạm pháp luật tại cơ quan, tổ chức đó. Cơ quan, tổ chức nhận được kiến nghị, có trách nhiệm nghiên cứu thực hiện và trong thời hạn ba mươi ngày, kể từ ngày nhận được kiến nghị phải thông báo cho Toà án về việc đó."
+ENTITY,E38_13,DIEU,Điều,structure,3728,4000,"Điều 13
+Toà án phối hợp với cơ quan Nhà nước, Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, đơn vị vũ trang, tổ chức kinh tế trong việc phát huy tác dụng giáo dục của phiên toà và tạo điều kiện thuận lợi cho việc thi hành bản án, quyết định của Toà án."
+ENTITY,E38_14,DIEU,Điều,structure,4001,4283,"Điều 14
+Toà án cùng với Viện kiểm sát, các cơ quan Công an, Thanh tra, Tư pháp, cơ quan hữu quan khác, Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận nghiên cứu và thực hiện những chủ trương, biện pháp nhằm phòng ngừa và chống tội phạm, các vi phạm pháp luật khác."
+ENTITY,E38_15,DIEU,Điều,structure,4284,4699,"Điều 15
+Chánh án Toà án nhân dân tối cao chịu trách nhiệm và báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp thì chịu trách nhiệm và báo cáo công tác trước Uỷ ban thường vụ Quốc hội và Chủ tịch nước; trả lời chất vấn của đại biểu Quốc hội.
+Chánh án Toà án nhân dân địa phương chịu trách nhiệm và báo cáo công tác trước Hội đồng nhân dân cùng cấp; trả lời chất vấn của đại biểu Hội đồng nhân dân."
+ENTITY,E38_16,DIEU,Điều,structure,4700,5046,"Điều 16
+Việc quản lý các Toà án nhân dân địa phương về mặt tổ chức do Bộ trưởng Bộ Tư pháp đảm nhiệm có sự phối hợp chặt chẽ với Chánh án Toà án nhân dân tối cao. Quy chế phối hợp giữa Bộ trưởng Bộ tư pháp và Chánh án Toà án nhân dân tối cao trong việc quản lý các Toà án nhân dân địa phương về mặt tổ chức do Uỷ ban thường vụ Quốc hội quy định.
+"
+ENTITY,E38_17,DIEU,Điều,structure,5080,5087,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,5685,6132,"Điều 18
+Toà án nhân dân tối cao hướng dẫn các Toà án áp dụng thống nhất pháp luật, tổng kết kinh nghiệm xét xử của các Toà án;
+Toà án nhân dân tối cao giám đốc việc xét xử của các Toà án các cấp; giám đốc việc xét xử của Toà án đặc biệt và các Toà án khác, trừ trường hợp có quy định khác khi thành lập các Toà án đó;
+Toà án nhân dân tối cao trình Quốc hội dự án Luật và trình Uỷ ban thường vụ Quốc hội dự án pháp lệnh theo quy định của pháp luật."
+ENTITY,E38_19,DIEU,Điều,structure,6133,6179,"Điều 19
+Toà án nhân dân tối cao có thẩm quyền:"
+ENTITY,E38_20,DIEU,Điều,structure,6536,6543,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,7045,7052,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,7818,7825,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,8657,8664,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,9074,9081,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,9366,9438,"Điều 25
+Chánh án Toà án nhân dân tối cao có nhiệm vụ, quyền hạn sau đây:"
+ENTITY,E38_26,DIEU,Điều,structure,10439,10517,"Điều 26
+Phó Chánh án Toà án nhân dân tối cao có nhiệm vụ và quyền hạn sau đây:"
+ENTITY,E38_27,DIEU,Điều,structure,10792,10799,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,11081,11157,"Điều 28
+Toà án nhân dân tỉnh, thành phố trực thuộc trung ương có thẩm quyền:"
+ENTITY,E38_29,DIEU,Điều,structure,11467,11474,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,12377,12384,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,12820,12827,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,13655,13662,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,13945,13952,Điều 33
+ENTITY,E38_34,DIEU,Điều,structure,14286,14293,Điều 34
+ENTITY,E38_35,DIEU,Điều,structure,14726,14733,Điều 35
+ENTITY,E38_36,DIEU,Điều,structure,14986,15077,"Điều 36
+Tổ chức và hoạt động của các Toà án quân sự do Uỷ ban thường vụ Quốc hội quy định.
+"
+ENTITY,E38_37,DIEU,Điều,structure,15108,15656,"Điều 37
+Công dân Việt Nam trung thành với Tổ quốc, có phẩm chất, đạo đức tốt, có kiến thức pháp lý, có tinh thần kiên quyết bảo vệ pháp chế xã hội chủ nghĩa thì có thể được tuyển chọn và bổ nhiệm làm Thẩm phán, được bầu hoặc cử làm Hội thẩm.
+Tiêu chuẩn cụ thể của Thẩm phán, Hội thẩm của Toà án mỗi cấp, thủ tục tuyển chọn, bổ nhiệm, miễn nhiệm, cách chức Thẩm phán, bầu hoặc cử, miễn nhiệm, bãi nhiệm Hội thẩm, tổ chức và hoạt động của Hội đồng tuyển chọn Thẩm phán, quyền và nghĩa vụ của Thẩm phán, Hội thẩm do Uỷ ban thường vụ Quốc hội quy định."
+ENTITY,E38_38,DIEU,Điều,structure,15657,16253,"Điều 38
+Chánh án Toà án nhân dân tối cao do Quốc hội bầu, miễn nhiệm và bãi nhiệm theo đề nghị của Chủ tịch nước.
+Nhiệm kỳ của Chánh án Toà án nhân dân tối cao theo nhiệm kỳ của Quốc hội.
+Phó Chánh án và Thẩm phán Toà án nhân dân tối cao, Chánh án, Phó Chánh án, Thẩm phán Toà án nhân dân tỉnh, thành phố trực thuộc trung ương, huyện, quận, thị xã, thành phố thuộc tỉnh và các Toà án quân sự do Chủ tịch nước bổ nhiệm, miễn nhiệm, cách chức.
+Nhiệm kỳ của Phó Chánh án và Thẩm phán Toà án nhân dân tối cao, Chánh án, Phó Chánh án và Thẩm phán Toà án nhân dân địa phương, Toà án quân sự là năm năm."
+ENTITY,E38_39,DIEU,Điều,structure,16254,17679,"Điều 39
+Hội thẩm nhân dân Toà án nhân dân tối cao do Uỷ ban thường vụ Quốc hội cử theo sự giới thiệu của Đoàn Chủ tịch Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam và do Uỷ ban thường vụ Quốc hội miễn nhiệm, bãi nhiệm.
+Hội thẩm quân nhân Toà án quân sự Trung ương do Uỷ ban thường vụ Quốc hội cử theo sự giới thiệu của Tổng cục chính trị Quân đội nhân dân Việt Nam và do Uỷ ban thường vụ Quốc hội miễn nhiệm, bãi nhiệm.
+Hội thẩm nhân dân Toà án nhân dân địa phương do Hội đồng nhân dân cùng cấp bầu theo sự giới thiệu của Uỷ ban Mặt trận Tổ quốc cùng cấp và do Hội đồng nhân dân cùng cấp miễn nhiệm, bãi nhiệm.
+Hội thẩm quân nhân Toà án quân sự quân khu và tương đương do Chủ nhiệm Tổng cục chính trị Quân đội nhân dân Việt Nam cử theo sự giới thiệu của cơ quan chính trị quân khu, quân đoàn, quân chủng, tổng cục hoặc cấp tương đương và do Chủ nhiệm Tổng cục chính trị Quân đội nhân dân Việt Nam miễn nhiệm, bãi nhiệm.
+Hội thẩm quân nhân Toà án quân sự khu vực do Chủ nhiệm Chính trị quân khu, quân đoàn, quân chủng, tổng cục hoặc cấp tương đương cử theo sự giới thiệu của cơ quan chính trị sư đoàn hoặc cấp tương đương và do Chủ nhiệm chính trị quân khu, quân đoàn, quân chủng, tổng cục hoặc cấp tương đương, miễn nhiệm, bãi nhiệm.
+Nhiệm kỳ của Hội thẩm nhân dân Toà án nhân dân tối cao và Hội thẩm quân nhân là năm năm.
+Nhiệm kỳ của Hội thẩm nhân dân Toà án nhân dân địa phương theo nhiệm kỳ của Hội đồng nhân dân cùng cấp."
+ENTITY,E38_40,DIEU,Điều,structure,17680,18341,"Điều 40
+Số lượng Thẩm phán và Hội thẩm của Toà án nhân dân tối cao do Uỷ ban thường vụ Quốc hội quyết định theo đề nghị của Chánh án Toà án nhân dân tối cao.
+Số lượng Thẩm phán và Hội thẩm nhân dân của các Toà án nhân dân địa phương do Uỷ ban thường vụ Quốc hội quyết định theo đề nghị của Bộ trưởng Bộ tư pháp sau khi đã thống nhất ý kiến với Chánh án Toà án nhân dân tối cao.
+Số lượng Thẩm phán và Hội thẩm quân nhân của các Toà án quân sự quân khu và tương đương, Toà án quân sự khu vực do Uỷ ban thường vụ Quốc hội quyết định theo đề nghị của Bộ trưởng Bộ tư pháp sau khi đã thống nhất ý kiến với Bộ trưởng Bộ quốc phòng và Chánh án Toà án nhân dân tối cao."
+ENTITY,E38_41,DIEU,Điều,structure,18342,18607,"Điều 41
+Các cơ quan Nhà nước, đơn vị vũ trang, tổ chức kinh tế, tổ chức xã hội có người được bầu hoặc cử làm Hội thẩm có trách nhiệm tạo điều kiện cho Hội thẩm làm nhiệm vụ xét xử.
+Hội thẩm được bồi dưỡng về nghiệp vụ và được hưởng phụ cấp khi làm nhiệm vụ xét xử.
+"
+ENTITY,E38_42,DIEU,Điều,structure,18651,18772,"Điều 42
+Chế độ tiền lương, phụ cấp, giấy chứng minh, trang phục đối với các Toà án do Uỷ ban thường vụ Quốc hội quy định."
+ENTITY,E38_43,DIEU,Điều,structure,18773,19214,"Điều 43
+Biên chế của Toà án nhân dân tối cao do Uỷ ban thường vụ Quốc hội quyết định theo đề nghị của Chánh án Toà án nhân dân tối cao.
+Tổng biên chế của các Toà án nhân dân địa phương do Chính phủ quyết định theo đề nghị của Bộ trưởng Bộ tư pháp sau khi trao đổi thống nhất ý kiến với Chánh án Toà án nhân dân tối cao.
+Bộ trưởng Bộ tư pháp phối hợp với Chánh án Toà án nhân dân tối cao quy định biên chế cho từng Toà án nhân dân địa phương."
+ENTITY,E38_44,DIEU,Điều,structure,19215,19382,"Điều 44
+Kinh phí hoạt động của Toà án nhân dân tối cao, của các Toà án nhân dân địa phương và của các Toà án quân sự do Chính phủ trình dự toán để Quốc hội quyết định."
+ENTITY,E38_45,DIEU,Điều,structure,19383,19613,"Điều 45
+Cơ quan công an có nhiệm vụ áp giải bị cáo và bảo vệ phiên toà của Toà án nhân dân tối cao và Toà án nhân dân địa phương.
+Lực lượng cảnh vệ trong quân đội có nhiệm vụ áp giải bị cáo và bảo vệ phiên toà của Toà án quân sự.
+"
+ENTITY,E38_46,DIEU,Điều,structure,19645,19775,"Điều 46
+Luật này thay thế các luật đã ban hành trước đây về tổ chức Toà án; những quy định trước đây trái với Luật này đều bãi bỏ."
+ENTITY,E39_1,KHOAN,Khoản,structure,1057,1411,"1- Ở nước Cộng hoà xã hội chủ nghĩa Việt Nam có các Toà án sau đây:
+- Toà án nhân dân tối cao;
+- Các Toà án nhân dân tỉnh, thành phố trực thuộc trung ương;
+- Các Toà án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh;
+- Các Toà án quân sự;
+- Các Toà án khác do Luật định.
+Trong tình hình đặc biệt, Quốc hội có thể quyết định thành lập Toà án đặc biệt."
+ENTITY,E39_2,KHOAN,Khoản,structure,1412,1621,"2- ở cơ sở, thành lập các tổ chức thích hợp của nhân dân để giải quyết những việc vi phạm pháp luật và tranh chấp nhỏ trong nhân dân. Tổ chức và hoạt động của tổ chức này do Uỷ ban thường vụ Quốc hội quy định."
+ENTITY,E39_3,KHOAN,Khoản,structure,5088,5186,1- Toà án nhân dân tối cao là cơ quan xét xử cao nhất của nước Cộng hoà xã hội chủ nghĩa Việt Nam.
+ENTITY,E39_4,KHOAN,Khoản,structure,5187,5590,"2- Cơ cấu tổ chức của Toà án nhân dân tối gồm:
+- Hội đồng Thẩm phán Toà án nhân dân tối cao;
+- Uỷ ban Thẩm phán Toà án nhân dân tối cao;
+- Toà án quân sự trung ương, Toà hình sự, Toà dân sự và các Toà phúc thẩm Toà án nhân dân tối cao; trong trường hợp cần thiết, ủy ban thường vụ Quốc hội quyết định thành lập các Toà chuyên trách khác theo đề nghị của Chánh án Toà án nhân tối cao;
+- Bộ máy giúp việc."
+ENTITY,E39_5,KHOAN,Khoản,structure,5591,5684,"3- Toà án nhân dân tối cao có Chánh án, các Phó Chánh án, Thẩm phán, Hội thẩm, Thư ký Toà án."
+ENTITY,E39_6,KHOAN,Khoản,structure,6180,6260,1- Sơ thẩm đồng thời chung thẩm những vụ án theo quy định của pháp luật tố tụng;
+ENTITY,E39_7,KHOAN,Khoản,structure,6261,6398,"2- Phúc thẩm những vụ án mà bản án, quyết định sơ thẩm chưa có hiệu lực pháp luật của Toà án cấp dưới trực tiếp bị kháng cáo, kháng nghị;"
+ENTITY,E39_8,KHOAN,Khoản,structure,6399,6535,"3- Giám đốc thẩm, tái thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị theo quy định của pháp luật tố tụng."
+ENTITY,E39_9,KHOAN,Khoản,structure,6544,6725,"1- Hội đồng Thẩm phán Toà án nhân dân tối cao là cơ quan xét xử cao nhất theo thủ tục giám đốc thẩm, tái thẩm, đồng thời là cơ quan hướng dẫn công tác xét xử của các Toà án các cấp."
+ENTITY,E39_10,KHOAN,Khoản,structure,6726,7044,"2- Hội đồng Thẩm phán Toà án nhân dân tối cao gồm có:
+- Chánh án, các Phó Chánh án Toà án nhân dân tối cao;
+- Các Chánh toà, Phó Chánh toà các Toà chuyên trách của Toà án nhân dân tối cao;
+- Một số Thẩm phán Toà án nhân dân tối cao được Chánh án Toà án nhân dân tối cao cử và trình Uỷ ban thường vụ Quốc hội phê chuẩn."
+ENTITY,E39_11,KHOAN,Khoản,structure,7053,7452,"1- Hội đồng Thẩm phán Toà án nhân dân tối cao có nhiệm vụ, quyền hạn sau đây:
+- Giám đốc thẩm, tái thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật của Uỷ ban Thẩm phán Toà án nhân dân tối cao bị kháng nghị;
+- Hướng dẫn các Toà án áp dụng thống nhất pháp luật;
+- Tổng kết kinh nghiệm xét xử;
+- Chuẩn bị dự án luật để trình Quốc hội, dự án pháp lệnh để trình Uỷ ban thường vụ Quốc hội."
+ENTITY,E39_12,KHOAN,Khoản,structure,7453,7817,"2- Quyết định của Hội đồng Thẩm phán Toà án nhân dân tối cao phải được quá nửa tổng số thành viên Hội đồng Thẩm phán biểu quyết tán thành. Viện trưởng Viện kiểm sát nhân dân tối cao, Bộ trưởng Bộ tư pháp có trách nhiệm tham dự các phiên họp của Hội đồng thẩm phán Toà án nhân dân tối cao khi thảo luận việc hướng dẫn áp dụng pháp luật, tổng kết kinh nghiệm xét xử."
+ENTITY,E39_13,KHOAN,Khoản,structure,7826,7940,1- Uỷ ban Thẩm phán Toà án nhân dân tối cao là tổ chức thường trực của Hội đồng Thẩm phán Toà án nhân dân tối cao.
+ENTITY,E39_14,KHOAN,Khoản,structure,7941,8080,"2- Uỷ ban Thẩm phán Toà án nhân dân tối cao gồm có: Chánh án, các Phó Chánh án, Chánh toà các Toà chuyên trách của Toà án nhân dân tối cao."
+ENTITY,E39_15,KHOAN,Khoản,structure,8081,8538,"3- Uỷ ban Thẩm phán Toà án nhân dân tối cao có nhiệm vụ, quyền hạn sau đây:
+- Giám đốc thẩm, tái thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị theo quy định của pháp luật tố tụng;
+- Hướng dẫn các Toà án thực hiện nghị quyết của Hội đồng Thẩm phán Toà án nhân dân tối cao;
+- Thông qua báo cáo của Chánh án Toà án nhân dân tối cao về công tác xét xử của các Toà án để trình Quốc hội, Uỷ ban thường vụ Quốc hội và Chủ tịch nước."
+ENTITY,E39_16,KHOAN,Khoản,structure,8539,8656,4- Quyết định của Uỷ ban Thẩm phán Toà án nhân dân tối cao phải được quá nửa tổng số thành viên biểu quyết tán thành.
+ENTITY,E39_17,KHOAN,Khoản,structure,8665,8774,"1- Toà hình sự, Toà dân sự Toà án nhân dân tối cao có Chánh toà, các Phó Chánh toà, Thẩm phán, Thư ký Toà án."
+ENTITY,E39_18,KHOAN,Khoản,structure,8775,9073,"2- Toà hình sự, Toà dân sự Toà án nhân dân tối cao có nhiệm vụ, quyền hạn sau đây:
+- Sơ thẩm đồng thời chung thẩm những vụ án theo quy định của pháp luật tố tụng;
+- Giám đốc thẩm, tái thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị theo quy định của pháp luật tố tụng."
+ENTITY,E39_19,KHOAN,Khoản,structure,9082,9185,"1- Các Toà phúc thẩm Toà án nhân dân tối cao có Chánh toà, các Phó Chánh toà, Thẩm phán, Thư ký Toà án."
+ENTITY,E39_20,KHOAN,Khoản,structure,9186,9365,"2- Các Toà phúc thẩm Toà án nhân dân tối cao phúc thẩm những vụ án mà bản án, quyết định sơ thẩm chưa có hiệu lực pháp luật của Toà án cấp dưới trực tiếp bị kháng cáo, kháng nghị."
+ENTITY,E39_21,KHOAN,Khoản,structure,9439,9494,1- Tổ chức công tác xét xử của Toà án nhân dân tối cao;
+ENTITY,E39_22,KHOAN,Khoản,structure,9495,9587,2- Chủ toạ các phiên họp của Hội đồng Thẩm phán và Uỷ ban Thẩm phán Toà án nhân dân tối cao;
+ENTITY,E39_23,KHOAN,Khoản,structure,9588,9742,"3- Kháng nghị theo thủ tục giám đốc thẩm, tái thẩm bản án, quyết định đã có hiệu lực pháp luật của các Toà án các cấp theo quy định của pháp luật tố tụng;"
+ENTITY,E39_24,KHOAN,Khoản,structure,9743,9841,4- Trình Chủ tịch nước ý kiến của mình về những trường hợp người bị kết án xin ân giảm án tử hình;
+ENTITY,E39_25,KHOAN,Khoản,structure,9842,10028,"5- Bổ nhiệm, miễn nhiệm, cách chức Chánh toà, Phó Chánh toà các Toà chuyên trách, Vụ trưởng, Phó Vụ trưởng và các chức vụ khác trong Toà án nhân dân tối cao, trừ Phó Chánh án, Thẩm phán;"
+ENTITY,E39_26,KHOAN,Khoản,structure,10029,10109,"6- Tổ chức bồi dưỡng nghiệp vụ cho Thẩm phán, Hội thẩm và cán bộ của các Toà án;"
+ENTITY,E39_27,KHOAN,Khoản,structure,10110,10211,"7- Báo cáo công tác xét xử của các Toà án trước Quốc hội, Uỷ ban thường vụ Quốc hội và Chủ tịch nước;"
+ENTITY,E39_28,KHOAN,Khoản,structure,10212,10335,"8- Chỉ đạo việc soạn thảo các dự án luật, pháp lệnh do Toà án nhân dân tối cao trình Quốc hội và Uỷ ban thường vụ Quốc hội;"
+ENTITY,E39_29,KHOAN,Khoản,structure,10336,10438,9- Quy định bộ máy giúp việc của Toà án nhân dân tối cao và trình Uỷ ban thường vụ Quốc hội phê chuẩn.
+ENTITY,E39_30,KHOAN,Khoản,structure,10518,10579,1- Giúp Chánh án làm nhiệm vụ theo sự phân công của Chánh án;
+ENTITY,E39_31,KHOAN,Khoản,structure,10580,10690,"2- Kháng nghị theo thủ tục giám đốc thẩm bản án, quyết định đã có hiệu lực pháp luật của các Toà án cấp dưới.
+"
+ENTITY,E39_32,KHOAN,Khoản,structure,10800,10947,"1- Cơ cấu tổ chức của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương gồm:
+- Uỷ ban Thẩm phán;
+- Toà hình sự, Toà dân sự;
+- Bộ máy giúp việc."
+ENTITY,E39_33,KHOAN,Khoản,structure,10948,11080,"2- Toà án nhân dân tỉnh, thành phố trực thuộc trung ương có Chánh án, các Phó Chánh án, Thẩm phán, Hội thẩm nhân dân, Thư ký Toà án."
+ENTITY,E39_34,KHOAN,Khoản,structure,11158,11217,1- Sơ thẩm những vụ án theo quy định của pháp luật tố tụng;
+ENTITY,E39_35,KHOAN,Khoản,structure,11218,11345,"2- Phúc thẩm những vụ án mà bản án, quyết định sơ thẩm chưa có hiệu lực pháp luật của Toà án cấp dưới bị kháng cáo, kháng nghị;"
+ENTITY,E39_36,KHOAN,Khoản,structure,11346,11466,"3- Giám đốc thẩm, tái thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật của Toà án cấp dưới bị kháng nghị."
+ENTITY,E39_37,KHOAN,Khoản,structure,11475,11673,"1- Uỷ ban Thẩm phán Toà án nhân dân tỉnh, thành phố trực thuộc trung ương gồm có Chánh án, các Phó Chánh án, Chánh toà các Toà chuyên trách của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương."
+ENTITY,E39_38,KHOAN,Khoản,structure,11674,12228,"2- Uỷ ban Thẩm phán Toà án nhân dân tỉnh, thành phố trực thuộc trung ương có nhiệm vụ, quyền hạn sau đây:
+- Giám đốc thẩm, tái thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật của Toà án cấp dưới bị kháng nghị;
+- Bảo đảm việc áp dụng thống nhất pháp luật tại Toà án cấp mình và các Toà án cấp dưới;
+- Tổng kết kinh nghiệm xét xử;
+- Thông qua báo cáo của Chánh án Toà án nhân dân tỉnh, thành phố trực thuộc Trung ương về công tác xét xử của các Toà án ở địa phương để báo cáo trước Hội đồng nhân dân cùng cấp và với Toà án nhân dân tối cao."
+ENTITY,E39_39,KHOAN,Khoản,structure,12229,12376,"3- Quyết định của Uỷ ban Thẩm phán Toà án nhân dân tỉnh, thành phố trực thuộc trung ương phải được quá nửa tổng số thành viên biểu quyết tán thành."
+ENTITY,E39_40,KHOAN,Khoản,structure,12385,12525,"1- Các Toà chuyên trách của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương có Chánh toà, Phó Chánh toà, các Thẩm phán, Thư ký Toà án."
+ENTITY,E39_41,KHOAN,Khoản,structure,12526,12819,"2- Các Toà chuyên trách của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương có nhiệm vụ, quyền hạn sau đây:
+- Sơ thẩm những vụ án do pháp luật tố tụng quy định;
+- Phúc thẩm những vụ án mà bản án, quyết định sơ thẩm chưa có hiệu lực pháp luật của Toà án cấp dưới bị kháng cáo, kháng nghị."
+ENTITY,E39_42,KHOAN,Khoản,structure,12828,13515,"1- Chánh án Toà án nhân dân tỉnh, thành phố trực thuộc trung ương có nhiệm vụ, quyền hạn sau đây:
+- Tổ chức công tác xét xử;
+- Chủ toạ các phiên họp của Uỷ ban Thẩm phán;
+- Kháng nghị theo thủ tục giám đốc thẩm, tái thẩm bản án, quyết định đã có hiệu lực pháp luật của các Toà án cấp dưới theo quy định của pháp luật tố tụng;
+- Bổ nhiệm, miễn nhiệm, cách chức Chánh toà, Phó Chánh toà các Toà chuyên trách và các chức vụ khác trong Toà án cấp mình, trừ Phó Chánh án, Thẩm phán;
+- Tổ chức bồi dưỡng nghiệp vụ cho Thẩm phán, Hội thẩm và cán bộ Toà án cấp mình và cấp dưới;
+- Báo cáo công tác xét xử của các Toà án địa phương trước Hội đồng nhân dân cùng cấp và với Toà án nhân dân tối cao."
+ENTITY,E39_43,KHOAN,Khoản,structure,13516,13654,"2- Phó Chánh án giúp Chánh án làm nhiệm vụ theo sự phân công của Chánh án.
+MỤC B
+TOÀ ÁN NHÂN DÂN HUYỆN, QUẬN, THỊ XÃ,
+THÀNH PHỐ THUỘC TỈNH"
+ENTITY,E39_44,KHOAN,Khoản,structure,13663,13812,"1- Toà án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh có Chánh án, một hoặc hai Phó Chánh án, các Thẩm phán, Hội thẩm nhân dân, Thư ký Toà án."
+ENTITY,E39_45,KHOAN,Khoản,structure,13813,13944,"2- Toà án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh có thẩm quyền sơ thẩm những vụ án theo quy định của pháp luật tố tụng."
+ENTITY,E39_46,KHOAN,Khoản,structure,13953,14185,"1- Chánh án Toà án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh có nhiệm vụ, quyền hạn sau đây:
+- Tổ chức công tác xét xử;
+- Báo cáo công tác xét xử của Toà án trước Hội đồng nhân dân cùng cấp và với Toà án cấp trên trực tiếp."
+ENTITY,E39_47,KHOAN,Khoản,structure,14186,14261,"2- Phó Chánh án giúp Chánh án làm nhiệm vụ theo sự phân công của Chánh án.
+"
+ENTITY,E39_48,KHOAN,Khoản,structure,14294,14463,1- Các Toà án quân sự được tổ chức trong Quân đội nhân dân Việt Nam để xét xử những vụ án mà bị cáo là quân nhân tại ngũ và những vụ án khác theo quy định của pháp luật.
+ENTITY,E39_49,KHOAN,Khoản,structure,14464,14598,"2- Các Toà án quân sự gồm có:
+- Toà án quân sự trung ương;
+- Các Toà án quân sự quân khu và tương đương;
+- Các Toà án quân sự khu vực."
+ENTITY,E39_50,KHOAN,Khoản,structure,14599,14725,"3- Quân nhân, công nhân và viên chức quốc phòng làm việc tại Toà án quân sự có các quyền và nghĩa vụ theo chế độ của Quân đội."
+ENTITY,E39_51,KHOAN,Khoản,structure,14734,14832,"1- Các Toà án quân sự có Chánh án, các Phó Chánh án, Thẩm phán, Hội thẩm quân nhân, Thư ký Toà án."
+ENTITY,E39_52,KHOAN,Khoản,structure,14833,14985,"2- Chánh án Toà án quân sự trung ương là Phó Chánh án Toà án nhân dân tối cao, Thẩm phán Toà án quân sự trung ương là Thẩm phán Toà án nhân dân tối cao."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R4_1,BI_TAC_DONG_HIEU_LUC_TOAN_BO,Bị tác động hiệu lực toàn bộ,E2_1,E16_1,,
+RELATION,R4_2,BI_TAC_DONG_HIEU_LUC_TOAN_BO,Bị tác động hiệu lực toàn bộ,E2_1,E16_2,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R13_2,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_2,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_6,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_7,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_10,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_11,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_12,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_13,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,R22_14,THUOC,Thuộc,E38_10,E35_1,,
+RELATION,R22_15,THUOC,Thuộc,E38_11,E35_1,,
+RELATION,R22_16,THUOC,Thuộc,E38_12,E35_1,,
+RELATION,R22_17,THUOC,Thuộc,E38_13,E35_1,,
+RELATION,R22_18,THUOC,Thuộc,E38_14,E35_1,,
+RELATION,R22_19,THUOC,Thuộc,E38_15,E35_1,,
+RELATION,R22_20,THUOC,Thuộc,E38_16,E35_1,,
+RELATION,R22_21,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_22,THUOC,Thuộc,E39_3,E38_17,,
+RELATION,R22_23,THUOC,Thuộc,E39_4,E38_17,,
+RELATION,R22_24,THUOC,Thuộc,E39_5,E38_17,,
+RELATION,R22_25,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,R22_26,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,R22_27,THUOC,Thuộc,E39_6,E38_19,,
+RELATION,R22_28,THUOC,Thuộc,E39_7,E38_19,,
+RELATION,R22_29,THUOC,Thuộc,E39_8,E38_19,,
+RELATION,R22_30,THUOC,Thuộc,E38_20,E35_2,,
+RELATION,R22_31,THUOC,Thuộc,E39_9,E38_20,,
+RELATION,R22_32,THUOC,Thuộc,E39_10,E38_20,,
+RELATION,R22_33,THUOC,Thuộc,E38_21,E35_2,,
+RELATION,R22_34,THUOC,Thuộc,E39_11,E38_21,,
+RELATION,R22_35,THUOC,Thuộc,E39_12,E38_21,,
+RELATION,R22_36,THUOC,Thuộc,E38_22,E35_2,,
+RELATION,R22_37,THUOC,Thuộc,E39_13,E38_22,,
+RELATION,R22_38,THUOC,Thuộc,E39_14,E38_22,,
+RELATION,R22_39,THUOC,Thuộc,E39_15,E38_22,,
+RELATION,R22_40,THUOC,Thuộc,E39_16,E38_22,,
+RELATION,R22_41,THUOC,Thuộc,E38_23,E35_2,,
+RELATION,R22_42,THUOC,Thuộc,E39_17,E38_23,,
+RELATION,R22_43,THUOC,Thuộc,E39_18,E38_23,,
+RELATION,R22_44,THUOC,Thuộc,E38_24,E35_2,,
+RELATION,R22_45,THUOC,Thuộc,E39_19,E38_24,,
+RELATION,R22_46,THUOC,Thuộc,E39_20,E38_24,,
+RELATION,R22_47,THUOC,Thuộc,E38_25,E35_2,,
+RELATION,R22_48,THUOC,Thuộc,E39_21,E38_25,,
+RELATION,R22_49,THUOC,Thuộc,E39_22,E38_25,,
+RELATION,R22_50,THUOC,Thuộc,E39_23,E38_25,,
+RELATION,R22_51,THUOC,Thuộc,E39_24,E38_25,,
+RELATION,R22_52,THUOC,Thuộc,E39_25,E38_25,,
+RELATION,R22_53,THUOC,Thuộc,E39_26,E38_25,,
+RELATION,R22_54,THUOC,Thuộc,E39_27,E38_25,,
+RELATION,R22_55,THUOC,Thuộc,E39_28,E38_25,,
+RELATION,R22_56,THUOC,Thuộc,E39_29,E38_25,,
+RELATION,R22_57,THUOC,Thuộc,E38_26,E35_2,,
+RELATION,R22_58,THUOC,Thuộc,E39_30,E38_26,,
+RELATION,R22_59,THUOC,Thuộc,E39_31,E38_26,,
+RELATION,R22_60,THUOC,Thuộc,E38_27,E35_3,,
+RELATION,R22_61,THUOC,Thuộc,E39_32,E38_27,,
+RELATION,R22_62,THUOC,Thuộc,E39_33,E38_27,,
+RELATION,R22_63,THUOC,Thuộc,E38_28,E35_3,,
+RELATION,R22_64,THUOC,Thuộc,E39_34,E38_28,,
+RELATION,R22_65,THUOC,Thuộc,E39_35,E38_28,,
+RELATION,R22_66,THUOC,Thuộc,E39_36,E38_28,,
+RELATION,R22_67,THUOC,Thuộc,E38_29,E35_3,,
+RELATION,R22_68,THUOC,Thuộc,E39_37,E38_29,,
+RELATION,R22_69,THUOC,Thuộc,E39_38,E38_29,,
+RELATION,R22_70,THUOC,Thuộc,E39_39,E38_29,,
+RELATION,R22_71,THUOC,Thuộc,E38_30,E35_3,,
+RELATION,R22_72,THUOC,Thuộc,E39_40,E38_30,,
+RELATION,R22_73,THUOC,Thuộc,E39_41,E38_30,,
+RELATION,R22_74,THUOC,Thuộc,E38_31,E35_3,,
+RELATION,R22_75,THUOC,Thuộc,E39_42,E38_31,,
+RELATION,R22_76,THUOC,Thuộc,E39_43,E38_31,,
+RELATION,R22_77,THUOC,Thuộc,E38_32,E35_3,,
+RELATION,R22_78,THUOC,Thuộc,E39_44,E38_32,,
+RELATION,R22_79,THUOC,Thuộc,E39_45,E38_32,,
+RELATION,R22_80,THUOC,Thuộc,E38_33,E35_3,,
+RELATION,R22_81,THUOC,Thuộc,E39_46,E38_33,,
+RELATION,R22_82,THUOC,Thuộc,E39_47,E38_33,,
+RELATION,R22_83,THUOC,Thuộc,E38_34,E35_4,,
+RELATION,R22_84,THUOC,Thuộc,E39_48,E38_34,,
+RELATION,R22_85,THUOC,Thuộc,E39_49,E38_34,,
+RELATION,R22_86,THUOC,Thuộc,E39_50,E38_34,,
+RELATION,R22_87,THUOC,Thuộc,E38_35,E35_4,,
+RELATION,R22_88,THUOC,Thuộc,E39_51,E38_35,,
+RELATION,R22_89,THUOC,Thuộc,E39_52,E38_35,,
+RELATION,R22_90,THUOC,Thuộc,E38_36,E35_4,,
+RELATION,R22_91,THUOC,Thuộc,E38_37,E35_5,,
+RELATION,R22_92,THUOC,Thuộc,E38_38,E35_5,,
+RELATION,R22_93,THUOC,Thuộc,E38_39,E35_5,,
+RELATION,R22_94,THUOC,Thuộc,E38_40,E35_5,,
+RELATION,R22_95,THUOC,Thuộc,E38_41,E35_5,,
+RELATION,R22_96,THUOC,Thuộc,E38_42,E35_6,,
+RELATION,R22_97,THUOC,Thuộc,E38_43,E35_6,,
+RELATION,R22_98,THUOC,Thuộc,E38_44,E35_6,,
+RELATION,R22_99,THUOC,Thuộc,E38_45,E35_6,,
+RELATION,R22_100,THUOC,Thuộc,E38_46,E35_7,,

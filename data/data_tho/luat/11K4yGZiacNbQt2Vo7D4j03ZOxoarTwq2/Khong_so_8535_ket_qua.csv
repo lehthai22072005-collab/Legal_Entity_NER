@@ -1,0 +1,425 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,43,Luật Thuế thu nhập doanh nghiệp số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,35,43,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,29869,29893,ngày 10 tháng 5 năm 1997
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,29959,29973,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,29994,30004,1999-01-01
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,30026,30036,2004-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,30060,30080,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,30101,30109,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,30123,30140,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,30153,30166,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,30442,30460,Hiến pháp năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,30208,30275,"Luật Sửa đổi, bổ sung một số điều của Luật Thuế Lợi tức số Không số"
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,30340,30387,Luật Đầu tư nước ngoài tại Việt Nam số 52-L/CTN
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,30295,30313,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30510,30663,Thông tư số 87/2003/TT-BTC hướng dẫn một số chính sách ưu đãi tài chính đối với các doanh nghiệp cơ khí sản xuất xe ô tô chở khách từ 25 chỗ ngồi trở lên
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30713,30941,"Thông tư số 36/2000/TT-BTC Bổ sung một số điểm quy định tại Thông tư số 42/99/TT-BTC ngày 20/4 của Bộ Tài chính hướng dẫn việc thực hiện chế độ tài chính, kế toán, thuế đối với các cửa hàng kinh doanh hàng miễn thuế tại việt nam"
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30991,31101,Thông tư số 98/1997/TT-BTC hướng dẫn việc xử lý tài chính của các đơn vị sự nghiệp trong tổng công ty Nhà nước
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,31151,31228,Quyết định số 11/1999/QĐ-BTC Về việc đổi tên một số phòng thuộc tổng cục thuế
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,31278,31457,"Thông tư liên tịch số 33/2002/TTLT-BTC-BTP Hướng dẫn chế độ thu, nộp và quản lý sử dụng lệ phí đăng ký và phí cung cấp thông tin về giao dịch bảo đảm và tài sản cho thuê tài chính"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31479,31562,Chỉ thị số 04/1999/CT-UBND V/v tăng cường công tác quản lý thu thuế xây dựng cơ bản
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31584,31650,Nghị định số 48/2000/NĐ-CP Quy định chi tiết thi hành Luật Dầu khí
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31672,31936,"Thông tư số 98/2002/TT-BTC Hướng dẫn thực hiện việc miễn thuế, giảm thuế cho các đối tượng được hưởng ưu đãi đầu tư theo Nghị định số 51/1999/NÐ-CP ngày 8/7/1999 của Chính phủ quy định chi tiết thi hành Luật khyến khích đầu tư trong nước (sửa đổi) số 03/1998/QH10."
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31958,32075,Chỉ thị số 42/1998/CT-UBND Về việc triển khai thực hiện Luật Thuế giá trị gia tăng và Luật Thuế thu nhập doanh nghiệp
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32097,32187,Chỉ thị số 20/1998/CT-UBND V/v Khảo sát tỷ lệ giá trị gia tăng và tỷ lệ thu nhập chịu thuế
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32209,32467,"Thông tư số 37/2000/TT-BTC Sửa đổi bổ sung Thông tư số 95/97/TT-BTC ngày 29/12/97 của Bộ tài chính về hướng dẫn và giải thích nội dung các điều khoản của hợp đồng tránh đánh thuế 2 lần giữa việt nam và các nước đã ký kết và có hiệu lực thi hành tại việt nam,"
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32489,32732,"Thông tư liên tịch số 07/2002/TTLT-BTM-UBDTMN-BTC-BKHĐT Hướng dẫn thi hành Nghị định số 02/2002/NĐCP ngày 03/1/2002 và Nghị định số 20/1998/ NĐ-CP ngày 31/3/1998 của Chính phủ về phát triển thương mại miền núi, hải đảo và vùng đồng bào dân tộc"
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32754,32849,"Thông tư số 03/2000/TT-BTC hướng dẫn quản lý, sử dụng nguồn thu quảng cáo của ngành truyền hình"
+ENTITY,E29_9,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32871,32965,"Quyết định số 31/2001/QĐ-BTC Về việc sửa đổi, bổ sung Chế độ quản lý, sử dụng hoá đơn bán hàng"
+ENTITY,E29_10,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32987,33071,Chỉ thị số 21/1998/CT-UB Về tăng cường công tác tuyên truyền giáo dục pháp luật thuế
+ENTITY,E29_11,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33093,33311,Thông tư số 18/2002/TT-BTC hướng dẫn thi hành nghị định số 26/2001/NÐ-cp ngày 4/6/2001 của chính phủ và nghị định số 30/1998/nđ-cp ngày 13/5/1998 của chính phủ quy định chi tiết thi hành luật thuế thu nhập doanh nghiệp
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,33331,33575,"Quyết định số 1730/2003/QĐ-UB Về việc quy định mức tiền lương, tiền công tối đa trong tính thuế
+ thu nhập doanh nghiệp áp dụng cho các cơ sở sản xuất kinh doanh
+ và các doanh nghiệp ngoài quốc doanh thực hiện thuế theo phương pháp khấu trừ thuế"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,33595,33766,Thông tư số 99/1998/TT-BTC hướng dẫn thi hành Nghị định số 30/1998/NÐ-CP ngày 13 tháng 5 năm 1998 của Chính phủ quy định chi thiết thi hành Luật thuế thu nhập doanh nghiệp
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,33786,33919,Thông tư số 13/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các hình thức đầu tư theo Luật đầu tư nước ngoài tại Việt Nam
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,33939,34082,"Thông tư số 42/1999/TT-BTC hướng dẫn việc thực hiện chế độ tài chính, kế toán, thuế đối với các cửa hàng kinh doanh hàng miễn thuế tại Việt Nam"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,34102,34330,"Thông tư số 36/2000/TT-BTC Bổ sung một số điểm quy định tại Thông tư số 42/99/TT-BTC ngày 20/4 của Bộ Tài chính hướng dẫn việc thực hiện chế độ tài chính, kế toán, thuế đối với các cửa hàng kinh doanh hàng miễn thuế tại việt nam"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,34350,34588,"Quyết định số 839/QĐ-UB Về việc tạm thời quy định mức tiền lương, tiền công trong tính thuế thu nhập doanh nghiệp, áp dụng cho các cơ sở sản xuất kinh doanh và các doanh nghiệp ngoài quốc doanh thực hiện nộp thuế theo phương pháp trừ thuế"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,34608,34673,Quyết định số 1042/1998/QĐ-BTC Về việc ban hành mẫu biên lai thuế
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,34693,34829,"Thông tư số 17/1999/TT-BTC hướng dẫn sửa đổi, bổ sung một số điểm về chế độ hoá đơn, chứng từ đối với hàng hoá lưu thông trên thị trường"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,34849,35058,"Quyết định số 172/2001/QĐ-TTg Về việc xử lý giãn nợ, khoanh nợ, xóa nợ thuế và các khoản phải nộp ngân sách nhà nước đối với những doanh nghiệp, cơ sở sản xuất kinh doanh có khó khăn do nguyên nhân khách quan."
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,35078,35191,Thông tư số 185/1998/TT-BTC hướng dẫn kế toán thuế giá trị gia tăng và thuế thu nhập doanh nghiệp của đơn vị HCSN
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,35211,35396,"Thông tư số 24/2002/TT-BTC The Circular providing guidelines on implementation of tax obligation for financial leasing activities (&lt;font color=""red""&gt;Content Attached&lt;/font&gt;)"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,35416,35526,Thông tư số 98/1997/TT-BTC hướng dẫn việc xử lý tài chính của các đơn vị sự nghiệp trong tổng công ty Nhà nước
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,35546,35625,"Quyết định số 131/2002/QÐ-BTC V/v sửa đổi, bổ sung Chế độ kế toán hộ kinh doanh"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,35645,35824,"Thông tư liên tịch số 33/2002/TTLT-BTC-BTP Hướng dẫn chế độ thu, nộp và quản lý sử dụng lệ phí đăng ký và phí cung cấp thông tin về giao dịch bảo đảm và tài sản cho thuê tài chính"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,35844,36066,"Quyết định số 60/2003/QĐ-UB Về việc ban hành bảng giá tối thiểu làm cản cứ tính Lệ phí trước bạ tài sản và tính thuế giá trị gia tăng, thuế thu nhập doanh nghiệp trong hoạt động kinh doanh xe ô tô trên địa bàn tỉnh Nghệ An"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,36086,36355,"Thông tư số 182/1998/TT-BTC hướng dẫn thuế giá trị gia tăng, thuế thu nhập doanh nghiệp đối với các doanh nghiệp, tổ chức, cá nhân có vốn đầu tư nước ngoài tại Việt Nam thực hiện theo Luật Ðầu tư nước ngoài tại Việt Nam và không theo Luật Ðầu tư nước ngoài tại Việt Nam"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,36375,36481,"Quyết định số 110/2002/QĐ-BTC Về việc sửa đổi, bổ sung Chế độ phát hành, quản lý, sử dụng hoá đơn bán hàng"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,36501,36669,"Thông tư số 96/1999/TT-BTC hướng dẫn thuế thu nhập doanh nghiệp đối với các hộ gia đình, cá nhân sản xuất nông nghiệp có giá trị sản lượng hàng hoá lớn, có thu nhập cao"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,36689,36783,"Quyết định số 31/2001/QĐ-BTC Về việc sửa đổi, bổ sung Chế độ quản lý, sử dụng hoá đơn bán hàng"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,36803,36945,"Thông tư số 115/1999/TT-BTC Hướng dẫn việc kinh doanh mua, bán công trái giữa các tổ chức được phép kinh doanh công trái với tổ chức, cá nhân."
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,36965,37262,Thông tư số 75/2003/TT-BTC Hướng dẫn sửa đổi Thông tư số 18/2002/TT-BTC ngày 20/02/2002 của Bộ Tài chính hướng dẫn thi hành Nghị Định số 26/2001/NĐ-CP ngày 4/6/2001 của Chính phủ và Nghị định số 30/1998/NĐ-CP ngày 13/5/1998 của Chính phủ quy định chi tiết thi hành Luật thuế thu nhập doanh nghiệp.
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,37282,37389,Thông tư số 03/2002/TT-BTC Hướng dẫn chế độ quản lý thu thuế đối với các cơ sở hoạt động khai thác thuỷ sản
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,37409,37604,"Thông tư liên tịch số 89/2001/TTLT/BTC-BCA Thông tư hướng dẫn việc nộp, sử dụng và quyết toán tiền thuế thu nhập doanh nghiệp đối với các doanh nghiệp Nhà nước hoạt động công ích thuộc Bộ Công an"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,37624,37807,"Thông tư số 46/2003/TT-BTC hướng dẫn việc tham gia mua công trái lần đầu của các doanh nghiệp và hoạt động kinh doanh mua, bán công trái của các tổ chức được phép kinh doanh công trái"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,37827,38035,Quyết định số 156/2003/QĐ-UBND Về việc ban hành quy định biện pháp phối hợp trong quản lý chống thất thu ngân sách Nhà nước đối với hoạt động vận tải và đăng kiểm phương tiện vận tải trên địa bàn tỉnh Yên Bái
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,38055,38138,"Quyết định số 131/2002/QĐ-BTC Về việc sửa đổi, bổ sung Chế độ kế toán hộ kinh doanh"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,38158,38329,"Quyết định số 08/2000/QĐ-TTg Về việc miễn, giảm thuế thu nhập doanh nghiệp đối với các hộ kinh doanh công thương nghiệp và dịch vụ  bị thiên tai, hỏa hoạn, tai nạn bất ngờ"
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,38349,38517,"Thông tư số 48/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò dầu khí theo quy định của luật dầu khí"
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,38537,38677,"Thông tư số 115/1999/TT-BTC hướng dẫn về kinh doanh mua, bán công trái giữa các tổ chức được phép kinh doanh công trái với tổ chức, cá nhân."
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,38697,38804,Quyết định số 26/2003/QĐ-UB Về việc ban hành quy định quản lý thu thuế đối với hoạt động khai thác thủy sản
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,38824,39060,"Thông tư số 37/2001/TT-BTC Bổ sung một số điểm quyết định tại thông tư số 42/1999/TT-BTC ngày 20/4/1999 của bộ tài chính hướng dẫn việc thực hiện chế độ tài chính, kế toán thuế đối với các cửa hàng kinh doanh hàng miễn thuế tại việt nam"
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,39080,39245,"Quyết định số 41/2002/QĐ-TTg Về chống thất thu thuế giá trị gia tăng và thuế thu nhập doanh nghiệp qua giá bán trong hoạt động kinh doanh xe ôtô, xe hai bánh gắn máy"
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,39265,39458,"Thông tư số 100/1999/TT-BTC hướng dẫn việc kê khai nộp thuế thu nhập doanh nghiệp đối với đại lý sổ số kiến thiết và việc sử dụng hoá đơn, chứng từ đối với hoạt động kinh doanh xổ số kiến thiết"
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,39478,39646,"Quyết định số 05/1999/QĐ-TTg Về việc miễn thuế hoạt động buôn chuyến, giảm thuế giá trị gia tăng kinh doanh cácmặt hàng lương thực, thực phẩm tươi sổng và rau, quả tươi"
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,39666,39849,Thông tư số 115/2002/TT-BTC Hướng dẫn các chính sách ưu đãi theo Quyết định số 1420/QÐ-TTg ngày 02/11/2001 của Thủ tướng Chính phủ đối với Tổng công ty Công nghiệp tàu thuỷ Việt Nam .
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,39869,40087,Thông tư số 18/2002/TT-BTC hướng dẫn thi hành nghị định số 26/2001/NÐ-cp ngày 4/6/2001 của chính phủ và nghị định số 30/1998/nđ-cp ngày 13/5/1998 của chính phủ quy định chi tiết thi hành luật thuế thu nhập doanh nghiệp
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,40107,40339,Thông tư số 86/2000/TT-BTC hướng dẫn thực hiện chính sách hỗ trợ về tài chính và ưu đãi về thuế  để phát triển các sản phẩm công nghiệp trọng điểm theo quy định của Quyết định số 37/2000/QÐ-TTg ngày 24/3/2000 của Thủ tướng Chính phủ
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,40359,40515,Thông tư số 179/1998/TT/BTC hướng dẫn kế toán thuế giá trị gia tăng và thuế thu nhập doanh nghiệp áp dụng cho các doanh nghiệp hoạt động kinh doanh bảo hiểm
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,40535,40612,Quyết định số 11/1999/QĐ-BTC Về việc đổi tên một số phòng thuộc tổng cục thuế
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,40632,40734,Quyết định số 39/2000/QĐ-TTg Quy định tạm thời ưu đãi về thuế đối với hoạt động kinh doanh chứng khoán
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,40754,40980,"Quyết định số 59/2003/QĐ-UB Về việc ban hành bảng giá tối thiểu làm căn cứ tính Lệ phí trước bạ tài sản và tính thuế giá trị gia tăng, thuế thu nhập doanh nghiệp trong hoạt động kinh doanh xe gắn máy trên địa bàn tỉnh Nghệ An)"
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,41000,41184,"Nghị định số 26/2001/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 30/1998/NĐ-CP ngày 13 tháng 5 năm 1998 của Chính phủ quy định chi tiết thi hành Luật Thuế thu nhập doanh nghiệp"
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,41204,41357,Thông tư số 87/2003/TT-BTC hướng dẫn một số chính sách ưu đãi tài chính đối với các doanh nghiệp cơ khí sản xuất xe ô tô chở khách từ 25 chỗ ngồi trở lên
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,41377,41462,Nghị định số 30/1998/NĐ-CP Quy định chi tiết thi hành Luật thuế thu nhập doanh nghiệp
+ENTITY,E30_45,VB_AP_DUNG,Văn bản áp dụng,reference,41482,41716,Thông tư số 31/2001/TT-BTC Hướng dẫn thực hiện ưu đãi về thuế quy định tại quyết định số 128/2000/qđ/ttg ngày 20/11/2000 của thủ tướng chính phủ về một số chính sách và biện pháp khuyến khích đầu tư và phát triển công nghiệp phần mềm.
+ENTITY,E30_46,VB_AP_DUNG,Văn bản áp dụng,reference,41736,41923,Thông tư số 74/2000/TT-BTC hướng dẫn thi hành quyết định số 39/2000/QÐ-ttg ngày 27/3/2000 của thủ tướng chính phủ quy định tạm thời ưu đãi về thuế đối với hoạt động kinh doanh chứng khoán
+ENTITY,E30_47,VB_AP_DUNG,Văn bản áp dụng,reference,41943,42072,"Quyết định số 110/2002/QÐ-BTC của bộ trưởng bộ tài chính V/v Sửa đổi, bổ sung Chế độ phát hành, quản lý, sử dụng hoá đơn bán hàng"
+ENTITY,E35_1,CHUONG,Chương,structure,406,414,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,3741,3750,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,10250,10260,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,16637,16646,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,22420,22428,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,26074,26083,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,28585,28595,CHƯƠNG VII
+ENTITY,E35_8,CHUONG,Chương,structure,29027,29038,CHƯƠNG VIII
+ENTITY,E38_1,DIEU,Điều,structure,436,682,"Điều 1. Đối tượng nộp thuế thu nhập doanh nghiệp
+Tổ chức, cá nhân sản xuất, kinh doanh hàng hóa, dịch vụ (dưới đây gọi chung là cơ sở kinh doanh) có thu nhập đều phải nộp thuế thu nhập doanh nghiệp, trừ đối tượng quy định tại Điều 2 của Luật này."
+ENTITY,E38_2,DIEU,Điều,structure,683,1033,"Điều 2. Đối tượng không thuộc diện nộp thuế thu nhập doanh nghiệp
+Hộ gia đình, cá nhân, tổ hợp tác, hợp tác xã sản xuất nông nghiệp có thu nhập từ sản phẩm trồng trọt, chăn nuôi, nuôi trồng thủy sản không thuộc diện nộp thuế thu nhập doanh nghiệp, trừ hộ gia đình và cá nhân nông dân sản xuất hàng hóa lớn có thu nhập cao theo quy định của Chính phủ."
+ENTITY,E38_3,DIEU,Điều,structure,1034,1114,"Điều 3. Giải thích từ ngữ
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+ENTITY,E38_4,DIEU,Điều,structure,3084,3155,"Điều 4. Nghĩa vụ, trách nhiệm thực hiện Luật Thuế thu nhập doanh nghiệp"
+ENTITY,E38_5,DIEU,Điều,structure,3781,3858,"Điều 5. Căn cứ tính thuế
+Căn cứ tính thuế là thu nhập chịu thuế và thuế suất."
+ENTITY,E38_6,DIEU,Điều,structure,3859,4063,"Điều 6. Thu nhập chịu thuế
+Thu nhập chịu thuế bao gồm thu nhập từ hoạt động sản xuất, kinh doanh, dịch vụ và thu nhập khác, kể cả thu nhập thu được từ hoạt động sản xuất, kinh doanh, dịch vụ ở nước ngoài."
+ENTITY,E38_7,DIEU,Điều,structure,4064,4099,Điều 7. Xác định thu nhập chịu thuế
+ENTITY,E38_8,DIEU,Điều,structure,4927,5237,"Điều 8. Doanh thu
+Doanh thu để tính thu nhập chịu thuế là toàn bộ tiền bán hàng, tiền gia công, tiền cung ứng dịch vụ, kể cả trợ giá.
+Trong trường hợp có doanh thu bằng ngoại tệ thì phải quy đổi ngoại tệ ra Đồng Việt Nam theo tỷ giá chính thức do Ngân hàng nhà nước Việt Nam công bố tại thời điểm thu ngoại tệ."
+ENTITY,E38_9,DIEU,Điều,structure,5238,5253,Điều 9. Chi phí
+ENTITY,E38_10,DIEU,Điều,structure,8313,8331,Điều 10. Thuế suất
+ENTITY,E38_11,DIEU,Điều,structure,10296,10809,"Điều 11. Trách nhiệm của cơ sở kinh doanh
+Cơ sở kinh doanh có trách nhiệm:
+1 - Chấp hành nghiêm chỉnh chế độ kế toán, hoá đơn, chứng từ theo quy định của pháp luật;
+2 - Kê khai đầy đủ doanh thu, chi phí, thu nhập theo đúng chế độ do Bộ tài chính quy định;
+3 - Nộp đầy đủ, đúng hạn tiền thuế, các khoản tiền phạt vào ngân sách nhà nước theo thông báo của cơ quan thuế;
+4 - Cung cấp các tài liệu, sổ kế toán, báo cáo kế toán, hóa đơn, chứng từ có liên quan đến việc tính thuế thu nhập theo yêu cầu của cơ quan thuế."
+ENTITY,E38_12,DIEU,Điều,structure,10810,11670,"Điều 12. Kê khai thuế
+1 - Hàng năm, cơ sở kinh doanh căn cứ vào kết quả sản xuất, kinh doanh, dịch vụ của năm trước và khả năng của năm tiếp theo tự kê khai doanh thu, chi phí, thu nhập chịu thuế theo mẫu của cơ quan thuế và nộp cho cơ quan thuế trực tiếp quản lý chậm nhất là ngày 25 tháng 01. Sau khi nhận được tờ khai, cơ quan thuế kiểm tra, xác định số thuế tạm nộp cả năm, có chia ra từng quý để thông báo cho cơ sở kinh doanh nộp thuế; nếu tình hình sản xuất, kinh doanh, dịch vụ trong năm có sự thay đổi lớn thì cơ sở kinh doanh phải báo cáo cơ quan thuế trực tiếp quản lý để điều chỉnh số thuế tạm nộp hàng quý.
+2 - Đối với cơ sở kinh doanh chưa thực hiện chế độ kế toán, hóa đơn, chứng từ, số thuế phải nộp hàng tháng được tính theo chế độ khoán doanh thu và tỷ lệ thu nhập chịu thuế phù hợp với từng ngành, nghề do cơ quan thuế có thẩm quyền ấn định."
+ENTITY,E38_13,DIEU,Điều,structure,11671,12630,"Điều 13. Nộp thuế
+1 - Cơ sở kinh doanh tạm nộp số thuế hàng quý đầy đủ, đúng hạn vào ngân sách nhà nước theo thông báo nộp thuế của cơ quan thuế. Thời hạn nộp thuế hàng quý được ghi trong thông báo chậm nhất không quá ngày cuối quý.
+2 - Cơ sở kinh doanh quy định tại khoản 2 Điều 12 phải nộp thuế vào ngân sách nhà nước hàng tháng theo thông báo của cơ quan thuế. Thời hạn nộp thuế của tháng được ghi trong thông báo chậm nhất không quá ngày 25 của tháng tiếp theo.
+3 - Cơ sở kinh doanh buôn chuyến phải kê khai và nộp thuế theo từng chuyến hàng với cơ quan thuế nơi mua hàng trước khi vận chuyển hàng đi.
+4 - Tổ chức, cá nhân nước ngoài kinh doanh không có cơ sở thường trú tại Việt Nam nhưng có thu nhập phát sinh ở Việt Nam thì tổ chức, cá nhân chi trả thu nhập có trách nhiệm khấu trừ tiền thuế theo tỷ lệ do Bộ tài chính quy định tính trên tổng số tiền chi trả và nộp vào ngân sách nhà nước cùng thời điểm chuyển trả tiền cho tổ chức, cá nhân nước ngoài."
+ENTITY,E38_14,DIEU,Điều,structure,12631,13926,"Điều 14. Quyết toán thuế
+1 - Cơ sở kinh doanh phải thực hiện quyết toán thuế hàng năm với cơ quan thuế. Quyết toán thuế phải thể hiện đúng, đầy đủ các khoản:
+a) Doanh thu;
+b) Chi phí hợp lý;
+c) Thu nhập chịu thuế;
+d) Số thuế thu nhập phải nộp;
+đ) Số thuế thu nhập đã tạm nộp trong năm;
+e) Số thuế thu nhập đã nộp ở nước ngoài cho các khoản thu nhập nhận được từ nước ngoài;
+g) Số thuế thu nhập nộp thiếu hoặc nộp thừa.
+2 - Năm quyết toán thuế được tính theo năm dương lịch. Trường hợp cơ sở kinh doanh được phép áp dụng năm tài chính khác với năm dương lịch thì được quyết toán theo năm tài chính đó. Trong thời hạn sáu mươi ngày, kể từ khi kết thúc năm dương lịch hoặc năm tài chính, cơ sở kinh doanh phải nộp báo cáo quyết toán thuế cho cơ quan thuế và phải nộp đầy đủ số thuế còn thiếu vào ngân sách nhà nước trong thời hạn mười ngày, kể từ ngày nộp báo cáo quyết toán; nếu nộp thừa thì được trừ vào số thuế phải nộp của kỳ tiếp theo.
+Trong trường hợp sáp nhập, hợp nhất, chia, tách, giải thể, phá sản, cơ sở kinh doanh phải thực hiện quyết toán thuế với cơ quan thuế và gửi báo cáo quyết toán thuế trong thời hạn bốn mươi lăm ngày, kể từ ngày có quyết định sáp nhập, hợp nhất, chia, tách, giải thể, phá sản.
+Bộ tài chính hướng dẫn quyết toán thuế thu nhập doanh nghiệp quy định tại Điều này."
+ENTITY,E38_15,DIEU,Điều,structure,13927,15592,"Điều 15. Nhiệm vụ, quyền hạn và trách nhiệm của cơ quan thuế
+Cơ quan thuế có những nhiệm vụ, quyền hạn và trách nhiệm sau đây:
+1 - Hướng dẫn cơ sở kinh doanh thực hiện kê khai, nộp thuế theo đúng quy định của Luật này;
+2 - Thông báo cho cơ sở kinh doanh về số thuế phải nộp và thời hạn nộp thuế theo đúng quy định; nếu quá thời hạn nộp thuế ghi trên thông báo mà cơ sở kinh doanh chưa nộp thì tiếp tục ra thông báo về số thuế và số tiền phạt chậm nộp theo quy định tại khoản 2 Điều 24 của Luật này; nếu cơ sở kinh doanh vẫn không nộp đủ số thuế, số tiền phạt theo thông báo thì có quyền áp dụng các biện pháp xử lý quy định tại khoản 4 Điều 24 của Luật này để bảo đảm thu đủ số thuế, số tiền phạt; nếu đã thực hiện các biện pháp xử lý trên mà cơ sở kinh doanh vẫn không nộp đủ số thuế, số tiền phạt thì chuyển hồ sơ sang cơ quan nhà nước có thẩm quyền để xử lý theo quy định của pháp luật;
+3 - Kiểm tra, thanh tra việc kê khai, nộp thuế, quyết toán thuế của cơ sở kinh doanh, bảo đảm thực hiện đúng quy định của pháp luật. Trong trường hợp phát hiện giá mua, giá bán, chi phí kinh doanh và các yếu tố khác không hợp lý, cơ quan thuế có quyền xác định lại để bảo đảm thu đúng, thu đủ thuế thu nhập doanh nghiệp;
+4 - Xử lý vi phạm hành chính về thuế và giải quyết khiếu nại về thuế;
+5 - Yêu cầu cơ sở kinh doanh cung cấp sổ kế toán, hóa đơn, chứng từ và hồ sơ tài liệu khác có liên quan tới việc tính thuế, nộp thuế; yêu cầu các tổ chức tín dụng, ngân hàng và tổ chức, cá nhân có liên quan khác cung cấp tài liệu có liên quan đến việc tính thuế và nộp thuế;
+6 - Lưu giữ và sử dụng số liệu, tài liệu mà cơ sở kinh doanh và đối tượng khác cung cấp theo chế độ quy định."
+ENTITY,E38_16,DIEU,Điều,structure,15593,15634,Điều 16. Quyền ấn định thu nhập chịu thuế
+ENTITY,E38_17,DIEU,Điều,structure,16690,18957,"Điều 17. Miễn thuế, giảm thuế cho cơ sở kinh doanh mới thành lập
+1 - Đối với cơ sở kinh doanh trong nước:
+a) Cơ sở sản xuất mới thành lập được miễn thuế hai năm đầu, kể từ khi có thu nhập chịu thuế và được giảm 50% số thuế thu nhập phải nộp trong thời gian hai năm tiếp theo; riêng các cơ sở sản xuất thành lập ở miền núi, hải đảo và vùng có khó khăn khác thì thời gian giảm thuế được kéo dài thêm hai năm nữa;
+b) Cơ sở mới thành lập thuộc các dự án ưu đãi đầu tư được miễn thuế, giảm thuế:
+Đối với cơ sở sản xuất mới thành lập được miễn thuế hai năm đầu, kể từ khi có thu nhập chịu thuế và được giảm 50% số thuế thu nhập phải nộp tối đa bốn năm tiếp theo; riêng đầu tư vào miền núi, hải đảo và vùng có khó khăn khác thời gian được miễn thuế thu nhập thêm từ một đến hai năm, giảm 50% số thuế thu nhập phải nộp thêm từ một đến năm năm tiếp theo;
+Đối với cơ sở kinh doanh hàng hóa, dịch vụ mới thành lập được giảm 50% số thuế thu nhập phải nộp trong thời gian từ một đến hai năm đầu, kể từ khi có thu nhập chịu thuế; riêng đầu tư vào miền núi, hải đảo và vùng có khó khăn khác được miễn thuế thu nhập trong thời gian từ một đến hai năm đầu, kể từ khi có thu nhập chịu thuế và được giảm 50% số thuế phải nộp trong thời gian tối đa là năm năm tiếp theo.
+2- Đối với doanh nghiệp có vốn đầu tư nước ngoài và Bên nước ngoài tham gia hợp đồng hợp tác kinh doanh:
+a) Căn cứ vào lĩnh vực đầu tư, địa bàn đầu tư quy định tại Luật đầu tư nước ngoài tại Việt Nam, doanh nghiệp có vốn đầu tư nước ngoài và Bên nước ngoài tham gia hợp đồng hợp tác kinh doanh có thể được miễn thuế thu nhập trong thời gian tối đa là hai năm, kể từ khi có thu nhập chịu thuế và được giảm 50% số thuế thu nhập phải nộp trong thời gian tối đa là hai năm tiếp theo;
+b) Trong trường hợp doanh nghiệp có vốn đầu tư nước ngoài và Bên nước ngoài tham gia hợp đồng hợp tác kinh doanh thực hiện dự án có nhiều tiêu chuẩn khuyến khích đầu tư thì được miễn thuế thu nhập trong một thời gian tối đa là bốn năm, kể từ khi có thu nhập chịu thuế và được giảm 50% số thuế thu nhập phải nộp trong thời gian tối đa là bốn năm tiếp theo;
+c) Đối với những trường hợp đặc biệt khuyến khích đầu tư, thời gian miễn thuế thu nhập tối đa là tám năm.
+Chính phủ quy định cụ thể việc miễn thuế, giảm thuế quy định tại Điều này."
+ENTITY,E38_18,DIEU,Điều,structure,18958,19477,"Điều 18. Miễn thuế, giảm thuế đối với cơ sở kinh doanh trong nước trong trường hợp đầu tư xây dựng dây chuyền sản xuất mới, mở rộng quy mô, đổi mới công nghệ, cải thiện môi trường sinh thái, nâng cao năng lực sản xuất
+Cơ sở sản xuất đầu tư xây dựng dây chuyền sản xuất mới, mở rộng quy mô, đổi mới công nghệ, cải thiện môi trường sinh thái, nâng cao năng lực sản xuất được miễn thuế thu nhập doanh nghiệp cho phần thu nhập tăng thêm của năm đầu và giảm 50% số thuế phải nộp hai năm tiếp theo do đầu tư mới này mang lại."
+ENTITY,E38_19,DIEU,Điều,structure,19478,19983,"Điều 19. Hoàn thuế cho số thu nhập tái đầu tư đối với doanh nghiệp có vốn đầu tư nước ngoài và Bên nước ngoài tham gia hợp đồng hợp tác kinh doanh
+Doanh nghiệp có vốn đầu tư nước ngoài và Bên nước ngoài tham gia hợp đồng hợp tác kinh doanh dùng thu nhập được chia để tái đầu tư vào các dự án khuyến khích đầu tư, sẽ được hoàn lại một phần hoặc toàn bộ số thuế thu nhập đã nộp cho số thu nhập tái đầu tư. Chính phủ quy định tỷ lệ hoàn thuế tùy thuộc vào lĩnh vực, địa bàn, hình thức và thời hạn tái đầu tư."
+ENTITY,E38_20,DIEU,Điều,structure,19984,20236,"Điều 20. Miễn thuế cho cơ sở kinh doanh di chuyển đến miền núi, hải đảo và vùng có khó khăn khác
+Cơ sở kinh doanh di chuyển đến miền núi, hải đảo và vùng có khó khăn khác được miễn thuế thu nhập doanh nghiệp ba năm đầu, kể từ khi có thu nhập chịu thuế."
+ENTITY,E38_21,DIEU,Điều,structure,20237,21826,"Điều 21. Miễn thuế, giảm thuế cho các trường hợp khác
+1 - Miễn thuế thu nhập doanh nghiệp cho các phần thu nhập của các cơ sở kinh doanh trong nước như sau:
+a) Phần thu nhập từ việc thực hiện các hợp đồng nghiên cứu khoa học;
+b) Phần thu nhập từ việc thực hiện các hợp đồng dịch vụ kỹ thuật trực tiếp phục vụ nông nghiệp;
+c) Phần thu nhập từ hoạt động sản xuất, kinh doanh, dịch vụ của cơ sở kinh doanh dành riêng cho lao động là người tàn tật;
+d) Phần thu nhập từ hoạt động dạy nghề dành riêng cho người tàn tật, người dân tộc thiểu số, trẻ em có hoàn cảnh đặc biệt khó khăn, đối tượng tệ nạn xã hội;
+đ) Hộ cá thể sản xuất, kinh doanh, dịch vụ có thu nhập thấp theo quy định của Chính phủ.
+2 - Miễn thuế, giảm thuế thu nhập doanh nghiệp cho các nhà đầu tư nước ngoài như sau:
+a) Người Việt Nam định cư ở nước ngoài đầu tư về nước theo Luật đầu tư nước ngoài tại Việt Nam được giảm 20% số thuế thu nhập so với các dự án cùng loại, trừ trường hợp được hưởng mức thuế suất thuế thu nhập là 10%; được hưởng mức thuế suất thuế chuyển thu nhập ra nước ngoài là 5% số thu nhập chuyển ra nước ngoài;
+b) Bằng sáng chế, bí quyết kỹ thuật, quy trình công nghệ, dịch vụ kỹ thuật dùng để góp vốn pháp định được miễn thuế thu nhập;
+c) Miễn thuế hoặc giảm thuế thu nhập cho thu nhập từ hoạt động chuyển nhượng giá trị phần vốn của các nhà đầu tư nước ngoài cho doanh nghiệp Việt Nam theo quy định của Chính phủ.
+3- Giảm thuế thu nhập cho các cơ sở kinh doanh trong nước và doanh nghiệp có vốn đầu tư nước ngoài hoạt động sản xuất, xây dựng, vận tải sử dụng nhiều lao động nữ theo quy định của Chính phủ."
+ENTITY,E38_22,DIEU,Điều,structure,21827,22073,"Điều 22. Chuyển lỗ
+Cơ sở kinh doanh trong nước và doanh nghiệp liên doanh sau khi đã quyết toán thuế với cơ quan thuế mà bị lỗ thì được chuyển lỗ sang năm sau, số lỗ này được trừ vào thu nhập chịu thuế. Thời gian được chuyển lỗ không quá năm năm."
+ENTITY,E38_23,DIEU,Điều,structure,22074,22420,"Điều 23. Xét miễn thuế, giảm thuế
+1 - Việc miễn thuế, giảm thuế theo quy định tại các điều 17, 18, 19, 20 và 21 của Luật này chỉ áp dụng đối với các cơ sở kinh doanh đã thực hiện đúng chế độ kế toán và nộp thuế theo kê khai.
+2 - Chính phủ quy định thẩm quyền, thủ tục miễn thuế, giảm thuế quy định tại các điều 17, 18, 19, 20 và 21 của Luật này.
+"
+ENTITY,E38_24,DIEU,Điều,structure,22456,24046,"Điều 24. Xử lý vi phạm về thuế đối với đối tượng nộp thuế
+Đối tượng nộp thuế vi phạm Luật Thuế thu nhập doanh nghiệp thì bị xử lý như sau:
+1 - Không thực hiện đúng những quy định về chế độ kế toán, hoá đơn, chứng từ, kê khai, nộp thuế, quyết toán thuế theo quy định tại các điều 11, 12, 13 và 14 của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính về thuế;
+2 - Nộp chậm tiền thuế, tiền phạt so với ngày quy định phải nộp hoặc quyết định xử lý về thuế thì ngoài việc nộp đủ số thuế, số tiền phạt, mỗi ngày nộp chậm còn phải nộp phạt 0,1% (một phần nghìn) số tiền chậm nộp;
+3 - Khai man thuế, trốn thuế thì ngoài việc phải nộp đủ số thuế theo quy định của Luật này, tùy theo tính chất, mức độ vi phạm còn bị phạt tiền từ một đến năm lần số thuế gian lận; trốn thuế với số lượng lớn hoặc đã bị xử phạt vi phạm hành chính về thuế mà còn vi phạm hoặc có hành vi vi phạm nghiêm trọng khác thì bị truy cứu trách nhiệm hình sự theo quy định của pháp luật;
+4- Không nộp thuế, nộp phạt theo thông báo hoặc quyết định xử lý về thuế thì bị xử lý như sau:
+a) Trích tiền gửi của cơ sở kinh doanh tại ngân hàng, kho bạc, tổ chức tín dụng để nộp thuế, nộp phạt.
+Ngân hàng, kho bạc, tổ chức tín dụng có trách nhiệm trích tiền từ tài khoản tiền gửi của cơ sở kinh doanh để nộp thuế, nộp phạt vào ngân sách nhà nước theo quyết định xử lý về thuế của cơ quan thuế hoặc của cơ quan có thẩm quyền trước khi thu nợ;
+b) Giữ hàng hoá, tang vật để bảo đảm thu đủ số thuế, số tiền phạt;
+c) Kê biên tài sản theo quy định của pháp luật để bảo đảm thu đủ số thuế, số tiền phạt còn thiếu."
+ENTITY,E38_25,DIEU,Điều,structure,24047,24587,"Điều 25. Thẩm quyền của cơ quan thuế trong việc xử lý vi phạm về thuế
+1 - Thủ trưởng cơ quan thuế trực tiếp quản lý thu thuế được quyền xử lý đối với các vi phạm của đối tượng nộp thuế quy định tại các khoản 1, 2 và 3 Điều 24 của Luật này.
+2 - Cục trưởng, Chi cục trưởng cơ quan thuế trực tiếp quản lý thu thuế được áp dụng các biện pháp xử lý theo quy định tại khoản 4 Điều 24 của Luật này và chuyển hồ sơ sang cơ quan có thẩm quyền để xử lý theo quy định của pháp luật đối với trường hợp vi phạm quy định tại khoản 3 Điều 24 của Luật này."
+ENTITY,E38_26,DIEU,Điều,structure,24588,25791,"Điều 26. Xử lý vi phạm đối với cán bộ thuế và cá nhân khác
+1 - Cán bộ thuế, cá nhân khác lợi dụng chức vụ, quyền hạn để chiếm dụng trái phép, chiếm đoạt tiền thuế, tiền phạt thì phải bồi hoàn cho Nhà nước toàn bộ số tiền thuế, số tiền phạt đã sử dụng trái phép, chiếm đoạt và tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.
+2- Cán bộ thuế, cá nhân khác thiếu tinh thần trách nhiệm hoặc xử lý sai gây thiệt hại cho người nộp thuế thì phải bồi thường thiệt hại theo quy định của pháp luật và tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.
+3 - Cán bộ thuế, cá nhân khác lợi dụng chức vụ, quyền hạn để thông đồng, bao che cho người vi phạm Luật Thuế thu nhập doanh nghiệp hoặc có hành vi khác vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.
+4 - Người cản trở hoặc xúi giục người khác cản trở việc thi hành Luật Thuế thu nhập doanh nghiệp thì tùy theo tính chất, mức độ vi phạm mà bị xử lý hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+ENTITY,E38_27,DIEU,Điều,structure,25792,26074,"Điều 27. Khen thưởng
+Cơ quan thuế, cán bộ thuế hoàn thành tốt nhiệm vụ được giao; tổ chức, cá nhân có thành tích trong việc thực hiện Luật Thuế thu nhập doanh nghiệp; cơ sở kinh doanh thực hiện tốt nghĩa vụ nộp thuế thì được khen thưởng.
+Chính phủ quy định cụ thể việc khen thưởng.
+"
+ENTITY,E38_28,DIEU,Điều,structure,26107,26906,"Điều 28. Quyền và trách nhiệm của đối tượng nộp thuế trong việc khiếu nại về thuế
+1 - Đối tượng nộp thuế có quyền khiếu nại việc cán bộ thuế, cơ quan thuế thi hành không đúng Luật Thuế thu nhập doanh nghiệp.
+Đơn khiếu nại phải được gửi đến cơ quan thuế trực tiếp quản lý thu thuế trong thời hạn ba mươi ngày, kể từ ngày nhận được thông báo hoặc quyết định xử lý của cán bộ thuế, cơ quan thuế.
+Trong khi chờ giải quyết, đối tượng nộp thuế vẫn phải thực hiện theo thông báo hoặc quyết định xử lý của cơ quan thuế.
+2 - Trong trường hợp người khiếu nại không đồng ý với quyết định của cơ quan giải quyết khiếu nại hoặc quá thời hạn quy định tại Điều 29 của Luật này mà chưa được giải quyết thì có quyền khiếu nại lên cơ quan thuế cấp trên trực tiếp hoặc khởi kiện đến Tòa án theo quy định của pháp luật."
+ENTITY,E38_29,DIEU,Điều,structure,26907,28585,"Điều 29. Trách nhiệm và quyền hạn của cơ quan thuế trong việc giải quyết khiếu nại về thuế
+1 - Cơ quan thuế khi nhận được khiếu nại về thuế phải xem xét giải quyết trong thời hạn mười lăm ngày, kể từ ngày nhận được khiếu nại; đối với những vụ việc phức tạp thì thời hạn đó có thể kéo dài nhưng không được quá ba mươi ngày. Nếu vụ việc không thuộc thẩm quyền giải quyết của mình thì phải chuyển hồ sơ hoặc báo cáo cơ quan có thẩm quyền giải quyết và thông báo cho người khiếu nại biết trong thời hạn mười ngày, kể từ ngày nhận được khiếu nại.
+2 - Cơ quan thuế nhận khiếu nại có quyền yêu cầu người khiếu nại cung cấp các hồ sơ, tài liệu liên quan đến việc khiếu nại; nếu người khiếu nại từ chối cung cấp hồ sơ, tài liệu thì có quyền từ chối xem xét giải quyết khiếu nại.
+3 - Cơ quan thuế phải hoàn trả số tiền thuế, số tiền phạt thu không đúng cho cơ sở kinh doanh trong thời hạn mười lăm ngày, kể từ ngày nhận được quyết định xử lý của cơ quan thuế cấp trên hoặc cơ quan có thẩm quyền theo quy định của pháp luật.
+4 - Nếu phát hiện và kết luận có sự khai man, trốn thuế hoặc nhầm lẫn về thuế, cơ quan thuế có trách nhiệm truy thu tiền thuế, tiền phạt hoặc hoàn trả tiền thuế trong thời hạn năm năm trở về trước, kể từ ngày kiểm tra phát hiện có sự khai man, trốn thuế hoặc nhầm lẫn về thuế. Trong trường hợp cơ sở kinh doanh không đăng ký, kê khai, nộp thuế thì thời hạn truy thu tiền thuế, tiền phạt, kể từ khi cơ sở kinh doanh bắt đầu hoạt động.
+5 - Thủ trưởng cơ quan thuế cấp trên có trách nhiệm giải quyết các khiếu nại về thuế của đối tượng nộp thuế đối với cơ quan thuế cấp dưới.
+Quyết định của Bộ trưởng Bộ tài chính giải quyết khiếu nại về thuế là quyết định cuối cùng
+"
+ENTITY,E38_30,DIEU,Điều,structure,28614,28710,"Điều 30.
+Chính phủ chỉ đạo việc tổ chức thực hiện Luật Thuế thu nhập doanh nghiệp trong cả nước."
+ENTITY,E38_31,DIEU,Điều,structure,28711,28849,"Điều 31.
+Bộ trưởng Bộ tài chính có trách nhiệm tổ chức thực hiện và kiểm tra việc thực hiện Luật Thuế thu nhập doanh nghiệp trong cả nước."
+ENTITY,E38_32,DIEU,Điều,structure,28850,29027,"Điều 32.
+Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình chỉ đạo việc thực hiện và kiểm tra việc chấp hành Luật Thuế thu nhập doanh nghiệp ở địa phương mình.
+"
+ENTITY,E38_33,DIEU,Điều,structure,29059,29711,"Điều 33.
+Luật Thuế thu nhập doanh nghiệp có hiệu lực thi hành từ ngày 01 tháng 01 năm 1999.
+Bãi bỏ Luật thuế lợi tức, Luật sửa đổi, bổ sung một số điều của Luật thuế lợi tức và các quy định về thuế lợi tức trong các văn bản quy phạm pháp luật khác, kể từ ngày Luật Thuế thu nhập doanh nghiệp có hiệu lực thi hành.
+Việc giải quyết những tồn tại về thuế, quyết toán thuế, miễn giảm thuế và xử lý các vi phạm về thuế lợi tức trước ngày 01 tháng 01 năm 1999 được thực hiện theo những quy định tương ứng của Luật thuế lợi tức, Luật sửa đổi, bổ sung một số điều của Luật thuế lợi tức và các quy định về thuế lợi tức trong các văn bản quy phạm pháp luật khác."
+ENTITY,E38_34,DIEU,Điều,structure,29712,29769,"Điều 34.
+Chính phủ quy định chi tiết thi hành Luật này./."
+ENTITY,E39_1,KHOAN,Khoản,structure,1115,1764,"1- ""Tổ chức sản xuất, kinh doanh hàng hoá, dịch vụ"" bao gồm: doanh nghiệp nhà nước, công ty trách nhiệm hữu hạn; công ty cổ phần; doanh nghiệp có vốn đầu tư nước ngoài và Bên nước ngoài tham gia hợp đồng hợp tác kinh doanh theo Luật đầu tư nước ngoài tại Việt Nam; các công ty nước ngoài và tổ chức nước ngoài hoạt động kinh doanh tại Việt Nam không theo Luật đầu tư nước ngoài tại Việt Nam; doanh nghiệp tư nhân; hợp tác xã; tổ hợp tác; tổ chức kinh tế của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, đơn vị vũ trang nhân dân; cơ quan hành chính, sự nghiệp có sản xuất, kinh doanh hàng hoá, dịch vụ;"
+ENTITY,E39_2,KHOAN,Khoản,structure,1765,2040,"2- ""Cá nhân sản xuất, kinh doanh hàng hoá, dịch vụ"" bao gồm: hộ cá thể và nhóm kinh doanh; hộ gia đình, cá nhân sản xuất nông nghiệp; cá nhân kinh doanh; cá nhân hành nghề độc lập; cá nhân có tài sản cho thuê; cá nhân nước ngoài kinh doanh có thu nhập phát sinh tại Việt Nam;"
+ENTITY,E39_3,KHOAN,Khoản,structure,2041,2260,"3- ""Cơ sở thường trú của công ty nước ngoài ở Việt Nam"" là cơ sở kinh doanh mà thông qua cơ sở này công ty nước ngoài tiến hành một phần hay toàn bộ hoạt động kinh doanh của mình tại Việt Nam mang lại thu nhập, bao gồm:"
+ENTITY,E39_4,KHOAN,Khoản,structure,3156,3241,"1- Cơ sở kinh doanh có nghĩa vụ nộp thuế đầy đủ, đúng hạn theo quy định của Luật này."
+ENTITY,E39_5,KHOAN,Khoản,structure,3242,3357,"2- Cơ quan thuế trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện đúng các quy định của Luật này."
+ENTITY,E39_6,KHOAN,Khoản,structure,3358,3643,"3- Các cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, đơn vị vũ trang nhân dân trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình giám sát, phối hợp với cơ quan thuế trong việc thi hành Luật Thuế thu nhập doanh nghiệp."
+ENTITY,E39_7,KHOAN,Khoản,structure,3644,3741,"4- Công dân Việt Nam có trách nhiệm giúp cơ quan thuế, cán bộ thuế trong việc thi hành Luật này.
+"
+ENTITY,E39_8,KHOAN,Khoản,structure,4100,4245,"1- Thu nhập chịu thuế từ hoạt động sản xuất, kinh doanh, dịch vụ bằng doanh thu trừ các khoản chi phí hợp lý có liên quan đến thu nhập chịu thuế."
+ENTITY,E39_9,KHOAN,Khoản,structure,4246,4926,"2- Thu nhập chịu thuế khác bao gồm thu nhập từ chênh lệch mua, bán chứng khoán, quyền sở hữu, quyền sử dụng tài sản, lãi về chuyển nhượng, cho thuê, thanh lý tài sản, tiền gửi, cho vay vốn, bán ngoại tệ; kết dư cuối năm các khoản dự phòng; thu các khoản nợ khó đòi đã xử lý xoá sổ nay đòi được; thu các khoản nợ phải trả không xác định được chủ; các khoản thu nhập từ kinh doanh của những năm trước bị bỏ sót mới phát hiện ra và các khoản thu nhập khác.
+Trong trường hợp Hiệp định tránh đánh thuế hai lần mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết có quy định khác về phương pháp xác định thu nhập chịu thuế đối với cơ sở thường trú thì thực hiện theo quy định của Hiệp định đó."
+ENTITY,E39_10,KHOAN,Khoản,structure,5254,5326,1- Các khoản chi phí hợp lý được trừ để tính thu nhập chịu thuế bao gồm:
+ENTITY,E39_11,KHOAN,Khoản,structure,8332,9337,"1- Thuế suất thuế thu nhập doanh nghiệp áp dụng đối với cơ sở kinh doanh trong nước và tổ chức, cá nhân nước ngoài kinh doanh ở Việt Nam không theo Luật đầu tư nước ngoài tại Việt Nam là 32%.
+Cơ sở sản xuất, xây dựng, vận tải đang nộp thuế lợi tức với thuế suất là 25%, nay nộp thuế thu nhập doanh nghiệp với thuế suất 32% mà có khó khăn được áp dụng thuế suất 25% trong thời hạn ba năm, kể từ khi Luật này có hiệu lực thi hành; hết thời hạn ba năm, thực hiện thuế suất 32%. Chính phủ quy định các cơ sở sản xuất, xây dựng, vận tải được áp dụng thuế suất 25%.
+Cơ sở kinh doanh có thu nhập cao do lợi thế khách quan mang lại thì ngoài việc nộp thuế thu nhập theo thuế suất 32%, còn phải nộp thuế thu nhập bổ sung 25% trên phần thu nhập cao do lợi thế khách quan mang lại. Chính phủ quy định phương pháp xác định phần thu nhập cao do lợi thế khách quan mang lại.
+Đối với dự án đầu tư mới thuộc các lĩnh vực, ngành nghề, địa bàn khuyến khích đầu tư được áp dụng thuế suất 25%, 20%, 15% do Chính phủ quy định."
+ENTITY,E39_12,KHOAN,Khoản,structure,9338,9936,"2- Thuế suất thuế thu nhập doanh nghiệp áp dụng đối với các doanh nghiệp có vốn đầu tư nước ngoài và Bên nước ngoài tham gia hợp đồng hợp tác kinh doanh theo mức thuế suất quy định tại Điều 38 của Luật đầu tư nước ngoài tại Việt Nam.
+Khi chuyển thu nhập ra nước ngoài, nhà đầu tư nước ngoài phải nộp một khoản thuế trên số thu nhập chuyển ra nước ngoài theo mức thuế suất quy định tại Điều 43 của Luật đầu tư nước ngoài tại Việt Nam.
+Các cụm từ ""lợi tức"", ""lợi nhuận"" ghi tại Điều 38 và Điều 43 của Luật đầu tư nước ngoài tại Việt Nam theo Luật này được hiểu là "" thu nhập"" để làm căn cứ tính thuế."
+ENTITY,E39_13,KHOAN,Khoản,structure,9937,10250,"3- Thuế suất thuế thu nhập doanh nghiệp đối với tổ chức, cá nhân trong nước và nước ngoài tiến hành tìm kiếm, thăm dò, khai thác dầu khí là 50%; khai thác tài nguyên quí hiếm khác thì có thể áp dụng mức thuế suất từ 32% đến 50% phù hợp với từng dự án, từng cơ sở kinh doanh.
+Chính phủ quy định chi tiết Điều này.
+"
+ENTITY,E39_14,KHOAN,Khoản,structure,15635,15741,1- Cơ quan thuế ấn định thu nhập chịu thuế để tính thuế đối với cơ sở kinh doanh trong các trường hợp sau:
+ENTITY,E39_15,KHOAN,Khoản,structure,16171,16637,"2- Cơ quan thuế căn cứ vào tài liệu điều tra về tình hình hoạt động kinh doanh của cơ sở kinh doanh hoặc căn cứ vào thu nhập chịu thuế của cơ sở kinh doanh cùng ngành nghề, có quy mô kinh doanh tương đương để ấn định thu nhập chịu thuế.
+Trong trường hợp cơ sở kinh doanh không đồng ý với mức ấn định thu nhập chịu thuế thì có quyền khiếu nại lên cơ quan thuế cấp trên trực tiếp; trong khi chờ giải quyết, cơ sở kinh doanh vẫn phải nộp thuế theo mức thuế đã ấn định.
+"
+ENTITY,E40_1,DIEM,Điểm,structure,2261,2435,"a) Chi nhánh, văn phòng điều hành, nhà máy, công xưởng, phương tiện vận tải, hầm mỏ, mỏ dầu hoặc khí đốt hoặc bất cứ địa điểm khai thác tài nguyên thiên nhiên nào ở Việt Nam;"
+ENTITY,E40_2,DIEM,Điểm,structure,2436,2496,"b) Địa điểm xây dựng, công trình xây dựng, lắp đặt, lắp ráp;"
+ENTITY,E40_3,DIEM,Điểm,structure,2497,2606,c) Cơ sở cung cấp dịch vụ bao gồm cả dịch vụ tư vấn thông qua người làm công cho mình hay một đối tượng khác;
+ENTITY,E40_4,DIEM,Điểm,structure,2607,2640,d) Đại lý cho công ty nước ngoài;
+ENTITY,E40_5,DIEM,Điểm,structure,2641,3083,"đ) Đại diện ở Việt Nam trong các trường hợp sau:
+Có thẩm quyền ký kết các hợp đồng đứng tên công ty nước ngoài;
+Không có thẩm quyền ký kết các hợp đồng đứng tên công ty nước ngoài nhưng thường xuyên thực hiện việc giao hàng hoá hoặc cung ứng dịch vụ tại Việt Nam.
+Trong trường hợp Hiệp định tránh đánh thuế hai lần mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết có quy định khác về cơ sở thường trú thì thực hiện theo quy định của Hiệp định đó."
+ENTITY,E40_6,DIEM,Điểm,structure,5327,5435,"a) Khấu hao tài sản cố định sử dụng cho hoạt động sản xuất, kinh doanh, dịch vụ theo quy định của pháp luật;"
+ENTITY,E40_7,DIEM,Điểm,structure,5436,5668,"b) Chi phí nguyên liệu, vật liệu, nhiên liệu, năng lượng, hàng hóa thực tế sử dụng vào sản xuất, kinh doanh, dịch vụ liên quan đến doanh thu và thu nhập chịu thuế trong kỳ, được tính theo mức tiêu hao hợp lý và giá thực tế xuất kho;"
+ENTITY,E40_8,DIEM,Điểm,structure,5669,5994,"c) Tiền lương, tiền công, tiền ăn giữa ca, các khoản mang tính chất tiền lương, tiền công theo chế độ quy định, trừ tiền lương, tiền công của chủ doanh nghiệp tư nhân, chủ hộ cá thể sản xuất, kinh doanh, dịch vụ và thu nhập của sáng lập viên các công ty mà họ không trực tiếp tham gia điều hành sản xuất, kinh doanh, dịch vụ;"
+ENTITY,E40_9,DIEM,Điểm,structure,5995,6125,"d) Chi phí nghiên cứu khoa học, công nghệ; sáng kiến, cải tiến; tài trợ cho giáo dục; y tế; đào tạo lao động theo chế độ quy định;"
+ENTITY,E40_10,DIEM,Điểm,structure,6126,6391,"đ) Chi phí dịch vụ mua ngoài: điện, nước, điện thoại; sửa chữa tài sản cố định; tiền thuê tài sản cố định; kiểm toán; bảo hiểm tài sản; chi trả tiền sử dụng các tài liệu kỹ thuật, bằng sáng chế, giấy phép công nghệ không thuộc tài sản cố định; các dịch vụ kỹ thuật;"
+ENTITY,E40_11,DIEM,Điểm,structure,6392,6709,"e) Các khoản chi cho lao động nữ theo quy định của pháp luật; chi bảo hộ lao động; chi bảo vệ cơ sở kinh doanh; trích nộp quỹ bảo hiểm xã hội, bảo hiểm y tế thuộc trách nhiệm của cơ sở kinh doanh sử dụng lao động; kinh phí công đoàn; khoản trích nộp hình thành nguồn chi phí quản lý cho cấp trên theo chế độ quy định;"
+ENTITY,E40_12,DIEM,Điểm,structure,6710,7006,"g) Chi trả lãi tiền vay vốn sản xuất, kinh doanh, dịch vụ của ngân hàng, của các tổ chức tín dụng theo lãi suất thực tế; chi trả lãi tiền vay của các đối tượng khác theo lãi suất thực tế, nhưng tối đa không quá tỷ lệ lãi suất trần do Ngân hàng nhà nước Việt Nam quy định cho các tổ chức tín dụng;"
+ENTITY,E40_13,DIEM,Điểm,structure,7007,7056,h) Trích các khoản dự phòng theo chế độ quy định;
+ENTITY,E40_14,DIEM,Điểm,structure,7057,7097,i) Trợ cấp thôi việc cho người lao động;
+ENTITY,E40_15,DIEM,Điểm,structure,7098,7139,"k) Chi phí về tiêu thụ hàng hóa, dịch vụ;"
+ENTITY,E40_16,DIEM,Điểm,structure,7140,7446,"l) Chi phí quảng cáo, tiếp thị, khuyến mại liên quan trực tiếp đến hoạt động sản xuất, kinh doanh, dịch vụ và các khoản chi phí khác được khống chế tối đa không quá 7% tổng số chi phí. Đối với hoạt động thương nghiệp, tổng số chi phí để xác định mức khống chế không bao gồm giá mua vào của hàng hóa bán ra;"
+ENTITY,E40_17,DIEM,Điểm,structure,7447,7581,"m) Các khoản thuế, phí, lệ phí, tiền thuê đất phải nộp có liên quan đến hoạt động sản xuất, kinh doanh, dịch vụ được tính vào chi phí;"
+ENTITY,E40_18,DIEM,Điểm,structure,7582,7760,"n) Chi phí quản lý kinh doanh do công ty nước ngoài phân bổ cho cơ sở thường trú ở Việt Nam theo quy định của Chính phủ.
+2 - Không được tính vào chi phí hợp lý các khoản sau đây:"
+ENTITY,E40_19,DIEM,Điểm,structure,7761,7819,a) Các khoản trích trước vào chi phí mà thực tế không chi;
+ENTITY,E40_20,DIEM,Điểm,structure,7820,7884,b) Các khoản chi không có chứng từ hoặc chứng từ không hợp pháp;
+ENTITY,E40_21,DIEM,Điểm,structure,7885,7985,"c) Các khoản tiền phạt, các khoản chi không liên quan đến doanh thu tính thuế và thu nhập chịu thuế;"
+ENTITY,E40_22,DIEM,Điểm,structure,7986,8312,"d) Các khoản chi do các nguồn vốn khác đài thọ.
+3- Các khoản chi phí hợp lý quy định tại khoản 1 Điều này được ghi trong sổ kế toán bằng Đồng Việt Nam. Trường hợp có khoản chi phí bằng ngoại tệ thì phải quy đổi ngoại tệ ra Đồng Việt Nam theo tỷ giá chính thức do Ngân hàng nhà nước Việt Nam công bố tại thời điểm chi ngoại tệ."
+ENTITY,E40_23,DIEM,Điểm,structure,15742,15821,"a) Không thực hiện hoặc thực hiện không đúng chế độ kế toán, hóa đơn, chứng từ;"
+ENTITY,E40_24,DIEM,Điểm,structure,15822,15976,b) Không kê khai hoặc kê khai không đúng các căn cứ để tính thuế hoặc không chứng minh được các căn cứ đã ghi trong tờ khai theo yêu cầu của cơ quan thuế;
+ENTITY,E40_25,DIEM,Điểm,structure,15977,16111,"c) Từ chối việc xuất trình sổ kế toán, hóa đơn, chứng từ và các tài liệu cần thiết liên quan tới việc tính thuế thu nhập doanh nghiệp;"
+ENTITY,E40_26,DIEM,Điểm,structure,16112,16170,d) Kinh doanh không có đăng ký kinh doanh mà bị phát hiện.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_4,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_5,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E2_1,E29_6,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E2_1,E29_7,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E2_1,E29_8,,
+RELATION,R17_9,DAN_CHIEU,Dẫn chiếu,E2_1,E29_9,,
+RELATION,R17_10,DAN_CHIEU,Dẫn chiếu,E2_1,E29_10,,
+RELATION,R17_11,DAN_CHIEU,Dẫn chiếu,E2_1,E29_11,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E2_1,E30_19,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E2_1,E30_20,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E2_1,E30_21,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E2_1,E30_22,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E2_1,E30_23,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E2_1,E30_24,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E2_1,E30_25,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E2_1,E30_26,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E2_1,E30_27,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E2_1,E30_28,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E2_1,E30_29,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E2_1,E30_30,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E2_1,E30_31,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E2_1,E30_32,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E2_1,E30_33,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E2_1,E30_34,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E2_1,E30_35,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E2_1,E30_36,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E2_1,E30_37,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E2_1,E30_38,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E2_1,E30_39,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E2_1,E30_40,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E2_1,E30_41,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E2_1,E30_42,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E2_1,E30_43,,
+RELATION,R18_44,AP_DUNG,Áp dụng,E2_1,E30_44,,
+RELATION,R18_45,AP_DUNG,Áp dụng,E2_1,E30_45,,
+RELATION,R18_46,AP_DUNG,Áp dụng,E2_1,E30_46,,
+RELATION,R18_47,AP_DUNG,Áp dụng,E2_1,E30_47,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_1,E38_3,,
+RELATION,R22_7,THUOC,Thuộc,E39_2,E38_3,,
+RELATION,R22_8,THUOC,Thuộc,E39_3,E38_3,,
+RELATION,R22_9,THUOC,Thuộc,E40_1,E39_3,,
+RELATION,R22_10,THUOC,Thuộc,E40_2,E39_3,,
+RELATION,R22_11,THUOC,Thuộc,E40_3,E39_3,,
+RELATION,R22_12,THUOC,Thuộc,E40_4,E39_3,,
+RELATION,R22_13,THUOC,Thuộc,E40_5,E39_3,,
+RELATION,R22_14,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_15,THUOC,Thuộc,E39_4,E38_4,,
+RELATION,R22_16,THUOC,Thuộc,E39_5,E38_4,,
+RELATION,R22_17,THUOC,Thuộc,E39_6,E38_4,,
+RELATION,R22_18,THUOC,Thuộc,E39_7,E38_4,,
+RELATION,R22_19,THUOC,Thuộc,E38_5,E35_2,,
+RELATION,R22_20,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_21,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_22,THUOC,Thuộc,E39_8,E38_7,,
+RELATION,R22_23,THUOC,Thuộc,E39_9,E38_7,,
+RELATION,R22_24,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_25,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_26,THUOC,Thuộc,E39_10,E38_9,,
+RELATION,R22_27,THUOC,Thuộc,E40_6,E39_10,,
+RELATION,R22_28,THUOC,Thuộc,E40_7,E39_10,,
+RELATION,R22_29,THUOC,Thuộc,E40_8,E39_10,,
+RELATION,R22_30,THUOC,Thuộc,E40_9,E39_10,,
+RELATION,R22_31,THUOC,Thuộc,E40_10,E39_10,,
+RELATION,R22_32,THUOC,Thuộc,E40_11,E39_10,,
+RELATION,R22_33,THUOC,Thuộc,E40_12,E39_10,,
+RELATION,R22_34,THUOC,Thuộc,E40_13,E39_10,,
+RELATION,R22_35,THUOC,Thuộc,E40_14,E39_10,,
+RELATION,R22_36,THUOC,Thuộc,E40_15,E39_10,,
+RELATION,R22_37,THUOC,Thuộc,E40_16,E39_10,,
+RELATION,R22_38,THUOC,Thuộc,E40_17,E39_10,,
+RELATION,R22_39,THUOC,Thuộc,E40_18,E39_10,,
+RELATION,R22_40,THUOC,Thuộc,E40_19,E39_10,,
+RELATION,R22_41,THUOC,Thuộc,E40_20,E39_10,,
+RELATION,R22_42,THUOC,Thuộc,E40_21,E39_10,,
+RELATION,R22_43,THUOC,Thuộc,E40_22,E39_10,,
+RELATION,R22_44,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_45,THUOC,Thuộc,E39_11,E38_10,,
+RELATION,R22_46,THUOC,Thuộc,E39_12,E38_10,,
+RELATION,R22_47,THUOC,Thuộc,E39_13,E38_10,,
+RELATION,R22_48,THUOC,Thuộc,E38_11,E35_3,,
+RELATION,R22_49,THUOC,Thuộc,E38_12,E35_3,,
+RELATION,R22_50,THUOC,Thuộc,E38_13,E35_3,,
+RELATION,R22_51,THUOC,Thuộc,E38_14,E35_3,,
+RELATION,R22_52,THUOC,Thuộc,E38_15,E35_3,,
+RELATION,R22_53,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,R22_54,THUOC,Thuộc,E39_14,E38_16,,
+RELATION,R22_55,THUOC,Thuộc,E40_23,E39_14,,
+RELATION,R22_56,THUOC,Thuộc,E40_24,E39_14,,
+RELATION,R22_57,THUOC,Thuộc,E40_25,E39_14,,
+RELATION,R22_58,THUOC,Thuộc,E40_26,E39_14,,
+RELATION,R22_59,THUOC,Thuộc,E39_15,E38_16,,
+RELATION,R22_60,THUOC,Thuộc,E38_17,E35_4,,
+RELATION,R22_61,THUOC,Thuộc,E38_18,E35_4,,
+RELATION,R22_62,THUOC,Thuộc,E38_19,E35_4,,
+RELATION,R22_63,THUOC,Thuộc,E38_20,E35_4,,
+RELATION,R22_64,THUOC,Thuộc,E38_21,E35_4,,
+RELATION,R22_65,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,R22_66,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_67,THUOC,Thuộc,E38_24,E35_5,,
+RELATION,R22_68,THUOC,Thuộc,E38_25,E35_5,,
+RELATION,R22_69,THUOC,Thuộc,E38_26,E35_5,,
+RELATION,R22_70,THUOC,Thuộc,E38_27,E35_5,,
+RELATION,R22_71,THUOC,Thuộc,E38_28,E35_6,,
+RELATION,R22_72,THUOC,Thuộc,E38_29,E35_6,,
+RELATION,R22_73,THUOC,Thuộc,E38_30,E35_7,,
+RELATION,R22_74,THUOC,Thuộc,E38_31,E35_7,,
+RELATION,R22_75,THUOC,Thuộc,E38_32,E35_7,,
+RELATION,R22_76,THUOC,Thuộc,E38_33,E35_8,,
+RELATION,R22_77,THUOC,Thuộc,E38_34,E35_8,,

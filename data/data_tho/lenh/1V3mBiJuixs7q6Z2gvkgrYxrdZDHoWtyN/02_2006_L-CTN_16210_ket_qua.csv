@@ -1,0 +1,20 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,209,270,"LỆNH
+Về việc công bố Nghị quyết của Ủy ban Thường vụ Quốc hội"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,160,173,02/2006/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,209,213,LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,183,208,ngày 18 tháng 04 năm 2006
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,980,994,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1051,1061,2006-05-08
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1018,1030,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,79,92,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,879,892,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,901,915,Trần Đức Lương
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,679,757,Nghị quyết về việc chấm dứt hiệu lực của Pháp lệnh nghĩa vụ lao động công ích.
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,378,436,Hiếp pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,579,601,Luật Tổ chức Quốc hội;
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,625,665,Luật Ban hành văn bản quy phạm pháp luật
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,

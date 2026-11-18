@@ -1,0 +1,190 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,69,"Luật Sửa đổi, bổ sung một số điều của Luật Thuế Doanh thu số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,61,69,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,6354,6377,ngày 5 tháng 7 năm 1993
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,11802,11816,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,11837,11847,1993-09-01
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,11869,11879,1999-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,11903,11923,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,278,286,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,11937,11954,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,11967,11980,Nông Đức Mạnh
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,12238,12334,Quyết định số 351 QĐ/TC/TCT Giảm thuế doanh thu cho đơn vị sản xuất hàng thay thế hàng nhập khẩu
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,12384,12564,"Thông tư số 97/TC-TCT Hướng dẫn thi hành Nghị định 96/CP ngày 27/12/1995 quy định chi tiết thi hành Luật thuế doanh thu và Luật sửa đổi, bổ sung một số điều của Luật thuế doanh thu"
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,12614,12694,Quyết định số 352 QĐ/TC/TCT Giảm thuế doanh thu cho cơ sở sản xuất mới thành lập
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,12744,12870,"Nghị định số 55-CP Quy định chi tiết thi hành Luật Thuế doanh thu và Luật sửa đổi, bổ sung một số điều của Luật thuế doanh thu"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,12119,12188,"Luật Sửa đổi, bổ sung một số điều của luật Thuế Doanh thu số Không số"
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,12030,12068,Luật Thuế giá trị gia tăng số Không số
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,12890,13016,"Nghị định số 55-CP Quy định chi tiết thi hành Luật Thuế doanh thu và Luật sửa đổi, bổ sung một số điều của Luật thuế doanh thu"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,13036,13237,"Thông tư số 83/TC-TCT Hướng dẫn thực hiện nghĩa vụ thuế doanh thu và lợi tức của các tổ chức và cá nhân nước ngoài tiến hành hoạt động cung cấp dịch vụ chuyển phát nhanh hàng hoá, bưu phẩm tại Việt Nam"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,13257,13425,"Thông tư số 48/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò dầu khí theo quy định của luật dầu khí"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,13445,13520,Quyết định số 37 TC/QÐ/TCT V/v giảm thuế doanh thu cho đơn vị mới thành lập
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,13540,13814,"Thông tư số 107/1998/TT-BTC hướng dẫn thi hành NÐ 24/1998/NÐ-CP ngày 04/5/1998 của CP về việc sửa đổi, bổ sung thuế suất thuế doanh thu đối với một số sản phẩm, ngành nghề kinh doanh và hướng dẫn sửa đổi, bổ sung một số điểm trong TT 97-TC/TCT ngày 30/12/95 của Bộ Tài chính"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,13834,13909,Quyết định số 35 TC/QÐ/TCT V/v Giảm thuế doanh thu cho đơn vị mới thành lập
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,13929,14056,"Nghị định số 96/CP Quy định chi tiết thi hành Luật Thuế doanh thu và Luật Sửa đổi, bổ sung một số  điều của Luật Thuế doanh thu"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,14076,14279,"Nghị định số 182-CP Quy định chi tiết thi hành Nghị quyết số 216-NQ/UBTVQH9 ngày 30-8-1994 của UBTVQH về việc sửa đổi, bổ sung thuế suất thuế doanh thu đối với một số ngành nghề trong biểu thuế doanh thu"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,14299,14491,Thông tư số 102 - TC/TCT Bổ SUNG THÔNG TƯ Số 90 TC/TCT NGàY 10/11/1993 HƯớNG DẫN MộT Số ÐIểM Về CHíNH SáCH THUế ÐốI VớI CáC NGâN HàNG LIÊN DOANH Và CHI NHáNH NGâN HàNG NƯớC NGOàI TạI VIệT NAM.
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,14511,14607,Quyết định số 351 QÐ/TC/TCT Giảm thuế doanh thu cho đơn vị sản xuất hàng thay thế hàng nhập khẩu
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,14627,14723,Quyết định số 351 QĐ/TC/TCT Giảm thuế doanh thu cho đơn vị sản xuất hàng thay thế hàng nhập khẩu
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,14743,14894,"Quyết định số 771/1998/QĐ-UB V/v ổn định, công khai mức thuế trong 6 tháng hoặc 1 năm đối với các hộ sản xuất kinh doanh nhỏ trên địa bàn tỉnh Hưng Yên"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,14914,14994,Quyết định số 352 QĐ/TC/TCT Giảm thuế doanh thu cho cơ sở sản xuất mới thành lập
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,15014,15137,"Nghị định số 24/1998/NĐ-CP Về việc sửa đổi, bổ sung thuế suất thuế doanh thu đối với một số sản phẩm, ngành nghề kinh doanh"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,15157,15308,"Quyết định số 760/1998/QĐ-UB V/v ổn định, công khai mức thuế trong 6 tháng hoặc 1 năm đối với các hộ sản xuất kinh doanh nhỏ trên địa bàn tỉnh Hưng Yên"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,15328,15508,"Thông tư số 97/TC-TCT Hướng dẫn thi hành Nghị định 96/CP ngày 27/12/1995 quy định chi tiết thi hành Luật thuế doanh thu và Luật sửa đổi, bổ sung một số điều của Luật thuế doanh thu"
+ENTITY,E38_1,DIEU,Điều,structure,363,431,"Điều 1
+Sửa đổi, bổ sung một số điều của Luật thuế doanh thu như sau:"
+ENTITY,E38_2,DIEU,Điều,structure,2099,2330,"Điều 2
+Sửa đổi, bổ sung thuế suất đối với một số ngành nghề trong Biểu thuế doanh thu kèm theo Luật thuế doanh thu, đã được sửa đổi, bổ sung tại Nghị quyết số: 472 - NQ/HĐNN8 ngày 10 tháng 9 năm 1991 của Hội đồng Nhà nước, như sau:"
+ENTITY,E38_3,DIEU,Điều,structure,6067,6197,"Điều 3
+Chính phủ sửa đổi, bổ sung các văn bản quy định chi tiết thi hành Luật thuế doanh thu đã ban hành cho phù hợp với Luật này."
+ENTITY,E38_4,DIEU,Điều,structure,6198,6254,"Điều 4
+Luật này có hiệu lực từ ngày 01 tháng 9 năm 1993."
+ENTITY,E39_1,KHOAN,Khoản,structure,432,1106,"1/ Điều 8 được sửa đổi, bổ sung:
+- Điểm e, khoản 1 được sửa đổi, bổ sung:
+""e) Doanh thu đối với hoạt động tín dụng là khoản chênh lệch giữa thu lãi tiền cho vay, thu lãi tiền gửi với trả lãi tiền đi vay, trả lãi tiền gửi.
+Doanh thu đối với hoạt động dịch vụ khác thuộc lĩnh vực ngân hàng là tiền thu được hoặc tiền hoa hồng được hưởng đối với dịch vụ đó;
+Doanh thu đối với hoạt động bảo hiểm là tiền thu về phí bảo hiểm nhận của khách hàng.""
+- Khoản 2 được sửa đổi, bổ sung:
+""2 - Cơ sở kinh doanh có doanh thu bằng ngoại tệ, được nộp thuế bằng ngoại tệ hoặc bằng đồng tiền Việt Nam, quy đổi theo tỷ giá mua vào do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm nộp thuế."""
+ENTITY,E39_2,KHOAN,Khoản,structure,1107,1645,"2/ Khoản 3, Điều 18 được sửa đổi, bổ sung:
+""3 - Cơ sở kinh doanh hoạt động ở miền núi, hải đảo; khai thác thuỷ sản ở vùng biển xa bờ; cơ sở nghiên cứu khoa học, ứng dụng công nghệ mới; cơ sở sản xuất mới thành lập đi vào hoạt động, chạy thử dây chuyền sản xuất mới; cơ sở sản xuất mặt hàng cần thay thế hàng nhập khẩu; nếu gặp khó khăn, được xét giảm thuế tối đa không quá 50% số thuế phải nộp và thời gian được giảm thuế không quá hai năm. Riêng cơ sở kinh doanh hoạt động ở miền núi, hải đảo, thời gian được giảm thuế không quá ba năm."""
+ENTITY,E39_3,KHOAN,Khoản,structure,1646,1940,"3/ Điểm c, khoản 1, Điều 19 được sửa đổi:
+""c) Tổ chức, cá nhân nộp chậm tiền thuế hoặc tiền phạt ghi trong lệnh thu thuế hoặc quyết định xử phạt, thì ngoài việc phải nộp đủ số thuế hoặc tiền phạt theo quy định của Luật này, mỗi ngày nộp chậm còn bị phạt 0,2% (hai phần nghìn) số tiền nộp chậm;"""
+ENTITY,E39_4,KHOAN,Khoản,structure,1941,2098,"4/ Các chữ ""Hội đồng Nhà nước"" được sửa đổi thành các chữ ""Uỷ ban thường vụ Quốc hội"" và các chữ ""Hội đồng bộ trưởng"" được sửa đổi thành các chữ ""Chính phủ""."
+ENTITY,E39_5,KHOAN,Khoản,structure,2331,2384,"1/ Sửa đổi, bổ sung một số điểm của ""ngành sản suất"":"
+ENTITY,E39_6,KHOAN,Khoản,structure,4228,4286,"2/ Sửa đổi, bổ sung một số điểm của ""Ngành thương nghiệp"":"
+ENTITY,E39_7,KHOAN,Khoản,structure,4566,4618,"3/ Sửa đổi, bổ sung một số điểm của ""Ngành dịch vụ"":"
+ENTITY,E40_1,DIEM,Điểm,structure,2385,2603,"a) Điểm 5 được sửa đổi:
+""5 - Sản xuất, lắp ráp cơ khí:
+a - Máy móc, thiết bị, công cụ 1%
+b - Sản phẩm cơ khí tiêu dùng 2%
+Riêng đồ điện cơ khí, bàn là, quạt điện, biến thế điện dưới 15 A, bơm nước điện dưới 10 m3/h 4%"""
+ENTITY,E40_2,DIEM,Điểm,structure,2604,2763,"b) Điểm 7 được sửa đổi:
+""7 - Sản phẩm hoá chất 4%
+Riêng: - Hoá chất cơ bản, phân bón 1%
+- Thuốc trừ sâu và các hoá chất khác phục vụ sản xuất nông nghiệp 0,5%"""
+ENTITY,E40_3,DIEM,Điểm,structure,2764,2884,"c) Điểm 12 được sửa đổi, bổ sung:
+""12 - Giấy và sản phẩm bằng giấy 4%
+Riêng: bột giấy, giấy in báo, giấy vở học sinh 1%"""
+ENTITY,E40_4,DIEM,Điểm,structure,2885,3189,"d) Điểm 15 được sửa đổi, bổ sung:
+""15 - Công nghiệp thực phẩm (bao gồm cả thuốc lá lá, thuốc lá sợi, thuốc lào, cồn, cà phê, chè, mỳ chính, đường, bánh kẹo và các loại thực phẩm khác) 6%
+Riêng: - Muối 0,5%
+- Nước đá dùng cho đánh bắt thuỷ sản 2%
+- Sữa các loại 4%
+- Nước ngọt, nước giải khát các loại 6%"""
+ENTITY,E40_5,DIEM,Điểm,structure,3190,3442,"e) Điểm 18 được sửa đổi, bổ sung:
+""18 - Sợi, dệt:
+a - Sợi các loại (bao gồm cả sợi len dệt thảm, sợi đay, tơ, cói), chỉ 4%
+Riêng: Sợi len, sợi tổng hợp 6%
+b - Dệt các loại 5%
+Riêng: Dệt đay, chiếu, cói, mành và các sản phẩm dệt thủ công, bán cơ khí 3%"""
+ENTITY,E40_6,DIEM,Điểm,structure,3443,3906,"g) Điểm 22 được sửa đổi, bổ sung:
+""22 - In và xuất bản:
+a - In và xuất bản sách chính trị, sách giáo khoa, sách khoa học kỹ thuật, sách phục vụ thiếu nhi, sách báo in bằng tiếng dân tộc thiểu số 0%
+b - In và xuất bản báo các loại 0,5%
+c - In và xuất bản sách các loại 1%
+d - Sản xuất phim bản đầu 1%
+Riêng: Phim tài liệu, phim đề tài cách mạng, đề tài thiếu nhi, đề tài khoa học 0%
+e - In và xuất bản các loại khác; các hoạt động khác thuộc ngành in, xuất bản 4%"""
+ENTITY,E40_7,DIEM,Điểm,structure,3907,3994,"h) Điểm 23 được sửa đổi:
+""23 - Dụng cụ thí nghiệm, y tế, giáo dục, đồ chơi trẻ em 0,5%"""
+ENTITY,E40_8,DIEM,Điểm,structure,3995,4134,"i) Điểm 24 được sửa đổi:
+""24 - Dụng cụ thể dục, thể thao, nhạc cụ và phụ tùng:
+a - Dụng cụ thể dục, thể thao 2%
+b - Nhạc cụ và phụ tùng 1%"""
+ENTITY,E40_9,DIEM,Điểm,structure,4135,4227,"k) Bổ sung thêm điểm 31:
+""31 - Bài lá, vàng mã, hương:
+a - Bài lá, vàng mã 20%
+b - Hương 6%"""
+ENTITY,E40_10,DIEM,Điểm,structure,4287,4433,"a) Bổ sung điểm 9 mới:
+""9 - Kinh doanh ngoại tệ, bất động sản:
+a - Kinh doanh ngoại tệ 0,5%
+b - Kinh doanh bất động sản (kể cả xây nhà để bán) 8%"""
+ENTITY,E40_11,DIEM,Điểm,structure,4434,4565,"b) Sửa đổi điểm 9 cũ thành điểm 10 và bổ sung vào cuối điểm này:
+""- Kinh doanh ngoại tệ, bất động sản 25%
+- Phát hành sách, báo 4%"""
+ENTITY,E40_12,DIEM,Điểm,structure,4619,4744,"a) Điểm 2 được sửa đổi:
+""2 - Dịch vụ khoa học, kỹ thuật, bưu điện:
+a - Dịch vụ khoa học, kỹ thuật 2%
+b - Dịch vụ bưu điện 4%"""
+ENTITY,E40_13,DIEM,Điểm,structure,4745,5132,"b) Điểm 3 được sửa đổi, bổ sung:
+""3 - Hoạt động của Ngân hàng, Hợp tác xã tín dụng, công ty tài chính:
+a - Tín dụng:
+- Tín dụng Ngân hàng nông nghiệp, Hợp tác xã tín dụng nông nghiệp 2%
+- Tín dụng Ngân hàng đầu tư 15%
+- Tín dụng Ngân hàng Ngoại thương 30%
+- Tín dụng Ngân hàng Công thương, công ty tài chính và các hoạt động tín dụng khác 15%
+b - Các hoạt động dịch vụ nghiệp vụ khác 6%"""
+ENTITY,E40_14,DIEM,Điểm,structure,5133,5614,"c) Điểm 6 được sửa đổi, bổ sung:
+""6 - Dịch vụ dạy nghề, văn hoá, nghệ thuật, y tế,
+thể dục, thể thao, tư vấn pháp luật:
+a - Cơ sở kinh doanh dạy nghề, y tế, thể dục,
+thể thao, văn hoá, nghệ thuật 0,5%
+Riêng: Ca múa nhạc dân tộc truyền thống, tuồng, chèo, cải lương, múa rối, ba lê, opera, giao hưởng, xiếc, kịch 0%
+b - Tư vấn pháp luật:
+- Cho nước ngoài 4%
+- Cho trong nước 2%
+c - Chiếu phim nhựa: 1%
+Riêng: Chiếu phim tài liệu, khoa học, đề tài thiếu nhi và phục vụ ở miền núi 0%"""
+ENTITY,E40_15,DIEM,Điểm,structure,5615,5698,"d) Điểm 7 được sửa đổi, bổ sung:
+""7 - Chụp, in, phóng ảnh; phô tô copy các loại 6%"""
+ENTITY,E40_16,DIEM,Điểm,structure,5699,5805,"e) Điểm 9 được sửa đổi:
+""9 - Chiếu video, quảng cáo, in băng, thu băng, sang băng 8%
+Riêng chiếu video 6%"""
+ENTITY,E40_17,DIEM,Điểm,structure,5806,6066,"g) Điểm 15 được sửa đổi, bổ sung:
+""15 - Dịch vụ đặc biệt:
+a - Khiêu vũ 30%
+b - Đua ngựa 20%
+c - Phát hành xổ số kiến thiết và các hoạt động xổ số khác 30%
+Riêng ở các tỉnh miền núi 20%
+d - Đại lý tàu biển 40%
+e - Môi giới vận tải và các loại môi giới khác 15%"""
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_4,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_5,E38_2,,
+RELATION,R22_8,THUOC,Thuộc,E40_1,E39_5,,
+RELATION,R22_9,THUOC,Thuộc,E40_2,E39_5,,
+RELATION,R22_10,THUOC,Thuộc,E40_3,E39_5,,
+RELATION,R22_11,THUOC,Thuộc,E40_4,E39_5,,
+RELATION,R22_12,THUOC,Thuộc,E40_5,E39_5,,
+RELATION,R22_13,THUOC,Thuộc,E40_6,E39_5,,
+RELATION,R22_14,THUOC,Thuộc,E40_7,E39_5,,
+RELATION,R22_15,THUOC,Thuộc,E40_8,E39_5,,
+RELATION,R22_16,THUOC,Thuộc,E40_9,E39_5,,
+RELATION,R22_17,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,R22_18,THUOC,Thuộc,E40_10,E39_6,,
+RELATION,R22_19,THUOC,Thuộc,E40_11,E39_6,,
+RELATION,R22_20,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,R22_21,THUOC,Thuộc,E40_12,E39_7,,
+RELATION,R22_22,THUOC,Thuộc,E40_13,E39_7,,
+RELATION,R22_23,THUOC,Thuộc,E40_14,E39_7,,
+RELATION,R22_24,THUOC,Thuộc,E40_15,E39_7,,
+RELATION,R22_25,THUOC,Thuộc,E40_16,E39_7,,
+RELATION,R22_26,THUOC,Thuộc,E40_17,E39_7,,

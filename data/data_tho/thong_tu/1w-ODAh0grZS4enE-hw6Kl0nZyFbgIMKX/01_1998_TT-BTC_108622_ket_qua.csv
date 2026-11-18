@@ -1,0 +1,13 @@
+﻿"NHÓM (ENTITY / RELATION)","ID","CODE","LABEL","SCOPE / FROM_ID","START / TO_ID","END","TEXT"
+"ENTITY","E1_1","TEN_VAN_BAN","Tên văn bản","metadata","180","530","HƯỚNG DẪN THỰC HIỆN CHI PHÍ DỊCH VỤ, HOA HỒNG MÔI GIỚI TRONG DOANH NGHIỆP NHÀ NƯỚC
+Thi hành Điều 29 Nghị định số 59/CP ngày 3-10-1996 của Chính phủ ban hành Quy chế quản lý tài chính và hạch toán kinh doanh đối với doanh nghiệp Nhà nước; Bộ Tài chính hướng dẫn thực hiện chi phí dịch vụ, hoa hồng môi giới áp dụng trong doanh nghiệp Nhà nước như sau:"
+"ENTITY","E2_1","SO_HIEU","Số hiệu","metadata","12","26","01/1998/TT-BTC"
+"ENTITY","E3_1","LOAI_VAN_BAN","Loại văn bản","metadata","110","118","THÔNG TƯ"
+"ENTITY","E5_1","NGAY_BAN_HANH","Ngày ban hành","metadata","7128","7138","1998-01-02"
+"ENTITY","E6_1","LINH_VUC","Lĩnh vực","metadata","7151","7165","Chưa phân loại"
+"ENTITY","E7_1","NGAY_CO_HIEU_LUC","Ngày có hiệu lực","metadata","6900","6925","sau 15 ngày kể từ ngày ký"
+"ENTITY","E9_1","TINH_TRANG_HIEU_LUC","Tình trạng hiệu lực","metadata","7189","7201","Còn hiệu lực"
+"ENTITY","E10_1","CO_QUAN_BAN_HANH","Cơ quan ban hành","metadata","418","430","Bộ Tài chính"
+"ENTITY","E12_1","NGUOI_KY","Người ký","metadata","7214","7228","Phạm Văn Trọng"
+"ENTITY","E13_1","VB_DUOC_HUONG_DAN_AP_DUNG","Văn bản được hướng dẫn áp dụng","reference","2618","2662","Nghị định 59/CP ngày 3/10/1996 của Chính phủ"
+"RELATION","R1_1","DUOC_HUONG_DAN_AP_DUNG","Được hướng dẫn áp dụng","E2_1","E13_1","",""

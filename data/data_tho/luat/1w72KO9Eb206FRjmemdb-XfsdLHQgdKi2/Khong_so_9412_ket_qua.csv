@@ -1,0 +1,1636 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,35,Luật Ngân sách Nhà nước số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,27,35,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,48977,49001,ngày 20 tháng 3 năm 1996
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,49067,49081,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,49102,49112,1997-01-01
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,49134,49144,2004-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,49168,49188,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,1675,1683,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,49202,49219,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,49232,49245,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,49338,49356,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,49265,49283,Hiến pháp năm 1992
+ENTITY,E23_1,VB_HUONG_DAN_AP_DUNG,Văn bản hướng dẫn áp dụng,reference,49514,49663,"Quyết định số 57/1998/QĐ-BCN Về việc sửa đổi bổ sung khoản 1, điều 13, chương IV điều lệ tổ chức-hoạt động của Viện Nghiên cứu Địa chất và Khoáng sản"
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,49713,49819,"Thông tư số 63-TC/ĐTPT Hướng dẫn việc quản lý, cấp phát vốn dầu tư XDCB thuộc nguồn vốn ngân sách Nhà nước"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,49869,49989,"Thông tư số 64-TC/ĐTPT Hướng dẫn quản lý, cấp phát vốn quy hoạch ngành, lãnh thổ, quy hoạch xây dựng đô thị và nông thôn"
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,50039,50177,"Quyết định số 1163/TC-QLCS ban hành ""Quy chế xử lý tài sản không cần dùng và không còn sử dụng được trong các cơ quan hành chính sự nghiệp"
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,50227,50315,Quyết định số 37/2011/QĐ-TTg Về cơ chế hỗ trợ phát triển các dự án điện gió tại Việt Nam
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,50365,50584,"Nghị quyết số 16/2001/NQ-HĐND Về việc: Ban hành quy định tạm thời về chế độ trợ cấp đối với Trưởng thôn, bản, Tổ trưởng tổ dân phố, Bí thư chi bộ, Tổ trưởng Đảng trực thuộc Chi, Đảng bộ xã, phường, thị trấn tỉnh Lào Cai"
+ENTITY,E24_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,50634,50846,"Nghị quyết số 21/2001/NQ-HĐND Về việc: Thành lập nguồn vốn khuyến khích phát triển Tiểu thủ công nghiệp và đối tượng hưởng chính sách ưu đãi từ nguồn vốn khuyến khích phát triển Tiểu, Thủ công nghiệp tỉnh Lào Cai"
+ENTITY,E24_7,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,50896,51050,Nghị quyết số 24/2001/NQ-HĐND Về dự án: Hỗ trợ chất lợp và giải quyết nước ăn cho hộ đói nghèo vùng đặc biệt khó khăn tỉnh Lào Cai (giai đoạn 2001 - 2005)
+ENTITY,E24_8,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,51100,51220,Quyết định số 1475/1998/QĐ-BTC Về việc ban hành chế độ kế toán nghiệp vụ đầu tư phát triển và quỹ hỗ trợ đầu tư quốc gia
+ENTITY,E24_9,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,51270,51488,"Quyết định số 100/2001/QĐ-UB Về việc cho vay vốn và cấp bù lãi suất đối với các hộ sản xuất, các dự án, các doanh nghiệp, nông - lâm trường để trồng chè, dứa, cây ăn quả qua Chi nhánh Quỹ hỗ trợ phát triển tỉnh Lào Cai"
+ENTITY,E24_10,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,51538,51597,Quyết định số 318/QĐ-UB V/v điều chỉnh giá bán lẻ muối I ốt
+ENTITY,E24_11,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,51647,51733,Quyết định số 227/2001/QĐ-UB V/v điều chỉnh mức thu lãi suất tín dụng cho vay hộ nghèo
+ENTITY,E24_12,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,51783,51841,Quyết định số 74/2001/QĐ-UB V/v thu phí qua cầu Hồ Kiều II
+ENTITY,E24_13,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,51891,51950,Thông tư số 136/1999/TT-BTC Hướng dẫn quyết toán vốn đầu tư
+ENTITY,E24_14,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,52000,52087,Quyết định số 280/1997/QĐ-BTC-NSNN Về việc ban hành hệ thống mục lục ngân sách nhà nước
+ENTITY,E24_15,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,52137,52293,Nghị định số 60-CP Quy định về việc Chính phủ hướng dẫn và kiểm tra đối với Hội đồng nhân dân trong việc thực hiện các văn bản của cơ quan Nhà nước cấp trên
+ENTITY,E24_16,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,52343,52582,Nghị quyết số 15/2001/NQ-HĐND Về việc bãi bỏ quy định: Huy động các nguồn lực tham gia xây dựng trường lớp và đầu tư phát triển đường giao thông nông thôn. Triển khai thực hiện Pháp lệnh Nghĩa vụ lao động công ích trên địa bàn tỉnh Lào Cai
+ENTITY,E24_17,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,52632,52722,Quyết định số 999/TC-QĐ-CĐKT về việc ban hành hệ thống chế độ kế toán hành chính sự nghiệp
+ENTITY,E24_18,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,52772,52833,Thông tư số 65/TC-ĐTPT Hướng dẫn bảo hiểm công trình xây dựng
+ENTITY,E24_19,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,52883,53041,"Thông tư liên tịch số 81/2008/TTLT-BTC-BTP Hướng dẫn việc lập, quản lý, sử dụng và quyết toán kinh phí bảo đảm hoạt động của cơ quan trợ giúp pháp lý nhà nước"
+ENTITY,E24_20,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,53091,53283,"Nghị quyết số 02/2003/NQ-HĐND Về: Ban hành quy định hỗ trợ kinh phí đối với nhân dân tham gia quản lý và bảo vệ biên giới. Bổ sung, điều chỉnh một số loại phí, lệ phí trên địa bàn tỉnh Lào Cai"
+ENTITY,E24_21,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,53333,53403,Thông tư số 66-TC/ĐTPT Hướng dẫn quyết toán vốn đầu tư xây dựng cơ bản
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,49407,49484,"Luật Sửa đổi, bổ sung một số điều của Luật Ngân sách Nhà nước số 06/1998/QH10"
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,105580,105619,Luật Ngân sách nhà nước số 01/2002/QH11
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,53425,53563,Nghị quyết số 19/2001/NQ-HĐND12 Về tình hình thực hiện nhiệm vụ kinh tế - xã hội thành phố 6 tháng đầu năm; Nhiệm vụ 6 tháng cuối năm 2001
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,53585,53726,"Thông tư số 53/2012/TT-BTC Quy định quản lý, sử dụng và quyết toán kinh phí các cuộc Tổng điều tra thống kê do Thủ tướng Chính phủ quyết định"
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,53748,53831,Nghị định số 10/2002/NĐ-CP Về chế độ tài chính áp dụng cho đơn vị sự nghiệp có thu.
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,53853,54019,Thông tư số 58/2000/TT-BTC Hướng dẫn thực hiện một số điểm của Nghị định 01/2000/nđ-cp ngày 13/1/2000 của chính phủ về ban hành quy chế phát hành trái phiếu chính phủ
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,54041,54120,Nghị định số 100/1998/NĐ-CP Về chế độ tài chính của Ngân hàng Nhà nước Việt Nam
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,54142,54266,Thông tư số 114/2000/TT-BTC hướng dẫn quản lý kinh phí chi các cuộc điều tra thuộc nguồn vốn sự nghiệp từ ngân sách nhà nước
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,54288,54474,"Nghị định số 12/2000/NĐ-CP Về việc sửa đổi, bổ sung một số điều của Quy chế quản lý đầu tư và xây dựng ban hành kèm theo Nghị định số 52/1999/NĐ-CP ngày 08 tháng 7 năm 1999 của Chính phủ"
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,54496,54685,"Thông tư liên tịch số 01/2006/TTLT-BLĐTBXH-BGD-BYT Hướng dẫn công tác dạy văn hoá, giáo dục phục hồi hành vi, nhân cách cho người nghiện ma tuý, người bán dâm và người sau cai nghiện ma tuý"
+ENTITY,E29_9,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,54707,54824,Chỉ thị số 34/1997/CT-UB Về việc xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách Nhà nước năm 1998
+ENTITY,E29_10,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,54846,54962,Quyết định số 69/2000/QĐ-TTg Ban hành Quy chế quản lý và sử dụng kinh phí hỗ trợ xây dựng văn bản quy phạm pháp luật
+ENTITY,E29_11,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,54984,55030,Pháp lệnh số 38/2001/PL-UBTVQH10 Phí và lệ phí
+ENTITY,E29_12,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55052,55095,Nghị quyết số Không Số Về nhiệm vụ năm 1998
+ENTITY,E29_13,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55117,55284,"Quyết định số 31/2006/QĐ-TTg Về việc phê duyệt Đề án đào tạo, bồi dưỡng Chủ tịch Hội đồng nhân dân, Chủ tịch Uỷ ban nhân dân xã, phường, thị trấn giai đoạn 2006 - 2010"
+ENTITY,E29_14,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55306,55426,Chỉ thị số 24/1999/CT-UB Về việc triển khai thực hiện Nghị định 40/1999/NĐ-CP ngày 23-6-1999 của Chính phủ về Công an xã
+ENTITY,E29_15,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55448,55576,Quyết định số 62/1998/QĐ.UB V/v Thành lập Đoàn thanh tra bước II các chương trình mục tiêu năm 1997 trên địa bàn tỉnh Bình Phước
+ENTITY,E29_16,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55598,55722,"Chỉ thị số 15/2001/CT-UB Về quản lý, sử dụng và công khai tài chính các quỹ có nguồn thu từ các khoản đóng góp của nhân dân."
+ENTITY,E29_17,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55744,55812,"Pháp lệnh số 02/1998/PL-UBTVQH10 Thực hành tiết kiệm, chống lãng phí"
+ENTITY,E29_18,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55834,55930,Quyết định số 57/2001/QĐ-UB V/v ban hành chiến lược dân số tỉnh Bình Phước giai đoạn 2001 - 2010
+ENTITY,E29_19,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,55952,56043,Thông tư số 116/1998/TT-BTC Hướng dẫn công tác quản lý tài chính đối với Hội người cao tuổi
+ENTITY,E29_20,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,56065,56271,"Chỉ thị số 37/1999/CT-UBND Về việc nghiêm cấm đặt ra các khoản thu trái phép khi làm thủ tục giao đất, chuyển quyền sử dụng đất, cấp giấy chứng nhận quyền sử dụng đất cho các tổ chức, hộ gia đình và cá nhân"
+ENTITY,E29_21,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,56293,56399,Quyết định số 64/2001/QĐ-TTg Về việc ban hành Quy chế quản lý và sử dụng viện trợ phi chính phủ nước ngoài
+ENTITY,E29_22,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,56421,56549,"Thông tư số 06/2000/TT-BTC Hướng dẫn thi hành một số điểm về chủ trương, biện pháp điều hành dự toán ngân sách nhà nước năm 2000"
+ENTITY,E29_23,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,56571,56737,"Nghị định số 12/2015/NĐ-CP Quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế"
+ENTITY,E29_24,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,56759,56971,"Thông tư liên tịch số 3729/2001/BQP-BTC Hướng dẫn nội dung chi và Quản lý ngân sách thực hiện công tác quản lý, bảo vệ biên giới quốc gia, giữ gìn an ninh, trật tự, an toàn xã hội trong khu vực biên giới đất liền"
+ENTITY,E29_25,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,56993,57032,Luật Ngân hàng Nhà nước số 01/1997/QH10
+ENTITY,E29_26,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,57054,57173,Chỉ thị số 16/2001/CT-TTg Về việc xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2002.
+ENTITY,E29_27,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,57195,57409,"Thông tư liên tịch số 161/1998/TTLT/TC-GTVT Hướng dẫn chế độ quản lý tài chính và chế độ cấp phát thanh toán đối với doanh nghiệp nhà nước hoạt động công ích trong lĩnh vực quản lý, sửa chữa cơ sở hạ tầng đường sắt"
+ENTITY,E29_28,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,57431,57531,Quyết định số 149/2001/QĐ-UB V/v thực hiện nghĩa vụ lao động công ích trên địa bàn thành phố Đà Nẵng
+ENTITY,E29_29,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,57553,57631,"Chỉ thị số 23/CT-UB V/v: Triển khai, tổ chức thực hiện Luật Ngân sách Nhà nước"
+ENTITY,E29_30,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,57653,57790,"Quyết định số 343/QĐ-UB V/v Ban hành quy định về thủ tục cấp giấy phép thành lập Doanh nghiệp tư nhân, Công ty trên địa bàn tỉnh Hưng Yên"
+ENTITY,E29_31,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,57812,57876,Chỉ thị số 13/2000/CT-UB Về việc tăng cường quản lý ngân sách xã
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,57896,58013,"Quyết định số 1108/QĐ-UB Về việc ban hành Quy chế về huy động, quản lý, sử dụng Quỹ hỗ trợ đầu tư phát triển của tỉnh"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,58033,58126,Nghị định số 145/1999/NĐ-CP Về tổ chức lại Tổng cục Đầu tư phát triển trực thuộc Bộ Tài chính
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,58146,58357,"Quyết định số 1258/1999/QĐ-UB Về việc ban hành quy định tạm thời đặt hòm công đức, quản lý sử dụng tiền công đức ở các khu di tích lịch sử văn hoá, danh lam thắng cảnh đã được xếp hạng trên địa bàn tỉnh Nghệ An."
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,58377,58488,Quyết định số 77/QĐ-UB Về thu các loại lệ phí qua cầu Hồ Kiều đối với người và phương tiện tại cửa khẩu Lào Cai
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,58508,58646,"Quyết định số 66/2001/QĐ-UB Về việc bổ sung, điều chỉnh một số Điều quy định về việc hỗ trợ vốn đầu tư xây dựng đường giao thông nông thôn"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,58666,58812,"Quyết định số 136/2001/QĐ-UB Về việc: Điều hoà kế hoạch XDCB năm 2001 khối Hạ tầng đô thịThành phố đã giao cho một số Sở, Ban, Ngành, Quận, Huyện."
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,58832,58989,"Thông tư số 135/1999/TT-BTC Hướng dẫn việc quản lý thanh toán vốn đầu tư và vốn sự nghiệp có tính chất đầu tư và xây dựng thuộc nguồn vốn ngân sách nhà nước,"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,59009,59132,Thông tư số 65/2003/TT-BTC Hướng dẫn quản lý kinh phí chi cho các cuộc Điều tra Thống kê thuộc nguồn vốn ngân sách Nhà nước
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,59152,59280,Thông tư số 29/2000/TT-BTC Quy định về quản lý quỹ tạm giữ của ngân sách nhà nước tại các cơ quan đại diện việt nam ở nước ngoài
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,59300,59388,Nghị quyết số 02/1998/NQ-HĐND Về dự toán và phân bổ ngân sách địa phương năm 1998
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,59408,59477,Thông tư số 121/2002/TT-BTC hướng dẫn kế toán đơn vị sự nghiệp có thu
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,59497,59593,Quyết định số 10/2001/QĐ-BTC Về việc ban hành Quy chế Chuyển vốn đầu tư thuộc ngân sách nhà nước
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,59613,59702,"Thông tư số 69/2003/TT-BTC Hướng dẫn quản lý và sử dụng chi phí giám sát, đánh giá đầu tư"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,59722,59826,Nghị quyết số 21/2006/NQ-HĐND Về định mức phân bổ dự toán chi thường xuyên ngân sách địa phương năm 2007
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,59846,60003,Quyết định số 2663/QĐ-UB Ban hành Quy định tạm thời về khoản thu phục vụ vệ sinh - môi trường và cứu sinh tại các bãi tắm biển trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,60023,60242,"Nghị quyết số 16/2001/NQ-HĐND Về việc: Ban hành quy định tạm thời về chế độ trợ cấp đối với Trưởng thôn, bản, Tổ trưởng tổ dân phố, Bí thư chi bộ, Tổ trưởng Đảng trực thuộc Chi, Đảng bộ xã, phường, thị trấn tỉnh Lào Cai"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,60262,60544,"Nghị quyết số 110/2000/NQ-HĐ V/v: Vận động các tổ chức, hộ gia đình và cá nhân đóng góp quỹ đầu tư xây dựng cơ sở hạ tầng địa phương khi được giao, khoán đất nông nghiệp, lâm nghiệp hoặc hợp thức hóa quyền sử dụng đất nông nghiệp, lâm nghiệp xâm canh lấn chiếm trước ngày 10/01/1997"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,60564,60702,"Quyết định số 132/2003/QĐ-UB Ban hành mức thu học phí, công tác quản lý thu, chi học phí hệ đào tạo mở tại Trường kỹ nghệ tỉnh Tuyên Quang"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,60722,61052,"Quyết định số 128/2003/QĐ-UB Về việc: Điều chỉnh điểm 12 phần IV bản quy định kèm theo quyết định số 37/2003/QĐ-UB ngày 28/2/2003 về tỷ lệ (%) phân chia giữa ngân sách Thành phố và Ngân sách các quận, huyện đối với khoản thu đấu giá quyền sử dụng đất do các quận, huyện thu và việc sử dụng số tiền điều tiết về Ngân sách Thành phố"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,61072,61192,"Quyết định số 55/2009/QĐ-UBND Ban hành Quy định-nội dung, mức chi
+thực hiện xóa mù chữ, phổ cập giáo dục tỉnh Bình Phước"
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,61212,61297,Thông tư số 25/2000/TT-BTC Hướng dẫn hoàn trả các khoản thu đã nộp Ngân sách nhà nước
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,61317,61471,"Quyết định số 32/2000/QĐ-UB V/v ban hành quy định đối tượng, hình thức, tiêu chuẩn Khen thưởng hoàn thành và vượt mức nghĩa vụ Ngân sách Nhà nước hàng năm"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,61491,61639,"Quyết định số 330/QĐ-UB Về việc sửa đổi bổ xung mức thu phí và cước vận tải, giá dịch vụ thuộc lĩnh vực giao thông vận tải trên địa bàn tỉnh Lào Cai"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,61659,61839,"Quyết định số 02/2001/QĐ-UB Về việc Giao chỉ tiêu kế hoạch kinh tế-xã hội và dự toán thu, chi Ngân sách Nhà nước năm 2001 cho các cấp, các ngành và các đơn vịThuộc Thành phố Hà Nội"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,61859,61951,"Nghị quyết số 120/2015/NQ-HĐND Về dự toán thu, chi ngân sách địa phương tỉnh Sơn La năm 2016"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,61971,62124,"Quyết định số 524/2002/QĐ-UB Về việc ban hành mức thu học phí; công tác quản lý thu, chi học phí hệ đào tạo mở tại trường Trung học Y tế tỉnh Tuyên Quang"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,62144,62330,"Nghị quyết số 32/2009/QH12 Điều chỉnh mục tiêu tổng quát, một số chỉ tiêu kinh tế, ngân sách nhà nước, phát hành bổ sung trái phiếu Chính phủ năm 2009 và miễn, giảm thuế thu nhập cá nhân"
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,62350,62514,Quyết định số 58/2001/QĐ-UB Về việc ban hành Quy chế xét thưởng xuất khẩu cho các doanh nghiệp có thành tích trong hoạt động xuất khẩu trên địa bàn Thành phố Hà Nội
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,62534,62665,"Quyết định số 228/1998/QĐ-UB Về việc quy định tạm thời mức phụ thu đối với hoạt động khai thác
+và tiêu thụ quặng sắt, quặng fenspat"
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,62685,62749,Nghị quyết số 28/2002/NQ-HĐ Phê duyệt dự toán ngân sách năm 2002
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,62769,62917,Quyết định số 1083/1998/QĐ-UB Số 1083/1998/QĐUB-TM ngày 15 tháng 4 năm 1998 về việc nộp tiền xử lý vi phạm quản lý điện vào Kho bạc Nhà nước Nghệ An
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,62937,63116,"Quyết định số 50/2001/QĐ-UB Về việc bổ sung dự toán chi ngân sách năm 2001 cho một số Sở, Ban, Ngành và Quận, Huyện từ nguồn kết dư ngân sách và thưởng vượt thu ngân sách năm 2000"
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,63136,63264,Quyết định số 35/2005/QĐ-UB V/v Phê duyệt định mức chi quản lý hành chính đối với công chức dự bị trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,63284,63367,Nghị định số 10/2002/NĐ-CP Về chế độ tài chính áp dụng cho đơn vị sự nghiệp có thu.
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,63387,63523,"Quyết định số 89/2003/QĐ-UB Về việc Quy định mức phụ cấp cho cán bộ của Đài truyền thanh cơ sở xã, phường trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,63543,63689,Quyết định số 474/1999/QĐ-UB V/v ban hành quy định về trình tự giải quyết các thủ tục hành chính của Sở Tài chính - Vật giá tỉnh Bà Rịa - Vũng Tàu
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,63709,63809,Nghị quyết số 04/NQ-HĐND Về việc Phê chuẩn dự án thu các loại phí - lệ phí trên địa bàn tỉnh Lào Cai
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,63829,63938,Quyết định số 457 QĐ/UB Ban hành quy định phụ thu giá bán điện đối với các hộ mua điện của Điện lực Hải Phòng
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,63958,64093,Quyết định số 66/2004/QĐ-UB V/v: Ban hành chính sách hỗ trợ sản xuất nông - lâm nghiệp trên địa bàn tỉnh Lai Châu giai đoạn 2005 - 2010
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,64113,64308,"Thông tư liên tịch số 89/2001/TTLT/BTC-BCA Thông tư hướng dẫn việc nộp, sử dụng và quyết toán tiền thuế thu nhập doanh nghiệp đối với các doanh nghiệp Nhà nước hoạt động công ích thuộc Bộ Công an"
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,64328,64488,Nghị quyết số 06/2000/NQ-HĐND Về việc: Quy định phụ cấp cho công an xã; Bố trí nguồn dự phòng chi cho công tác chữa cháy rừng trên địa bàn tỉnh Lào cai năm 2000
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,64508,64605,Quyết định số 09/2002/QĐ-UB V/v Mức thu - chi học phí học sinh kế hoạch A - Trường Trung học Y tế
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,64625,64715,Quyết định số 999/TC-QĐ-CĐKT về việc ban hành hệ thống chế độ kế toán hành chính sự nghiệp
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,64735,64865,"Quyết định số 30/2001/QĐ-UB Về phân chia tỷ lệ phần trăm (%) thu ngân sách năm 2001 đối với quận - huyện, phường - xã và thị trấn."
+ENTITY,E30_45,VB_AP_DUNG,Văn bản áp dụng,reference,64885,65051,Quyết định số 331/2002/QĐ-UB về việc ban hành Qui định tạm thời hỗ trợ lãi suất tiền vay mua máy nông nghiệp phục vụ làm đất kịp thời vụ trên địa bàn tỉnh Tuyên Quang
+ENTITY,E30_46,VB_AP_DUNG,Văn bản áp dụng,reference,65071,65199,"Quyết định số 39/1998/QĐ-UBND Về việc quy định các khoản thu, mức thu từng loại phí, lệ phí áp dụng trên địa bàn tỉnh Quảng Bình"
+ENTITY,E30_47,VB_AP_DUNG,Văn bản áp dụng,reference,65219,65306,Quyết định số 141/2001/QĐ-BTC Về việc ban hành Chế độ kế toán ngân sách và tài chính xã
+ENTITY,E30_48,VB_AP_DUNG,Văn bản áp dụng,reference,65326,65426,"Thông tư số 103/1998/TT-BTC Hướng dẫn việc phân cấp, lập, chấp hành và quyết toán ngân sách Nhà nước"
+ENTITY,E30_49,VB_AP_DUNG,Văn bản áp dụng,reference,65446,65530,Quyết định số 131/2001/QĐ-UB Về việc thành lập Quỹ Phát triển nhà ở Thành phố Hà Nội
+ENTITY,E30_50,VB_AP_DUNG,Văn bản áp dụng,reference,65550,65624,Quyết định số 10/1999/QĐ-UB về việc quy định tỷ lệ điều tiết các khoản thu
+ENTITY,E30_51,VB_AP_DUNG,Văn bản áp dụng,reference,65644,65736,"Nghị quyết số 16/2001/NQ-HĐND Phân bổ vốn ngân sách nhà nước đầu tư
+xây dựng cơ bản năm 2001"
+ENTITY,E30_52,VB_AP_DUNG,Văn bản áp dụng,reference,65756,65877,Quyết định số 31/2001/QĐ-UB Về việc ban hành quy định cơ chế chính sách phát triển ngân sách xã trên địa bàn tỉnh Nghệ An
+ENTITY,E30_53,VB_AP_DUNG,Văn bản áp dụng,reference,65897,65994,Quyết định số 170/2005/QĐ-UBND Ban hành Quy định về các khoản thu đối với người tái nghiện ma túy
+ENTITY,E30_54,VB_AP_DUNG,Văn bản áp dụng,reference,66014,66113,Nghị quyết số 100/1999/NQ-HĐ Về việc phê chuẩn tổng quyết toán ngân sách Nhà nước của tỉnh năm 1998
+ENTITY,E30_55,VB_AP_DUNG,Văn bản áp dụng,reference,66133,66247,Quyết định số 143/QĐ-UB Về việc huy động sức dân đầu tư phát triển đường giao thông nông thôn trên địa bàn Lào Cai
+ENTITY,E30_56,VB_AP_DUNG,Văn bản áp dụng,reference,66267,66421,Quyết định số 180/2001/QĐ-UB V/v Chi hỗ trợ công tác quản lý và điều tiết chung từ nguồn tiền thu học phí thuộc ngành Giáo dục - Đào tạo thành phố Đà Nẵng
+ENTITY,E30_57,VB_AP_DUNG,Văn bản áp dụng,reference,66441,66526,Nghị quyết số 03/NQ-HĐND Về việc Phê chuẩn lập quỹ an ninh và quốc phòng tỉnh Lào Cai
+ENTITY,E30_58,VB_AP_DUNG,Văn bản áp dụng,reference,66546,66626,Quyết định số 10/2001/QÐ-BTC Về việc ban hành quy chế chuyển vốn đầu tư của NSNN
+ENTITY,E30_59,VB_AP_DUNG,Văn bản áp dụng,reference,66646,66816,"Quyết định số 121/2003/QĐ-UB Về việc điều chỉnh dự toán thu ngân sách năm 2003 các khoản thu: Tiền sử dụng đất; Thuế chuyển quyền sử dụng đất và Lệ phí trước bạ nhà, đất."
+ENTITY,E30_60,VB_AP_DUNG,Văn bản áp dụng,reference,66836,67033,"Quyết định số 129/2001/QĐ-UB Về việc điều chỉnh, bổ sung kế hoạch vốn đã giao tại Quyết định số 50/2001/QĐ-UB ngày 5/7/2001 và Quyết định số 103/2001/QĐ-UB ngày 01/11/2001 cho UBND các Quận, Huyện."
+ENTITY,E30_61,VB_AP_DUNG,Văn bản áp dụng,reference,67053,67139,Quyết định số 175/QĐ-UB Về việc quy định giá vé tham quan du lịch núi Hàm Rồng - Sa Pa
+ENTITY,E30_62,VB_AP_DUNG,Văn bản áp dụng,reference,67159,67261,Quyết định số 17/2004/QĐ-UB Về việc phê duyệt điều chỉnh giá trị lắp đặt công tơ điện một pha trọn gói
+ENTITY,E30_63,VB_AP_DUNG,Văn bản áp dụng,reference,67281,67363,Nghị quyết số 16/1999/NQ-HĐ Về việc phân cấp nhiệm vụ thu - chi ngân sách năm 1999
+ENTITY,E30_64,VB_AP_DUNG,Văn bản áp dụng,reference,67383,67522,"Quyết định số 544/TC-QĐ-CĐKT Về việc ban hành chế độ thống nhất phát hành và quản lý các loại biểu mẫu chứng từ thu, chi ngân sách Nhà nước"
+ENTITY,E30_65,VB_AP_DUNG,Văn bản áp dụng,reference,67542,67631,Quyết định số 89/2000/QĐ-UB Quy định mức thu phí tham quan khu vực Bãi Bụt - quận Sơn Trà
+ENTITY,E30_66,VB_AP_DUNG,Văn bản áp dụng,reference,67651,67739,Nghị quyết số 06/1998/NQ-HĐ Về thành lập Quỹ an ninh - quốc phòng trên địa bàn thành phố
+ENTITY,E30_67,VB_AP_DUNG,Văn bản áp dụng,reference,67759,67922,Quyết định số 110/2002/QĐ-UB Về việc ban hành Quy định hỗ trợ xây dựng cơ sở vật chất và chế độ cho giáo viên các trường Mầm non dân lập trên địa bàn tỉnh Bắc Ninh
+ENTITY,E30_68,VB_AP_DUNG,Văn bản áp dụng,reference,67942,68061,Nghị quyết số 53/2002/NQ-HĐND Về việc hỗ trợ xây dựng cơ sở vật chất và chế độ đối với giáo viên trường Mầm non dân lập
+ENTITY,E30_69,VB_AP_DUNG,Văn bản áp dụng,reference,68081,68208,Nghị quyết số 114/2002/NQ-HĐND Quy định tạm thời cơ chế điều tiết lại ngân sách cho các địa phương khi giao đất làm công nghiệp
+ENTITY,E30_70,VB_AP_DUNG,Văn bản áp dụng,reference,68228,68358,Quyết định số 27/1999/QĐ-UB Về việc cấp bù lãi suất tín dụng cho vùng nghèo vùng sản xuất nguyên liệu phục vụ công nghiệp chế biến
+ENTITY,E30_71,VB_AP_DUNG,Văn bản áp dụng,reference,68378,68544,Quyết định số 75/2001/QĐ-UB V/v ban hành bản Quy định phân cấp cho UBND thành phố Vinh giải quyết một số công việc trong phát triển kinh tế - xã hội và quản lý đô thị
+ENTITY,E30_72,VB_AP_DUNG,Văn bản áp dụng,reference,68564,68736,"Quyết định số 32/2001/QĐ-UB Về việc ban hành quy định cấp phát, quản lý vốn Ngân sách Nhà nước cấp bổ sung vốn lưu động cho các doanh nghiệp Nhà nước thuộc Thành phố Hà Nội"
+ENTITY,E30_73,VB_AP_DUNG,Văn bản áp dụng,reference,68756,69011,Quyết định số 66/1999/QĐ-UB Về việc ban hành quy chế hoạt động của Ban chỉ đạo thực hiện chính sách đưa hàng lên miền nuí theo Văn bản 7464/KTTH của Chính phủ và trợ cước vận chuyển (chiều xuống) thu mua các mặt hàng nông sản cho đồng bào Miền núi Dân tộc
+ENTITY,E30_74,VB_AP_DUNG,Văn bản áp dụng,reference,69031,69130,Nghị quyết số 137/2002/NQ-HĐND V/v : Phê chuẩn tổng quyết toán ngân sách Nhà nước của tỉnh năm 2001
+ENTITY,E30_75,VB_AP_DUNG,Văn bản áp dụng,reference,69150,69249,Quyết định số 322/1998/QĐ-UB Về việc thu lệ phí tham quan du lịch Bãi đá cổ và khu Thác bạc - Sa Pa
+ENTITY,E30_76,VB_AP_DUNG,Văn bản áp dụng,reference,69269,69385,Quyết định số 69/2000/QĐ-TTg Ban hành Quy chế quản lý và sử dụng kinh phí hỗ trợ xây dựng văn bản quy phạm pháp luật
+ENTITY,E30_77,VB_AP_DUNG,Văn bản áp dụng,reference,69405,69644,Nghị quyết số 15/2001/NQ-HĐND Về việc bãi bỏ quy định: Huy động các nguồn lực tham gia xây dựng trường lớp và đầu tư phát triển đường giao thông nông thôn. Triển khai thực hiện Pháp lệnh Nghĩa vụ lao động công ích trên địa bàn tỉnh Lào Cai
+ENTITY,E30_78,VB_AP_DUNG,Văn bản áp dụng,reference,69664,69748,Quyết định số 89/QĐ-UB Về việc quy định tỷ lệ % các khoản thu giữa các cấp ngân sách
+ENTITY,E30_79,VB_AP_DUNG,Văn bản áp dụng,reference,69768,69881,"Quyết định số 284/QĐ-UB Về việc chỉ định cơ quan thu phí vận chuyển hàng hóa ra, vào bến bãi tại cửa khẩu Lào Cai"
+ENTITY,E30_80,VB_AP_DUNG,Văn bản áp dụng,reference,69901,70013,"Quyết định số 184/QĐ-UB Về việc quy định thu phí qua cầu treo Phố Ràng, Việt Tiến, Bắc Cuông thuộc huyện Bảo Yên"
+ENTITY,E30_81,VB_AP_DUNG,Văn bản áp dụng,reference,70033,70094,Nghị quyết số 42/1999/NQ-HĐND.K12 Về việc thu phí thu gom rác
+ENTITY,E30_82,VB_AP_DUNG,Văn bản áp dụng,reference,70114,70257,Quyết định số 21/2001/QĐ-UB Về việc ban hành quy chê quản lý kế toán ngân sách xã áp dụng thí điểm trên địa bàn thành phố Vinh và Thị xã Cửa Lò
+ENTITY,E30_83,VB_AP_DUNG,Văn bản áp dụng,reference,70277,70475,"Nghị quyết số 20/2006/NQ-HĐND Thông qua Đề án phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm phân chia các khoản thu giữa ngân sách các cấp chính quyền địa phương của tỉnh giai đoạn 2007 - 2010"
+ENTITY,E30_84,VB_AP_DUNG,Văn bản áp dụng,reference,70495,70667,"Quyết định số 52/2005/QĐ-UB về việc sửa đổi, bổ sung ""Quy định hỗ trợ xây dựng cơ sở vật chất và chế độ cho giáo viên các trường mầm non dân lập"" trên địa bàn tỉnh Bắc Ninh"
+ENTITY,E30_85,VB_AP_DUNG,Văn bản áp dụng,reference,70687,70803,"Quyết định số 08/2001/QĐ-UB Về việc ban hành quy định về phân công, phân cấp và quản lý điều hành ngân sách năm 2001"
+ENTITY,E30_86,VB_AP_DUNG,Văn bản áp dụng,reference,70823,70941,"Quyết định số 75/QĐ-UB Về thu các loại lệ phí cấp giấy phép xây dựng và chứng chỉ 
+quy hoạch trên địa bàn tỉnh Lào Cai"
+ENTITY,E30_87,VB_AP_DUNG,Văn bản áp dụng,reference,70961,71106,"Nghị quyết số 14/2006/NQ-HĐND Về việc qui định tạm thời một số khoản chi hoạt động của Hội đồng nhân dân các cấp trong tỉnh, nhiệm kỳ 2004 - 2009"
+ENTITY,E30_88,VB_AP_DUNG,Văn bản áp dụng,reference,71126,71216,Nghị quyết số 02/NQ-HĐND Về việc phê chuẩn dự toán ngân sách và phân bổ ngân sách năm 1997
+ENTITY,E30_89,VB_AP_DUNG,Văn bản áp dụng,reference,71236,71334,Quyết định số 204/QĐ-UB V/v Quy định tỷ lệ điều tiết các khoản thu ngân sách cho các cấp ngân sách
+ENTITY,E30_90,VB_AP_DUNG,Văn bản áp dụng,reference,71354,71442,Quyết định số 3401/UB-VP Về việc phê duyệt giá trị lắp đặt công tơ điện một giá trọn gói
+ENTITY,E30_91,VB_AP_DUNG,Văn bản áp dụng,reference,71462,71517,Nghị định số 07/2000/NĐ-CP Về chính sách cứu trợ xã hội
+ENTITY,E30_92,VB_AP_DUNG,Văn bản áp dụng,reference,71537,71613,Nghị quyết số 18/2000/NQ-HĐND Về phân bổ vốn đầu tư xây dựng cơ bản năm 2000
+ENTITY,E30_93,VB_AP_DUNG,Văn bản áp dụng,reference,71633,71739,"Thông tư số 63-TC/ĐTPT Hướng dẫn việc quản lý, cấp phát vốn dầu tư XDCB thuộc nguồn vốn ngân sách Nhà nước"
+ENTITY,E30_94,VB_AP_DUNG,Văn bản áp dụng,reference,71759,71931,"Quyết định số 88/2001/QĐ-UB Về việc Điều chỉnh, bổ sung một số tỷ lệ (%) phân chia các khoản thu Ngân sách giữa các cấp Ngân sách  được hưởng trên địa bàn Thành phố Hà Nội."
+ENTITY,E30_95,VB_AP_DUNG,Văn bản áp dụng,reference,71951,72025,Quyết định số 07/2000/QĐ-UB Về việc quy định tỷ lệ điều tiết các khoản thu
+ENTITY,E30_96,VB_AP_DUNG,Văn bản áp dụng,reference,72045,72191,Quyết định số 1340/QĐ-UB Ban hành qui chế tạm thời về quản lý vốn thực hiện các đề tài khoa học và công nghệ có nguồn vốn của ngân sách địa phương
+ENTITY,E30_97,VB_AP_DUNG,Văn bản áp dụng,reference,72211,72395,"Quyết định số 125/1999/QĐ-UB Về việc cấp bù lãi suất đối với nguồn vốn vay phát triển vùng cao, nguồn vốn xoá đói giảm nghèo Việt Đức, nguồn vốn xoá đói 
+giảm nghèo do MISEKEOR tài trợ"
+ENTITY,E30_98,VB_AP_DUNG,Văn bản áp dụng,reference,72415,72580,"Quyết định số 59/2002/QĐ-UB Ban hành Quy chế quản lý, cấp phát và thanh quyết toán kinh phí sự nghiệp kinh tế thuộc ngân sách Nhà nước trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_99,VB_AP_DUNG,Văn bản áp dụng,reference,72600,72783,"Quyết định số 33/2000/QĐ-UB V/v Điều chỉnh tăng mức trợ cấp hàng tháng cho cán bộ Tổ dân phố, Thôn và bổ sung mức trợ cấp hàng tháng cho cán bộ Khối phố trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_100,VB_AP_DUNG,Văn bản áp dụng,reference,72803,72863,Nghị quyết số 8b/2003/NQ/HĐND4 Về dự toán ngân sách năm 2003
+ENTITY,E30_101,VB_AP_DUNG,Văn bản áp dụng,reference,72883,73048,"Nghị quyết số 139/2002/NQ-HĐND Về một số nhiệm vụ trọng tâm cần tập trung chỉ đạo, điều hành trong 6 tháng cuối năm và điều chỉnh dự toán thu, chi ngân sách năm 2002"
+ENTITY,E30_102,VB_AP_DUNG,Văn bản áp dụng,reference,73068,73129,Thông tư số 65/TC-ĐTPT Hướng dẫn bảo hiểm công trình xây dựng
+ENTITY,E30_103,VB_AP_DUNG,Văn bản áp dụng,reference,73149,73263,Nghị quyết số 19/NQ-HĐND15 về việc thành lập Quỹ hỗ trợ giải quyết việc làm từ nguồn tiết kiệm 5% chi thường xuyên
+ENTITY,E30_104,VB_AP_DUNG,Văn bản áp dụng,reference,73283,73367,Nghị quyết số 123/2001/NQ-HĐ V/v : Điều chỉnh nguồn vốn và phân bổ vốn XDCB năm 2001
+ENTITY,E30_105,VB_AP_DUNG,Văn bản áp dụng,reference,73387,73525,Nghị quyết số 22/2001/NQ-HĐND.VI Về việc phân cấp nhiệm vụ chi đầu tư xây dựng cơ bản cho ngân sách cấp huyện theo Luật Ngân sách Nhà nước
+ENTITY,E30_106,VB_AP_DUNG,Văn bản áp dụng,reference,73545,73697,"Thông tư số 184/1998/TT-BTC hướng dẫn kế toán vật tư, hàng hoá tồn kho, giá trị khối lượng SCL, XDCB hoàn thành ở thời điểm cuối năm của các đơn vị HCSN"
+ENTITY,E30_107,VB_AP_DUNG,Văn bản áp dụng,reference,73717,73929,"Nghị quyết số 21/2001/NQ-HĐND Về việc: Thành lập nguồn vốn khuyến khích phát triển Tiểu thủ công nghiệp và đối tượng hưởng chính sách ưu đãi từ nguồn vốn khuyến khích phát triển Tiểu, Thủ công nghiệp tỉnh Lào Cai"
+ENTITY,E30_108,VB_AP_DUNG,Văn bản áp dụng,reference,73949,74009,Nghị quyết số 4b/2001/NQ-HĐND4 Về dự toán ngân sách năm 2001
+ENTITY,E30_109,VB_AP_DUNG,Văn bản áp dụng,reference,74029,74146,"Quyết định số 327/QĐ-UB Về việc ban hành cơ chế, biện pháp tổ chức thực hiện dự toán Ngân sách Nhà nước tỉnh năm 2003"
+ENTITY,E30_110,VB_AP_DUNG,Văn bản áp dụng,reference,74166,74260,Quyết định số 250/1998/QĐ-UB Về việc đổi tên lệ phí qua cầu Hồ Kiều thành lệ phí qua Biên giới
+ENTITY,E30_111,VB_AP_DUNG,Văn bản áp dụng,reference,74280,74473,"Quyết định số 1298/QĐ-UB Ban hành mức thu học phí; công tác quản lý thu, chi học phí tại các trường: Cao đẳng sư phạm, Trung học kinh tế - kỹ thuật và dạy nghề, Trung học y tế tỉnh Tuyên Quang."
+ENTITY,E30_112,VB_AP_DUNG,Văn bản áp dụng,reference,74493,74601,"Nghị định số 87-CP Quy định chi tiết việc phân cấp, quản lý, lập, chấp hành và quyết toán ngân sách Nhà nước"
+ENTITY,E30_113,VB_AP_DUNG,Văn bản áp dụng,reference,74621,74899,"Quyết định số 171/2002/QĐ-UB Về việc sửa đổi khoản 1 - Điều 1 Quyết định số 1298/QĐ-UB ngày 15/8/2001 về việc ""Ban hành mức thu học phí, công tác quản lý thu, chi học phí tại các trường: Cao đẳng sư phạm, Trung học kinh tế - kỹ thuật và dạy nghề, Trung học Y tế tỉnh Tuyên Quang"
+ENTITY,E30_114,VB_AP_DUNG,Văn bản áp dụng,reference,74919,75008,"Quyết định số 74/QĐ-UB Về thu phí kiểm dịch y tế đường bộ, đường sắt tại cửa khẩu Lào Cai"
+ENTITY,E30_115,VB_AP_DUNG,Văn bản áp dụng,reference,75028,75191,Quyết định số 110/2002/QĐ-UB về việc ban hành Quy định hỗ trợ xây dựng cơ sở vật chất và chế độ cho giáo viên các trường Mầm non dân lập trên địa bàn tỉnh Bắc Ninh
+ENTITY,E30_116,VB_AP_DUNG,Văn bản áp dụng,reference,75211,75307,Quyết định số 279/1998/QĐ-BTC Về việc kiểm tra quỹ trái phép tại các đơn vị hành chính sự nghiệp
+ENTITY,E30_117,VB_AP_DUNG,Văn bản áp dụng,reference,75327,75545,"Quyết định số 100/2001/QĐ-UB Về việc cho vay vốn và cấp bù lãi suất đối với các hộ sản xuất, các dự án, các doanh nghiệp, nông - lâm trường để trồng chè, dứa, cây ăn quả qua Chi nhánh Quỹ hỗ trợ phát triển tỉnh Lào Cai"
+ENTITY,E30_118,VB_AP_DUNG,Văn bản áp dụng,reference,75565,75689,Quyết định số 88/2002/QĐ-UB Về việc Ban hành Điều lệ tạm thời về tổ chức hoạt động của Quĩ phát triẻn nhà ở Thành phố Hà Nội
+ENTITY,E30_119,VB_AP_DUNG,Văn bản áp dụng,reference,75709,75806,Quyết định số 06/2001/QĐ-UBND Về việc phân chia các khoản thu theo tỷ lệ % giữa các cấp ngân sách
+ENTITY,E30_120,VB_AP_DUNG,Văn bản áp dụng,reference,75826,76040,"Quyết định số 393/2002/QĐ-UB về việc ban hành Quy định tạm thời hỗ trợ, quản lý, sử dụng, thanh toán, quyết toán kinh phí hỗ trợ dồn diền, đổi thửa và kiên cố hoá kênh mương cho các xã trên địa bàn tỉnh Tuyên Quang"
+ENTITY,E30_121,VB_AP_DUNG,Văn bản áp dụng,reference,76060,76223,"Quyết định số 39/2001/QĐ-BTC Về việc sửa đổi, bổ sung Chế độ kế toán Ngân sách xã ban hành theo Quyết định 827/1998/QĐ-BTC ngày 4/7/1998 của Bộ trưởng Bộ Tài chính"
+ENTITY,E30_122,VB_AP_DUNG,Văn bản áp dụng,reference,76243,76301,Quyết định số 74/2001/QĐ-UB V/v thu phí qua cầu Hồ Kiều II
+ENTITY,E30_123,VB_AP_DUNG,Văn bản áp dụng,reference,76321,76459,"Quyết định số 1163/TC-QLCS ban hành ""Quy chế xử lý tài sản không cần dùng và không còn sử dụng được trong các cơ quan hành chính sự nghiệp"
+ENTITY,E30_124,VB_AP_DUNG,Văn bản áp dụng,reference,76479,76594,Nghị quyết số 101/1999/NQ-HĐ Về việc thu - chi học phí trong các trường bán công và Trung tâm giáo dục thường xuyên
+ENTITY,E30_125,VB_AP_DUNG,Văn bản áp dụng,reference,76614,76729,"Thông tư số 118/2000/TT-BTC Quy định về quản lý ngân sách xã và các hoạt động tài chính khác ở xã, phường, thị trấn"
+ENTITY,E30_126,VB_AP_DUNG,Văn bản áp dụng,reference,76749,76969,"Quyết định số 14/2001/QĐ-UB Về việc ban hành Quy định về phân cấp, ủy quyền nhiệm vụ chi đầu tư xây dựng cơ bản; quản lý đầu tư và xây dựng; phê duyệt các nội dung cơ bản của quá trình đấu thầu trên địa bàn tỉnh Lâm Đồng"
+ENTITY,E30_127,VB_AP_DUNG,Văn bản áp dụng,reference,76989,77189,"Quyết định số 204/1998/QĐ-TTg ban hành Quy chế tạm thời về lập dự toán, cấp phát, quản lý, quyết toán kinh phí sự nghiệp kinh tế đối với các hoạt động điều tra cơ bản địa chất về tài nguyên khoáng sản"
+ENTITY,E30_128,VB_AP_DUNG,Văn bản áp dụng,reference,77209,77291,"Quyết định số 105/2002/QĐ-UB Về việc thành lập, sử dụng và quản lý Quỹ khuyến công"
+ENTITY,E30_129,VB_AP_DUNG,Văn bản áp dụng,reference,77311,77414,Quyết định số 1803/1998/QĐ-UB Về việc nộp tiền xử lý vi phạm quản lý điện vào kho bạc Nhà nước Nghệ An.
+ENTITY,E30_130,VB_AP_DUNG,Văn bản áp dụng,reference,77434,77554,"Thông tư số 45/1999/TT-BTC quy định chế độ công tác phí cho cán bộ, công chức Nhà nước đi công tác ngắn hạn ở nước ngoài"
+ENTITY,E30_131,VB_AP_DUNG,Văn bản áp dụng,reference,77574,77689,Quyết định số 549/2002/QĐ-UB Về việc quy định hỗ trợ kinh phí đối với nhân dân tham gia quản lý và bảo vệ biên giới
+ENTITY,E30_132,VB_AP_DUNG,Văn bản áp dụng,reference,77709,77840,"Quyết định số 5485/1997/QĐ-UB Ban hành quy định huy động kinh phí đóng góp xây dựng vỉa hè, đường phố ở thành phố Vinh tỉnh Nghệ An"
+ENTITY,E30_133,VB_AP_DUNG,Văn bản áp dụng,reference,77860,77957,Quyết định số 3322/2000/QĐ-UB Về việc thu lệ phí thi tuyển công chức ngành Giáo dục &amp; Đào tạo
+ENTITY,E30_134,VB_AP_DUNG,Văn bản áp dụng,reference,77977,78093,"Nghị quyết số 104/2000/NQ-HĐ Về việc thông qua Danh mục và mức thu các loại phí, lệ phí trên địa bàn tỉnh Bình Phước"
+ENTITY,E30_135,VB_AP_DUNG,Văn bản áp dụng,reference,78113,78214,Quyết định số 2369/1997/QĐ-UB Quy định tạm thời về phí vệ sinh môi trường trên địa bàn thành phố Vinh
+ENTITY,E30_136,VB_AP_DUNG,Văn bản áp dụng,reference,78234,78328,Quyết định số 148/QĐ-UB Về việc huy động nguồn lực trong dân để xây dựng phát triển trường lớp
+ENTITY,E30_137,VB_AP_DUNG,Văn bản áp dụng,reference,78348,78424,Nghị quyết số 07/1999/NQ-HĐND Về dự toán thu chi ngân sách Nhà nước năm 2000
+ENTITY,E30_138,VB_AP_DUNG,Văn bản áp dụng,reference,78444,78581,"Chỉ thị số 69/2000/CT-UB V/v tăng cường công tác quản lý, khắc phục và chấn chỉnh các sai phạm còn tồn tại trong quản lý ngân sách cấp xã"
+ENTITY,E30_139,VB_AP_DUNG,Văn bản áp dụng,reference,78601,78678,"Nghị quyết số 5c/2001/NQ/HĐND4 Điều chỉnh dự toán thu, chi ngân sách năm 2001"
+ENTITY,E30_140,VB_AP_DUNG,Văn bản áp dụng,reference,78698,78812,"Thông tư số 23/2002/TT-BTC hướng dẫn quản lý, sử dụng chi phí quản lý dự án đầu tư từ nguồn vốn ngân sách nhà nước"
+ENTITY,E30_141,VB_AP_DUNG,Văn bản áp dụng,reference,78832,79016,"Quyết định số 96/1999/QĐ-UB Quy định mức thu phí tham quan các khu di tích lịch sử, công trình văn hóa và danh lam thắng cảnh; phí qua cầu, sử dụng đường bộ khu du lịch Bà Nà - Suối Mơ"
+ENTITY,E30_142,VB_AP_DUNG,Văn bản áp dụng,reference,79036,79078,Nghị định số 78/2000/NĐ-CP Về phí xăng dầu
+ENTITY,E30_143,VB_AP_DUNG,Văn bản áp dụng,reference,79098,79186,Quyết định số 37/2011/QĐ-TTg Về cơ chế hỗ trợ phát triển các dự án điện gió tại Việt Nam
+ENTITY,E30_144,VB_AP_DUNG,Văn bản áp dụng,reference,79206,79411,"Quyết định số 5525/1997/QĐ-UB Về việc quy định tạm thời diện tích đất ở xét cấp giấy chứng nhận quyền sử dụng đất ở, đất vườn cùng khuôn viên đất ở đô thị cho hộ gia đình, cá nhân trên địa bàn tỉnh Nghệ An"
+ENTITY,E30_145,VB_AP_DUNG,Văn bản áp dụng,reference,79431,79719,"Nghị quyết số 102/2023/NQ-HĐND Quy định biểu mẫu, thời gian gửi báo cáo kế hoạch tài chính 05 năm, kế hoạch tài chính - ngân sách nhà nước 03 năm, dự toán, phân bổ ngân sách địa phương và quyết toán ngân sách địa phương; thời gian giao dự toán và phê chuẩn quyết toán ngân sách địa phương"
+ENTITY,E30_146,VB_AP_DUNG,Văn bản áp dụng,reference,79739,79907,Quyết định số 93/2002/QĐ-UB Về việc quy định mức trợ cấp nuôidưỡng đối tượng cứu trợ xã hội tại các Trung tâm Bảo trợ xã hội do Sở lao động Thương Binh và Xã hội quảnlý
+ENTITY,E30_147,VB_AP_DUNG,Văn bản áp dụng,reference,79927,80038,Quyết định số 190/QĐ-UB Về việc thành lập Quỹ hỗ trợ giải quyết việc làm từ nguồn tiết kiệm 5% chi thường xuyên
+ENTITY,E30_148,VB_AP_DUNG,Văn bản áp dụng,reference,80058,80198,"Quyết định số 87/1999/QĐ-UB Về việc sử dụng vốn nhàn rỗi của ngân sách địa phương cho các
+đơn vị XDCB vay qua Ngân hàng Đầu tư và Phát triển"
+ENTITY,E30_149,VB_AP_DUNG,Văn bản áp dụng,reference,80218,80341,Quyết định số 20/2003/QĐ-UB Về việc ban hành quy định mức thu và biện pháp quản lý thu phí chợ trên địa bàn tỉnh Quảng Ngãi
+ENTITY,E30_150,VB_AP_DUNG,Văn bản áp dụng,reference,80361,80538,Quyết định số 114/2003/QĐ-UB Ban hành Quy định tạm thời về quản lý và sử dụng các khoản thu phạt vi phạm hành chính trong quản lý trật tự xây dựng trên địa bàn Thành phố Hà Nội.
+ENTITY,E30_151,VB_AP_DUNG,Văn bản áp dụng,reference,80558,80633,Nghị quyết số 06/08/1998 Phê chuẩn quyết toán ngân sách địa phương năm 1997
+ENTITY,E30_152,VB_AP_DUNG,Văn bản áp dụng,reference,80653,80750,Nghị quyết số 121/2001/NQ-HĐ V/v : Phê chuẩn tổng quyết toán ngân sách Nhà nước của Tỉnh năm 2000
+ENTITY,E30_153,VB_AP_DUNG,Văn bản áp dụng,reference,80770,80840,Thông tư số 66-TC/ĐTPT Hướng dẫn quyết toán vốn đầu tư xây dựng cơ bản
+ENTITY,E30_154,VB_AP_DUNG,Văn bản áp dụng,reference,80860,80941,Quyết định số 86/1998/QĐ-UB Về việc quy định thu học phí các lớp đại học tại chức
+ENTITY,E30_155,VB_AP_DUNG,Văn bản áp dụng,reference,80961,81102,"Quyết định số 132/2001/QĐ-UB Về việc điều hoà kế hoạch XDCB năm 2001 khối Văn xã Thành phố đã giao cho các Sở, Ngành và UBND các Quận, Huyên."
+ENTITY,E30_156,VB_AP_DUNG,Văn bản áp dụng,reference,81122,81190,Quyết định số 69/2001/QĐ-UB Về việc thành lập Quỹ an ninh quốc phòng
+ENTITY,E30_157,VB_AP_DUNG,Văn bản áp dụng,reference,81210,81343,"Quyết định số 145/2001/QĐ-UB Ban hành Quy định tạm thời mức thu, quản lý và sử dụng phí sử dụng vỉa hè trên dịa bàn thành phố Đà Nẵng"
+ENTITY,E30_158,VB_AP_DUNG,Văn bản áp dụng,reference,81363,81501,Quyết định số 3287/2001/QĐ-UB Về việc ban hành Quy định về cơ chế quản lý tài chính đối với các hoạt động khoa học và phát triển công nghệ
+ENTITY,E30_159,VB_AP_DUNG,Văn bản áp dụng,reference,81521,81660,"Quyết định số 882/2002/QĐ-UB Về việc bổ sung và nâng cao mức khoán công tác phí và sinh hoạt cho giảng viên, học viên Trường Chính trị tỉnh"
+ENTITY,E30_160,VB_AP_DUNG,Văn bản áp dụng,reference,81680,81722,Quyết định số 76/QĐ-UB Về lệ phí chứng thư
+ENTITY,E30_161,VB_AP_DUNG,Văn bản áp dụng,reference,81742,81895,"Thông tư số 26/2001/TT-BTC hướng dẫn một số điểm về cấp phát kinh phí cho các tổ chức xã hội, tổ chức xã hội - nghề nghiệp được ngân sách hỗ trợ kinh phí"
+ENTITY,E30_162,VB_AP_DUNG,Văn bản áp dụng,reference,81915,82010,"Quyết định số 1189/QĐ-UB V/v thu hồi văn bản 475/QĐ-UB ngày 01/4/1997 
+của Uỷ ban nhân dân tỉnh"
+ENTITY,E30_163,VB_AP_DUNG,Văn bản áp dụng,reference,82030,82172,Quyết định số 11/1999/QĐ-UB Về chế độ trợ cấp hàng tháng đối với cán bộ Ban điều hành Tổ dân phố và cán bộ Thôn trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_164,VB_AP_DUNG,Văn bản áp dụng,reference,82192,82315,Nghị định số 84/1999/NĐ-CP Về tổ chức lại Tổng cục Quản lý vốn và Tài sản Nhà nước tại doanh nghiệp trực thuộc Bộ Tài chính
+ENTITY,E30_165,VB_AP_DUNG,Văn bản áp dụng,reference,82335,82462,Quyết định số 5485/QĐ.UB Ban hành quy định huy động kinh phí đóng góp xây dựng vỉa hè đường phố ở thành phố Vinh - tỉnh Nghệ An
+ENTITY,E30_166,VB_AP_DUNG,Văn bản áp dụng,reference,82482,82597,"Quyết định số 6274/1998/QĐ-UB V/v Nghiêm cấm các tổ chức, cá nhân tự ý tổ chức các hoạt động gây quỹ trái pháp luật"
+ENTITY,E30_167,VB_AP_DUNG,Văn bản áp dụng,reference,82617,82737,"Quyết định số 55/2000/QĐ-UB V/v Thể chế hóa chế độ hỗ trợ kinh phí mai táng ở các cấp thành phố, quận, huyện, xã, phường"
+ENTITY,E30_168,VB_AP_DUNG,Văn bản áp dụng,reference,82757,82833,Nghị định số 90/1998/NĐ-CP Ban hành Quy chế quản lý vay và trả nợ nước ngoài
+ENTITY,E30_169,VB_AP_DUNG,Văn bản áp dụng,reference,82853,83007,Nghị quyết số 24/2001/NQ-HĐND Về dự án: Hỗ trợ chất lợp và giải quyết nước ăn cho hộ đói nghèo vùng đặc biệt khó khăn tỉnh Lào Cai (giai đoạn 2001 - 2005)
+ENTITY,E30_170,VB_AP_DUNG,Văn bản áp dụng,reference,83027,83121,Quyết định số 1087/1998/QĐ-UB Về việc mức thu lệ phí thuê địa điểm kinh doanh tại chợ Ga Vinh.
+ENTITY,E30_171,VB_AP_DUNG,Văn bản áp dụng,reference,83141,83271,Quyết định số 148/2002/QĐ-BTC Về việc ban hành mã số danh mục Mục - Tiểu mục phí và lệ phí của hệ thống Mục lục Ngân sách nhà nước
+ENTITY,E30_172,VB_AP_DUNG,Văn bản áp dụng,reference,83291,83361,Thông tư số 66-TC/ÐTPT hướng dẫn quyết toán vốn đầu tư xây dựng cơ bản
+ENTITY,E30_173,VB_AP_DUNG,Văn bản áp dụng,reference,83381,83496,Quyết định số 3491/1998/QĐ-UB V/v Quy định quản lý hoạt động giữ xe và giá vé giữ xe trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_174,VB_AP_DUNG,Văn bản áp dụng,reference,83516,83659,Nghị quyết số 26/2002/NQ-HĐ V/v : Thông qua chủ trương huy động đóng góp của nhân dân để xây dựng lưới điện hạ thế trên địa bàn tỉnh Bình Phước
+ENTITY,E30_175,VB_AP_DUNG,Văn bản áp dụng,reference,83679,83774,Quyết định số 08/2003/QĐ-UB Về việc Phân chia các khoản thu theo tỷ lệ % giữa các cấp Ngân sách
+ENTITY,E30_176,VB_AP_DUNG,Văn bản áp dụng,reference,83794,83948,"Nghị quyết số 12/2016/NQ-HĐND Về nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư phát triển
+ nguồn Ngân sách nhà nước tỉnh Bến Tre giai đoạn 2016-2020"
+ENTITY,E30_177,VB_AP_DUNG,Văn bản áp dụng,reference,83968,84116,"Quyết định số 135/QĐ-UB/TM Về việc thực hiện cấp kinh phí sự nghiệp Giáo dục - Đào tạo, Y tếbằng hình thức ""Kinh phí uỷ quyền"" cho cấp huyện, thị xã"
+ENTITY,E30_178,VB_AP_DUNG,Văn bản áp dụng,reference,84136,84219,Quyết định số 04/UB Ban hành quy định về quản lý điều hành Ngân sách của địa phương
+ENTITY,E30_179,VB_AP_DUNG,Văn bản áp dụng,reference,84239,84343,Quyết định số 713/2000/QĐ/UB-TM V/v Ban hành Quy chế trích lập và sử dụng quỹ dự phòng Ngân sách các cấp
+ENTITY,E30_180,VB_AP_DUNG,Văn bản áp dụng,reference,84363,84574,"Quyết định số 2016/QĐ-UB Về việc thay thế nội dung khoản 3 - Điều 3 Quyết định số 1145/QĐ-UB ngày 09/11/1998 về việc ""Thu và sử dụng học phí ở một số trường phổ thông trung học và mầm non trên địa bàn các huyện"""
+ENTITY,E30_181,VB_AP_DUNG,Văn bản áp dụng,reference,84594,84714,Quyết định số 18/1999/QĐ-UB Về việc thu lệ phí tham quan du lịch khu di tích lịch sử văn hóa Đền Thượng - thị xã Lào Cai
+ENTITY,E30_182,VB_AP_DUNG,Văn bản áp dụng,reference,84734,84844,Quyết định số 134/1999/QĐ-UB Về việc quy định mức trợ cấp cán bộ làm công tác xóa đói giảm nghèo tại xã nghèo.
+ENTITY,E30_183,VB_AP_DUNG,Văn bản áp dụng,reference,84864,84922,Quyết định số 936/1998/QĐ-UB V/v Duyệt đơn giá biển số nhà
+ENTITY,E30_184,VB_AP_DUNG,Văn bản áp dụng,reference,84942,85081,"Quyết định số 544-TC/QÐ/CÐKT về việc ban hành chế độ thống nhất phát hành và quản lý các loại biểu mẫu chứng từ thu, chi ngân sách Nhà nước"
+ENTITY,E30_185,VB_AP_DUNG,Văn bản áp dụng,reference,85101,85257,"Quyết định số 07/2003/QĐ-UB Về một số chủ trương, biện pháp điều hành kế hoạch phát triển KT-XH và dự toán ngân sách Nhà nước năm 2003 của thành phố Đà Nẵng"
+ENTITY,E30_186,VB_AP_DUNG,Văn bản áp dụng,reference,85277,85389,"Quyết định số 10/2000/QĐ-UB V/v ban hành quy định về phân công, phân cấp và quản lý điều hành ngân sách năm 2000"
+ENTITY,E30_187,VB_AP_DUNG,Văn bản áp dụng,reference,85409,85538,"Quyết định số 114/2002/QĐ-UB Về chính sách hỗ trợ kinh phí cho công tác nghiên cứu, xây dựng, ban hành văn bản quy phạm pháp luật"
+ENTITY,E30_188,VB_AP_DUNG,Văn bản áp dụng,reference,85558,85750,"Nghị quyết số 02/2003/NQ-HĐND Về: Ban hành quy định hỗ trợ kinh phí đối với nhân dân tham gia quản lý và bảo vệ biên giới. Bổ sung, điều chỉnh một số loại phí, lệ phí trên địa bàn tỉnh Lào Cai"
+ENTITY,E30_189,VB_AP_DUNG,Văn bản áp dụng,reference,85770,85916,"Nghị định số 120/1997/NĐ-CP Quy định về quản lý, sử dụng ngân sách và tài sản Nhà nước đối với một số hoạt động thuộc lĩnh vực quốc phòng, an ninh"
+ENTITY,E30_190,VB_AP_DUNG,Văn bản áp dụng,reference,85936,86103,Quyết định số 33/2001/QĐ-UB Về việc ban hành qui định cấp phát và quản lý khoản hỗ trợ một phần lãi suất tiền vay cho các doanh nghiệp Nhà nước thuộc Thành phố Hà Nội.
+ENTITY,E30_191,VB_AP_DUNG,Văn bản áp dụng,reference,86123,86208,Quyết định số 73/QĐ-UB Về thu phí vệ sinh môi trường đô thị trên địa bàn tỉnh Lào Cai
+ENTITY,E30_192,VB_AP_DUNG,Văn bản áp dụng,reference,86228,86344,"Nghị quyết số 08/NQ-HĐND Về việc huy động sức dân, đầu tư phát triển đường giao thông nông thôn trên địa bàn Lào Cai"
+ENTITY,E30_193,VB_AP_DUNG,Văn bản áp dụng,reference,86364,86500,"Quyết định số 49/2001/QĐ-UB Quy định hỗ trợ xây dựng cơ sở vật chất trường Tiểu học, Trung học cơ sở công lập trên địa bàn tỉnh Bắc Ninh"
+ENTITY,E30_194,VB_AP_DUNG,Văn bản áp dụng,reference,86520,86673,"Thông tư số 26/2001/TT-BTC Hướng dẫn một số điểm về cấp phát kinh phí cho các tổ chức xã hội, tổ chức xã hội - nghề nghiệp được ngân sách hỗ trợ kinh phí"
+ENTITY,E30_195,VB_AP_DUNG,Văn bản áp dụng,reference,86693,86843,"Quyết định số 3169/1998/QĐ-UB Ban hành Quy định tạm thời về mức thu, quản lý và sử dụng phí vệ sinh môi trường bãi biển trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_196,VB_AP_DUNG,Văn bản áp dụng,reference,86863,86944,Nghị quyết số 122/2001/NQ-HĐ V/v: Điều chỉnh dự toán thu - chi ngân sách năm 2001
+ENTITY,E30_197,VB_AP_DUNG,Văn bản áp dụng,reference,86964,87052,"Quyết định số 306/QĐ-UB Về việc phân công, phân cấp quản lý điều hành ngân sách năm 1998"
+ENTITY,E30_198,VB_AP_DUNG,Văn bản áp dụng,reference,87072,87197,Quyết định số 08/2000/QĐ-UB V/v Ban hành Quy định tạm thời thực hiện phân cấp đầu tư và xây dựng trên địa bàn Tỉnh Bình Phước
+ENTITY,E30_199,VB_AP_DUNG,Văn bản áp dụng,reference,87217,87283,"Nghị định số 04/1999/NĐ-CP Về phí, lệ phí thuộc ngân sách Nhà nước"
+ENTITY,E30_200,VB_AP_DUNG,Văn bản áp dụng,reference,87303,87396,"Quyết định số 07/QĐ-UB v/v chuyển đơn vị dự toán huyện, thị xã
+thành cấp ngân sách huyện, thị"
+ENTITY,E30_201,VB_AP_DUNG,Văn bản áp dụng,reference,87416,87503,"Nghị quyết số 98/1999/NQ-HĐ Về việc thu - chi quỹ quốc phòng, an ninh trên địa bàn tỉnh"
+ENTITY,E30_202,VB_AP_DUNG,Văn bản áp dụng,reference,87523,87679,"Thông tư liên tịch số 06/1998/TTLT/BKH-BTC Hướng dẫn cơ chế quản lý vốn đối ứng cho các chương trình, dự án sử dụng nguồn hỗ trợ phát triển chính thức (ODA)"
+ENTITY,E30_203,VB_AP_DUNG,Văn bản áp dụng,reference,87699,87855,Quyết định số 78/QĐ-UB Về việc sửa đổi mục D trong phụ lục kèm theo quyết định số 04/QĐ-UB ngày l6/01/997 về tỷ lệ điều tiết ngân sách của UBND tỉnh Lào Cai
+ENTITY,E30_204,VB_AP_DUNG,Văn bản áp dụng,reference,87875,88053,"Nghị định số 24/1999/NĐ-CP Về việc ban hành Quy chế tổ chức huy động, quản lý và sử dụng các khoản đóng góp tự nguyện của nhân dân để xây dựng cơ sở hạ tầng của các xã, thị trấn."
+ENTITY,E30_205,VB_AP_DUNG,Văn bản áp dụng,reference,88073,88229,"Thông tư liên tịch số 06/1998/TTLT-BKH-BTC Hướng dẫn cơ chế quản lý vốn đối ứng cho các chương trình, dự án sử dụng nguồn hỗ trợ phát triển chính thức (ODA)"
+ENTITY,E30_206,VB_AP_DUNG,Văn bản áp dụng,reference,88249,88327,Nghị quyết số 78/1998/NQ/HĐND V/v phê chuẩn quyết toán Ngân sách tỉnh năm 1997
+ENTITY,E30_207,VB_AP_DUNG,Văn bản áp dụng,reference,88347,88473,"Thông tư liên tịch số 91/1998/TTLT/BTC-BQP Hướng dẫn lập, chấp hành và quyết toán ngân sách Nhà nước trong lĩnh vực Quốc phòng"
+ENTITY,E30_208,VB_AP_DUNG,Văn bản áp dụng,reference,88493,88574,Quyết định số 153/QĐ-UB Về việc điều chỉnh Quyết định số 143/QĐ-UB ngày 17/7/1997
+ENTITY,E30_209,VB_AP_DUNG,Văn bản áp dụng,reference,88594,88756,"Quyết định số 81/2002/QĐ-UB V/v Phê duyệt Đề án phân cấp quản lý chi sự nghiệp giáo dục, sự nghiệp y tế và các Ban quản lý rừng phòng hộ về cho huyện, thị quản lý"
+ENTITY,E30_210,VB_AP_DUNG,Văn bản áp dụng,reference,88776,88905,Quyết định số 840/QĐ-UB Về việc quy định mức thu học phí năm 1997-1998 đối với các trường mầm non trên địa bàn thị xã Tuyên Quang
+ENTITY,E30_211,VB_AP_DUNG,Văn bản áp dụng,reference,88925,89087,"Quyết định số 803/1998/QĐ- UB Về việc ban hành ""Quy định mức thu và sử dụng học phí, tiền xây dựng, lệ phí tuyển sinh trong trường học trên địa bàn tỉnh Bắc Ninh"""
+ENTITY,E30_212,VB_AP_DUNG,Văn bản áp dụng,reference,89107,89187,Nghị quyết số 08/1998/NQ-HĐ Về thành lập Quỹ đầu tư phát triển thành phố Đà Nẵng
+ENTITY,E30_213,VB_AP_DUNG,Văn bản áp dụng,reference,89207,89266,Quyết định số 318/QĐ-UB V/v điều chỉnh giá bán lẻ muối I ốt
+ENTITY,E30_214,VB_AP_DUNG,Văn bản áp dụng,reference,89286,89449,Quyết định số 46/1999/QĐ-UB Về việc điều chỉnh bổ sung một số quy định trong việc huy động đóng góp quỹ hỗ trợ phát triển giao thông thôn trên địa bàn tỉnh Lào Cai
+ENTITY,E30_215,VB_AP_DUNG,Văn bản áp dụng,reference,89469,89528,Thông tư số 136/1999/TT-BTC Hướng dẫn quyết toán vốn đầu tư
+ENTITY,E30_216,VB_AP_DUNG,Văn bản áp dụng,reference,89548,89626,Quyết định số 06/QĐ-UB V/v chuyển đơn vị dự toán phường thành ngân sách phường
+ENTITY,E30_217,VB_AP_DUNG,Văn bản áp dụng,reference,89646,89773,"Quyết định số 14/2013/QĐ-UBND Về việc Quy định mức chi đối với công tác phổ biến, giáo dục pháp luật trên địa bàn tỉnh Tây Ninh"
+ENTITY,E30_218,VB_AP_DUNG,Văn bản áp dụng,reference,89793,89950,Quyết định số 59/2011/QĐ-UBND Về việc thực hiện nghị quyết số 45/ NQ-HĐND ngày 19/12/2011 của HĐND tỉnh về việc cấp vốn cho quỹ phát triển đất tỉnh Vĩnh Phúc
+ENTITY,E30_219,VB_AP_DUNG,Văn bản áp dụng,reference,89970,90025,Nghị định số 167/1999/NĐ-CP Về tổ chức quản lý đường bộ
+ENTITY,E30_220,VB_AP_DUNG,Văn bản áp dụng,reference,90045,90195,"Quyết định số 549/2001/QĐ-BLĐTBXH Của Bộ Lao động, Thương binh và Xã hội về việc sửa đổi mẫu Hợp đồng trách nhiệm chi trả trợ cấp ưu đãi người có công"
+ENTITY,E30_221,VB_AP_DUNG,Văn bản áp dụng,reference,90215,90324,"Quyết định số 61/2001/QĐ-UB Ban hành quy định về khuyến khích tăng thu, thưởng nộp vượt dự toán giao hàng năm"
+ENTITY,E30_222,VB_AP_DUNG,Văn bản áp dụng,reference,90344,90449,"Thông tư số 09/TC-NSNN Hướng dẫn thực hiện việc phân cấp, lập, chấp hành và quyết toán ngân sách Nhà nước"
+ENTITY,E30_223,VB_AP_DUNG,Văn bản áp dụng,reference,90469,90593,"Quyết định số 94/2002/QĐ-UB Về việc quy định mức trợ cấp xã hội thường xuyên đối với đối tượng cứu trợ xã hội tại xã, phường"
+ENTITY,E30_224,VB_AP_DUNG,Văn bản áp dụng,reference,90613,90703,Nghị quyết số 17/1999/NQ-HĐ Về phụ thu mặt hàng hạt tiêu và hạt điều thô xuất ra khỏi tỉnh
+ENTITY,E30_225,VB_AP_DUNG,Văn bản áp dụng,reference,90723,90855,Quyết định số 1145/QĐ-UB về việc thu và sử dụng học phí ở một số trường phổ thông trung học và trường mầm non trên địa bàn các huyện
+ENTITY,E30_226,VB_AP_DUNG,Văn bản áp dụng,reference,90875,91033,"Quyết định số 2112/QĐ-UB Về việc dự toán thu, chi đối với các trường mầm non thực hiện thu học phí theo Quyết định số 840/QĐ-UB ngày 10/10/1997 của UBND tỉnh."
+ENTITY,E30_227,VB_AP_DUNG,Văn bản áp dụng,reference,91053,91131,Nghị quyết số 15/2001/NQ-HĐND Dự toán và phân bổ ngân sách địa phương năm 2001
+ENTITY,E30_228,VB_AP_DUNG,Văn bản áp dụng,reference,91151,91285,Nghị định số 171/1999/NĐ-CP Quy định chi tiết thi hành Pháp lệnh Bảo vệ công trình giao thông đối với công trình giao thông đường sông
+ENTITY,E30_229,VB_AP_DUNG,Văn bản áp dụng,reference,91305,91363,Thông tư số 70/2000/TT-BTC Hướng dẫn quyết toán vốn đầu tư
+ENTITY,E30_230,VB_AP_DUNG,Văn bản áp dụng,reference,91383,91534,"Quyết định số 871/1999/QĐ-UB Về việc Quy định mức phụ cấp cho cán bộ làm công tác xoá đói giảm nghèo (XĐGN) cấp xã, phường, thị trấn trên địa bàn tỉnh."
+ENTITY,E30_231,VB_AP_DUNG,Văn bản áp dụng,reference,91554,91714,"Quyết định số 147/2003/QĐ-UB Ban hành mức thu học phí; công tác quản lý thu, chi học phí hệ đào tạo mở tại Trường Trung học kinh tế - kỹ thuật tỉnh Tuyên Quang."
+ENTITY,E30_232,VB_AP_DUNG,Văn bản áp dụng,reference,91734,91850,"Quyết định số 126/2000/QĐ-UB Về việc ban hành quy định quản lý thu, chi ngân sách phường, xã thuộc Thành Phố Đà Nẵng"
+ENTITY,E30_233,VB_AP_DUNG,Văn bản áp dụng,reference,91870,92022,"Thông tư liên tịch số 81/1998/TTLT-BTC-NHNN Thông tư hướng dẫn quy trình, thủ tục và quản lý việc rút vốn đối với nguồn vốn hỗ trợ phát triển chính thức"
+ENTITY,E30_234,VB_AP_DUNG,Văn bản áp dụng,reference,92042,92158,Thông tư số 96/2000/TT-BTC hướng dẫn việc quản lý vốn sự nghiệp có tính chất đầu tư và xây dựng thuộc nguồn vốn NSNN
+ENTITY,E30_235,VB_AP_DUNG,Văn bản áp dụng,reference,92178,92326,"Nghị quyết số 414/2003/NQ-UBTVQH11 Về việc phát hành trái phiếu Chính phủ để xây dựng một số công trình giao thông, thuỷ lợi quan trọng của đất nước"
+ENTITY,E30_236,VB_AP_DUNG,Văn bản áp dụng,reference,92346,92441,"Quyết định số 08/1999/QĐ-UB Về việc phân công, phân cấp và quản lý điều hành Ngân sách năm 1999"
+ENTITY,E30_237,VB_AP_DUNG,Văn bản áp dụng,reference,92461,92581,Quyết định số 1475/1998/QÐ-BTC về việc ban hành chế độ kế toán nghiệp vụ đầu tư phát triển và Quỹ hỗ trợ đầu tư quốc gia
+ENTITY,E30_238,VB_AP_DUNG,Văn bản áp dụng,reference,92601,92779,"Quyết định số 146/2002/QĐ-UB V/v Về định mức chỉ hành chính đối với sinh viên tốt nghiệp Đại học được phân bổ về công tác tại các ngành, địa phương trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_239,VB_AP_DUNG,Văn bản áp dụng,reference,92799,92931,"Quyết định số 3925/1998/QĐ-UB V/v Quản lý và sử dụng khoản tiền trích từ phí, lệ phí để lại cho các cơ quan, tổ chức thu phí, lệ phí"
+ENTITY,E30_240,VB_AP_DUNG,Văn bản áp dụng,reference,92951,93070,Nghị quyết số 53/2002/NQ-HĐND về việc hỗ trợ xây dựng cơ sở vật chất và chế độ đối với giáo viên trường Mầm non dân lập
+ENTITY,E30_241,VB_AP_DUNG,Văn bản áp dụng,reference,93090,93215,"Quyết định số 173/QĐ-UB Về việc ban hành quy định thu lệ phí cấp phép hành nghề
+văn hoá, thể thao và dịch vụ văn hóa thể thao"
+ENTITY,E30_242,VB_AP_DUNG,Văn bản áp dụng,reference,93235,93319,Quyết định số 1008/QĐ-UB Về việc phân cấp thu chi ngân sách cho UBND huyện Lạc Dương
+ENTITY,E30_243,VB_AP_DUNG,Văn bản áp dụng,reference,93339,93480,Quyết định số 108/2000/QĐ-UB Về việc cho các Doanh nghiệp XDCB vay vốn nhàn rỗi của Ngân sách địa phương  qua Chi nhánh Quỹ Hỗ trợ phát triển
+ENTITY,E30_244,VB_AP_DUNG,Văn bản áp dụng,reference,93500,93585,Thông tư số 68/2001/TT-BTC hướng dẫn hoàn trả các khoản thu đã nộp ngân sách nhà nước
+ENTITY,E30_245,VB_AP_DUNG,Văn bản áp dụng,reference,93605,93779,"Quyết định số 219/1999/QĐ-TTg Về chính sách bảo hộ quyền lợi của nhân dân địa phương nơi có khoáng sản được khai thác, chế biến và bảo vệ tài nguyên khoáng sản chưa khai thác"
+ENTITY,E30_246,VB_AP_DUNG,Văn bản áp dụng,reference,93799,93856,Nghị quyết số 12/1999/NQ-HĐ Về phụ thu tiền điện năm 1999
+ENTITY,E30_247,VB_AP_DUNG,Văn bản áp dụng,reference,93876,93929,Quyết định số 70/QĐ-UB Về thu các loại lệ phí bến bãi
+ENTITY,E30_248,VB_AP_DUNG,Văn bản áp dụng,reference,93949,94023,Nghị định số 01/2000/NĐ-CP Ban hành quy chế phát hành trái phiếu Chính phủ
+ENTITY,E30_249,VB_AP_DUNG,Văn bản áp dụng,reference,94043,94157,Quyết định số 135/2001/QĐ-UB Về việc điều hoà kế hoạch XDCB năm 2001 Thành phố đã giao cho UBND quận Hai Bà Trưng.
+ENTITY,E30_250,VB_AP_DUNG,Văn bản áp dụng,reference,94177,94320,"Quyết định số 7617/2000/QĐ-UB V/v giải quyết định xuất cán bộ chuyên trách Bảo vệ và Chăm sóc trẻ em ở xã, phường và chỉ trả trự cấp hàng tháng"
+ENTITY,E30_251,VB_AP_DUNG,Văn bản áp dụng,reference,94340,94450,Quyết định số 6821/1998/QĐ-UB V/v Quy định sử dụng thống nhất chứng từ thu đối với các đơn vị sự nghiệp có thu
+ENTITY,E30_252,VB_AP_DUNG,Văn bản áp dụng,reference,94470,94538,Nghị quyết số 08/NQ-HĐND Về dự toán ngân sách Nhà nước tỉnh năm 2000
+ENTITY,E30_253,VB_AP_DUNG,Văn bản áp dụng,reference,94558,94700,"Quyết định số 36/2006/QĐ-UBND Về việc ban hành “Quy chế đấu thầu, đặt hàng cung ứng các sản phẩm dịch vụ đô thị trên địa bàn thành phố Hà Nội”"
+ENTITY,E30_254,VB_AP_DUNG,Văn bản áp dụng,reference,94720,94840,"Thông tư số 64-TC/ĐTPT Hướng dẫn quản lý, cấp phát vốn quy hoạch ngành, lãnh thổ, quy hoạch xây dựng đô thị và nông thôn"
+ENTITY,E30_255,VB_AP_DUNG,Văn bản áp dụng,reference,94860,94991,Quyết định số 2657/2001/QĐ-UBND Quy định cơ chế tài chính cho Công ty phát triển và khai thác hạ tầng các khu công nghiệp Thanh Hóa
+ENTITY,E30_256,VB_AP_DUNG,Văn bản áp dụng,reference,95011,95084,Quyết định số 595/QĐ-UB Về việc quy định giá bán bộ đơn giá XDCB của tỉnh
+ENTITY,E30_257,VB_AP_DUNG,Văn bản áp dụng,reference,95104,95175,Quyết định số 347/QĐ-UB Về việc quy định tỷ lệ điều tiết các khoản thu.
+ENTITY,E30_258,VB_AP_DUNG,Văn bản áp dụng,reference,95195,95292,Nghị quyết số 106/2000/NQ-HĐ V/v : Phê chuẩn tổng quyết toán ngân sách Nhà nước của tỉnh năm 1999
+ENTITY,E30_259,VB_AP_DUNG,Văn bản áp dụng,reference,95312,95468,Quyết định số 47/1999/QĐ-UB Về việc điều chỉnh bổ sung một số quy định trong việc huy động đóng góp quỹ hỗ trợ xây dựng trường lớp trên địa bàn tỉnh Lào Cai
+ENTITY,E30_260,VB_AP_DUNG,Văn bản áp dụng,reference,95488,95582,Quyết định số 242/1999/QĐ-UB V/v Phân chia các khoản thu theo tỷ lệ (%) giữa các cấp ngân sách
+ENTITY,E30_261,VB_AP_DUNG,Văn bản áp dụng,reference,95602,95706,Nghị quyết số 19/2006/NQ-HĐND Về dự toán ngân sách địa phương và phân bổ dự toán ngân sách tỉnh năm 2007
+ENTITY,E30_262,VB_AP_DUNG,Văn bản áp dụng,reference,95726,95817,Nghị quyết số 18/2006/NQ-HĐND Về việc phê chuẩn tổng quyết toán ngân sách Nhà nước năm 2005
+ENTITY,E30_263,VB_AP_DUNG,Văn bản áp dụng,reference,95837,95930,Quyết định số 04/QĐ-UB Về việc quy định tỷ lệ % các khoản thu giữa các cấp ngân sách năm 1997
+ENTITY,E30_264,VB_AP_DUNG,Văn bản áp dụng,reference,95950,96108,"Nghị quyết số 11/2002/NQ-HĐND Về việc Ban hành một số cơ chế, chính sách thực hiện các chương trình, đề án phát triển kinh tế xã hội tỉnh Lào Cai đến năm 2005"
+ENTITY,E30_265,VB_AP_DUNG,Văn bản áp dụng,reference,96128,96215,Quyết định số 280/1997/QĐ-BTC-NSNN Về việc ban hành hệ thống mục lục ngân sách nhà nước
+ENTITY,E30_266,VB_AP_DUNG,Văn bản áp dụng,reference,96235,96407,"Thông tư số 63-TC/CSTC hướng dẫn bổ sung, sửa đổi một số quy định về việc tổ chức thu và quản lý biên lai thu tiền phạt hành chính của Thông tư số 52-TC/CSTC ngày 12/9/1996"
+ENTITY,E30_267,VB_AP_DUNG,Văn bản áp dụng,reference,96427,96607,"Quyết định số 8125/2001/QĐ-UB V/v thành lập và ban hành bản quy định quản lý thu, nộp và sử dụng Quỹ quốc phòng - an ninh ở xã, phường, thị trấn trên địa bàn tỉnh Bà Rịa - Vũng Tàu"
+ENTITY,E30_268,VB_AP_DUNG,Văn bản áp dụng,reference,96627,96770,"Thông tư liên tịch số 81/1998/TTLT/BTC-NHNN Hướng dẫn quy trình, thủ tục và quản lý việc rút vốn đối với nguồn vốn hỗ trợ phát triển chính thức"
+ENTITY,E30_269,VB_AP_DUNG,Văn bản áp dụng,reference,96790,96926,"Quyết định số 6141/1998/QĐ-UB V/v quy định việc quản lý và sử dụng khoản tiền được trích để lại cho các cơ quan, tổ chức thu phí, lệ phí"
+ENTITY,E30_270,VB_AP_DUNG,Văn bản áp dụng,reference,96946,97199,Quyết định số 115/2003/QĐ-UB Quy định mức thưởng tiến độ cho các đơn vị di chuyển các sơ sở sản xuất không còn phù hợp quy hoạch hoặc gây ô nhiễm môi trường ra khỏi khu vực các quận nội thành theo quy định tại Quyết định số 74/2003/QĐ-UB ngày 17/6/2003.
+ENTITY,E30_271,VB_AP_DUNG,Văn bản áp dụng,reference,97219,97283,Nghị quyết số 02/2003/NQ-HĐ Phê duyệt dự toán ngân sách năm 2003
+ENTITY,E30_272,VB_AP_DUNG,Văn bản áp dụng,reference,97303,97366,Quyết định số 216/QĐ-UB Về việc điều chỉnh giá bán lẻ muối I ốt
+ENTITY,E30_273,VB_AP_DUNG,Văn bản áp dụng,reference,97386,97460,Quyết định số 827/1998/QĐ-BTC Về việc ban hành chế độ kế toán ngân sách xã
+ENTITY,E30_274,VB_AP_DUNG,Văn bản áp dụng,reference,97480,97632,"Thông tư số 40/2001/TT-BTC Hướng dẫn chế độ quản lý, cấp phát, thanh toán các khoản chi ngân sách nhà nước bằng ngoại tệ qua kho bạc nhà nước trung ương"
+ENTITY,E30_275,VB_AP_DUNG,Văn bản áp dụng,reference,97652,97812,Quyết định số 7476/QĐ-UB Về việc Tạm thời thực hiện tỷ lệ chi hỗ trợ công tác quản lý và điều tiết chung tiền thu học phí thuộc ngành giáo dục thành phố Đà Nẵng
+ENTITY,E30_276,VB_AP_DUNG,Văn bản áp dụng,reference,97832,98061,"Thông tư liên tịch số 38/1997/TTLT/BTC-TCCBCP của Bộ tài chính - Ban tổ chức cán bộ Chính phủ hướng dẫn về nhiệm vụ quản lý tài chính, ngân sách và tổ chức bộ máy của cơ quan quản lý tài chính thuộc chính quyền địa phương các cấp"
+ENTITY,E30_277,VB_AP_DUNG,Văn bản áp dụng,reference,98081,98299,"Nghị quyết số 23/2006/NQ-HĐND Kế hoạch vốn đầu tư xây dựng cơ bản, vốn Chương trình mục tiêu năm 2007 và các nguyên tắc, tiêu chí, định mức phân bổ vốn đầu tư xây dựng cơ bản cho các huyện, thị xã giai đoạn 2007 - 2010"
+ENTITY,E30_278,VB_AP_DUNG,Văn bản áp dụng,reference,98319,98496,Nghị quyết số 07/NQ-HĐND Về việc đẩy nhanh thực hiện chuẩn phổ cập giáo dục tiểu học và xóa mù chữ; Huy động các nguồn lực tham gia xây dựng trường học trên địa bàn tỉnh Lào Cai
+ENTITY,E30_279,VB_AP_DUNG,Văn bản áp dụng,reference,98516,98701,"Thông tư số 07/2001/TT-BTC hướng dẫn việc cấp phát, sử dụng quyết toán nguồn kinh phí thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp"
+ENTITY,E30_280,VB_AP_DUNG,Văn bản áp dụng,reference,98721,98866,Nghị quyết số 103/1999/NQ-HĐ Về việc thu và sử dụng tiền huy động đóng góp của học sinh các trường công lập để xây dựng cơ sở vật chất trường học
+ENTITY,E30_281,VB_AP_DUNG,Văn bản áp dụng,reference,98886,98992,"Quyết định số 206/QĐ-UB Về việc điều chỉnh giá bán lẻ và mức trợ giá, trợ cước mặt hàng Giấy viết học sinh"
+ENTITY,E30_282,VB_AP_DUNG,Văn bản áp dụng,reference,99012,99161,Quyết định số 156/2001/QĐ-UB V/v Ban hành quy chế quản lý tài chính của Trung tâm Kỹ thuật và Thông tin lưu trữ địa chính - nhà đất thành phố Đà Nẵng
+ENTITY,E30_283,VB_AP_DUNG,Văn bản áp dụng,reference,99181,99392,"Quyết định số 725/QĐ-UB Về quản lý thu, chi các khoản học phí, lệ phí tuyển sinh, lệ phí thi; tiền đóng góp xây dựng, sửa chữa trường, lớp học ở các cơ sở giáo dục, đào tạo công lập trên địa bàn tỉnh Tuyên Quang"
+ENTITY,E30_284,VB_AP_DUNG,Văn bản áp dụng,reference,99412,99509,"Quyết định số 1228/1998/QĐ-UB Về việc mở tài khoản thu tài sản chi ngân sách xã, phường, thị trấn"
+ENTITY,E30_285,VB_AP_DUNG,Văn bản áp dụng,reference,99529,99636,"Quyết định số 132/2003/QĐ-UB Về việc điều chỉnh, bổ sung kế hoạch Khoa học Công nghệ và Môi trường năm 2003"
+ENTITY,E30_286,VB_AP_DUNG,Văn bản áp dụng,reference,99656,99716,Nghị quyết số 6b/2002/NQ/HĐND4 Về dự toán ngân sách năm 2002
+ENTITY,E30_287,VB_AP_DUNG,Văn bản áp dụng,reference,99736,99824,"Nghị quyết số 102/1999/NQ-HĐ Về việc thu - chi quỹ quốc phòng, an ninh trên địa bàn tỉnh"
+ENTITY,E30_288,VB_AP_DUNG,Văn bản áp dụng,reference,99844,99952,Thông tư số 70/2001/TT-BTC hướng dẫn chế độ quản lý tài chính nhà nước đối với nguồn viện trợ không hoàn lại
+ENTITY,E30_289,VB_AP_DUNG,Văn bản áp dụng,reference,99972,100117,"Quyết định số 2952/1998/QĐ-UB V/v Ban hành Quy định tạm thời lập, quản lý và sử dụng ""Quỹ Bảo trợ an ninh-trật tự"" trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_290,VB_AP_DUNG,Văn bản áp dụng,reference,100137,100277,"Nghị quyết số 14/2000/NQ-HĐND về việc thu học phí các lớp Trung học chuyên nghiệp đối với 4 chức danh chuyên môn cán bộ xã, phường, thị trấn"
+ENTITY,E30_291,VB_AP_DUNG,Văn bản áp dụng,reference,100297,100417,Quyết định số 1475/1998/QĐ-BTC Về việc ban hành chế độ kế toán nghiệp vụ đầu tư phát triển và quỹ hỗ trợ đầu tư quốc gia
+ENTITY,E30_292,VB_AP_DUNG,Văn bản áp dụng,reference,100437,100518,Quyết định số 180/2000/QĐ-UB Về việc sửa đổi mức cấp bù lãi suất cho vay hộ nghèo
+ENTITY,E30_293,VB_AP_DUNG,Văn bản áp dụng,reference,100538,100627,Quyết định số 39/2000/QĐ-UB Về việc hỗ trợ vốn đầu tư xây dựng đường giao thông nông thôn
+ENTITY,E30_294,VB_AP_DUNG,Văn bản áp dụng,reference,100647,100786,"Nghị quyết số 14/2000/NQ-HĐND Về việc thu học phícác lớp Trung học chuyên nghiệp đối với 4 chức danh chuyên môn cán bộ xã, phường, thị trấn"
+ENTITY,E30_295,VB_AP_DUNG,Văn bản áp dụng,reference,100806,100890,Quyết định số 08/2002/QĐ-UB V/v Quy định mức thu - chi học phí ớ các trường công lập
+ENTITY,E30_296,VB_AP_DUNG,Văn bản áp dụng,reference,100910,101090,Nghị quyết số 14/1999/NQ-HĐ Về việc thu đóng góp xây dựng giao thông và xây dựng cơ sở hạ tầng đô thị trên đầu phương tiện xe cơ giới và xe súc vật kéo trên địa bàn tỉnh Bình Phươc
+ENTITY,E30_297,VB_AP_DUNG,Văn bản áp dụng,reference,101110,101255,"Quyết định số 06/2001/QĐ-UB Về một số chủ trương, biện pháp diều hành kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách Nhà nước năm 2001"
+ENTITY,E30_298,VB_AP_DUNG,Văn bản áp dụng,reference,101275,101542,"Quyết định số 129/1999/QĐ-UB Ban hành tạm thời mức thu phí, lệ phí để phục vụ cho việc giải quyết các hồ sơ hành chính ngoài thẩm quyền của UBND cấp huyện trên địa bàn UBND thị xã Bà Rịa, UBND các huyện: Tân Thành, Long Đất, Châu Đức, Xuyên Mộc tỉnh Bà Rịa - Vũng Tàu"
+ENTITY,E30_299,VB_AP_DUNG,Văn bản áp dụng,reference,101562,101622,Nghị quyết số 2b/2000/NQ-HĐND4 Về dự toán ngân sách năm 2000
+ENTITY,E30_300,VB_AP_DUNG,Văn bản áp dụng,reference,101642,101734,Quyết định số 72/QĐ-UB Về thu thủy lợi phí các công trình thủy lợi trên địa bàn tỉnh Lào Cai
+ENTITY,E30_301,VB_AP_DUNG,Văn bản áp dụng,reference,101754,101977,Thông tư số 63/2000/TT-BTC hướng dẫn về cấp phát kinh phí thực hiện quyết định số 20/2000/QÐ-TTg ngày 3/2/2000 của thủ tướng chính phủ về việc hỗ trợ người hoạt động cách mạng từ trước cách mạng tháng 8/1945 cải thiện nhà ở
+ENTITY,E30_302,VB_AP_DUNG,Văn bản áp dụng,reference,101997,102143,"Thông tư số 60/2000/TT-BTC Hướng dẫn thủ tục thu, nộp tiền phạt, quản lý và sử dụng tiền thu từ xử phạt vi phạm hành chính trong lĩnh vực hàng hải"
+ENTITY,E30_303,VB_AP_DUNG,Văn bản áp dụng,reference,102163,102284,Quyết định số 26/2002/QĐ-UB Về việc thành lập Quĩ Khuyến nông Thành phố Hà Nội và ban hành Qui chế quản lý và sử dụng Quỹ
+ENTITY,E30_304,VB_AP_DUNG,Văn bản áp dụng,reference,102304,102465,Thông tư số 48/1999/TT-BTC hướng dẫn việc sử dụng tiền thu từ xử phạt hành chính đối với các hành vi vi phạm hành chính trong lĩnh vực trật tự an toàn giao thông
+ENTITY,E30_305,VB_AP_DUNG,Văn bản áp dụng,reference,102485,102639,"Quyết định số 5676/1998/QĐ-UB V/v Quy định tạm thời về thu, chi phục vụ đưa đón bệnh nhân và thân nhân bệnh nhân về gia đình tại Bệnh viện Đa khoa Đà Nẵng"
+ENTITY,E30_306,VB_AP_DUNG,Văn bản áp dụng,reference,102659,102812,"Thông tư số 42/2001/TT-BTC hướng dẫn quản lý, hạch toán vốn hoàn thuế giá trị gia tăng cho các dự án sử dụng nguồn vốn hỗ trợ phát triển chính thức (oda)"
+ENTITY,E30_307,VB_AP_DUNG,Văn bản áp dụng,reference,102832,103078,Quyết định số 85/2002/QĐ-UB Về việc điều chỉnh Điều 4 Quyết định số 33/2001/QĐ-UB ngày 8/6/2001 của Uỷ ban nhân dân Thành phố về mức lãi suất cố định để xét hỗ trợ một phần lãi suất tiền vay cho các doanh nghiệp Nhà nước Thành phố Hà Nội năm 2002
+ENTITY,E30_308,VB_AP_DUNG,Văn bản áp dụng,reference,103098,103361,Thông tư số 60A-TC/TCT hướng dẫn sửa đổi TT 30-TC/TCT ngày 23/5/91 HD chế độ quản lý thu thuế đối với ngành khai thác thuỷ sản và TT 69-TC/TCT ngày 27/11/91 HD việc chuyển chế độ thu tiền nuôi rừng sang thu thuế tài nguyên đối với khai thác sản phẩm rừng tự nhiên
+ENTITY,E30_309,VB_AP_DUNG,Văn bản áp dụng,reference,103381,103467,Quyết định số 227/2001/QĐ-UB V/v điều chỉnh mức thu lãi suất tín dụng cho vay hộ nghèo
+ENTITY,E30_310,VB_AP_DUNG,Văn bản áp dụng,reference,103487,103584,Quyết định số 14/1999/QĐ-UB Về việc quy định mức thu sự nghiệp đối với dịch vụ văn hóa - thể thao
+ENTITY,E30_311,VB_AP_DUNG,Văn bản áp dụng,reference,103604,103670,Quyết định số 71/QĐ-UB Về thu lệ phí chợ trên địa bàn tỉnh Lào Cai
+ENTITY,E30_312,VB_AP_DUNG,Văn bản áp dụng,reference,103690,103780,"Quyết định số 156/2002/QĐ-BTC Về việc bổ sung, sửa đổi hệ thống Mục lục Ngân sách nhà nước"
+ENTITY,E30_313,VB_AP_DUNG,Văn bản áp dụng,reference,103800,103936,"Quyết định số 7466/1998/QĐ-UB V/v Quy định việc quản lý và sử dụng khoản tiền được trích để lại cho các cơ quan, tổ chức thu phí, lệ phí"
+ENTITY,E30_314,VB_AP_DUNG,Văn bản áp dụng,reference,103956,104093,"Quyết định số 138/2001/QĐ-UB Về việc điều hòa kế hoạch XDCB năm 2001 khối Nông nghiệp và PTNT đã giao cho các Sở, Ngành và UBND các Huyện"
+ENTITY,E30_315,VB_AP_DUNG,Văn bản áp dụng,reference,104113,104259,"Nghị quyết số 03 BT2 /2003/NQ-HĐND4 Về huy động đóng góp của các chủ xe ô tô, mô tô, xe máy các loại để xây dựng quỹ phát triển hạ tầng giao thông"
+ENTITY,E30_316,VB_AP_DUNG,Văn bản áp dụng,reference,104279,104360,"Quyết định số 51/2001/QĐ-UB V/v thu, nộp và quản lý lệ phí cấp giấy phép xây dựng"
+ENTITY,E30_317,VB_AP_DUNG,Văn bản áp dụng,reference,104380,104455,Quyết định số 1822/QĐ-UB V/v Quy định tạm thời chế độ tiền ăn cho bệnh nhân
+ENTITY,E30_318,VB_AP_DUNG,Văn bản áp dụng,reference,104475,104606,"Quyết định số 39/2002/QĐ-UB Về giao dự toán kinh phí hỗ trợ năm 2002 cho 17 tổ chức xã hội, tổ chức xã hội - nghề nghiệp thành phố."
+ENTITY,E30_319,VB_AP_DUNG,Văn bản áp dụng,reference,104626,104821,"Nghị quyết số 18/NQ-HĐND15 Về việc ban hành quy định phân định nguồn thu điều tiết theo tỷ lệ % của ngân sách cấp huyện, thị xã và ngân sách cấp xã, phường, trị trấn trên địa bàn tỉnh Tuyên Quang"
+ENTITY,E30_320,VB_AP_DUNG,Văn bản áp dụng,reference,104841,104942,Quyết định số 174/QĐ-UB Về việc quy định thu phí hoạt động cấp sổ và giấy đăng ký tạm trú có thời hạn
+ENTITY,E30_321,VB_AP_DUNG,Văn bản áp dụng,reference,104962,105054,Quyết định số 10/2002/QĐ-UB V/v Quy định mức thu - chi học phí ở các trường bán công
+ENTITY,E30_322,VB_AP_DUNG,Văn bản áp dụng,reference,105074,105298,"Nghị quyết số 02/1999/NQ-HĐND Về việc phê chuẩn: Phân cấp nguồn thu, nhiệm vụ chi; điều chỉnh một số loại phí, lệ phí, đóng góp của nhân dân cho 2 quỹ: Hỗ trợ phát triển GTNT và xây dựng trường, lớp trên địa bàn tỉnh Lào Cai"
+ENTITY,E30_323,VB_AP_DUNG,Văn bản áp dụng,reference,105318,105409,"Quyết định số 416/QĐ.UB Về việc phân công, phân cấp quản lý và điều hành ngân sách năm 1997"
+ENTITY,E30_324,VB_AP_DUNG,Văn bản áp dụng,reference,105429,105530,"Quyết định số 3610/QĐ-UB Về việc điều chỉnh mức thu và chế độ quản lý, sử dụng phí vệ sinh môi trường"
+ENTITY,E30_325,VB_AP_DUNG,Văn bản áp dụng,reference,105639,105731,Quyết định số 10/2002/QĐ-UB V/v Quy định mức thu - chi học phí ở các trường bán công
+ENTITY,E35_1,CHUONG,Chương,structure,677,685,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,6646,6655,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,18070,18080,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,30712,30721,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,36143,36151,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,42527,42536,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,45697,45707,CHƯƠNG VII
+ENTITY,E35_8,CHUONG,Chương,structure,48256,48267,CHƯƠNG VIII
+ENTITY,E38_1,DIEU,Điều,structure,707,930,"Điều 1
+Ngân sách nhà nước là toàn bộ các khoản thu, chi của Nhà nước trong dự toán đã được cơ quan nhà nước có thẩm quyền quyết định và được thực hiện trong một năm để bảo đảm thực hiện các chức năng, nhiệm vụ của Nhà nước."
+ENTITY,E38_2,DIEU,Điều,structure,931,937,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1493,1793,"Điều 3
+Ngân sách nhà nước được quản lý thống nhất theo nguyên tắc tập trung dân chủ, công khai, có phân công trách nhiệm gắn với quyền hạn, phân cấp quản lý giữa các ngành, các cấp.
+Quốc hội quyết định dự toán ngân sách nhà nước và phân bổ ngân sách nhà nước; phê chuẩn quyết toán ngân sách nhà nước."
+ENTITY,E38_4,DIEU,Điều,structure,1794,1991,"Điều 4
+Ngân sách nhà nước bao gồm ngân sách trung ương và ngân sách các cấp chính quyền địa phương (ngân sách địa phương). Quan hệ giữa ngân sách các cấp được thực hiện theo các nguyên tắc sau đây:"
+ENTITY,E38_5,DIEU,Điều,structure,2713,2719,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,3682,3788,"Điều 6
+Tất cả các khoản thu, chi của ngân sách nhà nước phải được hạch toán đây đủ vào ngân sách nhà nước."
+ENTITY,E38_7,DIEU,Điều,structure,3789,3795,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,3989,3995,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,5003,5009,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,5640,5780,"Điều 10
+Việc ban hành và thực hiện các văn bản phát luật mới làm tăng chi hoặc giảm thu ngân sách trong năm phải có nguồn tài chính bảo đảm."
+ENTITY,E38_11,DIEU,Điều,structure,5781,6106,"Điều 11
+Ngân sách nhà nước bảo đảm cân đối kinh phí hoạt động của Đảng cộng sản Việt Nam và các tổ chức chính trị - xã hội. Kinh phí hoạt động của các tổ chức xã hội, tổ chức xã hội - nghề nghiệp được thực hiện theo nguyên tắc tự bảo đảm, ngân sách nhà nước tài trợ trong một số trường hợp cụ thể theo quy định của Chính phủ."
+ENTITY,E38_12,DIEU,Điều,structure,6107,6258,"Điều 12
+Mọi tài sản được đầu tư, mua sắm từ nguồn ngân sách nhà nước và tài sản khác của Nhà nước phải được quản lý chặt chẽ theo đúng chế độ quy định."
+ENTITY,E38_13,DIEU,Điều,structure,6259,6266,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,6548,6646,"Điều 14
+Năm ngân sách bắt đầu từ ngày 01 tháng 1 và kết thúc vào ngày 31 tháng 12 năm dương lịch.
+"
+ENTITY,E38_15,DIEU,Điều,structure,6814,6855,"Điều 15
+Nhiệm vụ, quyền hạn của Quốc hội:"
+ENTITY,E38_16,DIEU,Điều,structure,8106,8164,"Điều 16
+Nhiệm vụ, quyền hạn của Uỷ ban thường vụ Quốc hội:"
+ENTITY,E38_17,DIEU,Điều,structure,8533,8606,"Điều 17
+Nhiệm vụ, quyền hạn của Uỷ ban kinh tế và ngân sách của Quốc hội:"
+ENTITY,E38_18,DIEU,Điều,structure,9298,9379,"Điều 18
+Nhiệm vụ, quyền hạn của Hội đồng dân tộc và các Uỷ ban khác của Quốc hội:"
+ENTITY,E38_19,DIEU,Điều,structure,9757,10014,"Điều 19
+Nhiệm vụ, quyền hạn của Chủ tịch nước:
+Chủ tịch nước thực hiện nhiệm vụ, quyền hạn do Hiến pháp và pháp luật quy định trong việc ký kết, phê chuẩn điều ước quốc tế nhân danh Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam về lĩnh vực tài chính, tiền tệ."
+ENTITY,E38_20,DIEU,Điều,structure,10015,10057,"Điều 20
+Nhiệm vụ, quyền hạn của Chính phủ:"
+ENTITY,E38_21,DIEU,Điều,structure,11693,11738,"Điều 21
+Nhiệm vụ, quyền hạn của Bộ Tài chính:"
+ENTITY,E38_22,DIEU,Điều,structure,13542,13596,"Điều 22
+Nhiệm vụ, quyền hạn của Bộ Kế hoạch và Đầu tư:"
+ENTITY,E38_23,DIEU,Điều,structure,14080,14140,"Điều 23
+Nhiệm vụ, quyền hạn của Ngân hàng Nhà nước Việt Nam:"
+ENTITY,E38_24,DIEU,Điều,structure,14410,14456,"Điều 24
+Nhiệm vụ, quyền hạn của các bộ, ngành:"
+ENTITY,E38_25,DIEU,Điều,structure,15009,15078,"Điều 25
+Nhiệm vụ, quyền hạn của Hội đồng nhân dân và Uỷ ban nhân dân:"
+ENTITY,E38_26,DIEU,Điều,structure,16983,17053,"Điều 26
+Nhiệm vụ, quyền hạn của các đơn vị dự toán ngân sách nhà nước:"
+ENTITY,E38_27,DIEU,Điều,structure,17647,17701,"Điều 27
+Các tổ chức, cá nhân có trách nhiệm, nghĩa vụ:"
+ENTITY,E38_28,DIEU,Điều,structure,18127,18174,"Điều 28
+Nguồn thu của ngân sách trung ương gồm:"
+ENTITY,E38_29,DIEU,Điều,structure,19268,19318,"Điều 29
+Nhiệm vụ chi của ngân sách trung ương gồm:"
+ENTITY,E38_30,DIEU,Điều,structure,20803,20848,"Điều 30
+Nguồn thu của ngân sách cấp tỉnh gồm:"
+ENTITY,E38_31,DIEU,Điều,structure,22192,22240,"Điều 31
+Nhiệm vụ chi của ngân sách cấp tỉnh gồm:"
+ENTITY,E38_32,DIEU,Điều,structure,23404,23450,"Điều 32
+Nguồn thu của ngân sách cấp huyện gồm:"
+ENTITY,E38_33,DIEU,Điều,structure,24743,24792,"Điều 33
+Nhiệm vụ chi của ngân sách cấp huyện gồm:"
+ENTITY,E38_34,DIEU,Điều,structure,25939,25988,"Điều 34
+Nguồn thu của ngân sách xã, thị trấn gồm:"
+ENTITY,E38_35,DIEU,Điều,structure,26834,26886,"Điều 35
+Nhiệm vụ chi của ngân sách xã, thị trấn gồm:"
+ENTITY,E38_36,DIEU,Điều,structure,27600,27993,"Điều 36
+Ngoài các khoản thu, chi quy định tại các điều 34 và 35 của Luật này, chính quyền xã, thị trấn được huy động sự đóng góp của các tổ chức, cá nhân để đầu tư xây dựng các công trình kết cấu hạ tầng của xã, thị trấn trên nguyên tắc tự nguyện. Việc quản lý khoản đóng góp này phải công khai, có kiểm tra, kiển soát và bảo đảm sử dụng đúng mục đích, đúng chế độ theo quy định của pháp luật."
+ENTITY,E38_37,DIEU,Điều,structure,27994,28037,"Điều 37
+Nguồn thu của ngân sách phường gồm:"
+ENTITY,E38_38,DIEU,Điều,structure,28511,28557,"Điều 38
+Nhiệm vụ chi của ngân sách phường gồm:"
+ENTITY,E38_39,DIEU,Điều,structure,28888,29484,"Điều 39
+Chính phủ quy định cụ thể tỷ lệ phần trăm (%) phân chia các khoản thu được quy định tại khoản 2 Điều 28 của Luật này giữa ngân sách trung ương với ngân sách từng tỉnh, thành phố trực thuộc trung ương. Uỷ ban nhân dân cấp tỉnh quy định cụ thể tỷ lệ phần trăm (%) phân chia các khoản thu được quy định tại khoản 3 Điều 30, các khoản 2 và 3 Điều 32 và khoản 2 Điều 34 của Luật này giữa ngân sách cấp tỉnh với ngân sách từng huyện, quận, thị xã, thành phố thuộc tỉnh và ngân sách từng xã, thị trấn.
+Tỷ lệ phần trăm (%) phân chia các khoản thu giao cho từng cấp được ổn định từ ba đến năm năm."
+ENTITY,E38_40,DIEU,Điều,structure,29485,30229,"Điều 40
+Số bổ sung từ ngân sách cấp trên cho ngân sách cấp dưới để cân đối thu, chi ngân sách, bảo đảm thực hiện các nhiệm vụ kinh tế-xã hội được giao, được xác định trên cơ sở tính toán các nguồn thu, nhiệm vụ chi quy định tại các Điều 28, 29, 30, 31, 32, 33, 34, 35, 37 và 38 của Luật này theo các tiêu thức: dân số, điều kiện tự nhiên, điều kiện kinh tế-xã hội của từng vùng, chú ý tới vùng sâu, vùng xa, vùng căn cứ cách mạng, vùng dân tộc thiểu số và các vùng có khó khăn. Số bổ sung này được ổn định từ 3 đến 5 năm. Hàng năm, trong trường hợp có trượt giá, căn cứ vào số bổ sung đã được Uỷ ban thường vụ Quốc hội quyết định, Chính phủ quyết định mức điều chỉnh tăng một phần tỷ lệ trượt giá trong việc tính bổ sung cho ngân sách cấp dưới."
+ENTITY,E38_41,DIEU,Điều,structure,30230,30602,"Điều 41
+Chính phủ quy định việc điều chỉnh các khoản thu, khoản chi của từng cấp ngân sách, quyết định tỷ lệ phần trăm (%) phân chia các khoản thu giữa ngân sách trung ương và ngân sách cấp tỉnh và mức bổ sung của ngân sách trung ương cho ngân sách tỉnh, thành phố trực thuộc trung ương và báo cáo Quốc hội, Uỷ ban thường vụ Quốc hội trong các trường hợp đặc biệt sau đây:"
+ENTITY,E38_42,DIEU,Điều,structure,30753,30760,Điều 42
+ENTITY,E38_43,DIEU,Điều,structure,31380,31387,Điều 43
+ENTITY,E38_44,DIEU,Điều,structure,31692,31699,Điều 44
+ENTITY,E38_45,DIEU,Điều,structure,32335,32503,"Điều 45
+Bộ Tài chính xem xét dự toán ngân sách của các cơ quan trung ương, dự toán ngân sách các dịa phương; tổng hợp và lập dự toán ngân sách Nhà nước trình Chính phủ."
+ENTITY,E38_46,DIEU,Điều,structure,32504,32602,"Điều 46
+Trong quá trình tổng hợp, lập dự toán ngân sách, cơ quan tài chính các cấp có trách nhiệm:"
+ENTITY,E38_47,DIEU,Điều,structure,33206,33441,"Điều 47
+Dự toán ngân sách Nhà nước và phân bổ ngân sách Nhà nước theo từng loại thu, từng lĩnh vực chi và theo cơ cấu giữa chi thường xuyên, chi đầu tư phát triển, chi trả nợ trình Quốc hội phải kèm theo tài liệu về các vấn đề sau đây:"
+ENTITY,E38_48,DIEU,Điều,structure,34569,34722,"Điều 48
+Dự toán ngân sách Nhà nước năm sau phải được gửi đến đại biểu Quốc hội chậm nhất là mười ngày trước ngày khai mạc kỳ họp Quốc hội cuối năm trước."
+ENTITY,E38_49,DIEU,Điều,structure,34723,34846,"Điều 49
+Các tài liệu cần thiết phải có kèm theo dự toán ngân sách địa phương trình hội đồng nhân dân do Chính phủ quy định."
+ENTITY,E38_50,DIEU,Điều,structure,34847,34854,Điều 50
+ENTITY,E38_51,DIEU,Điều,structure,35322,35482,"Điều 51
+Việc phân bổ ngân sách trung ương và ngân sách địa phương năm sau cho các đơn vị sử dụng ngân sách phải được thực hiện trước ngày 31 tháng 12 năm trước."
+ENTITY,E38_52,DIEU,Điều,structure,35483,35773,"Điều 52
+Trong quá trình thảo luận và quyết định dự toán ngân sách tại Quốc hội, Hội đồng nhân dân, khi quyết định dự toán ngân sách về việc tăng các khoản chi hoặc bổ sung khoản chi mới, Quốc hội, Hội đồng nhân dân đồng thời xem xét và quyết định các giải pháp để bảo đảm cân đối ngân sách."
+ENTITY,E38_53,DIEU,Điều,structure,35774,36026,"Điều 53
+Thủ tướng Chính phủ, Chủ tịch Uỷ ban nhân dân cấp trên có quyền yêu cầu Hội đồng nhân dân cấp dưới điều chỉnh lại dự toán ngân sách, nếu việc bố trí ngân sách của địa phương không phù hợp với quyết định của Quốc hội, Hội đồng nhân dân cấp trên."
+ENTITY,E38_54,DIEU,Điều,structure,36027,36143,"Điều 54
+Chính phủ quy định cụ thể trình tự, thời gian lập dự toán ngân sách nhà nước và phân bổ ngân sách nhà nước.
+"
+ENTITY,E38_55,DIEU,Điều,structure,36181,36603,"Điều 55
+Khi nhận được số phân bổ về ngân sách, các cơ quan nhà nước và các đơn vị dự toán ngân sách giao nhiệm vụ cho các đơn vị trực thuộc bảo đảm đúng với dự toán ngân sách được phân bổ; đồng thời thông báo cho cơ quan tài chính cùng cấp và Kho bạc Nhà nước nơi giao dịch để theo dõi, cấp pháp và quản lý. Ngoài cơ quan giao ngân sách, không một tổ chức hoặc cá nhân nào được thay đổi nhiệm vụ ngân sách đã được phân bổ."
+ENTITY,E38_56,DIEU,Điều,structure,36604,36908,"Điều 56
+Trong trường hợp vào đầu năm ngân sách, dự toán ngân sách và phân bổ ngân sách chưa được cơ quan nhà nước có thẩm quyền quyết định, cơ quan tài chính các cấp được phép tạm cấp kinh phí cho các nhu cầu chi không thể trì hoãn được cho tới khi dự toán ngân sách và phân bổ ngân sách được quyết định."
+ENTITY,E38_57,DIEU,Điều,structure,36909,36916,Điều 57
+ENTITY,E38_58,DIEU,Điều,structure,37388,37395,Điều 58
+ENTITY,E38_59,DIEU,Điều,structure,38101,38108,Điều 59
+ENTITY,E38_60,DIEU,Điều,structure,39238,39325,"Điều 60
+Việc cấp phát kinh phí ngân sách nhà nước được thực hiện theo quy định sau đây:"
+ENTITY,E38_61,DIEU,Điều,structure,40159,40572,"Điều 61
+Nghiêm cấm tăng chi về quỹ tiền lương đã ghi trong dự toán ngân sách được duyệt, trừ trường hợp được cấp có thẩm quyền cho phép.
+Chi đầy tư xây dựng cơ bản phải bảo đảm cấp đủ và đúng tiến độ trong phạm vi kế hoạch được giao, những khoản chi khác chỉ được phép điều chỉnh trong phạm vi dự toán được phân bổ và theo quy định của Chính phủ, trừ trường hợp quy định tại các khoản 2 và 3 Điều 62 của Luật này."
+ENTITY,E38_62,DIEU,Điều,structure,40573,40680,"Điều 62
+Trong quá trình chấp hành ngân sách nhà nước, nếu có sự thay đổi về thu, chi thì thực hiện như sau:"
+ENTITY,E38_63,DIEU,Điều,structure,42235,42527,"Điều 63
+Các đơn vị sử dụng ngân sách nhà nước có nhiệm vụ báo cáo định kỳ tình hình thực hiện chi ngân sách nhà nước gửi cơ quan tài chính theo quy định của pháp luật. Trường hợp vi phạm chế độ báo cáo, cơ quan tài chính có quyền tạm đình chỉ cấp phát kinh phí cho tới khi nhận được báo cáo.
+"
+ENTITY,E38_64,DIEU,Điều,structure,42578,42735,"Điều 64
+Các tổ chức, cá nhân có nhiệm vụ thu, chi ngân sách nhà nước phải tổ chức hạch toán kế toán, báo cáo và quyết toán theo đúng chế độ kế toán nhà nước."
+ENTITY,E38_65,DIEU,Điều,structure,42736,42743,Điều 65
+ENTITY,E38_66,DIEU,Điều,structure,43179,43530,"Điều 66
+Kết dư ngân sách trung ương, ngân sách cấp tỉnh được trích năm mươi phần trăm chuyển vào quỹ dự trữ tài chính, năm mươi phần trăm (50%) chuyển vào ngân sách năm sau, nếu quỹ dự trữ tài chính đã đủ mức giới hạn thì chuyển số còn lại vào ngân sách năm sau. Kết dư ngân sách cấp huyện, ngân sách xã, thị trấn, phường chuyển vào ngân sách năm sau."
+ENTITY,E38_67,DIEU,Điều,structure,43531,43538,Điều 67
+ENTITY,E38_68,DIEU,Điều,structure,44040,44047,Điều 68
+ENTITY,E38_69,DIEU,Điều,structure,44653,44800,"Điều 69
+Thủ tướng Chính phủ chỉ đạo việc tổ chức kiểm toán, quyết toán ngân sách nhà nước trước khi trình cơ quan nhà nước có thẩm quyền phê chuẩn."
+ENTITY,E38_70,DIEU,Điều,structure,44801,44808,Điều 70
+ENTITY,E38_71,DIEU,Điều,structure,45311,45418,"Điều 71
+Trong quá trình kiểm tra, xét duyệt quyết toán thu, chi ngân sách phải bảo đảm các yêu cầu sau đây:"
+ENTITY,E38_72,DIEU,Điều,structure,45758,45943,"Điều 72
+Trong phạm vi nhiệm vụ, quyền hạn của mình, cơ quan quản lý nhà nước và đơn vị dự toán ngân sách có trách nhiệm kiểm tra việc thực hiện các chế độ thu, chi và quản lý ngân sách."
+ENTITY,E38_73,DIEU,Điều,structure,45944,46202,"Điều 73
+Kiểm toán Nhà nước là cơ quan thuộc Chính phủ, thực hiện việc kiểm toán, xác định đúng đắn, hợp pháp của các số liệu kế toán, báo cáo quyết toán của các cơ quan nhà nước, các đơn vị có nhiệm vụ thu, chi ngân sách nhà nước theo quy định của Chính phủ."
+ENTITY,E38_74,DIEU,Điều,structure,46203,46210,Điều 74
+ENTITY,E38_75,DIEU,Điều,structure,46634,46641,Điều 75
+ENTITY,E38_76,DIEU,Điều,structure,46910,47038,"Điều 76
+Tổ chức, cá nhân có thành tích trong việc thực hiện ngân sách nhà nước thì được khen thưởng theo quy định của pháp luật."
+ENTITY,E38_77,DIEU,Điều,structure,47039,47117,"Điều 77
+Những hành vi sau đây là những hành vi vi phạm pháp luật về ngân sách:"
+ENTITY,E38_78,DIEU,Điều,structure,47737,48049,"Điều 78
+Tổ chức, cá nhân có những hành vi vi phạm pháp luật về ngân sách làm tổn thất ngân sách, tài sản của Nhà nước đều phải bồi thường; tuỳ theo tính chất, mức độ vi phạm, người có hành vi vi phạm pháp luật bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+ENTITY,E38_79,DIEU,Điều,structure,48050,48256,"Điều 79
+Tổ chức, cá nhân có quyền khiếu nại, khởi kiện, tố cáo những hành vi vi phạm pháp luật về ngân sách. Việc khiếu nại, khởi kiện, tố cáo và việc giải quyết được thực hiện theo quy định của pháp luật.
+"
+ENTITY,E38_80,DIEU,Điều,structure,48288,48475,"Điều 80
+Căn cứ vào những quy định của Luật này, Thủ tướng Chính phủ quy định về quản lý, sử dụng ngân sách và tài sản nhà nước đối với một số hoạt động thuộc lĩnh vực quốc phòng, an ninh."
+ENTITY,E38_81,DIEU,Điều,structure,48476,48786,"Điều 81
+Luật này có hiệu lực thi hành từ năm ngân sách 1997. Những quy định trước đây trái với Luật này đều bãi bỏ.
+Việc thu, chi, quyết toán ngân sách nhà nước và những vấn đề phát sinh từ việc thực hiện ngân sách nhà nước trước đây khi Luật này có hiệu lực thi hành thì được áp dụng theo pháp luật hiện hành."
+ENTITY,E38_82,DIEU,Điều,structure,48787,48841,"Điều 82
+Chính phủ quy định chi tiết thi hành Luật này."
+ENTITY,E39_1,KHOAN,Khoản,structure,938,1257,"1- Thu ngân sách nhà nước bao gồm: các khoản thu từ thuế, phí, lệ phí; các khoản thu từ hoạt động kinh tế của Nhà nước; các khoản đóng góp của các tổ chức và cá nhân; các khoản viện trợ; các khoản thu khác theo quy định của pháp luật; các khoản do Nhà nước vay để bù đắp bôi chi được đưa vào cân đối ngân sách nhà nước."
+ENTITY,E39_2,KHOAN,Khoản,structure,1258,1492,"2- Chi ngân sách nhà nước bao gồm: các khoản chi phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh, bảo đảm hoạt động của bộ máy nhà nước; chi trả nợ của Nhà nước; chi viện trợ và các khoản chi khác theo quy định của pháp luật."
+ENTITY,E39_3,KHOAN,Khoản,structure,1992,2108,1- Ngân sách trung ương và ngân sách mỗi cấp chính quyền địa phương được phân định nguồn thu và nhiệm vụ chi cụ thể;
+ENTITY,E39_4,KHOAN,Khoản,structure,2109,2303,"2- Thực hiện việc bổ sung từ ngân sách cấp trên cho ngân sách cấp dưới để bảo đảm công bằng, phát triển cân đối giữa các vùng, các địa phương. Số bổ sung này là khoản thu của ngân sách cấp dưới;"
+ENTITY,E39_5,KHOAN,Khoản,structure,2304,2533,"3- Trường hợp cơ quan quản lý nhà nước cấp trên uỷ quyền cho cơ quan quản lý nhà nước cấp dưới thực hiện nhiệm vụ chi thuộc chức năng của mình, thì phải chuyển kinh phí từ ngân sách cấp trên cho cấp dưới để thực hiện nhiệm vụ đó;"
+ENTITY,E39_6,KHOAN,Khoản,structure,2534,2712,"4- Ngoài việc bổ sung nguồn thu và uỷ quyền thực hiện nhiệm vụ chi quy định tại các khoản 2 và 3 Điều này, không được dúng ngân sách của cấp này để chi cho nhiệm vụ của cấp khác."
+ENTITY,E39_7,KHOAN,Khoản,structure,2720,2828,1- Thu ngân sách nhà nước phải được thực hiện theo quy định của Luật này và các quy định khác của pháp luật.
+ENTITY,E39_8,KHOAN,Khoản,structure,2829,2906,2- Chi ngân sách nhà nước chỉ được thực hiện khi có đủ các điều kiện sau đây:
+ENTITY,E39_9,KHOAN,Khoản,structure,3360,3463,"3- Các ngành, các cấp, các đơn vị không được đặt ra các khoản thu, chi trái với quy định của pháp luật."
+ENTITY,E39_10,KHOAN,Khoản,structure,3464,3681,4- Cơ quan tài chính các cấp có trách nhiệm cấp phát kịp thời các khoản chi; có quyền từ chối chi trả các khoản chi không đủ các điều kiện quy định tại khoản 2 Điều này và phải chịu trách nhiệm về quyết định của mình.
+ENTITY,E39_11,KHOAN,Khoản,structure,3796,3927,"1- Quỹ ngân sách nhà nước là toàn bộ các khoản tiền của Nhà nước, kể cả tiền vay, có trên tài khoản của ngân sách nhà nước các cấp."
+ENTITY,E39_12,KHOAN,Khoản,structure,3928,3988,2- Quy ngân sách nhà nước được quản lý tại Kho bạc Nhà nước.
+ENTITY,E39_13,KHOAN,Khoản,structure,3996,4297,"1- Ngân cách nhà nước được cân đối theo nguyên tắc tổng số thu từ thuế, phí và lệ phí phải lớn hơn tổng số chi thường xuyên và góp phần tích luỹ ngày càng cao vào chi đầu tư phát triển; trường hợp còn bội chi, thì số bội chi phải nhỏ hơn số chi đầu tư phát triển, tiến tới cân bằng thu, chi ngân sách."
+ENTITY,E39_14,KHOAN,Khoản,structure,4298,4532,"2- Vay bù đắp bội chi ngân sách nhà nước phải bảo đảm nguyên tắc: không sử dụng cho tiêu dùng; chỉ được sử dụng cho mục đích phát triển, phải có kế hoạch thu hồi vốn vay và bảo đảm cân đối ngân sách để chủ động trả hết nợ khi đến hạn."
+ENTITY,E39_15,KHOAN,Khoản,structure,4533,5002,"3- Ngân sách địa phương được cân đối theo nguyên tắc tổng số chi không vượt quá tổng số thu; trường hợp tỉnh, thành phố trực thuộc trung ương (gọi chung là cấp tỉnh) có nhu cầu đầu tư xây dựng công trình kết cấu hạ tầng thuộc phạm vi ngân sách cấp tỉnh bảo đảm mà vượt quá khả năng cân đối của ngân sách cấp tỉnh, thì được phép huy động vốn đầu tư trong nước theo quyết định của Thủ tướng Chính phủ và phải cân đối ngân sách cấp tỉnh để chủ động trả hết nợ khi hết hạn."
+ENTITY,E39_16,KHOAN,Khoản,structure,5010,5208,1- Dự toán chi ngân sách trung ương và ngân sách các cấp chính quyền địa phương được bố trí khoản dự phòng từ 3% đến 5% tổng số chi để đáp ứng các nhu cầu chi phát sinh đột xuất trong năm ngân sách.
+ENTITY,E39_17,KHOAN,Khoản,structure,5209,5639,"2- Chính phủ, Uỷ ban nhân dân cấp tỉnh được lập quỹ dự trữ tài chính từ các nguồn: tăng thu, kết dư ngân sách và bố trí trong dự toán chi ngân sách hàng năm. Quỹ dự trữ tài chính được sử dụng để đáp ứng các nhu cầu chi khi nguồn thu chưa tập trung kịp và phải hoàn trả ngay trong năm ngân sách, trừ trường hợp đặc biệt do Thủ tướng Chính phủ quy định.
+Mức khống chế tối đa của quỹ dự trữ tài chính ở mỗi cấp do Chính phủ quy định."
+ENTITY,E39_18,KHOAN,Khoản,structure,6267,6332,"1- Thu, chi ngân sách nhà nước được hạch toán bằng đồng Việt Nam."
+ENTITY,E39_19,KHOAN,Khoản,structure,6333,6466,2- Kế toán và quyết toán ngân sách nhà nước được thực hiện thống nhất theo chế độ kế toán của Nhà nước và Mục lục ngân sách nhà nước.
+ENTITY,E39_20,KHOAN,Khoản,structure,6467,6547,"3- Chứng từ để thu, chi ngân sách nhà nước do Bộ Tài chính phát hành và quản lý."
+ENTITY,E39_21,KHOAN,Khoản,structure,6856,6918,1- Làm luật và sửa đổi luật trong lĩnh vực ngân sách nhà nước;
+ENTITY,E39_22,KHOAN,Khoản,structure,6919,7048,"2- Quyết định chính sách tài chính, tiền tệ quốc gia để góp phần phát triển kinh tế, bảo đảm cân đối thu, chi ngân sách nhà nước;"
+ENTITY,E39_23,KHOAN,Khoản,structure,7049,7152,"3- Quyết định dự toán ngân sách nhà nước với tổng số thu, tổng số chi, mức bội chi và các nguồn bù đắp;"
+ENTITY,E39_24,KHOAN,Khoản,structure,7153,7621,"4- Quyết định phân bổ ngân sách nhà nước theo từng loại thu, từng lĩnh vực chi và theo cơ cấu giữa chi thường xuyên, chi đầu tư phát triển, chi trả nợ. Căn cứ vào quyết định của Quốc hội về ngân sách nhà nước hàng năm, Quốc hội giao Uỷ ban thường vụ Quốc hội quyết định phương án phân bổ ngân sách trung ương cho từng bộ, ngành và mức bổ sung từ ngân sách trung ương cho từng tỉnh, thành phố trực thuộc trung do Chính phủ trình và báo cáo Quốc hội tại kỳ họp gần nhất;"
+ENTITY,E39_25,KHOAN,Khoản,structure,7622,7761,"5- Quyết định danh mục các chương trình, dự án quốc gia, các công trình xây dựng cơ bản quan trọng được đầu tư từ nguồn ngân sách nhà nước;"
+ENTITY,E39_26,KHOAN,Khoản,structure,7762,7841,6- Quyết định điều chỉnh dự toán ngân sách nhà nước trong trường hợp cần thiết;
+ENTITY,E39_27,KHOAN,Khoản,structure,7842,8061,"7- Giám sát việc thực hiện ngân sách nhà nước, chính sách tài chính, tiền tệ quốc gia, Nghị quyết của Quốc hội về ngân sách nhà nước hàng năm, các chương trình, dự án quốc gia, các công trình xây dựng cơ bản quan trọng;"
+ENTITY,E39_28,KHOAN,Khoản,structure,8062,8105,8- Phê chuẩn quyết toán ngân sách nhà nước.
+ENTITY,E39_29,KHOAN,Khoản,structure,8165,8245,1- Ban hành văn bản pháp luật về lĩnh vực ngân sách nhà nước được Quốc hội giao;
+ENTITY,E39_30,KHOAN,Khoản,structure,8246,8386,2- Thực hiện nhiệm vụ của Quốc hội giao về quyết định phương án phân bổ ngân sách trung ương theo quy định tại khoản 4 Điều 15 của Luật này;
+ENTITY,E39_31,KHOAN,Khoản,structure,8387,8532,"3- Giám sát việc thi hành pháp luật về ngân sách, chính sách tài chính, tiền tệ quốc gia, Nghị quyết của Quốc hội về ngân sách nhà nước hàng năm."
+ENTITY,E39_32,KHOAN,Khoản,structure,8607,8681,"1- Thẩm tra dự án luật, pháp lệnh và các dự án khác về lĩnh vực ngân sách;"
+ENTITY,E39_33,KHOAN,Khoản,structure,8682,9297,"2- Thẩm tra dự toán ngân sách nhà nước, phân bổ ngân sách nhà nước, các báo cáo về việc thực hiện ngân sách nhà nước và quyết toán ngân sách nhà nước do Chính phủ trình Quốc hội;
+Thẩm tra phương án phân bổ ngân sách trung ương cho từng bộ, ngành và mức bổ sung từ ngân sách trung ương cho từng tỉnh, thành phố trực thuộc trung ương do Chính phủ trình Uỷ ban thường vụ Quốc hội;
+4- Giám sát hoạt động của Chính phủ, các ngành, các cấp trong việc thực hiện ngân sách nhà nước và việc thực hiện pháp luật về ngân sách của các tổ chức và cá nhân;
+5- Kiến nghị với Quốc hội các vấn đề về ngân sách, tài chính và tiền tệ."
+ENTITY,E39_34,KHOAN,Khoản,structure,9380,9611,"1- Trong phạm vi nhiệm vụ, quyền hạn của mình, phối hợp với Uỷ ban kinh tế và ngân sách của Quốc hội thẩm tra các dự án luật, pháp lệnh và các dự án khác về lĩnh vực ngân sách do Chính phủ trình Quốc hội, Uỷ ban thường vụ Quốc hội;"
+ENTITY,E39_35,KHOAN,Khoản,structure,9612,9756,2- Giám sát việc thực hiện pháp luật về ngân sách và việc thực hiện Nghị quyết của Quốc hội về ngân sách nhà nước trong lĩnh vực mình phụ trách.
+ENTITY,E39_36,KHOAN,Khoản,structure,10058,10238,"1- Trình Quốc hội, Uỷ ban thường vụ Quốc hội các dự án luật, pháp lệnh và các dự án khác về ngân sách nhà nước; ban hành các văn bản pháp quy về ngân sách nhà nước theo thẩm quyền;"
+ENTITY,E39_37,KHOAN,Khoản,structure,10239,10387,"2- Lập và trình Quốc hội dự toán ngân sách Nhà nước và phân bổ ngân sách Nhà nước, dự toán điều chỉnh ngân sách nhà nước trong trường hợp cần thiết;"
+ENTITY,E39_38,KHOAN,Khoản,structure,10388,10476,3- Lập và trình Uỷ ban thường vụ Quốc hội phương án phân bổ cụ thể ngân sách trung ương;
+ENTITY,E39_39,KHOAN,Khoản,structure,10477,10728,"4- Căn cứ vào Nghị quyết của Quốc hội và Nghị quyết của Uỷ ban thường vụ Quốc hội, quyết định giao nhiệm vụ thu, chi ngân sách cho từng bộ, ngành; nhiệm vụ thu, chi và mức bổ sung từ ngân sách trung ương cho từng tỉnh, thành phố trực thuộc trung ương;"
+ENTITY,E39_40,KHOAN,Khoản,structure,10729,10881,"5- Thống nhất quản lý ngân sách nhà nước, bảo đảm sự phối hợp chặt chẽ giữa cơ quan quản lý ngành và địa phương trong việc thực hiện ngân sách nhà nước;"
+ENTITY,E39_41,KHOAN,Khoản,structure,10882,11103,"6- Tổ chức và kiểm tra việc thực hiện ngân sách nhà nước, báo cáo Quốc hội, Uỷ ban thường vụ Quốc hội về tình hình thực hiện ngân sách Nhà nước, các chương trình, dự án quốc gia, các công trình xây dựng cơ bản quan trọng;"
+ENTITY,E39_42,KHOAN,Khoản,structure,11104,11218,"7- Quy định nguyên tắc, phương pháp tính toán việc bổ sung nguồn thu từ ngân sách cấp trên cho ngân sách cấp dưới;"
+ENTITY,E39_43,KHOAN,Khoản,structure,11219,11312,8- Quy định chế độ sử dụng khoản dự phòng ngân sách nhà nước và quản lý quỹ dự trữ tài chính;
+ENTITY,E39_44,KHOAN,Khoản,structure,11313,11476,"9- Quy định hoặc uỷ quyền cho cơ quan nhà nước có thẩm quyền quy định các chế độ, tiêu chuẩn, định mức chi ngân sách nhà nước để thi hành thống nhất trong cả nước;"
+ENTITY,E39_45,KHOAN,Khoản,structure,11477,11568,10- Kiểm tra Nghị quyết của Hội đồng nhân dân về dự toán ngân sách và quyết toán ngân sách;
+ENTITY,E39_46,KHOAN,Khoản,structure,11569,11692,"11- Lập và trình Quốc hội quyết toán ngân sách nhà nước, quyết toán các công trình xây dựng cơ bản quan trọng của Nhà nước."
+ENTITY,E39_47,KHOAN,Khoản,structure,11739,11911,"1- Chuẩn bị các dự án luật, pháp lệnh và các dự án khác về lĩnh vực ngân sách nhà nước trình Chính phủ; ban hành các văn bản pháp quy về ngân sách nhà nước theo thẩm quyền;"
+ENTITY,E39_48,KHOAN,Khoản,structure,11912,12006,2- Chịu trách nhiệm trước Chính phủ thực hiện chức năng thống nhất quản lý ngân sách nhà nước:
+ENTITY,E39_49,KHOAN,Khoản,structure,12500,12900,"3- Hướng dẫn, kiểm tra các bộ, cơ quan khác ở trung ương và các địa phương xây dựng dự toán ngân sách nhà nước hàng năm; chủ động phối hợp với các cơ quan hữu quan ở trung ương và địa phương lập dự toán ngân sách nhà nước, phân bổ ngân sách nhà nước và phương án phân bổ ngân sách trung ương trình Chính phủ; đề xuất các biện pháp nhằm thực hiện chính sách tăng thu, tiết kiệm chi ngân sách nhà nước;"
+ENTITY,E39_50,KHOAN,Khoản,structure,12901,13123,"4- Chủ trì phối hợp với các bộ, ngành trong việc xây dựng các chế độ, tiêu chuẩn, định mức chi ngân sách nhà nước trình Chính phủ quyết định hoặc quyết định theo phân cấp của Chính phủ để thi hành thống nhất trong cả nước;"
+ENTITY,E39_51,KHOAN,Khoản,structure,13124,13312,"5- Thanh tra, kiểm tra tài chính đối với tất cả các tổ chức kinh tế, các đơn vị hành chính sự nghiệp và các đối tượng khác có nghĩa vụ nộp ngân sách nhà nước và sử dụng ngân sách nhà nước;"
+ENTITY,E39_52,KHOAN,Khoản,structure,13313,13376,6- Quản lý quỹ ngân sách nhà nước và các quỹ khác của Nhà nước;
+ENTITY,E39_53,KHOAN,Khoản,structure,13377,13477,"7- Lập quyết toán ngân sách trung ương, tổng hợp, lập quyết toán ngân sách nhà nước trình Chính phủ;"
+ENTITY,E39_54,KHOAN,Khoản,structure,13478,13541,"8- Tổ chức quản lý, kiểm tra việc sử dụng tài sản của Nhà nước."
+ENTITY,E39_55,KHOAN,Khoản,structure,13597,13843,"1- Trình Chính phủ dự án kế hoạch phát triển kinh tế-xã hội của cả nước và các cân đối chủ yếu của nền kinh tế quốc dân, trong đó có cân đối tài chính, tiền tệ, vốn đầu tư xây dựng cơ bản làm cơ sở cho việc xây dựng kế hoạch tài chính, ngân sách;"
+ENTITY,E39_56,KHOAN,Khoản,structure,13844,13950,2- Phối hợp với Bộ Tài chính lập dự toán và phương án phân bổ ngân sách nhà nước trong lĩnh vực phụ trách;
+ENTITY,E39_57,KHOAN,Khoản,structure,13951,14079,"3- Phối hợp với Bộ Tài chính và các bộ, ngành hữu quan kiểm tra đánh giá hiệu quả của vốn đầu tư các công trình xây dựng cơ bản."
+ENTITY,E39_58,KHOAN,Khoản,structure,14141,14283,1- Phối hợp với Bộ Tài chính trong việc lập dự toán ngân sách nhà nước đối với kế hoạch và phương án vay để bù đắp bội chi ngân sách nhà nước;
+ENTITY,E39_59,KHOAN,Khoản,structure,14284,14409,2- Tạm ứng cho ngân sách nhà nước để xử lý thiếu hụt tạm thời quỹ ngân sách nhà nước theo quyết định của Thủ tướng Chính phủ.
+ENTITY,E39_60,KHOAN,Khoản,structure,14457,14650,"1- Phối hợp với Bộ Tài chính, Uỷ ban nhân dân cấp tỉnh trong quá trình lập dự toán ngân sách nhà nước, phân bổ ngân sách nhà nước, quyết toán ngân sách nhà nước thuộc ngành, lĩnh vực phụ trách;"
+ENTITY,E39_61,KHOAN,Khoản,structure,14651,14760,"2- Phối hợp với Bộ Tài chính kiểm tra theo dõi tình hình thực hiện ngân sách thuộc ngành, lĩnh vực phụ trách;"
+ENTITY,E39_62,KHOAN,Khoản,structure,14761,14874,"3- Báo cáo tình hình thực hiện và kết quả sử dụng ngân sách thuộc ngành, lĩnh vực phụ trách theo chế độ quy đinh;"
+ENTITY,E39_63,KHOAN,Khoản,structure,14875,15008,"4- Phối hợp với Bộ Tài chính trong việc xây dựng chế độ, tiêu chuẩn, định mức chi ngân sách nhà nước thuộc ngành, lĩnh vực phụ trách."
+ENTITY,E39_64,KHOAN,Khoản,structure,15079,15100,1- Hội đồng nhân dân:
+ENTITY,E39_65,KHOAN,Khoản,structure,15808,15827,2- Uỷ ban nhân dân:
+ENTITY,E39_66,KHOAN,Khoản,structure,17054,17125,"1- Tổ chức việc lập dự toán thu, chi ngân sách thuộc phạm vi được giao;"
+ENTITY,E39_67,KHOAN,Khoản,structure,17126,17323,"2- Tổ chức thực hiện dự toán thu, chi ngân sách được giao; nộp đầy đủ đúng hạn các khoản phải nộp ngân sách theo quy định của pháp luật; chi đúng chế độ; đúng mục đích, đúng đối tượng và tiết kiệm;"
+ENTITY,E39_68,KHOAN,Khoản,structure,17324,17407,"3- Hướng dẫn, kiểm tra việc thực hiện thu, chi ngân sách của các đơn vị trực thuộc;"
+ENTITY,E39_69,KHOAN,Khoản,structure,17408,17505,"4- Quản lý, sử dụng tài sản của Nhà nước tại đơn vị theo đúng mục đích, đúng chế độ, có hiệu quả;"
+ENTITY,E39_70,KHOAN,Khoản,structure,17506,17646,"5- Chấp hành đúng chế độ kế toán, thống kê của Nhà nước; báo cáo tình hình thực hiện ngân sách và quyết toán ngân sách theo chế độ quy định."
+ENTITY,E39_71,KHOAN,Khoản,structure,17702,17818,"1- Nộp đầy đủ, đúng hạn các khoản thuế, phí, lệ phí và các khoản thu khác vào ngân sách theo quy định của pháp luật;"
+ENTITY,E39_72,KHOAN,Khoản,structure,17819,18012,"2- Trường hợp được Nhà nước trợ cấp, tài trợ vốn và kinh phí theo dự toán được duyệt thì phải quản lý và sử dụng các khoản vốn và kinh phí đó đúng mục đích, đúng chế độ, tiết kiệm, có hiệu quả;"
+ENTITY,E39_73,KHOAN,Khoản,structure,18013,18070,"3- Chấp hành đúng chế độ kế toán, thống kê của Nhà nước.
+"
+ENTITY,E39_74,KHOAN,Khoản,structure,18175,18197,1- Các khoản thu 100%:
+ENTITY,E39_75,KHOAN,Khoản,structure,18929,19034,2- Các khoản thu được phân chia theo tỷ lệ phần trăm (%) giữa ngân sách trung ương và ngân sách cấp tỉnh:
+ENTITY,E39_76,KHOAN,Khoản,structure,19319,19342,1- Chi thường xuyên về:
+ENTITY,E39_77,KHOAN,Khoản,structure,20217,20242,2- Chi đầu tư phát triển:
+ENTITY,E39_78,KHOAN,Khoản,structure,20686,20726,3- Chi trả nợ gốc tiền do Chính phủ vay.
+ENTITY,E39_79,KHOAN,Khoản,structure,20727,20763,4- Chi bổ sung quỹ dự trữ tài chính.
+ENTITY,E39_80,KHOAN,Khoản,structure,20764,20802,5- Chi bổ sung cho ngân sách cấp dưới.
+ENTITY,E39_81,KHOAN,Khoản,structure,20849,20871,1- Các khoản thu 100%:
+ENTITY,E39_82,KHOAN,Khoản,structure,21560,21660,2- Các khoản thu phân chia theo tỷ lệ phần trăm (%) giữa ngân sách trung ương và ngân sách cấp tỉnh:
+ENTITY,E39_83,KHOAN,Khoản,structure,21895,22085,"3- Các khoản thu phân chia theo tỷ lệ phần trăm (%) giữa ngân sách cấp tỉnh, ngân sách huyện, quận, thị xã, thành phố thuộc tỉnh (gọi chung là ngân sách cấp huyện) và ngân sách xã, thị trấn:"
+ENTITY,E39_84,KHOAN,Khoản,structure,22241,22264,1- Chi thường xuyên về:
+ENTITY,E39_85,KHOAN,Khoản,structure,23051,23076,2- Chi đầu tư phát triển:
+ENTITY,E39_86,KHOAN,Khoản,structure,23248,23327,3- Chi trả nợ gốc tiền vay cho đầu tư quy định tại khoản 3 Điều 8 của luật này.
+ENTITY,E39_87,KHOAN,Khoản,structure,23328,23364,4- Chi bổ sung quỹ dự trữ tài chính.
+ENTITY,E39_88,KHOAN,Khoản,structure,23365,23403,5- Chi bổ sung cho ngân sách cấp dưới.
+ENTITY,E39_89,KHOAN,Khoản,structure,23451,23473,1- Các khoản thu 100%:
+ENTITY,E39_90,KHOAN,Khoản,structure,24233,24356,"2- Các khoản thu phân chia theo tỷ lệ phần trăm (%) giữa ngân sách cấp tỉnh, ngân sách cấp huyện và ngân sách xã, thị trấn:"
+ENTITY,E39_91,KHOAN,Khoản,structure,24463,24742,"3- Ngoài các khoản thu quy định tại các khoản 1 và 2 Điều này, đối với các thị xã, thành phố thuộc tỉnh còn được phân chia thêm một phần theo tỷ lệ phần trăm (%) về thuế doanh thu, thuế lợi tức, lệ phí trước bạ thu trên địa bàn và được lập quỹ đầu tư theo quy định của Chính phủ."
+ENTITY,E39_92,KHOAN,Khoản,structure,24793,24816,1- Chi thường xuyên về:
+ENTITY,E39_93,KHOAN,Khoản,structure,25527,25899,"2- Chi đầu tư phát triển:
+Chi đầu tư xây dựng các công trình kết cấu hạ tầng kinh tế - xã hội theo phân cấp của tỉnh. Trong phân cấp đối với thị xã, thành phố thuộc tỉnh, phải có nhiệm vụ chi đầu tư xây dựng các trường phổ thông quốc lập các cấp và các công trình phúc lợi công cộng, điện chiếu sáng, cấp thoát nước, giao thông nội thị, an toàn giao thông, vệ sinh đô thị."
+ENTITY,E39_94,KHOAN,Khoản,structure,25900,25938,3- Chi bổ sung cho ngân sách cấp dưới.
+ENTITY,E39_95,KHOAN,Khoản,structure,25989,26011,1- Các khoản thu 100%:
+ENTITY,E39_96,KHOAN,Khoản,structure,26604,26727,"2- Các khoản thu phân chia theo tỷ lệ phần trăm (%) giữa ngân sách cấp tỉnh, ngân sách cấp huyện và ngân sách xã, thị trấn:"
+ENTITY,E39_97,KHOAN,Khoản,structure,26887,26910,1- Chi thường xuyên về:
+ENTITY,E39_98,KHOAN,Khoản,structure,27478,27599,"2- Chi đầu tư phát triển:
+Chi đầu tư xây dựng các công trình kết cấu hạ tầng kinh tế - xã hội theo phân cấp của cấp tỉnh."
+ENTITY,E39_99,KHOAN,Khoản,structure,28038,28134,"1- Các khoản phí, lệ phí và các khoản đóng góp cho ngân sách phường theo quy định của pháp luật;"
+ENTITY,E39_100,KHOAN,Khoản,structure,28135,28211,"2- Thuế sát sinh, trừ thuế sát sinh thu từ các doanh nghiệp giết mổ gia súc;"
+ENTITY,E39_101,KHOAN,Khoản,structure,28212,28276,"3- Các khoản đóng góp tự nguyện của tổ chức, cá nhân cho phường;"
+ENTITY,E39_102,KHOAN,Khoản,structure,28277,28393,4- Viện trợ không hoàn lại của các tổ chức và cá nhân ở nước ngoài trực tiếp cho phường theo quy định của pháp luật;
+ENTITY,E39_103,KHOAN,Khoản,structure,28394,28425,5- Thu kết dư ngân sách phường;
+ENTITY,E39_104,KHOAN,Khoản,structure,28426,28459,6- Bổ sung từ ngân sách cấp trên;
+ENTITY,E39_105,KHOAN,Khoản,structure,28460,28510,7- Các khoản thu khác theo quy định của pháp luật.
+ENTITY,E39_106,KHOAN,Khoản,structure,28558,28649,"1- Chi công tác xã hội và hoạt động văn hoá, thông tin, thể dục thể thao do phường quản lý;"
+ENTITY,E39_107,KHOAN,Khoản,structure,28650,28717,"2- Chi về công tác dân quân tự vệ, trật tự an toàn xã hội ở phường;"
+ENTITY,E39_108,KHOAN,Khoản,structure,28718,28836,"3- Chi về hoạt động của các cơ quan nhà nước, cơ quan Đảng công sản Việt Nam và các tổ chức chính trị - xã hội phường;"
+ENTITY,E39_109,KHOAN,Khoản,structure,28837,28887,4- Các khoản chi khác theo quy định của pháp luật.
+ENTITY,E39_110,KHOAN,Khoản,structure,30603,30649,"1- Có yêu cầu cấp bách về quốc phòng, an ninh;"
+ENTITY,E39_111,KHOAN,Khoản,structure,30650,30712,"2- Biến động lớn về thu, chi ngân sách so với mức đã phân bổ.
+"
+ENTITY,E39_112,KHOAN,Khoản,structure,30761,30886,"1- Dự toán ngân sách Nhà nước hàng năm được lập căn cứ vào nhiệm vụ phát triển kinh tế-xã hội và bảo đảm quốc phòng, an ninh."
+ENTITY,E39_113,KHOAN,Khoản,structure,30887,31025,2- Các khoản thu trong dự toán ngân sách phải được xác định trên cơ sở tăng trưởng kinh tế và các quy định của pháp luật về thu ngân sách.
+ENTITY,E39_114,KHOAN,Khoản,structure,31026,31379,"3- Các khoản chi trong dự toán ngân sách phải được xác định trên cơ sở mục tiêu phát triển kinh tế-xã hội, quản lý Nhà nước và bảo đảm quốc phòng, an ninh. Đối với các khoản chi thường xuyên, việc lập dự toán còn phải căn cứ vào nguồn thu từ thuế, phí, lệ phí và tuân theo các chế độ, tiêu chuẩn, định mức do các cơ quan Nhà nước có thẩm quyền quy định."
+ENTITY,E39_115,KHOAN,Khoản,structure,31388,31506,"1- Hàng năm, Thủ tướng Chính phủ quyết định về việc lập kế hoạch kinh tế-xã hội và dự toán ngân sách Nhà nước năm sau."
+ENTITY,E39_116,KHOAN,Khoản,structure,31507,31691,"2- Căn cứ vào quyết định của Thủ tướng Chính phủ, Bộ Tài chính hướng dẫn về yêu cầu, nội dung, thời hạn lập dự toán ngân sách nhà Nhà nước và số kiểm tra về dự toán ngân sách Nhà nước."
+ENTITY,E39_117,KHOAN,Khoản,structure,31700,31879,"1- Các cơ quan, đơn vị có trách nhiệm trong việc thu, chi ngân sách phải tổ chức lập dự toán thu, chi ngân sách trong phạm vi nhiệm vụ được giao và gửi cơ quan tài chính cùng cấp."
+ENTITY,E39_118,KHOAN,Khoản,structure,31880,32123,"2- Cơ quan tài chính các cấp ở địa phương xem xét dự toán ngân sách của các cơ quan, đơn vị cùng cấp và dự toán ngân sách của chính quyền cấp dưới, tổng hợp, lập dự toán và phương án phân bổ ngân sách địa phương trình Uỷ ban nhân dân cùng cấp."
+ENTITY,E39_119,KHOAN,Khoản,structure,32124,32334,"3- Uỷ ban nhân dân có trách nhiệm lập dự toán và phương án phân bổ ngân sách địa phương, trình Hội đồng nhân dân cùng cấp quyết định và báo cáo cơ quan hành chính nhà nước, cơ quan tài chính cấp trên trực tiếp."
+ENTITY,E39_120,KHOAN,Khoản,structure,32603,32756,"1- Làm việc với cơ quan, đơn vị dự toán ngân sách cùng cấp, Uỷ ban nhân dân cấp dưới để điều chỉnh những điểm xét thấy cần thiết trong dự toán ngân sách;"
+ENTITY,E39_121,KHOAN,Khoản,structure,32757,33205,"2- Kiến nghị các biện pháp bảo đảm cân đối ngân sách theo quy định tại Điều 8 của Luật này.
+Trong quá trình làm việc, lập dự toán ngân sách Nhà nước, nếu có ý kiến khác nhau giữa Bộ Tài chính và các cơ quan trung ương, các địa phương, thì Bộ Tài chính phải trình Chính phủ hoặc Thủ tướng Chính phủ những ý kiến còn khác nhau để quyết định theo thẩm quyền. Nguyên tắc này cũng được áp dụng trong quá trình lập dự toán ngân sách các cấp ở địa phương."
+ENTITY,E39_122,KHOAN,Khoản,structure,33442,33628,"1- Tình hình thực hiện ngân sách Nhà nước năm trước, những căn cứ xây dựng dự toán ngân sách Nhà nước, những nội dung cơ bản và những giải pháp nhằm thực hiện dự toán ngân sách Nhà nước;"
+ENTITY,E39_123,KHOAN,Khoản,structure,33629,33831,"2- Các nhiệm vụ chi ngân sách Nhà nước, trong đó nêu rõ những mục tiêu, chương trình quan trọng của nền kinh tế quốc dân và những chính sách lớn của Đảng và Nhà nước có liên quan đến ngân sách Nhà nước;"
+ENTITY,E39_124,KHOAN,Khoản,structure,33832,33943,3- Các nhiệm vụ thu ngân sách Nhà nước kèm theo những giải pháp nhằm huy động nguồn thu cho ngân sách Nhà nước;
+ENTITY,E39_125,KHOAN,Khoản,structure,33944,34041,4- Bội chi ngân sách Nhà nước và các nguồn bù đắp; tỷ lệ bội chi so với tổng sản phẩm trong nước;
+ENTITY,E39_126,KHOAN,Khoản,structure,34042,34288,"5- Báo cáo các khoản nợ của Nhà nước, trong đó nêu rõ số nợ đến hạn phải trả, số nợ quá hạn trả, số lãi phải trả trong năm, số nợ sẽ phát sinh thêm do phải vay để bù đắp bội chi ngân sách Nhà nước, khả năng trả nợ trong năm và số nợ đến cuối năm;"
+ENTITY,E39_127,KHOAN,Khoản,structure,34289,34383,"6- Những chính sách và biện pháp cụ thể nhằm ổn định tài chính, tiền tệ và ngân sách Nhà nước;"
+ENTITY,E39_128,KHOAN,Khoản,structure,34384,34490,7- Danh mục các dự án đầu tư cho các công trình xây dựng cơ bản quan trọng thuộc nguồn ngân sách Nhà nước;
+ENTITY,E39_129,KHOAN,Khoản,structure,34491,34568,"8- Các tài liệu khác nhằm thuyết minh rõ dự toán thu, chi ngân sách Nhà nước;"
+ENTITY,E39_130,KHOAN,Khoản,structure,34855,34946,1- Quốc hội quyết định dự toán ngân sách Nhà nước năm sau trước ngày 30 tháng 11 năm trước.
+ENTITY,E39_131,KHOAN,Khoản,structure,34947,35122,"2- Trong trường hợp dự toán ngân sách Nhà nước chưa được Quốc hội quyết định, Chính phủ lập lại dự toán ngân sách Nhà nước trình Quốc hội vào thời gian do Quốc hội quyết định."
+ENTITY,E39_132,KHOAN,Khoản,structure,35123,35321,"3- Hội đồng nhân dân, căn cứ vào nguồn thu, nhiệm vụ chi đã phân cấp cho địa phương và chế độ chính sách hiện hành, quyết định dự toán ngân sách địa phương vào thời gian theo quy định của Chính phủ."
+ENTITY,E39_133,KHOAN,Khoản,structure,36917,37176,"1- Các cơ quan nhà nước trong phạm vi nhiệm vụ, quyền hạn của mình, đề ra những biện pháp cần thiết nhằm bảo đảm hoàn thành tốt nhiệm vụ thu, chi ngân sách được giao, thực hiện tiết kiệm, chống lãng phí, chống tham ô; chấp hành nghiêm chỉnh kỷ luật tài chính."
+ENTITY,E39_134,KHOAN,Khoản,structure,37177,37387,"2- Các đơn vị dự toán ngân sách, các tổ chức và cá nhân phải chấp hành nghĩa vụ nộp ngân sách theo quy định của pháp luật; sử dụng kinh phí ngân sách nhà nước đúng mục đích, đúng chế độ, tiết kiệm, có hiệu quả."
+ENTITY,E39_135,KHOAN,Khoản,structure,37396,37889,"1- Cơ quan tài chính các cấp trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm đôn đốc, kiểm tra các tổ chức, cá nhân có nghĩa vụ nộp ngân sách phải nộp đầy đủ, đúng hạn các khoản phải nộp vào ngân sách nhà nước; nếu nộp chậm mà không có lý do chính dáng, căn cứ vào yêu cầu của cơ quan tài chính, các ngân hàng và Kho bạc Nhà nước phải trích từ tài khoản tiền gửi của tổ chức, cá nhân nộp chậm để nộp ngân sách nhà nước hoặc áp dụng các biện pháp hành chính khác để thu cho ngân sách."
+ENTITY,E39_136,KHOAN,Khoản,structure,37890,38100,2- Các khoản chi thường xuyên theo định kỳ phải được bố trí kinh phí đều trong năm để chi; các khoản chi có tính chất thời vụ hoặc mua sắm lớn phải có kế hoạch với cơ quan tài chính để chủ động bố trí kinh phí.
+ENTITY,E39_137,KHOAN,Khoản,structure,38109,38240,1- Chỉ cơ quan thuế và cơ quan Nhà nước giao nhiệm vụ thu ngân sách (gọi chung là cơ quan thu) được tổ chức thu ngân sách nhà nước.
+ENTITY,E39_138,KHOAN,Khoản,structure,38241,38287,"2- Cơ quan thu có nhiệm vụ, quyền hạn sau đây:"
+ENTITY,E39_139,KHOAN,Khoản,structure,38986,39237,"3- Toàn bộ các khoản thu ngân sách phải được nộp trực tiếp vào Kho bạc Nhà nước. Trong trường hợp đặc biệt cơ quan thu được phép tổ chức thu trực tiếp, nhưng phải nộp đầy đủ, đúng thời hạn vào Kho bạc Nhà nước theo quy định của Bộ trưởng Bộ Tài chính."
+ENTITY,E39_140,KHOAN,Khoản,structure,39326,39517,"1- Căn cứ vào dự toán ngân sách nhà nước được giao, các đơn vị sử dụng ngân sách lập kế hoạch chi gửi cơ quan tài chính cùng cấp và Kho bạc Nhà nước nơi giao dịch để chủ động bố trí kinh phí;"
+ENTITY,E39_141,KHOAN,Khoản,structure,39518,39666,"2- Cơ quan tài chính xem xét kế hoạch chi của đơn vị và căn cứ vào khả năng ngân sách để bố trí mức chi hàng quý, thông báo cho đơn vị để thực hiện;"
+ENTITY,E39_142,KHOAN,Khoản,structure,39667,39910,"3- Căn cứ vào mức chi do cơ quan tài chính thông báo, thủ trưởng đơn vị sử dụng ngân sách ra lệnh chuẩn chi, Kho bạc Nhà nước kiểm tra tính hợp pháp của các tài liệu cần thiết theo quy định của pháp luật và thực hiện việc cấp phát, thanh toán;"
+ENTITY,E39_143,KHOAN,Khoản,structure,39911,40158,4- Mọi khoản chi ngân sách nhà nước được thực hiện khi có đủ các điều kiện quy định tại khoản 2 Điều 5 của Luật này và theo nguyên tắc thanh toán trực tiếp từ Kho bạc Nhà nước. Bộ trưởng Bộ Tài chính hướng dẫn cụ thể việc thực hiện nguyên tắc này.
+ENTITY,E39_144,KHOAN,Khoản,structure,40681,40890,"1- Số tăng thu và tiết kiệm chi so với dự toán được giao được sử dụng để giảm bội chi, tăng chi trả nợ hoặc để bổ sung quỹ dự trữ tài chính và tăng chi cho các khoản cần thiết khác theo quy định của Chính phủ;"
+ENTITY,E39_145,KHOAN,Khoản,structure,40891,41148,"2- Trường hợp số thu không đạt dự toán được duyệt, Thủ tướng Chính phủ, Chủ tịch Uỷ ban nhân dân được phép điều chỉnh giảm một số khoản chi tương ứng, đồng thời báo cáo Uỷ ban thường vụ Quốc hội và Quốc hội, Hội đồng nhân dân cùng cấp trong kỳ họp gần nhất;"
+ENTITY,E39_146,KHOAN,Khoản,structure,41149,41422,"3- Trường hợp có nhu cầu chi đột xuất ngoài dự toán những không thể trì hoãn được mà khoản dự phòng ngân sách không đủ đáp ứng, Thủ tướng Chính phủ, Chủ tịch Uỷ ban nhân dân phải sắp xếp lại các khoản chi trong dự toán được giao để có nguồn đáp ứng nhu cầu chi đột xuất đó;"
+ENTITY,E39_147,KHOAN,Khoản,structure,41423,41749,"4- Hàng năm, trong trường hợp có số tăng thu từ thuế xuất khẩu, thuế nhập khẩu và thuế tiêu thụ đặc biệt so với nhiệm vụ thu được giao, Chính phủ quyết định trích một phần theo tỷ lệ phần trăm (%) của số tăng thu đó cho ngân sách cấp tỉnh để đầu từ xây dựng các công trình kết cấu hạ tầng và báo cáo Uỷ ban thường vụ Quốc hội;"
+ENTITY,E39_148,KHOAN,Khoản,structure,41750,42234,"5- Trường hợp quỹ ngân sách nhà nước thiếu hụt tạm thời, phải sử dụng quỹ dự trữ tài chính để xử lý. Riêng đối với ngân sách trung ương nếu quỹ dự trữ tài chính không đáp ứng được, Ngân hàng Nhà nước tạm ứng cho ngân sách trung ương theo quyết định của Thủ tướng Chính phủ.
+Tạm ứng từ quỹ dự trữ tài chính của ngân sách các cấp và tạm ứng từ Ngân hàng Nhà nước của ngân sách trung ương phải được hoàn trả trong năm ngân sách, trừ trường hợp đặc biệt do Thủ tướng Chính phủ quyết định."
+ENTITY,E39_149,KHOAN,Khoản,structure,42744,42948,"1- Cuối năm ngân sách, Bộ trưởng Bộ Tài chính hướng dẫn việc khoá sổ kế toán và lập báo cáo quyết toán ngân sách theo đúng các nội dung ghi trong dự toán năm được duyệt và theo Mục lục ngân sách nhà nước."
+ENTITY,E39_150,KHOAN,Khoản,structure,42949,43178,"2- Tất cả các khoản thu thuộc ngân sách các năm trước nộp trong năm sau phải ghi vào ngân sách năm sau. Các khoản chi ngân sách năm trước chưa thực hiện, chỉ được đưa vào dự toán năm sau khi được cơ quan có thẩm quyền quyết định."
+ENTITY,E39_151,KHOAN,Khoản,structure,43539,43723,"1- Căn cứ vào hướng dẫn của Bộ trưởng Bộ Tài chính, thủ trưởng các đơn vị có nhiệm vụ thu, chi ngân sách lập quyết toán thu, chi ngân sách của đơn vị mình gửi cơ quan quản lý cấp trên."
+ENTITY,E39_152,KHOAN,Khoản,structure,43724,43814,2- Số liệu quyết toán phải được đối chiếu và được Kho bạc Nhà nước nơi giao dịch xác nhận.
+ENTITY,E39_153,KHOAN,Khoản,structure,43815,44039,"3- Thủ trưởng các đơn vị dự toán cấp trên có trách nhiệm kiểm tra và duyệt quyết toán thu, chi ngân sách của các đơn vị trực thuộc, lập quyết toán thu, chi ngân sách thuộc phạm vi mình quản lý gửi cơ quan tài chính cùng cấp."
+ENTITY,E39_154,KHOAN,Khoản,structure,44048,44419,"1- Cơ quan tài chính các cấp ở địa phương xét duyệt quyết toán thu, chi ngân sách của các cơ quan cùng cấp, thẩm tra quyết toán ngân sách cấp dưới, tổng hợp lập quyết toán ngân sách địa phương trình Uỷ ban nhân dân cùng cấp để Uỷ ban nhân dân xem xét trình Hội đồng nhân dân cùng cấp phê chuẩn, báo cáo cơ quan hành chính nhà nước và cơ quan tài chính cấp trên trực tiếp."
+ENTITY,E39_155,KHOAN,Khoản,structure,44420,44652,"2- Bộ Tài chính xét duyệt quyết toán thu, chi ngân sách của các cơ quan trung ương, thẩm tra quyết toán ngân sách địa phương, tổng hợp, lập quyết toán ngân sách nhà nước trình Chính phủ để Chính phủ xem xét trình Quốc hội phê chuẩn."
+ENTITY,E39_156,KHOAN,Khoản,structure,44809,44940,"1- Quốc hội xem xét, phê chuẩn quyết toán ngân sách nhà nước; Hội đồng nhân dân xem xét, phê chuẩn quyết toán ngân sách địa phương."
+ENTITY,E39_157,KHOAN,Khoản,structure,44941,45310,"2- Trong trường hợp quyết toán ngân sách chưa được Quốc hội, Hội đồng nhân dân phê chuẩn thì Chính phủ, Uỷ ban nhân dân trong phạm vi nhiệm vụ, quyền hạn của mình và cơ quan Kiểm toán Nhà nước đã kiểm toán phải tiếp tục làm rõ những vấn đề Quốc hội, Hội đồng nhân dân yêu cầu để trình Quốc hội, Hội đồng nhân dân vào thời gian do Quốc hội, Hội đồng nhân dân quyết định."
+ENTITY,E39_158,KHOAN,Khoản,structure,45419,45597,"1- Những khoản thu không đúng quy định của pháp luật phải được hoàn trả tổ chức, cá nhân đã nộp; những khoản phải thu nhưng chưa thu, phải truy thu đầy đủ cho ngân sách nhà nước;"
+ENTITY,E39_159,KHOAN,Khoản,structure,45598,45697,"2- Những khoản chi không đúng với quy định của pháp luật phải được thu hồi cho ngân sách nhà nước.
+"
+ENTITY,E39_160,KHOAN,Khoản,structure,46211,46349,"1- Khi thực hiện nhiệm vụ, cơ quan Kiểm toán Nhà nước có quyền độc lập và chịu trách nhiệm trước pháp luật về kết luận kiểm toán của mình."
+ENTITY,E39_161,KHOAN,Khoản,structure,46350,46633,"2- Cơ quan Kiểm toán Nhà nước có trách nhiệm báo cáo kết quả kiểm toán với Chính phủ, báo cáo với Quốc hội, Uỷ ban thường vụ Quốc hội khi có yêu cầu. Khi Quốc hội, Uỷ ban thường vụ Quốc hội yêu cầu kiểm toán thì cơ quan Kiểm toán Nhà nước có trách nhiệm thực hiện và báo cáo kết quả."
+ENTITY,E39_162,KHOAN,Khoản,structure,46642,46768,"1- Thanh tra tài chính có nhiệm vụ thanh tra việc chấp hành pháp luật về thu, chi và quản lý ngân sách của tổ chức và cá nhân."
+ENTITY,E39_163,KHOAN,Khoản,structure,46769,46909,"2- Nhiệm vụ, quyền hạn của thanh tra tài chính đối với việc lập, chấp hành, quyết toán ngân sách được thực hiện theo quy định của pháp luật."
+ENTITY,E39_164,KHOAN,Khoản,structure,47118,47217,"1- Che dấu nguồn thu, thu để ngoài ngân sách, trì hoãn hoặc không thực hiện nghĩa vụ nộp ngân sách;"
+ENTITY,E39_165,KHOAN,Khoản,structure,47218,47301,"2- Cho miễn, giảm các khoản nộp ngân sách trái quy định hoặc không đúng thẩm quyền;"
+ENTITY,E39_166,KHOAN,Khoản,structure,47302,47410,"3- Lợi dụng chức vụ, quyền hạn để chiếm dụng, làm thiệt hại nguồn thu của ngân sách và tài sản của Nhà nước;"
+ENTITY,E39_167,KHOAN,Khoản,structure,47411,47558,"4- Thu sai quy định của pháp luật, chi sai chế độ, không đúng mục đích, không đúng dự toán ngân sách được duyệt, làm thất thoát kinh phí ngân sách;"
+ENTITY,E39_168,KHOAN,Khoản,structure,47559,47671,5- Hạch toán sai chế độ kế toán của Nhà nước và Mục lục ngân sách nhà nước gây thiệt hại cho ngân sách nhà nước;
+ENTITY,E39_169,KHOAN,Khoản,structure,47672,47736,6- Các hành vi khác vi phạm quy định của pháp luật về ngân sách.
+ENTITY,E40_1,DIEM,Điểm,structure,2907,3011,"a) Đã có trong dự toán ngân sách được duyệt, trừ trường hợp quy định tại các Điều 56 và 62 của Luật này;"
+ENTITY,E40_2,DIEM,Điểm,structure,3012,3092,"b) Đúng chế độ, tiêu chuẩn, định mức do cơ quan nhà nước có thẩm quyền quy định;"
+ENTITY,E40_3,DIEM,Điểm,structure,3093,3359,"c) Đã được thủ trưởng đơn vị sử dụng ngân sách hoặc người được uỷ quyền chuẩn chi.
+Ngoài các điều kiện quy định tại các điểm a, b và c khoản 2 Điều này đối với những khoản chi cho công việc cần phải đấu thầu thì còn phải tổ chức đấu thầu theo quy định của Chính phủ."
+ENTITY,E40_4,DIEM,Điểm,structure,12007,12116,"a) Thống nhất quản lý và chỉ đạo công tác thu thuế, phí, lệ phí và các khoản thu khác của ngân sách Nhà nước;"
+ENTITY,E40_5,DIEM,Điểm,structure,12117,12223,"b) Thống nhất quản lý các khoản vay và trả nợ của Chính phủ, quản lý tài chính các nguồn viện trợ quốc tế;"
+ENTITY,E40_6,DIEM,Điểm,structure,12224,12499,"c) Hướng dẫn, kiểm tra việc thực hiện ngân sách nhà nước; tổ chức thực hiện thu ngân sách nhà nước và cấp phát các khoản chi của ngân sách nhà nước; cho vay ưu đãi hoặc hỗ trợ tài chính đối với các dự án chương trình mục tiêu kinh tế của Nhà nước theo quy định của Chính phủ."
+ENTITY,E40_7,DIEM,Điểm,structure,15101,15198,a) Quyết định dự toán và phân bổ ngân sách địa phương; phê chuẩn quyết toán ngân sách địa phương;
+ENTITY,E40_8,DIEM,Điểm,structure,15199,15284,"b) Quyết định các chủ trương, biện pháp để triển khai thực hiện ngân sách địa phương;"
+ENTITY,E40_9,DIEM,Điểm,structure,15285,15366,c) Quyết định điều chỉnh dự toán ngân sách địa phương trong trường hợp cần thiết;
+ENTITY,E40_10,DIEM,Điểm,structure,15367,15441,d) Giám sát việc thực hiện ngân sách đã được Hội đồng nhân dân quyết định;
+ENTITY,E40_11,DIEM,Điểm,structure,15442,15807,"đ) Đối với Hội đồng nhân dân cấp tỉnh, ngoài nhiệm vụ, quyền hạn quy định tại các điểm a, b, c và d khoản 1 điều này còn có quyền quyết định thu phí, lệ phí, phụ thu và các khoản đóng góp của nhân dân theo quy định của pháp luật; quyết định phân cấp chi đầu tư xây dựng các công trình kết cấu hạ tầng kinh tế-xã hội của địa phương do Uỷ ban nhân dân cùng cấp trình."
+ENTITY,E40_12,DIEM,Điểm,structure,15828,16074,"a) Lập dự toán và phương án phân bổ ngân sách địa phương, dự toán điều chỉnh ngân sách địa phương trong trường hợp cần thiết trình Hội đồng nhân dân cùng cấp quyết định và báo cáo cơ quan hành chính nhà nước, cơ quan tài chính cấp trên trực tiếp;"
+ENTITY,E40_13,DIEM,Điểm,structure,16075,16234,"b) Lập quyết toán ngân sách địa phương trình Hội đồng nhân dân cùng cấp phê chuẩn và báo cáo cơ quan hành chính nhà nước, cơ quan tài chính cấp trên trực tiếp;"
+ENTITY,E40_14,DIEM,Điểm,structure,16235,16334,c) Kiểm tra Nghị quyết của Hội đồng nhân dân cấp dưới về dự toán ngân sách và quyết toán ngân sách;
+ENTITY,E40_15,DIEM,Điểm,structure,16335,16529,"d) Căn cứ vào Nghị quyết của Hội đồng nhân dân cùng cấp, quyết định giao nhiệm vụ thu, chi ngân sách cho từng cơ quan, đơn vị trực thuộc; nhiệm vụ thu, chi và mức bổ sung cho ngân sách cấp dưới;"
+ENTITY,E40_16,DIEM,Điểm,structure,16530,16572,đ) Tổ chức thực hiện ngân sách địa phương;
+ENTITY,E40_17,DIEM,Điểm,structure,16573,16679,e) Phối hợp với các cơ quan nhà nước cấp trên trong việc quản lý ngân sách nhà nước lĩnh vực trên địa bàn;
+ENTITY,E40_18,DIEM,Điểm,structure,16680,16741,g) Báo cáo về ngân sách nhà nước theo quy định của pháp luật;
+ENTITY,E40_19,DIEM,Điểm,structure,16742,16982,"h) Đối với Uỷ ban nhân dân cấp tỉnh, ngoài các nhiệm vụ, quyền hạn quy định tại các điểm a, b, c, d, đ, e và g khoản 2 Điều này còn có nhiệm vụ lập và trình Hội đồng nhân dân quyết định các vấn đề được quy định tại điểm đ, khoản 1 Điều này."
+ENTITY,E40_20,DIEM,Điểm,structure,18198,18232,"a) Thuế xuất khẩu, thuế nhập khẩu;"
+ENTITY,E40_21,DIEM,Điểm,structure,18233,18259,b) Thuế tiêu thụ đặc biệt;
+ENTITY,E40_22,DIEM,Điểm,structure,18260,18312,c) Thuế lợi tức của các đơn vị hạch toán toàn ngành;
+ENTITY,E40_23,DIEM,Điểm,structure,18313,18412,d) Các khoản thuế và thu khác từ dầu khí phải nộp ngân sách trung ương theo quy định của Chính phủ;
+ENTITY,E40_24,DIEM,Điểm,structure,18413,18580,"đ) Lợi tức từ vốn góp của Nhà nước, tiền thu hồi vốn của Nhà nước tại các cơ sở kinh tế, thu hồi tiền cho vay của Nhà nước (cả gốc và lãi), thu từ quỹ dự trữ Nhà nước;"
+ENTITY,E40_25,DIEM,Điểm,structure,18581,18736,"e) Các khoản do Chính phủ vay; viện trợ không hoàn lại của Chính phủ các nước, các tổ chức, cá nhân ở nước ngoài cho Chính phủ theo quy định của pháp luật;"
+ENTITY,E40_26,DIEM,Điểm,structure,18737,18841,"g) Các khoản phí, lệ phí và các khoản thu khác nộp vào ngân sách trung ương theo quy định của Chính phủ;"
+ENTITY,E40_27,DIEM,Điểm,structure,18842,18877,h) Thu kết dư ngân sách trung ương;
+ENTITY,E40_28,DIEM,Điểm,structure,18878,18928,i) Các khoản thu khác theo quy định của pháp luật.
+ENTITY,E40_29,DIEM,Điểm,structure,19035,19053,a) Thuế doanh thu;
+ENTITY,E40_30,DIEM,Điểm,structure,19054,19129,"b) Thuế lợi tức, không kể thuế lợi tức của các đơn vị hạch toán toàn ngành;"
+ENTITY,E40_31,DIEM,Điểm,structure,19130,19177,c) Thuế thu nhập đối với người có thu nhập cao;
+ENTITY,E40_32,DIEM,Điểm,structure,19178,19217,d) Thuế chuyển lợi nhuận ra nước ngoài;
+ENTITY,E40_33,DIEM,Điểm,structure,19218,19237,đ) Thuế tài nguyên;
+ENTITY,E40_34,DIEM,Điểm,structure,19238,19267,e) Thu sử dụng vốn ngân sách.
+ENTITY,E40_35,DIEM,Điểm,structure,19343,19539,"a) Các hoạt động sự nghiệp giáo dục, đào tạo, y tế, xã hội, văn hoá, thông tin, thể dục thể thao, sự nghiệp khoa học, công nghệ và môi trường, các sự nghiệp khác do các cơ quan trung ương quản lý;"
+ENTITY,E40_36,DIEM,Điểm,structure,19540,19609,b) Các hoạt động sự nghiệp kinh tế do các cơ quan trung ương quản lý;
+ENTITY,E40_37,DIEM,Điểm,structure,19610,19689,"c) Quốc phòng, an ninh và trật tự an toàn xã hội, trừ phần giao cho địa phương;"
+ENTITY,E40_38,DIEM,Điểm,structure,19690,19799,"d) Hoạt động của các cơ quan trung ương của Nhà nước, Đảng cộng sản Việt Nam và các tổ chức chính trị-xã hội;"
+ENTITY,E40_39,DIEM,Điểm,structure,19800,19840,đ) Trợ giá theo chính sách của Nhà nước;
+ENTITY,E40_40,DIEM,Điểm,structure,19841,19892,e) Các chương trình quốc gia do Trung ương quản lý;
+ENTITY,E40_41,DIEM,Điểm,structure,19893,19951,g) Hỗ trợ quỹ bảo hiểm xã hội theo quy định của Chính phủ;
+ENTITY,E40_42,DIEM,Điểm,structure,19952,20022,h) Trợ cấp cho các đối tượng chính sách xã hội do Trung ương đảm nhận;
+ENTITY,E40_43,DIEM,Điểm,structure,20023,20118,"i) Tài trợ cho các tổ chức xã hội, xã hội-nghề nghiệp ở Trung ương theo quy định của pháp luật;"
+ENTITY,E40_44,DIEM,Điểm,structure,20119,20152,k) Trả lãi tiền do Chính phủ vay;
+ENTITY,E40_45,DIEM,Điểm,structure,20153,20165,l) Viện trợ;
+ENTITY,E40_46,DIEM,Điểm,structure,20166,20216,m) Các khoản chi khác theo quy định của pháp luật.
+ENTITY,E40_47,DIEM,Điểm,structure,20243,20360,a) Đầu tư xây dựng các công trình kết cấu hạ tầng kinh tế-xã hội không có khả năng thu hồi vốn do Trung ương quản lý;
+ENTITY,E40_48,DIEM,Điểm,structure,20361,20546,"b) Đầu tư và hỗ trợ vốn cho các doanh nghiệp nhà nước; góp vốn cổ phần, liên doanh vào các doanh nghiệp thuộc lĩnh vực cần thiết có sự tham gia của Nhà nước theo quy định của pháp luật;"
+ENTITY,E40_49,DIEM,Điểm,structure,20547,20665,"c) Chi cho Quỹ hỗ trợ đầu tư quốc gia và các Quỹ hỗ trợ phát triển đối với các chương trình, dự án phát triển kinh tế;"
+ENTITY,E40_50,DIEM,Điểm,structure,20666,20685,d) Dự trữ nhà nước.
+ENTITY,E40_51,DIEM,Điểm,structure,20872,20893,a) Tiền cho thuế đất;
+ENTITY,E40_52,DIEM,Điểm,structure,20894,20951,b) Tiền cho thuê và tiền bán nhà ở thuộc sở hữu nhà nước;
+ENTITY,E40_53,DIEM,Điểm,structure,20952,20971,c) Lệ phí trước bạ;
+ENTITY,E40_54,DIEM,Điểm,structure,20972,21009,d) Thu từ hoạt động xổ số kiến thiết;
+ENTITY,E40_55,DIEM,Điểm,structure,21010,21126,"đ) Việc trợ không hoàn lại của các tổ chức, cá nhân ở nước ngoài trực tiếp cho cấp tỉnh theo quy định của pháp luật;"
+ENTITY,E40_56,DIEM,Điểm,structure,21127,21229,"e) Các khoản phí, lệ phí và các khoản thu khác nộp vào ngân sách cấp tỉnh theo quy định của Chính phủ;"
+ENTITY,E40_57,DIEM,Điểm,structure,21230,21345,"g) Huy động của các tổ chức, cá nhân để đầu tư xây dựng các công trình kết cấu hạ tầng theo quy định của Chính phủ;"
+ENTITY,E40_58,DIEM,Điểm,structure,21346,21438,"h) Đóng góp tự nguyện của các tổ chức, cá nhân ở trong và ngoài nước cho ngân sách cấp tỉnh;"
+ENTITY,E40_59,DIEM,Điểm,structure,21439,21472,i) Thu kết dư ngân sách cấp tỉnh;
+ENTITY,E40_60,DIEM,Điểm,structure,21473,21508,k) Bổ sung từ ngân sách trung ương;
+ENTITY,E40_61,DIEM,Điểm,structure,21509,21559,l) Các khoản thu khác theo quy định của pháp luật.
+ENTITY,E40_62,DIEM,Điểm,structure,21661,21679,a) Thuế doanh thu;
+ENTITY,E40_63,DIEM,Điểm,structure,21680,21756,"b) Thuế lợi tức, không kể thuế lợi tức của các đơn vị hoạch toán toàn ngành;"
+ENTITY,E40_64,DIEM,Điểm,structure,21757,21804,c) Thuế thu nhập đối với người có thu nhập cao;
+ENTITY,E40_65,DIEM,Điểm,structure,21805,21844,d) Thuế chuyển lợi nhuận ra nước ngoài;
+ENTITY,E40_66,DIEM,Điểm,structure,21845,21864,đ) Thuế tài nguyên;
+ENTITY,E40_67,DIEM,Điểm,structure,21865,21894,e) Thu sử dụng vốn ngân sách.
+ENTITY,E40_68,DIEM,Điểm,structure,22086,22118,a) Thuế sử dụng đất nông nghiệp;
+ENTITY,E40_69,DIEM,Điểm,structure,22119,22152,b) Thuế chuyển quyền sử dụng đất;
+ENTITY,E40_70,DIEM,Điểm,structure,22153,22170,"c) Thuế nhà, đất;"
+ENTITY,E40_71,DIEM,Điểm,structure,22171,22191,d) Tiền sử dụng đất.
+ENTITY,E40_72,DIEM,Điểm,structure,22265,22478,"a) Các hoạt động sự nghiệp kinh tế, giáo dục, đào tạo, y tế, xã hội, văn hoá, thông tin, thể dục thể thao, sự nghiệp khoa học, công nghệ và môi trường, các hoạt động sự nghiệp khác do các cơ quan cấp tỉnh quản lý;"
+ENTITY,E40_73,DIEM,Điểm,structure,22479,22552,"b) Quốc phòng, an ninh và trật tự an toàn xã hội, phần giao cho cấp tỉnh;"
+ENTITY,E40_74,DIEM,Điểm,structure,22553,22666,"c) Hoạt động của các cơ quan nhà nước, cơ quan Đảng cộng sản Việt Nam và các tổ chức chính trị - xã hội cấp tỉnh;"
+ENTITY,E40_75,DIEM,Điểm,structure,22667,22760,"d) Tài trợ cho các tổ chức xã hội, xã hội - nghề nghiệp cấp tỉnh theo quy định của pháp luật;"
+ENTITY,E40_76,DIEM,Điểm,structure,22761,22816,đ) Thực hiện các chính sách xã hội do cấp tỉnh quản lý;
+ENTITY,E40_77,DIEM,Điểm,structure,22817,22881,e) Chương trình quốc gia do Chính phủ giao cho cấp tỉnh quản lý;
+ENTITY,E40_78,DIEM,Điểm,structure,22882,22922,g) Trợ giá theo chính sách của Nhà nước;
+ENTITY,E40_79,DIEM,Điểm,structure,22923,22995,h) Trả lãi tiền vay cho đầu tư quy định tại khoản 3 Điều 8 của Luật này;
+ENTITY,E40_80,DIEM,Điểm,structure,22996,23050,i) Các khoản chi phí khác theo quy định của Luật pháp.
+ENTITY,E40_81,DIEM,Điểm,structure,23077,23164,a) Đầu tư xây dựng các công trình kết cấu hạ tầng kinh tế - xã hội do cấp tỉnh quản lý;
+ENTITY,E40_82,DIEM,Điểm,structure,23165,23247,b) Đầu tư và hỗ trợ vốn cho các doanh nghiệp Nhà nước theo quy định của Pháp luật.
+ENTITY,E40_83,DIEM,Điểm,structure,23474,23552,"a) Thuế môn bài, trừ thuế môn bài thu từ các hộ kinh doanh nhỏ ở xã, thị trấn;"
+ENTITY,E40_84,DIEM,Điểm,structure,23553,23630,b) Thuế sát sinh thu từ các doanh nghiệp giết mổ gia súc trên địa bàn phường;
+ENTITY,E40_85,DIEM,Điểm,structure,23631,23712,"c) Các khoản phí, lệ phí từ các hoạt động do các cơ quan thuộc cấp huyện quản lý;"
+ENTITY,E40_86,DIEM,Điểm,structure,23713,23784,d) Tiền thu từ hoạt động sự nghiệp của các đơn vị do cấp huyện quản lý;
+ENTITY,E40_87,DIEM,Điểm,structure,23785,23902,"đ) Viện trợ không hoàn lại của các tổ chức, cá nhân ở nước ngoài trực tiếp cho cấp huyện theo quy định của Pháp luật;"
+ENTITY,E40_88,DIEM,Điểm,structure,23903,24018,"e) Đóng góp của các tổ chức, cá nhân để đầu tư xây dựng các công trình kết cấu hạ tầng theo quy định của Chính phủ;"
+ENTITY,E40_89,DIEM,Điểm,structure,24019,24112,"g) Đóng góp tự nguyện của các tổ chức, cá nhân ở trong và ngoài nước cho ngân sách cấp huyện;"
+ENTITY,E40_90,DIEM,Điểm,structure,24113,24147,h) Thu kết dư ngân sách cấp huyện;
+ENTITY,E40_91,DIEM,Điểm,structure,24148,24181,i) Bổ sung từ ngân sách cấp tỉnh;
+ENTITY,E40_92,DIEM,Điểm,structure,24182,24232,k) Các khoản thu khác theo quy định của pháp luật.
+ENTITY,E40_93,DIEM,Điểm,structure,24357,24389,a) Thuế sử dụng đất nông nghiệp;
+ENTITY,E40_94,DIEM,Điểm,structure,24390,24423,b) Thuế chuyển quyền sử dụng đất;
+ENTITY,E40_95,DIEM,Điểm,structure,24424,24441,"c) Thuế nhà, đất;"
+ENTITY,E40_96,DIEM,Điểm,structure,24442,24462,d) Tiền sử dụng đất.
+ENTITY,E40_97,DIEM,Điểm,structure,24817,24959,"a) Các hoạt động sự nghiệp kinh tế, văn hoá, thông tin, thể dục thể thao, xã hội và các hoạt động sự nghiệp khác do cơ quan cấp huyện quản lý;"
+ENTITY,E40_98,DIEM,Điểm,structure,24960,25034,"b) Quốc phòng, an ninh và trật tự an toàn xã hội, phần giao cho cấp huyện;"
+ENTITY,E40_99,DIEM,Điểm,structure,25035,25149,"c) Hoạt dộng của các cơ quan nhà nước, cơ quan Đảng cộng sản Việt Nam và các tổ chức chính trị - xã hội cấp huyện;"
+ENTITY,E40_100,DIEM,Điểm,structure,25150,25244,"d) Tài trợ cho các tổ chức xã hội, xã hội - nghề nghiệp cấp huyện theo quy định của pháp luật;"
+ENTITY,E40_101,DIEM,Điểm,structure,25245,25295,đ) Các khoản chi khác theo quy định của pháp luật;
+ENTITY,E40_102,DIEM,Điểm,structure,25296,25526,"e) Ngoài các nhiệm vụ chi quy định tại các điểm a, b, c, d và đ khoản 1 Điều này, đối với thị xã, thành phố thuộc tỉnh còn đảm nhận thêm các nhiệm vụ chi về quản lý, duy tu, bảo dưỡng các công trình công cộng, sự nghiệp thị chính."
+ENTITY,E40_103,DIEM,Điểm,structure,26012,26057,a) Thuế môn bài thu từ các hộ kinh doanh nhỏ;
+ENTITY,E40_104,DIEM,Điểm,structure,26058,26075,b) Thuế sát sinh;
+ENTITY,E40_105,DIEM,Điểm,structure,26076,26182,"c) Các khoản phí, lệ phí và các khoản đóng góp thu cho ngân sách xã, thị trấn theo quy định của pháp luật;"
+ENTITY,E40_106,DIEM,Điểm,structure,26183,26247,d) Thu từ sử dụng quỹ đất công ích và thu hoa lợi công sản khác;
+ENTITY,E40_107,DIEM,Điểm,structure,26248,26307,"đ) Tiền thu từ hoạt động sự nghiệp do xã, thị trấn quản lý;"
+ENTITY,E40_108,DIEM,Điểm,structure,26308,26357,"e) Các khoản đóng góp tự nguyện cho xã, thị trấn;"
+ENTITY,E40_109,DIEM,Điểm,structure,26358,26480,"g) Viện trợ không hoàn lại của các tổ chức và cá nhân ở nước ngoài trực tiếp cho xã, thị trấn theo quy định của pháp luật;"
+ENTITY,E40_110,DIEM,Điểm,structure,26481,26518,"h) Thu kết dư ngân sách xã, thị trấn;"
+ENTITY,E40_111,DIEM,Điểm,structure,26519,26552,i) Bổ sung từ ngân sách cấp trên;
+ENTITY,E40_112,DIEM,Điểm,structure,26553,26603,k) Các khoản thu khác theo quy định của pháp luật.
+ENTITY,E40_113,DIEM,Điểm,structure,26728,26760,a) Thuế sử dụng đất nông nghiệp;
+ENTITY,E40_114,DIEM,Điểm,structure,26761,26794,b) Thuế chuyển quyền sử dụng đất;
+ENTITY,E40_115,DIEM,Điểm,structure,26795,26812,"c) Thuế nhà, đất;"
+ENTITY,E40_116,DIEM,Điểm,structure,26813,26833,d) Thuế sử dụng đất.
+ENTITY,E40_117,DIEM,Điểm,structure,26911,27004,"a) Công tác xã hội và hoạt động văn hoá, thông tin, thể dục thể thao do xã, thị trấn quản lý;"
+ENTITY,E40_118,DIEM,Điểm,structure,27005,27081,"b) Hỗ trợ kinh phí bổ túc văn hoá, nhà trẻ mẫu giáo do xã, thị trấn quản lý;"
+ENTITY,E40_119,DIEM,Điểm,structure,27082,27113,"c) Hoạt động y tế xã, thị trấn;"
+ENTITY,E40_120,DIEM,Điểm,structure,27114,27241,"d) Quản lý, duy tu, bảo dưỡng các công trình kiến trúc, tài sản, công trình phúc lợi, đường giao thông do xã, thị trấn quản lý;"
+ENTITY,E40_121,DIEM,Điểm,structure,27242,27359,"đ) Hoạt động của các cơ quan Nhà nước, cơ quan Đảng cộng sản Việt Nam và các tổ chức chính trị - xã hội xã, thị trấn;"
+ENTITY,E40_122,DIEM,Điểm,structure,27360,27426,"e) Công tác dân quân tự vệ; trật tự an toàn xã hội ở xã, thị trấn;"
+ENTITY,E40_123,DIEM,Điểm,structure,27427,27477,g) Các khoản chi khác theo quy định của pháp luật.
+ENTITY,E40_124,DIEM,Điểm,structure,38288,38705,"a) Phối hợp với các cơ quan nhà nước hữu quan, tổ chức đúng pháp luật; chịu sự chỉ đạo, kiểm tra của Uỷ ban nhân dân và sự giám sát của Hội đồng nhân dân về công tác thu ngân sách tại địa phương; phối hợp với Mặt trận tổ quốc Việt Nam và các tổ chức thành viên, tuyên truyền, vận động các tổ chức và công dân thực hiện nghiêm chỉnh nghĩa vụ nộp ngân sách theo quy định của Luật này và các quy định khác của pháp luật;"
+ENTITY,E40_125,DIEM,Điểm,structure,38706,38766,"b) Kiểm tra, kiểm soát các nguồn thu của ngân sách nhà nước;"
+ENTITY,E40_126,DIEM,Điểm,structure,38767,38872,"c) Xác định và thông báo cho các tổ chức, cá nhân số thuế hoặc các khoản thu phải nộp ngân sách nhà nước;"
+ENTITY,E40_127,DIEM,Điểm,structure,38873,38985,"d) Kiểm tra việc chấp hành thu, nộp ngân sách nhà nước và xử lý các hành vi vi phạm theo quy định của pháp luật."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R11_1,HUONG_DAN_AP_DUNG,Hướng dẫn áp dụng,E2_1,E23_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_4,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_5,,
+RELATION,R12_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_6,,
+RELATION,R12_7,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_7,,
+RELATION,R12_8,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_8,,
+RELATION,R12_9,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_9,,
+RELATION,R12_10,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_10,,
+RELATION,R12_11,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_11,,
+RELATION,R12_12,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_12,,
+RELATION,R12_13,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_13,,
+RELATION,R12_14,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_14,,
+RELATION,R12_15,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_15,,
+RELATION,R12_16,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_16,,
+RELATION,R12_17,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_17,,
+RELATION,R12_18,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_18,,
+RELATION,R12_19,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_19,,
+RELATION,R12_20,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_20,,
+RELATION,R12_21,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_21,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E2_1,E29_6,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E2_1,E29_7,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E2_1,E29_8,,
+RELATION,R17_9,DAN_CHIEU,Dẫn chiếu,E2_1,E29_9,,
+RELATION,R17_10,DAN_CHIEU,Dẫn chiếu,E2_1,E29_10,,
+RELATION,R17_11,DAN_CHIEU,Dẫn chiếu,E2_1,E29_11,,
+RELATION,R17_12,DAN_CHIEU,Dẫn chiếu,E2_1,E29_12,,
+RELATION,R17_13,DAN_CHIEU,Dẫn chiếu,E2_1,E29_13,,
+RELATION,R17_14,DAN_CHIEU,Dẫn chiếu,E2_1,E29_14,,
+RELATION,R17_15,DAN_CHIEU,Dẫn chiếu,E2_1,E29_15,,
+RELATION,R17_16,DAN_CHIEU,Dẫn chiếu,E2_1,E29_16,,
+RELATION,R17_17,DAN_CHIEU,Dẫn chiếu,E2_1,E29_17,,
+RELATION,R17_18,DAN_CHIEU,Dẫn chiếu,E2_1,E29_18,,
+RELATION,R17_19,DAN_CHIEU,Dẫn chiếu,E2_1,E29_19,,
+RELATION,R17_20,DAN_CHIEU,Dẫn chiếu,E2_1,E29_20,,
+RELATION,R17_21,DAN_CHIEU,Dẫn chiếu,E2_1,E29_21,,
+RELATION,R17_22,DAN_CHIEU,Dẫn chiếu,E2_1,E29_22,,
+RELATION,R17_23,DAN_CHIEU,Dẫn chiếu,E2_1,E29_23,,
+RELATION,R17_24,DAN_CHIEU,Dẫn chiếu,E2_1,E29_24,,
+RELATION,R17_25,DAN_CHIEU,Dẫn chiếu,E2_1,E29_25,,
+RELATION,R17_26,DAN_CHIEU,Dẫn chiếu,E2_1,E29_26,,
+RELATION,R17_27,DAN_CHIEU,Dẫn chiếu,E2_1,E29_27,,
+RELATION,R17_28,DAN_CHIEU,Dẫn chiếu,E2_1,E29_28,,
+RELATION,R17_29,DAN_CHIEU,Dẫn chiếu,E2_1,E29_29,,
+RELATION,R17_30,DAN_CHIEU,Dẫn chiếu,E2_1,E29_30,,
+RELATION,R17_31,DAN_CHIEU,Dẫn chiếu,E2_1,E29_31,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E2_1,E30_19,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E2_1,E30_20,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E2_1,E30_21,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E2_1,E30_22,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E2_1,E30_23,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E2_1,E30_24,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E2_1,E30_25,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E2_1,E30_26,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E2_1,E30_27,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E2_1,E30_28,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E2_1,E30_29,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E2_1,E30_30,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E2_1,E30_31,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E2_1,E30_32,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E2_1,E30_33,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E2_1,E30_34,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E2_1,E30_35,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E2_1,E30_36,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E2_1,E30_37,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E2_1,E30_38,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E2_1,E30_39,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E2_1,E30_40,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E2_1,E30_41,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E2_1,E30_42,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E2_1,E30_43,,
+RELATION,R18_44,AP_DUNG,Áp dụng,E2_1,E30_44,,
+RELATION,R18_45,AP_DUNG,Áp dụng,E2_1,E30_45,,
+RELATION,R18_46,AP_DUNG,Áp dụng,E2_1,E30_46,,
+RELATION,R18_47,AP_DUNG,Áp dụng,E2_1,E30_47,,
+RELATION,R18_48,AP_DUNG,Áp dụng,E2_1,E30_48,,
+RELATION,R18_49,AP_DUNG,Áp dụng,E2_1,E30_49,,
+RELATION,R18_50,AP_DUNG,Áp dụng,E2_1,E30_50,,
+RELATION,R18_51,AP_DUNG,Áp dụng,E2_1,E30_51,,
+RELATION,R18_52,AP_DUNG,Áp dụng,E2_1,E30_52,,
+RELATION,R18_53,AP_DUNG,Áp dụng,E2_1,E30_53,,
+RELATION,R18_54,AP_DUNG,Áp dụng,E2_1,E30_54,,
+RELATION,R18_55,AP_DUNG,Áp dụng,E2_1,E30_55,,
+RELATION,R18_56,AP_DUNG,Áp dụng,E2_1,E30_56,,
+RELATION,R18_57,AP_DUNG,Áp dụng,E2_1,E30_57,,
+RELATION,R18_58,AP_DUNG,Áp dụng,E2_1,E30_58,,
+RELATION,R18_59,AP_DUNG,Áp dụng,E2_1,E30_59,,
+RELATION,R18_60,AP_DUNG,Áp dụng,E2_1,E30_60,,
+RELATION,R18_61,AP_DUNG,Áp dụng,E2_1,E30_61,,
+RELATION,R18_62,AP_DUNG,Áp dụng,E2_1,E30_62,,
+RELATION,R18_63,AP_DUNG,Áp dụng,E2_1,E30_63,,
+RELATION,R18_64,AP_DUNG,Áp dụng,E2_1,E30_64,,
+RELATION,R18_65,AP_DUNG,Áp dụng,E2_1,E30_65,,
+RELATION,R18_66,AP_DUNG,Áp dụng,E2_1,E30_66,,
+RELATION,R18_67,AP_DUNG,Áp dụng,E2_1,E30_67,,
+RELATION,R18_68,AP_DUNG,Áp dụng,E2_1,E30_68,,
+RELATION,R18_69,AP_DUNG,Áp dụng,E2_1,E30_69,,
+RELATION,R18_70,AP_DUNG,Áp dụng,E2_1,E30_70,,
+RELATION,R18_71,AP_DUNG,Áp dụng,E2_1,E30_71,,
+RELATION,R18_72,AP_DUNG,Áp dụng,E2_1,E30_72,,
+RELATION,R18_73,AP_DUNG,Áp dụng,E2_1,E30_73,,
+RELATION,R18_74,AP_DUNG,Áp dụng,E2_1,E30_74,,
+RELATION,R18_75,AP_DUNG,Áp dụng,E2_1,E30_75,,
+RELATION,R18_76,AP_DUNG,Áp dụng,E2_1,E30_76,,
+RELATION,R18_77,AP_DUNG,Áp dụng,E2_1,E30_77,,
+RELATION,R18_78,AP_DUNG,Áp dụng,E2_1,E30_78,,
+RELATION,R18_79,AP_DUNG,Áp dụng,E2_1,E30_79,,
+RELATION,R18_80,AP_DUNG,Áp dụng,E2_1,E30_80,,
+RELATION,R18_81,AP_DUNG,Áp dụng,E2_1,E30_81,,
+RELATION,R18_82,AP_DUNG,Áp dụng,E2_1,E30_82,,
+RELATION,R18_83,AP_DUNG,Áp dụng,E2_1,E30_83,,
+RELATION,R18_84,AP_DUNG,Áp dụng,E2_1,E30_84,,
+RELATION,R18_85,AP_DUNG,Áp dụng,E2_1,E30_85,,
+RELATION,R18_86,AP_DUNG,Áp dụng,E2_1,E30_86,,
+RELATION,R18_87,AP_DUNG,Áp dụng,E2_1,E30_87,,
+RELATION,R18_88,AP_DUNG,Áp dụng,E2_1,E30_88,,
+RELATION,R18_89,AP_DUNG,Áp dụng,E2_1,E30_89,,
+RELATION,R18_90,AP_DUNG,Áp dụng,E2_1,E30_90,,
+RELATION,R18_91,AP_DUNG,Áp dụng,E2_1,E30_91,,
+RELATION,R18_92,AP_DUNG,Áp dụng,E2_1,E30_92,,
+RELATION,R18_93,AP_DUNG,Áp dụng,E2_1,E30_93,,
+RELATION,R18_94,AP_DUNG,Áp dụng,E2_1,E30_94,,
+RELATION,R18_95,AP_DUNG,Áp dụng,E2_1,E30_95,,
+RELATION,R18_96,AP_DUNG,Áp dụng,E2_1,E30_96,,
+RELATION,R18_97,AP_DUNG,Áp dụng,E2_1,E30_97,,
+RELATION,R18_98,AP_DUNG,Áp dụng,E2_1,E30_98,,
+RELATION,R18_99,AP_DUNG,Áp dụng,E2_1,E30_99,,
+RELATION,R18_100,AP_DUNG,Áp dụng,E2_1,E30_100,,
+RELATION,R18_101,AP_DUNG,Áp dụng,E2_1,E30_101,,
+RELATION,R18_102,AP_DUNG,Áp dụng,E2_1,E30_102,,
+RELATION,R18_103,AP_DUNG,Áp dụng,E2_1,E30_103,,
+RELATION,R18_104,AP_DUNG,Áp dụng,E2_1,E30_104,,
+RELATION,R18_105,AP_DUNG,Áp dụng,E2_1,E30_105,,
+RELATION,R18_106,AP_DUNG,Áp dụng,E2_1,E30_106,,
+RELATION,R18_107,AP_DUNG,Áp dụng,E2_1,E30_107,,
+RELATION,R18_108,AP_DUNG,Áp dụng,E2_1,E30_108,,
+RELATION,R18_109,AP_DUNG,Áp dụng,E2_1,E30_109,,
+RELATION,R18_110,AP_DUNG,Áp dụng,E2_1,E30_110,,
+RELATION,R18_111,AP_DUNG,Áp dụng,E2_1,E30_111,,
+RELATION,R18_112,AP_DUNG,Áp dụng,E2_1,E30_112,,
+RELATION,R18_113,AP_DUNG,Áp dụng,E2_1,E30_113,,
+RELATION,R18_114,AP_DUNG,Áp dụng,E2_1,E30_114,,
+RELATION,R18_115,AP_DUNG,Áp dụng,E2_1,E30_115,,
+RELATION,R18_116,AP_DUNG,Áp dụng,E2_1,E30_116,,
+RELATION,R18_117,AP_DUNG,Áp dụng,E2_1,E30_117,,
+RELATION,R18_118,AP_DUNG,Áp dụng,E2_1,E30_118,,
+RELATION,R18_119,AP_DUNG,Áp dụng,E2_1,E30_119,,
+RELATION,R18_120,AP_DUNG,Áp dụng,E2_1,E30_120,,
+RELATION,R18_121,AP_DUNG,Áp dụng,E2_1,E30_121,,
+RELATION,R18_122,AP_DUNG,Áp dụng,E2_1,E30_122,,
+RELATION,R18_123,AP_DUNG,Áp dụng,E2_1,E30_123,,
+RELATION,R18_124,AP_DUNG,Áp dụng,E2_1,E30_124,,
+RELATION,R18_125,AP_DUNG,Áp dụng,E2_1,E30_125,,
+RELATION,R18_126,AP_DUNG,Áp dụng,E2_1,E30_126,,
+RELATION,R18_127,AP_DUNG,Áp dụng,E2_1,E30_127,,
+RELATION,R18_128,AP_DUNG,Áp dụng,E2_1,E30_128,,
+RELATION,R18_129,AP_DUNG,Áp dụng,E2_1,E30_129,,
+RELATION,R18_130,AP_DUNG,Áp dụng,E2_1,E30_130,,
+RELATION,R18_131,AP_DUNG,Áp dụng,E2_1,E30_131,,
+RELATION,R18_132,AP_DUNG,Áp dụng,E2_1,E30_132,,
+RELATION,R18_133,AP_DUNG,Áp dụng,E2_1,E30_133,,
+RELATION,R18_134,AP_DUNG,Áp dụng,E2_1,E30_134,,
+RELATION,R18_135,AP_DUNG,Áp dụng,E2_1,E30_135,,
+RELATION,R18_136,AP_DUNG,Áp dụng,E2_1,E30_136,,
+RELATION,R18_137,AP_DUNG,Áp dụng,E2_1,E30_137,,
+RELATION,R18_138,AP_DUNG,Áp dụng,E2_1,E30_138,,
+RELATION,R18_139,AP_DUNG,Áp dụng,E2_1,E30_139,,
+RELATION,R18_140,AP_DUNG,Áp dụng,E2_1,E30_140,,
+RELATION,R18_141,AP_DUNG,Áp dụng,E2_1,E30_141,,
+RELATION,R18_142,AP_DUNG,Áp dụng,E2_1,E30_142,,
+RELATION,R18_143,AP_DUNG,Áp dụng,E2_1,E30_143,,
+RELATION,R18_144,AP_DUNG,Áp dụng,E2_1,E30_144,,
+RELATION,R18_145,AP_DUNG,Áp dụng,E2_1,E30_145,,
+RELATION,R18_146,AP_DUNG,Áp dụng,E2_1,E30_146,,
+RELATION,R18_147,AP_DUNG,Áp dụng,E2_1,E30_147,,
+RELATION,R18_148,AP_DUNG,Áp dụng,E2_1,E30_148,,
+RELATION,R18_149,AP_DUNG,Áp dụng,E2_1,E30_149,,
+RELATION,R18_150,AP_DUNG,Áp dụng,E2_1,E30_150,,
+RELATION,R18_151,AP_DUNG,Áp dụng,E2_1,E30_151,,
+RELATION,R18_152,AP_DUNG,Áp dụng,E2_1,E30_152,,
+RELATION,R18_153,AP_DUNG,Áp dụng,E2_1,E30_153,,
+RELATION,R18_154,AP_DUNG,Áp dụng,E2_1,E30_154,,
+RELATION,R18_155,AP_DUNG,Áp dụng,E2_1,E30_155,,
+RELATION,R18_156,AP_DUNG,Áp dụng,E2_1,E30_156,,
+RELATION,R18_157,AP_DUNG,Áp dụng,E2_1,E30_157,,
+RELATION,R18_158,AP_DUNG,Áp dụng,E2_1,E30_158,,
+RELATION,R18_159,AP_DUNG,Áp dụng,E2_1,E30_159,,
+RELATION,R18_160,AP_DUNG,Áp dụng,E2_1,E30_160,,
+RELATION,R18_161,AP_DUNG,Áp dụng,E2_1,E30_161,,
+RELATION,R18_162,AP_DUNG,Áp dụng,E2_1,E30_162,,
+RELATION,R18_163,AP_DUNG,Áp dụng,E2_1,E30_163,,
+RELATION,R18_164,AP_DUNG,Áp dụng,E2_1,E30_164,,
+RELATION,R18_165,AP_DUNG,Áp dụng,E2_1,E30_165,,
+RELATION,R18_166,AP_DUNG,Áp dụng,E2_1,E30_166,,
+RELATION,R18_167,AP_DUNG,Áp dụng,E2_1,E30_167,,
+RELATION,R18_168,AP_DUNG,Áp dụng,E2_1,E30_168,,
+RELATION,R18_169,AP_DUNG,Áp dụng,E2_1,E30_169,,
+RELATION,R18_170,AP_DUNG,Áp dụng,E2_1,E30_170,,
+RELATION,R18_171,AP_DUNG,Áp dụng,E2_1,E30_171,,
+RELATION,R18_172,AP_DUNG,Áp dụng,E2_1,E30_172,,
+RELATION,R18_173,AP_DUNG,Áp dụng,E2_1,E30_173,,
+RELATION,R18_174,AP_DUNG,Áp dụng,E2_1,E30_174,,
+RELATION,R18_175,AP_DUNG,Áp dụng,E2_1,E30_175,,
+RELATION,R18_176,AP_DUNG,Áp dụng,E2_1,E30_176,,
+RELATION,R18_177,AP_DUNG,Áp dụng,E2_1,E30_177,,
+RELATION,R18_178,AP_DUNG,Áp dụng,E2_1,E30_178,,
+RELATION,R18_179,AP_DUNG,Áp dụng,E2_1,E30_179,,
+RELATION,R18_180,AP_DUNG,Áp dụng,E2_1,E30_180,,
+RELATION,R18_181,AP_DUNG,Áp dụng,E2_1,E30_181,,
+RELATION,R18_182,AP_DUNG,Áp dụng,E2_1,E30_182,,
+RELATION,R18_183,AP_DUNG,Áp dụng,E2_1,E30_183,,
+RELATION,R18_184,AP_DUNG,Áp dụng,E2_1,E30_184,,
+RELATION,R18_185,AP_DUNG,Áp dụng,E2_1,E30_185,,
+RELATION,R18_186,AP_DUNG,Áp dụng,E2_1,E30_186,,
+RELATION,R18_187,AP_DUNG,Áp dụng,E2_1,E30_187,,
+RELATION,R18_188,AP_DUNG,Áp dụng,E2_1,E30_188,,
+RELATION,R18_189,AP_DUNG,Áp dụng,E2_1,E30_189,,
+RELATION,R18_190,AP_DUNG,Áp dụng,E2_1,E30_190,,
+RELATION,R18_191,AP_DUNG,Áp dụng,E2_1,E30_191,,
+RELATION,R18_192,AP_DUNG,Áp dụng,E2_1,E30_192,,
+RELATION,R18_193,AP_DUNG,Áp dụng,E2_1,E30_193,,
+RELATION,R18_194,AP_DUNG,Áp dụng,E2_1,E30_194,,
+RELATION,R18_195,AP_DUNG,Áp dụng,E2_1,E30_195,,
+RELATION,R18_196,AP_DUNG,Áp dụng,E2_1,E30_196,,
+RELATION,R18_197,AP_DUNG,Áp dụng,E2_1,E30_197,,
+RELATION,R18_198,AP_DUNG,Áp dụng,E2_1,E30_198,,
+RELATION,R18_199,AP_DUNG,Áp dụng,E2_1,E30_199,,
+RELATION,R18_200,AP_DUNG,Áp dụng,E2_1,E30_200,,
+RELATION,R18_201,AP_DUNG,Áp dụng,E2_1,E30_201,,
+RELATION,R18_202,AP_DUNG,Áp dụng,E2_1,E30_202,,
+RELATION,R18_203,AP_DUNG,Áp dụng,E2_1,E30_203,,
+RELATION,R18_204,AP_DUNG,Áp dụng,E2_1,E30_204,,
+RELATION,R18_205,AP_DUNG,Áp dụng,E2_1,E30_205,,
+RELATION,R18_206,AP_DUNG,Áp dụng,E2_1,E30_206,,
+RELATION,R18_207,AP_DUNG,Áp dụng,E2_1,E30_207,,
+RELATION,R18_208,AP_DUNG,Áp dụng,E2_1,E30_208,,
+RELATION,R18_209,AP_DUNG,Áp dụng,E2_1,E30_209,,
+RELATION,R18_210,AP_DUNG,Áp dụng,E2_1,E30_210,,
+RELATION,R18_211,AP_DUNG,Áp dụng,E2_1,E30_211,,
+RELATION,R18_212,AP_DUNG,Áp dụng,E2_1,E30_212,,
+RELATION,R18_213,AP_DUNG,Áp dụng,E2_1,E30_213,,
+RELATION,R18_214,AP_DUNG,Áp dụng,E2_1,E30_214,,
+RELATION,R18_215,AP_DUNG,Áp dụng,E2_1,E30_215,,
+RELATION,R18_216,AP_DUNG,Áp dụng,E2_1,E30_216,,
+RELATION,R18_217,AP_DUNG,Áp dụng,E2_1,E30_217,,
+RELATION,R18_218,AP_DUNG,Áp dụng,E2_1,E30_218,,
+RELATION,R18_219,AP_DUNG,Áp dụng,E2_1,E30_219,,
+RELATION,R18_220,AP_DUNG,Áp dụng,E2_1,E30_220,,
+RELATION,R18_221,AP_DUNG,Áp dụng,E2_1,E30_221,,
+RELATION,R18_222,AP_DUNG,Áp dụng,E2_1,E30_222,,
+RELATION,R18_223,AP_DUNG,Áp dụng,E2_1,E30_223,,
+RELATION,R18_224,AP_DUNG,Áp dụng,E2_1,E30_224,,
+RELATION,R18_225,AP_DUNG,Áp dụng,E2_1,E30_225,,
+RELATION,R18_226,AP_DUNG,Áp dụng,E2_1,E30_226,,
+RELATION,R18_227,AP_DUNG,Áp dụng,E2_1,E30_227,,
+RELATION,R18_228,AP_DUNG,Áp dụng,E2_1,E30_228,,
+RELATION,R18_229,AP_DUNG,Áp dụng,E2_1,E30_229,,
+RELATION,R18_230,AP_DUNG,Áp dụng,E2_1,E30_230,,
+RELATION,R18_231,AP_DUNG,Áp dụng,E2_1,E30_231,,
+RELATION,R18_232,AP_DUNG,Áp dụng,E2_1,E30_232,,
+RELATION,R18_233,AP_DUNG,Áp dụng,E2_1,E30_233,,
+RELATION,R18_234,AP_DUNG,Áp dụng,E2_1,E30_234,,
+RELATION,R18_235,AP_DUNG,Áp dụng,E2_1,E30_235,,
+RELATION,R18_236,AP_DUNG,Áp dụng,E2_1,E30_236,,
+RELATION,R18_237,AP_DUNG,Áp dụng,E2_1,E30_237,,
+RELATION,R18_238,AP_DUNG,Áp dụng,E2_1,E30_238,,
+RELATION,R18_239,AP_DUNG,Áp dụng,E2_1,E30_239,,
+RELATION,R18_240,AP_DUNG,Áp dụng,E2_1,E30_240,,
+RELATION,R18_241,AP_DUNG,Áp dụng,E2_1,E30_241,,
+RELATION,R18_242,AP_DUNG,Áp dụng,E2_1,E30_242,,
+RELATION,R18_243,AP_DUNG,Áp dụng,E2_1,E30_243,,
+RELATION,R18_244,AP_DUNG,Áp dụng,E2_1,E30_244,,
+RELATION,R18_245,AP_DUNG,Áp dụng,E2_1,E30_245,,
+RELATION,R18_246,AP_DUNG,Áp dụng,E2_1,E30_246,,
+RELATION,R18_247,AP_DUNG,Áp dụng,E2_1,E30_247,,
+RELATION,R18_248,AP_DUNG,Áp dụng,E2_1,E30_248,,
+RELATION,R18_249,AP_DUNG,Áp dụng,E2_1,E30_249,,
+RELATION,R18_250,AP_DUNG,Áp dụng,E2_1,E30_250,,
+RELATION,R18_251,AP_DUNG,Áp dụng,E2_1,E30_251,,
+RELATION,R18_252,AP_DUNG,Áp dụng,E2_1,E30_252,,
+RELATION,R18_253,AP_DUNG,Áp dụng,E2_1,E30_253,,
+RELATION,R18_254,AP_DUNG,Áp dụng,E2_1,E30_254,,
+RELATION,R18_255,AP_DUNG,Áp dụng,E2_1,E30_255,,
+RELATION,R18_256,AP_DUNG,Áp dụng,E2_1,E30_256,,
+RELATION,R18_257,AP_DUNG,Áp dụng,E2_1,E30_257,,
+RELATION,R18_258,AP_DUNG,Áp dụng,E2_1,E30_258,,
+RELATION,R18_259,AP_DUNG,Áp dụng,E2_1,E30_259,,
+RELATION,R18_260,AP_DUNG,Áp dụng,E2_1,E30_260,,
+RELATION,R18_261,AP_DUNG,Áp dụng,E2_1,E30_261,,
+RELATION,R18_262,AP_DUNG,Áp dụng,E2_1,E30_262,,
+RELATION,R18_263,AP_DUNG,Áp dụng,E2_1,E30_263,,
+RELATION,R18_264,AP_DUNG,Áp dụng,E2_1,E30_264,,
+RELATION,R18_265,AP_DUNG,Áp dụng,E2_1,E30_265,,
+RELATION,R18_266,AP_DUNG,Áp dụng,E2_1,E30_266,,
+RELATION,R18_267,AP_DUNG,Áp dụng,E2_1,E30_267,,
+RELATION,R18_268,AP_DUNG,Áp dụng,E2_1,E30_268,,
+RELATION,R18_269,AP_DUNG,Áp dụng,E2_1,E30_269,,
+RELATION,R18_270,AP_DUNG,Áp dụng,E2_1,E30_270,,
+RELATION,R18_271,AP_DUNG,Áp dụng,E2_1,E30_271,,
+RELATION,R18_272,AP_DUNG,Áp dụng,E2_1,E30_272,,
+RELATION,R18_273,AP_DUNG,Áp dụng,E2_1,E30_273,,
+RELATION,R18_274,AP_DUNG,Áp dụng,E2_1,E30_274,,
+RELATION,R18_275,AP_DUNG,Áp dụng,E2_1,E30_275,,
+RELATION,R18_276,AP_DUNG,Áp dụng,E2_1,E30_276,,
+RELATION,R18_277,AP_DUNG,Áp dụng,E2_1,E30_277,,
+RELATION,R18_278,AP_DUNG,Áp dụng,E2_1,E30_278,,
+RELATION,R18_279,AP_DUNG,Áp dụng,E2_1,E30_279,,
+RELATION,R18_280,AP_DUNG,Áp dụng,E2_1,E30_280,,
+RELATION,R18_281,AP_DUNG,Áp dụng,E2_1,E30_281,,
+RELATION,R18_282,AP_DUNG,Áp dụng,E2_1,E30_282,,
+RELATION,R18_283,AP_DUNG,Áp dụng,E2_1,E30_283,,
+RELATION,R18_284,AP_DUNG,Áp dụng,E2_1,E30_284,,
+RELATION,R18_285,AP_DUNG,Áp dụng,E2_1,E30_285,,
+RELATION,R18_286,AP_DUNG,Áp dụng,E2_1,E30_286,,
+RELATION,R18_287,AP_DUNG,Áp dụng,E2_1,E30_287,,
+RELATION,R18_288,AP_DUNG,Áp dụng,E2_1,E30_288,,
+RELATION,R18_289,AP_DUNG,Áp dụng,E2_1,E30_289,,
+RELATION,R18_290,AP_DUNG,Áp dụng,E2_1,E30_290,,
+RELATION,R18_291,AP_DUNG,Áp dụng,E2_1,E30_291,,
+RELATION,R18_292,AP_DUNG,Áp dụng,E2_1,E30_292,,
+RELATION,R18_293,AP_DUNG,Áp dụng,E2_1,E30_293,,
+RELATION,R18_294,AP_DUNG,Áp dụng,E2_1,E30_294,,
+RELATION,R18_295,AP_DUNG,Áp dụng,E2_1,E30_295,,
+RELATION,R18_296,AP_DUNG,Áp dụng,E2_1,E30_296,,
+RELATION,R18_297,AP_DUNG,Áp dụng,E2_1,E30_297,,
+RELATION,R18_298,AP_DUNG,Áp dụng,E2_1,E30_298,,
+RELATION,R18_299,AP_DUNG,Áp dụng,E2_1,E30_299,,
+RELATION,R18_300,AP_DUNG,Áp dụng,E2_1,E30_300,,
+RELATION,R18_301,AP_DUNG,Áp dụng,E2_1,E30_301,,
+RELATION,R18_302,AP_DUNG,Áp dụng,E2_1,E30_302,,
+RELATION,R18_303,AP_DUNG,Áp dụng,E2_1,E30_303,,
+RELATION,R18_304,AP_DUNG,Áp dụng,E2_1,E30_304,,
+RELATION,R18_305,AP_DUNG,Áp dụng,E2_1,E30_305,,
+RELATION,R18_306,AP_DUNG,Áp dụng,E2_1,E30_306,,
+RELATION,R18_307,AP_DUNG,Áp dụng,E2_1,E30_307,,
+RELATION,R18_308,AP_DUNG,Áp dụng,E2_1,E30_308,,
+RELATION,R18_309,AP_DUNG,Áp dụng,E2_1,E30_309,,
+RELATION,R18_310,AP_DUNG,Áp dụng,E2_1,E30_310,,
+RELATION,R18_311,AP_DUNG,Áp dụng,E2_1,E30_311,,
+RELATION,R18_312,AP_DUNG,Áp dụng,E2_1,E30_312,,
+RELATION,R18_313,AP_DUNG,Áp dụng,E2_1,E30_313,,
+RELATION,R18_314,AP_DUNG,Áp dụng,E2_1,E30_314,,
+RELATION,R18_315,AP_DUNG,Áp dụng,E2_1,E30_315,,
+RELATION,R18_316,AP_DUNG,Áp dụng,E2_1,E30_316,,
+RELATION,R18_317,AP_DUNG,Áp dụng,E2_1,E30_317,,
+RELATION,R18_318,AP_DUNG,Áp dụng,E2_1,E30_318,,
+RELATION,R18_319,AP_DUNG,Áp dụng,E2_1,E30_319,,
+RELATION,R18_320,AP_DUNG,Áp dụng,E2_1,E30_320,,
+RELATION,R18_321,AP_DUNG,Áp dụng,E2_1,E30_321,,
+RELATION,R18_322,AP_DUNG,Áp dụng,E2_1,E30_322,,
+RELATION,R18_323,AP_DUNG,Áp dụng,E2_1,E30_323,,
+RELATION,R18_324,AP_DUNG,Áp dụng,E2_1,E30_324,,
+RELATION,R18_325,AP_DUNG,Áp dụng,E2_1,E30_325,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_6,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_7,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_3,E38_4,,
+RELATION,R22_10,THUOC,Thuộc,E39_4,E38_4,,
+RELATION,R22_11,THUOC,Thuộc,E39_5,E38_4,,
+RELATION,R22_12,THUOC,Thuộc,E39_6,E38_4,,
+RELATION,R22_13,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_14,THUOC,Thuộc,E39_7,E38_5,,
+RELATION,R22_15,THUOC,Thuộc,E39_8,E38_5,,
+RELATION,R22_16,THUOC,Thuộc,E40_1,E39_8,,
+RELATION,R22_17,THUOC,Thuộc,E40_2,E39_8,,
+RELATION,R22_18,THUOC,Thuộc,E40_3,E39_8,,
+RELATION,R22_19,THUOC,Thuộc,E39_9,E38_5,,
+RELATION,R22_20,THUOC,Thuộc,E39_10,E38_5,,
+RELATION,R22_21,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_22,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_23,THUOC,Thuộc,E39_11,E38_7,,
+RELATION,R22_24,THUOC,Thuộc,E39_12,E38_7,,
+RELATION,R22_25,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_26,THUOC,Thuộc,E39_13,E38_8,,
+RELATION,R22_27,THUOC,Thuộc,E39_14,E38_8,,
+RELATION,R22_28,THUOC,Thuộc,E39_15,E38_8,,
+RELATION,R22_29,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,R22_30,THUOC,Thuộc,E39_16,E38_9,,
+RELATION,R22_31,THUOC,Thuộc,E39_17,E38_9,,
+RELATION,R22_32,THUOC,Thuộc,E38_10,E35_1,,
+RELATION,R22_33,THUOC,Thuộc,E38_11,E35_1,,
+RELATION,R22_34,THUOC,Thuộc,E38_12,E35_1,,
+RELATION,R22_35,THUOC,Thuộc,E38_13,E35_1,,
+RELATION,R22_36,THUOC,Thuộc,E39_18,E38_13,,
+RELATION,R22_37,THUOC,Thuộc,E39_19,E38_13,,
+RELATION,R22_38,THUOC,Thuộc,E39_20,E38_13,,
+RELATION,R22_39,THUOC,Thuộc,E38_14,E35_1,,
+RELATION,R22_40,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_41,THUOC,Thuộc,E39_21,E38_15,,
+RELATION,R22_42,THUOC,Thuộc,E39_22,E38_15,,
+RELATION,R22_43,THUOC,Thuộc,E39_23,E38_15,,
+RELATION,R22_44,THUOC,Thuộc,E39_24,E38_15,,
+RELATION,R22_45,THUOC,Thuộc,E39_25,E38_15,,
+RELATION,R22_46,THUOC,Thuộc,E39_26,E38_15,,
+RELATION,R22_47,THUOC,Thuộc,E39_27,E38_15,,
+RELATION,R22_48,THUOC,Thuộc,E39_28,E38_15,,
+RELATION,R22_49,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,R22_50,THUOC,Thuộc,E39_29,E38_16,,
+RELATION,R22_51,THUOC,Thuộc,E39_30,E38_16,,
+RELATION,R22_52,THUOC,Thuộc,E39_31,E38_16,,
+RELATION,R22_53,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_54,THUOC,Thuộc,E39_32,E38_17,,
+RELATION,R22_55,THUOC,Thuộc,E39_33,E38_17,,
+RELATION,R22_56,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,R22_57,THUOC,Thuộc,E39_34,E38_18,,
+RELATION,R22_58,THUOC,Thuộc,E39_35,E38_18,,
+RELATION,R22_59,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,R22_60,THUOC,Thuộc,E38_20,E35_2,,
+RELATION,R22_61,THUOC,Thuộc,E39_36,E38_20,,
+RELATION,R22_62,THUOC,Thuộc,E39_37,E38_20,,
+RELATION,R22_63,THUOC,Thuộc,E39_38,E38_20,,
+RELATION,R22_64,THUOC,Thuộc,E39_39,E38_20,,
+RELATION,R22_65,THUOC,Thuộc,E39_40,E38_20,,
+RELATION,R22_66,THUOC,Thuộc,E39_41,E38_20,,
+RELATION,R22_67,THUOC,Thuộc,E39_42,E38_20,,
+RELATION,R22_68,THUOC,Thuộc,E39_43,E38_20,,
+RELATION,R22_69,THUOC,Thuộc,E39_44,E38_20,,
+RELATION,R22_70,THUOC,Thuộc,E39_45,E38_20,,
+RELATION,R22_71,THUOC,Thuộc,E39_46,E38_20,,
+RELATION,R22_72,THUOC,Thuộc,E38_21,E35_2,,
+RELATION,R22_73,THUOC,Thuộc,E39_47,E38_21,,
+RELATION,R22_74,THUOC,Thuộc,E39_48,E38_21,,
+RELATION,R22_75,THUOC,Thuộc,E40_4,E39_48,,
+RELATION,R22_76,THUOC,Thuộc,E40_5,E39_48,,
+RELATION,R22_77,THUOC,Thuộc,E40_6,E39_48,,
+RELATION,R22_78,THUOC,Thuộc,E39_49,E38_21,,
+RELATION,R22_79,THUOC,Thuộc,E39_50,E38_21,,
+RELATION,R22_80,THUOC,Thuộc,E39_51,E38_21,,
+RELATION,R22_81,THUOC,Thuộc,E39_52,E38_21,,
+RELATION,R22_82,THUOC,Thuộc,E39_53,E38_21,,
+RELATION,R22_83,THUOC,Thuộc,E39_54,E38_21,,
+RELATION,R22_84,THUOC,Thuộc,E38_22,E35_2,,
+RELATION,R22_85,THUOC,Thuộc,E39_55,E38_22,,
+RELATION,R22_86,THUOC,Thuộc,E39_56,E38_22,,
+RELATION,R22_87,THUOC,Thuộc,E39_57,E38_22,,
+RELATION,R22_88,THUOC,Thuộc,E38_23,E35_2,,
+RELATION,R22_89,THUOC,Thuộc,E39_58,E38_23,,
+RELATION,R22_90,THUOC,Thuộc,E39_59,E38_23,,
+RELATION,R22_91,THUOC,Thuộc,E38_24,E35_2,,
+RELATION,R22_92,THUOC,Thuộc,E39_60,E38_24,,
+RELATION,R22_93,THUOC,Thuộc,E39_61,E38_24,,
+RELATION,R22_94,THUOC,Thuộc,E39_62,E38_24,,
+RELATION,R22_95,THUOC,Thuộc,E39_63,E38_24,,
+RELATION,R22_96,THUOC,Thuộc,E38_25,E35_2,,
+RELATION,R22_97,THUOC,Thuộc,E39_64,E38_25,,
+RELATION,R22_98,THUOC,Thuộc,E40_7,E39_64,,
+RELATION,R22_99,THUOC,Thuộc,E40_8,E39_64,,
+RELATION,R22_100,THUOC,Thuộc,E40_9,E39_64,,
+RELATION,R22_101,THUOC,Thuộc,E40_10,E39_64,,
+RELATION,R22_102,THUOC,Thuộc,E40_11,E39_64,,
+RELATION,R22_103,THUOC,Thuộc,E39_65,E38_25,,
+RELATION,R22_104,THUOC,Thuộc,E40_12,E39_65,,
+RELATION,R22_105,THUOC,Thuộc,E40_13,E39_65,,
+RELATION,R22_106,THUOC,Thuộc,E40_14,E39_65,,
+RELATION,R22_107,THUOC,Thuộc,E40_15,E39_65,,
+RELATION,R22_108,THUOC,Thuộc,E40_16,E39_65,,
+RELATION,R22_109,THUOC,Thuộc,E40_17,E39_65,,
+RELATION,R22_110,THUOC,Thuộc,E40_18,E39_65,,
+RELATION,R22_111,THUOC,Thuộc,E40_19,E39_65,,
+RELATION,R22_112,THUOC,Thuộc,E38_26,E35_2,,
+RELATION,R22_113,THUOC,Thuộc,E39_66,E38_26,,
+RELATION,R22_114,THUOC,Thuộc,E39_67,E38_26,,
+RELATION,R22_115,THUOC,Thuộc,E39_68,E38_26,,
+RELATION,R22_116,THUOC,Thuộc,E39_69,E38_26,,
+RELATION,R22_117,THUOC,Thuộc,E39_70,E38_26,,
+RELATION,R22_118,THUOC,Thuộc,E38_27,E35_2,,
+RELATION,R22_119,THUOC,Thuộc,E39_71,E38_27,,
+RELATION,R22_120,THUOC,Thuộc,E39_72,E38_27,,
+RELATION,R22_121,THUOC,Thuộc,E39_73,E38_27,,
+RELATION,R22_122,THUOC,Thuộc,E38_28,E35_3,,
+RELATION,R22_123,THUOC,Thuộc,E39_74,E38_28,,
+RELATION,R22_124,THUOC,Thuộc,E40_20,E39_74,,
+RELATION,R22_125,THUOC,Thuộc,E40_21,E39_74,,
+RELATION,R22_126,THUOC,Thuộc,E40_22,E39_74,,
+RELATION,R22_127,THUOC,Thuộc,E40_23,E39_74,,
+RELATION,R22_128,THUOC,Thuộc,E40_24,E39_74,,
+RELATION,R22_129,THUOC,Thuộc,E40_25,E39_74,,
+RELATION,R22_130,THUOC,Thuộc,E40_26,E39_74,,
+RELATION,R22_131,THUOC,Thuộc,E40_27,E39_74,,
+RELATION,R22_132,THUOC,Thuộc,E40_28,E39_74,,
+RELATION,R22_133,THUOC,Thuộc,E39_75,E38_28,,
+RELATION,R22_134,THUOC,Thuộc,E40_29,E39_75,,
+RELATION,R22_135,THUOC,Thuộc,E40_30,E39_75,,
+RELATION,R22_136,THUOC,Thuộc,E40_31,E39_75,,
+RELATION,R22_137,THUOC,Thuộc,E40_32,E39_75,,
+RELATION,R22_138,THUOC,Thuộc,E40_33,E39_75,,
+RELATION,R22_139,THUOC,Thuộc,E40_34,E39_75,,
+RELATION,R22_140,THUOC,Thuộc,E38_29,E35_3,,
+RELATION,R22_141,THUOC,Thuộc,E39_76,E38_29,,
+RELATION,R22_142,THUOC,Thuộc,E40_35,E39_76,,
+RELATION,R22_143,THUOC,Thuộc,E40_36,E39_76,,
+RELATION,R22_144,THUOC,Thuộc,E40_37,E39_76,,
+RELATION,R22_145,THUOC,Thuộc,E40_38,E39_76,,
+RELATION,R22_146,THUOC,Thuộc,E40_39,E39_76,,
+RELATION,R22_147,THUOC,Thuộc,E40_40,E39_76,,
+RELATION,R22_148,THUOC,Thuộc,E40_41,E39_76,,
+RELATION,R22_149,THUOC,Thuộc,E40_42,E39_76,,
+RELATION,R22_150,THUOC,Thuộc,E40_43,E39_76,,
+RELATION,R22_151,THUOC,Thuộc,E40_44,E39_76,,
+RELATION,R22_152,THUOC,Thuộc,E40_45,E39_76,,
+RELATION,R22_153,THUOC,Thuộc,E40_46,E39_76,,
+RELATION,R22_154,THUOC,Thuộc,E39_77,E38_29,,
+RELATION,R22_155,THUOC,Thuộc,E40_47,E39_77,,
+RELATION,R22_156,THUOC,Thuộc,E40_48,E39_77,,
+RELATION,R22_157,THUOC,Thuộc,E40_49,E39_77,,
+RELATION,R22_158,THUOC,Thuộc,E40_50,E39_77,,
+RELATION,R22_159,THUOC,Thuộc,E39_78,E38_29,,
+RELATION,R22_160,THUOC,Thuộc,E39_79,E38_29,,
+RELATION,R22_161,THUOC,Thuộc,E39_80,E38_29,,
+RELATION,R22_162,THUOC,Thuộc,E38_30,E35_3,,
+RELATION,R22_163,THUOC,Thuộc,E39_81,E38_30,,
+RELATION,R22_164,THUOC,Thuộc,E40_51,E39_81,,
+RELATION,R22_165,THUOC,Thuộc,E40_52,E39_81,,
+RELATION,R22_166,THUOC,Thuộc,E40_53,E39_81,,
+RELATION,R22_167,THUOC,Thuộc,E40_54,E39_81,,
+RELATION,R22_168,THUOC,Thuộc,E40_55,E39_81,,
+RELATION,R22_169,THUOC,Thuộc,E40_56,E39_81,,
+RELATION,R22_170,THUOC,Thuộc,E40_57,E39_81,,
+RELATION,R22_171,THUOC,Thuộc,E40_58,E39_81,,
+RELATION,R22_172,THUOC,Thuộc,E40_59,E39_81,,
+RELATION,R22_173,THUOC,Thuộc,E40_60,E39_81,,
+RELATION,R22_174,THUOC,Thuộc,E40_61,E39_81,,
+RELATION,R22_175,THUOC,Thuộc,E39_82,E38_30,,
+RELATION,R22_176,THUOC,Thuộc,E40_62,E39_82,,
+RELATION,R22_177,THUOC,Thuộc,E40_63,E39_82,,
+RELATION,R22_178,THUOC,Thuộc,E40_64,E39_82,,
+RELATION,R22_179,THUOC,Thuộc,E40_65,E39_82,,
+RELATION,R22_180,THUOC,Thuộc,E40_66,E39_82,,
+RELATION,R22_181,THUOC,Thuộc,E40_67,E39_82,,
+RELATION,R22_182,THUOC,Thuộc,E39_83,E38_30,,
+RELATION,R22_183,THUOC,Thuộc,E40_68,E39_83,,
+RELATION,R22_184,THUOC,Thuộc,E40_69,E39_83,,
+RELATION,R22_185,THUOC,Thuộc,E40_70,E39_83,,
+RELATION,R22_186,THUOC,Thuộc,E40_71,E39_83,,
+RELATION,R22_187,THUOC,Thuộc,E38_31,E35_3,,
+RELATION,R22_188,THUOC,Thuộc,E39_84,E38_31,,
+RELATION,R22_189,THUOC,Thuộc,E40_72,E39_84,,
+RELATION,R22_190,THUOC,Thuộc,E40_73,E39_84,,
+RELATION,R22_191,THUOC,Thuộc,E40_74,E39_84,,
+RELATION,R22_192,THUOC,Thuộc,E40_75,E39_84,,
+RELATION,R22_193,THUOC,Thuộc,E40_76,E39_84,,
+RELATION,R22_194,THUOC,Thuộc,E40_77,E39_84,,
+RELATION,R22_195,THUOC,Thuộc,E40_78,E39_84,,
+RELATION,R22_196,THUOC,Thuộc,E40_79,E39_84,,
+RELATION,R22_197,THUOC,Thuộc,E40_80,E39_84,,
+RELATION,R22_198,THUOC,Thuộc,E39_85,E38_31,,
+RELATION,R22_199,THUOC,Thuộc,E40_81,E39_85,,
+RELATION,R22_200,THUOC,Thuộc,E40_82,E39_85,,
+RELATION,R22_201,THUOC,Thuộc,E39_86,E38_31,,
+RELATION,R22_202,THUOC,Thuộc,E39_87,E38_31,,
+RELATION,R22_203,THUOC,Thuộc,E39_88,E38_31,,
+RELATION,R22_204,THUOC,Thuộc,E38_32,E35_3,,
+RELATION,R22_205,THUOC,Thuộc,E39_89,E38_32,,
+RELATION,R22_206,THUOC,Thuộc,E40_83,E39_89,,
+RELATION,R22_207,THUOC,Thuộc,E40_84,E39_89,,
+RELATION,R22_208,THUOC,Thuộc,E40_85,E39_89,,
+RELATION,R22_209,THUOC,Thuộc,E40_86,E39_89,,
+RELATION,R22_210,THUOC,Thuộc,E40_87,E39_89,,
+RELATION,R22_211,THUOC,Thuộc,E40_88,E39_89,,
+RELATION,R22_212,THUOC,Thuộc,E40_89,E39_89,,
+RELATION,R22_213,THUOC,Thuộc,E40_90,E39_89,,
+RELATION,R22_214,THUOC,Thuộc,E40_91,E39_89,,
+RELATION,R22_215,THUOC,Thuộc,E40_92,E39_89,,
+RELATION,R22_216,THUOC,Thuộc,E39_90,E38_32,,
+RELATION,R22_217,THUOC,Thuộc,E40_93,E39_90,,
+RELATION,R22_218,THUOC,Thuộc,E40_94,E39_90,,
+RELATION,R22_219,THUOC,Thuộc,E40_95,E39_90,,
+RELATION,R22_220,THUOC,Thuộc,E40_96,E39_90,,
+RELATION,R22_221,THUOC,Thuộc,E39_91,E38_32,,
+RELATION,R22_222,THUOC,Thuộc,E38_33,E35_3,,
+RELATION,R22_223,THUOC,Thuộc,E39_92,E38_33,,
+RELATION,R22_224,THUOC,Thuộc,E40_97,E39_92,,
+RELATION,R22_225,THUOC,Thuộc,E40_98,E39_92,,
+RELATION,R22_226,THUOC,Thuộc,E40_99,E39_92,,
+RELATION,R22_227,THUOC,Thuộc,E40_100,E39_92,,
+RELATION,R22_228,THUOC,Thuộc,E40_101,E39_92,,
+RELATION,R22_229,THUOC,Thuộc,E40_102,E39_92,,
+RELATION,R22_230,THUOC,Thuộc,E39_93,E38_33,,
+RELATION,R22_231,THUOC,Thuộc,E39_94,E38_33,,
+RELATION,R22_232,THUOC,Thuộc,E38_34,E35_3,,
+RELATION,R22_233,THUOC,Thuộc,E39_95,E38_34,,
+RELATION,R22_234,THUOC,Thuộc,E40_103,E39_95,,
+RELATION,R22_235,THUOC,Thuộc,E40_104,E39_95,,
+RELATION,R22_236,THUOC,Thuộc,E40_105,E39_95,,
+RELATION,R22_237,THUOC,Thuộc,E40_106,E39_95,,
+RELATION,R22_238,THUOC,Thuộc,E40_107,E39_95,,
+RELATION,R22_239,THUOC,Thuộc,E40_108,E39_95,,
+RELATION,R22_240,THUOC,Thuộc,E40_109,E39_95,,
+RELATION,R22_241,THUOC,Thuộc,E40_110,E39_95,,
+RELATION,R22_242,THUOC,Thuộc,E40_111,E39_95,,
+RELATION,R22_243,THUOC,Thuộc,E40_112,E39_95,,
+RELATION,R22_244,THUOC,Thuộc,E39_96,E38_34,,
+RELATION,R22_245,THUOC,Thuộc,E40_113,E39_96,,
+RELATION,R22_246,THUOC,Thuộc,E40_114,E39_96,,
+RELATION,R22_247,THUOC,Thuộc,E40_115,E39_96,,
+RELATION,R22_248,THUOC,Thuộc,E40_116,E39_96,,
+RELATION,R22_249,THUOC,Thuộc,E38_35,E35_3,,
+RELATION,R22_250,THUOC,Thuộc,E39_97,E38_35,,
+RELATION,R22_251,THUOC,Thuộc,E40_117,E39_97,,
+RELATION,R22_252,THUOC,Thuộc,E40_118,E39_97,,
+RELATION,R22_253,THUOC,Thuộc,E40_119,E39_97,,
+RELATION,R22_254,THUOC,Thuộc,E40_120,E39_97,,
+RELATION,R22_255,THUOC,Thuộc,E40_121,E39_97,,
+RELATION,R22_256,THUOC,Thuộc,E40_122,E39_97,,
+RELATION,R22_257,THUOC,Thuộc,E40_123,E39_97,,
+RELATION,R22_258,THUOC,Thuộc,E39_98,E38_35,,
+RELATION,R22_259,THUOC,Thuộc,E38_36,E35_3,,
+RELATION,R22_260,THUOC,Thuộc,E38_37,E35_3,,
+RELATION,R22_261,THUOC,Thuộc,E39_99,E38_37,,
+RELATION,R22_262,THUOC,Thuộc,E39_100,E38_37,,
+RELATION,R22_263,THUOC,Thuộc,E39_101,E38_37,,
+RELATION,R22_264,THUOC,Thuộc,E39_102,E38_37,,
+RELATION,R22_265,THUOC,Thuộc,E39_103,E38_37,,
+RELATION,R22_266,THUOC,Thuộc,E39_104,E38_37,,
+RELATION,R22_267,THUOC,Thuộc,E39_105,E38_37,,
+RELATION,R22_268,THUOC,Thuộc,E38_38,E35_3,,
+RELATION,R22_269,THUOC,Thuộc,E39_106,E38_38,,
+RELATION,R22_270,THUOC,Thuộc,E39_107,E38_38,,
+RELATION,R22_271,THUOC,Thuộc,E39_108,E38_38,,
+RELATION,R22_272,THUOC,Thuộc,E39_109,E38_38,,
+RELATION,R22_273,THUOC,Thuộc,E38_39,E35_3,,
+RELATION,R22_274,THUOC,Thuộc,E38_40,E35_3,,
+RELATION,R22_275,THUOC,Thuộc,E38_41,E35_3,,
+RELATION,R22_276,THUOC,Thuộc,E39_110,E38_41,,
+RELATION,R22_277,THUOC,Thuộc,E39_111,E38_41,,
+RELATION,R22_278,THUOC,Thuộc,E38_42,E35_4,,
+RELATION,R22_279,THUOC,Thuộc,E39_112,E38_42,,
+RELATION,R22_280,THUOC,Thuộc,E39_113,E38_42,,
+RELATION,R22_281,THUOC,Thuộc,E39_114,E38_42,,
+RELATION,R22_282,THUOC,Thuộc,E38_43,E35_4,,
+RELATION,R22_283,THUOC,Thuộc,E39_115,E38_43,,
+RELATION,R22_284,THUOC,Thuộc,E39_116,E38_43,,
+RELATION,R22_285,THUOC,Thuộc,E38_44,E35_4,,
+RELATION,R22_286,THUOC,Thuộc,E39_117,E38_44,,
+RELATION,R22_287,THUOC,Thuộc,E39_118,E38_44,,
+RELATION,R22_288,THUOC,Thuộc,E39_119,E38_44,,
+RELATION,R22_289,THUOC,Thuộc,E38_45,E35_4,,
+RELATION,R22_290,THUOC,Thuộc,E38_46,E35_4,,
+RELATION,R22_291,THUOC,Thuộc,E39_120,E38_46,,
+RELATION,R22_292,THUOC,Thuộc,E39_121,E38_46,,
+RELATION,R22_293,THUOC,Thuộc,E38_47,E35_4,,
+RELATION,R22_294,THUOC,Thuộc,E39_122,E38_47,,
+RELATION,R22_295,THUOC,Thuộc,E39_123,E38_47,,
+RELATION,R22_296,THUOC,Thuộc,E39_124,E38_47,,
+RELATION,R22_297,THUOC,Thuộc,E39_125,E38_47,,
+RELATION,R22_298,THUOC,Thuộc,E39_126,E38_47,,
+RELATION,R22_299,THUOC,Thuộc,E39_127,E38_47,,
+RELATION,R22_300,THUOC,Thuộc,E39_128,E38_47,,
+RELATION,R22_301,THUOC,Thuộc,E39_129,E38_47,,
+RELATION,R22_302,THUOC,Thuộc,E38_48,E35_4,,
+RELATION,R22_303,THUOC,Thuộc,E38_49,E35_4,,
+RELATION,R22_304,THUOC,Thuộc,E38_50,E35_4,,
+RELATION,R22_305,THUOC,Thuộc,E39_130,E38_50,,
+RELATION,R22_306,THUOC,Thuộc,E39_131,E38_50,,
+RELATION,R22_307,THUOC,Thuộc,E39_132,E38_50,,
+RELATION,R22_308,THUOC,Thuộc,E38_51,E35_4,,
+RELATION,R22_309,THUOC,Thuộc,E38_52,E35_4,,
+RELATION,R22_310,THUOC,Thuộc,E38_53,E35_4,,
+RELATION,R22_311,THUOC,Thuộc,E38_54,E35_4,,
+RELATION,R22_312,THUOC,Thuộc,E38_55,E35_5,,
+RELATION,R22_313,THUOC,Thuộc,E38_56,E35_5,,
+RELATION,R22_314,THUOC,Thuộc,E38_57,E35_5,,
+RELATION,R22_315,THUOC,Thuộc,E39_133,E38_57,,
+RELATION,R22_316,THUOC,Thuộc,E39_134,E38_57,,
+RELATION,R22_317,THUOC,Thuộc,E38_58,E35_5,,
+RELATION,R22_318,THUOC,Thuộc,E39_135,E38_58,,
+RELATION,R22_319,THUOC,Thuộc,E39_136,E38_58,,
+RELATION,R22_320,THUOC,Thuộc,E38_59,E35_5,,
+RELATION,R22_321,THUOC,Thuộc,E39_137,E38_59,,
+RELATION,R22_322,THUOC,Thuộc,E39_138,E38_59,,
+RELATION,R22_323,THUOC,Thuộc,E40_124,E39_138,,
+RELATION,R22_324,THUOC,Thuộc,E40_125,E39_138,,
+RELATION,R22_325,THUOC,Thuộc,E40_126,E39_138,,
+RELATION,R22_326,THUOC,Thuộc,E40_127,E39_138,,
+RELATION,R22_327,THUOC,Thuộc,E39_139,E38_59,,
+RELATION,R22_328,THUOC,Thuộc,E38_60,E35_5,,
+RELATION,R22_329,THUOC,Thuộc,E39_140,E38_60,,
+RELATION,R22_330,THUOC,Thuộc,E39_141,E38_60,,
+RELATION,R22_331,THUOC,Thuộc,E39_142,E38_60,,
+RELATION,R22_332,THUOC,Thuộc,E39_143,E38_60,,
+RELATION,R22_333,THUOC,Thuộc,E38_61,E35_5,,
+RELATION,R22_334,THUOC,Thuộc,E38_62,E35_5,,
+RELATION,R22_335,THUOC,Thuộc,E39_144,E38_62,,
+RELATION,R22_336,THUOC,Thuộc,E39_145,E38_62,,
+RELATION,R22_337,THUOC,Thuộc,E39_146,E38_62,,
+RELATION,R22_338,THUOC,Thuộc,E39_147,E38_62,,
+RELATION,R22_339,THUOC,Thuộc,E39_148,E38_62,,
+RELATION,R22_340,THUOC,Thuộc,E38_63,E35_5,,
+RELATION,R22_341,THUOC,Thuộc,E38_64,E35_6,,
+RELATION,R22_342,THUOC,Thuộc,E38_65,E35_6,,
+RELATION,R22_343,THUOC,Thuộc,E39_149,E38_65,,
+RELATION,R22_344,THUOC,Thuộc,E39_150,E38_65,,
+RELATION,R22_345,THUOC,Thuộc,E38_66,E35_6,,
+RELATION,R22_346,THUOC,Thuộc,E38_67,E35_6,,
+RELATION,R22_347,THUOC,Thuộc,E39_151,E38_67,,
+RELATION,R22_348,THUOC,Thuộc,E39_152,E38_67,,
+RELATION,R22_349,THUOC,Thuộc,E39_153,E38_67,,
+RELATION,R22_350,THUOC,Thuộc,E38_68,E35_6,,
+RELATION,R22_351,THUOC,Thuộc,E39_154,E38_68,,
+RELATION,R22_352,THUOC,Thuộc,E39_155,E38_68,,
+RELATION,R22_353,THUOC,Thuộc,E38_69,E35_6,,
+RELATION,R22_354,THUOC,Thuộc,E38_70,E35_6,,
+RELATION,R22_355,THUOC,Thuộc,E39_156,E38_70,,
+RELATION,R22_356,THUOC,Thuộc,E39_157,E38_70,,
+RELATION,R22_357,THUOC,Thuộc,E38_71,E35_6,,
+RELATION,R22_358,THUOC,Thuộc,E39_158,E38_71,,
+RELATION,R22_359,THUOC,Thuộc,E39_159,E38_71,,
+RELATION,R22_360,THUOC,Thuộc,E38_72,E35_7,,
+RELATION,R22_361,THUOC,Thuộc,E38_73,E35_7,,
+RELATION,R22_362,THUOC,Thuộc,E38_74,E35_7,,
+RELATION,R22_363,THUOC,Thuộc,E39_160,E38_74,,
+RELATION,R22_364,THUOC,Thuộc,E39_161,E38_74,,
+RELATION,R22_365,THUOC,Thuộc,E38_75,E35_7,,
+RELATION,R22_366,THUOC,Thuộc,E39_162,E38_75,,
+RELATION,R22_367,THUOC,Thuộc,E39_163,E38_75,,
+RELATION,R22_368,THUOC,Thuộc,E38_76,E35_7,,
+RELATION,R22_369,THUOC,Thuộc,E38_77,E35_7,,
+RELATION,R22_370,THUOC,Thuộc,E39_164,E38_77,,
+RELATION,R22_371,THUOC,Thuộc,E39_165,E38_77,,
+RELATION,R22_372,THUOC,Thuộc,E39_166,E38_77,,
+RELATION,R22_373,THUOC,Thuộc,E39_167,E38_77,,
+RELATION,R22_374,THUOC,Thuộc,E39_168,E38_77,,
+RELATION,R22_375,THUOC,Thuộc,E39_169,E38_77,,
+RELATION,R22_376,THUOC,Thuộc,E38_78,E35_7,,
+RELATION,R22_377,THUOC,Thuộc,E38_79,E35_7,,
+RELATION,R22_378,THUOC,Thuộc,E38_80,E35_8,,
+RELATION,R22_379,THUOC,Thuộc,E38_81,E35_8,,
+RELATION,R22_380,THUOC,Thuộc,E38_82,E35_8,,

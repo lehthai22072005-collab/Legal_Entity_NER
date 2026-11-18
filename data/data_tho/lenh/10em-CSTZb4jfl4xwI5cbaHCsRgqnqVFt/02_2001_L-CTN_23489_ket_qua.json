@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0",
+  "document_id": "23489",
+  "document_code": "02/2001/L-CTN",
+  "file_name": "02_2001_L-CTN_23489.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "LỆNH\nVề việc công bố Pháp lệnh",
+    "so_hieu": "02/2001/L-CTN",
+    "loai_van_ban": "LỆNH",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "ngày 11 tháng 01 năm 2001",
+    "ngay_co_hieu_luc": "ngày 11 tháng 01 năm 2001",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH NƯỚC",
+    "nguoi_ky": "Trần Đức Lương",
+    "nganh": "Tư pháp",
+    "linh_vuc": "Pháp chế, Tư pháp"
+  },
+  "full_text": "Lệnh số 02/2001/L-CTN Về việc công bố Pháp lệnh\nCHỦ TỊCH NƯỚC\n*****\nSố: 02/2001/L-CTN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\n*******\nHà Nội, ngày 11 tháng 01 năm 2001\nLỆNH\nVề việc công bố Pháp lệnh\n________\nCHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ vào Điều 103 và Điều 106 của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992;\nCăn cứ vào Điều 78 của Luật Tổ chức Quốc hội;\nCăn cứ vào Điều 51 của Luật Ban hành các văn bản quy phạm pháp luật,\nNAY CÔNG BỐ:\nPháp lệnh Bảo vệ bí mật nhà nước\nĐã được Uỷ ban Thường vụ Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam Khoá X, thông qua ngày 28 tháng 12 năm 2000./.\nCHỦ TỊCH NƯỚC\n(Đã ký)\nTrần Đức Lương\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Ngành]: Tư pháp\n[Lĩnh vực]: Pháp chế, Tư pháp\n[Tình trạng hiệu lực]: Còn hiệu lực",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 191,
+      "end": 221,
+      "text": "LỆNH\nVề việc công bố Pháp lệnh",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 72,
+      "end": 85,
+      "text": "02/2001/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 191,
+      "end": 195,
+      "text": "LỆNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E4_1",
+      "start": 756,
+      "end": 763,
+      "text": "Tư pháp",
+      "code": "NGANH",
+      "label": "Ngành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 165,
+      "end": 190,
+      "text": "ngày 11 tháng 01 năm 2001",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 776,
+      "end": 793,
+      "text": "Pháp chế, Tư pháp",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 165,
+      "end": 190,
+      "text": "ngày 11 tháng 01 năm 2001",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 817,
+      "end": 829,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 48,
+      "end": 61,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 658,
+      "end": 671,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 680,
+      "end": 694,
+      "text": "Trần Đức Lương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E18_1",
+      "start": 504,
+      "end": 536,
+      "text": "Pháp lệnh Bảo vệ bí mật nhà nước",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 504,
+      "end": 536,
+      "text": "Pháp lệnh Bảo vệ bí mật nhà nước",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 316,
+      "end": 374,
+      "text": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 445,
+      "end": 489,
+      "text": "Luật Ban hành các văn bản quy phạm pháp luật",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_4",
+      "start": 399,
+      "end": 420,
+      "text": "Luật Tổ chức Quốc hội",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R6_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R6_2",
+      "from_id": "E18_1",
+      "to_id": "E2_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E19_3",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E19_4",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

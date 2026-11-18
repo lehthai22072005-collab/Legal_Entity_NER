@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "document_id": "6363",
+  "document_code": "01/2000/TT-BTM",
+  "file_name": "01_2000_TT-BTM_6363.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Bổ sung Thông tư số 26/1999/TT-BTM ngày 19/08/1999\ncủa Bộ Thương mại về đặt gia công hàng hoá ở nước ngoài",
+    "so_hieu": "01/2000/TT-BTM",
+    "loai_van_ban": "THÔNG TƯ",
+    "co_quan_ban_hanh": "BỘ THƯƠNG MẠI",
+    "ngay_ban_hanh": "ngày 17 tháng 01 năm 2000",
+    "ngay_co_hieu_luc": "sau 15 ngày kể từ ngày ký",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "THỨ TRƯỞNG",
+    "nguoi_ky": "Mai Văn Dâu",
+    "nganh": "Công Thương",
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Thông tư số 01/2000/TT-BTM Bổ sung Thông tư số 26/1999/TT-BTM ngày 19/08/1999 của Bộ Thương mại về đặt gia công hàng hoá ở nước ngoài\nBỘ THƯƠNG MẠI\n_________\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n________________\nSố: 01/2000/TT-BTM\nHà Nội, ngày 17 tháng 01 năm 2000\nTHÔNG TƯ\nBổ sung Thông tư số 26/1999/TT-BTM ngày 19/08/1999\ncủa Bộ Thương mại về đặt gia công hàng hoá ở nước ngoài\n______________________\nCăn cứ Nghị định số 57/1998/NĐ-CP ngày 31/07/1998 của Chính phủ quy định chi tiết thi hành Luật Thương mại về hoạt động xuất khẩu, nhập khẩu, gia công và đại lý mua bán hàng hoá với nước ngoài, Thông tư số 18/1998/TT-BTM ngày 28/08/1998 và Thông tư số 26/1998/TT-BTM ngày 19/08/1999 của Bộ Thương mại hướng dẫn thi hành Nghị định nói trên;\nCăn cứ tính đặc thù của doanh nghiệp chế xuất được thành lập và hoạt động theo Quy chế Khu công nghiệp, Khu chế xuất, Khu công nghệ cao ban hành kèm theo Nghị định số 36/CP ngày 24/04/1997 của Chính phủ,\nBộ Thương mại hướng dẫn bổ sung Thông tư số 26/1998/TT-BTM ngày 19/08/1999 của Bộ Thương mại về đặt gia công hàng hoá ở nước ngoài như sau:\nThương nhân Việt Nam được đặt gia công hàng hoá với các Doanh nghiệp chế xuất mà không bị ràng buộc theo điều kiện đặt gia công hàng hoá ở nước ngoài quy định tại Mục 6.b Thông tư số 26/1998/TT-BTM ngày 19/08/1999 của Bộ Thương mại.\nThông tư này có hiệu lực sau 15 ngày kể từ ngày ký./.\nKT.BỘ TRƯỞNG\nTHỨ TRƯỞNG\n(Đã ký)\nMai Văn Dâu\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Ngành]: Công Thương\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: sau 15 ngày kể từ ngày ký\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Văn bản dẫn chiếu]: Thông tư số 22/2000/TT-BTM Hướng dẫn thực hiện Nghị định số 24/2000/NĐ-CP ngày 31/7/2000 của Chính phủ quy định chi tiết thi hành Luật Đầu tư nước ngoài tại Việt Nam về xuất nhập khẩu và các hoạt động thương mại khác của các doanh nghiệp có vốn đầu tư nước ngoài",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 300,
+      "end": 406,
+      "text": "Bổ sung Thông tư số 26/1999/TT-BTM ngày 19/08/1999\ncủa Bộ Thương mại về đặt gia công hàng hoá ở nước ngoài",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 242,
+      "end": 256,
+      "text": "01/2000/TT-BTM",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 291,
+      "end": 299,
+      "text": "THÔNG TƯ",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E4_1",
+      "start": 1506,
+      "end": 1517,
+      "text": "Công Thương",
+      "code": "NGANH",
+      "label": "Ngành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 265,
+      "end": 290,
+      "text": "ngày 17 tháng 01 năm 2000",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 1530,
+      "end": 1544,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 1565,
+      "end": 1590,
+      "text": "sau 15 ngày kể từ ngày ký",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 1614,
+      "end": 1626,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 134,
+      "end": 147,
+      "text": "BỘ THƯƠNG MẠI",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 1414,
+      "end": 1424,
+      "text": "THỨ TRƯỞNG",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 1433,
+      "end": 1444,
+      "text": "Mai Văn Dâu",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E19_1",
+      "start": 624,
+      "end": 666,
+      "text": "Thông tư số 18/1998/TT-BTM ngày 28/08/1998",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 924,
+      "end": 972,
+      "text": "Nghị định số 36/CP ngày 24/04/1997 của Chính phủ",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 437,
+      "end": 666,
+      "text": "Nghị định số 57/1998/NĐ-CP ngày 31/07/1998 của Chính phủ quy định chi tiết thi hành Luật Thương mại về hoạt động xuất khẩu, nhập khẩu, gia công và đại lý mua bán hàng hoá với nước ngoài, Thông tư số 18/1998/TT-BTM ngày 28/08/1998",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_4",
+      "start": 521,
+      "end": 666,
+      "text": "Luật Thương mại về hoạt động xuất khẩu, nhập khẩu, gia công và đại lý mua bán hàng hoá với nước ngoài, Thông tư số 18/1998/TT-BTM ngày 28/08/1998",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E29_1",
+      "start": 1648,
+      "end": 1910,
+      "text": "Thông tư số 22/2000/TT-BTM Hướng dẫn thực hiện Nghị định số 24/2000/NĐ-CP ngày 31/7/2000 của Chính phủ quy định chi tiết thi hành Luật Đầu tư nước ngoài tại Việt Nam về xuất nhập khẩu và các hoạt động thương mại khác của các doanh nghiệp có vốn đầu tư nước ngoài",
+      "code": "VB_DAN_CHIEU",
+      "label": "Văn bản dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E41_1",
+      "start": 521,
+      "end": 666,
+      "text": "Luật Thương mại về hoạt động xuất khẩu, nhập khẩu, gia công và đại lý mua bán hàng hoá với nước ngoài, Thông tư số 18/1998/TT-BTM ngày 28/08/1998",
+      "code": "VB_DUOC_SUA_DOI_BO_SUNG",
+      "label": "Văn bản được sửa đổi bổ sung",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E2_1",
+      "to_id": "E19_2",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E2_1",
+      "to_id": "E19_3",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_4",
+      "from_id": "E2_1",
+      "to_id": "E19_4",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R17_1",
+      "from_id": "E2_1",
+      "to_id": "E29_1",
+      "code": "DAN_CHIEU",
+      "label": "Dẫn chiếu"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R23_1",
+      "from_id": "E2_1",
+      "to_id": "E41_1",
+      "code": "DUOC_SUA_DOI_BO_SUNG",
+      "label": "Được sửa đổi bổ sung"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

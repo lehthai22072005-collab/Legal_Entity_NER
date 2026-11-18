@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "document_id": "6774",
+  "document_code": "04/L-CTN",
+  "file_name": "04_L-CTN_6774.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 04/L-CTN Về việc công bố Pháp lệnh Phát hành công trái xây đựng Tổ quốc và Pháp lệnh Bảo vệ quyền lợi người tiêu dùng",
+    "so_hieu": "04/L-CTN",
+    "loai_van_ban": "Lệnh",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "1999-05-08",
+    "ngay_co_hieu_luc": "1999-05-08",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH NƯỚC",
+    "nguoi_ky": "Trần Đức Lương",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 04/L-CTN Về việc công bố Pháp lệnh Phát hành công trái xây đựng Tổ quốc và Pháp lệnh Bảo vệ quyền lợi người tiêu dùng\nCHủ tịch nước\nLỆNH CỦA CHỦ TỊCH NƯỚC\nVề việc công bố Pháp lệnh Phát hành công trái xây đựngTổ quốc\nvà Pháp lệnh Bảo vệ quyền lợi người tiêu dùng\nCHỦ TỊCH NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ vào Điều 103 và Điều 106 của Hiến pháp nước Cộng hòa xã hộichủ nghĩa Việt Nam năm 1992;\nCăn cứ vào Điều 78 của Luật Tổ chức Quốc hội;\nCăn cứ vào Điều 51 của Luật Ban hành các văn bản quy phạm phápluật,\nNAY CÔNG BỐ:\n1.Pháp lệnh Phát hành công trái xây dựng Tổ quốc;\n2.Pháp lệnh Bảo vệ quyền lợi người tiêu dùng.\nĐãđược Ủy ban Thường vụ Quốc hội nước Cộng hòa xã hội chủ nghĩaViệt Nam khóa X thông qua ngày: 27 tháng 4 năm1999./.\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 1999-05-08\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Người ký]: Trần Đức Lương\n[Ngày ban hành]: 1999-05-08",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 125,
+      "text": "Lệnh số 04/L-CTN Về việc công bố Pháp lệnh Phát hành công trái xây đựng Tổ quốc và Pháp lệnh Bảo vệ quyền lợi người tiêu dùng",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 16,
+      "text": "04/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 945,
+      "end": 955,
+      "text": "1999-05-08",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 819,
+      "end": 833,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 854,
+      "end": 864,
+      "text": "1999-05-08",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 888,
+      "end": 900,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 149,
+      "end": 162,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 271,
+      "end": 284,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 913,
+      "end": 927,
+      "text": "Trần Đức Lương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

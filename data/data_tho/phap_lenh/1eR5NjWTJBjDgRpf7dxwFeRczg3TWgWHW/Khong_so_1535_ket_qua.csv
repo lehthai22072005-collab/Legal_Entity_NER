@@ -1,0 +1,42 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,96,Pháp lệnh số Không số Sửa đổi và bổ sung một số điểm về thuế công thương nghiệp và thuế sát sinh
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,9,Pháp lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,5184,5194,1980-06-23
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,5152,5166,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,5063,5087,ngày 23 tháng 6 năm 1980
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,5218,5238,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,182,207,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,5252,5260,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,5273,5285,Trường Chinh
+ENTITY,E38_1,DIEU,Điều,structure,576,582,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1555,1561,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1822,1829,Điều 16
+ENTITY,E38_4,DIEU,Điều,structure,2452,2459,Điều 22
+ENTITY,E38_5,DIEU,Điều,structure,2971,2978,Điều 24
+ENTITY,E38_6,DIEU,Điều,structure,3582,3589,Điều 27
+ENTITY,E38_7,DIEU,Điều,structure,4200,4206,Điều 3
+ENTITY,E38_8,DIEU,Điều,structure,4526,4532,Điều 4
+ENTITY,E38_9,DIEU,Điều,structure,4987,4993,Điều 5
+ENTITY,E34_1,VB_BI_BAI_BO,Văn bản bị bãi bỏ,reference,5307,5381,Nghị quyết số 200-NQ/TVQH Về việc ban hành Điều lệ Thuế công thương nghiệp
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,5401,5419,Hiến pháp năm 1959
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,5439,5556,Chỉ thị số 14-TTg Về việc thi hành Nghị quyết ngày 1/12/1980 sửa đổi Điều 4 Pháp lệnh ngày 23/6/1980 về Thuế sát sinh
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,5576,5744,"Thông tư số 48/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò dầu khí theo quy định của luật dầu khí"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,5766,5883,Chỉ thị số 14-TTg Về việc thi hành Nghị quyết ngày 1/12/1980 sửa đổi Điều 4 Pháp lệnh ngày 23/6/1980 về Thuế sát sinh
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,5905,6160,Thông tư số 07 TC/CTN Hướng dẫn việc thi hành Pháp lệnh ngày 23-6-1980 của Uỷ ban thường vụ quốc hội và chỉ thị số 202-TTg ngày 25/6/1980 của thủ tướng Chính phủ về việc sửa đổi và bổ sung một số điểm về chính sách thuế công thương nghệp và thuế sát sinh.
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,6182,6363,Thông tư số 23-TC/CTN Hướng dẫn việc thi hành Pháp lệnh ngày 23 tháng 6 năm 1980 của Uỷ ban Thường vụ Quốc hội và Chỉ thị số 202 TTg ngày 25 tháng 6 năm 1980 của Thủ tướng Chính phủ
+ENTITY,E44_1,VB_HUONG_DAN_AP_DUNG,Văn bản hướng dẫn áp dụng,reference,6393,6574,Thông tư số 23-TC/CTN Hướng dẫn việc thi hành Pháp lệnh ngày 23 tháng 6 năm 1980 của Uỷ ban Thường vụ Quốc hội và Chỉ thị số 202 TTg ngày 25 tháng 6 năm 1980 của Thủ tướng Chính phủ
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,6629,6647,Hiến pháp năm 1959
+ENTITY,E32_1,VB_SUA_DOI_BO_SUNG,Văn bản sửa đổi bổ sung,reference,6675,6743,Pháp lệnh số Không số Sửa đổi một số điều về Thuế Công thương nghiệp
+ENTITY,E32_2,VB_SUA_DOI_BO_SUNG,Văn bản sửa đổi bổ sung,reference,6771,6896,"Pháp lệnh số 16/LC_HDNN Sửa đổi, bổ sung một số điều trong các Pháp lệnh, Điều lệ về thuế công thương nghiệp và thuế hàng hoá"
+RELATION,RBI_BAI_BO_1,BI_BAI_BO,Bị bãi bỏ,E34_1,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RAP_DUNG_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,RAP_DUNG_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,RDAN_CHIEU_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,RDAN_CHIEU_2,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,RDAN_CHIEU_3,DAN_CHIEU,Dẫn chiếu,E29_3,E2_1,,
+RELATION,RHUONG_DAN_AP_DUNG_1,HUONG_DAN_AP_DUNG,Hướng dẫn áp dụng,E44_1,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,RSUA_DOI_BO_SUNG_1,SUA_DOI_BO_SUNG,Sửa đổi bổ sung,E32_1,E2_1,,
+RELATION,RSUA_DOI_BO_SUNG_2,SUA_DOI_BO_SUNG,Sửa đổi bổ sung,E32_2,E2_1,,

@@ -1,0 +1,51 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,409,611,"NGHỊ QUYẾT
+Sửa đổi, bổ sung một số điều của Nghị quyết số 02/2018/NQ-HĐTP ngày 15 tháng 5 năm 2018 của Hội đồng Thẩm phán Tòa án nhân dân tối cao hướng dẫn áp dụng Điều 65 của Bộ luật Hình sự về án treo"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,360,375,01/2022/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,409,419,NGHỊ QUYẾT
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,384,408,ngày 15 tháng 4 năm 2022
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,7178,7192,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,6578,6602,ngày 10 tháng 5 năm 2022
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,7216,7237,Hết hiệu lực một phần
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,245,268,TÒA ÁN NHÂN DÂN TỐI CAO
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,7089,7097,CHÁNH ÁN
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,7098,7113,Nguyễn Hòa Bình
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,453,482,Nghị quyết số 02/2018/NQ-HĐTP
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,7288,7415,"Nghị quyết số 02/2025/NQ-HĐTP Sửa đổi, bổ sung một số điều của một số Nghị quyết của Hội đồng thẩm phán Tòa án nhân dân tối cao"
+ENTITY,E38_1,DIEU,Điều,structure,969,1168,"Điều 1. Sửa đổi, bổ sung một số điều của Nghị quyết số 02/2018/NQ-HĐTP ngày 15 tháng 5 năm 2018 của Hội đồng Thẩm phán Tòa án nhân dân tối cao hướng dẫn áp dụng Điều 65 của Bộ luật Hình sự về án treo"
+ENTITY,E38_2,DIEU,Điều,structure,5992,6198,"Điều 2. Bãi bỏ điều, biểu mẫu ban hành kèm theo Nghị quyết số 02/2018/NQ-HĐTP ngày 15 tháng 5 năm 2018 của Hội đồng Thẩm phán Tòa án nhân dân tối cao hướng dẫn áp dụng Điều 65 của Bộ luật Hình sự về án treo"
+ENTITY,E38_3,DIEU,Điều,structure,6418,6443,Điều 3. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,1169,1204,"1. Sửa đổi, bổ sung Điều 2 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,2696,2731,"2. Sửa đổi, bổ sung Điều 3 như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,3675,3717,3. Bổ sung Điều 4a vào sau Điều 4 như sau:
+ENTITY,E39_4,KHOAN,Khoản,structure,4305,4343,4. Bổ sung khoản 9 vào Điều 5 như sau:
+ENTITY,E39_5,KHOAN,Khoản,structure,4606,4642,"5. Sửa đổi, bổ sung Điều 10 như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,6199,6216,1. Bãi bỏ Điều 9.
+ENTITY,E39_7,KHOAN,Khoản,structure,6217,6417,2. Bãi bỏ Mẫu số 01-HS ban hành kèm theo Nghị quyết số 02/2018/NQ-HĐTP ngày 15 tháng 5 năm 2018 của Hội đồng Thẩm phán Tòa án nhân dân tối cao hướng dẫn áp dụng Điều 65 của Bộ luật Hình sự về án treo.
+ENTITY,E39_8,KHOAN,Khoản,structure,6444,6603,1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 23 tháng 3 năm 2022 và có hiệu lực thi hành kể từ ngày 10 tháng 5 năm 2022.
+ENTITY,E39_9,KHOAN,Khoản,structure,6604,6820,"2. Đối với hành vi phạm tội xảy ra trước ngày Nghị quyết này có hiệu lực mà vụ án đang trong quá trình xét xử sơ thẩm, xét xử phúc thẩm, xét xử giám đốc thẩm, xét xử tái thẩm thì áp dụng Nghị quyết này để giải quyết."
+ENTITY,E39_10,KHOAN,Khoản,structure,6821,7065,"3. Trường hợp người phạm tội đã bị xét xử trước ngày Nghị quyết này có hiệu lực theo đúng các văn bản hướng dẫn trước đây và bản án đã có hiệu lực pháp luật thì không căn cứ vào Nghị quyết này để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm."
+ENTITY,E40_1,DIEM,Điểm,structure,1205,1248,"a) Sửa đổi, bổ sung khoản 2 Điều 2 như sau:"
+ENTITY,E40_2,DIEM,Điểm,structure,2389,2423,b) Bổ sung khoản 6 Điều 2 như sau:
+ENTITY,E40_3,DIEM,Điểm,structure,2732,2775,"a) Sửa đổi, bổ sung khoản 2 Điều 3 như sau:"
+ENTITY,E40_4,DIEM,Điểm,structure,2965,3008,"b) Sửa đổi, bổ sung khoản 4 Điều 3 như sau:"
+ENTITY,E40_5,DIEM,Điểm,structure,3318,3361,"c) Sửa đổi, bổ sung khoản 5 Điều 3 như sau:"
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E25_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E40_1,E39_1,,
+RELATION,R22_3,THUOC,Thuộc,E40_2,E39_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E40_3,E39_2,,
+RELATION,R22_6,THUOC,Thuộc,E40_4,E39_2,,
+RELATION,R22_7,THUOC,Thuộc,E40_5,E39_2,,
+RELATION,R22_8,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_11,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,R22_12,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,R22_13,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,R22_14,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_15,THUOC,Thuộc,E39_10,E38_3,,
+RELATION,R22_16,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_17,THUOC,Thuộc,E11_1,E10_1,,

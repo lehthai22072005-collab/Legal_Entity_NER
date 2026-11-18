@@ -1,0 +1,40 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,126,"Luật Về việc đảm bảo quyền tự do thân thể và quyền bất khả xâm phạm đối với nhà ở, đồ vật, thư tín của nhân dân số 103-SL/L005"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,115,126,103-SL/L005
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,153,162,20-5-1957
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,5626,5640,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,5661,5671,1957-06-04
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,5695,5715,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,438,446,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,262,275,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,5542,5553,Hồ Chí Minh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,5770,5788,Hiến pháp năm 1946
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,5808,5826,Hiến pháp năm 1946
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,5877,6126,"Nghị quyết số Không số Về việc chuẩn y Sắc luật số 002/SLt ngày 18 tháng 6 năm 1957 quy định những trường hợp phạm pháp quả tang và những trường hợp khẩn cấp, và bổ sung Điều 10 của Luật 103-SL/L5 ngày 20/5/1957 về việc khám người phạm pháp quả tang"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,6146,6287,"Sắc luật số 002/SLT Quy định những trường hợp phạm pháp quả tang, những trường hợp khẩn cấp và những trường hợp khám người phạm pháp quả tang"
+ENTITY,E38_1,DIEU,Điều,structure,613,619,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,778,784,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,948,954,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1292,1298,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1771,1777,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,2137,2143,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,2432,2438,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,2917,2923,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,3417,3423,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,3651,3658,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,3958,3965,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,4082,4089,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,4357,4364,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,4563,4570,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,4683,4690,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,4951,4958,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,5229,5236,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,5426,5433,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,5484,5491,Điều 19
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E25_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

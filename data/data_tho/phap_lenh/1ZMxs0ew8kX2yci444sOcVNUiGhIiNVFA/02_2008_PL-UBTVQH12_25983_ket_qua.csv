@@ -1,0 +1,293 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,56,88,"PHÁP LỆNH
+Công nghiệp quốc phòng"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,32,02/2008/PL-UBTVQH12
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,56,65,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,17001,17011,2008-01-26
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,16969,16983,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,16763,16787,ngày 01 tháng 7 năm 2008
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,17033,17043,2025-07-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,17067,17087,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,99,124,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,17101,17109,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,17122,17138,Nguyễn Phú Trọng
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,132,190,Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,17188,17303,Nghị định số 46/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Pháp lệnh Công nghiệp quốc phòng
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,17353,17455,"Quyết định số 111/2009/QĐ-TTg Quy định về điều kiện, thủ tục tham gia hoạt động công nghiệp quốc phòng"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,17506,17608,"Pháp lệnh số 01/2018/UBNVQH14 Sửa đổi, bổ sung một số điều của 04 pháp lệnh có liên quan đến quy hoạch"
+ENTITY,E25_2,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,17659,18038,"Pháp lệnh số 01/2018/UBTVQH14 sửa đổi, bổ sung một số điều có liên quan đến quy hoạch của Pháp lệnh Công nghiệp quốc phòng số 02/2008/PL-UBTVQH12, Pháp lệnh Quản lý thị trường số 11/2016/UBTVQH13, Pháp lệnh Thư viện số 31/2000/PL-UBTVQH10, Pháp lệnh Ưu đãi người có công với cách mạng số 26/2005/PL-UBTVQH11 đã được sửa đổi, bổ sung một số điều theo Pháp lệnh số 04/2012/UBTVQH13"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,18156,18271,Nghị định số 46/2009/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Pháp lệnh Công nghiệp quốc phòng
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,18291,18388,"Nghị định số 120/2013/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực quốc phòng, cơ yếu"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,18408,18510,"Quyết định số 111/2009/QĐ-TTg Quy định về điều kiện, thủ tục tham gia hoạt động công nghiệp quốc phòng"
+ENTITY,E35_1,CHUONG,Chương,structure,451,480,"Chương I
+NHỮNG QUY ĐỊNH CHUNG"
+ENTITY,E35_2,CHUONG,Chương,structure,4297,4347,"Chương II
+TỔ CHỨC HOẠT ĐỘNG CÔNG NGHIỆP QUỐC PHÒNG"
+ENTITY,E35_3,CHUONG,Chương,structure,7295,7371,"Chương III
+QUY HOẠCH, KẾ HOẠCH XÂY DỰNG VÀ PHÁT TRIỂN CÔNG NGHIỆP QUỐC PHÒNG"
+ENTITY,E35_4,CHUONG,Chương,structure,9903,9945,"Chương IV
+NGUỒN LỰC XÂY DỰNG VÀ PHÁT TRIỂN"
+ENTITY,E35_5,CHUONG,Chương,structure,12782,12832,"Chương V
+CHÍNH SÁCH ĐỐI VỚI CÔNG NGHIỆP QUỐC PHÒNG"
+ENTITY,E35_6,CHUONG,Chương,structure,15361,15413,"Chương VI
+QUẢN LÝ NHÀ NƯỚC VỀ CÔNG NGHIỆP QUỐC PHÒNG"
+ENTITY,E35_7,CHUONG,Chương,structure,16667,16697,"Chương VII
+ĐIỀU KHOẢN THI HÀNH"
+ENTITY,E38_1,DIEU,Điều,structure,481,507,Điều 1. Phạm vi điều chỉnh
+ENTITY,E38_2,DIEU,Điều,structure,877,902,Điều 2. Đối tượng áp dụng
+ENTITY,E38_3,DIEU,Điều,structure,1040,1091,"Điều 3. Vị trí, nhiệm vụ của công nghiệp quốc phòng"
+ENTITY,E38_4,DIEU,Điều,structure,1540,1604,Điều 4. Nguyên tắc xây dựng và phát triển công nghiệp quốc phòng
+ENTITY,E38_5,DIEU,Điều,structure,2163,2212,Điều 5. Hợp tác quốc tế về công nghiệp quốc phòng
+ENTITY,E38_6,DIEU,Điều,structure,3358,3391,Điều 6. Các hành vi bị nghiêm cấm
+ENTITY,E38_7,DIEU,Điều,structure,4348,4384,Điều 7. Cơ sở công nghiệp quốc phòng
+ENTITY,E38_8,DIEU,Điều,structure,5114,5173,Điều 8. Hoạt động của cơ sở công nghiệp quốc phòng nòng cốt
+ENTITY,E38_9,DIEU,Điều,structure,5917,5966,Điều 9. Hoạt động của cơ sở công nghiệp động viên
+ENTITY,E38_10,DIEU,Điều,structure,6292,6359,"Điều 10. Tổ chức, cá nhân tham gia hoạt động công nghiệp quốc phòng"
+ENTITY,E38_11,DIEU,Điều,structure,6944,6972,Điều 11. Đặt hàng quốc phòng
+ENTITY,E38_12,DIEU,Điều,structure,7372,7446,"Điều 12. Quy hoạch, kế hoạch xây dựng và phát triển công nghiệp quốc phòng"
+ENTITY,E38_13,DIEU,Điều,structure,8678,8773,"Điều 13. Thẩm quyền phê duyệt quy hoạch, kế hoạch xây dựng và phát triển công nghiệp quốc phòng"
+ENTITY,E38_14,DIEU,Điều,structure,9080,9182,"Điều 14. Xây dựng, phê duyệt và tổ chức thực hiện chương trình, dự án đầu tư về công nghiệp quốc phòng"
+ENTITY,E38_15,DIEU,Điều,structure,9531,9648,"Điều 15. Thanh tra, kiểm tra việc thực hiện quy hoạch, kế hoạch, chương trình, dự án đầu tư về công nghiệp quốc phòng"
+ENTITY,E38_16,DIEU,Điều,structure,9969,10028,Điều 16. Nguồn vốn đầu tư phát triển công nghiệp quốc phòng
+ENTITY,E38_17,DIEU,Điều,structure,10634,10682,Điều 17. Nhân lực phục vụ công nghiệp quốc phòng
+ENTITY,E38_18,DIEU,Điều,structure,11320,11391,Điều 18. Nhập khẩu và dự trữ vật tư kỹ thuật cho công nghiệp quốc phòng
+ENTITY,E38_19,DIEU,Điều,structure,11879,11922,Điều 19. Đất phục vụ công nghiệp quốc phòng
+ENTITY,E38_20,DIEU,Điều,structure,12233,12329,"Điều 20. Nghiên cứu khoa học, phát triển và chuyển giao công nghệ phục vụ công nghiệp quốc phòng"
+ENTITY,E38_21,DIEU,Điều,structure,12833,12911,Điều 21. Chính sách của Nhà nước đối với cơ sở công nghiệp quốc phòng nòng cốt
+ENTITY,E38_22,DIEU,Điều,structure,13903,13971,Điều 22. Chính sách của Nhà nước đối với cơ sở công nghiệp động viên
+ENTITY,E38_23,DIEU,Điều,structure,14510,14596,"Điều 23. Chính sách đối với tổ chức, cá nhân tham gia hoạt động công nghiệp quốc phòng"
+ENTITY,E38_24,DIEU,Điều,structure,15414,15474,Điều 24. Nội dung quản lý nhà nước về công nghiệp quốc phòng
+ENTITY,E38_25,DIEU,Điều,structure,16031,16094,Điều 25. Trách nhiệm quản lý nhà nước về công nghiệp quốc phòng
+ENTITY,E38_26,DIEU,Điều,structure,16698,16724,Điều 26. Hiệu lực thi hành
+ENTITY,E38_27,DIEU,Điều,structure,16789,16837,Điều 27. Quy định chi tiết và hướng dẫn thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,1092,1223,"1. Công nghiệp quốc phòng là một phần quan trọng của thực lực và tiềm lực quốc phòng, an ninh; là bộ phận của công nghiệp quốc gia."
+ENTITY,E39_2,KHOAN,Khoản,structure,1224,1262,2. Công nghiệp quốc phòng có nhiệm vụ:
+ENTITY,E39_3,KHOAN,Khoản,structure,1605,1693,"1. Đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý thống nhất của Chính phủ."
+ENTITY,E39_4,KHOAN,Khoản,structure,1694,1833,"2. Tuân thủ mục tiêu, nhiệm vụ, chiến lược xây dựng và bảo vệ Tổ quốc, đáp ứng yêu cầu chiến lược trang bị cho lực lượng vũ trang nhân dân."
+ENTITY,E39_5,KHOAN,Khoản,structure,1834,2009,"3. Phù hợp với khả năng phát triển kinh tế của đất nước, có trình độ khoa học, công nghệ tiên tiến, từng bước hiện đại, bảo đảm bí mật, an toàn, hiệu quả và bảo vệ môi trường."
+ENTITY,E39_6,KHOAN,Khoản,structure,2010,2162,"4. Tự chủ, kết hợp chặt chẽ giữa phát triển kinh tế – xã hội với tăng cường quốc phòng, trên cơ sở phát huy nội lực kết hợp với mở rộng hợp tác quốc tế."
+ENTITY,E39_7,KHOAN,Khoản,structure,2213,2277,1. Nguyên tắc hợp tác quốc tế về công nghiệp quốc phòng bao gồm:
+ENTITY,E39_8,KHOAN,Khoản,structure,2907,2969,2. Nội dung hợp tác quốc tế về công nghiệp quốc phòng bao gồm:
+ENTITY,E39_9,KHOAN,Khoản,structure,3392,3613,"1. Tiết lộ bí mật nhà nước về quy hoạch, kế hoạch xây dựng và phát triển công nghiệp quốc phòng, kết quả khoa học, công nghệ có liên quan đến công nghiệp quốc phòng, nhiệm vụ sản xuất sản phẩm phục vụ quốc phòng, an ninh."
+ENTITY,E39_10,KHOAN,Khoản,structure,3614,3781,"2. Phá hoại, mua, bán, tặng, cho, cho thuê, cầm cố, thế chấp, khai thác, sử dụng trái phép trang thiết bị và tài sản do Nhà nước giao cho cơ sở công nghiệp quốc phòng."
+ENTITY,E39_11,KHOAN,Khoản,structure,3782,3916,"3. Mua, bán, tàng trữ, sử dụng trái phép vũ khí, trang bị kỹ thuật quân sự và sản phẩm chuyên dụng do công nghiệp quốc phòng sản xuất."
+ENTITY,E39_12,KHOAN,Khoản,structure,3917,4082,"4. Chiếm đoạt, sử dụng và chuyển giao trái phép những thông tin, tài liệu, sáng chế, quy trình và bí quyết công nghệ thuộc bí mật nhà nước về công nghiệp quốc phòng."
+ENTITY,E39_13,KHOAN,Khoản,structure,4083,4189,"5. Cản trở, trốn tránh trách nhiệm trong thực hiện nhiệm vụ xây dựng và phát triển công nghiệp quốc phòng."
+ENTITY,E39_14,KHOAN,Khoản,structure,4190,4296,"6. Lợi dụng chức vụ, quyền hạn để thực hiện hành vi trái pháp luật trong hoạt động công nghiệp quốc phòng."
+ENTITY,E39_15,KHOAN,Khoản,structure,4385,4425,1. Cơ sở công nghiệp quốc phòng bao gồm:
+ENTITY,E39_16,KHOAN,Khoản,structure,4950,5113,"2. Bộ Quốc phòng chủ trì, phối hợp với Bộ Công thương và bộ, ngành có liên quan lập danh sách các cơ sở công nghiệp quốc phòng trình Thủ tướng Chính phủ phê duyệt."
+ENTITY,E39_17,KHOAN,Khoản,structure,5174,5383,"1. Nghiên cứu, phát triển, sản xuất, bảo dưỡng, sửa chữa lớn, cải tiến, hiện đại hoá vũ khí, trang bị kỹ thuật quân sự, vật tư kỹ thuật và các sản phẩm khác phục vụ quốc phòng theo đặt hàng hoặc giao kế hoạch."
+ENTITY,E39_18,KHOAN,Khoản,structure,5384,5481,"2. Hướng dẫn chuyển giao công nghệ, đào tạo, huấn luyện nhân lực, chuẩn bị động viên công nghiệp."
+ENTITY,E39_19,KHOAN,Khoản,structure,5482,5601,"3. Chuẩn bị các điều kiện bảo đảm theo yêu cầu sản xuất, sửa chữa vũ khí, trang bị khi đất nước chuyển sang thời chiến."
+ENTITY,E39_20,KHOAN,Khoản,structure,5602,5771,"4. Liên doanh, liên kết với các tổ chức kinh tế để sản xuất các sản phẩm phục vụ quốc phòng, an ninh và tham gia phát triển kinh tế - xã hội theo quy định của pháp luật."
+ENTITY,E39_21,KHOAN,Khoản,structure,5772,5916,"5. Chính phủ quy định lộ trình đổi mới tổ chức, quản lý cơ sở công nghiệp quốc phòng nòng cốt theo Chiến lược phát triển công nghiệp quốc phòng."
+ENTITY,E39_22,KHOAN,Khoản,structure,5967,6196,"1. Trong thời bình thực hiện nhiệm vụ quản lý, bảo quản, sản xuất thử để duy trì năng lực thiết bị dây chuyền; tham gia nghiên cứu, sản xuất, cung ứng sản phẩm, dịch vụ phục vụ quốc phòng, an ninh theo đặt hàng của Bộ Quốc phòng."
+ENTITY,E39_23,KHOAN,Khoản,structure,6197,6291,2. Thực hiện nhiệm vụ động viên công nghiệp theo quy định của pháp luật động viên công nghiệp.
+ENTITY,E39_24,KHOAN,Khoản,structure,6360,6540,"1. Tổ chức, cá nhân tham gia hoạt động công nghiệp quốc phòng là tổ chức không thuộc quy định tại khoản 1 Điều 7 Pháp lệnh này và cá nhân tham gia hoạt động công nghiệp quốc phòng."
+ENTITY,E39_25,KHOAN,Khoản,structure,6541,6803,"2. Tổ chức, cá nhân tham gia hoạt động công nghiệp quốc phòng được nghiên cứu, sản xuất, cung ứng sản phẩm, dịch vụ phục vụ quốc phòng, an ninh theo phương thức đấu thầu hoặc đặt hàng. Danh mục sản phẩm, dịch vụ phục vụ quốc phòng, an ninh do Chính phủ quy định."
+ENTITY,E39_26,KHOAN,Khoản,structure,6804,6943,"3. Điều kiện, thủ tục tham gia hoạt động công nghiệp quốc phòng của tổ chức, cá nhân quy định tại Điều này do Thủ tướng Chính phủ quy định."
+ENTITY,E39_27,KHOAN,Khoản,structure,6973,7111,"1. Thủ tướng Chính phủ quyết định kế hoạch đặt hàng quốc phòng, điều kiện đặt hàng, danh mục, giá sản phẩm, dịch vụ và thủ tục thanh toán."
+ENTITY,E39_28,KHOAN,Khoản,structure,7112,7294,"2. Bộ Quốc phòng thực hiện đặt hàng quốc phòng với tổ chức, cá nhân để sản xuất và cung ứng các sản phẩm, dịch vụ phục vụ quốc phòng, an ninh theo quyết định của Thủ tướng Chính phủ."
+ENTITY,E39_29,KHOAN,Khoản,structure,7447,7611,"1. Quy hoạch, kế hoạch xây dựng và phát triển công nghiệp quốc phòng phải tuân thủ nguyên tắc được quy định tại Điều 4 Pháp lệnh này và đáp ứng các yêu cầu sau đây:"
+ENTITY,E39_30,KHOAN,Khoản,structure,7981,8077,"2. Căn cứ để xây dựng quy hoạch, kế hoạch xây dựng và phát triển công nghiệp quốc phòng bao gồm:"
+ENTITY,E39_31,KHOAN,Khoản,structure,8411,8497,"3. Nội dung quy hoạch, kế hoạch xây dựng và phát triển công nghiệp quốc phòng bao gồm:"
+ENTITY,E39_32,KHOAN,Khoản,structure,8774,8863,"1. Chính phủ phê duyệt quy hoạch, kế hoạch xây dựng và phát triển công nghiệp quốc phòng."
+ENTITY,E39_33,KHOAN,Khoản,structure,8864,9079,"2. Bộ Quốc phòng chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư, Bộ Công thương, Bộ Tài chính và cơ quan nhà nước có liên quan xây dựng quy hoạch, kế hoạch xây dựng và phát triển công nghiệp quốc phòng trình Chính phủ."
+ENTITY,E39_34,KHOAN,Khoản,structure,10029,10091,1. Nguồn vốn đầu tư phát triển công nghiệp quốc phòng bao gồm:
+ENTITY,E39_35,KHOAN,Khoản,structure,10299,10501,"2. Nhà nước bảo đảm ngân sách cho nhiệm vụ nghiên cứu, sản xuất, sửa chữa lớn, cải tiến, hiện đại hoá vũ khí, trang bị kỹ thuật quân sự, vật tư kỹ thuật và các sản phẩm khác phục vụ quốc phòng, an ninh."
+ENTITY,E39_36,KHOAN,Khoản,structure,10502,10633,"3. Việc quản lý, sử dụng nguồn vốn đầu tư phát triển công nghiệp quốc phòng phải thực hiện theo kế hoạch và quy định của pháp luật."
+ENTITY,E39_37,KHOAN,Khoản,structure,10683,10753,1. Nhân lực phục vụ tại cơ sở công nghiệp quốc phòng nòng cốt bao gồm:
+ENTITY,E39_38,KHOAN,Khoản,structure,11140,11319,2. Nhân lực phục vụ tại cơ sở công nghiệp động viên và tổ chức tham gia hoạt động công nghiệp quốc phòng được thực hiện theo pháp luật động viên công nghiệp và pháp luật lao động.
+ENTITY,E39_39,KHOAN,Khoản,structure,11392,11645,"1. Nhà nước có chính sách ưu đãi đối với việc nhập khẩu các loại vật tư kỹ thuật phục vụ công nghiệp quốc phòng mà trong nước chưa sản xuất được, thực hiện dự trữ vật tư kỹ thuật đáp ứng yêu cầu, nhiệm vụ quốc phòng, an ninh theo quy định của pháp luật."
+ENTITY,E39_40,KHOAN,Khoản,structure,11646,11746,2. Thủ tướng Chính phủ quyết định Danh mục vật tư kỹ thuật nhập khẩu phục vụ công nghiệp quốc phòng.
+ENTITY,E39_41,KHOAN,Khoản,structure,11747,11878,"3. Bộ Quốc phòng chủ trì, phối hợp với các bộ, ngành có liên quan lập Danh mục vật tư kỹ thuật nhập khẩu trình Thủ tướng Chính phủ."
+ENTITY,E39_42,KHOAN,Khoản,structure,11923,12009,"1. Chính phủ phê duyệt quy hoạch, kế hoạch sử dụng đất phục vụ công nghiệp quốc phòng."
+ENTITY,E39_43,KHOAN,Khoản,structure,12010,12232,"2. Bộ Quốc phòng chủ trì, phối hợp với cơ quan nhà nước có thẩm quyền lập quy hoạch, kế hoạch sử dụng đất phục vụ xây dựng và phát triển cơ sở công nghiệp quốc phòng nòng cốt trình Chính phủ phê duyệt và tổ chức thực hiện."
+ENTITY,E39_44,KHOAN,Khoản,structure,12330,12568,"1. Nhà nước khuyến khích và có chính sách ưu đãi đối với tổ chức, cá nhân trong nước và nước ngoài tham gia nghiên cứu khoa học, phát triển và chuyển giao công nghệ tiên tiến phục vụ nhiệm vụ xây dựng và phát triển công nghiệp quốc phòng."
+ENTITY,E39_45,KHOAN,Khoản,structure,12569,12781,"2. Bộ Quốc phòng chủ trì, phối hợp với Bộ Khoa học và Công nghệ, các bộ, ngành có liên quan xác định và triển khai nhiệm vụ nghiên cứu khoa học, phát triển và chuyển giao công nghệ phục vụ công nghiệp quốc phòng."
+ENTITY,E39_46,KHOAN,Khoản,structure,12912,12993,1. Chính sách của Nhà nước đối với cơ sở công nghiệp quốc phòng nòng cốt bao gồm:
+ENTITY,E39_47,KHOAN,Khoản,structure,13403,13505,2. Chính sách của Nhà nước đối với người lao động trong cơ sở công nghiệp quốc phòng nòng cốt bao gồm:
+ENTITY,E39_48,KHOAN,Khoản,structure,13972,14043,1. Chính sách của Nhà nước đối với cơ sở công nghiệp động viên bao gồm:
+ENTITY,E39_49,KHOAN,Khoản,structure,14314,14509,"2. Người lao động khi tham gia hoạt động công nghiệp quốc phòng được hưởng chế độ, chính sách theo quy định của pháp luật động viên công nghiệp và theo quy định tại khoản 2 Điều 23 Pháp lệnh này."
+ENTITY,E39_50,KHOAN,Khoản,structure,14597,14743,"1. Tổ chức, cá nhân tham gia hoạt động công nghiệp quốc phòng được hưởng các chính sách quy định tại điểm b, điểm c khoản 1 Điều 22 Pháp lệnh này."
+ENTITY,E39_51,KHOAN,Khoản,structure,14744,15099,"2. Người lao động trong tổ chức tham gia hoạt động công nghiệp quốc phòng khi trực tiếp thực hiện nhiệm vụ sản xuất hàng quốc phòng, ngoài tiền lương còn được hưởng phụ cấp ưu đãi khác theo quy định của pháp luật. Doanh nghiệp có trách nhiệm chi trả phụ cấp ưu đãi. Phụ cấp ưu đãi chi trả cho người lao động được hạch toán vào chi phí sản xuất kinh doanh."
+ENTITY,E39_52,KHOAN,Khoản,structure,15100,15360,"3. Người nước ngoài khi tham gia hoạt động công nghiệp quốc phòng được hưởng quyền lợi theo quy định của pháp luật Việt Nam hoặc theo thỏa thuận có liên quan, trừ trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác."
+ENTITY,E39_53,KHOAN,Khoản,structure,15475,15559,"1. Ban hành, tổ chức thực hiện văn bản quy phạm pháp luật về công nghiệp quốc phòng."
+ENTITY,E39_54,KHOAN,Khoản,structure,15560,15659,"2. Xây dựng, tổ chức thực hiện chính sách, quy hoạch, kế hoạch, nhiệm vụ về công nghiệp quốc phòng."
+ENTITY,E39_55,KHOAN,Khoản,structure,15660,15763,"3. Tổ chức, hướng dẫn đăng ký hoạt động của tổ chức, cá nhân tham gia hoạt động công nghiệp quốc phòng."
+ENTITY,E39_56,KHOAN,Khoản,structure,15764,15860,"4. Tổ chức đào tạo, bồi dưỡng nâng cao trình độ chuyên môn, nghiệp vụ về công nghiệp quốc phòng."
+ENTITY,E39_57,KHOAN,Khoản,structure,15861,15923,"5. Tổ chức, quản lý hợp tác quốc tế về công nghiệp quốc phòng."
+ENTITY,E39_58,KHOAN,Khoản,structure,15924,16030,"6. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về công nghiệp quốc phòng."
+ENTITY,E39_59,KHOAN,Khoản,structure,16095,16162,1. Chính phủ thống nhất quản lý nhà nước về công nghiệp quốc phòng.
+ENTITY,E39_60,KHOAN,Khoản,structure,16163,16374,"2. Bộ Quốc phòng chủ trì, phối hợp với Bộ Công thương và bộ, ngành có liên quan thực hiện quản lý nhà nước về công nghiệp quốc phòng; hướng dẫn, đôn đốc, kiểm tra việc thực hiện pháp luật công nghiệp quốc phòng."
+ENTITY,E39_61,KHOAN,Khoản,structure,16375,16512,"3. Bộ Công an chủ trì, phối hợp với Bộ Quốc phòng đảm bảo an ninh, trật tự, an toàn phòng chống cháy nổ cho cơ sở công nghiệp quốc phòng."
+ENTITY,E39_62,KHOAN,Khoản,structure,16513,16666,"4. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về công nghiệp quốc phòng."
+ENTITY,E40_1,DIEM,Điểm,structure,1263,1439,"a) Nghiên cứu, phát triển, sản xuất, bảo dưỡng, sửa chữa lớn, cải tiến, hiện đại hoá vũ khí, trang bị kỹ thuật quân sự, vật tư kỹ thuật và các sản phẩm khác phục vụ quốc phòng;"
+ENTITY,E40_2,DIEM,Điểm,structure,1440,1539,"b) Tham gia phát triển kinh tế - xã hội, góp phần thực hiện công nghiệp hóa, hiện đại hóa đất nước."
+ENTITY,E40_3,DIEM,Điểm,structure,2278,2599,"a) Nhà nước tạo điều kiện để tổ chức, cá nhân nước ngoài tham gia hoạt động công nghiệp quốc phòng theo nguyên tắc tôn trọng độc lập, chủ quyền, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi, phù hợp với pháp luật Việt Nam và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;"
+ENTITY,E40_4,DIEM,Điểm,structure,2600,2650,"b) Bảo đảm bí mật nhà nước về quốc phòng, an ninh;"
+ENTITY,E40_5,DIEM,Điểm,structure,2651,2707,"c) Ưu tiên lĩnh vực công nghệ cao, công nghệ lưỡng dụng;"
+ENTITY,E40_6,DIEM,Điểm,structure,2708,2906,"d) Tuân thủ các quy định của pháp luật về tổ chức, quản lý các hoạt động đối ngoại quân sự; quy chế xuất nhập khẩu, mua sắm hàng quốc phòng và các quy định khác liên quan đến công nghiệp quốc phòng."
+ENTITY,E40_7,DIEM,Điểm,structure,2970,3039,"a) Thiết lập, củng cố và phát triển mối quan hệ hợp tác với các nước;"
+ENTITY,E40_8,DIEM,Điểm,structure,3040,3160,"b) Trao đổi thông tin, tài liệu kỹ thuật và chuyển giao công nghệ phục vụ xây dựng và phát triển công nghiệp quốc phòng;"
+ENTITY,E40_9,DIEM,Điểm,structure,3161,3303,"c) Các hoạt động liên doanh, liên kết sản xuất, sửa chữa lớn; hợp tác nghiên cứu ứng dụng, triển khai sản xuất phục vụ công nghiệp quốc phòng;"
+ENTITY,E40_10,DIEM,Điểm,structure,3304,3357,d) Đào tạo nguồn nhân lực cho công nghiệp quốc phòng.
+ENTITY,E40_11,DIEM,Điểm,structure,4426,4750,"a) Cơ sở nghiên cứu, sản xuất, sửa chữa lớn, cải tiến, hiện đại hoá vũ khí, trang bị kỹ thuật quân sự, vật tư kỹ thuật được Nhà nước đầu tư phục vụ quốc phòng, an ninh, làm nòng cốt xây dựng và phát triển công nghiệp quốc phòng do Bộ Quốc phòng trực tiếp quản lý (sau đây gọi chung là cơ sở công nghiệp quốc phòng nòng cốt);"
+ENTITY,E40_12,DIEM,Điểm,structure,4751,4949,b) Cơ sở sản xuất công nghiệp được Nhà nước đầu tư xây dựng năng lực sản xuất phục vụ quốc phòng theo quy định của pháp luật động viên công nghiệp (sau đây gọi chung là cơ sở công nghiệp động viên).
+ENTITY,E40_13,DIEM,Điểm,structure,7612,7808,"a) Khai thác, sử dụng có hiệu quả mọi tiềm năng và nguồn lực của đất nước để xây dựng và phát triển công nghiệp quốc phòng; bảo đảm vũ khí, trang bị kỹ thuật quân sự ngày càng hiện đại, tiên tiến;"
+ENTITY,E40_14,DIEM,Điểm,structure,7809,7903,"b) Bảo đảm cân đối, đồng bộ, có quy mô hợp lý, được bố trí phù hợp tại các địa bàn chiến lược;"
+ENTITY,E40_15,DIEM,Điểm,structure,7904,7980,"c) Phù hợp với quy hoạch, kế hoạch phát triển kinh tế - xã hội của đất nước."
+ENTITY,E40_16,DIEM,Điểm,structure,8078,8163,"a) Nhiệm vụ quốc phòng, an ninh và nhiệm vụ phát triển kinh tế - xã hội của đất nước;"
+ENTITY,E40_17,DIEM,Điểm,structure,8164,8252,"b) Chiến lược bảo đảm vũ khí, trang bị kỹ thuật quân sự cho lực lượng vũ trang nhân dân;"
+ENTITY,E40_18,DIEM,Điểm,structure,8253,8410,"c) Quy hoạch, kế hoạch phát triển công nghiệp quốc gia, khả năng cân đối các nguồn lực đầu tư của Nhà nước cho xây dựng và phát triển công nghiệp quốc phòng."
+ENTITY,E40_19,DIEM,Điểm,structure,8498,8561,"a) Xác định mục tiêu, nhiệm vụ, chương trình, dự án trọng điểm;"
+ENTITY,E40_20,DIEM,Điểm,structure,8562,8611,b) Tổ chức hệ thống cơ sở công nghiệp quốc phòng;
+ENTITY,E40_21,DIEM,Điểm,structure,8612,8677,"c) Cân đối các nguồn lực, điều kiện bảo đảm, giải pháp thực hiện."
+ENTITY,E40_22,DIEM,Điểm,structure,10092,10114,a) Ngân sách nhà nước;
+ENTITY,E40_23,DIEM,Điểm,structure,10115,10188,b) Quỹ phát triển sản xuất của các cơ sở công nghiệp quốc phòng nòng cốt;
+ENTITY,E40_24,DIEM,Điểm,structure,10189,10298,"c) Đầu tư từ các tổ chức, cá nhân trong và ngoài nước tham gia xây dựng và phát triển công nghiệp quốc phòng."
+ENTITY,E40_25,DIEM,Điểm,structure,10754,10947,"a) Những người có ngành nghề và trình độ chuyên môn phù hợp với nhu cầu sử dụng, đủ tiêu chuẩn về phẩm chất, đạo đức, sức khỏe, có nguyện vọng và được cơ quan, tổ chức có thẩm quyền tuyển dụng;"
+ENTITY,E40_26,DIEM,Điểm,structure,10948,11117,"b) Cán bộ, công chức và công nhân trong và ngoài quân đội được cấp có thẩm quyền điều động vào phục vụ trong tình trạng chiến tranh và tình trạng khẩn cấp về quốc phòng;"
+ENTITY,E40_27,DIEM,Điểm,structure,11118,11139,c) Lao động hợp đồng.
+ENTITY,E40_28,DIEM,Điểm,structure,12994,13187,"a) Ưu tiên đầu tư xây dựng và phát triển kết cấu hạ tầng, nguồn lực, ngành nghề mũi nhọn và đặc thù của công nghiệp quốc phòng, công nghệ lưỡng dụng vừa phục vụ quốc phòng, vừa phục vụ kinh tế;"
+ENTITY,E40_29,DIEM,Điểm,structure,13188,13402,"b) Chính sách ưu đãi và hỗ trợ đầu tư đối với lĩnh vực sản xuất vật liệu mới, sản phẩm công nghệ cao; xây dựng và phát triển kết cấu hạ tầng của dự án quan trọng trên địa bàn có điều kiện kinh tế - xã hội khó khăn."
+ENTITY,E40_30,DIEM,Điểm,structure,13506,13645,"a) Chế độ, chính sách về tiền lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hộ lao động và các chế độ ưu đãi khác theo quy định của pháp luật;"
+ENTITY,E40_31,DIEM,Điểm,structure,13646,13783,"b) Đào tạo, bồi dưỡng, nâng cao trình độ, kiến thức chuyên môn, nghiệp vụ, tay nghề tại các trường trong, ngoài quân đội và ở nước ngoài;"
+ENTITY,E40_32,DIEM,Điểm,structure,13784,13902,"c) Chế độ, chính sách theo quy định của pháp luật trong trường hợp bị thương hoặc bị chết khi đang thực hiện nhiệm vụ."
+ENTITY,E40_33,DIEM,Điểm,structure,14044,14138,a) Các chính sách theo quy định của pháp luật khi chuẩn bị và thực hành động viên công nghiệp;
+ENTITY,E40_34,DIEM,Điểm,structure,14139,14250,"b) Ưu đãi về thuế, chế độ, chính sách hỗ trợ theo quy định của pháp luật khi tham gia sản xuất hàng quốc phòng."
+ENTITY,E40_35,DIEM,Điểm,structure,14251,14313,c) Hỗ trợ ngân sách để đầu tư hoàn thiện công nghệ lưỡng dụng.
+ENTITY,E42_1,VB_THAY_THE,Văn bản thay thế,reference,18059,18136,"Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp số 38/2024/QH15"
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E25_1,E2_1,,
+RELATION,R13_2,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E25_2,E2_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E42_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_1,E38_3,,
+RELATION,R22_5,THUOC,Thuộc,E39_2,E38_3,,
+RELATION,R22_6,THUOC,Thuộc,E40_1,E39_2,,
+RELATION,R22_7,THUOC,Thuộc,E40_2,E39_2,,
+RELATION,R22_8,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_3,E38_4,,
+RELATION,R22_10,THUOC,Thuộc,E39_4,E38_4,,
+RELATION,R22_11,THUOC,Thuộc,E39_5,E38_4,,
+RELATION,R22_12,THUOC,Thuộc,E39_6,E38_4,,
+RELATION,R22_13,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_14,THUOC,Thuộc,E39_7,E38_5,,
+RELATION,R22_15,THUOC,Thuộc,E40_3,E39_7,,
+RELATION,R22_16,THUOC,Thuộc,E40_4,E39_7,,
+RELATION,R22_17,THUOC,Thuộc,E40_5,E39_7,,
+RELATION,R22_18,THUOC,Thuộc,E40_6,E39_7,,
+RELATION,R22_19,THUOC,Thuộc,E39_8,E38_5,,
+RELATION,R22_20,THUOC,Thuộc,E40_7,E39_8,,
+RELATION,R22_21,THUOC,Thuộc,E40_8,E39_8,,
+RELATION,R22_22,THUOC,Thuộc,E40_9,E39_8,,
+RELATION,R22_23,THUOC,Thuộc,E40_10,E39_8,,
+RELATION,R22_24,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_25,THUOC,Thuộc,E39_9,E38_6,,
+RELATION,R22_26,THUOC,Thuộc,E39_10,E38_6,,
+RELATION,R22_27,THUOC,Thuộc,E39_11,E38_6,,
+RELATION,R22_28,THUOC,Thuộc,E39_12,E38_6,,
+RELATION,R22_29,THUOC,Thuộc,E39_13,E38_6,,
+RELATION,R22_30,THUOC,Thuộc,E39_14,E38_6,,
+RELATION,R22_31,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_32,THUOC,Thuộc,E39_15,E38_7,,
+RELATION,R22_33,THUOC,Thuộc,E40_11,E39_15,,
+RELATION,R22_34,THUOC,Thuộc,E40_12,E39_15,,
+RELATION,R22_35,THUOC,Thuộc,E39_16,E38_7,,
+RELATION,R22_36,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_37,THUOC,Thuộc,E39_17,E38_8,,
+RELATION,R22_38,THUOC,Thuộc,E39_18,E38_8,,
+RELATION,R22_39,THUOC,Thuộc,E39_19,E38_8,,
+RELATION,R22_40,THUOC,Thuộc,E39_20,E38_8,,
+RELATION,R22_41,THUOC,Thuộc,E39_21,E38_8,,
+RELATION,R22_42,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_43,THUOC,Thuộc,E39_22,E38_9,,
+RELATION,R22_44,THUOC,Thuộc,E39_23,E38_9,,
+RELATION,R22_45,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_46,THUOC,Thuộc,E39_24,E38_10,,
+RELATION,R22_47,THUOC,Thuộc,E39_25,E38_10,,
+RELATION,R22_48,THUOC,Thuộc,E39_26,E38_10,,
+RELATION,R22_49,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_50,THUOC,Thuộc,E39_27,E38_11,,
+RELATION,R22_51,THUOC,Thuộc,E39_28,E38_11,,
+RELATION,R22_52,THUOC,Thuộc,E38_12,E35_3,,
+RELATION,R22_53,THUOC,Thuộc,E39_29,E38_12,,
+RELATION,R22_54,THUOC,Thuộc,E40_13,E39_29,,
+RELATION,R22_55,THUOC,Thuộc,E40_14,E39_29,,
+RELATION,R22_56,THUOC,Thuộc,E40_15,E39_29,,
+RELATION,R22_57,THUOC,Thuộc,E39_30,E38_12,,
+RELATION,R22_58,THUOC,Thuộc,E40_16,E39_30,,
+RELATION,R22_59,THUOC,Thuộc,E40_17,E39_30,,
+RELATION,R22_60,THUOC,Thuộc,E40_18,E39_30,,
+RELATION,R22_61,THUOC,Thuộc,E39_31,E38_12,,
+RELATION,R22_62,THUOC,Thuộc,E40_19,E39_31,,
+RELATION,R22_63,THUOC,Thuộc,E40_20,E39_31,,
+RELATION,R22_64,THUOC,Thuộc,E40_21,E39_31,,
+RELATION,R22_65,THUOC,Thuộc,E38_13,E35_3,,
+RELATION,R22_66,THUOC,Thuộc,E39_32,E38_13,,
+RELATION,R22_67,THUOC,Thuộc,E39_33,E38_13,,
+RELATION,R22_68,THUOC,Thuộc,E38_14,E35_3,,
+RELATION,R22_69,THUOC,Thuộc,E38_15,E35_3,,
+RELATION,R22_70,THUOC,Thuộc,E38_16,E35_4,,
+RELATION,R22_71,THUOC,Thuộc,E39_34,E38_16,,
+RELATION,R22_72,THUOC,Thuộc,E40_22,E39_34,,
+RELATION,R22_73,THUOC,Thuộc,E40_23,E39_34,,
+RELATION,R22_74,THUOC,Thuộc,E40_24,E39_34,,
+RELATION,R22_75,THUOC,Thuộc,E39_35,E38_16,,
+RELATION,R22_76,THUOC,Thuộc,E39_36,E38_16,,
+RELATION,R22_77,THUOC,Thuộc,E38_17,E35_4,,
+RELATION,R22_78,THUOC,Thuộc,E39_37,E38_17,,
+RELATION,R22_79,THUOC,Thuộc,E40_25,E39_37,,
+RELATION,R22_80,THUOC,Thuộc,E40_26,E39_37,,
+RELATION,R22_81,THUOC,Thuộc,E40_27,E39_37,,
+RELATION,R22_82,THUOC,Thuộc,E39_38,E38_17,,
+RELATION,R22_83,THUOC,Thuộc,E38_18,E35_4,,
+RELATION,R22_84,THUOC,Thuộc,E39_39,E38_18,,
+RELATION,R22_85,THUOC,Thuộc,E39_40,E38_18,,
+RELATION,R22_86,THUOC,Thuộc,E39_41,E38_18,,
+RELATION,R22_87,THUOC,Thuộc,E38_19,E35_4,,
+RELATION,R22_88,THUOC,Thuộc,E39_42,E38_19,,
+RELATION,R22_89,THUOC,Thuộc,E39_43,E38_19,,
+RELATION,R22_90,THUOC,Thuộc,E38_20,E35_4,,
+RELATION,R22_91,THUOC,Thuộc,E39_44,E38_20,,
+RELATION,R22_92,THUOC,Thuộc,E39_45,E38_20,,
+RELATION,R22_93,THUOC,Thuộc,E38_21,E35_5,,
+RELATION,R22_94,THUOC,Thuộc,E39_46,E38_21,,
+RELATION,R22_95,THUOC,Thuộc,E40_28,E39_46,,
+RELATION,R22_96,THUOC,Thuộc,E40_29,E39_46,,
+RELATION,R22_97,THUOC,Thuộc,E39_47,E38_21,,
+RELATION,R22_98,THUOC,Thuộc,E40_30,E39_47,,
+RELATION,R22_99,THUOC,Thuộc,E40_31,E39_47,,
+RELATION,R22_100,THUOC,Thuộc,E40_32,E39_47,,
+RELATION,R22_101,THUOC,Thuộc,E38_22,E35_5,,
+RELATION,R22_102,THUOC,Thuộc,E39_48,E38_22,,
+RELATION,R22_103,THUOC,Thuộc,E40_33,E39_48,,
+RELATION,R22_104,THUOC,Thuộc,E40_34,E39_48,,
+RELATION,R22_105,THUOC,Thuộc,E40_35,E39_48,,
+RELATION,R22_106,THUOC,Thuộc,E39_49,E38_22,,
+RELATION,R22_107,THUOC,Thuộc,E38_23,E35_5,,
+RELATION,R22_108,THUOC,Thuộc,E39_50,E38_23,,
+RELATION,R22_109,THUOC,Thuộc,E39_51,E38_23,,
+RELATION,R22_110,THUOC,Thuộc,E39_52,E38_23,,
+RELATION,R22_111,THUOC,Thuộc,E38_24,E35_6,,
+RELATION,R22_112,THUOC,Thuộc,E39_53,E38_24,,
+RELATION,R22_113,THUOC,Thuộc,E39_54,E38_24,,
+RELATION,R22_114,THUOC,Thuộc,E39_55,E38_24,,
+RELATION,R22_115,THUOC,Thuộc,E39_56,E38_24,,
+RELATION,R22_116,THUOC,Thuộc,E39_57,E38_24,,
+RELATION,R22_117,THUOC,Thuộc,E39_58,E38_24,,
+RELATION,R22_118,THUOC,Thuộc,E38_25,E35_6,,
+RELATION,R22_119,THUOC,Thuộc,E39_59,E38_25,,
+RELATION,R22_120,THUOC,Thuộc,E39_60,E38_25,,
+RELATION,R22_121,THUOC,Thuộc,E39_61,E38_25,,
+RELATION,R22_122,THUOC,Thuộc,E39_62,E38_25,,
+RELATION,R22_123,THUOC,Thuộc,E38_26,E35_7,,
+RELATION,R22_124,THUOC,Thuộc,E38_27,E35_7,,

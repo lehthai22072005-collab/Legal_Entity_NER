@@ -1,0 +1,25 @@
+# Only runtime files enter the image; no datasets, environments or credentials.
+**
+!Dockerfile
+!requirements-docker.txt
+!app.py
+!src/
+!src/**
+!scripts/
+!scripts/predict.py
+!scripts/smoke_test.py
+!configs/
+!configs/ontology.json
+!resources/
+!resources/phobert-base/
+!resources/phobert-base/**
+!checkpoints/
+!checkpoints/phobert_span_all369_v1/
+!checkpoints/phobert_span_all369_v1/**
+!reports/
+!reports/phobert_span_all369_v1/
+!reports/phobert_span_all369_v1/ACCEPTANCE_SNAPSHOT.json
+**/__pycache__/
+**/*.pyc
+**/.env
+**/.env.*

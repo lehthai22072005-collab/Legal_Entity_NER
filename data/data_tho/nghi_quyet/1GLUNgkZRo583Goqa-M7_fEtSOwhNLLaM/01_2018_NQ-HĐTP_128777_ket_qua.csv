@@ -1,0 +1,101 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,289,395,"NGHỊ QUYẾT
+Hướng dẫn áp dụng Điều 66 và Điều 106 của Bộ luật Hình sự
+về tha tù trước thời hạn có điều kiện"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,240,255,01/2018/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,289,299,NGHỊ QUYẾT
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,264,288,ngày 24 tháng 4 năm 2018
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,12151,12165,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,11518,11542,ngày 09 tháng 6 năm 2018
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,12189,12201,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,150,173,TÒA ÁN NHÂN DÂN TỐI CAO
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,12054,12062,CHÁNH ÁN
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,12071,12086,Nguyễn Hòa Bình
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,471,525,Luật Tổ chức Tòa án nhân dân ngày 24 tháng 11 năm 2014
+ENTITY,E38_1,DIEU,Điều,structure,801,843,Điều 1. Tha tù trước thời hạn có điều kiện
+ENTITY,E38_2,DIEU,Điều,structure,1093,1273,"Điều 2. Điều kiện tha tù trước thời hạn có điều kiện đối với người đang chấp hành án phạt tù về tội phạm nghiêm trọng, tội phạm rất nghiêm trọng hoặc tội phạm đặc biệt nghiêm trọng"
+ENTITY,E38_3,DIEU,Điều,structure,7270,7390,Điều 3. Điều kiện tha tù trước thời hạn có điều kiện đối với người đang chấp hành án phạt tù về tội phạm ít nghiêm trọng
+ENTITY,E38_4,DIEU,Điều,structure,7671,7776,Điều 4. Điều kiện tha tù trước thời hạn có điều kiện đối với người dưới 18 tuổi đang chấp hành án phạt tù
+ENTITY,E38_5,DIEU,Điều,structure,8116,8176,Điều 5. Hủy bỏ quyết định tha tù trước thời hạn có điều kiện
+ENTITY,E38_6,DIEU,Điều,structure,10343,10389,Điều 6. Điều kiện rút ngắn thời gian thử thách
+ENTITY,E38_7,DIEU,Điều,structure,10877,10917,Điều 7. Mức rút ngắn thời gian thử thách
+ENTITY,E38_8,DIEU,Điều,structure,11358,11383,Điều 8. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,1538,1584,1. Đã được giảm thời hạn chấp hành án phạt tù.
+ENTITY,E39_2,KHOAN,Khoản,structure,1585,1605,2. Phạm tội lần đầu.
+ENTITY,E39_3,KHOAN,Khoản,structure,2000,2284,"3. Có nhiều tiến bộ, có ý thức cải tạo tốt thể hiện ở việc chấp hành tốt Nội quy trại giam, trại tạm giam, nhà tạm giữ; tích cực học tập, lao động cải tạo và phải có đủ kỳ xếp loại chấp hành án phạt tù từ khá trở lên theo quy định của pháp luật về thi hành án hình sự, cụ thể như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,4106,4131,4. Có nơi cư trú rõ ràng.
+ENTITY,E39_5,KHOAN,Khoản,structure,4374,4472,"5. Đã chấp hành xong hình phạt bổ sung là hình phạt tiền, án phí và nghĩa vụ bồi thường thiệt hại."
+ENTITY,E39_6,KHOAN,Khoản,structure,5157,5323,6. Đã chấp hành được ít nhất một phần hai mức phạt tù có thời hạn; ít nhất là 15 năm đối với trường hợp bị phạt tù chung thân nhưng đã được giảm xuống tù có thời hạn.
+ENTITY,E39_7,KHOAN,Khoản,structure,6908,7269,"7. Khi xét tha tù trước thời hạn có điều kiện phải xem xét thận trọng, chặt chẽ để bảo đảm việc tha tù trước thời hạn có điều kiện không ảnh hưởng đến an ninh, trật tự an toàn xã hội, đặc biệt là đối với các trường hợp phạm tội về ma túy, tham nhũng, phạm tội có tổ chức, các đối tượng chủ mưu, cầm đầu, chỉ huy, ngoan cố, chống đối, côn đồ, tái phạm nguy hiểm."
+ENTITY,E39_8,KHOAN,Khoản,structure,7979,8064,"1. Có các điều kiện được hướng dẫn tại các khoản 2, 3 và 4 Điều 2 của Nghị quyết này."
+ENTITY,E39_9,KHOAN,Khoản,structure,8065,8115,2. Đã chấp hành được một phần ba thời hạn phạt tù.
+ENTITY,E39_10,KHOAN,Khoản,structure,8177,8571,"1. Trong thời gian thử thách, theo đề nghị của Cơ quan thi hành án hình sự có thẩm quyền, Tòa án đã ra quyết định tha tù trước thời hạn có điều kiện có thể hủy bỏ quyết định này đối với người được tha tù trước thời hạn có điều kiện và buộc họ phải chấp hành phần hình phạt tù còn lại chưa chấp hành, nếu họ cố ý vi phạm nghĩa vụ 02 lần trở lên hoặc bị xử phạt vi phạm hành chính 02 lần trở lên."
+ENTITY,E39_11,KHOAN,Khoản,structure,8572,8650,2. Bị coi là cố ý vi phạm nghĩa vụ nếu thuộc một trong các trường hợp sau đây:
+ENTITY,E39_12,KHOAN,Khoản,structure,10497,10559,1. Đã chấp hành được ít nhất một phần hai thời gian thử thách;
+ENTITY,E39_13,KHOAN,Khoản,structure,10560,10876,"2. Có nhiều tiến bộ được thể hiện bằng việc trong thời gian thử thách, người được tha tù trước thời hạn có điều kiện đã chấp hành nghiêm pháp luật, các nghĩa vụ; tích cực học tập, lao động, sửa chữa lỗi lầm và lập thành tích trong lao động sản xuất, bảo vệ an ninh Tổ quốc… được cơ quan cấp tỉnh trở lên khen thưởng."
+ENTITY,E39_14,KHOAN,Khoản,structure,11384,11543,1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 24 tháng 4 năm 2018 và có hiệu lực thi hành kể từ ngày 09 tháng 6 năm 2018.
+ENTITY,E39_15,KHOAN,Khoản,structure,11544,11849,"2. Kể từ ngày Nghị quyết này được thông qua, Tòa án nhân dân các tỉnh, thành phố trực thuộc trung ương, Tòa án quân sự quân khu và tương đương phối hợp với các cơ quan có thẩm quyền chuẩn bị các điều kiện cần thiết để thực hiện việc xét tha tù trước thời hạn có điều kiện theo đúng quy định của pháp luật."
+ENTITY,E39_16,KHOAN,Khoản,structure,11850,12030,"3. Trong quá trình thực hiện nếu có vướng mắc đề nghị phản ánh cho Tòa án nhân dân tối cao (thông qua Vụ Pháp chế và Quản lý khoa học) để có hướng dẫn, sửa đổi, bổ sung kịp thời./."
+ENTITY,E40_1,DIEM,Điểm,structure,1697,1731,a) Trước đó chưa phạm tội lần nào;
+ENTITY,E40_2,DIEM,Điểm,structure,1732,1810,b) Trước đó đã thực hiện hành vi phạm tội nhưng được miễn trách nhiệm hình sự;
+ENTITY,E40_3,DIEM,Điểm,structure,1811,1921,c) Trước đó đã thực hiện hành vi phạm tội nhưng được áp dụng biện pháp tư pháp giáo dục tại trường giáo dưỡng;
+ENTITY,E40_4,DIEM,Điểm,structure,1922,1999,d) Trước đó đã bị kết án nhưng thuộc trường hợp được coi là không có án tích.
+ENTITY,E40_5,DIEM,Điểm,structure,2285,2513,"a) Người đang chấp hành án phạt tù chung thân đã được giảm xuống tù có thời hạn phải có ít nhất 20 quý liên tục liền kề thời điểm xét, đề nghị tha tù trước thời hạn có điều kiện được xếp loại chấp hành án phạt tù từ khá trở lên."
+ENTITY,E40_6,DIEM,Điểm,structure,2514,2720,"b) Người đang chấp hành án phạt tù trên 20 năm đến 30 năm phải có ít nhất 16 quý liên tục liền kề thời điểm xét, đề nghị tha tù trước thời hạn có điều kiện được xếp loại chấp hành án phạt tù từ khá trở lên."
+ENTITY,E40_7,DIEM,Điểm,structure,2721,2927,"c) Người đang chấp hành án phạt tù trên 15 năm đến 20 năm phải có ít nhất 12 quý liên tục liền kề thời điểm xét, đề nghị tha tù trước thời hạn có điều kiện được xếp loại chấp hành án phạt tù từ khá trở lên."
+ENTITY,E40_8,DIEM,Điểm,structure,2928,3134,"d) Người đang chấp hành án phạt tù trên 10 năm đến 15 năm phải có ít nhất 08 quý liên tục liền kề thời điểm xét, đề nghị tha tù trước thời hạn có điều kiện được xếp loại chấp hành án phạt tù từ khá trở lên."
+ENTITY,E40_9,DIEM,Điểm,structure,3135,3341,"đ) Người đang chấp hành án phạt tù trên 05 năm đến 10 năm phải có ít nhất 06 quý liên tục liền kề thời điểm xét, đề nghị tha tù trước thời hạn có điều kiện được xếp loại chấp hành án phạt tù từ khá trở lên."
+ENTITY,E40_10,DIEM,Điểm,structure,3342,3548,"e) Người đang chấp hành án phạt tù trên 03 năm đến 05 năm phải có ít nhất 04 quý liên tục liền kề thời điểm xét, đề nghị tha tù trước thời hạn có điều kiện được xếp loại chấp hành án phạt tù từ khá trở lên."
+ENTITY,E40_11,DIEM,Điểm,structure,3549,3752,"g) Người đang chấp hành án phạt tù từ 03 năm trở xuống phải có ít nhất 02 quý liên tục liền kề thời điểm xét, đề nghị tha tù trước thời hạn có điều kiện được xếp loại chấp hành án phạt tù từ khá trở lên."
+ENTITY,E40_12,DIEM,Điểm,structure,4473,4698,"a) Đã chấp hành xong hình phạt bổ sung là hình phạt tiền và án phí là đã nộp đầy đủ các khoản tiền phạt và án phí thể hiện ở các biên lai, chứng từ hoặc có quyết định miễn chấp hành hình phạt tiền, miễn nộp án phí của Tòa án."
+ENTITY,E40_13,DIEM,Điểm,structure,4699,5156,"b) Đã chấp hành xong nghĩa vụ bồi thường thiệt hại là một trong các trường hợp: Đã thực hiện xong nghĩa vụ bồi thường thiệt hại theo bản án, quyết định của Tòa án; có quyết định đình chỉ thi hành án của Thủ trưởng cơ quan thi hành án dân sự có thẩm quyền; có thỏa thuận bằng văn bản của bị hại hoặc đại diện hợp pháp của bị hại về việc không phải thi hành nghĩa vụ bồi thường thiệt hại theo bản án, quyết định của Tòa án được cơ quan có thẩm quyền xác nhận."
+ENTITY,E40_14,DIEM,Điểm,structure,5324,5792,"a) Thời gian đã chấp hành án phạt tù là thời gian người đó bị tạm giữ, tạm giam, chấp hành án phạt tù trong các cơ sở giam giữ hoặc thời gian người đó bị bắt buộc chữa bệnh trong giai đoạn điều tra, truy tố, xét xử, thi hành án, không kể thời gian được tại ngoại, được hoãn, tạm đình chỉ và thời gian được giảm thời hạn chấp hành án phạt tù. Thời gian đã được giảm thời hạn chấp hành án phạt tù (nếu có) được tính để trừ vào phần thời hạn chấp hành án phạt tù còn lại."
+ENTITY,E40_15,DIEM,Điểm,structure,6047,6462,"b) Trường hợp người đang chấp hành án phạt tù là người có công với cách mạng, thân nhân của người có công với cách mạng, người đủ 70 tuổi trở lên, người khuyết tật nặng hoặc khuyết tật đặc biệt nặng, phụ nữ đang nuôi con dưới 36 tháng tuổi thì phải chấp hành được ít nhất là một phần ba mức phạt tù có thời hạn hoặc ít nhất là 12 năm đối với trường hợp bị phạt tù chung thân nhưng đã được giảm xuống tù có thời hạn."
+ENTITY,E40_16,DIEM,Điểm,structure,8651,8875,"a) Không trình diện Ủy ban nhân dân, Công an nhân dân cấp xã nơi về cư trú và không đăng ký tạm trú, thường trú theo quy định của pháp luật về cư trú trong thời hạn 05 ngày kể từ ngày được tha tù trước thời hạn có điều kiện."
+ENTITY,E40_17,DIEM,Điểm,structure,8876,9106,"b) Không chấp hành nghiêm chỉnh cam kết của mình trong việc tuân thủ pháp luật, thực hiện đầy đủ nghĩa vụ công dân, nội quy, quy chế nơi cư trú, làm việc; không tham gia lao động, học tập; không chấp hành đầy đủ hình phạt bổ sung."
+ENTITY,E40_18,DIEM,Điểm,structure,9107,9393,"c) Không chấp hành sự quản lý, giám sát, giáo dục của Ủy ban nhân dân cấp xã, đơn vị quân đội được giao quản lý, Cơ quan thi hành án hình sự Công an cấp huyện, Cơ quan thi hành án hình sự cấp quân khu nơi cư trú, làm việc và người được cơ quan có thẩm quyền phân công quản lý, giáo dục."
+ENTITY,E40_19,DIEM,Điểm,structure,9394,9695,"d) Khi đi khỏi nơi cư trú không xin phép hoặc không được sự đồng ý của cơ quan có thẩm quyền. Đi khỏi địa bàn cư trú trong thời gian 03 ngày mà không được sự đồng ý của người được giao trực tiếp quản lý, giáo dục; đi khỏi địa bàn cư trú trên 03 ngày mà không được sự đồng ý của Ủy ban nhân dân cấp xã."
+ENTITY,E40_20,DIEM,Điểm,structure,9696,9900,"đ) Không có mặt theo yêu cầu của Ủy ban nhân dân cấp xã, đơn vị quân đội được giao quản lý, Cơ quan thi hành án hình sự Công an cấp huyện, Cơ quan thi hành án hình sự cấp quân khu nơi về cư trú, làm việc."
+ENTITY,E40_21,DIEM,Điểm,structure,9901,10037,"e) Hàng tháng không báo cáo với người được phân công quản lý, giáo dục về tình hình học tập, lao động, rèn luyện và sự tiến bộ của mình."
+ENTITY,E40_22,DIEM,Điểm,structure,10038,10342,"g) Định kỳ 03 tháng không báo cáo bằng văn bản việc chấp hành các quy định đối với người được tha tù trước thời hạn có điều kiện với Ủy ban nhân dân cấp xã, đơn vị quân đội được giao quản lý, Cơ quan thi hành án hình sự Công an cấp huyện, cơ quan thi hành án hình sự cấp quân khu nơi về cư trú, làm việc."
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_3,THUOC,Thuộc,E40_1,E39_2,,
+RELATION,R22_4,THUOC,Thuộc,E40_2,E39_2,,
+RELATION,R22_5,THUOC,Thuộc,E40_3,E39_2,,
+RELATION,R22_6,THUOC,Thuộc,E40_4,E39_2,,
+RELATION,R22_7,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_8,THUOC,Thuộc,E40_5,E39_3,,
+RELATION,R22_9,THUOC,Thuộc,E40_6,E39_3,,
+RELATION,R22_10,THUOC,Thuộc,E40_7,E39_3,,
+RELATION,R22_11,THUOC,Thuộc,E40_8,E39_3,,
+RELATION,R22_12,THUOC,Thuộc,E40_9,E39_3,,
+RELATION,R22_13,THUOC,Thuộc,E40_10,E39_3,,
+RELATION,R22_14,THUOC,Thuộc,E40_11,E39_3,,
+RELATION,R22_15,THUOC,Thuộc,E39_4,E38_2,,
+RELATION,R22_16,THUOC,Thuộc,E39_5,E38_2,,
+RELATION,R22_17,THUOC,Thuộc,E40_12,E39_5,,
+RELATION,R22_18,THUOC,Thuộc,E40_13,E39_5,,
+RELATION,R22_19,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,R22_20,THUOC,Thuộc,E40_14,E39_6,,
+RELATION,R22_21,THUOC,Thuộc,E40_15,E39_6,,
+RELATION,R22_22,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,R22_23,THUOC,Thuộc,E39_8,E38_4,,
+RELATION,R22_24,THUOC,Thuộc,E39_9,E38_4,,
+RELATION,R22_25,THUOC,Thuộc,E39_10,E38_5,,
+RELATION,R22_26,THUOC,Thuộc,E39_11,E38_5,,
+RELATION,R22_27,THUOC,Thuộc,E40_16,E39_11,,
+RELATION,R22_28,THUOC,Thuộc,E40_17,E39_11,,
+RELATION,R22_29,THUOC,Thuộc,E40_18,E39_11,,
+RELATION,R22_30,THUOC,Thuộc,E40_19,E39_11,,
+RELATION,R22_31,THUOC,Thuộc,E40_20,E39_11,,
+RELATION,R22_32,THUOC,Thuộc,E40_21,E39_11,,
+RELATION,R22_33,THUOC,Thuộc,E40_22,E39_11,,
+RELATION,R22_34,THUOC,Thuộc,E39_12,E38_6,,
+RELATION,R22_35,THUOC,Thuộc,E39_13,E38_6,,
+RELATION,R22_36,THUOC,Thuộc,E39_14,E38_8,,
+RELATION,R22_37,THUOC,Thuộc,E39_15,E38_8,,
+RELATION,R22_38,THUOC,Thuộc,E39_16,E38_8,,
+RELATION,R22_39,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_40,THUOC,Thuộc,E11_1,E10_1,,

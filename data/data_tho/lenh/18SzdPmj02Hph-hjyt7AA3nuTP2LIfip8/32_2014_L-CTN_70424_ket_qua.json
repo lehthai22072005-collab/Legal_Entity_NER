@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "document_id": "70424",
+  "document_code": "32/2014/L-CTN",
+  "file_name": "40_lenh_32_2014_70424.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "LỆNH\nVề việc công bố Luật",
+    "so_hieu": "32/2014/L-CTN",
+    "loai_van_ban": "LỆNH",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "ngày 09 tháng 12 năm 2014",
+    "ngay_co_hieu_luc": "ngày 09 tháng 12 năm 2014",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH",
+    "nguoi_ky": "Trương Tấn Sang",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 32/2014/L-CTN Công bố Luật sửa đổi, bổ sung một số điều của Luật sĩ quan Quân đội nhân dân Việt Nam\nCHỦ TỊCH NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nSố: 32/2014/L-CTN\nHà Nội, ngày 09 tháng 12 năm 2014\nLỆNH\nVề việc công bố Luật\n_________\nCHỦ TỊCH\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 88 và Điều 91 của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nCăn cứ Điều 91 của Luật tổ chức Quốc hội;\nCăn cứ Điều 57 của Luật ban hành văn bản quy phạm pháp luật,\nNAY CÔNG BỐ\nLuật sửa đổi, bổ sung một số điều của Luật sĩ quan Quân đội nhân dân Việt Nam\nĐã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 27 tháng 11 năm 2014./.\nCHỦ TỊCH\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTrương Tấn Sang\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 30/2001/QH10\n[Căn cứ ban hành]: Hiến pháp năm 2013\n[Căn cứ ban hành]: Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12\n[Văn bản được quy định chi tiết, hướng dẫn thi hành]: Hiến pháp năm 2013\n[Văn bản được quy định chi tiết, hướng dẫn thi hành]: Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 237,
+      "end": 262,
+      "text": "LỆNH\nVề việc công bố Luật",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 21,
+      "text": "32/2014/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 237,
+      "end": 241,
+      "text": "LỆNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 211,
+      "end": 236,
+      "text": "ngày 09 tháng 12 năm 2014",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 845,
+      "end": 859,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 211,
+      "end": 236,
+      "text": "ngày 09 tháng 12 năm 2014",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 883,
+      "end": 895,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 108,
+      "end": 121,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 716,
+      "end": 724,
+      "text": "CHỦ TỊCH",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 765,
+      "end": 780,
+      "text": "Trương Tấn Sang",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E14_1",
+      "start": 1121,
+      "end": 1139,
+      "text": "Hiến pháp năm 2013",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E14_2",
+      "start": 1194,
+      "end": 1250,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E18_1",
+      "start": 518,
+      "end": 595,
+      "text": "Luật sửa đổi, bổ sung một số điều của Luật sĩ quan Quân đội nhân dân Việt Nam",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 352,
+      "end": 401,
+      "text": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 422,
+      "end": 443,
+      "text": "Luật tổ chức Quốc hội",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 464,
+      "end": 504,
+      "text": "Luật ban hành văn bản quy phạm pháp luật",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_4",
+      "start": 915,
+      "end": 952,
+      "text": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_5",
+      "start": 972,
+      "end": 990,
+      "text": "Hiến pháp năm 2013",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_6",
+      "start": 1010,
+      "end": 1066,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R2_1",
+      "from_id": "E14_1",
+      "to_id": "E2_1",
+      "code": "DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Được quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R2_2",
+      "from_id": "E14_2",
+      "to_id": "E2_1",
+      "code": "DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Được quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R6_1",
+      "from_id": "E18_1",
+      "to_id": "E2_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E19_3",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_4",
+      "from_id": "E19_4",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_5",
+      "from_id": "E19_5",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_6",
+      "from_id": "E19_6",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

@@ -1,0 +1,245 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,27,Pháp lệnh số Không số Thú y
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,28,37,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,25267,25277,1993-02-04
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,25423,25437,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,25298,25308,1993-02-15
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,25330,25340,2004-10-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,25364,25384,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,25224,25249,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,6010,6018,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,25397,25410,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,29706,29724,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,25457,25475,Hiến pháp năm 1992
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,28239,28304,Chỉ thị số 09/CT.UB V/v Triển khai tiêm phòng định kỳ cho gia súc
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,28326,28366,Lệnh số 07-L/CTN Công bố Pháp lệnh Thú y
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,28388,28484,Nghị định số 69/2001/NĐ-CP Quy định chi tiết thi hành Pháp lệnh Bảo vệ quyền lợi người tiêu dùng
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,28506,28631,Chỉ thị số 10/CT-UB V/v chấn chính công tác kiểm soát giết mổ động vật và kiểm tra vệ sinh thú y thực phẩm nguồn gốc động vật
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,28653,28898,"Chỉ thị số 08/1998/CT-UBND Về việc chấn chỉnh công tác kiểm soát giết mổ động vật, kiểm tra vệ sinh thú y thực phẩm có nguồn gốc động vật, lập lại trật tự kỷ cương trong hoạt động giết mổ, buôn bán động vật và sản phẩm động vật trên địa bàn tỉnh"
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,28920,29063,Quyết định số 1156/1998/QĐ-UB Về việc ban hành quy định phân công trách nhiệm quản lý Nhà nước về chất lượng hàng hoá trên địa bàn tỉnh Nghệ An
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,29085,29281,"Quyết định số 1230/1998/QĐ-UB Về việc ban hành Bản quy định, bảo vệ, phát triển nguồn lợi thuỷ sản, đăng kiểm tàu cá, thú y thuỷ sản, đăng ký chất lượng hàng hoá thuỷ sản trên địa bàn tỉnh Nghệ An"
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,29303,29400,Nghị định số 108/2008/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất
+ENTITY,E29_9,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,29422,29524,Quyết định số 54/2001/QĐ-BNN/TY Về việc ban hành quy định về phòng chống bệnh lở mồm long móng gia súc
+ENTITY,E29_10,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,29546,29651,Chỉ thị số 06-CT.UB Về việc chấn chỉnh kiểm soát giết mổ kiểm tra vệ sinh thú ý trên địa bàn tỉnh Nghệ An
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,25495,25646,"Quyết định số 1276/QĐ-NN Ban hành bản Quy định về kiểm soát giết mổ động vật, kiểm tra vệ sinh thú ý sản phẩm động vật trên địa bàn thành phố Hải Phòng"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,25666,25766,"Quyết định số 89/2003/QĐ-BNN Quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Cục Thú y"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,25786,25966,"Thông tư liên tịch số 17/2003/TTLT/BTC-BNN-BTS Hướng dẫn việc kiểm tra, giám sát hàng hoá xuất khẩu, nhập khẩu thuộc diện kiểm dịch động vật, kiểm dịch thực vật, kiểm dịch thuỷ sản"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,25986,26090,Quyết định số 08/1999/QĐ-BNN/TCCB Về hệ thống tổ chức Trạm Kiểm dịch động vật cửa khẩu tại Tỉnh Lạng sơn
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,26110,26245,Quyết định số 34/2001/QĐ-BNN-VP V/v ban hành Quy định về điều kiện kinh doanh trong một số lĩnh vực thuộc ngành trồng trọt và chăn nuôi
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,26265,26361,Quyết định số 3237/1998/QĐ-UB Về việc ban hành quy định về quản lý thuốc thú y trên địa bàn tỉnh
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,26381,26482,Quyết định số 276/QĐ-UBND Về việc ban hành Quy định về phòng chống dịch cúm gà trên địa bàn thành phố
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,26502,26671,"Quyết định số 40/2002/QĐ-BNN Về việc công bố Danh mục thuốc thú y được phép sản xuất, xuất khẩu, nhập khẩu, lưu hành, sử dụng và và hạn chế sử dụng tại Việt Nam năm 2002"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,26691,26806,Quyết định số 06/2006/QĐ-UBND Về việc ngưng thực hiện chính sách hỗ trợ chi phí dán tem kiểm dịch cho trứng gia cầm
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,26826,27071,"Quyết định số 12/2003/QĐ-UB Về việc sửa đổi, bổ sung điều 6 - Qui định vè tổ chức, hoạt động của Ban Thú y xã, phường, thị trấn trên địa bàn Thành phố Hà Nội, ban hành kèm theo Quyết định số 43/2000/QĐ-UB ngày 03/5/2000 của UBND Thành phố Hà Nội"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,27091,27194,"Quyết định số 1420/1998/QĐ-UB V/v Ban hành Quy định tiêm phòng bắt buộc văcxin đối với gia súc, gia cầm"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,27214,27320,Quyết định số 1526/QĐ-UB về việc ban hành quy chế vệ sinh thú y tại các cơ sở kinh doanh sản phẩm động vật
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,27340,27471,"Quyết định số 33/1998/QĐ-BNN-TY Về việc ban hành Quy định về nhập khẩu động vật, sản phẩm động vật từ các nước đang có bệnh bò điên"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,27491,27793,"Quyết định số 101/2000/QĐ-BNN-TY Ban hành Quy định về sắc phục, phù hiệu, cấp hiệu, biển hiệu, thẻ kiểm dịch động vật, thẻ kiểm tra vệ sinh thú y và chế độ cấp phát, sử dụng đối với bác sĩ kỹ thuật viên thú y làm công tác kiểm dịch, kiểm soát giết mổ, kiểm tra vệ sinh thú y động vật, sản phẩm động vật"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,27813,27979,"Quyết định số 144/2003/QĐ-UB Về kiểm soát giết mổ động vật, sản phẩm động vật và kiểm tra vệ sinh thú y thực phẩm có nguồn gốc động vật trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,27999,28103,"Thông tư số 53/2001/TT-BTC hướng dẫn chế độ thu, nộp và quản lý sử dụng phí, lệ phí trong công tác thú y"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,28123,28217,"Quyết định số 62/2002/QĐ-BNN Về việc ban hành quy định vùng, cơ sở an toàn dịch bệnh động vật."
+ENTITY,E31_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,29774,30076,"Quyết định số 101/2000/QĐ-BNN-TY Ban hành Quy định về sắc phục, phù hiệu, cấp hiệu, biển hiệu, thẻ kiểm dịch động vật, thẻ kiểm tra vệ sinh thú y và chế độ cấp phát, sử dụng đối với bác sĩ kỹ thuật viên thú y làm công tác kiểm dịch, kiểm soát giết mổ, kiểm tra vệ sinh thú y động vật, sản phẩm động vật"
+ENTITY,E31_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30126,30261,Quyết định số 34/2001/QĐ-BNN-VP V/v ban hành Quy định về điều kiện kinh doanh trong một số lĩnh vực thuộc ngành trồng trọt và chăn nuôi
+ENTITY,E35_1,CHUONG,Chương,structure,450,458,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,3080,3089,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,9452,9462,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,19140,19149,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,20818,20826,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,23077,23086,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,24943,24953,CHƯƠNG VII
+ENTITY,E38_1,DIEU,Điều,structure,480,486,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,775,781,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1852,1858,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,2120,2126,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,2248,2254,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,2709,2715,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,2959,2965,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,3128,3134,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,3647,3653,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,4201,4208,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,4500,4507,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,5231,5238,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,5780,5787,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,6493,6500,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,8009,8016,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,8443,8450,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,8679,8686,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,9114,9121,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,9503,9510,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,10038,10045,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,10479,10486,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,10998,11005,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,11542,11549,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,12007,12014,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,12287,12294,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,13164,13171,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,13803,13810,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,15085,15092,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,16424,16431,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,16886,16893,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,17140,17147,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,17578,17585,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,17796,17803,Điều 33
+ENTITY,E38_34,DIEU,Điều,structure,18491,18498,Điều 34
+ENTITY,E38_35,DIEU,Điều,structure,18965,18972,Điều 35
+ENTITY,E38_36,DIEU,Điều,structure,19162,19169,Điều 36
+ENTITY,E38_37,DIEU,Điều,structure,19493,19500,Điều 37
+ENTITY,E38_38,DIEU,Điều,structure,19649,19656,Điều 38
+ENTITY,E38_39,DIEU,Điều,structure,19991,19998,Điều 39
+ENTITY,E38_40,DIEU,Điều,structure,20450,20457,Điều 40
+ENTITY,E38_41,DIEU,Điều,structure,20862,20869,Điều 41
+ENTITY,E38_42,DIEU,Điều,structure,21833,21840,Điều 42
+ENTITY,E38_43,DIEU,Điều,structure,22374,22381,Điều 43
+ENTITY,E38_44,DIEU,Điều,structure,22597,22604,Điều 44
+ENTITY,E38_45,DIEU,Điều,structure,23116,23123,Điều 45
+ENTITY,E38_46,DIEU,Điều,structure,23462,23469,Điều 46
+ENTITY,E38_47,DIEU,Điều,structure,24228,24235,Điều 47
+ENTITY,E38_48,DIEU,Điều,structure,24711,24718,Điều 48
+ENTITY,E38_49,DIEU,Điều,structure,24975,24982,Điều 49
+ENTITY,E39_1,KHOAN,Khoản,structure,842,989,"1- Động vật bao gồm các loại thú, cầm; loài bò sát; loài thân giáp; ngành thân mềm và các loài cá, ong, tằm; trứng giống, tinh dịch; phôi động vật."
+ENTITY,E39_2,KHOAN,Khoản,structure,990,1063,"2- Sản phẩm động vật là thịt, các sản phẩm khác có nguồn gốc từ động vật."
+ENTITY,E39_3,KHOAN,Khoản,structure,1064,1192,"3- Thuốc thú y là chế phẩm có nguồn gốc từ động vật, thực vật, hoá chất; vắc-xin và các chế phẩm sinh học khác dùng trong thú y."
+ENTITY,E39_4,KHOAN,Khoản,structure,1193,1461,"4- Giống vi sinh vật dùng trong thú y gồm giống vi trùng, siêu vi trùng, ký sinh trùng, nấm mốc và một số loài vi sinh vật khác dùng để chẩn đoán, phòng bệnh và chữa bệnh cho động vật; thử nghiệm, sản xuất và kiểm nghiệm các loại thuốc phòng và chữa bệnh cho động vật."
+ENTITY,E39_5,KHOAN,Khoản,structure,1462,1626,"5- Đủ tiêu chuẩn vệ sinh thú y là đủ các điều kiện để bảo vệ và phát triển động vật, không gây hại cho sức khoẻ con người và không gây ô nhiễm môi trường sinh thái."
+ENTITY,E39_6,KHOAN,Khoản,structure,1627,1851,"6- Kiểm soát giết mổ động vật bao gồm việc kiểm tra tiêu chuẩn vệ sinh thú y đối với động vật trước và sau khi giết mổ, các điều kiện chăn nuôi, giết mổ, chế biến, bảo quản, lưu thông, vận chuyển, tiêu thụ sản phẩm động vật."
+ENTITY,E39_7,KHOAN,Khoản,structure,3191,3310,"1- Bảo đảm đủ tiêu chuẩn vệ sinh thú y tại các cơ sở chăn nuôi, chế biến thức ăn chăn nuôi, chế biến sản phẩm động vật;"
+ENTITY,E39_8,KHOAN,Khoản,structure,3311,3419,"2- Thực hiện các biện pháp phòng bệnh, chẩn đoán xác định bệnh, khống chế, tiêu diệt dịch bệnh cho động vật;"
+ENTITY,E39_9,KHOAN,Khoản,structure,3420,3646,"3- Thực hiện việc kiểm dịch động vật và sản phẩm động vật, kiểm soát giết mổ động vật và kiểm tra vệ sinh thú y thực phẩm có nguồn gốc từ động vật để phát hiện, ngăn chặn dịch bệnh lây lan và bảo đảm an toàn cho người sử dụng."
+ENTITY,E39_10,KHOAN,Khoản,structure,6714,6879,"1- Xác định và thông báo giới hạn vùng có dịch; quy định vành đai bảo vệ quanh vùng có dịch; đặt biển báo hiệu, trạm gác và hướng dẫn việc đi lại tránh vùng có dịch;"
+ENTITY,E39_11,KHOAN,Khoản,structure,6880,7211,"2- Cấm người không có nhiệm vụ vào nơi có động vật ốm hoặc chết; đưa vào hoặc mang ra khỏi vùng có dịch các loại thuộc đối tượng vệ sinh thú y; mổ thịt, lưu thông trong vùng có dịch những động vật, sản phẩm động vật dễ nhiễm bệnh dịch đã công bố; vận chuyển qua vùng có dịch những động vật thuộc loại dễ nhiễm bệnh dịch đã công bố;"
+ENTITY,E39_12,KHOAN,Khoản,structure,7212,7542,3- Khẩn cấp tổ chức tiêm phòng hoặc áp dụng các phương pháp phòng tránh khác cho toàn bộ động vật dễ nhiễm bệnh dịch đã công bố trong vùng có dịch và vành đai bảo vệ. Động vật ốm phải được chữa trị theo quy định của cơ quan thú y. Việc sử dụng các sản phẩm của động vật ốm phải tuân theo hướng dẫn của cơ quan thú y có thẩm quyền;
+ENTITY,E39_13,KHOAN,Khoản,structure,7543,7772,"4- Khử trùng, tiêu độc chuồng nuôi, nơi chăn thả động vật ốm, vật dùng cho chăn nuôi, chất thải và thực hiện các biện pháp vệ sinh thú y cần thiết khác trong vùng có dịch theo quy định của Bộ Nông nghiệp và Công nghiệp thực phẩm;"
+ENTITY,E39_14,KHOAN,Khoản,structure,7773,8008,5- Kịp thời báo cáo Chính phủ để Chính phủ có biện pháp đặc biệt dập tắt dịch bệnh trong trường hợp phát hiện dịch bệnh nguy hiểm mới xuất hiện hoặc sau khi thực hiện các biện pháp quy định tại Điều này mà không dập tắt được dịch bệnh.
+ENTITY,E39_15,KHOAN,Khoản,structure,8087,8232,1- Những động vật dễ nhiễm bệnh dịch đã công bố trong vùng có dịch và vành đai bảo vệ đã được tiêm phòng hoặc áp dụng các phương pháp phòng khác;
+ENTITY,E39_16,KHOAN,Khoản,structure,8397,8442,"3- Đã thực hiện tổng tẩy uế, tiêu độc ổ dịch."
+ENTITY,E39_17,KHOAN,Khoản,structure,10085,10118,1- Động vật và sản phẩm động vật;
+ENTITY,E39_18,KHOAN,Khoản,structure,10119,10164,2- Thức ăn chăn nuôi và môi trường chăn nuôi;
+ENTITY,E39_19,KHOAN,Khoản,structure,10165,10385,"3- Cơ sở chăn nuôi, giết mổ, chế biến, bảo quản, lưu thông động vật và sản phẩm động vật; các dụng cụ, phương tiện dùng để giết mổ, vật liệu bao bì, đóng gói, chứa đựng, lưu thông, vận chuyển động vật, sản phẩm động vật."
+ENTITY,E39_20,KHOAN,Khoản,structure,11116,11245,"1- Động vật xuất phát từ nơi không có dịch, khoẻ mạnh, đã được tiêm phòng hoặc áp dụng các biện pháp phòng khác và còn miễn dịch;"
+ENTITY,E39_21,KHOAN,Khoản,structure,11246,11400,"2- Sản phẩm động vật phải lấy từ động vật khoẻ mạnh, không mắc bệnh hoặc mang mầm bệnh nguy hiểm, được bao gói đúng quy định, đủ tiêu chuẩn vệ sinh thú y;"
+ENTITY,E39_22,KHOAN,Khoản,structure,11401,11541,"3- Phương tiện vận chuyển, dụng cụ chăn nuôi, dụng cụ chứa đựng sản phẩm động vật phải được khử trùng, tiêu độc trước và sau khi vận chuyển."
+ENTITY,E39_23,KHOAN,Khoản,structure,20924,20995,"1- Xây dựng và chỉ đạo thực hiện quy hoạch, kế hoạch về công tác thú y;"
+ENTITY,E39_24,KHOAN,Khoản,structure,20996,21066,"2- Quy định và tổ chức thực hiện các chế độ, thể lệ về công tác thú y;"
+ENTITY,E39_25,KHOAN,Khoản,structure,21067,21220,"3- Theo dõi, phát hiện, xác minh dịch bệnh; tổ chức chỉ đạo việc ngăn chặn, dập tắt dịch bệnh; định kỳ kiểm tra dịch bệnh ở các trung tâm giống vật nuôi;"
+ENTITY,E39_26,KHOAN,Khoản,structure,21221,21316,"4- Kiểm dịch động vật, sản phẩm động vật, kiểm soát giết mổ động vật và kiểm tra vệ sinh thú y;"
+ENTITY,E39_27,KHOAN,Khoản,structure,21317,21355,"5- Kiểm định, kiểm nghiệm thuốc thú y;"
+ENTITY,E39_28,KHOAN,Khoản,structure,21356,21456,"6- Cấp, thu hồi giấy chứng nhận kiểm dịch động vật; giấy chứng nhận có liên quan đến công tác thú y;"
+ENTITY,E39_29,KHOAN,Khoản,structure,21457,21567,"7- Kiểm tra, thanh tra việc chấp hành chế độ, thể lệ về công tác thú y và xử lý các vi phạm chế độ, thể lệ đó;"
+ENTITY,E39_30,KHOAN,Khoản,structure,21568,21633,"8- Giải quyết tranh chấp, khiếu nại, tố cáo trong lĩnh vực thú y;"
+ENTITY,E39_31,KHOAN,Khoản,structure,21634,21790,"9- Tuyên truyền, phổ biến kiến thức, vận động nhân dân tham gia công tác thú y; tổ chức nghiên cứu khoa học, đào tạo, bồi dưỡng nghiệp vụ về công tác thú y;"
+ENTITY,E39_32,KHOAN,Khoản,structure,21791,21832,10- Hợp tác quốc tế trong lĩnh vực thú y.
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,30282,30320,Pháp lệnh số 18/2004/PL-UBTVQH11 Thú y
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RDAN_CHIEU_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,RDAN_CHIEU_2,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,RDAN_CHIEU_3,DAN_CHIEU,Dẫn chiếu,E29_3,E2_1,,
+RELATION,RDAN_CHIEU_4,DAN_CHIEU,Dẫn chiếu,E29_4,E2_1,,
+RELATION,RDAN_CHIEU_5,DAN_CHIEU,Dẫn chiếu,E29_5,E2_1,,
+RELATION,RDAN_CHIEU_6,DAN_CHIEU,Dẫn chiếu,E29_6,E2_1,,
+RELATION,RDAN_CHIEU_7,DAN_CHIEU,Dẫn chiếu,E29_7,E2_1,,
+RELATION,RDAN_CHIEU_8,DAN_CHIEU,Dẫn chiếu,E29_8,E2_1,,
+RELATION,RDAN_CHIEU_9,DAN_CHIEU,Dẫn chiếu,E29_9,E2_1,,
+RELATION,RDAN_CHIEU_10,DAN_CHIEU,Dẫn chiếu,E29_10,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_1,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E31_2,E2_1,,
+RELATION,RTHAY_THE_1,THAY_THE,Thay thế,E43_1,E2_1,,
+RELATION,RTHUOC_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,RTHUOC_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,RTHUOC_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,RTHUOC_4,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,RTHUOC_5,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,RTHUOC_6,THUOC,Thuộc,E39_4,E38_2,,
+RELATION,RTHUOC_7,THUOC,Thuộc,E39_5,E38_2,,
+RELATION,RTHUOC_8,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,RTHUOC_9,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,RTHUOC_10,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,RTHUOC_11,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,RTHUOC_12,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,RTHUOC_13,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,RTHUOC_14,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,RTHUOC_15,THUOC,Thuộc,E39_7,E38_8,,
+RELATION,RTHUOC_16,THUOC,Thuộc,E39_8,E38_8,,
+RELATION,RTHUOC_17,THUOC,Thuộc,E39_9,E38_8,,
+RELATION,RTHUOC_18,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,RTHUOC_19,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,RTHUOC_20,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,RTHUOC_21,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,RTHUOC_22,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,RTHUOC_23,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,RTHUOC_24,THUOC,Thuộc,E39_10,E38_14,,
+RELATION,RTHUOC_25,THUOC,Thuộc,E39_11,E38_14,,
+RELATION,RTHUOC_26,THUOC,Thuộc,E39_12,E38_14,,
+RELATION,RTHUOC_27,THUOC,Thuộc,E39_13,E38_14,,
+RELATION,RTHUOC_28,THUOC,Thuộc,E39_14,E38_14,,
+RELATION,RTHUOC_29,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,RTHUOC_30,THUOC,Thuộc,E39_15,E38_15,,
+RELATION,RTHUOC_31,THUOC,Thuộc,E39_16,E38_15,,
+RELATION,RTHUOC_32,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,RTHUOC_33,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,RTHUOC_34,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,RTHUOC_35,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,RTHUOC_36,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,RTHUOC_37,THUOC,Thuộc,E39_17,E38_20,,
+RELATION,RTHUOC_38,THUOC,Thuộc,E39_18,E38_20,,
+RELATION,RTHUOC_39,THUOC,Thuộc,E39_19,E38_20,,
+RELATION,RTHUOC_40,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,RTHUOC_41,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,RTHUOC_42,THUOC,Thuộc,E39_20,E38_22,,
+RELATION,RTHUOC_43,THUOC,Thuộc,E39_21,E38_22,,
+RELATION,RTHUOC_44,THUOC,Thuộc,E39_22,E38_22,,
+RELATION,RTHUOC_45,THUOC,Thuộc,E38_23,E35_3,,
+RELATION,RTHUOC_46,THUOC,Thuộc,E38_24,E35_3,,
+RELATION,RTHUOC_47,THUOC,Thuộc,E38_25,E35_3,,
+RELATION,RTHUOC_48,THUOC,Thuộc,E38_26,E35_3,,
+RELATION,RTHUOC_49,THUOC,Thuộc,E38_27,E35_3,,
+RELATION,RTHUOC_50,THUOC,Thuộc,E38_28,E35_3,,
+RELATION,RTHUOC_51,THUOC,Thuộc,E38_29,E35_3,,
+RELATION,RTHUOC_52,THUOC,Thuộc,E38_30,E35_3,,
+RELATION,RTHUOC_53,THUOC,Thuộc,E38_31,E35_3,,
+RELATION,RTHUOC_54,THUOC,Thuộc,E38_32,E35_3,,
+RELATION,RTHUOC_55,THUOC,Thuộc,E38_33,E35_3,,
+RELATION,RTHUOC_56,THUOC,Thuộc,E38_34,E35_3,,
+RELATION,RTHUOC_57,THUOC,Thuộc,E38_35,E35_3,,
+RELATION,RTHUOC_58,THUOC,Thuộc,E38_36,E35_4,,
+RELATION,RTHUOC_59,THUOC,Thuộc,E38_37,E35_4,,
+RELATION,RTHUOC_60,THUOC,Thuộc,E38_38,E35_4,,
+RELATION,RTHUOC_61,THUOC,Thuộc,E38_39,E35_4,,
+RELATION,RTHUOC_62,THUOC,Thuộc,E38_40,E35_4,,
+RELATION,RTHUOC_63,THUOC,Thuộc,E38_41,E35_5,,
+RELATION,RTHUOC_64,THUOC,Thuộc,E39_23,E38_41,,
+RELATION,RTHUOC_65,THUOC,Thuộc,E39_24,E38_41,,
+RELATION,RTHUOC_66,THUOC,Thuộc,E39_25,E38_41,,
+RELATION,RTHUOC_67,THUOC,Thuộc,E39_26,E38_41,,
+RELATION,RTHUOC_68,THUOC,Thuộc,E39_27,E38_41,,
+RELATION,RTHUOC_69,THUOC,Thuộc,E39_28,E38_41,,
+RELATION,RTHUOC_70,THUOC,Thuộc,E39_29,E38_41,,
+RELATION,RTHUOC_71,THUOC,Thuộc,E39_30,E38_41,,
+RELATION,RTHUOC_72,THUOC,Thuộc,E39_31,E38_41,,
+RELATION,RTHUOC_73,THUOC,Thuộc,E39_32,E38_41,,
+RELATION,RTHUOC_74,THUOC,Thuộc,E38_42,E35_5,,
+RELATION,RTHUOC_75,THUOC,Thuộc,E38_43,E35_5,,
+RELATION,RTHUOC_76,THUOC,Thuộc,E38_44,E35_5,,
+RELATION,RTHUOC_77,THUOC,Thuộc,E38_45,E35_6,,
+RELATION,RTHUOC_78,THUOC,Thuộc,E38_46,E35_6,,
+RELATION,RTHUOC_79,THUOC,Thuộc,E38_47,E35_6,,
+RELATION,RTHUOC_80,THUOC,Thuộc,E38_48,E35_6,,
+RELATION,RTHUOC_81,THUOC,Thuộc,E38_49,E35_7,,
+RELATION,RAP_DUNG_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,RAP_DUNG_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,RAP_DUNG_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,RAP_DUNG_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,RAP_DUNG_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,RAP_DUNG_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,RAP_DUNG_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,RAP_DUNG_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,RAP_DUNG_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,RAP_DUNG_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,RAP_DUNG_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,RAP_DUNG_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,RAP_DUNG_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,RAP_DUNG_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,RAP_DUNG_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,RAP_DUNG_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,RAP_DUNG_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,

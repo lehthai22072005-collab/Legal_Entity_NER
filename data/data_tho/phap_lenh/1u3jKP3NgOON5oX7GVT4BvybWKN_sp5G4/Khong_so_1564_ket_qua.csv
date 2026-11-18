@@ -1,0 +1,21 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,196,235,PHÁP LỆNH CỦA UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,149,161,Số: Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,196,205,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,170,195,ngày 30 tháng 11 năm 1978
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1204,1218,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1239,1249,1978-12-02
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1273,1285,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,489,514,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1103,1111,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1127,1139,Trường Chinh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,314,332,Hiến pháp năm 1959
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,314,332,Hiến pháp năm 1959
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1305,1345,Luật Tổ chức Tòa án nhân dân số Không số
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,1367,1433,Lệnh số 115/LCT Về việc ân giảm án tử hình và xét duyệt án tử hình
+ENTITY,E38_1,DIEU,Điều,structure,588,594,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,846,852,Điều 2
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,

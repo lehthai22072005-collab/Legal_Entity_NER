@@ -1,0 +1,153 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,37,Luật Hôn nhân và gia đình số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,29,37,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,6683,6708,ngày 29 tháng 12 năm 1959
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,6792,6806,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,6827,6837,1960-01-13
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,6859,6869,1987-01-03
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,6893,6913,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,6934,6942,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,6956,6969,Phó  Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,6710,6719,Xuân Thủy
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,7062,7080,Hiến pháp năm 1946
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,6989,7007,Hiến pháp năm 1946
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,7245,7282,Luật Hôn nhân và gia đình số Không số
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,7100,7195,"Chỉ thị số 69/TATC Về việc giải quyết vấn đề nhà, đảm bảo chỗ ở cho các đương sự sau khi ly hôn"
+ENTITY,E35_1,CHUONG,Chương,structure,64,72,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,647,656,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,1828,1838,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,2467,2476,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,4003,4011,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,6176,6185,CHƯƠNG VI
+ENTITY,E38_1,DIEU,Điều,structure,90,375,"Điều 1
+Nhà nước bảo đảm việc thực hiện đầy đủ chế độ hôn nhân tự do và tiến bộ, một vợ một chồng, nam nữ bình đẳng, bảo vệ quyền lợi của phụ nữ và con cái, nhằm xây dựng những gia đình hạnh phúc, dân chủ và hoà thuận, trong đó mọi người đoàn kết, thương yêu nhau, giúp đỡ nhau tiến bộ."
+ENTITY,E38_2,DIEU,Điều,structure,376,503,"Điều 2
+Xoá bỏ những tàn tích còn lại của chế độ hôn nhân phong kiến cưỡng ép, trọng nam khinh nữ, coi rẻ quyền lợi của con cái."
+ENTITY,E38_3,DIEU,Điều,structure,504,647,"Điều 3
+Cấm tảo hôn, cưỡng ép kết hôn, cản trở hôn nhân tự do, yêu sách của cải trong việc cưới hỏi, đánh đập hoặc ngược đãi vợ. Cấm lấy vợ lẽ.
+"
+ENTITY,E38_4,DIEU,Điều,structure,665,837,"Điều 4
+Con trai và con gái đến tuổi, được hoàn toàn tự nguyện quyết định việc kết hôn của mình; không bên nào được ép buộc bên nào, không một ai được cưỡng ép hoặc cản trở."
+ENTITY,E38_5,DIEU,Điều,structure,838,899,"Điều 5
+Cấm người đang có vợ, có chồng kết hôn với người khác."
+ENTITY,E38_6,DIEU,Điều,structure,900,980,"Điều 6
+Con gái từ 18 tuổi trở lên, con trai từ 20 tuổi trở lên mới được kết hôn."
+ENTITY,E38_7,DIEU,Điều,structure,981,1028,"Điều 7
+Việc để tang không cản trở việc kết hôn."
+ENTITY,E38_8,DIEU,Điều,structure,1029,1144,"Điều 8
+Đàn bà goá có quyền tái giá; khi tái giá, quyền lợi của người đàn bà goá về con cái và tài sản được bảo đảm."
+ENTITY,E38_9,DIEU,Điều,structure,1145,1470,"Điều 9
+Cấm kết hôn giữa những người cùng dòng máu về trực hệ; giữa cha mẹ nuôi và con nuôi.
+Cấm kết hôn giữa anh chị em ruột, anh chị em cùng cha khác mẹ hoặc cùng mẹ khác cha. Đối với những người khác có họ trong phạm vi năm đời hoặc có quan hệ thích thuộc về trực hệ, thì việc kết hôn sẽ giải quyết theo phong tục tập quán."
+ENTITY,E38_10,DIEU,Điều,structure,1471,1614,"Điều 10
+Những người sau đây không được kết hôn: bất lực hoàn toàn về sinh lý; mắc một trong các bệnh hủi, hoa liễu, loạn óc, mà chưa chữa khỏi."
+ENTITY,E38_11,DIEU,Điều,structure,1615,1828,"Điều 11
+Việc kết hôn phải được Uỷ ban hành chính cơ sở nơi trú quán của bên người con trai hoặc bên người con gái công nhận và ghi vào sổ kết hôn.
+Mọi nghi thức kết hôn khác đều không có giá trị về mặt pháp luật.
+"
+ENTITY,E38_12,DIEU,Điều,structure,1874,1932,"Điều 12
+Trong gia đình, vợ chồng đều bình đẳng về mọi mặt."
+ENTITY,E38_13,DIEU,Điều,structure,1933,2097,"Điều 13
+Vợ chồng có nghĩa vụ thương yêu, quý trọng, săn sóc nhau, giúp đỡ nhau tiến bộ, nuôi dạy con cái, lao động sản xuất, xây dựng gia đình hoà thuận, hành phúc."
+ENTITY,E38_14,DIEU,Điều,structure,2098,2200,"Điều 14
+Vợ và chồng đều có quyền tự do chọn nghề nghiệp, tự do hoạt động chính trị, văn hoá và xã hội."
+ENTITY,E38_15,DIEU,Điều,structure,2201,2315,"Điều 15
+Vợ và chồng đều có quyền sở hữu, hưởng thụ và sử dụng ngang nhau đối với tài sản có trước và sau khi cưới."
+ENTITY,E38_16,DIEU,Điều,structure,2316,2467,"Điều 16
+Khi một bên chết trước, nếu tài sản của vợ chồng cần chia, thì chia như quy định ở Điều 29.
+Vợ và chồng đều có quyền thừa kế tài sản của nhau.
+"
+ENTITY,E38_17,DIEU,Điều,structure,2508,2633,"Điều 17
+Cha mẹ có nghĩa vụ thương yêu, nuôi nấng, giáo dục con cái.
+Con cái có nghĩa vụ kính yêu, săn sóc, nuôi dưỡng cha mẹ."
+ENTITY,E38_18,DIEU,Điều,structure,2634,2894,"Điều 18
+Cha mẹ không được hành hạ con cái, không được đối xử tàn tệ với con dâu, con nuôi, con riêng.
+Nghiêm cấm việc vứt bỏ hoặc giết hại trẻ con mới đẻ. Người vứt bỏ hoặc giết hại trẻ con mới đẻ và người gây ra những việc ấy phải chịu trách nhiệm về hình sự."
+ENTITY,E38_19,DIEU,Điều,structure,2895,2974,"Điều 19
+Con trai và con gái có quyền lợi và nghĩa vụ ngang nhau trong gia đình."
+ENTITY,E38_20,DIEU,Điều,structure,2975,3158,"Điều 20
+Con đã thành niên còn ở chung với cha mẹ được tự do chọn nghề nghiệp, hoạt động chính trị và xã hội và có của riêng, đồng thời có nghĩa vụ chăm lo đời sống chung của gia đình."
+ENTITY,E38_21,DIEU,Điều,structure,3159,3292,"Điều 21
+Cha hoặc mẹ nhận con ngoài giá thú phải khai trước Uỷ ban hành chính cơ sở. Nếu có tranh chấp, Toà án nhân dân sẽ quyết định."
+ENTITY,E38_22,DIEU,Điều,structure,3293,3527,"Điều 22
+Người con ngoài giá thú được xin nhận cha hoặc mẹ trước Toà án nhân dân.
+Người mẹ cũng có quyền xin nhận cha thay cho đứa trẻ chưa thành niên.
+Người thay mặt cũng có quyền xin nhận cha hoặc mẹ thay cho đưa trẻ chưa thành niên."
+ENTITY,E38_23,DIEU,Điều,structure,3528,3660,"Điều 23
+Con ngoài giá thú được cha, mẹ nhận hoặc được Toà án nhân dân cho nhận cha, mẹ, có quyền lợi và nghĩa vụ như con chính thức."
+ENTITY,E38_24,DIEU,Điều,structure,3661,4003,"Điều 24
+Con nuôi có quyền lợi và nghĩa vụ như con đẻ.
+Việc nhận nuôi con nuôi phải được Uỷ ban hành chính cơ sở nơi trú quán của người nuôi hoặc của đứa trẻ công nhận và ghi vào sổ hộ tịch.
+Toà án nhân dân có thể huỷ bỏ việc công nhận ấy, khi bản thân người con nuôi hoặc bất cứ người nào, tổ chức nào yêu cầu, vì lợi ích của người con nuôi.
+"
+ENTITY,E38_25,DIEU,Điều,structure,4019,4191,"Điều 25
+Khi hai bên vợ chồng xin thuận tình ly hôn, thì sau khi điều tra, nếu xét đúng là hai bên tự nguyện xin lý hôn, Toà án nhân dân sẽ công nhận việc thuận tình ly hôn."
+ENTITY,E38_26,DIEU,Điều,structure,4192,4466,"Điều 26
+Khi một bên vợ hoặc chồng xin ly hôn, cơ quan có thẩm quyền sẽ điều tra và hoà giải. Hoà giải không được, Toà án nhân dân sẽ xét xử. Nếu tình trạng trầm trọng, đời sống chung không thể kéo dài, mục đích của hôn nhân không đạt được, thì Toà án nhân dân sẽ cho ly hôn."
+ENTITY,E38_27,DIEU,Điều,structure,4467,4642,"Điều 27
+Trong trường hợp người vợ có thai, chồng chỉ có thể xin ly hôn sau khi vợ đã sinh đẻ được một năm. Điều hạn chế này không áp dụng đối với việc xin ly hôn của người vợ."
+ENTITY,E38_28,DIEU,Điều,structure,4643,4679,"Điều 28
+Khi ly hôn, cấm đòi trả của."
+ENTITY,E38_29,DIEU,Điều,structure,4680,4967,"Điều 29
+Khi ly hôn, việc chia tài sản sẽ căn cứ vào sự đóng góp về công sức của mỗi bên, vào tình hình tài sản và tình trạng cụ thể của gia đình. Lao động trong gia đình được kể như lao động sản xuất.
+Khi chia phải bảo vệ quyền lợi của người vợ, của con cái và lợi ích của việc sản xuất."
+ENTITY,E38_30,DIEU,Điều,structure,4968,5315,"Điều 30
+Khi ly hôn, nếu một bên túng thiếu yêu cầu cấp dưỡng, thì bên kia phải cấp dưỡng tuỳ theo khả năng của mình.
+Khoản cấp dưỡng và thời gian cấp dưỡng sẽ do hai bên thoả thuận; trường hợp hai bên không thoả thuận với nhau được thì Toà án nhân dân sẽ quyết định. Khi người được cấp dưỡng lấy vợ, lấy chồng khác thì sẽ không được cấp dưỡng nữa."
+ENTITY,E38_31,DIEU,Điều,structure,5316,5394,"Điều 31
+Vợ chồng đã ly hôn vẫn có mọi nghĩa vụ và quyền lợi đối với con chung."
+ENTITY,E38_32,DIEU,Điều,structure,5395,5887,"Điều 32
+Khi ly hôn, việc giao cho ai trông nom, nuôi nấng và giáo dục con cái chưa thành niên, phải căn cứ vào quyền lợi về mọi mặt của con cái. Về nguyên tắc, con còn bú phải do mẹ phụ trách. Người không giữ con vẫn có quyền thăm nom, săn sóc con.
+Vợ chồng đã ly hôn phải cùng chịu phí tổn về việc nuôi nấng và giáo dục con, mỗi người tuỳ theo khả năng của mình.
+Vì lợi ích của con cái, khi cần thiết, có thể thay đổi việc nuôi giữ hoặc việc góp phần vào phí tổn nuôi nấng, giáo dục con cái."
+ENTITY,E38_33,DIEU,Điều,structure,5888,6176,"Điều 33
+Việc trông nom, nuôi nấng và giáo dục con cái, việc góp phần vào phí tổn nuôi nấng và giáo dục con cái sẽ do hai bên thoả thuận giải quyết.
+Trường hợp hai bên không thoả thuận với nhau được hoặc trong sự thoả thuận xét thấy có chỗ không hợp lý, thì Toà án nhân dân sẽ quyết định.
+"
+ENTITY,E38_34,DIEU,Điều,structure,6206,6273,"Điều 34
+Những hành vi trái với Luật này sẽ bị xử lý theo pháp luật."
+ENTITY,E38_35,DIEU,Điều,structure,6274,6526,"Điều 35
+Luật này có hiệu lực kể từ ngày công bố.
+Trong những vùng dân tộc thiểu số, có thể căn cứ vào tình hình cụ thể mà đặt ra những điều khoản riêng biệt đối với Luật này. Những điều khoản riêng biệt ấy phải được Uỷ ban thường vụ Quốc hội phê chuẩn."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_2,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_2,,
+RELATION,R22_8,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_9,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_10,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_11,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_12,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_13,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_14,THUOC,Thuộc,E38_12,E35_3,,
+RELATION,R22_15,THUOC,Thuộc,E38_13,E35_3,,
+RELATION,R22_16,THUOC,Thuộc,E38_14,E35_3,,
+RELATION,R22_17,THUOC,Thuộc,E38_15,E35_3,,
+RELATION,R22_18,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,R22_19,THUOC,Thuộc,E38_17,E35_4,,
+RELATION,R22_20,THUOC,Thuộc,E38_18,E35_4,,
+RELATION,R22_21,THUOC,Thuộc,E38_19,E35_4,,
+RELATION,R22_22,THUOC,Thuộc,E38_20,E35_4,,
+RELATION,R22_23,THUOC,Thuộc,E38_21,E35_4,,
+RELATION,R22_24,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,R22_25,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,R22_26,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,R22_27,THUOC,Thuộc,E38_25,E35_5,,
+RELATION,R22_28,THUOC,Thuộc,E38_26,E35_5,,
+RELATION,R22_29,THUOC,Thuộc,E38_27,E35_5,,
+RELATION,R22_30,THUOC,Thuộc,E38_28,E35_5,,
+RELATION,R22_31,THUOC,Thuộc,E38_29,E35_5,,
+RELATION,R22_32,THUOC,Thuộc,E38_30,E35_5,,
+RELATION,R22_33,THUOC,Thuộc,E38_31,E35_5,,
+RELATION,R22_34,THUOC,Thuộc,E38_32,E35_5,,
+RELATION,R22_35,THUOC,Thuộc,E38_33,E35_5,,
+RELATION,R22_36,THUOC,Thuộc,E38_34,E35_6,,
+RELATION,R22_37,THUOC,Thuộc,E38_35,E35_6,,

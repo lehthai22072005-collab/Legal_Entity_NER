@@ -1,0 +1,24 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,61,Pháp lệnh số Không số Về việc quy định cấm nấu rượu trái phép
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,62,71,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,1872,1897,ngày 13 tháng 10 năm 1966
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,2111,2125,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,2050,2060,1966-10-28
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,2084,2098,Ngưng hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,1899,1924,ỦY BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1956,1964,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1965,1977,Trường Chinh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,2218,2236,Hiến pháp năm 1959
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,2145,2163,Hiến pháp năm 1959
+ENTITY,E38_1,DIEU,Điều,structure,477,483,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,678,684,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1301,1307,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1507,1513,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1752,1758,Điều 5
+ENTITY,E39_1,KHOAN,Khoản,structure,735,776,"1- Bị xử phạt hành chính từ 20đ đến 100đ,"
+ENTITY,E39_2,KHOAN,Khoản,structure,777,958,"2- Bị truy tố trước Toà án và có thể bị phạt tù từ 3 tháng đến 1 năm và phạt tiền từ 100đ đến 500đ hoặc một trong hai hình phạt đó, nếu phạm vào một trong những trường hợp dưới đây:"
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RTHUOC_1,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,RTHUOC_2,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,

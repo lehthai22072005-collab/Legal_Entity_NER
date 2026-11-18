@@ -1,0 +1,15 @@
+﻿"NHÓM (ENTITY / RELATION)","ID","CODE","LABEL","SCOPE / FROM_ID","START / TO_ID","END","TEXT"
+"ENTITY","E1_1","TEN_VAN_BAN","Tên văn bản","metadata","362","531","Hướng dẫn ""uản lý các dự án đầu tư và xây dựng"" của ngành Ngân hàng
+theo Điều lệ uản lý đầu tư và xây dựng ban hành kèm theo
+Nghị định 42/CP của Chính phủ ngày 16/7/1996"
+"ENTITY","E2_1","SO_HIEU","Số hiệu","metadata","304","319","01/1997/TT-NH11"
+"ENTITY","E3_1","LOAI_VAN_BAN","Loại văn bản","metadata","353","361","THÔNG TƯ"
+"ENTITY","E5_1","NGAY_BAN_HANH","Ngày ban hành","metadata","328","352","ngày 02 tháng 1 năm 1997"
+"ENTITY","E6_1","LINH_VUC","Lĩnh vực","metadata","14309","14323","Chưa phân loại"
+"ENTITY","E7_1","NGAY_CO_HIEU_LUC","Ngày có hiệu lực","metadata","13908","13921","kể từ ngày ký"
+"ENTITY","E9_1","TINH_TRANG_HIEU_LUC","Tình trạng hiệu lực","metadata","14347","14359","Còn hiệu lực"
+"ENTITY","E10_1","CO_QUAN_BAN_HANH","Cơ quan ban hành","metadata","200","218","NGÂN HÀNG NHÀ NƯỚC"
+"ENTITY","E11_1","CHUC_DANH","Chức danh","metadata","14206","14219","PHÓ THỐNG ĐỐC"
+"ENTITY","E12_1","NGUOI_KY","Người ký","metadata","14228","14244","Nguyễn Ngọc Oánh"
+"RELATION","R22_1","THUOC","Thuộc","E12_1","E11_1","",""
+"RELATION","R22_2","THUOC","Thuộc","E11_1","E10_1","",""

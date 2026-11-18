@@ -1,0 +1,297 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,43,Luật Thuế bảo vệ môi trường số 57/2010/QH12
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,31,43,57/2010/QH12
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,133,158,Ngày 15 tháng 11 năm 2010
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,8163,8177,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,7531,7556,ngày 01 tháng 01 năm 2012
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,8201,8213,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,335,343,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,8056,8073,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,8082,8098,Nguyễn Phú Trọng
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,206,264,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,7629,7648,38/2001/PL-UBTVQH10
+ENTITY,E16_1,VB_BI_TAC_DONG_HIEU_LUC_TOAN_BO,Văn bản bị tác động hiệu lực toàn bộ,reference,7629,7648,38/2001/PL-UBTVQH10
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,206,264,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8263,8511,"Thông tư số 159/2012/TT-BTC Sửa đổi, bổ sung Thông tư số 152/2011/TT-BTC ngày 11/11/2011 hướng dẫn thi hành Nghị định số 67/2011/NĐ-CP ngày 08/08/2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế bảo vệ môi trường"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8561,8671,Nghị định số 67/2011/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế bảo vệ môi trường
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8721,8845,"Nghị quyết số 71/2012/NQ-HĐND Về việc sửa đổi, bổ sung nghị quyết số 22/2010/NQ-HĐND ngày 22/12/2010 của HĐND tỉnh Vĩnh Phúc"
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8895,9019,"Quyết định số 57/2012/QĐ-UBND Về việc sửa đổi, bố sung quyết định số 01/2011/QĐ-UBND ngày 07/01/2011 của UBND tỉnh Vĩnh Phúc"
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,9069,9330,"Thông tư số 60/2015/TT-BTC Sửa đổi, bổ sung khoản 2 Điều 5 Thông tư số 152/2011/TT-BTC ngày 11/11/2011 hướng dẫn thi hành Nghị định số 67/2011/NĐ-CP ngày 08/8/2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế bảo vệ môi trường"
+ENTITY,E24_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,9380,9469,Quyết định số 263/QĐ-TTg Phê duyệt kế hoạch rà soát thủ tục hành chính trọng tâm năm 2012
+ENTITY,E24_7,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,9519,9727,"Nghị định số 69/2012/NĐ-CP Sửa đổi, bổ sung Khoản 3 Điều 2 Nghị định số 67/2011/NĐ-CP ngày 08 tháng 8 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế bảo vệ môi trường"
+ENTITY,E24_8,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,9777,9961,Thông tư số 30/2013/TT-BTC Hướng dẫn hoàn lại tiền thuế bảo vệ môi trường đối với túi ni lông làm bao bì đóng gói sẵn hàng hóa theo Nghị quyết số 02/NQ-CP ngày 07/01/2013 của Chính phủ
+ENTITY,E24_9,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,10011,10104,"Thông tư số 144/2011/TT-BTC Quy định bổ sung, sửa đổi và hướng dẫn Mục lục ngân sách nhà nước"
+ENTITY,E24_10,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,10154,10337,Nghị quyết số 12/2012/NQ-HĐND Sửa đổi một số nội dung quy định tại Phụ lục số 01 và Phụ lục số 02 ban hành kèm theo Nghị quyết số 25/2010/NQ-HĐND ngày 17/12/2010 của HĐND tỉnh Lào Cai
+ENTITY,E24_11,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,10387,10467,"Thông tư số 217/2012/TT-BTC Quy định sửa đổi, bổ sung Mục lục ngân sách nhà nước"
+ENTITY,E24_12,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,10517,10687,"Thông tư số 38/2015/TT-BTC Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu."
+ENTITY,E24_13,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,10737,10998,"Thông tư số 59/2015/TT-BTC Sửa đổi, bổ sung khoản 2 Điều 5 Thông tư số 152/2011/TT-BTC ngày 11/11/2011 hương dẫn thi hành Nghị định số 67/2011/NĐ-CP ngày 08/8/2011 của Chính phủ quy định chỉ tiết và hướng dẫn thỉ hành một số điều của Luật thuế bảo vệ môi trường"
+ENTITY,E24_14,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,11048,11111,Nghị quyết số 1269/2011/UBTVQH12 Về Biểu thuế bảo vệ môi trường
+ENTITY,E24_15,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,11161,11421,"Thông tư số 48/2011/TT-BTNMT Sửa đổi, bổ sung một số điều của Thông tư 08/2009/TT-BTNMT ngày 15 tháng 07 năm 2009 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định quản lý và bảo vệ môi trường khu kinh tế, khu công nghệ cao, khu công nghiệp và cụm công nghiệp"
+ENTITY,E24_16,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,11471,11642,"Thông tư số 128/2013/TT-BTC Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E24_17,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,11692,11888,Thông tư số 152/2011/TT-BTC Hướng dẫn thi hành Nghị định số 67/2011/NĐ-CP ngày 08 tháng 8 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế Bảo vệ môi trường
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,11910,11991,Thông tư số 99/2012/TT-BTC Hướng dẫn xây dựng dự toán ngân sách nhà nước năm 2013
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12013,12106,Thông tư số 177/2011/TT-BTC Quy định về tổ chức thực hiện dự toán ngân sách nhà nước năm 2012
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12128,12316,"Quyết định số 35/2021/QĐ-UBND Ban hành Quy định trình tự thủ tục thực hiện, giám sát, quản lý dự án đầu tư và xây dựng không sử dụng vốn ngân sách nhà nước trên địa bàn tỉnh Thừa Thiên Huế"
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12338,12419,Thông tư số 83/2011/TT-BTC Hướng dẫn xây dựng dự toán ngân sách nhà nước năm 2012
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12441,12557,"Quyết định số 4189/QĐ-UBND Về việc bổ sung, sửa đổi một số cơ chế và biện pháp điều hành ngân sách nhà nước năm 2012"
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12579,12745,Chỉ thị 24/2011/CT-UBND về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách năm 2012 của thành phố do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12767,12876,"Thông tư số 22/2014/TT-BTC Quy định thủ tục hải quan điện tử đối với hàng hóa xuất khẩu, nhập khẩu thương mại"
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,12898,12992,Quyết định 615/QĐ-UBND năm 2014 ban hành Quy định Giải thưởng Môi trường Thành phố Hồ Chí Minh
+ENTITY,E29_9,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,13014,13173,"Chỉ thị số 01/2012/CT-UBND Về một số giải pháp chủ yếu chỉ đạo, điều hành thực hiện kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2012"
+ENTITY,E29_10,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,13195,13315,"Quyết định số 13/2011/QĐ-UBND Về việc điều chỉnh mức thu phí vệ sinh đối với các huyện, thị xã trên địa bàn tỉnh Gia Lai"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,13335,13483,Nghị quyết số 31/2012/NQ-HĐND Về việc Quy định tỷ lệ phần trăm (%) phân chia khoản thu từ Thuế sử dụng đất phi nông nghiệp và Thuế bảo vệ môi trường
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,13503,13671,"Nghị quyết số 19/2026/QH16 Về việc ban hành một số quy định về thuế bảo vệ môi trường, thuế giá trị gia tăng, thuế tiêu thụ đặc biệt đối với xăng, dầu và nhiên liệu bay"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,13691,13778,"Nghị quyết số 60/2024/UBTVQH15 Về mức thuế bảo vệ môi trường đối với xăng, dầu, mỡ nhờn"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,13798,14035,"Nghị quyết số 22/2011/NQ-HĐND Sửa đổi tên gọi một số khoản thu tại biểu phân chia tỷ lệ phần trăm (%) điều tiết nguồn thu giữa các cấp ngân sách, ban hành kèm theo Nghị quyết số 159/2010/NQ-HĐND ngày 02/11/2010 của Hội đồng nhân dân tỉnh"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,14055,14316,"Thông tư số 60/2015/TT-BTC Sửa đổi, bổ sung khoản 2 Điều 5 Thông tư số 152/2011/TT-BTC ngày 11/11/2011 hướng dẫn thi hành Nghị định số 67/2011/NĐ-CP ngày 08/8/2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế bảo vệ môi trường"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,14336,14532,Thông tư số 152/2011/TT-BTC Hướng dẫn thi hành Nghị định số 67/2011/NĐ-CP ngày 08 tháng 8 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế Bảo vệ môi trường
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,14552,14676,"Nghị quyết số 71/2012/NQ-HĐND Về việc sửa đổi, bổ sung nghị quyết số 22/2010/NQ-HĐND ngày 22/12/2010 của HĐND tỉnh Vĩnh Phúc"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,14696,14842,Nghị quyết số 23/2012/NQ-HĐND Về phân cấp quản lý thu và tỷ lệ phân chia các khoản thu thuế sử dụng đất phi nông nghiệp và thuế bảo vệ môi trường.
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,14862,15124,"Thông tư số 106/2018/TT-BTC Sửa đổi, bổ sung khoản 2 Điều 5 Thông tư số 152/2011/TT-BTC ngày 11/11/2011 hướng dẫn thi hành Nghị định số 67/2011/NĐ-CP ngày 08/8/2011 của Chính phủ quy định chi tiết và hưóng dẫn thi hành một số điều của Luật thuế bảo vệ môi trường"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,15144,15426,"Thông tư số 39/2018/TT-BTC Sửa đổi, bổ sung một số điều tại Thông tư số 38/2015/TT-BTC ngày 25 tháng 3 năm 2015 của Bộ trưởng Bộ Tài chính quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,15446,15526,"Thông tư số 217/2012/TT-BTC Quy định sửa đổi, bổ sung Mục lục ngân sách nhà nước"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,15546,15794,"Thông tư số 159/2012/TT-BTC Sửa đổi, bổ sung Thông tư số 152/2011/TT-BTC ngày 11/11/2011 hướng dẫn thi hành Nghị định số 67/2011/NĐ-CP ngày 08/08/2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật thuế bảo vệ môi trường"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,15814,16075,"Thông tư số 59/2015/TT-BTC Sửa đổi, bổ sung khoản 2 Điều 5 Thông tư số 152/2011/TT-BTC ngày 11/11/2011 hương dẫn thi hành Nghị định số 67/2011/NĐ-CP ngày 08/8/2011 của Chính phủ quy định chỉ tiết và hướng dẫn thỉ hành một số điều của Luật thuế bảo vệ môi trường"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,16095,16183,"Nghị quyết số 109/2025/UBTVQH15 Về mức thuế bảo vệ môi trường đối với xăng, dầu, mỡ nhờn"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,16203,16363,"Nghị quyết số 66/2014/NQ-HĐND Về phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm (%) phân chia các khoản thu giữa các cấp ngân sách tỉnh thời kỳ 2011 - 2015"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,16383,16566,Nghị quyết số 12/2012/NQ-HĐND Sửa đổi một số nội dung quy định tại Phụ lục số 01 và Phụ lục số 02 ban hành kèm theo Nghị quyết số 25/2010/NQ-HĐND ngày 17/12/2010 của HĐND tỉnh Lào Cai
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,16586,16992,"Nghị quyết số 07/2012/NQ-HĐND về việc sửa đổi, bổ sung Nghị quyết số 08/2010/NQ-HĐND ngày 21/7/2010 của HĐND tỉnh khóa XVI về việc phân cấp nguồn thu, nhiệm vu chi và tỷ lện phần trăm (%) phân chia các khoản thu giữa ngân sách tỉnh, ngân sách huyện, thành phố và ngân sách xã, phường, thị trấn trên địa bàn tỉnh Tuyên Quang năm 2011 và áp dụng cho thời kỳ ổn định ngân sách địa phương giai đoạn 2011 - 2015"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,17012,17287,"Nghị quyết số 02/2012/NQ-HĐND Về bãi bỏ, bổ sung một số nội dung được ban hành kèm theo Nghị quyết số 19/2010/NQ-HĐND ngày 16/12/2010 quy định về nguyên tắc, tiêu chí, định mức phân bổ chi đầu tư phát triển, chi thường xuyên và phân cấp ngân sách Nhà nước giai đoạn 2011-2015"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,17307,17525,"Nghị quyết số 27/2013/NQ-HĐND Về việc sửa đổi một số khoản thu, sửa đổi, bổ sung đối tượng và tỷ lệ phân chia các khoản thu theo quy định tại Nghị quyết số 17/2010/NQ-HĐND ngày 10/12/2010, Nghị quyết số 23/2011/NQ-HĐND"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,17545,17753,"Nghị định số 69/2012/NĐ-CP Sửa đổi, bổ sung Khoản 3 Điều 2 Nghị định số 67/2011/NĐ-CP ngày 08 tháng 8 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế bảo vệ môi trường"
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,17773,17883,Nghị định số 67/2011/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế bảo vệ môi trường
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,17903,17996,"Thông tư số 144/2011/TT-BTC Quy định bổ sung, sửa đổi và hướng dẫn Mục lục ngân sách nhà nước"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,18016,18187,"Thông tư số 128/2013/TT-BTC Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,18207,18431,"THÔNG TƯ SỐ 112/2018/TT-BTC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU TẠI THÔNG TƯ SỐ 174/2015/TT-BTC NGÀY 10 THÁNG 11 NĂM 2015 CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH HƯỚNG DẪN KẾ TOÁN NGHIỆP VỤ THUẾ VÀ THU KHÁC ĐỐI VỚI HÀNG HÓA XUẤT KHẨU, NHẬP KHẨU"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,18451,18621,"Thông tư số 38/2015/TT-BTC Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu."
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,18641,18778,"Nghị quyết số 07/2012/NQ-HĐND Về việc sửa đổi, bổ sung một số khoản thu và tỉ lệ phần trăm (%) phân chia nguồn thu giữa các cấp ngân sách"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,18798,18977,Quyết định số 2265/2012/QĐ-UBND Về việc quy định tỷ lệ phần trăm (%) phân chia khoản thu từ thuế sử dụng đất phi nông nghiệp và thuế bảo vệ môi trường trên đại bàn tỉnh Thanh Hóa.
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,18997,19059,Nghị quyết số 579/2018/UBTVQH14 Về biểu thuế bảo vệ môi trường
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,19079,19394,"Nghị quyết số 20/2011/NQ-HĐND Sửa đổi, bổ sung một số nội dung qui định tại phụ lục kèm theo Nghị quyết số 32/2010/NQ-HĐND ngày 09/12/2010 của Hội đồng nhân dân tỉnh về phân cấp nguồn thu, tỷ lệ phần trăm từng nguồn thu, nhiệm vụ chi ngân sách cho các cấp ngân sách của địa phương"
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,19414,19668,Nghị quyết số 28/2011/NQ-HĐND Về việc sửa đổi phụ lục quy định tỷ lệ phần trăm phân chia các khoản thu giữa các cấp ngân sách trên địa bàn tỉnh hà giang ban hành kèm theo nghị quyết số: 29/2010/NQ-HĐND ngày 11 tháng 12 năm 2010 của Hội Đồng Nhân Dân tỉnh
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,19688,19872,Thông tư số 30/2013/TT-BTC Hướng dẫn hoàn lại tiền thuế bảo vệ môi trường đối với túi ni lông làm bao bì đóng gói sẵn hàng hóa theo Nghị quyết số 02/NQ-CP ngày 07/01/2013 của Chính phủ
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,19892,20192,"Quyết định số 17/2012/QĐ-UBND Về bãi bỏ, bổ sung một số nội dung được ban hành kèm theo Quyết định số 50/2010/QĐ-UBND ngày 28-12-2010 của Ủy ban nhân dân tỉnh quy định về nguyên tắc, tiêu chí, định mức phân bổ chi đầu tư phát triển, chi thường xuyên và phân cấp ngân sách Nhà nước giai đoạn 2011-2015"
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,20212,20301,Quyết định số 263/QĐ-TTg Phê duyệt kế hoạch rà soát thủ tục hành chính trọng tâm năm 2012
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,20321,20467,Quyết định số 63/2012/QĐ-UBND Về phân cấp quản lý thu và tỷ lệ phân chia các khoản thu thuế sử dụng đất phi nông nghiệp và thuế bảo vệ môi trường.
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,20487,20675,"Nghị quyết số 72/2013/NQ-HĐND Về việc điều chỉnh, bổ sung tỷ lệ % phân chia một số khoản thu tại Nghị quyết số 136/2010/NQ-HĐND ngày 24 tháng 12 năm 2010 của Hội đồng nhân dân tỉnh khoá XV"
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,20695,21007,"Quyết định số 03/2013/QĐ-UBND Về việc sửa đổi, bổ sung một số điều của quyết định số 04/2011/QĐ-UBND ngày 21/02/2011 của ủy ban nhân dân tỉnh Hậu Giang ban hành quy định về phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm (%) phân chia các khoản thu giữa ngân sách các cấp tỉnh Hậu Giang giai đoạn 2011 – 2015"
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,21027,21164,"Quyết định số 15/2012/QĐ-UBND Về việc sửa đổi, bổ sung một số khoản thu và tỉ lệ phần trăm (%) phân chia nguồn thu giữa các cấp ngân sách"
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,21184,21313,"Quyết định số 28/2015/QĐ-UBND Ban hành Quy định về quản lý hoạt động sản xuất, kinh doanh giống thủy sản trên địa bàn tỉnh Cà Mau"
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,21333,21572,"Nghị quyết số 979/2020/UBTVQH14 Sửa đổi, bổ sung tiểu mục 2 mục I Biểu thuế bảo vệ môi trường quy định tại khoản 1 Điều 1 Nghị quyết số 579/2018/UBTVQH14 ngày 26 tháng 9 năm 2018 của Ủy ban Thường vụ Quốc hội về Biểu thuế bảo vệ môi trường"
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,21592,21716,"Quyết định số 57/2012/QĐ-UBND Về việc sửa đổi, bố sung quyết định số 01/2011/QĐ-UBND ngày 07/01/2011 của UBND tỉnh Vĩnh Phúc"
+ENTITY,E35_1,CHUONG,Chương,structure,382,390,Chương I
+ENTITY,E35_2,CHUONG,Chương,structure,3620,3629,Chương II
+ENTITY,E35_3,CHUONG,Chương,structure,5592,5602,Chương III
+ENTITY,E35_4,CHUONG,Chương,structure,7438,7447,Chương IV
+ENTITY,E38_1,DIEU,Điều,structure,412,418,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,605,611,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1173,1179,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1900,1906,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,3007,3013,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,3647,3653,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,4128,4134,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,4296,4302,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,5647,5653,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,6146,6153,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,6623,6630,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,7468,7475,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,7701,7708,Điều 13
+ENTITY,E39_1,KHOAN,Khoản,structure,686,838,"1. Thuế bảo vệ môi trường là loại thuế gián thu, thu vào sản phẩm, hàng hóa (sau đây gọi chung là hàng hóa) khi sử dụng gây tác động xấu đến môi trường."
+ENTITY,E39_2,KHOAN,Khoản,structure,839,940,2. Mức thuế tuyệt đối là mức thuế được quy định bằng số tiền tính trên một đơn vị hàng hóa chịu thuế.
+ENTITY,E39_3,KHOAN,Khoản,structure,941,1064,"3. Túi ni lông thuộc diện chịu thuế là loại túi, bao bì được làm từ màng nhựa đơn polyetylen, tên kỹ thuật là túi nhựa xốp."
+ENTITY,E39_4,KHOAN,Khoản,structure,1065,1172,4. Dung dịch hydro-chloro-fluoro-carbon (HCFC) là nhóm chất gây suy giảm tầng ô dôn dùng làm môi chất lạnh.
+ENTITY,E39_5,KHOAN,Khoản,structure,1201,1232,"1. Xăng, dầu, mỡ nhờn, bao gồm:"
+ENTITY,E39_6,KHOAN,Khoản,structure,1339,1359,"2. Than đá, bao gồm:"
+ENTITY,E39_7,KHOAN,Khoản,structure,1433,1480,3. Dung dịch hydro-chloro-fluoro-carbon (HCFC).
+ENTITY,E39_8,KHOAN,Khoản,structure,1481,1517,4. Túi ni lông thuộc diện chịu thuế.
+ENTITY,E39_9,KHOAN,Khoản,structure,1518,1562,5. Thuốc diệt cỏ thuộc loại hạn chế sử dụng.
+ENTITY,E39_10,KHOAN,Khoản,structure,1563,1607,6. Thuốc trừ mối thuộc loại hạn chế sử dụng.
+ENTITY,E39_11,KHOAN,Khoản,structure,1608,1661,7. Thuốc bảo quản lâm sản thuộc loại hạn chế sử dụng.
+ENTITY,E39_12,KHOAN,Khoản,structure,1662,1712,8. Thuốc khử trùng kho thuộc loại hạn chế sử dụng.
+ENTITY,E39_13,KHOAN,Khoản,structure,1713,1899,"9. Trường hợp xét thấy cần thiết phải bổ sung đối tượng chịu thuế khác cho phù hợp với từng thời kỳ thì Ủy ban thường vụ Quốc hội xem xét, quy định. Chính phủ quy định chi tiết Điều này."
+ENTITY,E39_14,KHOAN,Khoản,structure,1934,2035,1. Hàng hóa không quy định tại Điều 3 của Luật này không thuộc đối tượng chịu thuế bảo vệ môi trường.
+ENTITY,E39_15,KHOAN,Khoản,structure,2036,2140,2. Hàng hóa quy định tại Điều 3 của Luật này không chịu thuế bảo vệ môi trường trong các trường hợp sau:
+ENTITY,E39_16,KHOAN,Khoản,structure,3030,3187,"1. Người nộp thuế bảo vệ môi trường là tổ chức, hộ gia đình, cá nhân sản xuất, nhập khẩu hàng hóa thuộc đối tượng chịu thuế quy định tại Điều 3 của Luật này."
+ENTITY,E39_17,KHOAN,Khoản,structure,3188,3277,2. Người nộp thuế bảo vệ môi trường trong một số trường hợp cụ thể được quy định như sau:
+ENTITY,E39_18,KHOAN,Khoản,structure,3672,3763,1. Căn cứ tính thuế bảo vệ môi trường là số lượng hàng hóa tính thuế và mức thuế tuyệt đối.
+ENTITY,E39_19,KHOAN,Khoản,structure,3764,3817,2. Số lượng hàng hóa tính thuế được quy định như sau:
+ENTITY,E39_20,KHOAN,Khoản,structure,4054,4127,3. Mức thuế tuyệt đối để tính thuế được quy định tại Điều 8 của Luật này.
+ENTITY,E39_21,KHOAN,Khoản,structure,4320,4386,1. Mức thuế tuyệt đối được quy định theo Biểu khung thuế dưới đây:
+ENTITY,E39_22,KHOAN,Khoản,structure,5181,5357,"2. Căn cứ vào Biểu khung thuế quy định tại khoản 1 Điều này, Ủy ban thường vụ Quốc hội quy định mức thuế cụ thể đối với từng loại hàng hóa chịu thuế bảo đảm các nguyên tắc sau:"
+ENTITY,E39_23,KHOAN,Khoản,structure,5675,5818,"1. Đối với hàng hóa sản xuất bán ra, trao đổi, tặng cho, thời điểm tính thuế là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa."
+ENTITY,E39_24,KHOAN,Khoản,structure,5819,5932,"2. Đối với hàng hóa sản xuất đưa vào tiêu dùng nội bộ, thời điểm tính thuế là thời điểm đưa hàng hóa vào sử dụng."
+ENTITY,E39_25,KHOAN,Khoản,structure,5933,6022,"3. Đối với hàng hóa nhập khẩu, thời điểm tính thuế là thời điểm đăng ký tờ khai hải quan."
+ENTITY,E39_26,KHOAN,Khoản,structure,6023,6145,"4. Đối với xăng, dầu sản xuất hoặc nhập khẩu để bán, thời điểm tính thuế là thời điểm đầu mối kinh doanh xăng, dầu bán ra."
+ENTITY,E39_27,KHOAN,Khoản,structure,6186,6387,"1. Việc khai thuế, tính thuế, nộp thuế bảo vệ môi trường đối với hàng hóa sản xuất bán ra, trao đổi, tiêu dùng nội bộ, tặng cho được thực hiện theo tháng và theo quy định của pháp luật về quản lý thuế."
+ENTITY,E39_28,KHOAN,Khoản,structure,6388,6538,"2. Việc khai thuế, tính thuế, nộp thuế bảo vệ môi trường đối với hàng hóa nhập khẩu được thực hiện cùng thời điểm với khai thuế và nộp thuế nhập khẩu."
+ENTITY,E39_29,KHOAN,Khoản,structure,6539,6622,3. Thuế bảo vệ môi trường chỉ nộp một lần đối với hàng hóa sản xuất hoặc nhập khẩu.
+ENTITY,E39_30,KHOAN,Khoản,structure,6723,6858,"1. Hàng hóa nhập khẩu còn lưu kho, lưu bãi tại cửa khẩu và đang chịu sự giám sát của cơ quan Hải quan được tái xuất khẩu ra nước ngoài;"
+ENTITY,E39_31,KHOAN,Khoản,structure,6859,7132,"2. Hàng hóa nhập khẩu để giao, bán cho nước ngoài thông qua đại lý tại Việt Nam; xăng, dầu bán cho phương tiện vận tải của hãng nước ngoài trên tuyến đường qua cảng Việt Nam hoặc phương tiện vận tải của Việt Nam trên tuyến đường vận tải quốc tế theo quy định của pháp luật;"
+ENTITY,E39_32,KHOAN,Khoản,structure,7133,7228,"3. Hàng hóa tạm nhập khẩu để tái xuất khẩu theo phương thức kinh doanh hàng tạm nhập, tái xuất."
+ENTITY,E39_33,KHOAN,Khoản,structure,7229,7298,4. Hàng hóa nhập khẩu do người nhập khẩu tái xuất khẩu ra nước ngoài;
+ENTITY,E39_34,KHOAN,Khoản,structure,7299,7437,"5. Hàng hóa tạm nhập khẩu để tham gia hội chợ, triển lãm, giới thiệu sản phẩm theo quy định của pháp luật khi tái xuất khẩu ra nước ngoài."
+ENTITY,E39_35,KHOAN,Khoản,structure,7495,7557,1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2012.
+ENTITY,E39_36,KHOAN,Khoản,structure,7558,7700,"2. Các quy định về thu phí xăng, dầu tại Pháp lệnh về phí và lệ phí số 38/2001/PL-UBTVQH10 hết hiệu lực thi hành từ ngày Luật này có hiệu lực."
+ENTITY,E40_1,DIEM,Điểm,structure,1233,1253,"a) Xăng, trừ etanol;"
+ENTITY,E40_2,DIEM,Điểm,structure,1254,1272,b) Nhiên liệu bay;
+ENTITY,E40_3,DIEM,Điểm,structure,1273,1287,c) Dầu diezel;
+ENTITY,E40_4,DIEM,Điểm,structure,1288,1299,d) Dầu hỏa;
+ENTITY,E40_5,DIEM,Điểm,structure,1300,1313,đ) Dầu mazut;
+ENTITY,E40_6,DIEM,Điểm,structure,1314,1326,e) Dầu nhờn;
+ENTITY,E40_7,DIEM,Điểm,structure,1327,1338,g) Mỡ nhờn.
+ENTITY,E40_8,DIEM,Điểm,structure,1360,1372,a) Than nâu;
+ENTITY,E40_9,DIEM,Điểm,structure,1373,1403,b) Than an-tra-xít (antraxit);
+ENTITY,E40_10,DIEM,Điểm,structure,1404,1415,c) Than mỡ;
+ENTITY,E40_11,DIEM,Điểm,structure,1416,1432,d) Than đá khác.
+ENTITY,E40_12,DIEM,Điểm,structure,2141,2697,"a) Hàng hóa vận chuyển quá cảnh hoặc chuyển khẩu qua cửa khẩu, biên giới Việt Nam theo quy định của pháp luật, bao gồm hàng hóa được vận chuyển từ nước xuất khẩu đến nước nhập khẩu qua cửa khẩu Việt Nam nhưng không làm thủ tục nhập khẩu vào Việt Nam và không làm thủ tục xuất khẩu ra khỏi Việt Nam; hàng hóa quá cảnh qua cửa khẩu, biên giới Việt Nam trên cơ sở Hiệp định ký kết giữa Chính phủ Việt Nam và Chính phủ nước ngoài hoặc thỏa thuận giữa cơ quan, người đại diện được Chính phủ Việt Nam và Chính phủ nước ngoài ủy quyền theo quy định của pháp luật;"
+ENTITY,E40_13,DIEM,Điểm,structure,2698,2782,"b) Hàng hóa tạm nhập khẩu, tái xuất khẩu trong thời hạn theo quy định của pháp luật;"
+ENTITY,E40_14,DIEM,Điểm,structure,2783,3006,"c) Hàng hóa do cơ sở sản xuất trực tiếp xuất khẩu hoặc ủy thác cho cơ sở kinh doanh xuất khẩu để xuất khẩu, trừ trường hợp tổ chức, hộ gia đình, cá nhân mua hàng hóa thuộc đối tượng chịu thuế bảo vệ môi trường để xuất khẩu."
+ENTITY,E40_15,DIEM,Điểm,structure,3278,3370,a) Trường hợp ủy thác nhập khẩu hàng hóa thì người nhận ủy thác nhập khẩu là người nộp thuế;
+ENTITY,E40_16,DIEM,Điểm,structure,3371,3619,"b) Trường hợp tổ chức, hộ gia đình, cá nhân làm đầu mối thu mua than khai thác nhỏ, lẻ mà không xuất trình được chứng từ chứng minh hàng hóa đã được nộp thuế bảo vệ môi trường thì tổ chức, hộ gia đình, cá nhân làm đầu mối thu mua là người nộp thuế."
+ENTITY,E40_17,DIEM,Điểm,structure,3818,3962,"a) Đối với hàng hóa sản xuất trong nước, số lượng hàng hóa tính thuế là số lượng hàng hóa sản xuất bán ra, trao đổi, tiêu dùng nội bộ, tặng cho;"
+ENTITY,E40_18,DIEM,Điểm,structure,3963,4053,"b) Đối với hàng hóa nhập khẩu, số lượng hàng hóa tính thuế là số lượng hàng hóa nhập khẩu."
+ENTITY,E40_19,DIEM,Điểm,structure,5358,5480,a) Mức thuế đối với hàng hóa chịu thuế phù hợp với chính sách phát triển kinh tế - xã hội của Nhà nước trong từng thời kỳ;
+ENTITY,E40_20,DIEM,Điểm,structure,5481,5591,b) Mức thuế đối với hàng hóa chịu thuế được xác định theo mức độ gây tác động xấu đến môi trường của hàng hóa.
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R4_1,BI_TAC_DONG_HIEU_LUC_TOAN_BO,Bị tác động hiệu lực toàn bộ,E16_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_3,E2_1,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_4,E2_1,,
+RELATION,R12_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_5,E2_1,,
+RELATION,R12_7,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_6,E2_1,,
+RELATION,R12_8,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_7,E2_1,,
+RELATION,R12_9,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_8,E2_1,,
+RELATION,R12_10,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_9,E2_1,,
+RELATION,R12_11,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_10,E2_1,,
+RELATION,R12_12,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_11,E2_1,,
+RELATION,R12_13,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_12,E2_1,,
+RELATION,R12_14,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_13,E2_1,,
+RELATION,R12_15,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_14,E2_1,,
+RELATION,R12_16,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_15,E2_1,,
+RELATION,R12_17,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_16,E2_1,,
+RELATION,R12_18,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_17,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E29_3,E2_1,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E29_4,E2_1,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E29_5,E2_1,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E29_6,E2_1,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E29_7,E2_1,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E29_8,E2_1,,
+RELATION,R17_9,DAN_CHIEU,Dẫn chiếu,E29_9,E2_1,,
+RELATION,R17_10,DAN_CHIEU,Dẫn chiếu,E29_10,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E30_19,E2_1,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E30_20,E2_1,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E30_21,E2_1,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E30_22,E2_1,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E30_23,E2_1,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E30_24,E2_1,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E30_25,E2_1,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E30_26,E2_1,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E30_27,E2_1,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E30_28,E2_1,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E30_29,E2_1,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E30_30,E2_1,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E30_31,E2_1,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E30_32,E2_1,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E30_33,E2_1,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E30_34,E2_1,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E30_35,E2_1,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E30_36,E2_1,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E30_37,E2_1,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E30_38,E2_1,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E30_39,E2_1,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E30_40,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_2,,
+RELATION,R22_7,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_9,THUOC,Thuộc,E40_1,E39_5,,
+RELATION,R22_10,THUOC,Thuộc,E40_2,E39_5,,
+RELATION,R22_11,THUOC,Thuộc,E40_3,E39_5,,
+RELATION,R22_12,THUOC,Thuộc,E40_4,E39_5,,
+RELATION,R22_13,THUOC,Thuộc,E40_5,E39_5,,
+RELATION,R22_14,THUOC,Thuộc,E40_6,E39_5,,
+RELATION,R22_15,THUOC,Thuộc,E40_7,E39_5,,
+RELATION,R22_16,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,R22_17,THUOC,Thuộc,E40_8,E39_6,,
+RELATION,R22_18,THUOC,Thuộc,E40_9,E39_6,,
+RELATION,R22_19,THUOC,Thuộc,E40_10,E39_6,,
+RELATION,R22_20,THUOC,Thuộc,E40_11,E39_6,,
+RELATION,R22_21,THUOC,Thuộc,E39_7,E38_3,,
+RELATION,R22_22,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,R22_23,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_24,THUOC,Thuộc,E39_10,E38_3,,
+RELATION,R22_25,THUOC,Thuộc,E39_11,E38_3,,
+RELATION,R22_26,THUOC,Thuộc,E39_12,E38_3,,
+RELATION,R22_27,THUOC,Thuộc,E39_13,E38_3,,
+RELATION,R22_28,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_29,THUOC,Thuộc,E39_14,E38_4,,
+RELATION,R22_30,THUOC,Thuộc,E39_15,E38_4,,
+RELATION,R22_31,THUOC,Thuộc,E40_12,E39_15,,
+RELATION,R22_32,THUOC,Thuộc,E40_13,E39_15,,
+RELATION,R22_33,THUOC,Thuộc,E40_14,E39_15,,
+RELATION,R22_34,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_35,THUOC,Thuộc,E39_16,E38_5,,
+RELATION,R22_36,THUOC,Thuộc,E39_17,E38_5,,
+RELATION,R22_37,THUOC,Thuộc,E40_15,E39_17,,
+RELATION,R22_38,THUOC,Thuộc,E40_16,E39_17,,
+RELATION,R22_39,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_40,THUOC,Thuộc,E39_18,E38_6,,
+RELATION,R22_41,THUOC,Thuộc,E39_19,E38_6,,
+RELATION,R22_42,THUOC,Thuộc,E40_17,E39_19,,
+RELATION,R22_43,THUOC,Thuộc,E40_18,E39_19,,
+RELATION,R22_44,THUOC,Thuộc,E39_20,E38_6,,
+RELATION,R22_45,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_46,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_47,THUOC,Thuộc,E39_21,E38_8,,
+RELATION,R22_48,THUOC,Thuộc,E39_22,E38_8,,
+RELATION,R22_49,THUOC,Thuộc,E40_19,E39_22,,
+RELATION,R22_50,THUOC,Thuộc,E40_20,E39_22,,
+RELATION,R22_51,THUOC,Thuộc,E38_9,E35_3,,
+RELATION,R22_52,THUOC,Thuộc,E39_23,E38_9,,
+RELATION,R22_53,THUOC,Thuộc,E39_24,E38_9,,
+RELATION,R22_54,THUOC,Thuộc,E39_25,E38_9,,
+RELATION,R22_55,THUOC,Thuộc,E39_26,E38_9,,
+RELATION,R22_56,THUOC,Thuộc,E38_10,E35_3,,
+RELATION,R22_57,THUOC,Thuộc,E39_27,E38_10,,
+RELATION,R22_58,THUOC,Thuộc,E39_28,E38_10,,
+RELATION,R22_59,THUOC,Thuộc,E39_29,E38_10,,
+RELATION,R22_60,THUOC,Thuộc,E38_11,E35_3,,
+RELATION,R22_61,THUOC,Thuộc,E39_30,E38_11,,
+RELATION,R22_62,THUOC,Thuộc,E39_31,E38_11,,
+RELATION,R22_63,THUOC,Thuộc,E39_32,E38_11,,
+RELATION,R22_64,THUOC,Thuộc,E39_33,E38_11,,
+RELATION,R22_65,THUOC,Thuộc,E39_34,E38_11,,
+RELATION,R22_66,THUOC,Thuộc,E38_12,E35_4,,
+RELATION,R22_67,THUOC,Thuộc,E39_35,E38_12,,
+RELATION,R22_68,THUOC,Thuộc,E39_36,E38_12,,
+RELATION,R22_69,THUOC,Thuộc,E38_13,E35_4,,
+RELATION,R22_70,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_71,THUOC,Thuộc,E11_1,E10_1,,

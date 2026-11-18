@@ -1,0 +1,186 @@
+{
+  "schema_version": "1.0",
+  "document_id": "17807",
+  "document_code": "02/2004/L-CTN",
+  "file_name": "02_2004_L-CTN_17807.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "LỆNH\nVỀ VIỆC CÔNG BỐ PHÁP LỆNH CỦA UỶ BAN THƯỜNG VỤ QUỐC HỘI",
+    "so_hieu": "02/2004/L-CTN",
+    "loai_van_ban": "LỆNH",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "ngày 05 tháng 04 năm 2004",
+    "ngay_co_hieu_luc": "2004-04-22",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH NƯỚC",
+    "nguoi_ky": "Trần Đức Lương",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 02/2004/L-CTN Về việc công bố Pháp lệnh của Uỷ ban Thường vụ Quốc hội\nCHỦ TỊCH NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nSố: 02/2004/L-CTN\nHà Nội, ngày 05 tháng 04 năm 2004\nLỆNH\nVỀ VIỆC CÔNG BỐ PHÁP LỆNH CỦA UỶ BAN THƯỜNG VỤ QUỐC HỘI\nCHỦ TỊCH NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 103 và Điều 106 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25/12/2001 của Quốc hội Khoá X, kỳ họp thứ 10;\nCăn cứ vào Điều 19 của Luật Tổ chức Quốc hội;\nCăn cứ vào Điều 51 của Luật Ban hành văn bản quy phạm pháp luật,\nNAY CÔNG BỐ:\nPháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh Thuế thu nhập đối với người có thu nhập cao.\nĐã được Uỷ ban Thường vụ Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam Khoá XI thông qua ngày 24 tháng 03 năm 2004./.\nCHỦ TỊCH NƯỚC\nTrần Đức Lương\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Ngày có hiệu lực]: 2004-04-22",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 207,
+      "end": 267,
+      "text": "LỆNH\nVỀ VIỆC CÔNG BỐ PHÁP LỆNH CỦA UỶ BAN THƯỜNG VỤ QUỐC HỘI",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 159,
+      "end": 172,
+      "text": "02/2004/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 207,
+      "end": 211,
+      "text": "LỆNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 181,
+      "end": 206,
+      "text": "ngày 05 tháng 04 năm 2004",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 953,
+      "end": 967,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 1024,
+      "end": 1034,
+      "text": "2004-04-22",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 991,
+      "end": 1003,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 78,
+      "end": 91,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 860,
+      "end": 873,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 874,
+      "end": 888,
+      "text": "Trần Đức Lương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E18_1",
+      "start": 641,
+      "end": 738,
+      "text": "Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh Thuế thu nhập đối với người có thu nhập cao.",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 349,
+      "end": 407,
+      "text": "Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 540,
+      "end": 561,
+      "text": "Luật Tổ chức Quốc hội",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 586,
+      "end": 626,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R6_1",
+      "from_id": "E18_1",
+      "to_id": "E2_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E19_3",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

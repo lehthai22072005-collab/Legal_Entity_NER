@@ -1,0 +1,142 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,85,"Luật Sửa đổi, bổ sung một số điều của Luật Đầu tư nước ngoài tại Việt Nam số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,77,85,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,6876,6901,ngày 23 tháng 12 năm 1992
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,7006,7020,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,7041,7051,1993-01-07
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,7073,7083,1996-11-23
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,7107,7127,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,86,94,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,6903,6920,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,6928,6941,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,7220,7238,Hiến pháp năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,7280,7327,Luật Đầu tư nước ngoài tại Việt Nam số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,7147,7165,Hiến pháp năm 1992
+ENTITY,E23_1,VB_HUONG_DAN_AP_DUNG,Văn bản hướng dẫn áp dụng,reference,7357,7492,Thông tư liên tịch số 96-TT/LB Thông tư quy định về chế độ hoàn vốn tìm kiếm thăm dò tài nguyên khoáng sản sau khi đưa mỏ vào khai thác
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,7542,7649,"Thông tư số 22-BYT/TT Hướng dẫn việc đầu tư của nước ngoài trong lĩnh vực khám bệnh, chữa bệnh tại Việt Nam"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,7699,7824,Thông tư số 61 TC/TCT HƯớNG DẫN CHI TIếT Về THUế Và QUY ÐịNH THủ TụC THU NộP THUế  ÐốI VớI HợP ÐồNG CHIA SảN PHẩM Mỏ ÐạI hùng
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,7874,7996,Nghị định số 87-CP Của chính phủ ban hành quy chế đầu tư theo hình thức hợp đồng xây dựng - kinh doanh - chuyển giao (BOT)
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,8046,8299,"Thông tư số 96/TC-TCT Hướng dẫn thu thuế đối với các trường hợp chuyển nhượng vốn của các chủ đầu tư trong các doanh nghiệp được thành lập theo Luật công ty, Luật  doanh nghiệp tư nhân, Luật đầu tư nước ngoài tại Việt Nam, Luật khuyến khích đầu tư trong"
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,11129,11176,Luật Đầu tư nước ngoài tại Việt Nam số 52-L/CTN
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,8321,8372,"Luật Thuế Xuất khẩu, Thuế Nhập khẩu số 64-LTC/HĐNN8"
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,8394,8436,"Pháp lệnh số 69-LCT/HĐNN8 Về thuế Nhà, Đất"
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,8458,8486,Bộ luật Lao động số Không số
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,8508,8553,Luật Thuế sử dụng đất nông nghiệp số Không số
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,8575,8599,Luật Đất đai số Không số
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,8621,8648,Luật Khoáng sản số Không số
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,8668,8778,Quyết định số 3123/QĐ-UB ban hành Quy định chính sách khuyến khích đầu tư nước ngoài trên địa bàn tỉnh Bến Tre
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,8798,8920,Nghị định số 87-CP Của chính phủ ban hành quy chế đầu tư theo hình thức hợp đồng xây dựng - kinh doanh - chuyển giao (BOT)
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,8940,9048,Quyết định số 56/2005/QĐ-UBND Ban hành Quy định chính sách khuyến khích đầu tư trên địa bàn tỉnh Tuyên Quang
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,9068,9164,"Quyết định số 737/1997/QĐ-UB Về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Sở Xây dựng"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,9184,9285,Nghị định số 29-CP Về những biện pháp khuyến khích người Việt Nam định cư ở nước ngoài đầu tư về nước
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,9305,9413,Nghị định số 87/CP Ban hành Quy chế Đầu tư theo hình thức hợp đồng xây dựng - kinh doanh - chuyển giao (BOT)
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,9433,9686,"Thông tư số 96/TC-TCT Hướng dẫn thu thuế đối với các trường hợp chuyển nhượng vốn của các chủ đầu tư trong các doanh nghiệp được thành lập theo Luật công ty, Luật  doanh nghiệp tư nhân, Luật đầu tư nước ngoài tại Việt Nam, Luật khuyến khích đầu tư trong"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,9706,9835,"Thông tư số 50/TC-TCĐN Hướng dẫn thi hành các quy định về tiền thuê đất, mặt nước và mặt biển đối với các dự án đầu tư nước ngoài"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,9855,9941,Nghị định số 18-CP Quy định chi tiết việc thi hành Luật Đầu tư nước ngoài tại Việt Nam
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,9961,10086,Thông tư số 61 TC/TCT HƯớNG DẫN CHI TIếT Về THUế Và QUY ÐịNH THủ TụC THU NộP THUế  ÐốI VớI HợP ÐồNG CHIA SảN PHẩM Mỏ ÐạI hùng
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,10106,10318,Thông tư số 51/TC-TCĐN Hướng dẫn thực hiện các quy định về thuế áp dụng với các xí nghiệp có vốn đầu tư nước ngoài và bên nước ngoài hợp tác kinh doanh trên cơ sở hợp đồng theo luật đầu tư nước ngoài tại Việt Nam
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,10338,10393,Nghị định số 192-CP Về ban hành Quy chế Khu công nghiệp
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,10413,10520,"Thông tư số 22-BYT/TT Hướng dẫn việc đầu tư của nước ngoài trong lĩnh vực khám bệnh, chữa bệnh tại Việt Nam"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,10540,10653,Quyết định số 67/2001/QĐ-TTg Về việc sáp nhập Tổng công ty Cơ khí năng lượng và mỏ vào Tổng công ty Than Việt Nam
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,10673,10798,Quyết định số 2741/1998/QĐ-UB Về việc ban hành quy chế phối hợp hoạt động giữa UBND và tổ chức công đoàn các cấp tỉnh Phú Thọ
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,10818,10948,"Nghị định số 11/CP Quy định chi tiết thi hành Pháp lệnh về Quyền và Nghĩa vụ của tổ chức, cá nhân nước ngoài thuê đất tại Việt Nam"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,10968,11079,"Nghị định số 39-CP Về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Uỷ ban Nhà nước về hợp tác và đầu tư"
+ENTITY,E38_1,DIEU,Điều,structure,764,848,"Điều 1
+Sửa đổi, bổ sung một số điều của Luật đầu tư nước ngoài tại Việt Nam như sau:"
+ENTITY,E38_2,DIEU,Điều,structure,6617,6747,"Điều 2
+Chính phủ sửa đổi, bổ sung các văn bản quy định chi tiết thi hành Luật đầu tư nước ngoài tại Việt Nam phù hợp với Luật này."
+ENTITY,E39_1,KHOAN,Khoản,structure,849,889,"1- Điều 2 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,1728,1940,"2- Đoạn 2 Điều 7 được sửa đổi, bổ sung như sau:
+""Bên Việt Nam tham gia xí nghiệp liên doanh góp vốn pháp định bằng:
+1. Tiền Việt Nam, tiền nước ngoài;
+2. Các nguồn tài nguyên theo quy định của Chính phủ Việt Nam;"
+ENTITY,E39_3,KHOAN,Khoản,structure,1941,1985,"3. Vật liệu xây dựng, trang bị và tiện nghi;"
+ENTITY,E39_4,KHOAN,Khoản,structure,1986,2072,"4. Giá trị quyền sử dụng đất, mặt nước, mặt biển theo quy định của Chính phủ Việt Nam;"
+ENTITY,E39_5,KHOAN,Khoản,structure,2073,3055,"5. Nhà xưởng, công trình xây dựng khác, thiết bị, máy móc, dụng cụ, bộ phận rời;6. Dịch vụ thi công và đưa xí nghiệp vào hoạt động, bằng sáng chế, bí quyết kỹ thuật, quy trình công nghệ, dịch vụ kỹ thuật.""
+3- Điều 8 được bổ sung một đoạn vào cuối điều như sau:
+""Đối với cơ sở kinh tế quan trọng do Chính phủ quyết định, các bên thoả thuận tăng dần tỷ trọng góp vốn của Bên Việt Nam trong vốn pháp định của xí nghiệp liên doanh.""
+4- Điều 14 được bổ sung một đoạn vào cuối điều như sau:
+""Theo quyết định của Chính phủ, các doanh nghiệp Việt Nam, trên cơ sở thoả thuận với chủ xí nghiệp, được mua lại từng phần vốn của xí nghiệp thuộc những cơ sở kinh tế quan trọng.""
+5- Điều 15 được sửa đổi, bổ sung như sau:
+""Điều 15. Thời hạn hoạt động của xí nghiệp có vốn đầu tư nước ngoài do Chính phủ quyết định đối với từng dự án, nhưng không quá 50 năm.Căn cứ vào quy định của Uỷ ban thường vụ Quốc hội, Chính phủ quyết định thời hạn dài hơn đối với từng dự án, nhưng tối đa không quá 70 năm."""
+ENTITY,E39_6,KHOAN,Khoản,structure,3056,3471,"6- Điều 17 được sửa đổi, bổ sung như sau:
+""Điều 17. Xí nghiệp có vốn đầu tư nước ngoài mở tài khoản bằng tiền Việt Nam và tiền nước ngoài tại Ngân hàng Việt Nam hoặc tại Ngân hàng liên doanh hoặc tại các chi nhánh Ngân hàng nước ngoài đặt ở Việt Nam.Trong trường hợp đặc biệt được Ngân hàng Nhà nước Việt Nam chấp thuận, xí nghiệp có vốn đầu tư nước ngoài được phép mở tài khoản vốn vay tại Ngân hàng ở nước ngoài."""
+ENTITY,E39_7,KHOAN,Khoản,structure,3472,4544,"7- Bổ sung Điều 19a, Điều 19b như sau:
+""Điều 19a.
+Các tổ chức, cá nhân nước ngoài được đầu tư vào các khu chế xuất tại Việt Nam dưới các hình thức quy định tại Điều 4 của Luật này.
+Các doanh nghiệp Việt Nam thuộc mọi thành phần kinh tế được hợp tác với tổ chức, cá nhân nước ngoài đầu tư vào khu chế xuất dưới hình thức quy định tại điểm 1, điểm 2 Điều 4 của Luật này hoặc thành lập xí nghiệp 100% vốn của mình.
+Quan hệ trao đổi hàng hoá giữa các doanh nghiệp trong thị trường Việt Nam với các xí nghiệp chế xuất được coi là quan hệ xuất nhập khẩu và theo các quy định của pháp luật xuất nhập khẩu.
+Chính phủ ban hành các văn bản về quy chế khu chế xuất và xí nghiệp chế xuất.""
+""Điều 19b.
+Các tổ chức, cá nhân nước ngoài đầu tư vào Việt Nam xây dựng công trình hạ tầng có thể ký kết hợp đồng xây dựng - kinh doanh - chuyển giao với cơ quan Nhà nước có thẩm quyền của Việt Nam. Các tổ chức, cá nhân nước ngoài được hưởng các quyền lợi và thực hiện các nghĩa vụ quy định trong hợp đồng.
+Chính phủ quy định cụ thể về đầu tư theo hợp đồng xây dựng - kinh doanh - chuyển giao."""
+ENTITY,E39_8,KHOAN,Khoản,structure,4545,4883,"8- Điều 21 được bổ sung một đoạn vào cuối điều như sau:
+""Trong trường hợp do thay đổi quy định của pháp luật Việt Nam mà làm thiệt hại đến lợi ích của các bên tham gia hợp đồng hợp tác kinh doanh và xí nghiệp có vốn đầu tư nước ngoài đã được cấp giấy phép, thì Nhà nước có biện pháp giải quyết thoả đáng đối với quyền lợi của nhà đầu tư."""
+ENTITY,E39_9,KHOAN,Khoản,structure,4884,5098,"9- Điều 27 được bổ sung một đoạn vào cuối điều như sau:
+""Đối với xí nghiệp 100% vốn nước ngoài, trong trường hợp cần khuyến khích đầu tư, Chính phủ quyết định cho hưởng ưu đãi quy định tại đoạn 1, đoạn 2 Điều này."""
+ENTITY,E39_10,KHOAN,Khoản,structure,5099,5460,"10- Bổ sung Điều 35a như sau:
+""Điều 35a. Xí nghiệp chế xuất được:
+1. Miễn thuế xuất khẩu, thuế nhập khẩu đối với hàng hoá từ khu chế xuất xuất khẩu ra nước ngoài và từ nước ngoài nhập khẩu vào khu chế xuất;
+2. Hưởng mức thuế ưu đãi theo quy định tại Điều 28, Điều 33 của Luật này. Chính phủ quy định cụ thể mức thuế ưu đãi đối với từng loại xí nghiệp chế xuất."""
+ENTITY,E39_11,KHOAN,Khoản,structure,5461,6543,"11- Đoạn 2 Điều 36 được sửa đổi, bổ sung như sau:
+""Cơ quan Nhà nước quản lý đầu tư nước ngoài có những nhiệm vụ và quyền hạn sau đây:
+1. Hướng dẫn Bên nước ngoài và Bên Việt Nam trong quá trình đàm phán, ký kết hợp đồng hợp tác kinh doanh, hợp đồng liên doanh, hợp đồng xây dựng - kinh doanh - chuyển giao ; hướng dẫn các tổ chức, cá nhân nước ngoài thành lập xí nghiệp 100% vốn nước ngoài ; làm đầu mối giải quyết những vấn đề do tổ chức, cá nhân đầu tư nước ngoài yêu cầu;
+2. Xem xét và chuẩn y hợp đồng hợp tác kinh doanh, hợp đồng liên doanh, hợp đồng xây dựng - kinh doanh - chuyển giao ; cho phép các tổ chức, cá nhân nước ngoài thành lập xí nghiệp 100% vốn nước ngoài; chuẩn y điều lệ của xí nghiệp có vốn đầu tư nước ngoài;
+3. Quyết định cho các xí nghiệp có vốn đầu tư nước ngoài và Bên nước ngoài tham gia hợp tác kinh doanh trên cơ sở hợp đồng được hưởng những điều kiện ưu đãi;
+4. Theo dõi và kiểm tra việc thực hiện hợp đồng hợp tác kinh doanh, hoạt động của các xí nghiệp có vốn đầu tư nước ngoài;5. Phân tích hoạt động kinh tế của xí nghiệp có vốn đầu tư nước ngoài."""
+ENTITY,E39_12,KHOAN,Khoản,structure,6544,6616,"12- Các chữ ""Hội đồng Bộ trưởng"" được sửa đổi thành các chữ ""Chính phủ""."
+ENTITY,E40_1,DIEM,Điểm,structure,890,1014,"a) Điểm 2 được sửa đổi như sau:
+""2. ""Bên Việt Nam"" là một bên gồm một hoặc nhiều doanh nghiệp thuộc mọi thành phần kinh tế."""
+ENTITY,E40_2,DIEM,Điểm,structure,1015,1727,"b) Bổ sung các điểm như sau:
+""13. ""Khu chế xuất"" là khu công nghiệp chuyên sản xuất hàng xuất khẩu, thực hiện các dịch vụ cho sản xuất hàng xuất khẩu và hoạt động xuất khẩu, bao gồm một hoặc nhiều xí nghiệp, có ranh giới địa lý xác định, do Chính phủ quyết định thành lập.""
+""14. ""Xí nghiệp chế xuất"" là xí nghiệp được thành lập và hoạt động trong phạm vi khu chế xuất.""
+""15. ""Hợp đồng xây dựng - kinh doanh - chuyển giao"" là văn bản ký kết giữa tổ chức, cá nhân nước ngoài với cơ quan Nhà nước có thẩm quyền của Việt Nam để xây dựng, khai thác kinh doanh công trình hạ tầng trong một thời hạn nhất định ; hết thời hạn, tổ chức, cá nhân nước ngoài chuyển giao không bồi hoàn công trình đó cho Chính phủ Việt Nam."""
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R11_1,HUONG_DAN_AP_DUNG,Hướng dẫn áp dụng,E2_1,E23_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_4,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E2_1,E29_6,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E40_1,E39_1,,
+RELATION,R22_5,THUOC,Thuộc,E40_2,E39_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_11,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_12,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_13,THUOC,Thuộc,E39_9,E38_1,,
+RELATION,R22_14,THUOC,Thuộc,E39_10,E38_1,,
+RELATION,R22_15,THUOC,Thuộc,E39_11,E38_1,,
+RELATION,R22_16,THUOC,Thuộc,E39_12,E38_1,,

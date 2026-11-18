@@ -1,0 +1,63 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,92,"Nghị quyết số 04/2007/QH12 Về việc điều chỉnh chương trình xây dựng luật, pháp lệnh năm 2007"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,26,04/2007/QH12
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,190,214,ngày 31 tháng 7 năm 2007
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1836,1850,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1871,1881,2007-07-31
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1905,1917,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,537,545,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1730,1747,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1755,1771,Nguyễn Phú Trọng
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,2603,2655,Luật Ban hành Văn bản quy phạm pháp luật số Không số
+ENTITY,E14_2,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,2710,2804,"Luật Sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật số 02/2002/QH11"
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2348,2429,"Luật Sửa đổi, bổ sung một số điều của Luật phòng,chống tham nhũng số 01/2007/QH12"
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,2456,2548,"Pháp lệnh số 01/2007/UBTVQH12 Sửa đổi, bổ sung một số điều của Pháp lệnh thi hành án phạt tù"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,2060,2154,"Luật Sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật số 02/2002/QH11"
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,2174,2226,Luật Ban hành Văn bản quy phạm pháp luật số Không số
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,2246,2321,"Luật Sửa đổi, bổ sung một số điều của Luật tổ chức Quốc hội số 83/2007/QH11"
+ENTITY,E19_4,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,388,515,"Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10"
+ENTITY,E19_5,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,524,733,"Luật tổ chức Quốc hội năm 2001 đã được sửa đổi, bổ sung một số điều theo Luật số 83/2007/QH11 và Luật ban hành văn bản quy phạm pháp luật năm 1996 đã được sửa đổi, bổ sung một số điều theo Luật số 02/2002/QH11"
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2854,3044,"Thông tư liên tịch số 206/2013/TTLT-BTC-BCA Hướng dẫn về việc thu, nộp thuế thu nhập cá nhân đối với sỹ quan, hạ sỹ quan, công chức, viên chức và nhân viên hưởng lương trong Công an nhân dân"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3094,3407,"Thông tư số 111/2013/TT-BTC Hướng dẫn thực hiện Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân và Nghị định số 65/2013/NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân"
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3457,3960,"Thông tư số 92/2015/TT-BTC Hướng dẫn thực hỉện thuế giá trị gia tăng và thuế thu nhập cá nhân đốỉ với cá nhân cư trú có hoạt động kinh doanh; hướng dẫn thực hiện một số nội dung sửa đổỉ, bổ sung về thuế thu nhập cá nhân quy định tại Luật sửa đổi, bổ sung một số điều của các Luật về thuế số 71/2014/QH13 và Nghị định sổ 12/2015/NĐ-CP ngày 12/02/2015 của Chính phủ quy định chi tiết thi hành Luật sửa đỗi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,5911,5956,Luật Công nghiệp công nghệ số số 71/2025/QH15
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,3980,4097,"Thông tư số 41/2026/TT-BTC Hướng dẫn việc kê khai, khấu trừ, nộp thuế, quyết toán thuế trên thị trường tài sản mã hóa"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,4117,4210,Nghị quyết số 954/2020/UBTVQH14 Về điều chỉnh mức giảm trừ gia cảnh của thuế thu nhập cá nhân
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,4230,4510,"Thông tư số 25/2018/TT-BTC Hướng dẫn Nghị định số 146/2017/NĐ-CP ngày 15 tháng 12 năm 2017 của Chính phủ và sửa đổi, bổ sung một số điều của Thông tư số 78/2014/TT-BTC ngày 18 tháng 6 năm 2014 của Bộ Tài chính, Thông tư số 111/2013/TT-BTC ngày 15 tháng 8 năm 2013 của Bộ Tài chính"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,4530,4682,Quyết định số 59/2017/QĐ-UBND Ban hành Quy định biện pháp và trách nhiệm quản lý thu thuế đối với hoạt động kinh doanh vận tải trên địa bàn tỉnh Bắc Kạn
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,4702,5205,"Thông tư số 92/2015/TT-BTC Hướng dẫn thực hỉện thuế giá trị gia tăng và thuế thu nhập cá nhân đốỉ với cá nhân cư trú có hoạt động kinh doanh; hướng dẫn thực hiện một số nội dung sửa đổỉ, bổ sung về thuế thu nhập cá nhân quy định tại Luật sửa đổi, bổ sung một số điều của các Luật về thuế số 71/2014/QH13 và Nghị định sổ 12/2015/NĐ-CP ngày 12/02/2015 của Chính phủ quy định chi tiết thi hành Luật sửa đỗi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,5225,5538,"Thông tư số 111/2013/TT-BTC Hướng dẫn thực hiện Luật Thuế thu nhập cá nhân, Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân và Nghị định số 65/2013/NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Thuế thu nhập cá nhân và Luật sửa đổi, bổ sung một số điều của Luật thuế thu nhập cá nhân"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,5558,5748,"Thông tư liên tịch số 206/2013/TTLT-BTC-BCA Hướng dẫn về việc thu, nộp thuế thu nhập cá nhân đối với sỹ quan, hạ sỹ quan, công chức, viên chức và nhân viên hưởng lương trong Công an nhân dân"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,5768,5860,"Pháp lệnh số 01/2007/UBTVQH12 Sửa đổi, bổ sung một số điều của Pháp lệnh thi hành án phạt tù"
+ENTITY,E38_1,DIEU,Điều,structure,947,1021,"Điều 1.
+Điều chỉnh Chương trình xây dựng luật, pháp lệnh năm 2007 như sau:"
+ENTITY,E38_2,DIEU,Điều,structure,1325,1593,"Điều 2.
+Giao Uỷ ban thường vụ Quốc hội chỉ đạo triển khai thực hiện Chương trình xây dựng luật, pháp lệnh năm 2007 đã được điều chỉnh. Nghị quyết này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ nhất thông qua ngày 31 tháng 7 năm 2007."
+ENTITY,E39_1,KHOAN,Khoản,structure,1022,1196,"1. Bổ sung vào Chương trình trình Quốc hội xem xét, thông qua tại kỳ họp thứ nhất, Quốc hội khóa XII dự án Luật sửa đổi, bổ sung một số điều của Luật phòng, chống tham nhũng;"
+ENTITY,E39_2,KHOAN,Khoản,structure,1197,1324,"2. Bổ sung vào Chương trình chính thức năm 2007 dự án Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh thi hành án phạt tù."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R2_2,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_2,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R6_2,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_2,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_3,,
+RELATION,R7_4,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_4,,
+RELATION,R7_5,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_5,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_4,THUOC,Thuộc,E11_1,E10_1,,

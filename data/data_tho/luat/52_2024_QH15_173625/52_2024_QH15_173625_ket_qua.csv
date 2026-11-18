@@ -1,0 +1,135 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,93,"Luật sửa đổi, bổ sung một số điều của Luật Sĩ quan Quân đội nhân dân Việt Nam số 52/2024/QH15"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,81,93,52/2024/QH15
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,19552,19562,Quốc phòng
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,196,221,ngày 28 tháng 11 năm 2024
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,19575,19582,Sĩ quan
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,14562,14587,ngày 01 tháng 12 năm 2024
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,14820,14832,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,358,366,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,14713,14721,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,14730,14744,Trần Thanh Mẫn
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,414,469,Luật Sĩ quan Quân đội nhân dân Việt Nam số 16/1999/QH10
+ENTITY,E15_2,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,12489,12526,Luật Công an nhân dân số 37/2018/QH14
+ENTITY,E15_3,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,534,554,Luật số 72/2014/QH13
+ENTITY,E15_4,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,512,532,Luật số 19/2008/QH12
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,414,469,Luật Sĩ quan Quân đội nhân dân Việt Nam số 16/1999/QH10
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,512,532,Luật số 19/2008/QH12
+ENTITY,E18_3,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,558,578,Luật số 48/2019/QH14
+ENTITY,E18_4,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,534,554,Luật số 72/2014/QH13
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,307,356,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E27_1,VB_HOP_NHAT,Văn bản hợp nhất,reference,14853,14920,Văn bản hợp nhất số 31/VBHN-VPQH Sĩ quan Quân đội nhân dân Việt Nam
+ENTITY,E27_2,VB_HOP_NHAT,Văn bản hợp nhất,reference,14941,15020,Văn bản hợp nhất Về sĩ quan Quân đội nhân dân Việt Nam số 128/2026/VBHN-LQ-VPQH
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,15042,15213,"Nghị định số 343/2025/NĐ-CP Quy định chế độ an điều dưỡng, chăm sóc khi mắc bệnh hiểm nghèo, chế độ thông tin, hỗ trợ tang lễ khi từ trần đối với sĩ quan Quân đội nghỉ hưu"
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,15235,15488,"Nghị định số 157/2025/NĐ-CP Quy định chi tiết và biện pháp thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc đối với quân nhân, công an nhân dân, dân quân thường trực và người làm công tác cơ yếu hưởng lương như đối với quân nhân"
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,15510,15595,Nghị định số 284/2025/NĐ-CP Quy định về tổ chức và hoạt động của Thanh tra quốc phòng
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,15617,15747,"Thông tư số 10/2025/TT-BQP quy định về hạn tuồi của sĩ quan giữ chức vụ chỉ huy, quản lý; kéo dài tuổi phục vụ tại ngũ của sĩ quan"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,15767,15953,"Nghị định số 178/2024/NĐ-CP về chính sách, chế độ đối với cán bộ, công chức, viên chức, người lao động và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,15973,16168,"Thông tư số 18/2025/TT-BQP Quy định phong quân hàm học viên tốt nghiệp đào tạo sĩ quan tại ngũ; thăng quân hàm sĩ quan cấp tá, cấp úy vượt bậc, trước thời hạn và nâng lương sĩ quan trước thời hạn"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,16188,16432,"Thông tư số 106/2025/TT-BQP sửa đổi, bổ sung một số điều của Thông tư số 105/2023/TT-BQP ngày 06 tháng 12 năm 2023 của Bộ trưởng Bộ Quốc phòng quy định tiêu chuẩn sức khỏe, khám sức khỏe cho các đối tượng thuộc phạm vi quản lý của Bộ Quốc phòng"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,16452,16669,"THÔNG TƯ SỐ 50/2026/TT-BQP QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN, TỔ CHỨC THI HÀNH MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 363/2025/NĐ-CP CỦA CHÍNH PHỦ QUY ĐỊNH CHÍNH SÁCH THU HÚT, TRỌNG DỤNG NHÂN TÀI ĐỐI VỚI QUÂN ĐỘI NHÂN DÂN VIỆT NAM"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,16689,16848,"Nghị định số 59/2025/NĐ-CP quy định về tiêu chí, tiêu chuẩn để xét thăng quân hàm cấp tướng vượt bậc, trước thời hạn đối với sĩ quan Quân đội nhân dân Việt Nam"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,16868,17262,"Nghị định số 52/2025/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 21/2009/NĐ-CP ngày 23 tháng 02 năm 2009 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Sĩ quan Quân đội nhân dân Việt Nam về chế độ, chính sách đối với sĩ quan thôi phục vụ tại ngũ; sĩ quan tại ngũ hy sinh, từ trần; sĩ quan tại ngũ chuyển sang quân nhân chuyên nghiệp hoặc công chức quốc phòng"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,17282,17539,"Nghị định số 67/2025/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định 178/2024/NĐ-CP của Chính phủ về chính sách, chế độ đối với cán bộ, công chức, viên chức, người lao động và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,17559,17703,"Thông tư số 101/2025/TT-BCA Quy định về tuyển chọn và thực hiện chế độ, chính sách đối với công dân thực hiện nghĩa vụ tham gia Công an nhân dân"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,17723,18134,"Thông tư số 65/2025/TT-BQP Sửa đổi, bổ sung một số điều của các Thông tư của Bộ trưởng Bộ Quốc phòng về tính tuổi quân; cấp, quản lý, sử dụng Giấy chứng minh, Thẻ; tuyển chọn, tuyển dụng quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng; phong, thăng, giáng cấp bậc, bổ nhiệm, giáng chức, cách chức và thực hiện xuất ngũ hạ sĩ quan, binh sĩ; hình thức, nội dung, thời gian sinh hoạt của quân nhân dự bị"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,18154,18273,"Thông tư số 56/2025/TT-BQP Quy định chế độ nghỉ của sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,18293,18378,Nghị định số 284/2025/NĐ-CP Quy định về tổ chức và hoạt động của Thanh tra quốc phòng
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,18398,18569,"Nghị định số 343/2025/NĐ-CP Quy định chế độ an điều dưỡng, chăm sóc khi mắc bệnh hiểm nghèo, chế độ thông tin, hỗ trợ tang lễ khi từ trần đối với sĩ quan Quân đội nghỉ hưu"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,18589,18741,"Nghị định số 177/2024/NĐ-CP quy định chế độ, chính sách đối với các trường hợp không tái cử, tái bổ nhiệm và cán bộ thôi việc, nghỉ hưu theo nguyện vọng"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,18761,18914,"Thông tư số 100/2025/TT-BTC Hướng dẫn việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí dành cho công tác đào tạo, bồi dưỡng công chức, viên chức"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,18934,19045,"Nghị định số 363/2025/NĐ-CP Quy định chính sách thu hút, trọng dụng nhân tài đối với Quân đội nhân dân Việt Nam"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,19065,19149,"Luật sửa đổi, bổ sung một số điều của 11 Luật về quân sự, quốc phòng số 98/2025/QH15"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,19169,19299,"Thông tư số 10/2025/TT-BQP quy định về hạn tuồi của sĩ quan giữ chức vụ chỉ huy, quản lý; kéo dài tuổi phục vụ tại ngũ của sĩ quan"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,19319,19542,"Nghị quyết số 66.12/2026/NQ-CP Tổ chức và hoạt động của Ban Chỉ huy quân sự xã, phường, đặc khu trực thuộc Bộ Chỉ huy quân sự tỉnh, thành phố trực thuộc trung ương, Bộ Tư lệnh Thủ đô Hà Nội, Bộ Tư lệnh Thành phố Hồ Chí Minh"
+ENTITY,E38_1,DIEU,Điều,structure,580,586,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,12448,12454,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,14503,14509,Điều 3
+ENTITY,E39_1,KHOAN,Khoản,structure,661,697,"1. Sửa đổi, bổ sung Điều 11 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,2461,2497,"2. Sửa đổi, bổ sung Điều 13 như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,3316,3352,"3. Sửa đổi, bổ sung Điều 15 như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,5645,5700,"4. Sửa đổi, bổ sung khoản 3 và khoản 4 Điều 17 như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,6375,6411,"5. Sửa đổi, bổ sung Điều 18 như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,7406,7450,"6. Sửa đổi, bổ sung khoản 1 Điều 29 như sau:"
+ENTITY,E39_7,KHOAN,Khoản,structure,7814,7865,7. Bổ sung khoản 3 vào sau khoản 2 Điều 32 như sau:
+ENTITY,E39_8,KHOAN,Khoản,structure,8039,8075,"8. Sửa đổi, bổ sung Điều 33 như sau:"
+ENTITY,E39_9,KHOAN,Khoản,structure,8874,8925,9. Bổ sung khoản 3 vào sau khoản 2 Điều 36 như sau:
+ENTITY,E39_10,KHOAN,Khoản,structure,9070,9128,10. Bổ sung điểm e vào sau điểm đ khoản 1 Điều 37 như sau:
+ENTITY,E39_11,KHOAN,Khoản,structure,9276,9313,"11. Sửa đổi, bổ sung Điều 38 như sau:"
+ENTITY,E39_12,KHOAN,Khoản,structure,9617,9671,"12. Sửa đổi, bổ sung một số khoản của Điều 41 như sau:"
+ENTITY,E39_13,KHOAN,Khoản,structure,10066,10122,"13. Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 46 như sau:"
+ENTITY,E39_14,KHOAN,Khoản,structure,11178,11230,14. Bổ sung khoản 5 vào sau khoản 4 Điều 47 như sau:
+ENTITY,E39_15,KHOAN,Khoản,structure,11676,11728,"15. Bổ sung, thay thế, bỏ một số từ, cụm từ sau đây:"
+ENTITY,E39_16,KHOAN,Khoản,structure,12636,12672,"1. Sửa đổi, bổ sung Điều 25 như sau:"
+ENTITY,E39_17,KHOAN,Khoản,structure,13976,14020,"2. Sửa đổi, bổ sung khoản 2 Điều 29 như sau:"
+ENTITY,E40_1,DIEM,Điểm,structure,9672,9708,"a) Sửa đổi, bổ sung khoản 1 như sau:"
+ENTITY,E40_2,DIEM,Điểm,structure,9944,9987,b) Bổ sung khoản 6 vào sau khoản 5 như sau:
+ENTITY,E40_3,DIEM,Điểm,structure,11729,11822,"a) Bổ sung từ ""chức danh"" vào sau từ ""chức vụ"" tại khoản 2 Điều 12 và điểm b khoản 1 Điều 25;"
+ENTITY,E40_4,DIEM,Điểm,structure,11823,11983,"b) Bổ sung cụm từ ""Tư lệnh, Chính ủy Bộ Tư lệnh Tác chiến không gian mạng"" vào sau cụm từ ""Tư lệnh, Chính ủy Cảnh sát biển Việt Nam"" tại điểm b khoản 1 Điều 25;"
+ENTITY,E40_5,DIEM,Điểm,structure,11984,12090,"c) Bổ sung cụm từ ""cùng ngành nghề làm việc"" vào sau cụm từ ""cùng điều kiện làm việc"" tại khoản 1 Điều 31;"
+ENTITY,E40_6,DIEM,Điểm,structure,12091,12184,"d) Bổ sung cụm từ ""chính sách về đất ở"" vào trước cụm từ ""phụ cấp nhà ở"" tại khoản 7 Điều 31;"
+ENTITY,E40_7,DIEM,Điểm,structure,12185,12258,"đ) Thay thế từ ""hộ khẩu"" bằng từ ""thường trú"" tại điểm d khoản 1 Điều 37;"
+ENTITY,E40_8,DIEM,Điểm,structure,12259,12364,"e) Thay thế cụm từ ""kế hoạch của Chính phủ"" bằng cụm từ ""quyết định của Thủ tướng Chính phủ” tại Điều 40;"
+ENTITY,E40_9,DIEM,Điểm,structure,12365,12447,"g) Bỏ cụm từ ""được miễn thực hiện nghĩa vụ lao động công ích"" tại khoản 1 Điều 43."
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R3_2,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_2,E2_1,,
+RELATION,R3_3,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_3,E2_1,,
+RELATION,R3_4,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_4,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R15_1,HOP_NHAT,Hợp nhất,E27_1,E2_1,,
+RELATION,R15_2,HOP_NHAT,Hợp nhất,E27_2,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E18_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E18_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E18_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E18_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E29_3,E2_1,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E29_4,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_9,E38_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_10,E38_1,,
+RELATION,R22_11,THUOC,Thuộc,E39_11,E38_1,,
+RELATION,R22_12,THUOC,Thuộc,E39_12,E38_1,,
+RELATION,R22_13,THUOC,Thuộc,E40_1,E39_12,,
+RELATION,R22_14,THUOC,Thuộc,E40_2,E39_12,,
+RELATION,R22_15,THUOC,Thuộc,E39_13,E38_1,,
+RELATION,R22_16,THUOC,Thuộc,E39_14,E38_1,,
+RELATION,R22_17,THUOC,Thuộc,E39_15,E38_1,,
+RELATION,R22_18,THUOC,Thuộc,E40_3,E39_15,,
+RELATION,R22_19,THUOC,Thuộc,E40_4,E39_15,,
+RELATION,R22_20,THUOC,Thuộc,E40_5,E39_15,,
+RELATION,R22_21,THUOC,Thuộc,E40_6,E39_15,,
+RELATION,R22_22,THUOC,Thuộc,E40_7,E39_15,,
+RELATION,R22_23,THUOC,Thuộc,E40_8,E39_15,,
+RELATION,R22_24,THUOC,Thuộc,E40_9,E39_15,,
+RELATION,R22_25,THUOC,Thuộc,E39_16,E38_2,,
+RELATION,R22_26,THUOC,Thuộc,E39_17,E38_2,,
+RELATION,R22_27,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_28,THUOC,Thuộc,E11_1,E10_1,,

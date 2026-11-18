@@ -1,0 +1,25 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,135,Pháp lệnh số Không số Về việc quy định một số điểm về bầu cử và tổ chức Hội đồng nhân dân và Uỷ ban hành chính các cấp trong thời chiến
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,9,Pháp lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,3170,3180,1967-04-01
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,3138,3152,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,3201,3211,1967-04-11
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,3235,3249,Ngưng hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,598,623,UỶ BAN THƯỜNG VỤ QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,3263,3271,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,3054,3065,Hồ Chí Minh
+ENTITY,E38_1,DIEU,Điều,structure,722,728,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1190,1196,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1688,1694,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,2040,2046,Điều 4
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,3291,3350,Pháp lệnh số 1/LCT Về việc Bầu cử Hội đồng nhân dân các cấp
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,3370,3388,Hiến pháp năm 1959
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,3408,3486,Luật Tổ chức Hội đồng nhân dân và Uỷ ban hành chính các cấp số Số hiệu: 51/LCT
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,3506,3594,Quyết định số 42/2001/QĐ-UB Về việc thành lập trường Trung học phổ thông Bán công Lê Lợi
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,3649,3667,Hiến pháp năm 1959
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,RAP_DUNG_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,

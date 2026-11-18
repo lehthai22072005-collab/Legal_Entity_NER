@@ -1,0 +1,23 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,191,221,"LỆNH
+Về việc công bố Pháp lệnh"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,143,156,01/2001/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,191,195,LỆNH
+ENTITY,E4_1,NGANH,Ngành,metadata,799,806,Tư pháp
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,165,190,ngày 11 tháng 01 năm 2001
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,819,836,"Tư pháp, pháp chế"
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,165,190,ngày 11 tháng 01 năm 2001
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,48,61,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,48,61,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,723,737,Trần Đức Lương
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,508,531,Pháp lệnh Thủ đô Hà Nội
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,143,156,01/2001/L-CTN
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,317,375,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt nam năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,446,490,Luật Ban hành các văn bản qui phạm pháp luật
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,400,421,Luật Tổ chức Quốc hội
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,536,555,Pháp lệnh Thư viện.
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E18_1,E2_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,

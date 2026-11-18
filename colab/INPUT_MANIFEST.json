@@ -1,0 +1,16 @@
+{
+  "status": "INPUTS_OF_ACCEPTED_EPOCH_1_TO_11_RUN",
+  "input_bytes": 6478606,
+  "input_sha256": "13629a93823051971ce193a140a67209ab6deb233e46c1ea978d17fa72bd4247",
+  "source_documents": 369,
+  "train_documents": 314,
+  "validation_documents": 55,
+  "official_pretrained_only": true,
+  "original_packaged_notebook_sha256": "f659343b5147b550c3a18ffa22041e4832617fcd7eb166454e82429e30b53c16",
+  "notebook": "Train_PhoBERT_NER_All369.ipynb",
+  "notebook_sha256": "af2e03060587d093d6fdf3250ae255a2c33d3e9903ba0c0fd100ccba2aa5cd9d",
+  "notebook_origin": "Train_PhoBERT_NER_All369_Recovery.ipynb; renamed only, cell contents unchanged",
+  "training_completed_epochs": 11,
+  "configured_max_epochs": 12,
+  "model_report": "reports/phobert_span_all369_v1/ACCEPTANCE_SNAPSHOT.json"
+}

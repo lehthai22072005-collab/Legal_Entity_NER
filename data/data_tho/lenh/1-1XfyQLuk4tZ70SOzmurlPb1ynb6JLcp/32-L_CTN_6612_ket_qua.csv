@@ -1,0 +1,24 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,78,Lệnh số 32-L/CTN Công bố Pháp lệnh bảo vệ công trình quốc phòng và khu quân sự
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,16,32-L/CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E4_1,NGANH,Ngành,metadata,53,63,quốc phòng
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,830,840,1994-06-03
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,798,812,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,203,227,ngày 19 tháng 5 năm 1994
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,864,876,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,701,714,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,701,714,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,723,733,Lê Đức Anh
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,896,933,Luật Tổ chức Quốc hội số 66-LCT/HĐNN8
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,953,971,Hiến pháp năm 1992
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,991,1148,"Quyết định số 20/2022/QĐ-UBND Ban hành Quy định khu vực bảo vệ; khu vực cấm tập trung đông người, cấm ghi âm, ghi hình, chụp ảnh trên địa bàn tỉnh Bình Thuận"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,1168,1332,"Quyết định số 05/2023/QĐ-UBND Ban hành Quỵ định khu vực bảo vệ, khu vực cấm tập trung đông người, khu vực cấm ghi âm, ghi hình, chụp ảnh trên địa bàn tỉnh Thái Bình"
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,1359,1424,Pháp lệnh số 32-L/CTN Bảo vệ công trình quốc phòng và khu quân sự
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,1445,1518,"Luật Quản lý, bảo vệ công trình quốc phòng và khu quân sự số 25/2023/QH15"
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,RAP_DUNG_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,RAP_DUNG_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,RDUOC_DAN_CHIEU_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,RTHAY_THE_1,THAY_THE,Thay thế,E43_1,E2_1,,

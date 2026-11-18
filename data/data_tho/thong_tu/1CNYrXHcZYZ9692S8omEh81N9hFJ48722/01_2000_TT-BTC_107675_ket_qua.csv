@@ -1,0 +1,13 @@
+﻿"NHÓM (ENTITY / RELATION)","ID","CODE","LABEL","SCOPE / FROM_ID","START / TO_ID","END","TEXT"
+"ENTITY","E1_1","TEN_VAN_BAN","Tên văn bản","metadata","252","589","HƯỚNG DẪN VIỆC CHI TIÊU HOA HỒNG TRONG GIAO DỊCH, MÔI GIỚI XUẤT KHẨU
+Thi hành Nghị quyết số 08/1999/NQ-CP ngày 09 tháng 07 năm 1999 của Chính phủ ""Về giải pháp điều hành thực hiện nhiệm vụ 6 tháng cuối năm 1999""; để khuyến khích và đẩy mạnh xuất khẩu, Bộ Tài chính hướng dẫn việc chi hoa hồng trong giao dịch, môi giới xuất khẩu như sau:"
+"ENTITY","E2_1","SO_HIEU","Số hiệu","metadata","12","27","01/2000/ TT-BTC"
+"ENTITY","E3_1","LOAI_VAN_BAN","Loại văn bản","metadata","243","251","THÔNG TƯ"
+"ENTITY","E5_1","NGAY_BAN_HANH","Ngày ban hành","metadata","218","242","ngày 05 tháng 1 năm 2000"
+"ENTITY","E6_1","LINH_VUC","Lĩnh vực","metadata","6074","6088","Chưa phân loại"
+"ENTITY","E7_1","NGAY_CO_HIEU_LUC","Ngày có hiệu lực","metadata","5382","5407","sau 15 ngày kể từ ngày ký"
+"ENTITY","E9_1","TINH_TRANG_HIEU_LUC","Tình trạng hiệu lực","metadata","6112","6124","Còn hiệu lực"
+"ENTITY","E10_1","CO_QUAN_BAN_HANH","Cơ quan ban hành","metadata","97","109","BỘ TÀI CHÍNH"
+"ENTITY","E12_1","NGUOI_KY","Người ký","metadata","5987","6001","Phạm Văn Trọng"
+"ENTITY","E19_1","CAN_CU_BAN_HANH","Căn cứ ban hành","reference","6144","6235","Nghị quyết số 08/1999/NQ-CP Về giải pháp điều hành thực hiện nhiệm vụ 6 tháng cuối năm 1999"
+"RELATION","R7_1","CAN_CU_BAN_HANH","Căn cứ ban hành","E2_1","E19_1","",""

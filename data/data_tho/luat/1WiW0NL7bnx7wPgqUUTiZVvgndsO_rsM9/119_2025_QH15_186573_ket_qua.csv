@@ -1,0 +1,50 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,116,"LUẬT
+SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT CÔNG NGHIỆP
+QUỐC PHÒNG, AN NINH VÀ ĐỘNG VIÊN CÔNG NGHIỆP SỐ 119/2025/QH15"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,103,116,119/2025/QH15
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,189,193,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,15116,15141,ngày 10 tháng 12 năm 2025
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,14838,14863,ngày 01 tháng 01 năm 2026
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,15259,15271,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,117,125,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,15143,15160,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,15169,15183,Trần Thanh Mẫn
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,496,573,"Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp số 38/2024/QH15"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,319,368,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E38_1,DIEU,Điều,structure,575,581,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,14776,14782,Điều 2
+ENTITY,E39_1,KHOAN,Khoản,structure,678,721,"1. Sửa đổi, bổ sung khoản 1 Điều 9 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,955,999,"2. Sửa đổi, bổ sung khoản 3 Điều 20 như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,1151,1210,"3. Sửa đổi, bổ sung một số điểm, khoản của Điều 21 như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,1735,1771,"4. Sửa đổi, bổ sung Điều 22 như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,4069,4113,"5. Sửa đổi, bổ sung khoản 2 Điều 42 như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,4908,4959,"6. Sửa đổi, bổ sung điểm a khoản 2 Điều 43 như sau:"
+ENTITY,E39_7,KHOAN,Khoản,structure,5255,5291,"7. Sửa đổi, bổ sung Điều 45 như sau:"
+ENTITY,E39_8,KHOAN,Khoản,structure,6309,6358,8. Bổ sung Mục 8 vào sau Mục 7 Chương II như sau:
+ENTITY,E39_9,KHOAN,Khoản,structure,13717,13768,"9. Sửa đổi, bổ sung điểm đ khoản 1 Điều 68 như sau:"
+ENTITY,E39_10,KHOAN,Khoản,structure,13910,13999,"10. Sửa đổi, bổ sung khoản 6 và bổ sung khoản 7, khoản 8 vào sau khoản 6 Điều 79 như sau:"
+ENTITY,E39_11,KHOAN,Khoản,structure,14688,14775,11. Thay thế cụm từ “an toàn thông tin” bằng cụm từ “an ninh mạng” tại khoản 3 Điều 29.
+ENTITY,E39_12,KHOAN,Khoản,structure,14802,14910,"1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026, trừ trường hợp quy định tại khoản 2 Điều này."
+ENTITY,E39_13,KHOAN,Khoản,structure,14911,15019,"2. Quy định tại các khoản 1, 2, 3 và 4 Điều 1 của Luật này có hiệu lực thi hành từ ngày 01 tháng 3 năm 2026."
+ENTITY,E40_1,DIEM,Điểm,structure,1211,1247,"a) Sửa đổi, bổ sung khoản 1 như sau:"
+ENTITY,E40_2,DIEM,Điểm,structure,1521,1564,"b) Sửa đổi, bổ sung điểm a khoản 4 như sau:"
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E40_1,E39_3,,
+RELATION,R22_5,THUOC,Thuộc,E40_2,E39_3,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_11,THUOC,Thuộc,E39_9,E38_1,,
+RELATION,R22_12,THUOC,Thuộc,E39_10,E38_1,,
+RELATION,R22_13,THUOC,Thuộc,E39_11,E38_1,,
+RELATION,R22_14,THUOC,Thuộc,E39_12,E38_2,,
+RELATION,R22_15,THUOC,Thuộc,E39_13,E38_2,,
+RELATION,R22_16,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_17,THUOC,Thuộc,E11_1,E10_1,,

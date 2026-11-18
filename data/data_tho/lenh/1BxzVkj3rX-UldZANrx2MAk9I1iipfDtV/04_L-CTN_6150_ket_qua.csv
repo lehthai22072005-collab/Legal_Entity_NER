@@ -1,0 +1,27 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,88,Lệnh số 04/L-CTN Về việc công bố Pháp lệnh Thương phiếu và Pháp lệnh Chất lượng hàng hóa
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,16,04/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,201,226,ngày 04 tháng 01 năm 2000
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,917,931,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,952,962,2000-01-04
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,986,998,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,327,375,CHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,781,794,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,838,852,Trần Đức Lương
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,1192,1237,Pháp lệnh số 17/1999/PL-UBTVQH10 Thương phiếu
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,1264,1316,Pháp lệnh số 18/1999/PL-UBTVQH10 Chất lượng Hàng hoá
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1018,1036,Hiến pháp năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1056,1108,Luật Ban hành Văn bản quy phạm pháp luật số Không số
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1128,1165,Luật Tổ chức Quốc hội số 66-LCT/HĐNN8
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,1336,1401,Quyết định số 195/2003/QĐ-BBCVT Về việc ban hành Tiêu chuẩn Ngành
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,1421,1548,"Quyết định số 124/2001/QĐ-BNN Về việc ban hành Qui định kiểm tra Nhà nước chất lượng thuốc bảo vệ thực vật xuất khẩu, nhập khẩu"
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R6_2,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_2,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_3,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

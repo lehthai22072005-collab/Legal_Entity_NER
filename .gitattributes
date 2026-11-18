@@ -1,0 +1,11 @@
+*.py text eol=lf
+*.md text eol=lf
+*.yaml text eol=lf
+Dockerfile text eol=lf
+# Preserve corpus/export/tokenizer/manifest bytes on every operating system.
+data/** -text
+resources/** -text
+colab/** -text
+reports/** -text
+configs/** -text
+checkpoints/phobert_span_all369_v1/model.pt filter=lfs diff=lfs merge=lfs -text

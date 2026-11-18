@@ -1,0 +1,31 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,68,"Luật Sửa đổi, bổ sung Điều 170 của Luật Doanh nghiệp số 37/2013/QH13"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,96,108,37/2013/QH13
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,217,221,LUẬT
+ENTITY,E4_1,NGANH,Ngành,metadata,2454,2486,Lao động - Thương binh và Xã hội
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,2324,2348,ngày 20 tháng 6 năm 2013
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,2499,2513,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,2198,2222,ngày 01 tháng 8 năm 2013
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,2535,2545,2015-07-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,2569,2589,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,69,77,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,2350,2367,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,2376,2392,Nguyễn Sinh Hùng
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,459,492,Luật doanh nghiệp số 60/2005/QH11
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,534,554,Luật số 38/2009/QH12
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,277,335,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3147,3328,"Nghị định số 194/2013/NĐ-CP Về việc đăng ký lại, chuyển đổi doanh nghiệp có vốn đầu tư nước ngoài và đổi Giấy phép đầu tư của dự án đầu tư theo hình thức hợp đồng hợp tác kinh doanh"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,2609,2737,Quyết định số 01/2015/QĐ-UBND Ban hành Quy chế phối hợp trách nhiệm trong công tác quản lý các cụm công nghiệp trên địa bàn tỉnh
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,2757,2938,"Nghị định số 194/2013/NĐ-CP Về việc đăng ký lại, chuyển đổi doanh nghiệp có vốn đầu tư nước ngoài và đổi Giấy phép đầu tư của dự án đầu tư theo hình thức hợp đồng hợp tác kinh doanh"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,2958,3097,"Quyết định số 54/2014/QĐ-UBND Ban hành Quy định Thi đua, Khen thưởng trong phong trào thi đua “Phát triển kinh tế tập thể tỉnh Thái Nguyên”"
+ENTITY,E38_1,DIEU,Điều,structure,2158,2164,Điều 2
+ENTITY,E38_2,DIEU,Điều,structure,556,562,Điều 1
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E18_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

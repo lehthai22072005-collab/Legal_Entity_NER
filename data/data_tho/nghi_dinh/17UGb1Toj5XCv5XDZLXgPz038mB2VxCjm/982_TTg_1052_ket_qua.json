@@ -1,0 +1,221 @@
+{
+  "schema_version": "1.0",
+  "document_id": "1052",
+  "document_code": "982/TTG",
+  "file_name": "982_TTg_1052.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "NGHỊ ĐỊNH\nCỦA THỦ TƯỚNG CHÍNH PHỦ SỐ 982/TTG, NGÀY 28-7-1956\nTHÀNH LẬP CỤC CẢNH SÁT NHÂN DÂN THUỘC BỘ CÔNG AN",
+    "so_hieu": "982/TTG",
+    "loai_van_ban": "Nghị định",
+    "co_quan_ban_hanh": "Thủ tướng Chính phủ",
+    "ngay_ban_hanh": "1956-07-28",
+    "ngay_co_hieu_luc": "1956-08-12",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Hết hiệu lực toàn bộ",
+    "chuc_danh": "Thủ tướng",
+    "nguoi_ky": "Phan Kế Tọai",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Nghị định số 982/TTg Về việc thành lập Cục cảnh sát nhân dân thuộc Bộ Công an\nNGHỊ ĐỊNH\nCỦA THỦ TƯỚNG CHÍNH PHỦ SỐ 982/TTG, NGÀY 28-7-1956\nTHÀNH LẬP CỤC CẢNH SÁT NHÂN DÂN THUỘC BỘ CÔNG AN\nTHỦ TƯỚNG CHÍNH PHỦ\nXét nhu cầu công tác;\nTheo đề nghị của Ông Bộ trưởng Bộ Công an.\nNGHỊ ĐỊNH\nĐiều 1: Thành lập Cục Cảnh sát nhân dân thuộc Bộ Công an để thống nhất việc xây dựng, quản lý, huấn luyện, giáo dục các loại cảnh sát nhân dân trong toàn quốc về nghiệp vụ, chính trị, quân sự, văn hoá.\nCảnh sát nhân dân gồm có cảnh sát hành chính (hộ tịch, giao thông, cứu hoả), cảnh sát kinh tế, cảnh sát vũ trang.\nTổ chức cụ thể của ngành cảnh sát nhân dân trong toàn quốc do Ông Bộ trưởng Bộ Công an quyết định.\nĐiều 2: Việc canh gác các trại giam và trại lao cải hiện do bộ đội cảnh vệ phụ trách, nay giao cho cảnh sát nhân dân phụ trách.\nĐiều 3: Cảnh sát nhân dân là lực lượng vũ trang và nửa vũ trang thuộc biên chế ngành Công an.\nCảnh sát viên được hưởng lương và phụ cấp như công chức và được cấp phát quần áo, vũ khí và những thứ trang bị khác theo tiêu chuẩn và kiểu mẫu thống nhất.\nĐiều 4: Chi tiết thi hành nghị định này do các Ông Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Nội vụ và Bộ trưởng Bộ Tài chính quy định.\nĐiều 5: Các Ông Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Nội vụ và Bộ trưởng Bộ Tài chính chịu trách nhiệm thi hành nghị định này.\nPhan Kế Tọai\n(Đã ký)\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Tình trạng hiệu lực]: Hết hiệu lực toàn bộ\n[Chức danh]: Thủ tướng",
+  "structural_units": [
+    {
+      "id": "unit_preamble",
+      "type": "PREAMBLE",
+      "title": "Phần mở đầu và Căn cứ ban hành",
+      "start": 0,
+      "end": 283,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_01",
+      "type": "DIEU",
+      "title": "Điều 1",
+      "start": 283,
+      "end": 698,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_02",
+      "type": "DIEU",
+      "title": "Điều 2",
+      "start": 698,
+      "end": 826,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_03",
+      "type": "DIEU",
+      "title": "Điều 3",
+      "start": 826,
+      "end": 1076,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_04",
+      "type": "DIEU",
+      "title": "Điều 4",
+      "start": 1076,
+      "end": 1230,
+      "parent_id": null
+    },
+    {
+      "id": "unit_dieu_05",
+      "type": "DIEU",
+      "title": "Điều 5",
+      "start": 1230,
+      "end": 1379,
+      "parent_id": null
+    }
+  ],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 78,
+      "end": 187,
+      "text": "NGHỊ ĐỊNH\nCỦA THỦ TƯỚNG CHÍNH PHỦ SỐ 982/TTG, NGÀY 28-7-1956\nTHÀNH LẬP CỤC CẢNH SÁT NHÂN DÂN THUỘC BỘ CÔNG AN",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 115,
+      "end": 122,
+      "text": "982/TTG",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 273,
+      "end": 282,
+      "text": "NGHỊ ĐỊNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 124,
+      "end": 138,
+      "text": "NGÀY 28-7-1956",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 1465,
+      "end": 1479,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 1503,
+      "end": 1523,
+      "text": "Hết hiệu lực toàn bộ",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 188,
+      "end": 207,
+      "text": "THỦ TƯỚNG CHÍNH PHỦ",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 1537,
+      "end": 1546,
+      "text": "Thủ tướng",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 1380,
+      "end": 1392,
+      "text": "Phan Kế Tọai",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E38_1",
+      "start": 283,
+      "end": 290,
+      "text": "Điều 1:",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E38_2",
+      "start": 698,
+      "end": 705,
+      "text": "Điều 2:",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E38_3",
+      "start": 826,
+      "end": 833,
+      "text": "Điều 3:",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E38_4",
+      "start": 1076,
+      "end": 1083,
+      "text": "Điều 4:",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    },
+    {
+      "id": "E38_5",
+      "start": 1230,
+      "end": 1237,
+      "text": "Điều 5:",
+      "code": "DIEU",
+      "label": "Điều",
+      "scope": "structure"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

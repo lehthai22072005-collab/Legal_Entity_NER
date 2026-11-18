@@ -1,0 +1,52 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,77,"Luật Sửa đổi, bổ sung một số điều của Luật Quốc tịch Việt Nam số 56/2014/QH13"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,65,77,56/2014/QH13
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,1515,1522,Tư pháp
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,175,199,Ngày 24 tháng 6 năm 2014
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,43,52,Quốc tịch
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1543,1553,2014-06-26
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1577,1598,Hết hiệu lực một phần
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,320,328,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1420,1437,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1437,1453,Nguyễn Sinh Hùng
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,269,318,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,376,415,Luật quốc tịch Việt Nam số 24/2008/QH12
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,269,318,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,1648,1837,"Nghị định số 97/2014/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 78/2009/NĐ-CP ngày 22 tháng 9 năm 2009 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Quốc tịch Việt Nam"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,1888,1965,"Luật Sửa đổi, bổ sung một số điều của Luật Quốc tịch Việt Nam số 79/2025/QH15"
+ENTITY,E27_1,VB_HOP_NHAT,Văn bản hợp nhất,reference,1986,2037,Văn bản hợp nhất số 53/VBHN-VPQH Quốc tịch Việt Nam
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,2059,2277,Thông tư số 04/2020/TT-BTP Quy định chi tiết thi hành một số điều của Luật hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hộ tịch
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,2297,2485,"Nghị định số 82/2020/NĐ-CP Quy định xử phạt vi phạm hành chính trong lĩnh vực bổ trợ tư pháp; hành chính tư pháp; hôn nhân và gia đình; thi hành án dân sự; phá sản doanh nghiệp, hợp tác xã"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,2505,2661,"Thông tư số 07/2023/TT-BNG Hướng dẫn việc đăng ký và quản lý hộ tịch tại các Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,2681,2800,"Nghị định số 07/2025/NĐ-CP Sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực hộ tịch, quốc tịch, chứng thực"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,2820,2945,"Nghị định số 191/2025/NĐ-CP Quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Quốc tịch Việt Nam"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,2965,3231,"Thông tư số 07/2025/TT-BNG Sửa đổi, bổ sung một số điều của Thông tư số 07/2023/TT-BNG ngày 29 tháng 12 năm 2023 của Bộ trưởng Bộ Ngoại giao hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,3251,3711,"Thông tư số 04/2024/TT-BTP Sửa đổi, bổ sung một số điều của Thông tư số 02/2020/TT-BTP ngày 08/4/2020 của Bộ trưởng Bộ Tư pháp ban hành, hướng dẫn sử dụng, quản lý mẫu sổ quốc tịch và mẫu giấy tờ về quốc tịch và Thông tư số 04/2020/TT-BTP ngày 28/5/2020 của Bộ trưởng Bộ Tư pháp quy định chi tiết thi hành một số điều của Luật Hộ tịch và Nghị định số 123/2015/NĐ-CP ngày 15/11/2015 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Hộ tịch"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,3731,3920,"Nghị định số 97/2014/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 78/2009/NĐ-CP ngày 22 tháng 9 năm 2009 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Quốc tịch Việt Nam"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,3940,4059,"Nghị định số 07/2025/NĐ-СР Sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực hộ tịch, quốc tịch, chứng thực"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,4079,4187,"Thông tư số 02/2020/TT-BTP Ban hành, hướng dẫn sử dụng, quản lý mẫu sổ quốc tịch và mẫu giấy tờ về quốc tịch"
+ENTITY,E38_1,DIEU,Điều,structure,417,423,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1238,1244,Điều 2
+ENTITY,E39_1,KHOAN,Khoản,structure,482,523,"1. Điều 13 được sửa đổi, bổ sung như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,1211,1237,2. Bãi bỏ khoản 3 Điều 26.
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E25_1,E2_1,,
+RELATION,R15_1,HOP_NHAT,Hợp nhất,E27_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_4,THUOC,Thuộc,E11_1,E10_1,,

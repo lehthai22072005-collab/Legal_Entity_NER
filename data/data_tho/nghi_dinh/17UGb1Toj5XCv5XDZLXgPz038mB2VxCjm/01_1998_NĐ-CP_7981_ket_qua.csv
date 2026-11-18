@@ -1,0 +1,107 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,188,247,"NGHỊ ĐỊNH CỦA CHÍNH PHỦ
+Về hệ thống tổ chức y tế địa phương"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,140,153,01/1998/NĐ-CP
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,162,187,ngày 03 tháng 01 năm 1998
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,15402,15416,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,3951,3984,sau 15 ngày kể từ ngày ký văn bản
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,15440,15460,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,260,269,CHÍNH PHỦ
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,4375,4394,THỦ TƯỚNG CHÍNH PHỦ
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,4403,4416,Phan Văn Khải
+ENTITY,E16_1,VB_BI_TAC_DONG_HIEU_LUC_TOAN_BO,Văn bản bị tác động hiệu lực toàn bộ,reference,4003,4131,Nghị quyết số 15/CP ngày 14 tháng 01 năm 1975 của Hội đồng Chính phủ (nay là Chính phủ) về việc cải tiến tổ chức y tế địa phương
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,277,325,Luật Tổ chức Chính phủ ngày 30 tháng 9 năm 1992;
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,333,536,Nghị quyết số 37/CP ngày 20 tháng 6 năm 1996 của Chính phủ về định hướng chiến lược công tác chăm sóc và bảo vệ sức khỏe nhân dân trong thời gian 1996 - 2000 và chính sách quốc gia về thuốc của Việt Nam;
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,15136,15226,"Quyết định số 3653/1999/QĐ-BYT Quy định chức năng và nhiệm vụ của nhân viên y tế thôn, bản"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,15276,15389,"Quyết định số 231/2001/QĐ-UB V/v thành lập Trung tâm Truyền thông - giáo dục sức khỏe, trực thuộc Sở Y tế Lào Cai"
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,4518,4701,"Thông tư liên tịch số 11/2005/TTLT-BYT-BNV Hướng dẫn chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của cơ quan chuyên môn giúp Ủy ban nhân dân quản lý nhà nước về y tế ở địa phương"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14132,14300,Thông tư liên tịch số 02/1998/TTLT-BYT-BTCCBCP Hướng dẫn thực hiện Nghị định số 01/1998/NĐ-CP ngày 03/01/1998 của Chính Phủ quy định về hệ thống tổ chức y tế địa phương
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14322,14437,Quyết định số 72/2004/QĐ-UB Việc phê duyệt đề án tăng cường nguồn nhân lực ngành Y tế Nghệ An giai đoạn 2004 – 2010
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14459,14550,Quyết định số 2340/1999/QĐ-UB Ban hành quy định phân cấp quản lý công tác tổ chức và cán bộ
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14572,14683,Quyết định số 1327/2002/QĐ-BYT Về việc ban hành tiêu chuẩn thiết kế phòng khám đa khoa khu vực tiêu chuẩn ngành
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14705,14871,Thông tư liên tịch số 02/1998/TTLT/BYT-BTCCBCP Hướng dẫn thực hiện Nghị định số 01/1998/NĐ-CP ngày 3/1/1998 của Chính phủ quy định về hệ thống tổ chức y tế địa phương
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14893,14971,Chỉ thị số 12/2003/CT-UB Về việc Tăng cường thực hiện công tác Y tế trường học
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14993,15086,Quyết định số 1128 /QĐ-UB Thành lập Trung tâm y tế huyện Bạch Long Vỹ thuộc Sở y tế Hải Phòng
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,4721,4843,QUYẾT ĐỊNH SỐ 89/2004/QĐ-UB V/V ĐỔI TÊN TRUNG TÂM TAI MŨI HỌNG TỈNH CẦN THƠ THÀNH BỆNH VIỆN TAI MŨI HỌNG THÀNH PHỐ CẦN THƠ
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,4863,5006,Quyết định số 93/2004/QĐ-UB Về ban hành Quy chế (mẫu) tổ chức và hoạt động của Trung tâm Y tế quận-huyện trực thuộc ủy ban nhân dân quận-huyện.
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,5026,5138,Quyết định số 92/2002/QĐ-UB Về việc sáp nhập Trung tâm phòng chống bướu cổ vào Trung tâm Phòng chống Bệnh xã hội
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,5158,5262,QUYẾT ĐỊNH SỐ 74/2004/QĐ-UB V/V THÀNH LẬP TRUNG TÂM Y TẾ QUẬN Ô MÔN TRỰC THUỘC SỞ Y TẾ THÀNH PHỐ CẦN THƠ
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,5282,5400,"Quyết định số 2232/1998/QĐ-UB V/v Chuyển giao các Trung tâm y tế thuộc các huyện, thành phố, thị xã về Sở Y tế quản lý"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,5420,5542,Quyết định số 53/2002/QĐ-UB V/v thành lập Trạm Y tế xã Tân Tiến trực thuộc Trung tâm Y tế huyện Đồng Phú – tỉnh Bình Phước
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,5562,5689,Quyết định số 54/2002/QĐ-UB V/v thành lập Trạm Y tế phường Tân Phú trực thuộc Trung tâm Y tế thị xã Đồng Xoài - tỉnh Bình Phước
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,5709,5823,Quyết định số 91/2004/QĐ-UB V/v đổi tên Trung tâm Tâm thần tỉnh Cần Thơ thành Trung tâm Tâm thần thành phố Cần Thơ
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,5843,5934,Quyết định số 114/2004/QĐ-UB V/v thành lập Trung tâm Phòng chống bệnh xã hội tỉnh Hậu Giang
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,5954,6066,"Thông tư liên tịch số 119/2002/TTLT-BTC-BYT Hướng dẫn nội dung thu, chi và mức chi thường xuyên của Trạm y tế xã"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,6086,6196,QUYẾT ĐỊNH SỐ 77/2004/QĐ-UB V/V THÀNH LẬP TRUNG TÂM Y TẾ HUYỆN VĨNH THẠNH TRỰC THUỘC SỞ Y TẾ THÀNH PHỐ CẦN THƠ
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,6216,6482,Chỉ thị số 59/1998/CT-UB V/v kiện toàn về hệ thống tổ chức ngành y tế địa phương theo tinh thần Nghị định số 01/1998/NĐ-CP ngày 03-01-1998 của Chính phủ và Thông tư liên tịch số 02/1998/TTLT-BYT-BTCCBCP ngày 27-6-1998 của liên Bộ Y tế và Ban Tổ chức Cán bộ Chính phủ
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,6502,6587,Quyết định số 43/2003/QĐ-UB V/v Thành lập Trung tâm Y tế Huyện Bù Đốp Tỉnh Bình Phước
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,6607,6740,Quyết định số 27/2004/QĐ-UB V/v đổi tên Trung tâm Quản lý các bệnh xã hội thành Trung tâm Phòng chống các bệnh xã hội tỉnh Bình Phước
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,6760,6867,QUYẾT ĐỊNH SỐ 71/2004/QĐ-UB V/V THÀNH LẬP TRUNG TÂM Y TẾ QUẬN CÁI RĂNG TRỰC THUỘC SỞ Y TẾ THÀNH PHỐ CẦN THƠ
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,6887,7015,QUYẾT ĐỊNH SỐ 83/2004/QĐ-UB V/V ĐỔI TÊN BỆNH VIỆN Y HỌC CỔ TRUYỀN TỈNH CẦN THƠ THÀNH BỆNH VIỆN Y HỌC CỔ TRUYỀN THÀNH PHỐ CẦN THƠ
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,7035,7124,Quyết định số 44/2003/QĐ-UB V/v Thành lập Trung tâm Y tế Huyện Chơn Thành Tỉnh Bình Phước
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,7144,7256,QUYẾT ĐỊNH SỐ 80/2004/QĐ-UB V/V ĐỔI TÊN TRUNG TÂM DA LIỄU TỈNH CẦN THƠ THÀNH TRUNG TÂM DA LIỄU THÀNH PHỐ CẦN THƠ
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,7276,7376,Quyết định số 94/2004/QĐ-UBND Về việc thành lập Bệnh viện Đa khoa khu vực Cửa khẩu Quốc tế Cầu Treo.
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,7396,7504,QUYẾT ĐỊNH SỐ 70/2004/QĐ-UB V/V THÀNH LẬP TRUNG TÂM Y TẾ QUẬN BÌNH THỦY TRỰC THUỘC SỞ Y TẾ THÀNH PHỐ CẦN THƠ
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,7524,7616,"QUYẾT ĐỊNH SỐ 288/2004/QĐ-UB VỀ CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA SỞ Y TẾ"
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,7636,7723,Quyết định số 57/2002/QĐ-UB V/v thành lập Trạm Y tế quân dân y Tà Thiết tỉnh Bình Phước
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,7743,7862,"Quyết định số 107/2004/QĐ-UB Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức bộ máy Sở Y tế tỉnh Hậu Giang"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,7882,7998,Quyết định số 12/2001/QĐ-UBND Về việc nâng cấp Trường cán bộ y tế Hưng Yên thành Trường trung học y tế tỉnh Hưng Yên
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,8018,8222,QUYẾT ĐỊNH SỐ 92/2004/QĐ-UB V/V ĐỔI TÊN TRUNG TÂM BẢO VỆ SỨC KHOẺ BÀ MẸ TRẺ EM VÀ KẾ HOẠCH HOÁ GIA ĐÌNH TỈNH CẦN THƠ THÀNH TRUNG TÂM BẢO VỆ SỨC KHOẺ BÀ MẸ TRẺ EM VÀ KẾ HOẠCH HOÁ GIA ĐÌNH THÀNH PHỐ CẦN THƠ
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,8242,8378,QUYẾT ĐỊNH SỐ 87/2004/QĐ-UB V/V ĐỔI TÊN TRUNG TÂM MẮT VÀ RĂNG HÀM MẶT TỈNH CẦN THƠ THÀNH BỆNH VIỆN MẮT VÀ RĂNG HÀM MẶT THÀNH PHỐ CẦN THƠ
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,8398,8548,"Quyết định số 02/1999/QĐ-UB Về việc ban hành qui định chức năng, nhiệm vụ, quyền hạn, tổ chức bộ máy và mối quan hệ công tác của Sở Y Tế tỉnh Bắc Ninh"
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,8568,8676,QUYẾT ĐỊNH SỐ 76/2004/QĐ-UB V/V THÀNH LẬP TRUNG TÂM Y TẾ HUYỆN THỐT NỐT TRỰC THUỘC SỞ Y TẾ THÀNH PHỐ CẦN THƠ
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,8696,8821,Quyết định số 60/2002/QĐ-UB V/v thành lập Trạm Y tế xã Minh Thắng trực thuộc Trung tâm Y tế huyện Bình Long - tỉnh Bình Phước
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,8841,8971,QUYẾT ĐỊNH SỐ 78/2004/QĐ-UB V/V ĐỔI TÊN TRUNG TÂM CHẨN ĐOÁN Y KHOA TỈNH CẦN THƠ THÀNH TRUNG TÂM CHẨN ĐOÁN Y KHOA THÀNH PHỐ CẦN THƠ
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,8991,9101,QUYẾT ĐỊNH SỐ 75/2004/QĐ-UB V/V THÀNH LẬP TRUNG TÂM Y TẾ HUYỆN PHONG ĐIỀN TRỰC THUỘC SỞ Y TẾ THÀNH PHỐ CẦN THƠ
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,9121,9277,"Quyết định số 2503/2002/QĐ-BYT chức năng, nhiệm vụ và tổ chức bộ máy của bệnh viện Lao và Bệnh phổi trực thuộc Sở Y tế tỉnh, thành phố trực thuộc Trung ương"
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,9297,9369,Quyết định số 20/2003/QĐ-UB Về việc thành lập Trung tâm y tế huyện Ia Pa
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,9389,9538,Quyết định số 63/2002/QĐ-UBND V/v tách Phòng Tổ chức - Hành chính thuộc sở Y tế thành 02 phòng: Phòng Tổ chức - Cán hộ và Phòng Hành chính - Quản trị
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,9558,9671,Quyết định 65/2000/QĐ-UB thành lập bệnh viện Lao và bệnh phổi Hà Nội do Uỷ ban nhân dân thành phố Hà Nội ban hành
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,9691,9784,Quyết định số 1128 /QĐ-UB Thành lập Trung tâm y tế huyện Bạch Long Vỹ thuộc Sở y tế Hải Phòng
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,9804,9884,Quyết định số 61/2004/QĐ-UB V/v thành lập Trung tâm Y tế dự phòng tỉnh Hậu Giang
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,9904,10027,Quyết định số 52/2002/QĐ-UB V/v thành lập Trạm Y tế xã Đồng Tiến trực thuộc Trung tâm Y tế huyện Đồng Phú – tỉnh Bình Phước
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,10047,10230,"Quyết định số 93/1999/QĐ-UB Về việc ban hành quy chế phối hợp công tác giữa Sở Y tế và UBND huyện, thành phố, thị xã trong hoạt động quản lý Nhà nước về Y tế trên địa bàn tỉnh Nghệ An"
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,10250,10401,Quyết định số 64/2002/QĐ-UBND V/v thành lập Phòng khám đa khoa khu vực thị trân Phước Bình trực thuộc Trung tâm Y tế huyện Phước Long - tỉnh Bình Phước
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,10421,10515,Quyết định số 128/2004/QĐ-UB V/v thành lập Phòng Giám định Y khoa thuộc Sở Y tế tỉnh Hậu Giang
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,10535,10658,Quyết định số 55/2002/QĐ-UB V/v thành lập Trạm Y tế xã Thuận Phú trực thuộc Trung tâm Y tế huyện Đồng Phú - tỉnh Bình Phước
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,10678,10792,Quyết định số 01/2001/QĐ-UB Về việc đổi tên Trung tâm Y tế huyện Mang Yang (cũ) thành Trung tâm Y tế huyện Đăk Đoa
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,10812,10934,QUYẾT ĐỊNH SỐ 84/2004/QĐ-UB V/V ĐỔI TÊN PHÒNG GIÁM ĐỊNH Y KHOA TỈNH CẦN THƠ THÀNH PHÒNG GIÁM ĐỊNH Y KHOA THÀNH PHỐ CẦN THƠ
+ENTITY,E30_45,VB_AP_DUNG,Văn bản áp dụng,reference,10954,11059,Quyết định số 28/2004/QĐ-UB Về việc thành lập Trung tâm Y tế huyện Sốp cộp trực thuộc Sở Y tế tỉnh Sơn La
+ENTITY,E30_46,VB_AP_DUNG,Văn bản áp dụng,reference,11079,11188,"Quyết định số 15/2004/QĐ-UB V/v: Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức bộ máy của Sở Y tế"
+ENTITY,E30_47,VB_AP_DUNG,Văn bản áp dụng,reference,11208,11320,QUYẾT ĐỊNH SỐ 79/2004/QĐ-UB V/V ĐỔI TÊN BỆNH VIỆN ĐA KHOA TỈNH CẦN THƠ THÀNH BỆNH VIỆN ĐA KHOA THÀNH PHỐ CẦN THƠ
+ENTITY,E30_48,VB_AP_DUNG,Văn bản áp dụng,reference,11340,11464,QUYẾT ĐỊNH SỐ 207/2004/QĐ-UB V/V ĐỔI TÊN TRUNG TÂM TRUYỀN MÁU CẦN THƠ THÀNH TRUNG TÂM TRUYỀN MÁU HUYẾT HỌC THÀNH PHỐ CẦN THƠ
+ENTITY,E30_49,VB_AP_DUNG,Văn bản áp dụng,reference,11484,11574,"Quyết định số 3653/1999/QĐ-BYT Quy định chức năng và nhiệm vụ của nhân viên y tế thôn, bản"
+ENTITY,E30_50,VB_AP_DUNG,Văn bản áp dụng,reference,11594,11716,Quyết định số 56/2002/QĐ-UB V/v thành lập Trạm Y tế xã Phước Sơn trực thuộc Trung tâm Y tế huyện Bù Đăng - tỉnh Bình Phước
+ENTITY,E30_51,VB_AP_DUNG,Văn bản áp dụng,reference,11736,11898,QUYẾT ĐỊNH SỐ 86/2004/QĐ-UB V/V ĐỔI TÊN TRUNG TÂM KIỂM NGHIỆM DƯỢC PHẨM VÀ MỸ PHẨM TỈNH CẦN THƠ THÀNH TRUNG TÂM KIỂM NGHIỆM DƯỢC PHẨM VÀ MỸ PHẨM THÀNH PHỐ CẦN THƠ
+ENTITY,E30_52,VB_AP_DUNG,Văn bản áp dụng,reference,11918,12079,"Nghị quyết số 2d/2004/NQ-HĐ Về việc thông qua đề án ""Củng cố hoàn thiện mạng lưới y tế xã, phường, thị trấn và y tế thôn bản tỉnh Quảng Trị giai đoạn 2005 - 2010"
+ENTITY,E30_53,VB_AP_DUNG,Văn bản áp dụng,reference,12099,12233,"Quyết định số 182/2004/QĐ-TTg Về việc tính thời gian công tác để hưởng chế độ bảo hiểm xã hội đối với cán bộ y tế xã, phường, thị trấn"
+ENTITY,E30_54,VB_AP_DUNG,Văn bản áp dụng,reference,12253,12361,QUYẾT ĐỊNH SỐ 73/2004/QĐ-UB V/V THÀNH LẬP TRUNG TÂM Y TẾ QUẬN NINH KIỀU TRỰC THUỘC SỞ Y TẾ THÀNH PHỐ CẦN THƠ
+ENTITY,E30_55,VB_AP_DUNG,Văn bản áp dụng,reference,12381,12480,Quyết định số 213/1999/QĐ-UB Về việc thành lập Bệnh viện điều dưỡng phục hồi chức năng tỉnh Lào Cai
+ENTITY,E30_56,VB_AP_DUNG,Văn bản áp dụng,reference,12500,12710,"Quyết định số 2689/2004/QĐ-BYT Quy định chức năng, nhiệm vụ và tổ chức bộ máy của Trung tâm Sức khoẻ lao động và Môi trường trực thuộc Sở Y tế tỉnh, thành phố trực thuộc Trung ương do Bộ trưởng Bộ Y tế ban hành"
+ENTITY,E30_57,VB_AP_DUNG,Văn bản áp dụng,reference,12730,12912,"Quyết định số 2300/QĐ-UB Về việc ban hành bản qui định về các mối quan hệ công tác giữa Sở y tế và UBND các huyện,quận, thị xã, xã, phường, thị trấn trong hoạt động y tế ở địa phương"
+ENTITY,E30_58,VB_AP_DUNG,Văn bản áp dụng,reference,12932,13056,QUYẾT ĐỊNH SỐ 90/2004/QĐ-UB V/V ĐỔI TÊN TRUNG TÂM Y TẾ DỰ PHÒNG TỈNH CẦN THƠ THÀNH TRUNG TÂM Y TẾ DỰ PHÒNG THÀNH PHỐ CẦN THƠ
+ENTITY,E30_59,VB_AP_DUNG,Văn bản áp dụng,reference,13076,13196,QUYẾT ĐỊNH SỐ 85/2004/QĐ-UB V/V ĐỔI TÊN TRƯỜNG TRUNG HỌC Y TẾ TỈNH CẦN THƠ THÀNH TRƯỜNG TRUNG HỌC Y TẾ THÀNH PHỐ CẦN THƠ
+ENTITY,E30_60,VB_AP_DUNG,Văn bản áp dụng,reference,13216,13292,Quyết định số 02/2001/QĐ-UB Về việc thành lập Trung tâm Y tế huyện Mang Yang
+ENTITY,E30_61,VB_AP_DUNG,Văn bản áp dụng,reference,13312,13500,"Quyết định số Quyết định số 2176/2000/QĐ-BYT Quy định chức năng, nhiệm vụ và tổ chức bộ máy của Trung tâm Kiểm nghiệm dược phẩm, mỹ phẩm thuộc Sở Y tế tỉnh, thành phố trực thuộc Trung ương"
+ENTITY,E30_62,VB_AP_DUNG,Văn bản áp dụng,reference,13520,13627,Quyết định số 93/2002/QĐ-UB Về việc thành lập Trung tâm Truyền thông - Giáo dục sức khoẻ trực thuộc Sở Y tế
+ENTITY,E30_63,VB_AP_DUNG,Văn bản áp dụng,reference,13647,13831,"Quyết định số 93/1999/QĐ-UB1 Về việc ban hành quy chế phối hợp công tác giữa Sở Y tế và UBND huyện, thành phố, thị xã trong hoạt động quản lý Nhà nước về Y tế trên địa bàn tỉnh Nghệ An"
+ENTITY,E30_64,VB_AP_DUNG,Văn bản áp dụng,reference,13851,13965,QUYẾT ĐỊNH SỐ 82/2004/QĐ-UB V/V ĐỔI TÊN BỆNH VIỆN NHI ĐỒNG TỈNH CẦN THƠ THÀNH BỆNH VIỆN NHI ĐỒNG THÀNH PHỐ CẦN THƠ
+ENTITY,E30_65,VB_AP_DUNG,Văn bản áp dụng,reference,13985,14110,Quyết định số 58/2002/QĐ-UB V/v thành lập Trạm Y tế xã Phú Nghĩa trực thuộc Trung tâm Y tế huyện Phước Long - tỉnh Bình Phước
+ENTITY,E38_1,DIEU,Điều,structure,638,699,Điều 1. Tổ chức y tế địa phương nói tại Nghị định này gồm có:
+ENTITY,E38_2,DIEU,Điều,structure,929,1331,"Điều 2. Sở Y tế là cơ quan chuyên môn thuộc Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương, giúp Uỷ ban nhân dân thực hiện chức năng quản lý Nhà nước về công tác y tế trên địa bàn; quản lý và chỉ đạo về chuyên môn, nghiệp vụ đối với công tác y tế; quản lý kinh phí và nhân lực y tế đối với hệ thống y tế trên địa bàn tỉnh, thành phố trực thuộc Trung ương theo phân cấp của cơ quan có thẩm quyền."
+ENTITY,E38_3,DIEU,Điều,structure,1500,1977,"Điều 3. Trung tâm y tế huyện là tổ chức thuộc Sở Y tế, chịu sự quản lý, chỉ đạo và hướng dẫn, thanh tra, kiểm tra của Giám đốc Sở Y tế về chuyên môn, nghiệp vụ, kinh phí, nhân lực y tế; chịu sự quản lý, chỉ đạo của Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là Uỷ ban nhân dân huyện) trong việc xây dựng kế hoạch phát triển y tế của huyện để trình cơ quan có thẩm quyền và chịu trách nhiệm tổ chức thực hiện kế hoạch đó sau khi được phê duyệt."
+ENTITY,E38_4,DIEU,Điều,structure,2722,2941,"Điều 4. Trạm y tế cơ sở có trách nhiệm giúp Giám đốc Trung tâm y tế huyện và Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Ủy ban nhân dân xã) thực hiện các nhiệm vụ được giao về công tác y tế trên địa bàn."
+ENTITY,E38_5,DIEU,Điều,structure,3770,3907,"Điều 5. Bộ trưởng Bộ Y tế phối hợp với Bộ trưởng, Trưởng ban Ban Tổ chức - Cán bộ Chính phủ hướng dẫn cụ thể việc thi hành Nghị định này."
+ENTITY,E38_6,DIEU,Điều,structure,3908,4166,Điều 6. Nghị định này có hiệu lực thi hành sau 15 ngày kể từ ngày ký văn bản. Các quy định tại Nghị quyết số 15/CP ngày 14 tháng 01 năm 1975 của Hội đồng Chính phủ (nay là Chính phủ) về việc cải tiến tổ chức y tế địa phương trái với Nghị định này đều bãi bỏ.
+ENTITY,E38_7,DIEU,Điều,structure,4167,4360,"Điều 7. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban Nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./."
+ENTITY,E39_1,KHOAN,Khoản,structure,700,749,"1. Sở Y tế tỉnh, thành phố trực thuộc Trung ương;"
+ENTITY,E39_2,KHOAN,Khoản,structure,750,854,"2. Trung tâm y tế huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là Trung tâm y tế huyện);"
+ENTITY,E39_3,KHOAN,Khoản,structure,855,928,"3. Trạm y tế xã, phường, thị trấn (sau đây gọi chung là Trạm y tế cơ sở)."
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E16_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_5,THUOC,Thuộc,E11_1,E10_1,,

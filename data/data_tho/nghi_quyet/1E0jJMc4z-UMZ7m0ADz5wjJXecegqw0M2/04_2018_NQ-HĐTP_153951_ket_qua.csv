@@ -1,0 +1,31 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,83,Nghị quyết số 04/2018/NQ-HĐTP Ban hành một số biểu mẫu trong giải quyết việc dân sự
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,29,04/2018/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,218,242,ngày 09 tháng 8 năm 2018
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1510,1524,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1545,1555,2018-10-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1579,1591,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,771,794,Tòa án nhân dân tối cao
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1414,1422,CHÁNH ÁN
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1430,1445,Nguyễn Hòa Bình
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,1633,1708,Nghị quyết số 01/2017/NQ-HĐTP Ban hành một số biểu mẫu trong tố tụng dân sự
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,358,412,Luật Tổ chức Tòa án nhân dân ngày 24 tháng 11 năm 2014
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,938,967,Nghị quyết số 01/2017/NQ-HĐTP
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,938,993,Nghị quyết số 01/2017/NQ-HĐTP ngày 13 tháng 01 năm 2017
+ENTITY,E38_1,DIEU,Điều,structure,585,699,"Điều 1. Ban hành biểu mẫu trong giải quyết việc dân sự
+Ban hành 33 biểu mẫu theo Danh mục kèm theo Nghị quyết này."
+ENTITY,E38_2,DIEU,Điều,structure,700,725,Điều 2. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,726,886,1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 09 tháng 8 năm 2018 và có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2018.
+ENTITY,E39_2,KHOAN,Khoản,structure,1088,1225,"3. Các biểu mẫu ban hành kèm theo Nghị quyết này được sử dụng trong quá trình xem xét thụ lý, giải quyết việc dân sự tại Tòa án nhân dân."
+ENTITY,E39_3,KHOAN,Khoản,structure,1226,1391,"4. Trong quá trình thực hiện nếu có vướng mắc, đề nghị phản ánh cho Tòa án nhân dân tối cao (thông qua Vụ Pháp chế và Quản lý khoa học) để hướng dẫn bổ sung kịp thời"
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_5,THUOC,Thuộc,E11_1,E10_1,,

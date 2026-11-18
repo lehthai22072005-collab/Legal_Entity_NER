@@ -1,0 +1,191 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,49,Pháp lệnh số Không số Về Hành nghề y dược tư nhân
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,50,59,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,17325,17349,ngày 30 tháng 9 năm 1993
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,17415,17429,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,17450,17460,1993-10-13
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,17482,17492,2003-06-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,17516,17536,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,17557,17582,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,17596,17604,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,17617,17630,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,17685,17730,Luật Bảo vệ sức khoẻ nhân dân số 21-LCT/HDNN8
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,17750,17795,Luật Bảo vệ sức khoẻ nhân dân số 21-LCT/HDNN8
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,17815,17833,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,17883,17981,Quyết định số 181/2003/QĐ-BYT Về việc ban hành Quy trình và Danh mục thanh tra hành nghề Y tư nhân
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,18031,18187,"Thông tư số 16/2000/TT-BYT Hướng dẫn tiêu chuẩn, điều kiện, phạm vi hoạt động chuyên môn, hồ sơ, thủ tục, thẩm quyền thành lập cơ sở khám chữa bệnh bán công"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18209,18272,"Lệnh số 26-L/CTN Công bố Pháp lệnh về Hành nghề y, dược tư nhân"
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18294,18390,Nghị định số 69/2001/NĐ-CP Quy định chi tiết thi hành Pháp lệnh Bảo vệ quyền lợi người tiêu dùng
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,18410,18659,"Thông tư số 8/BYT-TT Hướng dẫn thực hiện Pháp lệnh Hành nghề y, dược tư nhân và Nghị định số 7-CP ngày 29-01-1994 của Chính phủ về cụ thể hoá một số Điều của Pháp lệnh Hành nghề y, dược tư nhân về lĩnh vực hành nghề y, dược cổ truyền dân tộc tư nhân"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,18679,18911,"Quyết định số 1450/1998/QĐ-UB Về việc ban hành qui định về trách nhiệm và quan hệ phối hợp giữa các cơ quan quản lý Nhà nước trong công tác quản lý thị trườngthuốc tân dược, thuốc đông dược dùng, cho người trên địa bàn tỉnh Phú Thọ."
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,18931,19158,Thông tư số 15/1999/TT-BYT Hướng dẫn thực hiện pháp lệnh hành nghề Y Dược tư nhân và nghị định số 06/CP ngày 29/1/1994 của Chính phủ về  cụ thể hoá một số điều trong pháp lệnh hành nghề y dược tư nhân thuộc lĩnh vực hành nghề y
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,19178,19334,"Thông tư số 16/2000/TT-BYT Hướng dẫn tiêu chuẩn, điều kiện, phạm vi hoạt động chuyên môn, hồ sơ, thủ tục, thẩm quyền thành lập cơ sở khám chữa bệnh bán công"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,19354,19570,"Thông tư số 09-BYT/TT Hướng dẫn thực hiện Pháp lệnh hành nghề y, dược tư nhân và Nghị định số 06/CP ngày 29/1/1994 của Chính phủ về cụ thể hoá một số điều trong Pháp lệnh hành nghề y, dược tư nhân thuộc lĩnh vực dược"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,19590,19749,"Quyết định số 2061/1999/QĐ-UBND Về việc ban hành quy định việc quản lý sản xuất, cung ứng lưu thông thuốc chữa bệnh và vật tư thiết bị, dụng cụ y tế trong tỉnh"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,19769,19847,"Thông tư số 04/2002/TT-BYT Hướng dẫn việc xét cấp Chứng chỉ hành nghề y, dược."
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,19867,19954,Thông tư số 02/2000/TT-BYT Hướng dẫn kinh doanh thuốc phòng bệnh và chữa bệnh cho người
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,19974,20072,Quyết định số 181/2003/QĐ-BYT Về việc ban hành Quy trình và Danh mục thanh tra hành nghề Y tư nhân
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,20092,20177,"Nghị định số 6/CP Về cụ thể hoá một số Điều trong Pháp lệnh hành nghề y, dược tư nhân"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,20197,20325,Quyết định số 05/2003/QĐ-UB Ban hành quy định về quản lý tổ chức và hoạt động dịch vụ xoa bóp trên địa bàn thành phố Hồ Chí Minh
+ENTITY,E35_1,CHUONG,Chương,structure,452,460,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,1275,1284,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,5318,5328,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,8893,8902,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,14630,14638,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,16246,16255,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,17035,17045,CHƯƠNG VII
+ENTITY,E38_1,DIEU,Điều,structure,482,488,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,606,612,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,814,820,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,877,883,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1354,1360,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,2318,2324,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,2629,2635,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,3092,3098,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,3488,3494,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,4011,4018,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,4186,4193,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,4558,4565,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,4800,4807,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,4968,4975,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,5107,5114,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,5208,5215,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,5383,5390,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,7047,7054,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,7227,7234,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,7637,7644,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,8576,8583,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,8949,8956,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,9397,9404,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,10215,10222,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,11563,11570,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,12840,12847,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,13973,13980,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,14177,14184,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,14659,14666,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,14786,14793,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,15012,15019,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,15529,15536,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,16098,16105,Điều 33
+ENTITY,E38_34,DIEU,Điều,structure,16270,16277,Điều 34
+ENTITY,E38_35,DIEU,Điều,structure,16686,16693,Điều 35
+ENTITY,E38_36,DIEU,Điều,structure,17066,17073,Điều 36
+ENTITY,E38_37,DIEU,Điều,structure,17135,17142,Điều 37
+ENTITY,E39_1,KHOAN,Khoản,structure,614,726,"1- Người hành nghề y, dược tư nhân phải tuân theo quy định của Pháp lệnh này và các quy định khác của pháp luật."
+ENTITY,E39_2,KHOAN,Khoản,structure,727,813,"2- Quyền và lợi ích hợp pháp của người hành nghề y, dược tư nhân được Nhà nước bảo hộ."
+ENTITY,E39_3,KHOAN,Khoản,structure,1362,1415,1- Các hình thức tổ chức hành nghề y tư nhân bao gồm:
+ENTITY,E39_4,KHOAN,Khoản,structure,1742,1817,2- Các hình thức tổ chức hành nghề y học cổ truyền dân tộc tư nhân bao gồm:
+ENTITY,E39_5,KHOAN,Khoản,structure,2066,2122,3- Các hình thức tổ chức hành nghề dược tư nhân bao gồm:
+ENTITY,E39_6,KHOAN,Khoản,structure,3496,3760,"1- Người đang làm việc trong các cơ sở y, dược của Nhà nước chỉ được hành nghề y, dược tư nhân ngoài giờ quản lý của cơ quan, nếu có đủ tiêu chuẩn quy định tại một trong các điều 6, 7, 8 của Pháp lệnh này và phải được sự đồng ý bằng văn bản của thủ trưởng cơ quan."
+ENTITY,E39_7,KHOAN,Khoản,structure,3761,4010,"2- Công chức đang làm việc trong các cơ sở y, dược của Nhà nước, cán bộ quản lý doanh nghiệp Nhà nước về dược không được phép thành lập doanh nghiệp tư nhân kinh doanh dược, tham gia thành lập hoặc quản lý bệnh viện tư nhân, công ty kinh doanh dược."
+ENTITY,E39_8,KHOAN,Khoản,structure,5392,5473,"1- Người hành nghề y tư nhân, hành nghề y học cổ truyền dân tộc tư nhân có quyền:"
+ENTITY,E39_9,KHOAN,Khoản,structure,5836,5920,"2- Người hành nghề y tư nhân, hành nghề y học cổ truyền dân tộc tư nhân có nghĩa vụ:"
+ENTITY,E39_10,KHOAN,Khoản,structure,7646,7687,1- Người hành nghề dược tư nhân có quyền:
+ENTITY,E39_11,KHOAN,Khoản,structure,7926,7970,2- Người hành nghề dược tư nhân có nghĩa vụ:
+ENTITY,E39_12,KHOAN,Khoản,structure,10224,10365,"1- Thủ tục xin cấp giấy chứng nhận đủ tiêu chuẩn và điều kiện thành lập cơ sở hành nghề y tư nhân, hành nghề y học cổ truyền dân tộc tư nhân:"
+ENTITY,E39_13,KHOAN,Khoản,structure,11043,11183,"2- Thẩm quyền cấp giấy chứng nhận đủ tiêu chuẩn và điều kiện thành lập cơ sở hành nghề y tư nhân, hành nghề y học cổ truyền dân tộc tư nhân:"
+ENTITY,E39_14,KHOAN,Khoản,structure,11572,11673,1- Thủ tục xin cấp giấy chứng nhận đủ tiêu chuẩn và điều kiện thành lập cơ sở hành nghề dược tư nhân:
+ENTITY,E39_15,KHOAN,Khoản,structure,12335,12427,2- Thẩm quyền cấp giấy chứng nhận đủ tiêu chuẩn và điều kiện thành lập cơ sở hành nghề dược:
+ENTITY,E39_16,KHOAN,Khoản,structure,12849,13323,"1- Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ xin thành lập bệnh viện tư nhân, doanh nghiệp tư nhân, công ty kinh doanh dược, Sở Y tế tỉnh, thành phố trực thuộc trung ương phải thẩm định xong và có văn bản đề nghị lên Bộ Y tế. Trong thời hạn 30 ngàkểy từ ngày nhận được kết quả thẩm định và văn bản đề nghị của Sở Y tế, Bộ trưởng Bộ Y tế phải cấp hoặc từ chối cấp giấy chứng nhận đủ tiêu chuẩn và điều kiện thành lập; nếu từ chối cấp giấy chứng nhận phải nói rõ lý do."
+ENTITY,E39_17,KHOAN,Khoản,structure,13324,13639,"2- Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ xin thành lập cơ sở hành nghề y, dược tư nhân trừ bệnh viện tư nhân, doanh nghiệp tư nhân, công ty kinh doanh dược, Giám đốc Sở Y tế phải cấp hoặc từ chối cấp giấy chứng nhận đủ tiêu chuẩn và điều kiện thành lập; nếu từ chối cấp giấy chứng nhận phải nói rõ lý do."
+ENTITY,E39_18,KHOAN,Khoản,structure,13640,13972,"3- Quá thời hạn 6 tháng, kể từ ngày được cấp giấy chứng nhận đủ tiêu chuẩn và điều kiện thành lập cơ sở hành nghề y, dược tư nhân mà người được cấp không làm tiếp các thủ tục xin cấp giấy phép thành lập, giấy phép kinh doanh thì giấy chứng nhận đủ tiêu chuẩn và điều kiện thành lập cơ sở hành nghề y, dược tư nhân không còn giá trị."
+ENTITY,E39_19,KHOAN,Khoản,structure,14186,14458,"1- Sau khi được cấp giấy chứng nhận đủ tiêu chuẩn và điều kiện thành lập cơ sở hành nghề y, dược tư nhân, người đăng ký hành nghề gửi toàn bộ hồ sơ đến cơ quan Nhà nước có thẩm quyền xem xét và cấp giấy phép thành lập hoặc giấy phép kinh doanh theo quy định của pháp luật."
+ENTITY,E39_20,KHOAN,Khoản,structure,14459,14629,"2- Chỉ sau khi có giấy phép thành lập, giấy phép kinh doanh, các cơ sở hành nghề y, dược tư nhân mới được tiến hành các hoạt động khám bệnh, chữa bệnh và kinh doanh dược."
+ENTITY,E39_21,KHOAN,Khoản,structure,15538,15776,"1- Các cơ sở hành nghề y, dược tư nhân phải chấp hành quyết định của thanh tra viên y tế và tạo điều kiện thuận lợi để thanh tra viên thi hành nhiệm vụ. Thanh tra viên y tế phải chịu trách nhiệm trước pháp luật về các quyết định của mình."
+ENTITY,E39_22,KHOAN,Khoản,structure,15777,16097,"2- Trường hợp không nhất trí với quyết định của thanh tra viên y tế, cơ sở hành nghề y, dược tư nhân được thanh tra có quyền khiếu nại theo quy định của pháp luật về khiếu nại, tố cáo. Quyết định của Bộ trưởng Bộ Y tế là quyết định cuối cùng về việc giải quyết khiếu nại, tố cáo trong lĩnh vực hành nghề y, dược tư nhân."
+ENTITY,E40_1,DIEM,Điểm,structure,10366,10509,"a) Người xin đăng ký hành nghề y tư nhân, hành nghề y học cổ truyền dân tộc tư nhân phải gửi hồ sơ đến Sở Y tế tỉnh, thành phố trực trung ương."
+ENTITY,E40_2,DIEM,Điểm,structure,10510,10640,"b) Hồ sơ xin cấp giấy chứng nhận đủ tiêu chuẩn và điều kiện thành lập cơ sở hành nghề y tư nhân, y học cổ dân tộc tư nhân bao gồm:"
+ENTITY,E40_3,DIEM,Điểm,structure,11184,11326,a) Bộ trưởng Bộ Y tế cấp giấy nhận đủ tiêu chuẩn và điều kiện thành lập bệnh viện tư nhân trên cơ sở thẩm định và văn bản đề nghị của Sở Y tế.
+ENTITY,E40_4,DIEM,Điểm,structure,11327,11562,"b) Giám đốc Sở Y tế tỉnh, thành phố trực thuộc trung ương cấp giấy chứng nhận đủ tiêu chuẩn và điều kiện thành lập các cơ sở hành nghề y tư nhân, y học cổ truyền dân tộc tư nhân trừ trường hợp quy định tại điểm a, khoản 2 của Điều này."
+ENTITY,E40_5,DIEM,Điểm,structure,11674,11783,"a) Người xin đăng ký hành nghề dược tư nhân phải gửi hồ sơ đến Sở Y tế tỉnh, thành phố trực thuộc trung ương."
+ENTITY,E40_6,DIEM,Điểm,structure,11784,11891,b) Hồ sơ xin cấp giấy chứng nhân đủ tiêu chuẩn và điều kiện thành lập cơ sở hành nghề dược tư nhân bao gồm:
+ENTITY,E40_7,DIEM,Điểm,structure,12428,12637,"a) Bộ trưởng Bộ Y tế cấp giấy nhận đủ tiêu chuẩn và điều kiện thành lập doanh nghiệp tư nhân, công ty cổ phần và công ty trách nhiệm hữu hạn kinh doanh dược trên cơ sở thẩm định và văn bản đề nghị của Sở Y tế."
+ENTITY,E40_8,DIEM,Điểm,structure,12638,12839,"b) Giám đốc Sở Y tế tỉnh, thành phố trực thuộc trung ương cấp giấy chứng nhận đủ tiêu chuẩn và điều kiện thành lập các cơ sở hành nghề dược tư nhân trường hợp quy định tại điểm a, khoản 2 của Điều này."
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,20346,20404,"Pháp lệnh số 07/2003/PL-UBTVQH11 Hành nghề y, dược tư nhân"
+RELATION,RAP_DUNG_1,AP_DUNG,áp dụng,E30_1,E2_1,,
+RELATION,RAP_DUNG_2,AP_DUNG,áp dụng,E30_2,E2_1,,
+RELATION,RAP_DUNG_3,AP_DUNG,áp dụng,E30_3,E2_1,,
+RELATION,RAP_DUNG_4,AP_DUNG,áp dụng,E30_4,E2_1,,
+RELATION,RAP_DUNG_5,AP_DUNG,áp dụng,E30_5,E2_1,,
+RELATION,RAP_DUNG_6,AP_DUNG,áp dụng,E30_6,E2_1,,
+RELATION,RAP_DUNG_7,AP_DUNG,áp dụng,E30_7,E2_1,,
+RELATION,RAP_DUNG_8,AP_DUNG,áp dụng,E30_8,E2_1,,
+RELATION,RAP_DUNG_9,AP_DUNG,áp dụng,E30_9,E2_1,,
+RELATION,RAP_DUNG_10,AP_DUNG,áp dụng,E30_10,E2_1,,
+RELATION,RAP_DUNG_11,AP_DUNG,áp dụng,E30_11,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,RDAN_CHIEU_1,DAN_CHIEU,dẫn chiếu,E29_1,E2_1,,
+RELATION,RDAN_CHIEU_2,DAN_CHIEU,dẫn chiếu,E29_2,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,RTHAY_THE_1,THAY_THE,thay thế,E43_1,E2_1,,
+RELATION,RTHUOC_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,RTHUOC_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,RTHUOC_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,RTHUOC_4,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,RTHUOC_5,THUOC,Thuộc,E38_5,E35_2,,
+RELATION,RTHUOC_6,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,RTHUOC_7,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,RTHUOC_8,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,RTHUOC_9,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,RTHUOC_10,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,RTHUOC_11,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,RTHUOC_12,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,RTHUOC_13,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,RTHUOC_14,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,RTHUOC_15,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,RTHUOC_16,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,RTHUOC_17,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,RTHUOC_18,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,RTHUOC_19,THUOC,Thuộc,E38_19,E35_3,,
+RELATION,RTHUOC_20,THUOC,Thuộc,E38_20,E35_3,,
+RELATION,RTHUOC_21,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,RTHUOC_22,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,RTHUOC_23,THUOC,Thuộc,E38_23,E35_4,,
+RELATION,RTHUOC_24,THUOC,Thuộc,E38_24,E35_4,,
+RELATION,RTHUOC_25,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,RTHUOC_26,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,RTHUOC_27,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,RTHUOC_28,THUOC,Thuộc,E38_28,E35_4,,
+RELATION,RTHUOC_29,THUOC,Thuộc,E38_29,E35_5,,
+RELATION,RTHUOC_30,THUOC,Thuộc,E38_30,E35_5,,
+RELATION,RTHUOC_31,THUOC,Thuộc,E38_31,E35_5,,
+RELATION,RTHUOC_32,THUOC,Thuộc,E38_32,E35_5,,
+RELATION,RTHUOC_33,THUOC,Thuộc,E38_33,E35_5,,
+RELATION,RTHUOC_34,THUOC,Thuộc,E38_34,E35_6,,
+RELATION,RTHUOC_35,THUOC,Thuộc,E38_35,E35_6,,
+RELATION,RTHUOC_36,THUOC,Thuộc,E38_36,E35_7,,
+RELATION,RTHUOC_37,THUOC,Thuộc,E38_37,E35_7,,
+RELATION,RTHUOC_38,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,RTHUOC_39,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,RTHUOC_40,THUOC,Thuộc,E39_3,E38_5,,
+RELATION,RTHUOC_41,THUOC,Thuộc,E39_4,E38_5,,
+RELATION,RTHUOC_42,THUOC,Thuộc,E39_5,E38_5,,
+RELATION,RTHUOC_43,THUOC,Thuộc,E39_6,E38_9,,
+RELATION,RTHUOC_44,THUOC,Thuộc,E39_7,E38_9,,
+RELATION,RTHUOC_45,THUOC,Thuộc,E39_8,E38_17,,
+RELATION,RTHUOC_46,THUOC,Thuộc,E39_9,E38_17,,
+RELATION,RTHUOC_47,THUOC,Thuộc,E39_10,E38_20,,
+RELATION,RTHUOC_48,THUOC,Thuộc,E39_11,E38_20,,
+RELATION,RTHUOC_49,THUOC,Thuộc,E39_12,E38_24,,
+RELATION,RTHUOC_50,THUOC,Thuộc,E40_1,E38_24,,
+RELATION,RTHUOC_51,THUOC,Thuộc,E40_2,E38_24,,
+RELATION,RTHUOC_52,THUOC,Thuộc,E39_13,E38_24,,
+RELATION,RTHUOC_53,THUOC,Thuộc,E40_3,E38_24,,
+RELATION,RTHUOC_54,THUOC,Thuộc,E40_4,E38_24,,
+RELATION,RTHUOC_55,THUOC,Thuộc,E39_14,E38_25,,
+RELATION,RTHUOC_56,THUOC,Thuộc,E40_5,E38_25,,
+RELATION,RTHUOC_57,THUOC,Thuộc,E40_6,E38_25,,
+RELATION,RTHUOC_58,THUOC,Thuộc,E39_15,E38_25,,
+RELATION,RTHUOC_59,THUOC,Thuộc,E40_7,E38_25,,
+RELATION,RTHUOC_60,THUOC,Thuộc,E40_8,E38_25,,
+RELATION,RTHUOC_61,THUOC,Thuộc,E39_16,E38_26,,
+RELATION,RTHUOC_62,THUOC,Thuộc,E39_17,E38_26,,
+RELATION,RTHUOC_63,THUOC,Thuộc,E39_18,E38_26,,
+RELATION,RTHUOC_64,THUOC,Thuộc,E39_19,E38_28,,
+RELATION,RTHUOC_65,THUOC,Thuộc,E39_20,E38_28,,
+RELATION,RTHUOC_66,THUOC,Thuộc,E39_21,E38_32,,
+RELATION,RTHUOC_67,THUOC,Thuộc,E39_22,E38_32,,

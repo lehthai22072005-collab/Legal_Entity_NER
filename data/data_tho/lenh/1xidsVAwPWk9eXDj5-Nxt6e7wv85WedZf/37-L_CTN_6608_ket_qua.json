@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "document_id": "6608",
+  "document_code": "37-L/CTN",
+  "file_name": "28_lenh_37_L_CTN_6608.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "LỆNH",
+    "so_hieu": "37-L/CTN",
+    "loai_van_ban": "LỆNH",
+    "nganh": null,
+    "ngay_ban_hanh": "1994-10-25",
+    "linh_vuc": "Chưa phân loại",
+    "ngay_co_hieu_luc": "1994-10-25",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "chuc_danh": "CHỦ TỊCH NƯỚC",
+    "nguoi_ky": "Lê Đức Anh"
+  },
+  "full_text": "Lệnh số 37-L/CTN Công bố Pháp lệnh về Quyền và nghĩa vụ của các tổ chức trong nước được Nhà nước giao đất, cho thuê đất và Pháp lệnh về Quyền và nghĩa vụ của các tổ chức, cá nhân nước ngoài thuê đất tại Việt Nam\nLỆNH\nCông bố Pháp lệnh về Quyền và nghĩa vụ của các tổ chức trong nước\nđược Nhà nước giao đất, cho thuê đất và Pháp lệnh về Quyền và nghĩa vụ\ncủa các tổ chức, cá nhân nước ngoài thuê đất tại Việt Nam\n______________________________\nCHỦ TỊCH NƯỚC\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ vào Điều 103 và Điều 106 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992;\nCăn cứ vào Điều 78 của Luật Tổ chức Quốc hội,\nNAY CÔNG BỐ:\n1. Pháp lệnh về Quyền và nghĩa vụ của các tổ chức trong nước được Nhà nước giao đất, cho thuê đất đã được Uỷ ban thường vụ Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá IX thông qua ngày 14 tháng 10 năm 1994.\n2. Pháp lệnh về Quyền và nghĩa vụ của các tổ chức, cá nhân nước ngoài thuê đất tại Việt Nam đã được Uỷ ban thường vụ Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá IX thông qua ngày 14 tháng 10 năm 1994./.\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Ngày ban hành]: 1994-10-25\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 1994-10-25\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Người ký]: Lê Đức Anh\n[Căn cứ ban hành]: Hiến pháp năm 1992\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 66-LCT/HĐNN8\n[Văn bản áp dụng]: Quyết định số 88/CT Về việc thu nộp tiền thuê đất\n[Văn bản áp dụng]: Quyết định số 1405/1998/QĐ-BTC sửa đổi khoản 3 Điều 4 bản quy định về khung giá cho thuê đất đối với các tổ chức trong nước được Nhà nước cho thuê đất ban hành kèm theo Quyết định 1357/QĐ/BTC ngày 30/12/1995 của Bộ trưởng Bộ Tài chính\n[Văn bản được dẫn chiếu]: Pháp lệnh số Không số Về quyền và nghĩa vụ của tổ chức, cá nhân nước ngoài thuê đất tại Việt Nam\n[Văn bản được dẫn chiếu]: Pháp lệnh số Không số Về quyền và nghĩa vụ của các tổ chức trong nước được Nhà nước giao đất, cho thuê đất",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 212,
+      "end": 216,
+      "text": "LỆNH",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 16,
+      "text": "37-L/CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 212,
+      "end": 216,
+      "text": "LỆNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 1146,
+      "end": 1156,
+      "text": "1994-10-25",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 1169,
+      "end": 1183,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 1204,
+      "end": 1214,
+      "text": "1994-10-25",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 1238,
+      "end": 1250,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 443,
+      "end": 456,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 443,
+      "end": 456,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 1263,
+      "end": 1273,
+      "text": "Lê Đức Anh",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E18_1",
+      "start": 1718,
+      "end": 1814,
+      "text": "Pháp lệnh số Không số Về quyền và nghĩa vụ của tổ chức, cá nhân nước ngoài thuê đất tại Việt Nam",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E18_2",
+      "start": 1841,
+      "end": 1947,
+      "text": "Pháp lệnh số Không số Về quyền và nghĩa vụ của các tổ chức trong nước được Nhà nước giao đất, cho thuê đất",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 1293,
+      "end": 1311,
+      "text": "Hiến pháp năm 1992",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 1331,
+      "end": 1368,
+      "text": "Luật Tổ chức Quốc hội số 66-LCT/HĐNN8",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_1",
+      "start": 1388,
+      "end": 1437,
+      "text": "Quyết định số 88/CT Về việc thu nộp tiền thuê đất",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_2",
+      "start": 1457,
+      "end": 1691,
+      "text": "Quyết định số 1405/1998/QĐ-BTC sửa đổi khoản 3 Điều 4 bản quy định về khung giá cho thuê đất đối với các tổ chức trong nước được Nhà nước cho thuê đất ban hành kèm theo Quyết định 1357/QĐ/BTC ngày 30/12/1995 của Bộ trưởng Bộ Tài chính",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R6_1",
+      "from_id": "E18_1",
+      "to_id": "E2_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R6_2",
+      "from_id": "E18_2",
+      "to_id": "E2_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R18_1",
+      "from_id": "E30_1",
+      "to_id": "E2_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "R18_2",
+      "from_id": "E30_2",
+      "to_id": "E2_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": [],
+    "label_provenance": "silver_automated_not_human_verified",
+    "source_docx_snapshot_id": "28_lenh_37_L_CTN_6608",
+    "vbpl_relation_provenance": [
+      {
+        "relation_type": "Căn cứ ban hành",
+        "direction": "outgoing",
+        "current_document_id": "6608",
+        "other_document_id": "11234",
+        "from_document_id": "6608",
+        "to_document_id": "11234",
+        "other_title": "Hiến pháp năm 1992",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/11234"
+      },
+      {
+        "relation_type": "Căn cứ ban hành",
+        "direction": "outgoing",
+        "current_document_id": "6608",
+        "other_document_id": "11232",
+        "from_document_id": "6608",
+        "to_document_id": "11232",
+        "other_title": "Luật Tổ chức Quốc hội số 66-LCT/HĐNN8",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/11232"
+      },
+      {
+        "relation_type": "Văn bản áp dụng",
+        "direction": "incoming",
+        "current_document_id": "6608",
+        "other_document_id": "4733",
+        "from_document_id": "4733",
+        "to_document_id": "6608",
+        "other_title": "Quyết định số 88/CT Về việc thu nộp tiền thuê đất",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/4733"
+      },
+      {
+        "relation_type": "Văn bản áp dụng",
+        "direction": "incoming",
+        "current_document_id": "6608",
+        "other_document_id": "7379",
+        "from_document_id": "7379",
+        "to_document_id": "6608",
+        "other_title": "Quyết định số 1405/1998/QĐ-BTC sửa đổi khoản 3 Điều 4 bản quy định về khung giá cho thuê đất đối với các tổ chức trong nước được Nhà nước cho thuê đất ban hành kèm theo Quyết định 1357/QĐ/BTC ngày 30/12/1995 của Bộ trưởng Bộ Tài chính",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/7379"
+      },
+      {
+        "relation_type": "Văn bản được dẫn chiếu",
+        "direction": "outgoing",
+        "current_document_id": "6608",
+        "other_document_id": "10252",
+        "from_document_id": "6608",
+        "to_document_id": "10252",
+        "other_title": "Pháp lệnh số Không số Về quyền và nghĩa vụ của tổ chức, cá nhân nước ngoài thuê đất tại Việt Nam",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/10252"
+      },
+      {
+        "relation_type": "Văn bản được dẫn chiếu",
+        "direction": "outgoing",
+        "current_document_id": "6608",
+        "other_document_id": "10253",
+        "from_document_id": "6608",
+        "to_document_id": "10253",
+        "other_title": "Pháp lệnh số Không số Về quyền và nghĩa vụ của các tổ chức trong nước được Nhà nước giao đất, cho thuê đất",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/10253"
+      }
+    ],
+    "custom_entity_labels": [],
+    "custom_relation_labels": []
+  }
+}

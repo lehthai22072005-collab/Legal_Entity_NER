@@ -1,0 +1,153 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,57,Nghị định số 99/NĐ Ấn định chế độ nhân viên Bộ Quốc phòng
+ENTITY,E1_2,TEN_VAN_BAN,Tên văn bản,metadata,210,276,"NGHỊ ĐỊNH CỦA BỘ QUỐC PHÒNG
+Ấn định chế độ nhân viên Bộ Quốc phòng"
+ENTITY,E1_3,TEN_VAN_BAN,Tên văn bản,metadata,238,276,Ấn định chế độ nhân viên Bộ Quốc phòng
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,76,81,99/NĐ
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,514,523,NGHỊ ĐỊNH
+ENTITY,E4_1,NGANH,Ngành,metadata,15260,15292,Lao động - Thương binh và Xã hội
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,184,209,ngày 04 tháng 07 năm 1949
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,15305,15319,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,14947,14955,1/5/1949
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,15343,15355,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,58,71,BỘ QUỐC PHÒNG
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,15167,15177,THỨ TRƯỞNG
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,15186,15198,Tạ Quang Bửu
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,307,371,Sắc lệnh số 50/SL ngày 18 tháng 6 năm 1949 tổ chức Bộ Quốc phòng
+ENTITY,E35_1,CHUONG,Chương,structure,602,642,"CHƯƠNG I
+Các ngạch lương bổng và phụ cấp"
+ENTITY,E35_2,CHUONG,Chương,structure,2778,2787,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,13256,13298,"CHƯƠNG III
+Chế độ hưu bổng - hạn thâm niên"
+ENTITY,E35_4,CHUONG,Chương,structure,13818,13835,"CHƯƠNG IV
+Kỷ luật"
+ENTITY,E35_5,CHUONG,Chương,structure,14539,14566,"CHƯƠNG V
+Công nhân tạm thời"
+ENTITY,E35_6,CHUONG,Chương,structure,14726,14751,"CHƯƠNG VI
+Chế độ học nghề"
+ENTITY,E35_7,CHUONG,Chương,structure,14869,14896,"CHƯƠNG VII
+Điều khoản chung"
+ENTITY,E38_1,DIEU,Điều,structure,525,601,Điều 1. - Công nhân Quốc phòng được hưởng chế độ ấn định trong nghị định này
+ENTITY,E38_2,DIEU,Điều,structure,643,691,Điều 2. - Công nhân quốc phòng xếp vào ba ngạch:
+ENTITY,E38_3,DIEU,Điều,structure,871,1110,"Điều 3. - Số lương chính hàng tháng có thể tăng lên theo một tỷ lệ do nghị định ấn định hàng năm, căn cứ vào giá sinh hoạt. Về năm 1949, thì kể từ ngày thi hành nghị định này đến ngày 31 tháng 12 năm 1949, tỷ lệ ấn định là 40% lương chính."
+ENTITY,E38_4,DIEU,Điều,structure,1111,1215,Điều 4. - Riêng ngày 1 tháng 5 là ngày kỷ niệm lao động lương chính và tỷ lệ tăng sẽ được hưởng gấp đôi.
+ENTITY,E38_5,DIEU,Điều,structure,1216,1306,"Điều 5. - Ngoài lương chính và tỷ lệ tăng, công nhân còn được hưởng những phụ cấp sau này:"
+ENTITY,E38_6,DIEU,Điều,structure,1869,2078,"Điều 6. - Phụ cấp gia đình chỉ cấp cho vợ chính thức và con chính thức dưới 16 tuổi, từ 16 tuổi đến 18 nếu còn đi học mà không được nhà trường cấp dưỡng hay bị tàn tật không làm ăn được mới được hưởng phụ cấp."
+ENTITY,E38_7,DIEU,Điều,structure,2376,2614,Điều 7. - Công nhân phụ nữ mà chồng không giữ một chức vụ được hưởng lương bổng của Chính phủ thì được lĩnh phụ cấp cho con nếu chồng bị tàn tật không làm ăn được thì được lĩnh phụ cấp cả cho chồng nữa (tính như phụ cấp vợ đối với chồng).
+ENTITY,E38_8,DIEU,Điều,structure,2615,2699,"Điều 8. - Phụ cấp gia đình, phụ cấp đắt đỏ và phụ cấp khu vực tính trong từng tháng."
+ENTITY,E38_9,DIEU,Điều,structure,2700,2777,Điều 9. - Công nhân nhập ngũ sẽ hưởng chế độ quân nhân trong thời kỳ tại ngũ.
+ENTITY,E38_10,DIEU,Điều,structure,2812,2925,Điều 10. - Công nhân các ngành đốc công và công nhân chuyên nghiệp sẽ do nghị định Bộ trưởng Bộ quốc phòng tuyển.
+ENTITY,E38_11,DIEU,Điều,structure,3254,3337,Điều 11. - Muốn được tuyển làm công nhân quốc phòng cần có những điều kiện sau này:
+ENTITY,E38_12,DIEU,Điều,structure,3530,3631,Điều 12. - Việc tuyển và việc xếp công nhân vào các ngạch sẽ căn cứ vào những tiêu chuẩn ấn định sau:
+ENTITY,E38_13,DIEU,Điều,structure,3632,3739,Điều 13. - Trước khi được tuyển vào chính ngạch công nhân phải qua một thời kỳ tập sự từ 6 tháng đến 1 năm.
+ENTITY,E38_14,DIEU,Điều,structure,4020,4193,Điều 14. - Công nhân Bộ quốc phòng chuyển sang giúp việc ở Bộ khác sẽ được xếp theo ngạch cấp tương đương với ngạch cấp cũ của mình và vẫn giữ hạn thâm niên trong ngạch cấp.
+ENTITY,E38_15,DIEU,Điều,structure,4194,4486,"Điều 15. - Công nhân trưng tập sẽ được xếp vào ngạch cấp với những công nhân có năng lực tương đương trong thời kỳ tập sự. Nếu thời hạn trưng tập quá một năm, thì tuy vẫn giữ chế độ trưng tập nhưng về phương diện ngạch cấp, thời hạn một năm đó sẽ kể như thời kỳ tập sự, để thăng lên cấp trên."
+ENTITY,E38_16,DIEU,Điều,structure,4594,4694,"Điều 16. - Thương binh Cựu binh, muốn xin tuyển sẽ được quyền ưu tiên, nếu đủ điều kiện và năng lực."
+ENTITY,E38_17,DIEU,Điều,structure,4695,4913,"Điều 17. - Công nhân quốc phòng hoặc công nhân Bộ khác thôi việc trong một thời gian xin tuyển lại nếu đủ điều kiện được chấp nhận, sẽ tuỳ theo năng lực được xếp vào ngạch mới với cấp tương đương với ngạch cũ của mình."
+ENTITY,E38_18,DIEU,Điều,structure,5059,5175,"Điều 18. - Hạn thâm niên tối thiểu để được thăng lên cấp trên là hai năm, trừ trường hợp tập sự nói ở Điều 13 và 15."
+ENTITY,E38_19,DIEU,Điều,structure,5176,5298,Điều 19. - Công nhân có công trạng và thành tích đặc biệt thì có thể được đặc cách cho thăng cấp trước thời hạn thường lệ.
+ENTITY,E38_20,DIEU,Điều,structure,5299,5410,Điều 20. - Đối với công nhân tòng ngũ thì thời gian tại ngũ sẽ tính vào hạn thâm niên trong ngạch cấp của mình.
+ENTITY,E38_21,DIEU,Điều,structure,5496,5653,Điều 21. - Mỗi năm có 2 kỳ thăng thưởng vào ngày 6 tháng giêng là ngày kỷ niệm Tổng tuyển cử đầu tiên và ngày 19 tháng 8 là ngày kỷ niệm Cách mạng tháng tám.
+ENTITY,E38_22,DIEU,Điều,structure,5654,5778,Điều 22. - Hồ sơ thăng thưởng công nhân ngạch đốc công và công nhân chuyên nghiệp sẽ giao cho một Hội đồng thăng thưởng xét.
+ENTITY,E38_23,DIEU,Điều,structure,6225,6314,Điều 23. - Hồ sơ thăng thưởng công nhân thường sẽ giao cho một hội đồng thăng thưởng xét.
+ENTITY,E38_24,DIEU,Điều,structure,7269,7371,Điều 24. - Công nhân ở bất cứ ngạch cấp nào có thể xin qua một kỳ thi chuyên nghiệp để lên ngạch trên.
+ENTITY,E38_25,DIEU,Điều,structure,7447,7591,"Điều 25. - Những công nhân đã tuyển trước ngày ký nghị định này sẽ được chuyển sang ngạch cấp mới, căn cứ vào những tiêu chuẩn đã nói ở điều 12."
+ENTITY,E38_26,DIEU,Điều,structure,7592,7698,Điều 26. - Hồ sơ chuyển ngạch các công nhân chuyên nghiệp và đốc công sẽ do một Hội đồng chuyển ngạch xét.
+ENTITY,E38_27,DIEU,Điều,structure,8299,8396,Điều 27. - Hồ sơ chuyển ngạch của các công nhân thường sẽ giao cho một hội đồng chuyển ngạch xét.
+ENTITY,E38_28,DIEU,Điều,structure,9563,9635,Điều 28. - Việc thuyên chuyển và bổ nhiệm các công nhân ấn định như sau:
+ENTITY,E38_29,DIEU,Điều,structure,10479,10608,Điều 29. - Mỗi ngày một công nhân phải làm việc 8 giờ; trong thời kỳ kháng chiến số giờ làm việc hàng ngày có thể tăng lên 9 giờ.
+ENTITY,E38_30,DIEU,Điều,structure,10609,10840,"Điều 30. - Ngoài những ngày nghỉ lễ và nghỉ hàng tuần nếu không có gì cản trở cho công việc mỗi công nhân mỗi năm có thể được nghỉ 30 ngày lĩnh cả lương và mọi khoản phụ cấp, kể cả thời gian đi về từ nơi làm việc đến nơi nghỉ phép."
+ENTITY,E38_31,DIEU,Điều,structure,10841,11042,"Điều 31. - Công nhân đau yếu sẽ được vào điều trị tại các bệnh viện công và phải trả tiền sinh hoạt. Còn thuốc men thường dùng trong các bệnh viện và tiền ăn thêm, nếu y sĩ xét cần sẽ do công quỹ chịu."
+ENTITY,E38_32,DIEU,Điều,structure,11043,11230,"Điều 32.- Có bệnh tật cần phải nghỉ thì theo đề nghị của y sĩ, công nhân đã làm việc được từ một năm trở lên có thể được nghỉ ba tháng lĩnh cả lương chính, tỷ lệ tăng và phụ cấp gia đình."
+ENTITY,E38_33,DIEU,Điều,structure,11682,11788,Điều 33. - Công nhân phụ nữ trong thời kỳ thai sản được nghỉ hai tháng lĩnh cả lương và mọi khoản phụ cấp.
+ENTITY,E38_34,DIEU,Điều,structure,11789,12079,"Điều 34. - Nếu không có gì cản trở cho công việc, công nhân có thể xin nghỉ dài hạn làm một lần hay nhiều lần liên tiếp từ ba tháng đến ba năm (3). Trong thời kỳ nghỉ dài hạn công nhân không được hưởng lương bổng. Sau 3 năm nếu nhân viên không xin tiếp tục công việc thì sẽ coi như từ chức."
+ENTITY,E38_35,DIEU,Điều,structure,12137,12211,Điều 35. - Thể thức cho nghỉ cũng như thể thức tuyển vào ngạch nói ở trên.
+ENTITY,E38_36,DIEU,Điều,structure,12212,12310,Điều 36. - Khi công nhân từ trần trong thời kỳ tại chức thì thân nhân sẽ được trợ cấp như sau này:
+ENTITY,E38_37,DIEU,Điều,structure,12928,13255,"Điều 37. - Trừ trường hợp phạm tội, phạm kỷ luật mà bị bãi chức và trường hợp xin thôi việc mà được chấp nhận, công nhân thôi việc vì những lý do khác được hưởng một khoản trợ cấp tính bằng 1 tháng lương chính và tỷ lệ tăng nếu đã làm việc từ 1 năm trở xuống và bằng 2 tháng lương chính và tỷ lệ tăng nếu đã làm việc quá 1 năm."
+ENTITY,E38_38,DIEU,Điều,structure,13299,13443,"Điều 38. - Công nhân Bộ quốc phòng sẽ theo chế độ hưu bổng chung, trường hợp công nhân không đủ điều kiện để hưởng chế độ này sẽ quyết định sau."
+ENTITY,E38_39,DIEU,Điều,structure,13444,13665,"Điều 39. - Trong khi chờ đợi chế độ ấy, những công nhân chính ngạch, không kể công nhân tập sự và trưng tập, sẽ phải nộp hàng tháng vào quỹ hưu bổng một số tiền hưu liễm bằng 10% lương chính, không kể tỷ lệ tăng hàng năm."
+ENTITY,E38_40,DIEU,Điều,structure,13666,13817,"Điều 40. - Hạn thâm niên tính từ ngày 2 tháng 9 năm 1945 là ngày tuyên bố Độc lập, hoặc từ ngày nhận việc nếu vào làm việc sau ngày 2 tháng 9 năm 1945."
+ENTITY,E38_41,DIEU,Điều,structure,13836,13950,Điều 41. - Công nhân Bộ quốc phòng nếu vô cớ bỏ việc sẽ coi như quân nhân đào ngũ và bị truy tố trước toà án binh.
+ENTITY,E38_42,DIEU,Điều,structure,13951,14026,Điều 42. - Công nhân phạm kỷ luật có thể đưa ra trước một hội đồng kỷ luật.
+ENTITY,E38_43,DIEU,Điều,structure,14190,14243,Điều 43. - Công nhân bị truy tố có thể bị huyền chức.
+ENTITY,E38_44,DIEU,Điều,structure,14567,14668,"Điều 44. - Trong trường hợp cần người giúp việc trong một thời gian, có thể tuyển công nhân tạm thời."
+ENTITY,E38_45,DIEU,Điều,structure,14752,14825,"Điều 45. - Ngoài công nhân, các cơ quan có thể nhận những người học nghề."
+ENTITY,E38_46,DIEU,Điều,structure,14826,14868,Điều 46. - Chế độ học nghề sẽ ấn định sau.
+ENTITY,E38_47,DIEU,Điều,structure,14897,14955,Điều 47. - Nghị định này thi hành bắt đầu từ ngày 1/5/1949
+ENTITY,E38_48,DIEU,Điều,structure,14956,15037,Điều 48. - Nghị định số 56-NĐ/CB ngày 6/8/1947 trái với nghị định này nay bãi bỏ.
+ENTITY,E38_49,DIEU,Điều,structure,15038,15152,"Điều 49.- Đổng lý Quân vụ, Đổng lý Sự vụ, Bộ Quốc phòng các Cục trưởng và Giám đốc Nha chiểu nghị định thi hành./."
+ENTITY,E39_1,KHOAN,Khoản,structure,692,709,1. Ngạch đốc công
+ENTITY,E39_2,KHOAN,Khoản,structure,710,742,2. Ngạch công nhân chuyên nghiệp
+ENTITY,E39_3,KHOAN,Khoản,structure,743,769,3. Ngạch công nhân thường.
+ENTITY,E39_4,KHOAN,Khoản,structure,1307,1363,1. Phụ cấp gia đình: vợ 50đ một tháng; con 40đ một tháng
+ENTITY,E39_5,KHOAN,Khoản,structure,1364,1401,2. Phụ cấp đắt đỏ: tính theo giá gạo;
+ENTITY,E39_6,KHOAN,Khoản,structure,1706,1787,3. Phụ cấp khu vực (tính theo khu vực do Nghị định liên bộ Nội vụ - Y tế ấn định)
+ENTITY,E39_7,KHOAN,Khoản,structure,2788,2811,1. Việc tuyển công nhân
+ENTITY,E39_8,KHOAN,Khoản,structure,3945,3966,1. Thăng lên cấp trên
+ENTITY,E39_9,KHOAN,Khoản,structure,3967,3981,2. Cứ ở cấp cũ
+ENTITY,E39_10,KHOAN,Khoản,structure,3982,4019,3. Xếp xuống một cấp hoặc ngạch dưới.
+ENTITY,E39_11,KHOAN,Khoản,structure,5001,5058,2. Thăng thưởng - chuyển ngạch - bổ nhiệm - thuyên chuyển
+ENTITY,E39_12,KHOAN,Khoản,structure,10439,10478,3. Giờ làm việc - nghỉ phép - thôi việc
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_3,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_4,E38_5,,
+RELATION,R22_9,THUOC,Thuộc,E39_5,E38_5,,
+RELATION,R22_10,THUOC,Thuộc,E39_6,E38_5,,
+RELATION,R22_11,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_12,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_13,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_14,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,R22_15,THUOC,Thuộc,E39_7,E35_2,,
+RELATION,R22_16,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_17,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_18,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_19,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_20,THUOC,Thuộc,E39_8,E38_13,,
+RELATION,R22_21,THUOC,Thuộc,E39_9,E38_13,,
+RELATION,R22_22,THUOC,Thuộc,E39_10,E38_13,,
+RELATION,R22_23,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_24,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_25,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,R22_26,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_27,THUOC,Thuộc,E39_11,E38_17,,
+RELATION,R22_28,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,R22_29,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,R22_30,THUOC,Thuộc,E38_20,E35_2,,
+RELATION,R22_31,THUOC,Thuộc,E38_21,E35_2,,
+RELATION,R22_32,THUOC,Thuộc,E38_22,E35_2,,
+RELATION,R22_33,THUOC,Thuộc,E38_23,E35_2,,
+RELATION,R22_34,THUOC,Thuộc,E38_24,E35_2,,
+RELATION,R22_35,THUOC,Thuộc,E38_25,E35_2,,
+RELATION,R22_36,THUOC,Thuộc,E38_26,E35_2,,
+RELATION,R22_37,THUOC,Thuộc,E38_27,E35_2,,
+RELATION,R22_38,THUOC,Thuộc,E38_28,E35_2,,
+RELATION,R22_39,THUOC,Thuộc,E39_12,E38_28,,
+RELATION,R22_40,THUOC,Thuộc,E38_29,E35_2,,
+RELATION,R22_41,THUOC,Thuộc,E38_30,E35_2,,
+RELATION,R22_42,THUOC,Thuộc,E38_31,E35_2,,
+RELATION,R22_43,THUOC,Thuộc,E38_32,E35_2,,
+RELATION,R22_44,THUOC,Thuộc,E38_33,E35_2,,
+RELATION,R22_45,THUOC,Thuộc,E38_34,E35_2,,
+RELATION,R22_46,THUOC,Thuộc,E38_35,E35_2,,
+RELATION,R22_47,THUOC,Thuộc,E38_36,E35_2,,
+RELATION,R22_48,THUOC,Thuộc,E38_37,E35_2,,
+RELATION,R22_49,THUOC,Thuộc,E38_38,E35_3,,
+RELATION,R22_50,THUOC,Thuộc,E38_39,E35_3,,
+RELATION,R22_51,THUOC,Thuộc,E38_40,E35_3,,
+RELATION,R22_52,THUOC,Thuộc,E38_41,E35_4,,
+RELATION,R22_53,THUOC,Thuộc,E38_42,E35_4,,
+RELATION,R22_54,THUOC,Thuộc,E38_43,E35_4,,
+RELATION,R22_55,THUOC,Thuộc,E38_44,E35_5,,
+RELATION,R22_56,THUOC,Thuộc,E38_45,E35_6,,
+RELATION,R22_57,THUOC,Thuộc,E38_46,E35_6,,
+RELATION,R22_58,THUOC,Thuộc,E38_47,E35_7,,
+RELATION,R22_59,THUOC,Thuộc,E38_48,E35_7,,
+RELATION,R22_60,THUOC,Thuộc,E38_49,E35_7,,
+RELATION,R22_61,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_62,THUOC,Thuộc,E11_1,E10_1,,

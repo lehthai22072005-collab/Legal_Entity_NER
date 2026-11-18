@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "document_id": "22019",
+  "document_code": "05/2002/L-CTN",
+  "file_name": "05_2002_L-CTN_22019.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 05/2002/L-CTN Về việc công bố Nghị quyết của Quốc hội",
+    "so_hieu": "05/2002/L-CTN",
+    "loai_van_ban": "Lệnh",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "ngày 25 tháng 12 năm 2001",
+    "ngay_co_hieu_luc": "2002-04-12",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH",
+    "nguoi_ky": "Trần Đức Lương",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 05/2002/L-CTN Về việc công bố Nghị quyết của Quốc hội\nLỆNH CỦA CHỦ TỊCH NƯỚC\nVề việc công bố Nghị quyết của Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam\nCăn cứ Điều 103 vàĐiều 106 của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã đượcsửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 củaQuốc hội Khóa X, kỳ họp thứ 10;\nCăn cứ vào Điều 91của Luật Tổchức Quốchội;\nCăn cứ vào Điều 50của Luật Ban hành các văn bản quy phạm pháp luật,\nNAY CÔNG BỐ:\nNghị quyết về việc thihành Luật Tổ chức Tòa án nhân dân và Luật Tổ chức Viện Kiểm sát nhân dân\nĐã được Quốc hội nướcCộng hòa xã hội chủ nghĩa Việt Nam Khóa X, kỳ họp thứ 11 thông qua ngày 02tháng 4 năm 2002./.\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 2002-04-12\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Người ký]: Trần Đức Lương\n[Căn cứ ban hành]: Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 30/2001/QH10\n[Căn cứ ban hành]: Luật Ban hành Văn bản quy phạm pháp luật số Không số",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 61,
+      "text": "Lệnh số 05/2002/L-CTN Về việc công bố Nghị quyết của Quốc hội",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 21,
+      "text": "05/2002/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 311,
+      "end": 336,
+      "text": "ngày 25 tháng 12 năm 2001",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 770,
+      "end": 784,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 805,
+      "end": 815,
+      "text": "2002-04-12",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 839,
+      "end": 851,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 71,
+      "end": 84,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 71,
+      "end": 79,
+      "text": "CHỦ TỊCH",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 864,
+      "end": 878,
+      "text": "Trần Đức Lương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E19_1",
+      "start": 898,
+      "end": 944,
+      "text": "Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 964,
+      "end": 1001,
+      "text": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 1021,
+      "end": 1073,
+      "text": "Luật Ban hành Văn bản quy phạm pháp luật số Không số",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E2_1",
+      "to_id": "E19_2",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E2_1",
+      "to_id": "E19_3",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

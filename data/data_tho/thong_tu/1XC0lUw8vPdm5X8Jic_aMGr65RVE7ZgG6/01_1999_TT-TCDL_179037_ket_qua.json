@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "document_id": "179037",
+  "document_code": "01/1999/TT-TCDL",
+  "file_name": "01_1999_TT-TCDL_179037.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "HƯỚNG DẪN THỰC HIỆN QUYẾT ĐỊNH 53/1999/QĐ-TTG NGÀY 26/3/1999 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ MỘT SỐ BIỆN PHÁP KHUYẾN KHÍCH ĐẦU TƯ TRỰC TIẾP NƯỚC NGOÀI",
+    "so_hieu": "01/1999/TT-TCDL",
+    "loai_van_ban": "THÔNG TƯ",
+    "co_quan_ban_hanh": "Bộ Văn hóa, Thể thao và Du lịch",
+    "ngay_ban_hanh": "1999-06-02",
+    "ngay_co_hieu_luc": "kể từ ngày 1/7/1999",
+    "ngay_het_hieu_luc": "2016-02-15",
+    "tinh_trang_hieu_luc": "Hết hiệu lực toàn bộ",
+    "chuc_danh": "Chưa xác định",
+    "nguoi_ky": "Chưa xác định",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Thông tư số 01/1999/TT-TCDL hướng dẫn thực hiện Quyết định 53/1999/QĐ-TTg ngày 26/3/1999 của Thủ tướng Chính phủ về một số biện pháp khuyến khích đầu tư trực tiếp nước ngoài\nTHÔNG TƯ\nCỦA TỔNG CỤC DU LỊCH SỐ 01/1999/TT-TCDL NGÀY 2 THÁNG 6 NĂM 1999 HƯỚNG DẪN THỰC HIỆN QUYẾT ĐỊNH 53/1999/QĐ-TTG NGÀY 26/3/1999 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ MỘT SỐ BIỆN PHÁP KHUYẾN KHÍCH ĐẦU TƯ TRỰC TIẾP NƯỚC NGOÀI\nCăn cứ Quyết định 477/TTg ngày 3/7/1997 của Thủ tướng Chính phủ về phụ thu cước viễn thông tại các khách sạn;\nCăn cứ Thông tư số 66/1998/TT-TCDL ngày 23/1/1998 của Tổng cục Du lịch hướng dẫn thực hiện Quyết định 477/TTg ngày 3/7/1997 của Thủ tướng Chính phủ.\nCăn cứ Quyết định 53/1999/QĐ-TTg ngày 26/3/1999 của Thủ tướng Chính phủ về một số biện pháp khuyến khích đầu tư trực tiếp nước ngoài;\nSau khi trao đổi thống nhất với Ban Vật giá Chính phủ, Tổng cục Du lịch hướng dẫn thực hiện như sau:\n1. Mức thu\n- Khách sạn xếp hạng từ 3 sao đến 5 sao, phụ thu cước viễn thông tối đa 15%.\n- Khách sạn xếp hạng từ 1 sao đến 2 sao, phụ thu cước viễn thông tối đa 10%.\n2. Thời gian thực hiện\nQuy định này có hiệu lực thi hành kể từ ngày 1/7/1999. Những mức thu trước đây trái với quy định tại Thông tư này đều bãi bỏ.\nPhạm vi áp dụng và đăng ký mức phụ thu thực hiện như Thông tư 66/1998/TT-TCDL ngày 23/1/1998.\nTrong thời gian thực hiện, nếu có gì khó khăn vướng mắc đề nghị các đơn vị báo cáo về Tổng cục Du lịch để xem xét và xử lý.\nĐặng Văn Tín\n(Đã ký)\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Cơ quan ban hành]: Bộ Văn hóa, Thể thao và Du lịch\n[Ngày ban hành]: 1999-06-02\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: kể từ ngày 1/7/1999\n[Ngày hết hiệu lực]: 2016-02-15\n[Tình trạng hiệu lực]: Hết hiệu lực toàn bộ\n[Chức danh]: Chưa xác định\n[Người ký]: Chưa xác định\n[Văn bản quy định về việc hết hiệu lực toàn bộ]: Thông tư số 13/2015/TT- BVHTTDL bãi bỏ một số văn bản quy phạm pháp luật thuộc thẩm quyền của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch.",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 247,
+      "end": 392,
+      "text": "HƯỚNG DẪN THỰC HIỆN QUYẾT ĐỊNH 53/1999/QĐ-TTG NGÀY 26/3/1999 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ MỘT SỐ BIỆN PHÁP KHUYẾN KHÍCH ĐẦU TƯ TRỰC TIẾP NƯỚC NGOÀI",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 12,
+      "end": 27,
+      "text": "01/1999/TT-TCDL",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 174,
+      "end": 182,
+      "text": "THÔNG TƯ",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 1561,
+      "end": 1571,
+      "text": "1999-06-02",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 1584,
+      "end": 1598,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 1619,
+      "end": 1638,
+      "text": "kể từ ngày 1/7/1999",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E8_1",
+      "start": 1660,
+      "end": 1670,
+      "text": "2016-02-15",
+      "code": "NGAY_HET_HIEU_LUC",
+      "label": "Ngày hết hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 1694,
+      "end": 1714,
+      "text": "Hết hiệu lực toàn bộ",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 1512,
+      "end": 1543,
+      "text": "Bộ Văn hóa, Thể thao và Du lịch",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 1728,
+      "end": 1741,
+      "text": "Chưa xác định",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 1754,
+      "end": 1767,
+      "text": "Chưa xác định",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E26_1",
+      "start": 1817,
+      "end": 1953,
+      "text": "Thông tư số 13/2015/TT- BVHTTDL bãi bỏ một số văn bản quy phạm pháp luật thuộc thẩm quyền của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch.",
+      "code": "VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO",
+      "label": "Văn bản quy định về việc hết hiệu lực toàn bộ",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R14_1",
+      "from_id": "E2_1",
+      "to_id": "E26_1",
+      "code": "QUY_DINH_HET_HIEU_LUC_TOAN_BO",
+      "label": "Quy định về việc hết hiệu lực toàn bộ"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

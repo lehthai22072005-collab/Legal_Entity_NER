@@ -1,0 +1,365 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,74,Luật Tham gia lực lượng gìn giữ hòa bình của liên hợp quốc số 92/2025/QH15
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,62,74,92/2025/QH15
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,26080,26090,Quốc phòng
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,25269,25293,ngày 26 tháng 6 năm 2025
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,26103,26138,Tham gia lực lượng gìn giữ hòa bình
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,24965,24990,ngày 01 tháng 01 năm 2026
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,25411,25423,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,75,83,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,25295,25312,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,25321,25335,Trần Thanh Mẫn
+ENTITY,E16_1,VB_BI_TAC_DONG_HIEU_LUC_TOAN_BO,Văn bản bị tác động hiệu lực toàn bộ,reference,24995,25022,Nghị quyết số 130/2020/QH14
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,322,349,Nghị quyết số 203/2025/QH15
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,230,279,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,25445,25586,Nghị định số 01/2026/NĐ-CP Quy định chi tiết và biện pháp thi hành một số điều của Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,25606,25708,Thông tư số 109/2025/TT-BQP quy định tặng Kỷ niệm chương “Vì sự nghiệp gìn giữ hòa bình Liên hợp quốc”
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,25728,25909,"Thông tư số 150/2025/TT-BQP Quy định tiêu chuẩn sức khỏe, phân loại, khám sức khỏe quân nhân, công nhân và viên chức quốc phòng tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,25929,26070,Nghị định số 01/2026/NĐ-CP Quy định chi tiết và biện pháp thi hành một số điều của Luật Tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc
+ENTITY,E35_1,CHUONG,Chương,structure,429,437,Chương I
+ENTITY,E35_2,CHUONG,Chương,structure,13798,13807,Chương II
+ENTITY,E35_3,CHUONG,Chương,structure,18337,18347,Chương III
+ENTITY,E35_4,CHUONG,Chương,structure,23126,23135,Chương IV
+ENTITY,E35_5,CHUONG,Chương,structure,24873,24881,Chương V
+ENTITY,E36_1,MUC,Mục,structure,13926,13931,Mục 1
+ENTITY,E36_2,MUC,Mục,structure,17309,17314,Mục 2
+ENTITY,E36_3,MUC,Mục,structure,18427,18432,Mục 1
+ENTITY,E36_4,MUC,Mục,structure,21503,21508,Mục 2
+ENTITY,E38_1,DIEU,Điều,structure,459,465,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,768,774,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1293,1299,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,3763,3769,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,4892,4898,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,5601,5607,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,8029,8035,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,8993,8999,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,9680,9686,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,10683,10690,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,11285,11292,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,12902,12909,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,13951,13958,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,15056,15063,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,15522,15529,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,16180,16187,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,17088,17095,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,17352,17359,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,18064,18071,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,18521,18528,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,19172,19179,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,20794,20801,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,21624,21631,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,22087,22094,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,23175,23182,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,23811,23818,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,24902,24909,Điều 27
+ENTITY,E39_1,KHOAN,Khoản,structure,794,1086,"1. Sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng, hạ sĩ quan, binh sĩ và đơn vị thuộc Bộ Quốc phòng; sĩ quan, hạ sĩ quan nghiệp vụ, chuyên môn kỹ thuật, công nhân công an, chiến sĩ và đơn vị thuộc Bộ Công an được cử tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc."
+ENTITY,E39_2,KHOAN,Khoản,structure,1087,1181,"2. Cán bộ, công chức, viên chức được cử tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc."
+ENTITY,E39_3,KHOAN,Khoản,structure,1182,1292,"3. Cơ quan, đơn vị, tổ chức, cá nhân liên quan đến việc tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc."
+ENTITY,E39_4,KHOAN,Khoản,structure,1374,1848,"1. Lực lượng gìn giữ hòa bình của Liên hợp quốc là các đơn vị, cá nhân được các nước thành viên Liên hợp quốc cử tham gia hoạt động gìn giữ hòa bình Liên hợp quốc nhằm mục đích duy trì, gìn giữ hòa bình, an ninh ở quốc gia và khu vực đã tạm ngừng xung đột, có thỏa thuận ngừng bắn hoặc thỏa thuận hòa bình để chấm dứt xung đột và xây dựng hòa bình, được thực hiện theo nghị quyết của Hội đồng Bảo an Liên hợp quốc và đặt dưới sự chỉ đạo, quản lý, giám sát của Liên hợp quốc."
+ENTITY,E39_5,KHOAN,Khoản,structure,1849,2183,"2. Phái bộ gìn giữ hòa bình Liên hợp quốc (sau đây gọi là Phái bộ) là tổ chức được thành lập theo nghị quyết của Hội đồng Bảo an Liên hợp quốc, với sự đồng thuận của chính quyền nước sở tại và các bên liên quan, do Liên hợp quốc quản lý và điều hành; nhằm duy trì, gìn giữ hòa bình, an ninh ở quốc gia, khu vực nơi triển khai Phái bộ."
+ENTITY,E39_6,KHOAN,Khoản,structure,2184,2406,"3. Hoạt động gìn giữ hòa bình Liên hợp quốc là các hoạt động do Hội đồng Bảo an Liên hợp quốc giao Phái bộ tại địa bàn thực hiện nhiệm vụ nhằm khắc phục xung đột và xây dựng hòa bình, đặt dưới sự chỉ huy của Liên hợp quốc."
+ENTITY,E39_7,KHOAN,Khoản,structure,2407,2520,"4. Địa bàn là quốc gia, khu vực nơi đặt trụ sở cơ quan, tổ chức của Liên hợp quốc có lực lượng Việt Nam tham gia."
+ENTITY,E39_8,KHOAN,Khoản,structure,2521,2664,"5. Cử mới là việc cử lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc ở vị trí công tác mới, địa bàn mới hoặc lĩnh vực mới."
+ENTITY,E39_9,KHOAN,Khoản,structure,2665,2850,"6. Cử luân phiên, thay thế là việc cử lực lượng Việt Nam thay lực lượng Việt Nam đang thực hiện nhiệm vụ gìn giữ hòa bình Liên hợp quốc tại Phái bộ, theo nhiệm kỳ định kỳ hoặc đột xuất."
+ENTITY,E39_10,KHOAN,Khoản,structure,2851,2944,"7. Điều chỉnh là việc thay đổi quy mô lực lượng, tính chất hoạt động và nhiệm vụ tại địa bàn."
+ENTITY,E39_11,KHOAN,Khoản,structure,2945,3050,8. Nhiệm kỳ công tác là thời gian đi thực hiện nhiệm vụ gìn giữ hòa bình theo quy định của Liên hợp quốc.
+ENTITY,E39_12,KHOAN,Khoản,structure,3051,3137,9. Gia hạn nhiệm kỳ công tác là việc kéo dài thời gian thực hiện nhiệm vụ tại địa bàn.
+ENTITY,E39_13,KHOAN,Khoản,structure,3138,3281,10. Tiền bồi hoàn là khoản tiền do Liên hợp quốc chi trả cho Chính phủ Việt Nam cử lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc.
+ENTITY,E39_14,KHOAN,Khoản,structure,3282,3762,"11. Trường hợp khẩn cấp là tình huống bất thường và nguy hiểm do thiên nhiên, con người gây ra, dịch bệnh lây lan trên diện rộng tại địa bàn, bất ổn về an ninh vượt quá khả năng ứng phó của Liên hợp quốc; tình huống bất ổn đe dọa gây thiệt hại hoặc gây thiệt hại nghiêm trọng đến tính mạng, sức khỏe của cá nhân, vũ khí trang bị kỹ thuật, phương tiện kỹ thuật nghiệp vụ của lực lượng Việt Nam hoặc có nguy cơ ảnh hưởng đến lợi ích quốc gia, dân tộc và vị thế, uy tín của Việt Nam."
+ENTITY,E39_15,KHOAN,Khoản,structure,3836,4033,"1. Đặt dưới sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng Cộng sản Việt Nam; quyết định của Hội đồng Quốc phòng và An ninh; sự thống lĩnh của Chủ tịch nước và quản lý nhà nước của Chính phủ."
+ENTITY,E39_16,KHOAN,Khoản,structure,4034,4242,"2. Tuân thủ Hiến pháp và pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam; phù hợp với Hiến chương Liên hợp quốc, pháp luật quốc tế, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+ENTITY,E39_17,KHOAN,Khoản,structure,4243,4556,"3. Bảo đảm độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển; phù hợp với lợi ích quốc gia, dân tộc, điều kiện và khả năng của Việt Nam; tôn trọng độc lập, chủ quyền, bình đẳng, toàn vẹn lãnh thổ và không can thiệp vào công việc nội bộ của các quốc gia; thúc đẩy bình đẳng giới và bảo vệ quyền con người."
+ENTITY,E39_18,KHOAN,Khoản,structure,4557,4731,"4. Chỉ tham gia hoạt động hỗ trợ khắc phục hậu quả chiến tranh, duy trì hòa bình sau xung đột và các hoạt động khác vì mục đích nhân đạo trên cơ sở đề nghị của Liên hợp quốc."
+ENTITY,E39_19,KHOAN,Khoản,structure,4732,4891,"5. Triển khai lực lượng ở quốc gia, khu vực đã được Liên hợp quốc thành lập Phái bộ và tại các cơ quan của Liên hợp quốc, trên cơ sở đề nghị của Liên hợp quốc."
+ENTITY,E39_20,KHOAN,Khoản,structure,4991,5308,"1. Lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc là lực lượng được Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam cử tham gia vào lực lượng gìn giữ hòa bình của Liên hợp quốc, nhằm thể hiện vai trò và trách nhiệm của Việt Nam trong cộng đồng quốc tế, góp phần nâng cao vị thế, uy tín của Việt Nam."
+ENTITY,E39_21,KHOAN,Khoản,structure,5309,5600,"2. Lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc có chức năng duy trì, bảo vệ hòa bình khu vực và thế giới, thực hiện đường lối đối ngoại độc lập, tự chủ, hòa bình, hợp tác và phát triển, đa phương hóa, đa dạng hóa quan hệ quốc tế theo chủ trương của Đảng và Nhà nước."
+ENTITY,E39_22,KHOAN,Khoản,structure,5715,5820,"1. Lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc có nghĩa vụ, trách nhiệm sau đây:"
+ENTITY,E39_23,KHOAN,Khoản,structure,7660,7753,2. Lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc có quyền hạn sau đây:
+ENTITY,E39_24,KHOAN,Khoản,structure,8113,8143,1. Hình thức tham gia bao gồm:
+ENTITY,E39_25,KHOAN,Khoản,structure,8400,8429,2. Lĩnh vực tham gia bao gồm:
+ENTITY,E39_26,KHOAN,Khoản,structure,8770,8992,"3. Trường hợp Liên hợp quốc đề nghị lĩnh vực khác theo quy định tại điểm h khoản 2 Điều này thì Hội đồng Quốc phòng và An ninh quyết định đối với lực lượng vũ trang, Thủ tướng Chính phủ quyết định đối với lực lượng dân sự."
+ENTITY,E39_27,KHOAN,Khoản,structure,9025,9190,"1. Xây dựng lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc đáp ứng yêu cầu hiện đại, chuyên nghiệp và phù hợp với tiêu chuẩn của Liên hợp quốc."
+ENTITY,E39_28,KHOAN,Khoản,structure,9191,9319,"2. Tạo điều kiện, động viên tổ chức, cá nhân, khuyến khích và ưu tiên nữ giới tham gia hoạt động gìn giữ hòa bình Liên hợp quốc."
+ENTITY,E39_29,KHOAN,Khoản,structure,9320,9502,"3. Ưu tiên phát triển nguồn nhân lực, vũ khí trang bị kỹ thuật, phương tiện kỹ thuật nghiệp vụ đáp ứng điều kiện thực hiện nhiệm vụ tham gia hoạt động gìn giữ hòa bình Liên hợp quốc."
+ENTITY,E39_30,KHOAN,Khoản,structure,9503,9679,"4. Có chế độ, chính sách ưu đãi trong đào tạo, bố trí, sử dụng, tuyển dụng, tuyển chọn đối với cá nhân đã hoàn thành nhiệm vụ tham gia hoạt động gìn giữ hoà bình Liên hợp quốc."
+ENTITY,E39_31,KHOAN,Khoản,structure,9762,9799,1. Nội dung quản lý nhà nước bao gồm:
+ENTITY,E39_32,KHOAN,Khoản,structure,10305,10404,2. Chính phủ thống nhất quản lý nhà nước về việc tham gia hoạt động gìn giữ hòa bình Liên hợp quốc.
+ENTITY,E39_33,KHOAN,Khoản,structure,10405,10543,3. Bộ Quốc phòng chủ trì chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về tham gia hoạt động gìn giữ hòa bình Liên hợp quốc.
+ENTITY,E39_34,KHOAN,Khoản,structure,10544,10682,"4. Chính phủ quy định trách nhiệm của Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh về tham gia hoạt động gìn giữ hòa bình Liên hợp quốc."
+ENTITY,E39_35,KHOAN,Khoản,structure,10740,11007,"1. Cá nhân, đơn vị Việt Nam vi phạm pháp luật Việt Nam, pháp luật nước sở tại và quy định của Liên hợp quốc trong thời gian tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc bị xử lý theo quy định của pháp luật Việt Nam, thỏa thuận giữa Việt Nam và Liên hợp quốc."
+ENTITY,E39_36,KHOAN,Khoản,structure,11008,11284,"2. Việc giải quyết tranh chấp, khiếu nại giữa lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc với Liên hợp quốc hoặc bên thứ ba trong thời gian tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc thực hiện theo thỏa thuận giữa Việt Nam và Liên hợp quốc."
+ENTITY,E39_37,KHOAN,Khoản,structure,11367,11405,1. Nguyên tắc hợp tác quốc tế bao gồm:
+ENTITY,E39_38,KHOAN,Khoản,structure,11935,11971,2. Nội dung hợp tác quốc tế bao gồm:
+ENTITY,E39_39,KHOAN,Khoản,structure,12430,12467,3. Hình thức hợp tác quốc tế bao gồm:
+ENTITY,E39_40,KHOAN,Khoản,structure,12997,13189,"1. Lợi dụng, lạm dụng việc tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc để vi phạm pháp luật, xâm phạm lợi ích của Nhà nước, xâm phạm quyền và lợi ích hợp pháp của tổ chức và cá nhân."
+ENTITY,E39_41,KHOAN,Khoản,structure,13190,13336,"2. Mua chuộc, hối lộ, dụ dỗ, lôi kéo hoặc ép buộc người tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc để thực hiện hành vi trái pháp luật."
+ENTITY,E39_42,KHOAN,Khoản,structure,13337,13513,"3. Phân biệt đối xử về giới, chia rẽ, kỳ thị dân tộc, chủng tộc, quốc tịch, tín ngưỡng, tôn giáo, trình độ, văn hóa trong tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc."
+ENTITY,E39_43,KHOAN,Khoản,structure,13514,13643,"4. Phát tán, tuyên truyền hình ảnh, thông tin sai lệch, làm lộ thông tin bí mật của nhà nước hoặc danh mục mật của Liên hợp quốc."
+ENTITY,E39_44,KHOAN,Khoản,structure,13644,13797,5. Hành vi khác theo quy định của pháp luật Việt Nam và quy định của Liên hợp quốc trong quá trình tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc.
+ENTITY,E39_45,KHOAN,Khoản,structure,14029,14109,1. Lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc bao gồm:
+ENTITY,E39_46,KHOAN,Khoản,structure,14644,14847,"2. Bộ Quốc phòng, Bộ Công an quy định về tổ chức, biên chế, vũ khí trang bị kỹ thuật, phương tiện kỹ thuật nghiệp vụ thuộc Bộ Quốc phòng, Bộ Công an tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc."
+ENTITY,E39_47,KHOAN,Khoản,structure,14848,15055,"3. Bộ, Ban, ngành, Ủy ban nhân dân cấp tỉnh quy định về tổ chức, biên chế, phương tiện kỹ thuật nghiệp vụ thuộc Bộ, Ban, ngành, Ủy ban nhân dân cấp tỉnh tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc."
+ENTITY,E39_48,KHOAN,Khoản,structure,15136,15314,"1. Lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc được tuyển chọn từ các cơ quan, đơn vị thuộc Bộ Quốc phòng, Bộ Công an và Bộ, Ban, ngành, Ủy ban nhân dân cấp tỉnh."
+ENTITY,E39_49,KHOAN,Khoản,structure,15315,15521,"2. Bộ, Ban, ngành, Ủy ban nhân dân cấp tỉnh quy định điều kiện, tiêu chuẩn tuyển chọn đối với lực lượng thuộc phạm vi quản lý của mình, đáp ứng yêu cầu của Liên hợp quốc theo từng đơn vị, vị trí tuyển chọn."
+ENTITY,E39_50,KHOAN,Khoản,structure,15631,15995,"1. Lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc được đào tạo, huấn luyện, bồi dưỡng kiến thức về gìn giữ hòa bình Liên hợp quốc; chuyên môn nghiệp vụ; huấn luyện tiền triển khai theo chương trình của Liên hợp quốc; ngoại ngữ; bình đẳng giới và các kỹ năng khác; tham gia các khóa tập huấn gìn giữ hòa bình Liên hợp quốc trong và ngoài nước."
+ENTITY,E39_51,KHOAN,Khoản,structure,15996,16179,"2. Bộ, Ban, ngành, Ủy ban nhân dân cấp tỉnh quy định chương trình, thời gian đào tạo, huấn luyện, bồi dưỡng lực lượng thuộc phạm vi quản lý của mình đáp ứng yêu cầu của Liên hợp quốc."
+ENTITY,E39_52,KHOAN,Khoản,structure,16331,16543,"1. Vũ khí trang bị kỹ thuật, phương tiện kỹ thuật nghiệp vụ do Việt Nam trang bị theo yêu cầu của Liên hợp quốc, được Liên hợp quốc bồi hoàn theo thỏa thuận giữa Việt Nam và Liên hợp quốc trong quá trình sử dụng."
+ENTITY,E39_53,KHOAN,Khoản,structure,16544,16577,2. Trang bị do Liên hợp quốc cấp.
+ENTITY,E39_54,KHOAN,Khoản,structure,16578,16650,"3. Trang bị, vật tư do Việt Nam tự bảo đảm để hỗ trợ thực hiện nhiệm vụ."
+ENTITY,E39_55,KHOAN,Khoản,structure,16651,16903,"4. Trang phục của lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc phù hợp với quy định của Việt Nam và theo quy định của Liên hợp quốc. Bộ Quốc phòng, Bộ Công an quy định trang phục đối với lực lượng thuộc phạm vi quản lý của mình."
+ENTITY,E39_56,KHOAN,Khoản,structure,16904,17087,"5. Chính phủ quy định dấu hiệu nhận biết vũ khí trang bị kỹ thuật, phương tiện kỹ thuật nghiệp vụ của lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc tại địa bàn."
+ENTITY,E39_57,KHOAN,Khoản,structure,17467,17568,1. Chính phủ thống nhất chỉ đạo lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc.
+ENTITY,E39_58,KHOAN,Khoản,structure,17569,17733,"2. Bộ Quốc phòng trực tiếp chỉ đạo, chỉ huy, quản lý, điều hành lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc thuộc phạm vi quản lý của Bộ Quốc phòng."
+ENTITY,E39_59,KHOAN,Khoản,structure,17734,17892,"3. Bộ Công an trực tiếp chỉ đạo, chỉ huy, quản lý, điều hành lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc thuộc phạm vi quản lý của Bộ Công an."
+ENTITY,E39_60,KHOAN,Khoản,structure,17893,18063,"4. Bộ, Ban, ngành, Ủy ban nhân dân cấp tỉnh chỉ đạo, quản lý, điều hành lực lượng dân sự thuộc phạm vi quản lý của mình tham gia hoạt động gìn giữ hòa bình Liên hợp quốc."
+ENTITY,E39_61,KHOAN,Khoản,structure,18112,18222,1. Lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc tại mỗi Phái bộ có một Chỉ huy trưởng.
+ENTITY,E39_62,KHOAN,Khoản,structure,18223,18336,"2. Chính phủ quy định thẩm quyền bổ nhiệm, nhiệm vụ, quyền hạn của Chỉ huy trưởng lực lượng Việt Nam tại Phái bộ."
+ENTITY,E39_63,KHOAN,Khoản,structure,18623,18789,"1. Hội đồng Quốc phòng và An ninh quyết định việc cử, điều chỉnh, gia hạn nhiệm kỳ công tác, rút lực lượng vũ trang tham gia hoạt động gìn giữ hòa bình Liên hợp quốc."
+ENTITY,E39_64,KHOAN,Khoản,structure,18790,18915,"2. Hội đồng Quốc phòng và An ninh giao Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quyết định trong các trường hợp sau đây:"
+ENTITY,E39_65,KHOAN,Khoản,structure,19252,19439,"1. Quy trình cử mới, điều chỉnh, rút lực lượng vũ trang tham gia hoạt động gìn giữ hòa bình Liên hợp quốc thuộc thẩm quyền Hội đồng Quốc phòng và An ninh quyết định được quy định như sau:"
+ENTITY,E39_66,KHOAN,Khoản,structure,20032,20134,"2. Quy trình rút lực lượng trong trường hợp khẩn cấp, gia hạn nhiệm kỳ công tác được quy định như sau:"
+ENTITY,E39_67,KHOAN,Khoản,structure,20753,20793,3. Chính phủ quy định chi tiết Điều này.
+ENTITY,E39_68,KHOAN,Khoản,structure,20837,20995,"1. Hằng năm, Bộ Quốc phòng chủ trì, phối hợp với Bộ Công an báo cáo Chính phủ trình Hội đồng Quốc phòng và An ninh kế hoạch cử lực lượng luân phiên, thay thế."
+ENTITY,E39_69,KHOAN,Khoản,structure,20996,21239,"2. Căn cứ quyết định của Hội đồng Quốc phòng và An ninh, Bộ Quốc phòng chủ trì, phối hợp với Bộ Công an báo cáo Chính phủ trình Chủ tịch nước - Chủ tịch Hội đồng Quốc phòng và An ninh ban hành quyết định việc cử lực lượng luân phiên, thay thế."
+ENTITY,E39_70,KHOAN,Khoản,structure,21240,21442,"3. Căn cứ quyết định của Chủ tịch nước - Chủ tịch Hội đồng Quốc phòng và An ninh, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an theo thẩm quyền quyết định lực lượng cụ thể từng đợt luân phiên, thay thế."
+ENTITY,E39_71,KHOAN,Khoản,structure,21443,21502,4. Chính phủ quy định chi tiết khoản 1 và khoản 2 Điều này.
+ENTITY,E39_72,KHOAN,Khoản,structure,21748,21902,"1.Thủ tướng Chính phủ quyết định việc cử mới, cử luân phiên, thay thế, điều chỉnh, rút lực lượng dân sự tham gia hoạt động gìn giữ hòa bình Liên hợp quốc."
+ENTITY,E39_73,KHOAN,Khoản,structure,21903,22086,"2. Người đứng đầu Bộ, Ban, ngành, Ủy ban nhân dân cấp tỉnh quyết định gia hạn nhiệm kỳ công tác, rút lực lượng dân sự thuộc phạm vi quản lý của mình về nước trong trường hợp khẩn cấp."
+ENTITY,E39_74,KHOAN,Khoản,structure,22199,22400,"1. Bộ, Ban, ngành, Ủy ban nhân dân cấp tỉnh phối hợp với Bộ Quốc phòng chuẩn bị hồ sơ, báo cáo Thủ tướng Chính phủ xem xét, quyết định cử mới, cử luân phiên, thay thế, điều chỉnh, rút lực lượng dân sự."
+ENTITY,E39_75,KHOAN,Khoản,structure,22401,22562,"2. Căn cứ quyết định của Thủ tướng Chính phủ, người đứng đầu Bộ, Ban, ngành, Ủy ban nhân dân cấp tỉnh quyết định lực lượng cụ thể thuộc phạm vi quản lý của mình."
+ENTITY,E39_76,KHOAN,Khoản,structure,22563,22744,"3. Người đứng đầu Bộ, Ban, ngành, Ủy ban nhân dân cấp tỉnh quyết định việc gia hạn nhiệm kỳ công tác đối với lực lượng thuộc phạm vi quản lý của mình và báo cáo Thủ tướng Chính phủ."
+ENTITY,E39_77,KHOAN,Khoản,structure,22745,22820,4. Quy trình rút lực lượng trong trường hợp khẩn cấp được quy định như sau:
+ENTITY,E39_78,KHOAN,Khoản,structure,23085,23125,5. Chính phủ quy định chi tiết Điều này.
+ENTITY,E39_79,KHOAN,Khoản,structure,23201,23466,"1. Ngân sách nhà nước và các nguồn kinh phí hợp pháp khác bảo đảm cho việc tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, bồi thường thiệt hại cho Liên hợp quốc hoặc bên thứ ba do lỗi của lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc."
+ENTITY,E39_80,KHOAN,Khoản,structure,23604,23810,"2. Tiền bồi hoàn của Liên hợp quốc được nộp vào ngân sách nhà nước và quản lý, sử dụng theo quy định của pháp luật, trong đó ưu tiên cho xây dựng lực lượng tham gia hoạt động gìn giữ hòa bình Liên hợp quốc."
+ENTITY,E39_81,KHOAN,Khoản,structure,23839,24242,"1. Lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc trong thời gian làm nhiệm vụ ở nước ngoài được hưởng chế độ tiền lương, phụ cấp và các chế độ, chính sách ưu đãi khác theo quy định của pháp luật Việt Nam và quy định của Liên hợp quốc; trong thời gian huấn luyện, đào tạo, bồi dưỡng, khi hoàn thành nhiệm vụ về nước được hưởng chế độ, chính sách ưu đãi theo quy định của Chính phủ."
+ENTITY,E39_82,KHOAN,Khoản,structure,24243,24456,"2. Trong thời gian tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc, cá nhân, đơn vị có thành tích trong thực hiện nhiệm vụ được khen thưởng theo quy định của pháp luật Việt Nam và quy định của Liên hợp quốc."
+ENTITY,E39_83,KHOAN,Khoản,structure,24457,24722,"3. Cá nhân bị ốm đau, bị thương, tai nạn hoặc hy sinh, từ trần khi thực hiện nhiệm vụ tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc thì bản thân hoặc thân nhân được hưởng chế độ, chính sách theo quy định của pháp luật Việt Nam và quy định của Liên hợp quốc."
+ENTITY,E39_84,KHOAN,Khoản,structure,24723,24831,"4. Chế độ, chính sách về bảo hiểm xã hội, bảo hiểm y tế được thực hiện theo quy định của pháp luật Việt Nam."
+ENTITY,E39_85,KHOAN,Khoản,structure,24832,24872,5. Chính phủ quy định chi tiết Điều này.
+ENTITY,E39_86,KHOAN,Khoản,structure,24929,24991,1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.
+ENTITY,E39_87,KHOAN,Khoản,structure,24992,25173,2. Nghị quyết số 130/2020/QH14 ngày 13 tháng 11 năm 2020 của Quốc hội về tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
+ENTITY,E40_1,DIEM,Điểm,structure,5821,6267,"a) Tuyệt đối trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; thực hiện nhất quán đường lối, chủ trương của Đảng; chính sách, pháp luật của Nhà nước, nhất là về đối ngoại, hội nhập quốc tế với mục tiêu bảo vệ lợi ích quốc gia, dân tộc; tuân thủ Hiến pháp và pháp luật Việt Nam, phù hợp với Hiến chương Liên hợp quốc, pháp luật quốc tế, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;"
+ENTITY,E40_2,DIEM,Điểm,structure,6268,6422,"b) Thường xuyên học tập, rèn luyện nâng cao bản lĩnh chính trị, năng lực chuyên môn; chủ động, sáng tạo, khắc phục khó khăn hoàn thành nhiệm vụ được giao;"
+ENTITY,E40_3,DIEM,Điểm,structure,6423,6669,"c) Tham mưu với cấp có thẩm quyền về quy mô, lĩnh vực, hình thức và địa bàn tham gia hoạt động gìn giữ hòa bình Liên hợp quốc của Việt Nam; nâng cao năng lực tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc và các lĩnh vực khác có liên quan;"
+ENTITY,E40_4,DIEM,Điểm,structure,6670,6795,d) Thực hiện nhiệm vụ do cấp có thẩm quyền của Liên hợp quốc và Việt Nam giao theo thỏa thuận giữa Việt Nam và Liên hợp quốc;
+ENTITY,E40_5,DIEM,Điểm,structure,6796,6912,"đ) Nâng cao vị thế và uy tín của Việt Nam, phát huy giá trị lịch sử, văn hóa, hình ảnh đất nước, con người Việt Nam;"
+ENTITY,E40_6,DIEM,Điểm,structure,6913,7090,"e) Chấp hành nghiêm quy định của Liên hợp quốc; tôn trọng pháp luật, chính quyền, người dân và văn hóa, phong tục tập quán của quốc gia, khu vực nơi lực lượng Việt Nam tham gia;"
+ENTITY,E40_7,DIEM,Điểm,structure,7091,7173,"g) Tuyên truyền đường lối, quan điểm của Đảng, chính sách, pháp luật của Nhà nước;"
+ENTITY,E40_8,DIEM,Điểm,structure,7174,7276,h) Báo cáo cấp có thẩm quyền của Việt Nam quyết định việc từ chối nhiệm vụ khi có nguy cơ mất an toàn;
+ENTITY,E40_9,DIEM,Điểm,structure,7277,7420,i) Chịu trách nhiệm trước pháp luật Việt Nam và cấp có thẩm quyền về quyết định của mình khi thực hiện nhiệm vụ gìn giữ hòa bình Liên hợp quốc;
+ENTITY,E40_10,DIEM,Điểm,structure,7421,7659,"k) Sử dụng vũ khí trang bị kỹ thuật, phương tiện kỹ thuật nghiệp vụ đúng mục đích; giữ gìn, bảo quản đúng chế độ, đúng quy trình, bảo đảm an toàn, không để mất, hư hỏng; bàn giao cho người có trách nhiệm quản lý sau khi kết thúc nhiệm kỳ."
+ENTITY,E40_11,DIEM,Điểm,structure,7754,7902,"a) Sử dụng vũ khí trang bị kỹ thuật, phương tiện kỹ thuật nghiệp vụ theo quy định của pháp luật Việt Nam và của Liên hợp quốc để thực hiện nhiệm vụ;"
+ENTITY,E40_12,DIEM,Điểm,structure,7903,8028,b) Quyền hạn khác theo quy định của pháp luật Việt Nam và Liên hợp quốc trên cơ sở thỏa thuận giữa Việt Nam và Liên hợp quốc.
+ENTITY,E40_13,DIEM,Điểm,structure,8144,8286,a) Cá nhân: là con người cụ thể có chức danh đơn lẻ đáp ứng các tiêu chuẩn của Liên hợp quốc được cử đi theo quyết định của cấp có thẩm quyền;
+ENTITY,E40_14,DIEM,Điểm,structure,8287,8399,b) Đơn vị: là tổ chức đáp ứng các tiêu chuẩn của Liên hợp quốc được cử đi theo quyết định của cấp có thẩm quyền.
+ENTITY,E40_15,DIEM,Điểm,structure,8430,8461,"a) Tham mưu, hậu cần, kỹ thuật;"
+ENTITY,E40_16,DIEM,Điểm,structure,8462,8539,"b) Công binh, bộ binh, trinh sát, bảo vệ, vận tải, quân y, kiểm soát quân sự;"
+ENTITY,E40_17,DIEM,Điểm,structure,8540,8565,c) Quan sát viên quân sự;
+ENTITY,E40_18,DIEM,Điểm,structure,8566,8604,"d) Thông tin, liên lạc, truayền thông;"
+ENTITY,E40_19,DIEM,Điểm,structure,8605,8617,đ) Cảnh sát;
+ENTITY,E40_20,DIEM,Điểm,structure,8618,8649,e) Quan sát và giám sát bầu cử;
+ENTITY,E40_21,DIEM,Điểm,structure,8650,8720,"g) Hoạch định chính sách, y tế, luật pháp và các lĩnh vực dân sự khác;"
+ENTITY,E40_22,DIEM,Điểm,structure,8721,8769,h) Lĩnh vực khác theo đề nghị của Liên hợp quốc.
+ENTITY,E40_23,DIEM,Điểm,structure,9800,9921,a) Ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc;
+ENTITY,E40_24,DIEM,Điểm,structure,9922,10017,b) Xây dựng và triển khai lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc;
+ENTITY,E40_25,DIEM,Điểm,structure,10018,10117,"c) Tuyên truyền, phổ biến, giáo dục pháp luật về tham gia hoạt động gìn giữ hòa bình Liên hợp quốc;"
+ENTITY,E40_26,DIEM,Điểm,structure,10118,10227,"d) Quản lý, chỉ huy, chỉ đạo, điều hành lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc;"
+ENTITY,E40_27,DIEM,Điểm,structure,10228,10304,đ) Hợp tác quốc tế về tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc.
+ENTITY,E40_28,DIEM,Điểm,structure,11406,11804,"a) Tuân thủ pháp luật Việt Nam, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và thỏa thuận quốc tế theo thẩm quyền; tôn trọng các nguyên tắc cơ bản của pháp luật quốc tế; bảo đảm độc lập, chủ quyền, quyền chủ quyền quốc gia; bảo vệ lợi ích quốc gia, dân tộc, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân tham gia lực lượng gìn giữ hòa bình của Liên hợp quốc;"
+ENTITY,E40_29,DIEM,Điểm,structure,11805,11934,"b) Phát huy sức mạnh nội lực và sự ủng hộ, giúp đỡ của cộng đồng quốc tế trong thực hiện nhiệm vụ gìn giữ hòa bình Liên hợp quốc."
+ENTITY,E40_30,DIEM,Điểm,structure,11972,12115,"a) Đào tạo, huấn luyện, bồi dưỡng, tập huấn, trao đổi chuyên môn, diễn tập, chia sẻ kinh nghiệm trong hoạt động gìn giữ hòa bình Liên hợp quốc;"
+ENTITY,E40_31,DIEM,Điểm,structure,12116,12283,"b) Viện trợ đầu tư, xây dựng cơ sở hạ tầng, trang thiết bị, phương tiện và các nguồn lực khác cho lực lượng Việt Nam tham gia hoạt động gìn giữ hòa bình Liên hợp quốc;"
+ENTITY,E40_32,DIEM,Điểm,structure,12284,12429,"c) Nội dung hợp tác quốc tế khác theo quy định của pháp luật Việt Nam, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+ENTITY,E40_33,DIEM,Điểm,structure,12468,12496,a) Song phương và đa phương;
+ENTITY,E40_34,DIEM,Điểm,structure,12497,12598,"b) Tổ chức hội nghị, hội thảo, tập huấn, giao lưu, trao đổi chuyên môn, diễn tập trong và ngoài nước;"
+ENTITY,E40_35,DIEM,Điểm,structure,12599,12718,"c) Trao đổi đoàn, ký kết điều ước quốc tế, thỏa thuận quốc tế về hợp tác trong lĩnh vực gìn giữ hòa bình Liên hợp quốc;"
+ENTITY,E40_36,DIEM,Điểm,structure,12719,12901,d) Hình thức hợp tác quốc tế khác về gìn giữ hòa bình Liên hợp quốc theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+ENTITY,E40_37,DIEM,Điểm,structure,14110,14489,"a) Lực lượng vũ trang, gồm: sĩ quan, quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng, hạ sĩ quan, binh sĩ và đơn vị thuộc Bộ Quốc phòng; sĩ quan, hạ sĩ quan nghiệp vụ, chuyên môn kỹ thuật, công nhân công an, chiến sĩ và đơn vị thuộc Bộ Công an được trang bị vũ khí trang bị kỹ thuật, phương tiện kỹ thuật nghiệp vụ để thực hiện nhiệm vụ gìn giữ hòa bình Liên hợp quốc;"
+ENTITY,E40_38,DIEM,Điểm,structure,14490,14643,"b) Lực lượng dân sự, gồm: cán bộ, công chức, viên chức được trang bị phương tiện kỹ thuật nghiệp vụ để thực hiện nhiệm vụ gìn giữ hòa bình Liên hợp quốc."
+ENTITY,E40_39,DIEM,Điểm,structure,18916,19026,a) Rút lực lượng thuộc phạm vi quản lý của mình đang triển khai tại địa bàn về nước trong trường hợp khẩn cấp;
+ENTITY,E40_40,DIEM,Điểm,structure,19027,19171,b) Gia hạn nhiệm kỳ công tác đối với lực lượng thuộc phạm vi quản lý của mình đang triển khai thực hiện nhiệm vụ gìn giữ hòa bình Liên hợp quốc.
+ENTITY,E40_41,DIEM,Điểm,structure,19440,19610,"a) Bộ Quốc phòng chủ trì, phối hợp với Bộ Công an báo cáo Chính phủ trình Hội đồng Quốc phòng và An ninh quyết định chủ trương cử mới, điều chỉnh, rút lực lượng vũ trang;"
+ENTITY,E40_42,DIEM,Điểm,structure,19611,19858,"b) Căn cứ quyết định của Hội đồng Quốc phòng và An ninh, Bộ Quốc phòng chủ trì, phối hợp với Bộ Công an báo cáo Chính phủ trình Chủ tịch nước - Chủ tịch Hội đồng Quốc phòng và An ninh ban hành quyết định cử mới, điều chỉnh, rút lực lượng vũ trang;"
+ENTITY,E40_43,DIEM,Điểm,structure,19859,20031,"c) Căn cứ quyết định của Chủ tịch nước - Chủ tịch Hội đồng Quốc phòng và An ninh, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an theo thẩm quyền quyết định lực lượng cụ thể."
+ENTITY,E40_44,DIEM,Điểm,structure,20135,20282,"a) Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quyết định rút lực lượng thuộc phạm vi quản lý của mình và báo cáo Hội đồng Quốc phòng và An ninh;"
+ENTITY,E40_45,DIEM,Điểm,structure,20283,20569,"b) Trường hợp rút toàn bộ lực lượng Việt Nam tại một Phái bộ thì Bộ trưởng Bộ chủ quản của Chỉ huy trưởng lực lượng Việt Nam tại Phái bộ thống nhất với người đứng đầu Bộ, Ban, ngành, Ủy ban nhân dân cấp tỉnh liên quan quyết định rút lực lượng và báo cáo cấp có thẩm quyền theo quy định;"
+ENTITY,E40_46,DIEM,Điểm,structure,20570,20752,"c) Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quyết định việc gia hạn nhiệm kỳ công tác đối với lực lượng thuộc phạm vi quản lý của mình và báo cáo Hội đồng Quốc phòng và An ninh."
+ENTITY,E40_47,DIEM,Điểm,structure,22821,22967,"a) Người đứng đầu Bộ, Ban, ngành, Ủy ban nhân dân cấp tỉnh quyết định rút lực lượng thuộc phạm vi quản lý của mình và báo cáo Thủ tướng Chính phủ;"
+ENTITY,E40_48,DIEM,Điểm,structure,22968,23084,b) Trường hợp rút toàn bộ lực lượng Việt Nam tại một Phái bộ thì thực hiện theo quy định tại điểm b khoản 2 Điều 21.
+RELATION,R4_1,BI_TAC_DONG_HIEU_LUC_TOAN_BO,Bị tác động hiệu lực toàn bộ,E16_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_6,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,R22_8,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_9,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,R22_10,THUOC,Thuộc,E39_7,E38_3,,
+RELATION,R22_11,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,R22_12,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_13,THUOC,Thuộc,E39_10,E38_3,,
+RELATION,R22_14,THUOC,Thuộc,E39_11,E38_3,,
+RELATION,R22_15,THUOC,Thuộc,E39_12,E38_3,,
+RELATION,R22_16,THUOC,Thuộc,E39_13,E38_3,,
+RELATION,R22_17,THUOC,Thuộc,E39_14,E38_3,,
+RELATION,R22_18,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_19,THUOC,Thuộc,E39_15,E38_4,,
+RELATION,R22_20,THUOC,Thuộc,E39_16,E38_4,,
+RELATION,R22_21,THUOC,Thuộc,E39_17,E38_4,,
+RELATION,R22_22,THUOC,Thuộc,E39_18,E38_4,,
+RELATION,R22_23,THUOC,Thuộc,E39_19,E38_4,,
+RELATION,R22_24,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_25,THUOC,Thuộc,E39_20,E38_5,,
+RELATION,R22_26,THUOC,Thuộc,E39_21,E38_5,,
+RELATION,R22_27,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_28,THUOC,Thuộc,E39_22,E38_6,,
+RELATION,R22_29,THUOC,Thuộc,E40_1,E39_22,,
+RELATION,R22_30,THUOC,Thuộc,E40_2,E39_22,,
+RELATION,R22_31,THUOC,Thuộc,E40_3,E39_22,,
+RELATION,R22_32,THUOC,Thuộc,E40_4,E39_22,,
+RELATION,R22_33,THUOC,Thuộc,E40_5,E39_22,,
+RELATION,R22_34,THUOC,Thuộc,E40_6,E39_22,,
+RELATION,R22_35,THUOC,Thuộc,E40_7,E39_22,,
+RELATION,R22_36,THUOC,Thuộc,E40_8,E39_22,,
+RELATION,R22_37,THUOC,Thuộc,E40_9,E39_22,,
+RELATION,R22_38,THUOC,Thuộc,E40_10,E39_22,,
+RELATION,R22_39,THUOC,Thuộc,E39_23,E38_6,,
+RELATION,R22_40,THUOC,Thuộc,E40_11,E39_23,,
+RELATION,R22_41,THUOC,Thuộc,E40_12,E39_23,,
+RELATION,R22_42,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_43,THUOC,Thuộc,E39_24,E38_7,,
+RELATION,R22_44,THUOC,Thuộc,E40_13,E39_24,,
+RELATION,R22_45,THUOC,Thuộc,E40_14,E39_24,,
+RELATION,R22_46,THUOC,Thuộc,E39_25,E38_7,,
+RELATION,R22_47,THUOC,Thuộc,E40_15,E39_25,,
+RELATION,R22_48,THUOC,Thuộc,E40_16,E39_25,,
+RELATION,R22_49,THUOC,Thuộc,E40_17,E39_25,,
+RELATION,R22_50,THUOC,Thuộc,E40_18,E39_25,,
+RELATION,R22_51,THUOC,Thuộc,E40_19,E39_25,,
+RELATION,R22_52,THUOC,Thuộc,E40_20,E39_25,,
+RELATION,R22_53,THUOC,Thuộc,E40_21,E39_25,,
+RELATION,R22_54,THUOC,Thuộc,E40_22,E39_25,,
+RELATION,R22_55,THUOC,Thuộc,E39_26,E38_7,,
+RELATION,R22_56,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_57,THUOC,Thuộc,E39_27,E38_8,,
+RELATION,R22_58,THUOC,Thuộc,E39_28,E38_8,,
+RELATION,R22_59,THUOC,Thuộc,E39_29,E38_8,,
+RELATION,R22_60,THUOC,Thuộc,E39_30,E38_8,,
+RELATION,R22_61,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,R22_62,THUOC,Thuộc,E39_31,E38_9,,
+RELATION,R22_63,THUOC,Thuộc,E40_23,E39_31,,
+RELATION,R22_64,THUOC,Thuộc,E40_24,E39_31,,
+RELATION,R22_65,THUOC,Thuộc,E40_25,E39_31,,
+RELATION,R22_66,THUOC,Thuộc,E40_26,E39_31,,
+RELATION,R22_67,THUOC,Thuộc,E40_27,E39_31,,
+RELATION,R22_68,THUOC,Thuộc,E39_32,E38_9,,
+RELATION,R22_69,THUOC,Thuộc,E39_33,E38_9,,
+RELATION,R22_70,THUOC,Thuộc,E39_34,E38_9,,
+RELATION,R22_71,THUOC,Thuộc,E38_10,E35_1,,
+RELATION,R22_72,THUOC,Thuộc,E39_35,E38_10,,
+RELATION,R22_73,THUOC,Thuộc,E39_36,E38_10,,
+RELATION,R22_74,THUOC,Thuộc,E38_11,E35_1,,
+RELATION,R22_75,THUOC,Thuộc,E39_37,E38_11,,
+RELATION,R22_76,THUOC,Thuộc,E40_28,E39_37,,
+RELATION,R22_77,THUOC,Thuộc,E40_29,E39_37,,
+RELATION,R22_78,THUOC,Thuộc,E39_38,E38_11,,
+RELATION,R22_79,THUOC,Thuộc,E40_30,E39_38,,
+RELATION,R22_80,THUOC,Thuộc,E40_31,E39_38,,
+RELATION,R22_81,THUOC,Thuộc,E40_32,E39_38,,
+RELATION,R22_82,THUOC,Thuộc,E39_39,E38_11,,
+RELATION,R22_83,THUOC,Thuộc,E40_33,E39_39,,
+RELATION,R22_84,THUOC,Thuộc,E40_34,E39_39,,
+RELATION,R22_85,THUOC,Thuộc,E40_35,E39_39,,
+RELATION,R22_86,THUOC,Thuộc,E40_36,E39_39,,
+RELATION,R22_87,THUOC,Thuộc,E38_12,E35_1,,
+RELATION,R22_88,THUOC,Thuộc,E39_40,E38_12,,
+RELATION,R22_89,THUOC,Thuộc,E39_41,E38_12,,
+RELATION,R22_90,THUOC,Thuộc,E39_42,E38_12,,
+RELATION,R22_91,THUOC,Thuộc,E39_43,E38_12,,
+RELATION,R22_92,THUOC,Thuộc,E39_44,E38_12,,
+RELATION,R22_93,THUOC,Thuộc,E36_1,E35_2,,
+RELATION,R22_94,THUOC,Thuộc,E38_13,E36_1,,
+RELATION,R22_95,THUOC,Thuộc,E39_45,E38_13,,
+RELATION,R22_96,THUOC,Thuộc,E40_37,E39_45,,
+RELATION,R22_97,THUOC,Thuộc,E40_38,E39_45,,
+RELATION,R22_98,THUOC,Thuộc,E39_46,E38_13,,
+RELATION,R22_99,THUOC,Thuộc,E39_47,E38_13,,
+RELATION,R22_100,THUOC,Thuộc,E38_14,E36_1,,
+RELATION,R22_101,THUOC,Thuộc,E39_48,E38_14,,
+RELATION,R22_102,THUOC,Thuộc,E39_49,E38_14,,
+RELATION,R22_103,THUOC,Thuộc,E38_15,E36_1,,
+RELATION,R22_104,THUOC,Thuộc,E39_50,E38_15,,
+RELATION,R22_105,THUOC,Thuộc,E39_51,E38_15,,
+RELATION,R22_106,THUOC,Thuộc,E38_16,E36_1,,
+RELATION,R22_107,THUOC,Thuộc,E39_52,E38_16,,
+RELATION,R22_108,THUOC,Thuộc,E39_53,E38_16,,
+RELATION,R22_109,THUOC,Thuộc,E39_54,E38_16,,
+RELATION,R22_110,THUOC,Thuộc,E39_55,E38_16,,
+RELATION,R22_111,THUOC,Thuộc,E39_56,E38_16,,
+RELATION,R22_112,THUOC,Thuộc,E38_17,E36_1,,
+RELATION,R22_113,THUOC,Thuộc,E36_2,E35_2,,
+RELATION,R22_114,THUOC,Thuộc,E38_18,E36_2,,
+RELATION,R22_115,THUOC,Thuộc,E39_57,E38_18,,
+RELATION,R22_116,THUOC,Thuộc,E39_58,E38_18,,
+RELATION,R22_117,THUOC,Thuộc,E39_59,E38_18,,
+RELATION,R22_118,THUOC,Thuộc,E39_60,E38_18,,
+RELATION,R22_119,THUOC,Thuộc,E38_19,E36_2,,
+RELATION,R22_120,THUOC,Thuộc,E39_61,E38_19,,
+RELATION,R22_121,THUOC,Thuộc,E39_62,E38_19,,
+RELATION,R22_122,THUOC,Thuộc,E36_3,E35_3,,
+RELATION,R22_123,THUOC,Thuộc,E38_20,E36_3,,
+RELATION,R22_124,THUOC,Thuộc,E39_63,E38_20,,
+RELATION,R22_125,THUOC,Thuộc,E39_64,E38_20,,
+RELATION,R22_126,THUOC,Thuộc,E40_39,E39_64,,
+RELATION,R22_127,THUOC,Thuộc,E40_40,E39_64,,
+RELATION,R22_128,THUOC,Thuộc,E38_21,E36_3,,
+RELATION,R22_129,THUOC,Thuộc,E39_65,E38_21,,
+RELATION,R22_130,THUOC,Thuộc,E40_41,E39_65,,
+RELATION,R22_131,THUOC,Thuộc,E40_42,E39_65,,
+RELATION,R22_132,THUOC,Thuộc,E40_43,E39_65,,
+RELATION,R22_133,THUOC,Thuộc,E39_66,E38_21,,
+RELATION,R22_134,THUOC,Thuộc,E40_44,E39_66,,
+RELATION,R22_135,THUOC,Thuộc,E40_45,E39_66,,
+RELATION,R22_136,THUOC,Thuộc,E40_46,E39_66,,
+RELATION,R22_137,THUOC,Thuộc,E39_67,E38_21,,
+RELATION,R22_138,THUOC,Thuộc,E38_22,E36_3,,
+RELATION,R22_139,THUOC,Thuộc,E39_68,E38_22,,
+RELATION,R22_140,THUOC,Thuộc,E39_69,E38_22,,
+RELATION,R22_141,THUOC,Thuộc,E39_70,E38_22,,
+RELATION,R22_142,THUOC,Thuộc,E39_71,E38_22,,
+RELATION,R22_143,THUOC,Thuộc,E36_4,E35_3,,
+RELATION,R22_144,THUOC,Thuộc,E38_23,E36_4,,
+RELATION,R22_145,THUOC,Thuộc,E39_72,E38_23,,
+RELATION,R22_146,THUOC,Thuộc,E39_73,E38_23,,
+RELATION,R22_147,THUOC,Thuộc,E38_24,E36_4,,
+RELATION,R22_148,THUOC,Thuộc,E39_74,E38_24,,
+RELATION,R22_149,THUOC,Thuộc,E39_75,E38_24,,
+RELATION,R22_150,THUOC,Thuộc,E39_76,E38_24,,
+RELATION,R22_151,THUOC,Thuộc,E39_77,E38_24,,
+RELATION,R22_152,THUOC,Thuộc,E40_47,E39_77,,
+RELATION,R22_153,THUOC,Thuộc,E40_48,E39_77,,
+RELATION,R22_154,THUOC,Thuộc,E39_78,E38_24,,
+RELATION,R22_155,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,R22_156,THUOC,Thuộc,E39_79,E38_25,,
+RELATION,R22_157,THUOC,Thuộc,E39_80,E38_25,,
+RELATION,R22_158,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_159,THUOC,Thuộc,E39_81,E38_26,,
+RELATION,R22_160,THUOC,Thuộc,E39_82,E38_26,,
+RELATION,R22_161,THUOC,Thuộc,E39_83,E38_26,,
+RELATION,R22_162,THUOC,Thuộc,E39_84,E38_26,,
+RELATION,R22_163,THUOC,Thuộc,E39_85,E38_26,,
+RELATION,R22_164,THUOC,Thuộc,E38_27,E35_5,,
+RELATION,R22_165,THUOC,Thuộc,E39_86,E38_27,,
+RELATION,R22_166,THUOC,Thuộc,E39_87,E38_27,,
+RELATION,R22_167,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_168,THUOC,Thuộc,E11_1,E10_1,,

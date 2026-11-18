@@ -1,0 +1,7 @@
+{
+  "official_repository": "vinai/phobert-base",
+  "revision": "01daacda68afe13d83023d16ec647239e344a1e6",
+  "sha256": "a0b0f0912c710147fbaac015b0a4011216a0061a56c03b840b639e40d3bb49cc",
+  "fitted_old_weights_used": false,
+  "matches_pinned_official_file": true
+}

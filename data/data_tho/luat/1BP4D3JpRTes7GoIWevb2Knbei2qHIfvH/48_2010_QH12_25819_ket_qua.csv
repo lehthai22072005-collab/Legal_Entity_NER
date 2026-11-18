@@ -1,0 +1,298 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,53,Luật Thuế sử dụng đất phi nông nghiệp số 48/2010/QH12
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,41,53,48/2010/QH12
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,12023,12055,Lao động - Thương binh và Xã hội
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,11899,11923,ngày 17 tháng 6 năm 2010
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,12068,12082,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,11385,11410,ngày 01 tháng 01 năm 2012
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,12106,12118,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,343,351,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,11927,11944,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,11945,11961,Nguyễn Phú Trọng
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,214,272,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E16_1,VB_BI_TAC_DONG_HIEU_LUC_TOAN_BO,Văn bản bị tác động hiệu lực toàn bộ,reference,12159,12201,"Pháp lệnh số 69-LCT/HĐNN8 Về thuế Nhà, Đất"
+ENTITY,E16_2,VB_BI_TAC_DONG_HIEU_LUC_TOAN_BO,Văn bản bị tác động hiệu lực toàn bộ,reference,12242,12320,"Pháp lệnh số Không số Sửa đổi, bổ sung một số điều của Pháp lệnh Thuế Nhà, Đất"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,214,272,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,12370,12494,"Nghị quyết số 71/2012/NQ-HĐND Về việc sửa đổi, bổ sung nghị quyết số 22/2010/NQ-HĐND ngày 22/12/2010 của HĐND tỉnh Vĩnh Phúc"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,12544,12668,"Quyết định số 57/2012/QĐ-UBND Về việc sửa đổi, bố sung quyết định số 01/2011/QĐ-UBND ngày 07/01/2011 của UBND tỉnh Vĩnh Phúc"
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,12718,12921,"Thông tư số 45/2011/TT-BTNMT Hướng dẫn xác định diện tích đất sử dụng không đúng mục đích, diện tích đất lấn, chiếm, diện tích đất chưa sử dụng theo đúng quy định để tính thuế sử dụng đất phi nông nghiệp"
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,12971,13044,Thông tư số 153/2011/TT-BTC Hướng dẫn về thuế sử dụng đất phi nông nghiệp
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,13094,13299,Thông tư số 96/2011/TT-BTC Hướng dẫn thực hiện chính sách tài chính quy định tại Quyết định số 12/2011/QĐ-TTg ngày 24/2/2011 của Thủ tướng Chính phủ về chính sách phát triển một số ngành công nghiệp hỗ trợ
+ENTITY,E24_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,13349,13532,Nghị quyết số 12/2012/NQ-HĐND Sửa đổi một số nội dung quy định tại Phụ lục số 01 và Phụ lục số 02 ban hành kèm theo Nghị quyết số 25/2010/NQ-HĐND ngày 17/12/2010 của HĐND tỉnh Lào Cai
+ENTITY,E24_7,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,13582,13702,Nghị định số 53/2011/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế sử dụng đất phi nông nghiệp
+ENTITY,E24_8,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,13752,13971,Thông tư số 83/2016/TT-BTC Hướng dẫn thực hiện ưu đãi đầu tư theo quy định của Luật đầu tư và Nghị định số 118/2015/NĐ-CP ngày 12/11/2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật đầu tư
+ENTITY,E24_9,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,14021,14114,"Thông tư số 144/2011/TT-BTC Quy định bổ sung, sửa đổi và hướng dẫn Mục lục ngân sách nhà nước"
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14136,14217,Thông tư số 99/2012/TT-BTC Hướng dẫn xây dựng dự toán ngân sách nhà nước năm 2013
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14239,14332,Thông tư số 177/2011/TT-BTC Quy định về tổ chức thực hiện dự toán ngân sách nhà nước năm 2012
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14354,14435,Thông tư số 83/2011/TT-BTC Hướng dẫn xây dựng dự toán ngân sách nhà nước năm 2012
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14457,14616,"Chỉ thị số 01/2012/CT-UBND Về một số giải pháp chủ yếu chỉ đạo, điều hành thực hiện kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2012"
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14638,14767,"Thông tư số 76/2012/TT-BTC Quy định một số nội dung chi, mức chi trong hoạt động triển khai Luật thuế sử dụng đất phi nông nghiệp"
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14789,14929,Quyết định số 10/2012/QĐ-UBND Về việc quy định hạn mức đất ở làm căn cứ tính thuế sử dụng đất phi nông nghiệp trên địa bàn tỉnh Thái Nguyên.
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,14951,15117,Chỉ thị 24/2011/CT-UBND về xây dựng kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách năm 2012 của thành phố do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,15139,15255,"Quyết định số 4189/QĐ-UBND Về việc bổ sung, sửa đổi một số cơ chế và biện pháp điều hành ngân sách nhà nước năm 2012"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,15275,15480,Thông tư số 96/2011/TT-BTC Hướng dẫn thực hiện chính sách tài chính quy định tại Quyết định số 12/2011/QĐ-TTg ngày 24/2/2011 của Thủ tướng Chính phủ về chính sách phát triển một số ngành công nghiệp hỗ trợ
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,15500,15698,"Thông tư số 32/2018/TT-BTC Hướng dẫn thực hiện một số điều của Nghị định số 74/2017/NĐ-CP ngày 20 tháng 6 năm 2017 của Chính phủ quy định cơ chế, chính sách đặc thù đối với Khu Công nghệ cao Hòa Lạc"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,15718,15811,"Thông tư số 144/2011/TT-BTC Quy định bổ sung, sửa đổi và hướng dẫn Mục lục ngân sách nhà nước"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,15831,16034,"Thông tư số 45/2011/TT-BTNMT Hướng dẫn xác định diện tích đất sử dụng không đúng mục đích, diện tích đất lấn, chiếm, diện tích đất chưa sử dụng theo đúng quy định để tính thuế sử dụng đất phi nông nghiệp"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,16054,16152,"Nghị định số 04/2018/NĐ-CP Quy định về cơ chế, chính sách ưu đãi đối với khu công nghệ cao Đà Nẵng"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,16172,16385,"Quyết định số 53/2012/QĐ-UBND Về việc điều chỉnh, bổ sung quy định về tỷ lệ phần trăm phân chia các khoản thu giữa các cấp ngân sách tỉnh Thái Nguyên năm 2011 - 2015; bổ sung quyết toán ngân sách nhà nước năm 2011"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,16405,16529,"Nghị quyết số 71/2012/NQ-HĐND Về việc sửa đổi, bổ sung nghị quyết số 22/2010/NQ-HĐND ngày 22/12/2010 của HĐND tỉnh Vĩnh Phúc"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,16549,16695,Quyết định số 63/2012/QĐ-UBND Về phân cấp quản lý thu và tỷ lệ phân chia các khoản thu thuế sử dụng đất phi nông nghiệp và thuế bảo vệ môi trường.
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,16715,16952,"Nghị quyết số 22/2011/NQ-HĐND Sửa đổi tên gọi một số khoản thu tại biểu phân chia tỷ lệ phần trăm (%) điều tiết nguồn thu giữa các cấp ngân sách, ban hành kèm theo Nghị quyết số 159/2010/NQ-HĐND ngày 02/11/2010 của Hội đồng nhân dân tỉnh"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,16972,17132,"Nghị quyết số 66/2014/NQ-HĐND Về phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm (%) phân chia các khoản thu giữa các cấp ngân sách tỉnh thời kỳ 2011 - 2015"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,17152,17335,Nghị quyết số 12/2012/NQ-HĐND Sửa đổi một số nội dung quy định tại Phụ lục số 01 và Phụ lục số 02 ban hành kèm theo Nghị quyết số 25/2010/NQ-HĐND ngày 17/12/2010 của HĐND tỉnh Lào Cai
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,17355,17495,Quyết định số 10/2012/QĐ-UBND Về việc quy định hạn mức đất ở làm căn cứ tính thuế sử dụng đất phi nông nghiệp trên địa bàn tỉnh Thái Nguyên.
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,17515,17694,Quyết định số 2265/2012/QĐ-UBND Về việc quy định tỷ lệ phần trăm (%) phân chia khoản thu từ thuế sử dụng đất phi nông nghiệp và thuế bảo vệ môi trường trên đại bàn tỉnh Thanh Hóa.
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,17714,17818,Quyết định số 53/2016/QĐ-UBND Ban hành Quy định về chính sách ưu dãi đầu tư trên địa bàn tỉnh Tiền Giang
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,17838,17921,Quyết định số 70/QĐ-UBND Quy định về hạn mức đất trên địa bàn Thành phố Hồ Chí Minh
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,17941,18053,Quyết định số 72/2003/QĐ-UB Về việc quy định giá lúa tính thuế sử dụng đất nông nghiệp và thuế nhà đất năm 2003.
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,18073,18146,Thông tư số 153/2011/TT-BTC Hướng dẫn về thuế sử dụng đất phi nông nghiệp
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,18166,18392,"Quyết định số 17/2014/QĐ-UBND Ban hành Quy định một số cơ chế chính sách khuyến khích xã hội hóa đối với các hoạt động trong lĩnh vực giáo dục, dạy nghề, y tế, văn hóa, thể dục thể thao trên địa bàn tỉnh Thái Bình đến năm 2020"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,18412,18536,"Quyết định số 57/2012/QĐ-UBND Về việc sửa đổi, bố sung quyết định số 01/2011/QĐ-UBND ngày 07/01/2011 của UBND tỉnh Vĩnh Phúc"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,18556,18810,Nghị quyết số 28/2011/NQ-HĐND Về việc sửa đổi phụ lục quy định tỷ lệ phần trăm phân chia các khoản thu giữa các cấp ngân sách trên địa bàn tỉnh hà giang ban hành kèm theo nghị quyết số: 29/2010/NQ-HĐND ngày 11 tháng 12 năm 2010 của Hội Đồng Nhân Dân tỉnh
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,18830,19236,"Nghị quyết số 07/2012/NQ-HĐND về việc sửa đổi, bổ sung Nghị quyết số 08/2010/NQ-HĐND ngày 21/7/2010 của HĐND tỉnh khóa XVI về việc phân cấp nguồn thu, nhiệm vu chi và tỷ lện phần trăm (%) phân chia các khoản thu giữa ngân sách tỉnh, ngân sách huyện, thành phố và ngân sách xã, phường, thị trấn trên địa bàn tỉnh Tuyên Quang năm 2011 và áp dụng cho thời kỳ ổn định ngân sách địa phương giai đoạn 2011 - 2015"
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,19256,19571,"Nghị quyết số 20/2011/NQ-HĐND Sửa đổi, bổ sung một số nội dung qui định tại phụ lục kèm theo Nghị quyết số 32/2010/NQ-HĐND ngày 09/12/2010 của Hội đồng nhân dân tỉnh về phân cấp nguồn thu, tỷ lệ phần trăm từng nguồn thu, nhiệm vụ chi ngân sách cho các cấp ngân sách của địa phương"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,19591,19757,Quyết định số 34/2015/QĐ-UBND Về việc điều chỉnh thẩm quyền xác định đơn giá cho thuê đất theo quy định tại Quyết định số 07/2014/QĐ-UBND ngày 06/3/2014 của UBND tỉnh
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,19777,19882,Nghị quyết số 24/2012/NQ-HĐND Về việc thông qua Bảng giá các loại đất năm 2013 trên địa bàn tỉnh Bạc Liêu
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,19902,20098,"Quyết định số 80/2024/QĐ-UBND Ban hành Bảng giá tính thuế tài nguyên đối với sản phẩm rừng tự nhiên và Bảng giá tính thuế các loại lâm sản rừng trồng, vườn trồng trên địa bàn tỉnh Kon Tum năm 2025"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,20118,20238,Nghị định số 53/2011/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế sử dụng đất phi nông nghiệp
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,20258,20476,"Nghị quyết số 27/2013/NQ-HĐND Về việc sửa đổi một số khoản thu, sửa đổi, bổ sung đối tượng và tỷ lệ phân chia các khoản thu theo quy định tại Nghị quyết số 17/2010/NQ-HĐND ngày 10/12/2010, Nghị quyết số 23/2011/NQ-HĐND"
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,20496,20715,Thông tư số 83/2016/TT-BTC Hướng dẫn thực hiện ưu đãi đầu tư theo quy định của Luật đầu tư và Nghị định số 118/2015/NĐ-CP ngày 12/11/2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật đầu tư
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,20735,20903,"Quyết định số 07/2014/QĐ-UBND Ban hành bảng giá cho thuê nhà thuộc sở hữu nhà nước để sử dụng vào mục đích kinh doanh, trụ sở làm việc trên địa bàn thành phố Quảng Ngãi"
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,20923,21159,"Quyết định số 14/2015/QĐ-UBND Sửa đổi, bổ sung một số nội dung tại Quyết định số 16/2014/QĐ-UBND ngày 03/7/2014 của UBND tỉnh về ban hành giá cho thuê nhà thuộc sở hữu nhà nước chưa được cải tạo, xây dựng lại trên địa bàn tỉnh Quảng Nam"
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,21179,21352,Quyết định số 46/2018/QĐ-UBND Về việc Quy định giá lúa thu thuế sử dụng đất nông nghiệp năm 2019 và nợ thuế sử dụng đất nông nghiệp những năm trước trên địa bàn tỉnh Bến Tre
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,21372,21478,Quyết định số 02/2019/QĐ-UBND Về việc điều chỉnh Bảng giá các loại đất năm 2015 trên địa bàn tỉnh Bạc Liêu
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,21498,21798,"Quyết định số 17/2012/QĐ-UBND Về bãi bỏ, bổ sung một số nội dung được ban hành kèm theo Quyết định số 50/2010/QĐ-UBND ngày 28-12-2010 của Ủy ban nhân dân tỉnh quy định về nguyên tắc, tiêu chí, định mức phân bổ chi đầu tư phát triển, chi thường xuyên và phân cấp ngân sách Nhà nước giai đoạn 2011-2015"
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,21818,22130,"Quyết định số 03/2013/QĐ-UBND Về việc sửa đổi, bổ sung một số điều của quyết định số 04/2011/QĐ-UBND ngày 21/02/2011 của ủy ban nhân dân tỉnh Hậu Giang ban hành quy định về phân cấp nguồn thu, nhiệm vụ chi và tỷ lệ phần trăm (%) phân chia các khoản thu giữa ngân sách các cấp tỉnh Hậu Giang giai đoạn 2011 – 2015"
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,22150,22274,Quyết định số 06/2018/QĐ-UBND Về việc quy định giá thóc tính thuế sử dụng đất nông nghiệp năm 2018 trên địa bàn tỉnh Nghệ An
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,22294,22431,"Quyết định số 16/2014/QĐ-UBND Ban hành giá cho thuê nhà thuộc sở hữu nhà nước chưa được cải tạo, xây dựng lại trên địa bàn tỉnh Quảng Nam"
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,22451,22588,"Quyết định số 15/2012/QĐ-UBND Về việc sửa đổi, bổ sung một số khoản thu và tỉ lệ phần trăm (%) phân chia nguồn thu giữa các cấp ngân sách"
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,22608,22836,"Quyết định số 41/2017/QĐ-UBND Sửa đổi, bổ sung một số điều của Quy định về chính sách ưu đãi đầu tư trên địa bàn tỉnh Tiền Giang ban hành kèm theo Quyết định số 53/2016/QĐ-UBND ngày 10/12/2016 của Ủy ban nhân dân tỉnh Tiền Giang"
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,22856,22993,"Nghị quyết số 07/2012/NQ-HĐND Về việc sửa đổi, bổ sung một số khoản thu và tỉ lệ phần trăm (%) phân chia nguồn thu giữa các cấp ngân sách"
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,23013,23118,Nghị quyết số 22/2013/NQ-HĐND Về việc thông qua Bảng giá các loại đất năm 2014 trên địa bàn tỉnh Bạc Liêu
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,23138,23286,Nghị quyết số 31/2012/NQ-HĐND Về việc Quy định tỷ lệ phần trăm (%) phân chia khoản thu từ Thuế sử dụng đất phi nông nghiệp và Thuế bảo vệ môi trường
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,23306,23396,Quyết định số 18/2016/QĐ-UBND Quy định về hạn mức đất ở trên địa bàn Thành phố Hồ Chí Minh
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,23416,23691,"Nghị quyết số 02/2012/NQ-HĐND Về bãi bỏ, bổ sung một số nội dung được ban hành kèm theo Nghị quyết số 19/2010/NQ-HĐND ngày 16/12/2010 quy định về nguyên tắc, tiêu chí, định mức phân bổ chi đầu tư phát triển, chi thường xuyên và phân cấp ngân sách Nhà nước giai đoạn 2011-2015"
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,23711,23857,Nghị quyết số 23/2012/NQ-HĐND Về phân cấp quản lý thu và tỷ lệ phân chia các khoản thu thuế sử dụng đất phi nông nghiệp và thuế bảo vệ môi trường.
+ENTITY,E30_45,VB_AP_DUNG,Văn bản áp dụng,reference,23877,24050,Quyết định số 48/2019/QĐ-UBND Về việc quy định giá lúa thu thuế sử dụng đất nông nghiệp năm 2020 và nợ thuế sử dụng đất nông nghiệp những năm trước trên địa bàn tỉnh Bến Tre
+ENTITY,E30_46,VB_AP_DUNG,Văn bản áp dụng,reference,24070,24258,"Nghị quyết số 72/2013/NQ-HĐND Về việc điều chỉnh, bổ sung tỷ lệ % phân chia một số khoản thu tại Nghị quyết số 136/2010/NQ-HĐND ngày 24 tháng 12 năm 2010 của Hội đồng nhân dân tỉnh khoá XV"
+ENTITY,E30_47,VB_AP_DUNG,Văn bản áp dụng,reference,24278,24393,Quyết định số 34/2025/QĐ-UBND Quy định giá thóc thu thuế sử dụng đất nông nghiệp năm 2025 trên địa bàn tỉnh Kon Tum
+ENTITY,E35_1,CHUONG,Chương,structure,400,408,Chương 1
+ENTITY,E35_2,CHUONG,Chương,structure,3213,3222,Chương II
+ENTITY,E35_3,CHUONG,Chương,structure,8225,8235,Chương III
+ENTITY,E35_4,CHUONG,Chương,structure,11292,11301,Chương IV
+ENTITY,E38_1,DIEU,Điều,structure,431,437,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,639,645,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1015,1021,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1779,1785,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,3273,3279,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,3346,3352,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,4901,4907,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,6646,6652,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,8257,8263,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,9939,9946,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,10612,10619,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,11322,11329,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,11626,11633,Điều 13
+ENTITY,E39_1,KHOAN,Khoản,structure,667,708,"1. Đất ở tại nông thôn, đất ở tại đô thị."
+ENTITY,E39_2,KHOAN,Khoản,structure,709,925,"2. Đất sản xuất, kinh doanh phi nông nghiệp bao gồm: đất xây dựng khu công nghiệp; đất làm mặt bằng xây dựng cơ sở sản xuất, kinh doanh; đất khai thác, chế biến khoáng sản; đất sản xuất vật liệu xây dựng, làm đồ gốm."
+ENTITY,E39_3,KHOAN,Khoản,structure,926,1014,3. Đất phi nông nghiệp quy định tại Điều 3 của Luật này sử dụng vào mục đích kinh doanh.
+ENTITY,E39_4,KHOAN,Khoản,structure,1116,1415,"1. Đất sử dụng vào mục đích công cộng bao gồm: đất giao thông, thủy lợi; đất xây dựng công trình văn hóa, y tế, giáo dục và đào tạo, thể dục thể thao phục vụ lợi ích công cộng; đất có di tích lịch sử - văn hóa, danh lam thắng cảnh; đất xây dựng công trình công cộng khác theo quy định của Chính phủ;"
+ENTITY,E39_5,KHOAN,Khoản,structure,1416,1449,2. Đất do cơ sở tôn giáo sử dụng;
+ENTITY,E39_6,KHOAN,Khoản,structure,1450,1484,"3. Đất làm nghĩa trang, nghĩa địa;"
+ENTITY,E39_7,KHOAN,Khoản,structure,1485,1545,"4. Đất sông, ngòi, kênh, rạch, suối và mặt nước chuyên dùng;"
+ENTITY,E39_8,KHOAN,Khoản,structure,1546,1612,"5. Đất có công trình là đình, đền, miếu, am, từ đường, nhà thờ họ;"
+ENTITY,E39_9,KHOAN,Khoản,structure,1613,1721,"6. Đất xây dựng trụ sở cơ quan, xây dựng công trình sự nghiệp, đất sử dụng vào mục đích quốc phòng, an ninh;"
+ENTITY,E39_10,KHOAN,Khoản,structure,1722,1778,7. Đất phi nông nghiệp khác theo quy định của pháp luật.
+ENTITY,E39_11,KHOAN,Khoản,structure,1802,1933,"1. Người nộp thuế là tổ chức, hộ gia đình, cá nhân có quyền sử dụng đất thuộc đối tượng chịu thuế quy định tại Điều 2 của Luật này."
+ENTITY,E39_12,KHOAN,Khoản,structure,1934,2163,"2. Trường hợp tổ chức, hộ gia đình, cá nhân chưa được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất (sau đây gọi chung là Giấy chứng nhận) thì người đang sử dụng đất là người nộp thuế."
+ENTITY,E39_13,KHOAN,Khoản,structure,2164,2235,3. Người nộp thuế trong một số trường hợp cụ thể được quy định như sau:
+ENTITY,E39_14,KHOAN,Khoản,structure,3368,3465,1. Giá tính thuế đối với đất được xác định bằng diện tích đất tính thuế nhân với giá của 1m2 đất.
+ENTITY,E39_15,KHOAN,Khoản,structure,3466,3515,2. Diện tích đất tính thuế được quy định như sau:
+ENTITY,E39_16,KHOAN,Khoản,structure,4706,4900,"3. Giá của 1m2 đất là giá đất theo mục đích sử dụng do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương quy định và được ổn định theo chu kỳ 5 năm, kể từ ngày Luật này có hiệu lực thi hành."
+ENTITY,E39_17,KHOAN,Khoản,structure,4919,5054,1. Thuế suất đối với đất ở bao gồm cả trường hợp sử dụng để kinh doanh áp dụng theo biểu thuế lũy tiến từng phần được quy định như sau:
+ENTITY,E39_18,KHOAN,Khoản,structure,5235,5413,"2. Hạn mức đất ở làm căn cứ tính thuế là hạn mức giao đất ở mới theo quy định của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, kể từ ngày Luật này có hiệu lực thi hành."
+ENTITY,E39_19,KHOAN,Khoản,structure,5864,5975,"3. Đất ở nhà nhiều tầng nhiều hộ ở, nhà chung cư, công trình xây dựng dưới mặt đất áp dụng mức thuế suất 0,03%."
+ENTITY,E39_20,KHOAN,Khoản,structure,5976,6048,"4. Đất sản xuất, kinh doanh phi nông nghiệp áp dụng mức thuế suất 0,03%."
+ENTITY,E39_21,KHOAN,Khoản,structure,6049,6165,"5. Đất phi nông nghiệp quy định tại Điều 3 của Luật này sử dụng vào mục đích kinh doanh áp dụng mức thuế suất 0,03%."
+ENTITY,E39_22,KHOAN,Khoản,structure,6166,6446,"6. Đất sử dụng không đúng mục đích, đất chưa sử dụng theo đúng quy định áp dụng mức thuế suất 0,15%. Trường hợp đất của dự án đầu tư phân kỳ theo đăng ký của nhà đầu tư được cơ quan nhà nước có thẩm quyền phê duyệt thì không coi là đất chưa sử dụng và áp dụng mức thuế suất 0,03%."
+ENTITY,E39_23,KHOAN,Khoản,structure,6447,6645,"7. Đất lấn, chiếm áp dụng mức thuế suất 0,2% và không áp dụng hạn mức. Việc nộp thuế không phải là căn cứ để công nhận quyền sử dụng đất hợp pháp của người nộp thuế đối với diện tích đất lấn, chiếm."
+ENTITY,E39_24,KHOAN,Khoản,structure,6686,6780,"1. Người nộp thuế đăng ký, khai, tính và nộp thuế theo quy định của pháp luật về quản lý thuế."
+ENTITY,E39_25,KHOAN,Khoản,structure,6781,6915,"2. Người nộp thuế đăng ký, khai, tính và nộp thuế tại cơ quan thuế huyện, quận, thị xã, thành phố thuộc tỉnh nơi có quyền sử dụng đất."
+ENTITY,E39_26,KHOAN,Khoản,structure,7142,7384,"3. Trường hợp người nộp thuế có quyền sử dụng nhiều thửa đất ở thì diện tích tính thuế là tổng diện tích các thửa đất ở tính thuế trong phạm vi tỉnh, thành phố trực thuộc trung ương. Việc đăng ký, khai, tính và nộp thuế được quy định như sau:"
+ENTITY,E39_27,KHOAN,Khoản,structure,8275,8594,"1. Đất của dự án đầu tư thuộc lĩnh vực đặc biệt khuyến khích đầu tư; dự án đầu tư tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn; dự án đầu tư thuộc lĩnh vực khuyến khích đầu tư tại địa bàn có điều kiện kinh tế - xã hội khó khăn; đất của doanh nghiệp sử dụng trên 50% số lao động là thương binh, bệnh binh."
+ENTITY,E39_28,KHOAN,Khoản,structure,8595,8726,"2. Đất của cơ sở thực hiện xã hội hóa đối với các hoạt động trong lĩnh vực giáo dục, dạy nghề, y tế, văn hóa, thể thao, môi trường."
+ENTITY,E39_29,KHOAN,Khoản,structure,8727,8865,"3. Đất xây dựng nhà tình nghĩa, nhà đại đoàn kết, cơ sở nuôi dưỡng người già cô đơn, người khuyết tật, trẻ mồ côi; cơ sở chữa bệnh xã hội."
+ENTITY,E39_30,KHOAN,Khoản,structure,8866,8949,4. Đất ở trong hạn mức tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn.
+ENTITY,E39_31,KHOAN,Khoản,structure,8950,9431,"5. Đất ở trong hạn mức của người hoạt động cách mạng trước ngày 19/8/1945; thương binh hạng 1/4, 2/4; người hưởng chính sách như thương binh hạng 1/4, 2/4; bệnh binh hạng 1/3; anh hùng lực lượng vũ trang nhân dân; mẹ Việt Nam anh hùng; cha đẻ, mẹ đẻ, người có công nuôi dưỡng liệt sĩ khi còn nhỏ; vợ, chồng của liệt sĩ; con của liệt sĩ được hưởng trợ cấp hàng tháng; người hoạt động cách mạng bị nhiễm chất độc da cam; người bị nhiễm chất độc da cam mà hoàn cảnh gia đình khó khăn."
+ENTITY,E39_32,KHOAN,Khoản,structure,9432,9496,6. Đất ở trong hạn mức của hộ nghèo theo quy định của Chính phủ.
+ENTITY,E39_33,KHOAN,Khoản,structure,9497,9719,"7. Hộ gia đình, cá nhân trong năm bị thu hồi đất ở theo quy hoạch, kế hoạch được cơ quan nhà nước có thẩm quyền phê duyệt thì được miễn thuế trong năm thực tế có thu hồi đối với đất tại nơi bị thu hồi và đất tại nơi ở mới."
+ENTITY,E39_34,KHOAN,Khoản,structure,9720,9813,8. Đất có nhà vườn được cơ quan nhà nước có thẩm quyền xác nhận là di tích lịch sử - văn hóa.
+ENTITY,E39_35,KHOAN,Khoản,structure,9814,9938,9. Người nộp thuế gặp khó khăn do sự kiện bất khả kháng nếu giá trị thiệt hại về đất và nhà trên đất trên 50% giá tính thuế.
+ENTITY,E39_36,KHOAN,Khoản,structure,10012,10219,"1. Đất của dự án đầu tư thuộc lĩnh vực khuyến khích đầu tư; dự án đầu tư tại địa bàn có điều kiện kinh tế - xã hội khó khăn; đất của doanh nghiệp sử dụng từ 20% đến 50% số lao động là thương binh, bệnh binh;"
+ENTITY,E39_37,KHOAN,Khoản,structure,10220,10294,2. Đất ở trong hạn mức tại địa bàn có điều kiện kinh tế - xã hội khó khăn;
+ENTITY,E39_38,KHOAN,Khoản,structure,10295,10480,"3. Đất ở trong hạn mức của thương binh hạng 3/4, 4/4; người hưởng chính sách như thương binh hạng 3/4, 4/4; bệnh binh hạng 2/3, 3/3; con của liệt sĩ không được hưởng trợ cấp hàng tháng;"
+ENTITY,E39_39,KHOAN,Khoản,structure,10481,10611,4. Người nộp thuế gặp khó khăn do sự kiện bất khả kháng nếu giá trị thiệt hại về đất và nhà trên đất từ 20% đến 50% giá tính thuế.
+ENTITY,E39_40,KHOAN,Khoản,structure,10653,10866,1. Người nộp thuế được hưởng cả miễn thuế và giảm thuế đối với cùng một thửa đất thì được miễn thuế; người nộp thuế thuộc hai trường hợp được giảm thuế trở lên quy định tại Điều 10 của Luật này thì được miễn thuế.
+ENTITY,E39_41,KHOAN,Khoản,structure,10867,11040,"2. Người nộp thuế đất ở chỉ được miễn thuế hoặc giảm thuế tại một nơi do người nộp thuế lựa chọn, trừ trường hợp quy định tại khoản 9 Điều 9 và khoản 4 Điều 10 của Luật này."
+ENTITY,E39_42,KHOAN,Khoản,structure,11041,11155,"3. Người nộp thuế có nhiều dự án đầu tư được miễn thuế, giảm thuế thì thực hiện miễn, giảm theo từng dự án đầu tư."
+ENTITY,E39_43,KHOAN,Khoản,structure,11156,11291,"4. Miễn thuế, giảm thuế chỉ áp dụng trực tiếp đối với người nộp thuế và chỉ tính trên số tiền thuế phải nộp theo quy định của Luật này."
+ENTITY,E39_44,KHOAN,Khoản,structure,11349,11411,1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2012.
+ENTITY,E39_45,KHOAN,Khoản,structure,11412,11508,2. Các văn bản quy phạm pháp luật sau đây hết hiệu lực thi hành kể từ ngày Luật này có hiệu lực:
+ENTITY,E40_1,DIEM,Điểm,structure,2236,2342,a) Trường hợp được Nhà nước cho thuê đất để thực hiện dự án đầu tư thì người thuê đất ở là người nộp thuế;
+ENTITY,E40_2,DIEM,Điểm,structure,2343,2589,b) Trường hợp người có quyền sử dụng đất cho thuê đất theo hợp đồng thì người nộp thuế được xác định theo thỏa thuận trong hợp đồng. Trường hợp trong hợp đồng không có thỏa thuận về người nộp thuế thì người có quyền sử dụng đất là người nộp thuế;
+ENTITY,E40_3,DIEM,Điểm,structure,2590,2826,"c) Trường hợp đất đã được cấp Giấy chứng nhận nhưng đang có tranh chấp thì trước khi tranh chấp được giải quyết, người đang sử dụng đất là người nộp thuế. Việc nộp thuế không phải là căn cứ để giải quyết tranh chấp về quyền sử dụng đất;"
+ENTITY,E40_4,DIEM,Điểm,structure,2827,2984,d) Trường hợp nhiều người cùng có quyền sử dụng một thửa đất thì người nộp thuế là người đại diện hợp pháp của những người cùng có quyền sử dụng thửa đất đó;
+ENTITY,E40_5,DIEM,Điểm,structure,2985,3212,đ) Trường hợp người có quyền sử dụng đất góp vốn kinh doanh bằng quyền sử dụng đất mà hình thành pháp nhân mới có quyền sử dụng đất thuộc đối tượng chịu thuế quy định tại Điều 2 của Luật này thì pháp nhân mới là người nộp thuế.
+ENTITY,E40_6,DIEM,Điểm,structure,3516,3576,a) Diện tích đất tính thuế là diện tích đất thực tế sử dụng.
+ENTITY,E40_7,DIEM,Điểm,structure,3864,4102,"b) Đối với đất ở nhà nhiều tầng nhiều hộ ở, nhà chung cư bao gồm cả trường hợp vừa để ở, vừa để kinh doanh thì diện tích đất tính thuế được xác định bằng hệ số phân bổ nhân với diện tích nhà của từng tổ chức, hộ gia đình, cá nhân sử dụng."
+ENTITY,E40_8,DIEM,Điểm,structure,4522,4705,"c) Đối với công trình xây dựng dưới mặt đất thì áp dụng hệ số phân bổ bằng 0,5 diện tích đất xây dựng chia cho tổng diện tích công trình của các tổ chức, hộ gia đình, cá nhân sử dụng."
+ENTITY,E40_9,DIEM,Điểm,structure,5521,5695,a) Trường hợp hạn mức đất ở theo quy định trước ngày Luật này có hiệu lực thi hành thấp hơn hạn mức giao đất ở mới thì áp dụng hạn mức giao đất ở mới để làm căn cứ tính thuế;
+ENTITY,E40_10,DIEM,Điểm,structure,5696,5863,b) Trường hợp hạn mức đất ở theo quy định trước ngày Luật này có hiệu lực thi hành cao hơn hạn mức giao đất ở mới thì áp dụng hạn mức đất ở cũ để làm căn cứ tính thuế.
+ENTITY,E40_11,DIEM,Điểm,structure,7385,7519,"a) Người nộp thuế đăng ký, khai, tính và nộp thuế tại cơ quan thuế huyện, quận, thị xã, thành phố thuộc tỉnh nơi có quyền sử dụng đất;"
+ENTITY,E40_12,DIEM,Điểm,structure,7520,7815,"b) Người nộp thuế được lựa chọn hạn mức đất ở tại một huyện, quận, thị xã, thành phố thuộc tỉnh nơi có quyền sử dụng đất. Trường hợp có một hoặc nhiều thửa đất ở vượt hạn mức thì người nộp thuế được lựa chọn một nơi có thửa đất ở vượt hạn mức để xác định diện tích vượt hạn mức của các thửa đất."
+ENTITY,E40_13,DIEM,Điểm,structure,11509,11545,"a) Pháp lệnh thuế nhà, đất năm 1992;"
+ENTITY,E40_14,DIEM,Điểm,structure,11546,11625,"b) Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh thuế nhà, đất năm 1994."
+RELATION,R4_1,BI_TAC_DONG_HIEU_LUC_TOAN_BO,Bị tác động hiệu lực toàn bộ,E16_1,E2_1,,
+RELATION,R4_2,BI_TAC_DONG_HIEU_LUC_TOAN_BO,Bị tác động hiệu lực toàn bộ,E16_2,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_3,E2_1,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_4,E2_1,,
+RELATION,R12_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_5,E2_1,,
+RELATION,R12_7,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_6,E2_1,,
+RELATION,R12_8,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_7,E2_1,,
+RELATION,R12_9,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_8,E2_1,,
+RELATION,R12_10,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_9,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E29_3,E2_1,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E29_4,E2_1,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E29_5,E2_1,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E29_6,E2_1,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E29_7,E2_1,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E29_8,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E30_19,E2_1,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E30_20,E2_1,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E30_21,E2_1,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E30_22,E2_1,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E30_23,E2_1,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E30_24,E2_1,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E30_25,E2_1,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E30_26,E2_1,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E30_27,E2_1,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E30_28,E2_1,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E30_29,E2_1,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E30_30,E2_1,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E30_31,E2_1,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E30_32,E2_1,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E30_33,E2_1,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E30_34,E2_1,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E30_35,E2_1,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E30_36,E2_1,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E30_37,E2_1,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E30_38,E2_1,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E30_39,E2_1,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E30_40,E2_1,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E30_41,E2_1,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E30_42,E2_1,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E30_43,E2_1,,
+RELATION,R18_44,AP_DUNG,Áp dụng,E30_44,E2_1,,
+RELATION,R18_45,AP_DUNG,Áp dụng,E30_45,E2_1,,
+RELATION,R18_46,AP_DUNG,Áp dụng,E30_46,E2_1,,
+RELATION,R18_47,AP_DUNG,Áp dụng,E30_47,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_6,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,R22_8,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,R22_9,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,R22_10,THUOC,Thuộc,E39_7,E38_3,,
+RELATION,R22_11,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,R22_12,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_13,THUOC,Thuộc,E39_10,E38_3,,
+RELATION,R22_14,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_15,THUOC,Thuộc,E39_11,E38_4,,
+RELATION,R22_16,THUOC,Thuộc,E39_12,E38_4,,
+RELATION,R22_17,THUOC,Thuộc,E39_13,E38_4,,
+RELATION,R22_18,THUOC,Thuộc,E40_1,E39_13,,
+RELATION,R22_19,THUOC,Thuộc,E40_2,E39_13,,
+RELATION,R22_20,THUOC,Thuộc,E40_3,E39_13,,
+RELATION,R22_21,THUOC,Thuộc,E40_4,E39_13,,
+RELATION,R22_22,THUOC,Thuộc,E40_5,E39_13,,
+RELATION,R22_23,THUOC,Thuộc,E38_5,E35_2,,
+RELATION,R22_24,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_25,THUOC,Thuộc,E39_14,E38_6,,
+RELATION,R22_26,THUOC,Thuộc,E39_15,E38_6,,
+RELATION,R22_27,THUOC,Thuộc,E40_6,E39_15,,
+RELATION,R22_28,THUOC,Thuộc,E40_7,E39_15,,
+RELATION,R22_29,THUOC,Thuộc,E40_8,E39_15,,
+RELATION,R22_30,THUOC,Thuộc,E39_16,E38_6,,
+RELATION,R22_31,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_32,THUOC,Thuộc,E39_17,E38_7,,
+RELATION,R22_33,THUOC,Thuộc,E39_18,E38_7,,
+RELATION,R22_34,THUOC,Thuộc,E40_9,E39_18,,
+RELATION,R22_35,THUOC,Thuộc,E40_10,E39_18,,
+RELATION,R22_36,THUOC,Thuộc,E39_19,E38_7,,
+RELATION,R22_37,THUOC,Thuộc,E39_20,E38_7,,
+RELATION,R22_38,THUOC,Thuộc,E39_21,E38_7,,
+RELATION,R22_39,THUOC,Thuộc,E39_22,E38_7,,
+RELATION,R22_40,THUOC,Thuộc,E39_23,E38_7,,
+RELATION,R22_41,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_42,THUOC,Thuộc,E39_24,E38_8,,
+RELATION,R22_43,THUOC,Thuộc,E39_25,E38_8,,
+RELATION,R22_44,THUOC,Thuộc,E39_26,E38_8,,
+RELATION,R22_45,THUOC,Thuộc,E40_11,E39_26,,
+RELATION,R22_46,THUOC,Thuộc,E40_12,E39_26,,
+RELATION,R22_47,THUOC,Thuộc,E38_9,E35_3,,
+RELATION,R22_48,THUOC,Thuộc,E39_27,E38_9,,
+RELATION,R22_49,THUOC,Thuộc,E39_28,E38_9,,
+RELATION,R22_50,THUOC,Thuộc,E39_29,E38_9,,
+RELATION,R22_51,THUOC,Thuộc,E39_30,E38_9,,
+RELATION,R22_52,THUOC,Thuộc,E39_31,E38_9,,
+RELATION,R22_53,THUOC,Thuộc,E39_32,E38_9,,
+RELATION,R22_54,THUOC,Thuộc,E39_33,E38_9,,
+RELATION,R22_55,THUOC,Thuộc,E39_34,E38_9,,
+RELATION,R22_56,THUOC,Thuộc,E39_35,E38_9,,
+RELATION,R22_57,THUOC,Thuộc,E38_10,E35_3,,
+RELATION,R22_58,THUOC,Thuộc,E39_36,E38_10,,
+RELATION,R22_59,THUOC,Thuộc,E39_37,E38_10,,
+RELATION,R22_60,THUOC,Thuộc,E39_38,E38_10,,
+RELATION,R22_61,THUOC,Thuộc,E39_39,E38_10,,
+RELATION,R22_62,THUOC,Thuộc,E38_11,E35_3,,
+RELATION,R22_63,THUOC,Thuộc,E39_40,E38_11,,
+RELATION,R22_64,THUOC,Thuộc,E39_41,E38_11,,
+RELATION,R22_65,THUOC,Thuộc,E39_42,E38_11,,
+RELATION,R22_66,THUOC,Thuộc,E39_43,E38_11,,
+RELATION,R22_67,THUOC,Thuộc,E38_12,E35_4,,
+RELATION,R22_68,THUOC,Thuộc,E39_44,E38_12,,
+RELATION,R22_69,THUOC,Thuộc,E39_45,E38_12,,
+RELATION,R22_70,THUOC,Thuộc,E40_13,E39_45,,
+RELATION,R22_71,THUOC,Thuộc,E40_14,E39_45,,
+RELATION,R22_72,THUOC,Thuộc,E38_13,E35_4,,
+RELATION,R22_73,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_74,THUOC,Thuộc,E11_1,E10_1,,

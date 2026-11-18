@@ -1,0 +1,76 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,107,Nghị quyết số 03/2011/QH13 Về cơ cấu tổ chức của Chính phủ và số Phó Thủ tướng Chính phủ nhiệm kỳ khóa XIII
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,26,03/2011/QH13
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,197,220,Ngày 2 tháng 8 năm 2011
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,2046,2060,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,2081,2091,2011-08-02
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,2115,2127,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,572,580,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1947,1964,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1965,1981,Nguyễn Sinh Hùng
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,2335,2373,Luật Tổ chức Chính phủ số 32/2001/QH10
+ENTITY,E14_2,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,2428,2446,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,396,543,"Điều 84 và Điều 114 Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10"
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,589,628,Điều 2 và Điều 3 Luật Tổ chức Chính phủ
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,637,668,Điều 29 Nội quy kỳ họp Quốc hội
+ENTITY,E34_1,PHAN,Phần,structure,858,890,A. CƠ CẤU TỔ CHỨC CỦA CHÍNH PHỦ:
+ENTITY,E34_2,PHAN,Phần,structure,1729,1808,"B. SỐ PHÓ THỦ TƯỚNG CHÍNH PHỦ
+Chính phủ nhiệm kỳ khóa XIII có 04 Phó Thủ tướng."
+ENTITY,E35_1,CHUONG,Chương,structure,973,1012,Chương I. Các bộ bao gồm 18 bộ sau đây:
+ENTITY,E35_2,CHUONG,Chương,structure,1458,1517,Chương II. Các cơ quan ngang bộ bao gồm 04 cơ quan sau đây:
+ENTITY,E35_3,CHUONG,Chương,structure,1617,1728,"Chương III. Chính phủ quy định cụ thể chức năng, nhiệm vụ, quyền hạn và tổ chức của các bộ, cơ quan ngang bộ. ."
+ENTITY,E39_1,KHOAN,Khoản,structure,1013,1030,1. Bộ Quốc phòng;
+ENTITY,E39_2,KHOAN,Khoản,structure,1031,1045,2. Bộ Công an;
+ENTITY,E39_3,KHOAN,Khoản,structure,1046,1063,3. Bộ Ngoại giao;
+ENTITY,E39_4,KHOAN,Khoản,structure,1064,1077,4. Bộ Nội vụ;
+ENTITY,E39_5,KHOAN,Khoản,structure,1078,1092,5. Bộ Tư pháp;
+ENTITY,E39_6,KHOAN,Khoản,structure,1093,1118,6. Bộ Kế hoạch và Đầu tư;
+ENTITY,E39_7,KHOAN,Khoản,structure,1119,1135,7. Bộ Tài chính;
+ENTITY,E39_8,KHOAN,Khoản,structure,1136,1154,8. Bộ Công thương;
+ENTITY,E39_9,KHOAN,Khoản,structure,1155,1197,9. Bộ Nông nghiệp và Phát triển nông thôn;
+ENTITY,E39_10,KHOAN,Khoản,structure,1198,1224,10. Bộ Giao thông vận tải;
+ENTITY,E39_11,KHOAN,Khoản,structure,1225,1241,11. Bộ Xây dựng;
+ENTITY,E39_12,KHOAN,Khoản,structure,1242,1274,12. Bộ Tài nguyên và Môi trường;
+ENTITY,E39_13,KHOAN,Khoản,structure,1275,1308,13. Bộ Thông tin và Truyền thông;
+ENTITY,E39_14,KHOAN,Khoản,structure,1309,1349,14. Bộ Lao động - Thương binh và Xã hội;
+ENTITY,E39_15,KHOAN,Khoản,structure,1350,1386,"15. Bộ Văn hóa, Thể thao và Du lịch;"
+ENTITY,E39_16,KHOAN,Khoản,structure,1387,1416,16. Bộ Khoa học và Công nghệ;
+ENTITY,E39_17,KHOAN,Khoản,structure,1417,1444,17. Bộ Giáo dục và Đào tạo;
+ENTITY,E39_18,KHOAN,Khoản,structure,1445,1457,18. Bộ Y tế.
+ENTITY,E39_19,KHOAN,Khoản,structure,1518,1536,1. Ủy ban Dân tộc;
+ENTITY,E39_20,KHOAN,Khoản,structure,1537,1568,2. Ngân hàng Nhà nước Việt Nam;
+ENTITY,E39_21,KHOAN,Khoản,structure,1569,1592,3. Thanh tra Chính phủ;
+ENTITY,E39_22,KHOAN,Khoản,structure,1593,1616,4. Văn phòng Chính phủ.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R2_2,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_2,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_3,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_10,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_11,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_12,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_13,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_14,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_15,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_16,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_17,E35_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_18,E35_1,,
+RELATION,R22_11,THUOC,Thuộc,E39_19,E35_2,,
+RELATION,R22_12,THUOC,Thuộc,E39_2,E35_1,,
+RELATION,R22_13,THUOC,Thuộc,E39_20,E35_2,,
+RELATION,R22_14,THUOC,Thuộc,E39_21,E35_2,,
+RELATION,R22_15,THUOC,Thuộc,E39_22,E35_2,,
+RELATION,R22_16,THUOC,Thuộc,E39_3,E35_1,,
+RELATION,R22_17,THUOC,Thuộc,E39_4,E35_1,,
+RELATION,R22_18,THUOC,Thuộc,E39_5,E35_1,,
+RELATION,R22_19,THUOC,Thuộc,E39_6,E35_1,,
+RELATION,R22_20,THUOC,Thuộc,E39_7,E35_1,,
+RELATION,R22_21,THUOC,Thuộc,E39_8,E35_1,,
+RELATION,R22_22,THUOC,Thuộc,E39_9,E35_1,,
+RELATION,R22_23,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_24,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_25,THUOC,Thuộc,E35_1,E34_1,,
+RELATION,R22_26,THUOC,Thuộc,E35_2,E34_1,,
+RELATION,R22_27,THUOC,Thuộc,E35_3,E34_1,,

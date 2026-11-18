@@ -1,0 +1,43 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,120,Pháp lệnh số Không số Quy định chế độ cấp bậc của sỹ quan và hạ sỹ quan Cảnh sát nhân dân nước Việt Nam dân chủ cộng hoà
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,121,130,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,4648,4672,ngày 16 tháng 7 năm 1962
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,4898,4912,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,4746,4756,1962-07-20
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,4778,4788,1989-02-11
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,4812,4832,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,583,608,Uỷ ban thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,4846,4858,Phó Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,4871,4885,Hoàng Văn Hoan
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,5448,5466,Hiến pháp năm 1959
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,4932,4950,Hiến pháp năm 1959
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,5238,5393,Pháp lệnh số 17/LCT Quy định cơ quan phụ trách quản lý công tác phòng cháy và chữa cháy và chế độ cấp bậc của sỹ quan và hạ sỹ quan phòng cháy và chữa cháy
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,4970,5216,"Nghị định số 113-CP Về việc quy định thẩm quyền phong cấp bậc đối với hạ sĩ quan Cảnh sát nhân dân, quyền thăng, giáng đối với các cấp bậc từ trung sĩ đến thiếu uý Cảnh sát nhân dân và quy định về cấp hiệu, phù hiệu, số hiệu của Cảnh sát nhân dân"
+ENTITY,E38_1,DIEU,Điều,structure,686,692,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1065,1071,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1318,1324,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,1649,1655,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,1879,1885,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,2643,2649,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,3102,3108,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,3727,3733,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,4060,4066,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,4147,4154,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,4409,4416,Điều 11
+ENTITY,E39_1,KHOAN,Khoản,structure,784,808,1. Cấp tướng có hai bậc:
+ENTITY,E39_2,KHOAN,Khoản,structure,837,858,2. Cấp tá có bốn bậc:
+ENTITY,E39_3,KHOAN,Khoản,structure,902,923,3. Cấp uý có bốn bậc:
+ENTITY,E40_1,DIEM,Điểm,structure,762,783,A. Sĩ quan có ba cấp:
+ENTITY,E40_2,DIEM,Điểm,structure,1009,1033,B. Hạ sĩ quan có ba bậc:
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,5487,5545,Pháp lệnh số Không số Lực lượng Cảnh sát nhân dân Việt Nam
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RDAN_CHIEU_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,RTHAY_THE_1,THAY_THE,Thay thế,E43_1,E2_1,,
+RELATION,RTHUOC_1,THUOC,Thuộc,E40_1,E38_1,,
+RELATION,RTHUOC_2,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,RTHUOC_3,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,RTHUOC_4,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,RTHUOC_5,THUOC,Thuộc,E40_2,E39_3,,
+RELATION,RAP_DUNG_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,

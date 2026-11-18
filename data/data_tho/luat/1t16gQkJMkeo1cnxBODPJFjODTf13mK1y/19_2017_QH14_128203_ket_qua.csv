@@ -1,0 +1,76 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,129,"Luật sửa đổi, bổ sung một số điều của Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài. số 19/2017/QH14"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,117,129,19/2017/QH14
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,12222,12232,Ngoại giao
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,227,252,ngày 21 tháng 11 năm 2017
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,8719,8757,Cơ quan đại diện Việt Nam ở nước ngoài
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,8468,8492,ngày 01 tháng 7 năm 2018
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,8781,8802,Hết hiệu lực một phần
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,424,432,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,8617,8634,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,8635,8654,Nguyễn Thị Kim Ngân
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,0,129,"Luật sửa đổi, bổ sung một số điều của Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài. số 19/2017/QH14"
+ENTITY,E15_2,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,480,570,Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài số 33/2009/QH12
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,373,422,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,0,129,"Luật sửa đổi, bổ sung một số điều của Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài. số 19/2017/QH14"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,8822,9110,"Thông tư số 113/2021/TT-BTC Sửa đổi, bổ sung một số điều của Thông tư số 264/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực ngoại giao áp dụng tại các Cơ quan đại diện Việt Nam ở nước ngoài"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,9130,9388,"Thông tư liên tịch số 01/2019/TTLT-TANDTC-BNG Quy định về trình tự, thủ tục phối hợp giữa Tòa án nhân dân và cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài để thực hiện một số hoạt động tố tụng dân sự và tố tụng hành chính ở nươc ngoài"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,9408,9564,"Thông tư số 07/2023/TT-BNG Hướng dẫn việc đăng ký và quản lý hộ tịch tại các Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,9584,9757,"Nghị định số 196/2025/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 111/2011/NĐ-CP ngày 05 tháng 12 năm 2011 của Chính phủ về chứng nhận lãnh sự, hợp pháp hóa lãnh sự"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,9777,9960,"Thông tư số 05/2025/TT-BNG Sửa đổi, bổ sung một số điều của Thông tư số 03/2023/TT-BNG ngày 27 tháng 7 năm 2023 của Bộ trưởng Bộ Ngoại giao về việc tổ chức giải quyết công tác lãnh sự"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,9980,10050,Thông tư số 03/2023/TT-BNG Về việc tổ chức giải quyết công tác lãnh sự
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,10070,10302,"Nghị định số 171/2024/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 166/2017/NĐ-CP ngày 31 tháng 12 năm 2017 của Chính phủ quy định tiêu chuẩn, định mức và chế độ quản lý, sử dụng tài sản công của cơ quan Việt Nam ở nước ngoài"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,10322,10486,"Thông tư số 110/2021/TT-BTC Quy định việc lập dự toán, quản lý, sử dụng và quyết toán kinh phí thực hiện nhiệm vụ bảo hộ công dân và pháp nhân Việt Nam ở nước ngoài"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,10506,10653,"Nghị định 104/2018/NĐ-CP hướng dẫn Luật sửa đổi, bổ sung một số điều của Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,10673,10758,Thông tư số 01/2020/TT-BNG về Lãnh sự danh dự nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,10778,10879,"Nghị định số 254/2025/NĐ-CP Quy định về quản lý, thanh toán, quyết toán dự án sử dụng vốn đầu tư công"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,10899,11353,"Thông tư số 04/2025/TT-BNG Sửa đổi, bổ sung một số điều của Thông tư số 04/2016/TT-BNG ngày 30 tháng 6 năm 2016 của Bộ trưởng Bộ Ngoại giao hướng dẫn thủ tục cấp thị thực, gia hạn tạm trú, cấp thẻ tạm trú cho người nước ngoài tại Việt Nam thuộc thẩm quyền của Bộ Ngoại giao và Quyết định số 2985/2007/QĐ-BNG ngày 29 tháng 11 năm 2007 của Bộ trưởng Bộ Ngoại giao ban hành Quy chế tổ chức và hoạt động Quỹ Bảo hộ công dân và pháp nhân Việt Nam ở nước ngoài"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,11373,11708,"Nghị định số 17/2022/NĐ-CP quy định về xử phạt vi phạm hành chính trong lĩnh vực hóa chất và vật liệu nổ công nghiệp; điện lực, an toàn đập thủy điện, sử dụng năng lượng tiết kiệm và hiệu quả; hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng cấm và bảo vệ quyền lợi người tiêu dùng; hoạt động dầu khí, kinh doanh xăng dầu và khí"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,11728,11926,"Nghị định số 51/2024/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 08/2019/NĐ-CP ngày 23 tháng 01 năm 2019 của Chính phủ quy định một số chế độ đối với thành viên cơ quan Việt Nam ở nước ngoài"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,11946,12212,"Thông tư số 07/2025/TT-BNG Sửa đổi, bổ sung một số điều của Thông tư số 07/2023/TT-BNG ngày 29 tháng 12 năm 2023 của Bộ trưởng Bộ Ngoại giao hướng dẫn việc đăng ký và quản lý hộ tịch tại Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự của Việt Nam ở nước ngoài"
+ENTITY,E38_1,DIEU,Điều,structure,572,578,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,8407,8413,Điều 2
+ENTITY,E39_1,KHOAN,Khoản,structure,688,778,"1. Bãi bỏ khoản 10 Điều 8; sửa đổi, bổ sung các khoản 4, 5, 7, 8, 13 và 15 Điều 8 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,2052,2104,2. Bổ sung khoản 1a vào sau khoản 1 Điều 10 như sau:
+ENTITY,E39_3,KHOAN,Khoản,structure,2297,2348,"3. Sửa đổi, bổ sung điểm b khoản 2 Điều 15 như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,2540,2579,4. Bổ sung khoản 3 vào Điều 16 như sau:
+ENTITY,E39_5,KHOAN,Khoản,structure,3335,3371,"5. Sửa đổi, bổ sung Điều 17 như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,5062,5106,"6. Sửa đổi, bổ sung khoản 3 Điều 19 như sau:"
+ENTITY,E39_7,KHOAN,Khoản,structure,5464,5500,"7. Sửa đổi, bổ sung Điều 20 như sau:"
+ENTITY,E39_8,KHOAN,Khoản,structure,6457,6509,8. Bổ sung khoản 3a vào sau khoản 3 Điều 21 như sau:
+ENTITY,E39_9,KHOAN,Khoản,structure,6695,6803,"9. Sửa đổi, bổ sung tên Điều 26; bổ sung điểm d vào khoản 1, bổ sung khoản 3 và khoản 4 vào Điều 26 như sau:"
+ENTITY,E39_10,KHOAN,Khoản,structure,7272,7317,"10. Sửa đổi, bổ sung khoản 6 Điều 32 như sau:"
+ENTITY,E39_11,KHOAN,Khoản,structure,7865,7902,"11. Sửa đổi, bổ sung Điều 34 như sau:"
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R3_2,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_2,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E25_1,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_9,E38_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_10,E38_1,,
+RELATION,R22_11,THUOC,Thuộc,E39_11,E38_1,,
+RELATION,R22_12,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_13,THUOC,Thuộc,E11_1,E10_1,,

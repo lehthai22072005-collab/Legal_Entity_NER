@@ -1,0 +1,23 @@
+{
+  "run_name": "phobert_span_all369_v1",
+  "official_repo": "vinai/phobert-base",
+  "official_revision": "01daacda68afe13d83023d16ec647239e344a1e6",
+  "official_pretrained_sha256": "a0b0f0912c710147fbaac015b0a4011216a0061a56c03b840b639e40d3bb49cc",
+  "unique_documents": 369,
+  "train_documents": 314,
+  "validation_documents": 55,
+  "seed": 20261117,
+  "max_epochs": 12,
+  "early_stopping_patience": 3,
+  "minimum_epochs": 4,
+  "encoder_lr": 2e-05,
+  "span_lr": 0.0003,
+  "marker_lr": 0.003,
+  "selection": "Mean exact-span Micro-F1 and supported-label Macro-F1 on Validation",
+  "fitted_old_checkpoint_used": false,
+  "relations_trained": false,
+  "test_documents": 0,
+  "dataset_dir": "data/dataset",
+  "train_window_chars": 8192,
+  "train_overlap_chars": 2048
+}

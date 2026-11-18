@@ -1,0 +1,493 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,24,Luật Công ty số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,16,24,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,25691,25716,ngày 21 tháng 12 năm 1990
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,25782,25796,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,25817,25827,1991-04-15
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,25849,25859,2000-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,25883,25903,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,25924,25932,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,25946,25963,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,25976,25988,Lê Quang Đạo
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,26138,26156,Hiến pháp năm 1980
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,26053,26083,Luật Công đoàn số 40-LCT/HĐNN8
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,26008,26026,Hiến pháp năm 1980
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,26207,26260,Luật Sửa đổi một số điều của Luật Công ty số Không số
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,30954,30987,Luật Doanh nghiệp số 13/1999/QH10
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,26282,26357,Chỉ thị số 620/CT-TTg Về việc tăng cường quản lý hoạt động tư vấn pháp luật
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,26379,26655,Thông tư số 141-PLDS/KT Hướng dẫn thi hành Điều 3 Nghị định số 221/HĐBT ngày 23/7/1991 của Hội đồng Bộ trưởng cụ thể hoá một số Điều trong Luật doanh nghiệp tư nhân và Điều 4 Nghị định số 222/HĐBT ngày 23/7/1991 của Hội đồng Bộ trưởng cụ thể hoá một số điều trong Luật Công ty
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,26677,26912,Quyết định số 196-CT Về việc chuyển các tổ chức kinh tế đã đăng ký và đang hoạt động theo Quyết định số 268-CT ngày 30 tháng 07 năm 1990 sang theo đăng ký và hoạt động theo loại doanh nghiệp mới phù hợp với hệ thống pháp luật hiện hành
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,26934,27090,"Thông tư số 11/TT-CNCL Hướng dẫn thực hiện Nghị định số 27/CP ngày 20/4/1995 của Chính phủ về quản lý, sản xuất, cung ứng và sử dụng vật liệu nổ công nghiệp"
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27112,27191,Nghị định số 03/2000/NĐ-CP Hướng dẫn thi hành một số điều của Luật Doanh nghiệp
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27213,27405,"Thông tư số 03/TT-NH5 Hướng dẫn thực hiện ""Quy chế tạm thời về tổ chức và hoạt động của Công ty cho thuê tài chính tại Việt Nam (Ban hành kèm theo Nghị định 64/CP ngày 9/10/1995 của Chính phủ)"
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27427,27475,Nghị định số 02/2000/NĐ-CP Về đăng ký kinh doanh
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27497,27629,"Thông tư liên tịch số 05/1998/TTLT-BKHĐT-BTP Hướng dẫn thủ tục thành lập và đăng ký kinh doanh đối với doanh nghiệp tư nhân, công ty"
+ENTITY,E29_9,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27651,27737,"Nghị định số 06-CP Về cụ thể hoá một số điều trong pháp lệnh hành nghề y, dược tư nhân"
+ENTITY,E29_10,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27759,27892,"Nghị định số 87/CP Về tăng cường quản lý các hoạt động văn hoá và dịch vụ văn hoá, đẩy mạnh bài trừ một số tệ nạn xã hội nghiêm trọng"
+ENTITY,E29_11,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,27914,28167,"Thông tư số 96/TC-TCT Hướng dẫn thu thuế đối với các trường hợp chuyển nhượng vốn của các chủ đầu tư trong các doanh nghiệp được thành lập theo Luật công ty, Luật  doanh nghiệp tư nhân, Luật đầu tư nước ngoài tại Việt Nam, Luật khuyến khích đầu tư trong"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,28187,28390,Quyết định 46/QĐ-UB-KT năm 1995 quy định về thủ tục cấp giấp phép thành lập và giấy chứng nhận đăng ký kinh doanh đối với doanh nghiệp tư nhân và công ty do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,28410,28577,"Quyết định số 469 QĐ/UB Về việc giao nhiệm vụ thụ lý hồ sơ thành lập doanh nghiệp, đặt và cho phép đặt chi nhánh hoặc văn phòng đại diện của các loại hình doanh nghiệp"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,28597,28756,"Quyết định số 592-QĐ/UB Cấp chứng chỉ hành nghề kinh doanh các loại vật tư và dịch vụ kỹ thuật chuyên ngành nông, lâm nghiệp trên địa bàn thành phố Hải Phòng"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,28776,28913,"Quyết định số 343/QĐ-UB V/v Ban hành quy định về thủ tục cấp giấy phép thành lập Doanh nghiệp tư nhân, Công ty trên địa bàn tỉnh Hưng Yên"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,28933,28988,Nghị định số 192-CP Về ban hành Quy chế Khu công nghiệp
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,29008,29085,Quyết định số 97/1997/QĐ-UB Về việc thành lập Chi nhánh Doanh nghiệp Nhà nước
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,29105,29235,"Quyết định số 136/QĐ-UBND Ban hành quy định tạm thời về tổ chức
+ và hoạt động kinh doanh dịch vụ cầm đồ trên địa bàn tỉnh Bến Tre."
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,29255,29342,"Nghị định số 40/1998/NĐ-CP Về kinh doanh vận tải biển của công ty, doanh nghiệp tư nhân"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,29362,29433,Chỉ thị số 25/CT-UB về việc lưu thông pháo trên thị trường tỉnh Bến Tre
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,29453,29593,"Quyết định số 40-CT Về việc cho phép thành lập công ty trách nhiệm hữu hạn Việt Thắng khai thác, kinh doanh xuất, nhập khẩu vàng bạc, đá quý"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,29613,29697,Nghị định số 222/HĐBT Ban hành Quy định về cụ thể hoá một số điều trong Luật Công ty
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,29717,29930,"Quyết định số 1679/QĐ- UB-KT Về việc ban hành bản quy định về phân công, phân cấp quản lý Nhà nước đối với các doanh nghiệp thành lập theo Luật doanh nghiệp tư nhân, Luật Công ty trên địa bàn thành phố Hồ Chí Minh"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,29950,30066,Quyết định số 102/QĐ-UB Ban hành quy định về việc đặt chi nhánh văn phòng đại diện của doanh nghiệp tại tỉnh Lào Cai
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,30086,30333,"Quyết định 1679/QĐ-UB-KT năm 1996 quy định về phân công, phân cấp quản lý nhà nước đối với các doanh nghiệp thành lập theo luật doanh nghiệp tư nhân, luật công ty trên địa bàn thành phố Hồ Chí Minh do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,30353,30461,Quyết định số 200/QĐ-UB về việc ban hành quy định tổ chức thi hành Luật Doanh nghiệp tư nhân và Luật Công ty
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,30481,30694,"Quyết định số 1679/QĐ- UB-KT Về việc ban hành bản quy định về phân công, phân cấp quản lý Nhà nước đối với các doanh nghiệp thành lập theo Luật doanh nghiệp tư nhân, Luật Công ty trên địa bàn thành phố Hồ Chí Minh"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,30714,30789,Quyết định số 108/1998/QĐ-UB V/v: Thành lập Hội đồng đầu tư Tỉnh Bình Phước
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,30809,30904,"Quyết định số 3652/QĐ.UB Về việc ban hành quy định đăng ký, cấp giấy phép hành nghề công nghiệp"
+ENTITY,E34_1,PHAN,Phần,structure,3347,3483,"Phần vốn góp của mỗi thành viên có thể bằng tiền Việt Nam, ngoại tệ, vàng, tài sản bằng hiện vật hoặc bằng bản quyền sở hữu công nghiệp."
+ENTITY,E34_2,PHAN,Phần,structure,3484,3713,"Phần vốn góp bằng hiện vật hoặc bản quyền sở hữu công nghiệp phải được đại hội đồng thành lập xem xét, chấp thuận, định giá và được ghi vào điều lệ công ty; phần vốn góp này phải được nộp đủ ngay khi công ty chính thức thành lập."
+ENTITY,E35_1,CHUONG,Chương,structure,515,523,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,6296,6305,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,12283,12293,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,14984,14993,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,24194,24202,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,25209,25218,CHƯƠNG VI
+ENTITY,E38_1,DIEU,Điều,structure,545,793,"Điều 1
+Công dân Việt Nam đủ 18 tuổi, tổ chức kinh tế Việt Nam có tư cách pháp nhân thuộc các thành phần kinh tế, tổ chức xã hội có quyền góp vốn đầu tư hoặc tham gia thành lập công ty trách nhiệm hữu hạn, công ty cổ phần theo quy định của Luật này."
+ENTITY,E38_2,DIEU,Điều,structure,794,1091,"Điều 2
+Công ty trách nhiệm hữu hạn và công ty cổ phần, gọi chung là công ty, là doanh nghiệp trong đó các thành viên cùng góp vốn, cùng chia nhau lợi nhuận, cùng chịu lỗ tương ứng với phần vốn góp và chỉ chịu trách nhiệm về các khoản nợ của công ty trong phạm vi phần vốn của mình góp vào công ty."
+ENTITY,E38_3,DIEU,Điều,structure,1092,1153,"Điều 3
+Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+ENTITY,E38_4,DIEU,Điều,structure,1664,1964,"Điều 4
+Nhà nước công nhận sự tồn tại lâu dài và phát triển của công ty, thừa nhận sự bình đẳng trước pháp luật của công ty với các doanh nghiệp khác và tính sinh lợi hợp pháp của việc kinh doanh.
+Trong khuôn khổ pháp luật, công ty có quyền tự do kinh doanh và chủ động trong mọi hoạt động kinh doanh."
+ENTITY,E38_5,DIEU,Điều,structure,1965,2120,"Điều 5
+Quyền sở hữu về tư liệu sản xuất, quyền thừa kế về vốn, tài sản, các quyền và lợi ích hợp pháp khác của các thành viên công ty được Nhà nước bảo hộ."
+ENTITY,E38_6,DIEU,Điều,structure,2121,2487,"Điều 6
+Nghiêm cấm cơ quan Nhà nước, đơn vị thuộc lực lượng vũ trang nhân dân sử dụng tài sản của Nhà nước và công quỹ để góp vốn vào công ty hoặc tham gia thành lập công ty nhằm thu lợi riêng cho cơ quan, đơn vị mình.
+Viên chức tại chức trong bộ máy Nhà nước, sĩ quan tại ngũ trong lực lượng vũ trang nhân dân không được phép tham gia thành lập hoặc quản lý công ty."
+ENTITY,E38_7,DIEU,Điều,structure,2488,2658,"Điều 7
+Người mất trí, người đang bị truy cứu trách nhiệm hình sự hoặc người bị kết án tù mà chưa được xoá án, thì không được phép tham gia thành lập hoặc quản lý công ty."
+ENTITY,E38_8,DIEU,Điều,structure,2659,2694,"Điều 8
+Thành viên công ty có quyền:"
+ENTITY,E38_9,DIEU,Điều,structure,3340,3347,"Điều 9
+"
+ENTITY,E38_10,DIEU,Điều,structure,3714,3906,"Điều 10
+Điều lệ công ty là bản cam kết của tất cả thành viên về thành lập và hoạt động của công ty, được thông qua tại đại hội đồng thành lập.
+Điều lệ công ty phải có nội dung chủ yếu sau đây:"
+ENTITY,E38_11,DIEU,Điều,structure,4571,4734,"Điều 11
+Ngoài một số ngành, nghề mà pháp luật cấm kinh doanh, việc thành lập công ty trong các ngành, nghề dưới đây phải được Chủ tịch Hội đồng bộ trưởng cho phép:"
+ENTITY,E38_12,DIEU,Điều,structure,5108,5162,"Điều 12
+Theo quy định của pháp luật, công ty có quyền:"
+ENTITY,E38_13,DIEU,Điều,structure,5531,5559,"Điều 13
+Công ty có nghĩa vụ:"
+ENTITY,E38_14,DIEU,Điều,structure,6363,6607,"Điều 14
+Muốn thành lập công ty, các sáng lập viên phải gửi đơn xin phép thành lập đến Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương, nơi dự định đặt trụ sở chính.
+Đơn xin thành lập công ty phải ghi rõ:"
+ENTITY,E38_15,DIEU,Điều,structure,6923,7048,"Điều 15
+Công dân, tổ chức có quyền tham gia thành lập công ty phải có các điều kiện sau đây mới được cấp giấy phép thành lập:"
+ENTITY,E38_16,DIEU,Điều,structure,7426,7769,"Điều 16
+Uỷ ban nhân dân nhận đơn phải cấp hoặc từ chối cấp giấy phép thành lập công ty trong thời hạn sáu mươi ngày, kể từ ngày nhận đơn; nếu từ chối cấp giấy phép thì phải nói rõ lý do.
+Trong trường hợp người xin phép thành lập công ty thấy việc từ chối cấp giấy phép là không thoả đáng, thì có quyền khiếu nại lên Trọng tài kinh tế Nhà nước."
+ENTITY,E38_17,DIEU,Điều,structure,7770,8630,"Điều 17
+Công ty phải đăng ký kinh doanh tại Trọng tài kinh tế tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương. Hồ sơ đăng ký kinh doanh bao gồm: giấy phép thành lập, điều lệ công ty và giấy tờ chứng thực trụ sở giao dịch của công ty.
+Việc đăng ký kinh doanh của công ty trách nhiệm hữu hạn phải được tiến hành trong thời hạn một trăm tám mươi ngày, kể từ ngày được cấp giấy phép thành lập.
+Việc đăng ký kinh doanh của công ty cổ phần phải được tiến hành trong thời hạn một năm, kể từ ngày được cấp giấy phép thành lập.
+Quá thời hạn nói tại đoạn 2 và đoạn 3, Điều này mà chưa đăng ký kinh doanh, nếu muốn tiếp tục thành lập công ty thì các sáng lập viên phải làm lại thủ tục xin phép thành lập. Trong trường hợp có lý do chính đáng, Uỷ ban nhân dân đã cấp giấy phép thành lập có thể gia hạn giấy phép thành lập không quá chín mươi ngày."
+ENTITY,E38_18,DIEU,Điều,structure,8631,9114,"Điều 18
+Khi đăng ký kinh doanh, công ty được ghi tên vào sổ đăng ký kinh doanh và được cấp giấy chứng nhận đăng ký kinh doanh. Kể từ thời điểm đó, công ty có tư cách pháp nhân và được tiến hành hoạt động kinh doanh.
+Trong thời hạn bảy ngày, kể từ ngày cấp giấy chứng nhận đăng ký kinh doanh, Trọng tài kinh tế phải gửi bản sao giấy chứng nhận đăng ký kinh doanh kèm theo hồ sơ của công ty cho các cơ quan thuế, tài chính, thống kê và cơ quan quản lý ngành kinh tế, kỹ thuật cùng cấp."
+ENTITY,E38_19,DIEU,Điều,structure,9115,9325,"Điều 19
+Trong thời hạn ba mươi ngày, kể từ ngày được cấp giấy chứng nhận đăng ký kinh doanh, công ty phải đăng báo địa phương và báo hàng ngày của trung ương trong năm số liên tiếp các đặc điểm chủ yếu sau đây:"
+ENTITY,E38_20,DIEU,Điều,structure,9610,9792,"Điều 20
+Trong trường hợp cần đặt chi nhánh hoặc văn phòng đại diện ngoài tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương, nơi đặt trụ sở chính, công ty phải:"
+ENTITY,E38_21,DIEU,Điều,structure,10268,10492,"Điều 21
+Khi thay đổi mục tiêu, ngành, nghề kinh doanh, vốn điều lệ và các nội dung khác trong hồ sơ đăng ký kinh doanh, công ty phải khai báo lại với Trọng tài kinh tế và phải đăng báo theo quy định tại Điều 19 của Luật này."
+ENTITY,E38_22,DIEU,Điều,structure,10493,10556,"Điều 22
+Công ty chỉ được giải thể trong các trường hợp sau đây:"
+ENTITY,E38_23,DIEU,Điều,structure,11026,11663,"Điều 23
+Đơn xin giải thể công ty phải gửi đến Uỷ ban nhân dân đã cấp giấy phép thành lập, đồng thời phải đăng báo địa phương và báo hàng ngày của trung ương năm số liên tiếp. Đơn và thông báo phải ghi rõ trình tự và thủ tục thanh lý tài sản, thời hạn thanh toán các khoản nợ của công ty, thanh lý các hợp đồng mà công ty đã ký kết.
+Uỷ ban nhân dân chỉ chấp thuận đơn xin giải thể nếu sau mười lăm ngày, kể từ ngày kết thúc thời hạn thanh toán các khoản nợ và thanh lý các hợp đồng đã ghi trong đơn và thông báo việc xin phép giải thể mà không có đơn khiếu nại.
+Việc giải thể của công ty được bắt đầu khi đơn xin giải thể được chấp thuận."
+ENTITY,E38_24,DIEU,Điều,structure,11664,12283,"Điều 24
+Công ty gặp khó khăn hoặc bị thua lỗ trong hoạt động kinh doanh đến mức tại một thời điểm tổng số trị giá các tài sản còn lại của công ty không đủ thanh toán tổng số các khoản nợ đến hạn, là công ty đang lâm vào tình trạng phá sản.
+Công ty nói tại đoạn 1, Điều này có thể bị Trọng tài kinh tế tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương, nơi công ty đặt trụ sở chính tuyên bố phá sản theo đơn xin phá sản của công ty; hoặc đơn yêu cầu của một hoặc nhiều chủ nợ; hoặc kiến nghị của cơ quan có thẩm quyền.
+Trình tự và thủ tục phá sản thực hiện theo quy định của pháp luật về phá sản.
+"
+ENTITY,E38_25,DIEU,Điều,structure,12322,12378,"Điều 25
+Công ty trách nhiệm hữu hạn là công ty trong đó:"
+ENTITY,E38_26,DIEU,Điều,structure,12829,13125,"Điều 26
+Công ty trách nhiệm hữu hạn có thể đặt tên theo mục đích hoạt động kinh doanh hoặc tên của một hoặc một số thành viên.
+Trên bảng hiệu, hoá đơn, quảng cáo, báo cáo, tài liệu, giấy tờ giao dịch khác của công ty đều phải ghi tên công ty kèm theo các chữ ""trách nhiệm hữu hạn"" và vốn điều lệ."
+ENTITY,E38_27,DIEU,Điều,structure,13126,13265,"Điều 27
+Trong trường hợp có không quá mười một thành viên, việc thành lập và tổ chức hoạt động của công ty phải tuân theo quy định sau đây:"
+ENTITY,E38_28,DIEU,Điều,structure,14514,14803,"Điều 28
+Công ty có mười hai thành viên trở lên phải tiến hành các đại hội đồng, bầu hội đồng quản trị và các kiểm soát viên. Chức năng, nhiệm vụ quyền hạn của các đại hội đồng, hội đồng quản trị và kiểm soát viên áp dụng như quy định tại các Điều 37, 38, 39, 40, 41, 42 và 43 của Luật này."
+ENTITY,E38_29,DIEU,Điều,structure,14804,14984,"Điều 29
+Công ty có thể tăng vốn điều lệ bằng cách gọi thêm vốn góp trong các thành viên hoặc kết nạp thêm thành viên mới hoặc trích từ quỹ dự trữ theo quyết định của đại hội đồng.
+"
+ENTITY,E38_30,DIEU,Điều,structure,15010,15054,"Điều 30
+Công ty cổ phần là công ty trong đó:"
+ENTITY,E38_31,DIEU,Điều,structure,15676,15885,"Điều 31
+Công ty cổ phần được tự do đặt tên.
+Trên bảng hiệu, hoá đơn, quảng cáo, báo cáo, tài liệu, giấy tờ giao dịch khác của công ty đều phải ghi tên công ty kèm theo các chữ ""Công ty cổ phần"" và vốn điều lệ."
+ENTITY,E38_32,DIEU,Điều,structure,15886,16055,"Điều 32
+Ngoài quy định về thủ tục thành lập và đăng ký kinh doanh nói tại Chương II của Luật này, việc thành lập công ty cổ phần còn phải tuân theo các quy định sau đây:"
+ENTITY,E38_33,DIEU,Điều,structure,18222,18584,"Điều 33
+Sau một năm, kể từ ngày được cấp giấy phép thành lập mà công ty không thành lập được, thì người đăng ký mua cổ phiếu có quyền yêu cầu các sáng lập viên trả lại số tiền đã góp. Các sáng lập viên phải trả cho họ số tiền đã góp trong thời hạn ba mươi ngày, kể từ ngày nhận được yêu cầu và phải chịu mọi chi phí liên quan đến việc vận động thành lập công ty."
+ENTITY,E38_34,DIEU,Điều,structure,18585,18784,"Điều 34
+Công ty cổ phần có thể được Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương, nơi công ty đặt trụ sở chính cho phép phát hành cổ phiếu hoặc trái phiếu."
+ENTITY,E38_35,DIEU,Điều,structure,18785,18880,"Điều 35
+Công ty chỉ được cấp giấy phép phát hành cổ phiếu mới, nếu có đủ các điều kiện sau đây:"
+ENTITY,E38_36,DIEU,Điều,structure,19553,19646,"Điều 36
+Công ty chỉ được cấp giấy phép phát hành trái phiếu, nếu có đủ các điều kiện sau đây:"
+ENTITY,E38_37,DIEU,Điều,structure,20480,20557,"Điều 37
+Đại hội đồng cổ đông là cơ quan quyết định cao nhất của công ty, gồm:"
+ENTITY,E38_38,DIEU,Điều,structure,21940,22367,"Điều 38
+Hội đồng quản trị là cơ quan quản lý công ty, gồm từ ba đến mười hai thành viên.
+Hội đồng quản trị có toàn quyền nhân danh công ty để quyết định mọi vấn đề liên quan đến mục đích, quyền lợi của công ty, trừ những vấn đề thuộc thẩm quyền của đại hội đồng.
+Hội đồng quản trị bầu một thành viên làm chủ tịch. Chủ tịch hội đồng quản trị có thể kiêm giám đốc (tổng giám đốc) công ty, nếu điều lệ công ty không quy định khác."
+ENTITY,E38_39,DIEU,Điều,structure,22368,22894,"Điều 39
+Hội đồng quản trị chịu trách nhiệm trước đại hội đồng về những sai phạm trong quản lý, vi phạm điều lệ, vi phạm pháp luật gây thiệt hại cho công ty.
+Thành viên hội đồng quản trị được hưởng lương hoặc thù lao theo quyết định của đại hội đồng.
+Điều lệ công ty có thể quy định số cổ phiếu tối thiểu mà các cổ đông là thành viên hội đồng quản trị phải có. Số cổ phiếu này phải ghi tên, không được chuyển nhượng trong suốt thời gian tại chức và trong thời hạn hai năm, kể từ ngày thôi giữ chức thành viên hội đồng quản trị."
+ENTITY,E38_40,DIEU,Điều,structure,22895,23275,"Điều 40
+Trong trường hợp chủ tịch hội đồng quản trị không kiêm giám đốc (tổng giám đốc) công ty, thì hội đồng quản trị cử một người trong số họ hoặc thuê người khác làm giám đốc (tổng giám đốc).
+Giám đốc (tổng giám đốc) là người điều hành hoạt động kinh doanh hàng ngày của công ty và chịu trách nhiệm trước hội đồng quản trị về việc thực hiện các nhiệm vụ và quyền hạn được giao."
+ENTITY,E38_41,DIEU,Điều,structure,23276,23453,"Điều 41
+Công ty có hai kiểm soát viên do đại hội đồng bầu ra, trong đó ít nhất một kiểm soát viên phải có chuyên môn về kế toán. Kiểm soát viên có nhiệm vụ và quyền hạn sau đây:"
+ENTITY,E38_42,DIEU,Điều,structure,23796,23988,"Điều 42
+Kiểm soát viên được hưởng thù lao do đại hội đồng quyết định và chịu trách nhiệm trước đại hội đồng về những sai phạm của mình trong quá trình thực hiện nhiệm vụ gây thiệt cho công ty."
+ENTITY,E38_43,DIEU,Điều,structure,23989,24194,"Điều 43
+Kiểm soát viên không thể đồng thời là thành viên hội đồng quản trị, giám đốc (tổng giám đốc) công ty; không thể là vợ, chồng của các thành viên hội đồng quản trị, giám đốc (tổng giám đốc) công ty.
+"
+ENTITY,E38_44,DIEU,Điều,structure,24217,24688,"Điều 44
+Người thành lập công ty mà không có giấy phép; kinh doanh không đăng ký, kinh doanh không đúng ngành, nghề ghi trong giấy phép; khai man phần vốn góp khi thành lập công ty; khai man số người mua cổ phiếu; lừa dối người khác để bán cổ phiếu; phát hành trái phiếu, cổ phiếu mới mà không có giấy phép hoặc vi phạm quy định khác của Luật này, thì tuỳ theo mức độ nhẹ hoặc nặng mà bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+ENTITY,E38_45,DIEU,Điều,structure,24689,25209,"Điều 45
+Người lợi dụng chức vụ, quyền hạn cấp giấy phép thành lập công ty cho người, tổ chức bị cấm, cho người không được phép thành lập công ty; không cấp giấy phép, giấy đăng ký kinh doanh cho người, tổ chức đủ điều kiện thành lập công ty hoặc đăng ký kinh doanh; chứng nhận sai về vốn gửi ở ngân hàng hoặc về trị giá tài sản bằng hiện vật của công ty; hoặc vi phạm các quy định khác của Luật này, thì tuỳ theo mức độ nhẹ hoặc nặng mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.
+"
+ENTITY,E38_46,DIEU,Điều,structure,25240,25590,"Điều 46
+Luật này có hiệu lực kể từ ngày 15 tháng 4 năm 1991.
+Các quy định trước đây trái với Luật này đều bãi bỏ.
+Trong thời hạn một trăm tám mươi ngày, kể từ ngày 15 tháng 4 năm 1991, các công ty đã được cơ quan có thẩm quyền cấp giấy phép thành lập trước ngày đó, phải làm lại các thủ tục thành lập và đăng ký kinh doanh theo quy định của Luật này."
+ENTITY,E39_1,KHOAN,Khoản,structure,1154,1344,"1- ""Kinh doanh"" là việc thực hiện một, một số hoặc tất cả các công đoạn của quá trình đầu tư, từ sản xuất đến tiêu thụ sản phẩm hoặc thực hiện dịch vụ trên thị trường nhằm mục đích sinh lợi."
+ENTITY,E39_2,KHOAN,Khoản,structure,1345,1459,"2- ""Doanh nghiệp"" là đơn vị kinh doanh được thành lập nhằm mục đích chủ yếu là thực hiện các hoạt động kinh doanh."
+ENTITY,E39_3,KHOAN,Khoản,structure,1460,1576,"3- ""Vốn pháp định"" là mức vốn tối thiểu phải có để thành lập công ty do pháp luật quy định đối với từng ngành, nghề."
+ENTITY,E39_4,KHOAN,Khoản,structure,1577,1663,"4- ""Vốn điều lệ"" là số vốn do các thành viên đóng góp và được ghi vào điều lệ công ty."
+ENTITY,E39_5,KHOAN,Khoản,structure,2695,2773,1- Sở hữu một phần tài sản của công ty tương ứng với phần vốn góp vào công ty;
+ENTITY,E39_6,KHOAN,Khoản,structure,2774,2938,"2- Tham dự đại hội đồng, tham gia thảo luận, biểu quyết các vấn đề thuộc thẩm quyền của đại hội đồng; có số phiếu biểu quyết tương ứng với phần vốn góp vào công ty;"
+ENTITY,E39_7,KHOAN,Khoản,structure,2939,3014,3- Được chia lợi nhuận hoặc chịu lỗ tương ứng với phần vốn góp vào công ty;
+ENTITY,E39_8,KHOAN,Khoản,structure,3015,3339,"4- Nhóm thành viên đại diện cho ít nhất 1/4 số vốn điều lệ có quyền yêu cầu triệu tập đại hội đồng để xem xét và giải quyết những việc mà hội đồng quản trị hoặc giám đốc bỏ qua. Trong trường hợp này, hội đồng quản trị hoặc giám đốc phải triệu tập đại hội đồng trong thời hạn ba mươi ngày, kể từ ngày nhóm thành viên yêu cầu."
+ENTITY,E39_9,KHOAN,Khoản,structure,3907,3979,"1- Hình thức, mục tiêu, tên gọi, trụ sở, thời hạn hoạt động của công ty;"
+ENTITY,E39_10,KHOAN,Khoản,structure,3980,4009,"2- Họ, tên các sáng lập viên;"
+ENTITY,E39_11,KHOAN,Khoản,structure,4010,4116,"3- Vốn điều lệ, trong đó ghi rõ trị giá phần vốn góp bằng hiện vật hoặc bằng bản quyền sở hữu công nghiệp;"
+ENTITY,E39_12,KHOAN,Khoản,structure,4117,4256,4- Phần góp vốn của mỗi thành viên đối với công ty trách nhiệm hữu hạn; mệnh giá cổ phiếu và số cổ phiếu phát hành đối với công ty cổ phần;
+ENTITY,E39_13,KHOAN,Khoản,structure,4257,4320,5- Thể thức hoạt động và thông qua quyết định của đại hội đồng;
+ENTITY,E39_14,KHOAN,Khoản,structure,4321,4360,6- Cơ cấu quản lý và kiểm soát công ty;
+ENTITY,E39_15,KHOAN,Khoản,structure,4361,4420,"7- Các loại quỹ, mức giới hạn các quỹ được lập tại công ty;"
+ENTITY,E39_16,KHOAN,Khoản,structure,4421,4465,8- Thể lệ quyết toán và phân chia lợi nhuận;
+ENTITY,E39_17,KHOAN,Khoản,structure,4466,4570,"9- Các trường hợp sáp nhập, chuyển đổi hình thức, giải thể công ty và thể thức thanh lý tài sản công ty."
+ENTITY,E39_18,KHOAN,Khoản,structure,4735,4794,"1- Sản xuất và lưu thông thuốc nổ, thuốc độc, hoá chất độc;"
+ENTITY,E39_19,KHOAN,Khoản,structure,4795,4832,2- Khai thác các loại khoáng sản quý;
+ENTITY,E39_20,KHOAN,Khoản,structure,4833,4882,"3- Sản xuất và cung ứng điện, nước có quy mô lớn;"
+ENTITY,E39_21,KHOAN,Khoản,structure,4883,4999,"4- Sản xuất các phương tiện phát sóng truyền tin, dịch vụ bưu chính viễn thông, truyền thanh, truyền hình, xuất bản;"
+ENTITY,E39_22,KHOAN,Khoản,structure,5000,5044,5- Vận tải viễn dương và vận tải hàng không;
+ENTITY,E39_23,KHOAN,Khoản,structure,5045,5087,"6- Chuyên kinh doanh xuất khẩu, nhập khẩu;"
+ENTITY,E39_24,KHOAN,Khoản,structure,5088,5107,7- Du lịch quốc tế.
+ENTITY,E39_25,KHOAN,Khoản,structure,5163,5208,"1- Lựa chọn ngành, nghề và quy mô kinh doanh;"
+ENTITY,E39_26,KHOAN,Khoản,structure,5209,5257,2- Lựa chọn hình thức và cách thức huy động vốn;
+ENTITY,E39_27,KHOAN,Khoản,structure,5258,5334,"3- Lựa chọn khách hàng; trực tiếp giao dịch, ký kết hợp đồng với khách hàng;"
+ENTITY,E39_28,KHOAN,Khoản,structure,5335,5395,4- Tuyển dụng và thuê mướn lao động theo yêu cầu kinh doanh;
+ENTITY,E39_29,KHOAN,Khoản,structure,5396,5425,5- Sử dụng ngoại tệ thu được;
+ENTITY,E39_30,KHOAN,Khoản,structure,5426,5475,6- Quyết định việc sử dụng phần thu nhập còn lại;
+ENTITY,E39_31,KHOAN,Khoản,structure,5476,5530,7- Chủ động trong mọi hoạt động kinh doanh đã đăng ký.
+ENTITY,E39_32,KHOAN,Khoản,structure,5560,5611,"1- Kinh doanh theo ngành, nghề ghi trong giấy phép;"
+ENTITY,E39_33,KHOAN,Khoản,structure,5612,5790,"2- Ưu tiên sử dụng lao động trong nước; bảo đảm quyền, lợi ích của người lao động theo quy định của pháp luật lao động; tôn trọng quyền của tổ chức công đoàn theo Luật công đoàn;"
+ENTITY,E39_34,KHOAN,Khoản,structure,5791,5849,3- Bảo đảm chất lượng hàng hoá theo tiêu chuẩn đã đăng ký;
+ENTITY,E39_35,KHOAN,Khoản,structure,5850,5986,"4- Tuân thủ quy định của Nhà nước về bảo vệ môi trường, bảo vệ di tích lịch sử, văn hoá, danh lam thắng cảnh và trật tự, an toàn xã hội;"
+ENTITY,E39_36,KHOAN,Khoản,structure,5987,6120,"5- Ghi chép sổ sách kế toán và quyết toán theo quy định của pháp luật về kế toán, thống kê và chịu sự kiểm tra của cơ quan tài chính;"
+ENTITY,E39_37,KHOAN,Khoản,structure,6121,6192,6- Nộp thuế và thực hiện các nghĩa vụ khác theo quy định của pháp luật;
+ENTITY,E39_38,KHOAN,Khoản,structure,6193,6296,"7- Trích 5% lãi ròng hàng năm để lập quỹ dự trữ bắt buộc cho đến mức bằng 10% vốn điều lệ của công ty.
+"
+ENTITY,E39_39,KHOAN,Khoản,structure,6608,6667,"1- Họ, tên, tuổi, địa chỉ thường trú của các sáng lập viên;"
+ENTITY,E39_40,KHOAN,Khoản,structure,6668,6707,"2- Tên gọi, trụ sở dự định của công ty;"
+ENTITY,E39_41,KHOAN,Khoản,structure,6708,6744,"3- Mục tiêu, ngành, nghề kinh doanh;"
+ENTITY,E39_42,KHOAN,Khoản,structure,6745,6781,4- Vốn điều lệ và cách thức góp vốn;
+ENTITY,E39_43,KHOAN,Khoản,structure,6782,6813,5- Biện pháp bảo vệ môi trường;
+ENTITY,E39_44,KHOAN,Khoản,structure,6814,6922,"6- Chương trình xây dựng công ty.
+Đơn phải kèm theo phương án kinh doanh ban đầu và dự thảo điều lệ công ty."
+ENTITY,E39_45,KHOAN,Khoản,structure,7049,7147,"1- Mục tiêu, ngành, nghề kinh doanh rõ ràng, có phương án kinh doanh ban đầu; có trụ sở giao dịch;"
+ENTITY,E39_46,KHOAN,Khoản,structure,7148,7289,"2- Có vốn điều lệ phù hợp với quy mô và ngành, nghề kinh doanh. Vốn điều lệ không được thấp hơn vốn pháp định do Hội đồng bộ trưởng quy định;"
+ENTITY,E39_47,KHOAN,Khoản,structure,7290,7425,"3- Người quản lý, điều hành hoạt động kinh doanh phải có trình độ chuyên môn tương ứng mà pháp luật đòi hỏi đối với một số ngành, nghề."
+ENTITY,E39_48,KHOAN,Khoản,structure,9326,9396,"1- Tên, loại hình công ty, trụ sở và mục tiêu, ngành, nghề kinh doanh;"
+ENTITY,E39_49,KHOAN,Khoản,structure,9397,9450,"2- Họ, tên, địa chỉ thường trú của các sáng lập viên;"
+ENTITY,E39_50,KHOAN,Khoản,structure,9451,9466,3- Vốn điều lệ;
+ENTITY,E39_51,KHOAN,Khoản,structure,9467,9577,"4- Ngày được cấp giấy phép thành lập, ngày được cấp giấy chứng nhận đăng ký kinh doanh, số đăng ký kinh doanh;"
+ENTITY,E39_52,KHOAN,Khoản,structure,9578,9609,5- Thời điểm bắt đầu hoạt động.
+ENTITY,E39_53,KHOAN,Khoản,structure,9793,10043,"1- Xin phép Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đơn vị hành chính tương đương, nơi đặt chi nhánh hoặc văn phòng đại diện và đăng ký kinh doanh tại Trọng tài kinh tế cùng cấp, như quy định tại các Điều 14, 17 và 18 của Luật này;"
+ENTITY,E39_54,KHOAN,Khoản,structure,10044,10267,"2- Thông báo bằng văn bản cho Uỷ ban nhân dân đã cấp giấy phép thành lập công ty về việc mở chi nhánh hoặc văn phòng đại diện trong thời hạn mười lăm ngày, kể từ ngày chi nhánh hoặc văn phòng đại diện được cấp giấy đăng ký."
+ENTITY,E39_55,KHOAN,Khoản,structure,10557,10617,1- Kết thúc thời hạn hoạt động đã ghi trong điều lệ công ty;
+ENTITY,E39_56,KHOAN,Khoản,structure,10618,10649,2- Hoàn thành mục tiêu đã định;
+ENTITY,E39_57,KHOAN,Khoản,structure,10650,10725,3- Mục tiêu của công ty không thể thực hiện được nữa hoặc không còn có lợi;
+ENTITY,E39_58,KHOAN,Khoản,structure,10726,10804,4- Công ty bị lỗ 3/4 số vốn điều lệ hoặc đang gặp khó khăn không thể vượt qua;
+ENTITY,E39_59,KHOAN,Khoản,structure,10805,11025,"5- Có yêu cầu chính đáng của nhóm thành viên đại diện 2/3 số vốn điều lệ.
+Việc giải thể công ty trong bất kỳ trường hợp nào đều phải được sự đồng ý của nhóm thành viên đại diện cho ít nhất 3/4 số vốn điều lệ của công ty."
+ENTITY,E39_60,KHOAN,Khoản,structure,12379,12585,1- Phần vốn góp của tất cả các thành viên phải được đóng đủ ngay khi thành lập công ty. Các phần vốn góp được ghi rõ trong điều lệ công ty. Công ty không được phép phát hành bất kỳ một loại chứng khoán nào;
+ENTITY,E39_61,KHOAN,Khoản,structure,12586,12828,2- Việc chuyển nhượng phần vốn góp vào giữa các thành viên được thực hiện tự do. Việc chuyển nhượng phần vốn góp cho người không phải là thành viên phải được sự nhất trí của nhóm thành viên đại diện cho ít nhất 3/4 số vốn điều lệ của công ty.
+ENTITY,E39_62,KHOAN,Khoản,structure,13266,13650,"1- Sau khi nhận được giấy phép thành lập và phần vốn góp của mỗi thành viên đã được đóng đủ, toàn thể thành viên họp để xem xét, chấp thuận và định giá các phần vốn góp bằng hiện vật, bằng bản quyền sở hữu công nghiệp và thông qua điều lệ công ty; phân công nhau đảm nhận các chức trách quản lý và kiểm soát công ty; cử một người trong số họ hoặc thuê người khác làm giám đốc công ty;"
+ENTITY,E39_63,KHOAN,Khoản,structure,13651,13748,"2- Trong quá trình hoạt động, tất cả thành viên phải được tham gia quyết định các vấn đề sau đây:"
+ENTITY,E39_64,KHOAN,Khoản,structure,14156,14513,"3- Giám đốc được uỷ nhiệm đầy đủ quyền hạn để điều hành hoạt động kinh doanh của công ty và có quyền hành động nhân danh công ty trong mọi trường hợp.
+Giám đốc chịu trách nhiệm cá nhân hoặc liên đới với những người cùng quản lý trước toàn thể thành viên về những việc mình làm nhân danh công ty.
+Giám đốc được hưởng lương theo quyết định của các thành viên."
+ENTITY,E39_65,KHOAN,Khoản,structure,15055,15152,1- Số thành viên gọi là cổ đông mà công ty phải có trong suốt thời gian hoạt động ít nhất là bảy;
+ENTITY,E39_66,KHOAN,Khoản,structure,15153,15326,2- Vốn điều lệ của công ty được chia thành nhiều phần bằng nhau gọi là cổ phần. Giá trị mỗi cổ phần gọi là mệnh giá cổ phiếu. Mỗi cổ đông có thể mua một hoặc nhiều cổ phiểu;
+ENTITY,E39_67,KHOAN,Khoản,structure,15327,15487,"3- Cổ phiếu được phát hành có thể có ghi tên hoặc không ghi tên. Cổ phiếu của sáng lập viên, của thành viên hội đồng quản trị phải là những cổ phiếu có ghi tên;"
+ENTITY,E39_68,KHOAN,Khoản,structure,15488,15675,"4- Cổ phiếu không ghi tên được tự do chuyển nhượng. Cổ phiếu có ghi tên chỉ được chuyển nhượng, nếu được sự đồng ý của hội đồng quản trị, trừ trường hợp quy định tại Điều 39 của Luật này."
+ENTITY,E39_69,KHOAN,Khoản,structure,16056,16287,"1- Các sáng lập viên phải cùng nhau đăng ký mua ít nhất 20% số cổ phiếu dự tính phát hành của công ty. Trong trường hợp các sáng lập viên không đăng ký mua tất cả cổ phiếu công ty, thì họ phải công khai gọi vốn từ những người khác;"
+ENTITY,E39_70,KHOAN,Khoản,structure,16288,16571,"2- Trong trường hợp công khai gọi vốn từ những người khác, thì sau khi được cấp giấy phép thành lập, các sáng lập viên phải nộp tại Trọng tài kinh tế đã cấp giấy chứng nhận đăng ký kinh doanh một bản dự thảo điều lệ, danh sách sáng lập viên, địa chỉ thường trú và nghề nghiệp của họ;"
+ENTITY,E39_71,KHOAN,Khoản,structure,16572,16737,"3- Việc gọi vốn từ những người khác phải được thông báo công khai, bảo đảm cho những người quan tâm hiểu rõ, hiểu đúng mục tiêu và triển vọng phát triển của công ty;"
+ENTITY,E39_72,KHOAN,Khoản,structure,16738,16916,"4- Việc đăng ký mua cổ phiếu được xác nhận bằng một tờ phiếu có chữ ký của người nhận mua hoặc người được uỷ nhiệm mua và của ít nhất một sáng lập viên.
+Tờ phiếu này phải ghi rõ:"
+ENTITY,E39_73,KHOAN,Khoản,structure,17399,17800,"5- Các sáng lập viên phải gửi tất cả số tiền đóng góp của người đăng ký mua cổ phiếu vào tài khoản phong toả tại một ngân hàng ở trong nước kèm theo danh sách những người đăng ký mua cổ phiếu và số tiền mà mỗi người đã góp. Số tiền gửi chỉ được lấy ra khi công ty đã được cấp giấy chứng nhận đăng ký kinh doanh hoặc sau một năm, kể từ ngày được cấp giấy phép thành lập mà công ty không thành lập được;"
+ENTITY,E39_74,KHOAN,Khoản,structure,17801,17923,"6- Các sáng lập viên triệu tập đại hội đồng thành lập để thông qua điều lệ của công ty và các thủ tục cần thiết khác, khi:"
+ENTITY,E39_75,KHOAN,Khoản,structure,18881,18935,1- Đã thu hết tiền cổ phiếu phát hành trong đợt trước;
+ENTITY,E39_76,KHOAN,Khoản,structure,18936,19025,2- Chứng minh được hoạt động kinh doanh của công ty đang được quản lý tốt và có hiệu quả;
+ENTITY,E39_77,KHOAN,Khoản,structure,19026,19128,3- Được ngân hàng đảm nhiệm giúp đỡ dịch vụ ngân quỹ và kế toán liên quan đến việc phát hành cổ phiếu;
+ENTITY,E39_78,KHOAN,Khoản,structure,19129,19552,"4- Có chương trình và kế hoạch cụ thể công khai gọi vốn trong công chúng. Chương trình và kế hoạch này phải bảo đảm cho mọi người quan tâm hiểu rõ, hiểu đúng tình hình kinh doanh, thực trạng tình hình tài chính, triển vọng phát triển của công ty để họ có cơ sở quyết định mua cổ phiếu.
+Giấy phép phát hành cổ phiếu mới phải quy định rõ tổng số vốn gọi thêm, số cổ phiếu được phát hành, thời hạn thực hiện việc gọi thêm vốn."
+ENTITY,E39_79,KHOAN,Khoản,structure,19647,19697,1- Có phương án kinh doanh cụ thể đòi hỏi vốn lớn;
+ENTITY,E39_80,KHOAN,Khoản,structure,19698,19820,"2- Đã hoạt động ít nhất là hai năm và chứng minh được hoạt động kinh doanh của công ty đang được quản lý tốt, có hiệu quả;"
+ENTITY,E39_81,KHOAN,Khoản,structure,19821,20112,3- Được ngân hàng nơi công ty mở tài khoản chứng nhận số tiền còn lại ở ngân hàng và được cơ quan công chứng chứng nhận trị giá số tài sản bằng hiện vật của công ty đủ bảo đảm cho tổng số vốn dự định vay. Việc bảo đảm cho số vốn dự định vay còn có thể được một hoặc nhiều ngân hàng bảo lãnh;
+ENTITY,E39_82,KHOAN,Khoản,structure,20113,20479,"4- Được ngân hàng đảm nhiệm giúp đỡ dịch vụ ngân quỹ và kế toán liên quan đến việc phát hành trái phiếu.
+Giấy phép phát hành trái phiếu phải quy định rõ mức vốn được vay qua phát hành trái phiếu, mức lãi và thời hạn hoàn trả vốn.
+Trên mỗi trái phiếu phải ghi rõ số thứ tự, giá trị của trái phiếu, tổng số vốn huy động bằng trái phiếu, mức lãi và thời hạn thanh toán."
+ENTITY,E39_83,KHOAN,Khoản,structure,20558,20810,"1- Đại hội đồng thành lập được triệu tập để tiến hành các thủ tục thành lập, thảo luận và thông qua điều lệ công ty. Đại hội đồng thành lập phải có nhóm cổ đông đại diện cho ít nhất 3/4 số vốn điều lệ của công ty và biểu quyết theo đa số phiếu quá bán;"
+ENTITY,E39_84,KHOAN,Khoản,structure,20811,20880,2- Đại hội đồng bất thường được triệu tập để sửa đổi điều lệ công ty;
+ENTITY,E39_85,KHOAN,Khoản,structure,20881,21152,"3- Đại hội đồng thường được triệu tập vào cuối mỗi năm tài chính hoặc bất kỳ lúc nào mà hội đồng quản trị hoặc kiểm soát viên thấy cần thiết, để giải quyết các công việc thuộc hoạt động kinh doanh của công ty trong khuôn khổ điều lệ, trong đó có các việc chủ yếu sau đây:"
+ENTITY,E39_86,KHOAN,Khoản,structure,23454,23582,"1- Kiểm tra sổ sách kế toán, tài sản, các bảng tổng kết năm chính của công ty và triệu tập đại hội đồng, khi xét thấy cần thiết;"
+ENTITY,E39_87,KHOAN,Khoản,structure,23583,23666,2- Trình đại hội đồng báo cáo thẩm tra các bảng tổng kết năm tài chính của công ty;
+ENTITY,E39_88,KHOAN,Khoản,structure,23667,23795,"3- Báo cáo về những sự kiện tài chính bất thường xảy ra; về những ưu, khuyết điểm trong quản lý tài chính của hội đồng quản trị."
+ENTITY,E40_1,DIEM,Điểm,structure,13749,13796,a) Phương hướng và nhiệm vụ phát triển công ty;
+ENTITY,E40_2,DIEM,Điểm,structure,13797,13836,b) Cử hoặc miễn nhiệm giám đốc công ty;
+ENTITY,E40_3,DIEM,Điểm,structure,13837,13864,c) Sửa đổi điều lệ công ty;
+ENTITY,E40_4,DIEM,Điểm,structure,13865,13945,d) Thông qua quyết toán năm tài chính và phân chia lợi nhuận cho các thành viên;
+ENTITY,E40_5,DIEM,Điểm,structure,13946,13968,đ) Sử dụng quỹ dự trữ;
+ENTITY,E40_6,DIEM,Điểm,structure,13969,14155,"e) Sáp nhập, chuyển đổi hình thức, giải thể hoặc gia hạn hoạt động của công ty.
+Thể thức thông qua quyết định về các vấn đề nói tại khoản này phải được quy định rõ trong điều lệ công ty."
+ENTITY,E40_7,DIEM,Điểm,structure,16917,16932,a) Tên công ty;
+ENTITY,E40_8,DIEM,Điểm,structure,16933,16967,b) Mục tiêu hoạt động của công ty;
+ENTITY,E40_9,DIEM,Điểm,structure,16968,16998,c) Trụ sở dự định của công ty;
+ENTITY,E40_10,DIEM,Điểm,structure,16999,17022,d) Tổng số vốn gọi góp;
+ENTITY,E40_11,DIEM,Điểm,structure,17023,17061,đ) Tổng số cổ phiếu dự tính phát hành;
+ENTITY,E40_12,DIEM,Điểm,structure,17062,17088,e) Nơi gửi số tiền đã góp;
+ENTITY,E40_13,DIEM,Điểm,structure,17089,17124,g) Ngày và nơi nộp dự thảo điều lệ;
+ENTITY,E40_14,DIEM,Điểm,structure,17125,17398,"h) Họ, tên, tuổi, địa chỉ thường trú và nghề nghiệp của người đăng ký mua cổ phiếu và số cổ phiếu đăng ký mua; số cổ phiếu được đóng bằng tiền mặt, bằng hiện vật hoặc bản quyền sở hữu công nghiệp và cam kết đóng hết số còn lại theo quyết định gọi vốn của hội đồng quản trị;"
+ENTITY,E40_15,DIEM,Điểm,structure,17924,17981,a) Số cổ phiếu dự tính phát hành đã được đăng ký mua hết;
+ENTITY,E40_16,DIEM,Điểm,structure,17982,18128,b) Những người đăng ký mua cổ phiếu đã đóng bằng tiền mặt ít nhất 1/2 trị giá số cổ phiếu mà họ đăng đăng ký mua và cam kết đóng đủ bằng tiền mặt;
+ENTITY,E40_17,DIEM,Điểm,structure,18129,18221,"c) Tài sản bằng hiện vật, bản quyền sở hữu công nghiệp dùng để mua cổ phiếu đã được đóng đủ."
+ENTITY,E40_18,DIEM,Điểm,structure,21153,21241,"a) Quyết định phương hướng, nhiệm vụ phát triển công ty và kế hoạch kinh doanh hàng năm;"
+ENTITY,E40_19,DIEM,Điểm,structure,21242,21295,b) Thảo luận và thông qua bản tổng kết năm tài chính;
+ENTITY,E40_20,DIEM,Điểm,structure,21296,21360,"c) Bầu, bãi miễn thành viên hội đồng quản trị và kiểm soát viên;"
+ENTITY,E40_21,DIEM,Điểm,structure,21361,21533,"d) Quyết định số lợi nhuận trích lập các quỹ của công ty, số lợi nhuận chia cho các cổ đông, phân chia trách nhiệm về các thiệt hại xảy ra đối với công ty trong kinh doanh;"
+ENTITY,E40_22,DIEM,Điểm,structure,21534,21620,"đ) Xem xét, quyết định giải pháp khắc phục các biến động lớn về tài chính của công ty;"
+ENTITY,E40_23,DIEM,Điểm,structure,21621,21939,"e) Xem xét sai phạm của hội đồng quản trị gây thiệt hại cho công ty.
+Thể thức triệu tập các đại hội đồng, phần vốn điều lệ mà các cổ đông hoặc người được uỷ quyền tham dự phải có để các cuộc họp của đại hội đồng có giá trị và thể thức thông qua quyết định của đại hội đồng, phải được quy định rõ trong điều lệ công ty."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E2_1,E29_6,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E2_1,E29_7,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E2_1,E29_8,,
+RELATION,R17_9,DAN_CHIEU,Dẫn chiếu,E2_1,E29_9,,
+RELATION,R17_10,DAN_CHIEU,Dẫn chiếu,E2_1,E29_10,,
+RELATION,R17_11,DAN_CHIEU,Dẫn chiếu,E2_1,E29_11,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_1,E38_3,,
+RELATION,R22_7,THUOC,Thuộc,E39_2,E38_3,,
+RELATION,R22_8,THUOC,Thuộc,E39_3,E38_3,,
+RELATION,R22_9,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,R22_10,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_11,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_12,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_13,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_14,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_15,THUOC,Thuộc,E39_5,E38_8,,
+RELATION,R22_16,THUOC,Thuộc,E39_6,E38_8,,
+RELATION,R22_17,THUOC,Thuộc,E39_7,E38_8,,
+RELATION,R22_18,THUOC,Thuộc,E39_8,E38_8,,
+RELATION,R22_19,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,R22_20,THUOC,Thuộc,E38_10,E34_2,,
+RELATION,R22_21,THUOC,Thuộc,E39_9,E38_10,,
+RELATION,R22_22,THUOC,Thuộc,E39_10,E38_10,,
+RELATION,R22_23,THUOC,Thuộc,E39_11,E38_10,,
+RELATION,R22_24,THUOC,Thuộc,E39_12,E38_10,,
+RELATION,R22_25,THUOC,Thuộc,E39_13,E38_10,,
+RELATION,R22_26,THUOC,Thuộc,E39_14,E38_10,,
+RELATION,R22_27,THUOC,Thuộc,E39_15,E38_10,,
+RELATION,R22_28,THUOC,Thuộc,E39_16,E38_10,,
+RELATION,R22_29,THUOC,Thuộc,E39_17,E38_10,,
+RELATION,R22_30,THUOC,Thuộc,E38_11,E34_2,,
+RELATION,R22_31,THUOC,Thuộc,E39_18,E38_11,,
+RELATION,R22_32,THUOC,Thuộc,E39_19,E38_11,,
+RELATION,R22_33,THUOC,Thuộc,E39_20,E38_11,,
+RELATION,R22_34,THUOC,Thuộc,E39_21,E38_11,,
+RELATION,R22_35,THUOC,Thuộc,E39_22,E38_11,,
+RELATION,R22_36,THUOC,Thuộc,E39_23,E38_11,,
+RELATION,R22_37,THUOC,Thuộc,E39_24,E38_11,,
+RELATION,R22_38,THUOC,Thuộc,E38_12,E34_2,,
+RELATION,R22_39,THUOC,Thuộc,E39_25,E38_12,,
+RELATION,R22_40,THUOC,Thuộc,E39_26,E38_12,,
+RELATION,R22_41,THUOC,Thuộc,E39_27,E38_12,,
+RELATION,R22_42,THUOC,Thuộc,E39_28,E38_12,,
+RELATION,R22_43,THUOC,Thuộc,E39_29,E38_12,,
+RELATION,R22_44,THUOC,Thuộc,E39_30,E38_12,,
+RELATION,R22_45,THUOC,Thuộc,E39_31,E38_12,,
+RELATION,R22_46,THUOC,Thuộc,E38_13,E34_2,,
+RELATION,R22_47,THUOC,Thuộc,E39_32,E38_13,,
+RELATION,R22_48,THUOC,Thuộc,E39_33,E38_13,,
+RELATION,R22_49,THUOC,Thuộc,E39_34,E38_13,,
+RELATION,R22_50,THUOC,Thuộc,E39_35,E38_13,,
+RELATION,R22_51,THUOC,Thuộc,E39_36,E38_13,,
+RELATION,R22_52,THUOC,Thuộc,E39_37,E38_13,,
+RELATION,R22_53,THUOC,Thuộc,E39_38,E38_13,,
+RELATION,R22_54,THUOC,Thuộc,E35_2,E34_2,,
+RELATION,R22_55,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_56,THUOC,Thuộc,E39_39,E38_14,,
+RELATION,R22_57,THUOC,Thuộc,E39_40,E38_14,,
+RELATION,R22_58,THUOC,Thuộc,E39_41,E38_14,,
+RELATION,R22_59,THUOC,Thuộc,E39_42,E38_14,,
+RELATION,R22_60,THUOC,Thuộc,E39_43,E38_14,,
+RELATION,R22_61,THUOC,Thuộc,E39_44,E38_14,,
+RELATION,R22_62,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_63,THUOC,Thuộc,E39_45,E38_15,,
+RELATION,R22_64,THUOC,Thuộc,E39_46,E38_15,,
+RELATION,R22_65,THUOC,Thuộc,E39_47,E38_15,,
+RELATION,R22_66,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,R22_67,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_68,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,R22_69,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,R22_70,THUOC,Thuộc,E39_48,E38_19,,
+RELATION,R22_71,THUOC,Thuộc,E39_49,E38_19,,
+RELATION,R22_72,THUOC,Thuộc,E39_50,E38_19,,
+RELATION,R22_73,THUOC,Thuộc,E39_51,E38_19,,
+RELATION,R22_74,THUOC,Thuộc,E39_52,E38_19,,
+RELATION,R22_75,THUOC,Thuộc,E38_20,E35_2,,
+RELATION,R22_76,THUOC,Thuộc,E39_53,E38_20,,
+RELATION,R22_77,THUOC,Thuộc,E39_54,E38_20,,
+RELATION,R22_78,THUOC,Thuộc,E38_21,E35_2,,
+RELATION,R22_79,THUOC,Thuộc,E38_22,E35_2,,
+RELATION,R22_80,THUOC,Thuộc,E39_55,E38_22,,
+RELATION,R22_81,THUOC,Thuộc,E39_56,E38_22,,
+RELATION,R22_82,THUOC,Thuộc,E39_57,E38_22,,
+RELATION,R22_83,THUOC,Thuộc,E39_58,E38_22,,
+RELATION,R22_84,THUOC,Thuộc,E39_59,E38_22,,
+RELATION,R22_85,THUOC,Thuộc,E38_23,E35_2,,
+RELATION,R22_86,THUOC,Thuộc,E38_24,E35_2,,
+RELATION,R22_87,THUOC,Thuộc,E35_3,E34_2,,
+RELATION,R22_88,THUOC,Thuộc,E38_25,E35_3,,
+RELATION,R22_89,THUOC,Thuộc,E39_60,E38_25,,
+RELATION,R22_90,THUOC,Thuộc,E39_61,E38_25,,
+RELATION,R22_91,THUOC,Thuộc,E38_26,E35_3,,
+RELATION,R22_92,THUOC,Thuộc,E38_27,E35_3,,
+RELATION,R22_93,THUOC,Thuộc,E39_62,E38_27,,
+RELATION,R22_94,THUOC,Thuộc,E39_63,E38_27,,
+RELATION,R22_95,THUOC,Thuộc,E40_1,E39_63,,
+RELATION,R22_96,THUOC,Thuộc,E40_2,E39_63,,
+RELATION,R22_97,THUOC,Thuộc,E40_3,E39_63,,
+RELATION,R22_98,THUOC,Thuộc,E40_4,E39_63,,
+RELATION,R22_99,THUOC,Thuộc,E40_5,E39_63,,
+RELATION,R22_100,THUOC,Thuộc,E40_6,E39_63,,
+RELATION,R22_101,THUOC,Thuộc,E39_64,E38_27,,
+RELATION,R22_102,THUOC,Thuộc,E38_28,E35_3,,
+RELATION,R22_103,THUOC,Thuộc,E38_29,E35_3,,
+RELATION,R22_104,THUOC,Thuộc,E35_4,E34_2,,
+RELATION,R22_105,THUOC,Thuộc,E38_30,E35_4,,
+RELATION,R22_106,THUOC,Thuộc,E39_65,E38_30,,
+RELATION,R22_107,THUOC,Thuộc,E39_66,E38_30,,
+RELATION,R22_108,THUOC,Thuộc,E39_67,E38_30,,
+RELATION,R22_109,THUOC,Thuộc,E39_68,E38_30,,
+RELATION,R22_110,THUOC,Thuộc,E38_31,E35_4,,
+RELATION,R22_111,THUOC,Thuộc,E38_32,E35_4,,
+RELATION,R22_112,THUOC,Thuộc,E39_69,E38_32,,
+RELATION,R22_113,THUOC,Thuộc,E39_70,E38_32,,
+RELATION,R22_114,THUOC,Thuộc,E39_71,E38_32,,
+RELATION,R22_115,THUOC,Thuộc,E39_72,E38_32,,
+RELATION,R22_116,THUOC,Thuộc,E40_7,E39_72,,
+RELATION,R22_117,THUOC,Thuộc,E40_8,E39_72,,
+RELATION,R22_118,THUOC,Thuộc,E40_9,E39_72,,
+RELATION,R22_119,THUOC,Thuộc,E40_10,E39_72,,
+RELATION,R22_120,THUOC,Thuộc,E40_11,E39_72,,
+RELATION,R22_121,THUOC,Thuộc,E40_12,E39_72,,
+RELATION,R22_122,THUOC,Thuộc,E40_13,E39_72,,
+RELATION,R22_123,THUOC,Thuộc,E40_14,E39_72,,
+RELATION,R22_124,THUOC,Thuộc,E39_73,E38_32,,
+RELATION,R22_125,THUOC,Thuộc,E39_74,E38_32,,
+RELATION,R22_126,THUOC,Thuộc,E40_15,E39_74,,
+RELATION,R22_127,THUOC,Thuộc,E40_16,E39_74,,
+RELATION,R22_128,THUOC,Thuộc,E40_17,E39_74,,
+RELATION,R22_129,THUOC,Thuộc,E38_33,E35_4,,
+RELATION,R22_130,THUOC,Thuộc,E38_34,E35_4,,
+RELATION,R22_131,THUOC,Thuộc,E38_35,E35_4,,
+RELATION,R22_132,THUOC,Thuộc,E39_75,E38_35,,
+RELATION,R22_133,THUOC,Thuộc,E39_76,E38_35,,
+RELATION,R22_134,THUOC,Thuộc,E39_77,E38_35,,
+RELATION,R22_135,THUOC,Thuộc,E39_78,E38_35,,
+RELATION,R22_136,THUOC,Thuộc,E38_36,E35_4,,
+RELATION,R22_137,THUOC,Thuộc,E39_79,E38_36,,
+RELATION,R22_138,THUOC,Thuộc,E39_80,E38_36,,
+RELATION,R22_139,THUOC,Thuộc,E39_81,E38_36,,
+RELATION,R22_140,THUOC,Thuộc,E39_82,E38_36,,
+RELATION,R22_141,THUOC,Thuộc,E38_37,E35_4,,
+RELATION,R22_142,THUOC,Thuộc,E39_83,E38_37,,
+RELATION,R22_143,THUOC,Thuộc,E39_84,E38_37,,
+RELATION,R22_144,THUOC,Thuộc,E39_85,E38_37,,
+RELATION,R22_145,THUOC,Thuộc,E40_18,E39_85,,
+RELATION,R22_146,THUOC,Thuộc,E40_19,E39_85,,
+RELATION,R22_147,THUOC,Thuộc,E40_20,E39_85,,
+RELATION,R22_148,THUOC,Thuộc,E40_21,E39_85,,
+RELATION,R22_149,THUOC,Thuộc,E40_22,E39_85,,
+RELATION,R22_150,THUOC,Thuộc,E40_23,E39_85,,
+RELATION,R22_151,THUOC,Thuộc,E38_38,E35_4,,
+RELATION,R22_152,THUOC,Thuộc,E38_39,E35_4,,
+RELATION,R22_153,THUOC,Thuộc,E38_40,E35_4,,
+RELATION,R22_154,THUOC,Thuộc,E38_41,E35_4,,
+RELATION,R22_155,THUOC,Thuộc,E39_86,E38_41,,
+RELATION,R22_156,THUOC,Thuộc,E39_87,E38_41,,
+RELATION,R22_157,THUOC,Thuộc,E39_88,E38_41,,
+RELATION,R22_158,THUOC,Thuộc,E38_42,E35_4,,
+RELATION,R22_159,THUOC,Thuộc,E38_43,E35_4,,
+RELATION,R22_160,THUOC,Thuộc,E35_5,E34_2,,
+RELATION,R22_161,THUOC,Thuộc,E38_44,E35_5,,
+RELATION,R22_162,THUOC,Thuộc,E38_45,E35_5,,
+RELATION,R22_163,THUOC,Thuộc,E35_6,E34_2,,
+RELATION,R22_164,THUOC,Thuộc,E38_46,E35_6,,

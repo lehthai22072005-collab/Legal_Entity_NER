@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "document_id": "16717",
+  "document_code": "32/2005/L-CTN",
+  "file_name": "32_2005_L-CTN_16717.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 32/2005/L-CTN Về việc công bố Luật",
+    "so_hieu": "32/2005/L-CTN",
+    "loai_van_ban": "Lệnh",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại",
+    "ngay_ban_hanh": "2005-12-12",
+    "ngay_co_hieu_luc": "2006-02-26",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "co_quan_ban_hanh": "Chủ tịch nước",
+    "chuc_danh": "Chủ tịch",
+    "nguoi_ky": "Trần Đức Lương"
+  },
+  "full_text": "Lệnh số 32/2005/L-CTN Về việc công bố Luật\nCHỦ TỊCH NƯỚC\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\nSố: 32/2005/L-CTN\nHà Nội, ngày 12 tháng 12 năm 2005\nLỆNH\nVề việc công bố Luật\nCHỦ TỊCH NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 103 và Điều 106 của Hiếp pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25/12/2001 của Quốc hội Khoá X, kỳ họp thứ 10;\nCăn cứ vào Điều 91 của Luật Tổ chức Quốc hội;\nCăn cứ vào Điều 50 của Luật Ban hành văn bản quy phạm pháp luật,\nNAY CÔNG BỐ:\nLuật Đầu tư.\nĐã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam Khoá XI, kỳ họp thứ 8 thông qua ngày 29 tháng 11 năm 2005./.\nCHỦ TỊCH NƯỚC\n(Đã ký)\nTrần Đức Lương\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày ban hành]: 2005-12-12\n[Ngày có hiệu lực]: 2006-02-26\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Luật Ban hành Văn bản quy phạm pháp luật số Không số\n[Căn cứ ban hành]: Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 30/2001/QH10\n[Văn bản áp dụng]: Quyết định số 05/2007/QĐ-UBND Ban hành quy định về trình tự, thời gian lập thủ tục đầu tư, kế \nhoạch đầu tư, chống lãng phí, thất thoát và nợ đọng trong quản lý \nđầu tư xây dựng công trình trên địa bàn tỉnh Vĩnh Long\n[Văn bản được dẫn chiếu]: Luật Đầu tư số 59/2005/QH11",
+  "structural_units": [
+    {
+      "id": "unit_preamble",
+      "type": "PREAMBLE",
+      "title": "Phần mở đầu và Căn cứ ban hành",
+      "start": 0,
+      "end": 738,
+      "parent_id": null
+    }
+  ],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 42,
+      "text": "Lệnh số 32/2005/L-CTN Về việc công bố Luật",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 21,
+      "text": "32/2005/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 835,
+      "end": 845,
+      "text": "2005-12-12",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 803,
+      "end": 817,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 866,
+      "end": 876,
+      "text": "2006-02-26",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 900,
+      "end": 912,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 43,
+      "end": 56,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 43,
+      "end": 51,
+      "text": "CHỦ TỊCH",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 724,
+      "end": 738,
+      "text": "Trần Đức Lương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E19_1",
+      "start": 932,
+      "end": 984,
+      "text": "Luật Ban hành Văn bản quy phạm pháp luật số Không số",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 1004,
+      "end": 1050,
+      "text": "Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 1070,
+      "end": 1107,
+      "text": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_1",
+      "start": 1127,
+      "end": 1343,
+      "text": "Quyết định số 05/2007/QĐ-UBND Ban hành quy định về trình tự, thời gian lập thủ tục đầu tư, kế \nhoạch đầu tư, chống lãng phí, thất thoát và nợ đọng trong quản lý \nđầu tư xây dựng công trình trên địa bàn tỉnh Vĩnh Long",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    },
+    {
+      "id": "E18_1",
+      "start": 1370,
+      "end": 1397,
+      "text": "Luật Đầu tư số 59/2005/QH11",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "RCAN_CU_BAN_HANH_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "RCAN_CU_BAN_HANH_2",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "RCAN_CU_BAN_HANH_3",
+      "from_id": "E19_3",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "RAP_DUNG_1",
+      "from_id": "E30_1",
+      "to_id": "E2_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "RDUOC_DAN_CHIEU_1",
+      "from_id": "E18_1",
+      "to_id": "E2_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": [],
+    "annotation_status": "silver_automated_not_gold",
+    "source_vbpl_item_id": "16717",
+    "source_folder": "32_2005_L-CTN_16717",
+    "source_data_url": "https://vbpl.vn/van-ban/chi-tiet/lenh-so-32-2005-l-ctn-ve-viec-cong-bo-luat--16717",
+    "vbpl_relation_provenance": [
+      {
+        "source_label": "Căn cứ ban hành",
+        "original_direction": "outgoing",
+        "other_document_id": "9028",
+        "other_title": "Luật Ban hành Văn bản quy phạm pháp luật số Không số",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/9028"
+      },
+      {
+        "source_label": "Căn cứ ban hành",
+        "original_direction": "outgoing",
+        "other_document_id": "22313",
+        "other_title": "Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/22313"
+      },
+      {
+        "source_label": "Căn cứ ban hành",
+        "original_direction": "outgoing",
+        "other_document_id": "22840",
+        "other_title": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/22840"
+      },
+      {
+        "source_label": "Văn bản áp dụng",
+        "original_direction": "incoming",
+        "other_document_id": "40906",
+        "other_title": "Quyết định số 05/2007/QĐ-UBND Ban hành quy định về trình tự, thời gian lập thủ tục đầu tư, kế \nhoạch đầu tư, chống lãng phí, thất thoát và nợ đọng trong quản lý \nđầu tư xây dựng công trình trên địa bàn tỉnh Vĩnh Long",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/40906"
+      },
+      {
+        "source_label": "Văn bản được dẫn chiếu",
+        "original_direction": "outgoing",
+        "other_document_id": "16718",
+        "other_title": "Luật Đầu tư số 59/2005/QH11",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/16718"
+      }
+    ],
+    "generation_notes": []
+  }
+}

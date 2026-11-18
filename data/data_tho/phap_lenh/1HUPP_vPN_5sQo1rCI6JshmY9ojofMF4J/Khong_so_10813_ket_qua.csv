@@ -1,0 +1,175 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,44,Pháp lệnh số Không số Tổ chức Toà án quân sự
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,45,54,PHÁP LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,16820,16830,1993-04-19
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,16843,16857,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,16878,16888,1993-04-26
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,16910,16920,2002-12-15
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,16944,16964,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,16985,17010,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,17024,17032,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,17045,17058,Nông Đức Mạnh
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,17078,17118,Luật Tổ chức Tòa án nhân dân số Không số
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,17138,17156,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,17206,17289,Thông tư liên tịch số 01/TTLN Hướng dẫn về thẩm quyền xét xử của các Toà án Quân sự
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,17311,17373,Pháp lệnh số 11/L-CTN Công bố Pháp lệnh Tổ chức Toà án quân sự
+ENTITY,E35_1,CHUONG,Chương,structure,336,344,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,5598,5607,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,11511,11521,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,14534,14543,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,16454,16462,CHƯƠNG V
+ENTITY,E36_1,MUC,Mục,structure,10798,10803,MỤC C
+ENTITY,E38_1,DIEU,Điều,structure,366,372,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1185,1191,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1585,1591,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,2106,2112,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,2514,2520,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,2932,2938,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,3038,3044,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,3206,3212,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,3293,3299,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,3431,3438,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,3578,3585,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,3689,3696,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,3815,3822,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,4338,4345,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,4856,4863,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,5120,5127,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,5696,5703,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,5889,5896,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,6674,6681,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,7619,7626,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,8383,8390,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,8507,8514,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,9017,9024,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,10070,10077,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,10827,10834,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,11242,11249,Điều 26
+ENTITY,E38_27,DIEU,Điều,structure,11554,11561,Điều 27
+ENTITY,E38_28,DIEU,Điều,structure,12253,12260,Điều 28
+ENTITY,E38_29,DIEU,Điều,structure,12450,12457,Điều 29
+ENTITY,E38_30,DIEU,Điều,structure,12909,12916,Điều 30
+ENTITY,E38_31,DIEU,Điều,structure,13807,13814,Điều 31
+ENTITY,E38_32,DIEU,Điều,structure,14041,14048,Điều 32
+ENTITY,E38_33,DIEU,Điều,structure,14586,14593,Điều 33
+ENTITY,E38_34,DIEU,Điều,structure,15206,15213,Điều 34
+ENTITY,E38_35,DIEU,Điều,structure,15404,15411,Điều 35
+ENTITY,E38_36,DIEU,Điều,structure,15794,15801,Điều 36
+ENTITY,E38_37,DIEU,Điều,structure,16028,16035,Điều 37
+ENTITY,E38_38,DIEU,Điều,structure,16232,16239,Điều 38
+ENTITY,E38_39,DIEU,Điều,structure,16483,16490,Điều 39
+ENTITY,E38_40,DIEU,Điều,structure,16637,16644,Điều 40
+ENTITY,E39_1,KHOAN,Khoản,structure,1192,1221,1- Các Toà án quân sự gồm có:
+ENTITY,E39_2,KHOAN,Khoản,structure,1327,1584,"2- Căn cứ vào nhiệm vụ và tổ chức của quân đội, Bộ trưởng Bộ Tư pháp sau khi đã thống nhất ý kiến với Bộ trưởng Bộ quốc phòng và Chánh án Toà án nhân dân tối cao, quyết định thành lập, giải thể Toà án quân sự quân khu và tương đương, Toà án quân sự khu vực."
+ENTITY,E39_3,KHOAN,Khoản,structure,1666,1960,"1- Quân nhân tại ngũ, công nhân, nhân viên quốc phòng, quân nhân dự bị trong thời gian tập trung huấn luyện hoặc kiểm tra tình trạng sẵn sàng chiến đấu, dân quân tự vệ phối thuộc chiến đấu với quân đội và những người được trưng tập làm nhiệm vụ quân sự do các đơn vị quân đội trực tiếp quản lý."
+ENTITY,E39_4,KHOAN,Khoản,structure,1961,2105,2- Những người không thuộc các đối tượng quy định tại khoản 1 Điều này phạm tội có liên quan đến bí mật quân sự hoặc gây thiệt hai cho quân đội.
+ENTITY,E39_5,KHOAN,Khoản,structure,5704,5782,1- Toà án quân sự trung ương thuộc cơ cấu tổ chức của Toà án nhân dân tối cao.
+ENTITY,E39_6,KHOAN,Khoản,structure,5783,5888,"2- Toà án quân sự trung ương có Chánh án, các Phó Chánh án, Thẩm phán, Hội thẩm quân nhân, Thư ký Toà án."
+ENTITY,E39_7,KHOAN,Khoản,structure,5897,5940,1- Toà án quân sự trung ương có thẩm quyền:
+ENTITY,E39_8,KHOAN,Khoản,structure,6591,6673,2- Toà án quân sự trung ương giám đốc việc xét xử của các Toà án quân sự cấp dưới.
+ENTITY,E39_9,KHOAN,Khoản,structure,6682,6731,1- Toà án quân sự trung ương có Uỷ ban Thẩm phán.
+ENTITY,E39_10,KHOAN,Khoản,structure,6732,6785,2- Uỷ ban Thẩm phán Toà án quân sự trung ương gồm có:
+ENTITY,E39_11,KHOAN,Khoản,structure,6981,7058,"3- Uỷ ban Thẩm phán Toà án quân sự trung ương có nhiệm vụ, quyền hạn sau đây:"
+ENTITY,E39_12,KHOAN,Khoản,structure,7499,7618,4- Quyết định của Uỷ ban Thẩm phán Toà án quân sự trung ương phải được quá nửa tổng số thành viên biểu quyết tán thành.
+ENTITY,E39_13,KHOAN,Khoản,structure,7627,7696,"1- Chánh án Toà án quân sự trung ương có nhiệm vụ, quyền hạn sau đây:"
+ENTITY,E39_14,KHOAN,Khoản,structure,8263,8337,2- Phó Chánh án giúp Chánh án làm nhiệm vụ theo sự phân công của Chánh án.
+ENTITY,E39_15,KHOAN,Khoản,structure,8569,8759,1- Sơ thẩm những vụ án không thuộc thẩm quyền của các Toà án quân sự khu vực và những vụ án thuộc thẩm quyền của các Toà án đó nhưng Toà án quân sự quân khu và tương đương lấy lên để xét xử;
+ENTITY,E39_16,KHOAN,Khoản,structure,8760,8887,"2- Phúc thẩm những vụ án mà bản án, quyết định chưa có hiệu lực pháp luật của Toà án quân sự cấp dưới bị kháng cáo, kháng nghị;"
+ENTITY,E39_17,KHOAN,Khoản,structure,8888,9016,"3- Giám đốc thẩm, tái thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật của Toà án quân sự cấp dưới bị kháng nghị."
+ENTITY,E39_18,KHOAN,Khoản,structure,9025,9087,1- Toà án quân sự quân khu và tương đương có Uỷ ban thẩm phán.
+ENTITY,E39_19,KHOAN,Khoản,structure,9088,9162,2- Uỷ ban Thẩm phán Toà án quân sự quân sự quân khu và tương đương gồm có:
+ENTITY,E39_20,KHOAN,Khoản,structure,9359,9449,"3- Uỷ ban Thẩm phán Toà án quân sự quân khu và tương đương có nhiệm vụ, quyền hạn sau đây:"
+ENTITY,E39_21,KHOAN,Khoản,structure,9937,10069,4- Quyết định của Uỷ ban Thẩm phán Toà án quân sự quân khu và tương đương phải được quá nửa tổng số thành viên biểu quyết tán thành.
+ENTITY,E39_22,KHOAN,Khoản,structure,10078,10162,1- Chánh án Toà án quân sự quân khu và tương đương có nhiệm vụ và quyền hạn sau đây:
+ENTITY,E39_23,KHOAN,Khoản,structure,10723,10797,2- Phó Chánh án giúp Chánh án làm nhiệm vụ theo sự phân công của Chánh án.
+ENTITY,E39_24,KHOAN,Khoản,structure,10835,10937,"1- Toà án quân sự khu vực có Chánh án, các Phó chánh án, Thẩm phán, Hội thẩm quân nhân, Thư ký Toà án."
+ENTITY,E39_25,KHOAN,Khoản,structure,10938,11241,2- Toà án quân sự khu vực có thẩm quyền sơ thẩm những vụ án hình sự về những tội phạm theo quy định tại Điều 145 của Bộ luật tố tụng hình sự mà bị cáo khi phạm tội hoặc khi bị khởi tố có quân hàm từ thiếu tá trở xuống hoặc là người có chức vụ từ Phó chỉ huy trưởng trung đoàn hoặc tương đương trở xuống.
+ENTITY,E39_26,KHOAN,Khoản,structure,11250,11316,"1- Chánh án Toà án quân sự khu vực có nhiệm vụ, quyền hạn sau đây:"
+ENTITY,E39_27,KHOAN,Khoản,structure,11436,11510,2- Phó Chánh án giúp Chánh án làm nhiệm vụ theo sự phân công của Chánh án.
+ENTITY,E40_1,DIEM,Điểm,structure,5941,6305,"a) Sơ thẩm đồng thời chung thẩm những vụ án đặc biệt nghiêm trọng, phức tạp; những vụ án mà bị cáo khi phạm tội hoặc khi bị khởi tố có quân hàm cấp tướng hoặc là người có chức vụ Chỉ huy trưởng sư đoàn, Cục trưởng và cấp tương đương trở lên; những vụ án thuộc thẩm quyền của Toà án quân sự quân khu và tương đương nhưng Toà án quân sự trung ương lấy lên để xét xử."
+ENTITY,E40_2,DIEM,Điểm,structure,6306,6447,"b) Phúc thẩm những vụ án mà bản án, quyết định chưa có hiệu lực pháp luật của các Toà án quân sự cấp dưới trực tiếp bị kháng cáo, kháng nghị;"
+ENTITY,E40_3,DIEM,Điểm,structure,6448,6590,"c) Giám đốc thẩm, tái thẩm những vụ án mà bản án, quyết định đã có hiệu lực pháp luật của các Toà án quân sự cấp dưới trực tiếp bị kháng nghị."
+ENTITY,E41_1,VB_DUOC_THAY_THE,Văn bản được thay thế,reference,0,44,Pháp lệnh số Không số Tổ chức Toà án quân sự
+ENTITY,E41_2,VB_DUOC_THAY_THE,Văn bản được thay thế,reference,17399,17490,"Pháp lệnh số 35-LCT/HĐNN8 Sửa đổi, bổ sung một số điều của Pháp lệnh tổ chức Toà án quân sự"
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,17511,17566,Pháp lệnh số 04/2002/PL-UBTVQH11 Tổ chức Tòa án quân sự
+ENTITY,E44_1,VB_SUA_DOI_BO_SUNG,Văn bản sửa đổi bổ sung,reference,17594,17679,Pháp lệnh số 25/2000/PL-UBTVQH10 Sửa đổi Điều 18 của Pháp lệnh tổ chức Tòa án quân sự
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,RDAN_CHIEU_1,DAN_CHIEU,dẫn chiếu,E29_1,E2_1,,
+RELATION,RDUOC_THAY_THE_1,DUOC_THAY_THE,được thay thế,E41_1,E2_1,,
+RELATION,RDUOC_THAY_THE_2,DUOC_THAY_THE,được thay thế,E41_2,E2_1,,
+RELATION,RQUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,RSUA_DOI_BO_SUNG_1,SUA_DOI_BO_SUNG,sửa đổi bổ sung,E44_1,E2_1,,
+RELATION,RTHAY_THE_1,THAY_THE,thay thế,E43_1,E2_1,,
+RELATION,RTHUOC_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,RTHUOC_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,RTHUOC_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,RTHUOC_4,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,RTHUOC_5,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,RTHUOC_6,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,RTHUOC_7,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,RTHUOC_8,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,RTHUOC_9,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,RTHUOC_10,THUOC,Thuộc,E38_10,E35_1,,
+RELATION,RTHUOC_11,THUOC,Thuộc,E38_11,E35_1,,
+RELATION,RTHUOC_12,THUOC,Thuộc,E38_12,E35_1,,
+RELATION,RTHUOC_13,THUOC,Thuộc,E38_13,E35_1,,
+RELATION,RTHUOC_14,THUOC,Thuộc,E38_14,E35_1,,
+RELATION,RTHUOC_15,THUOC,Thuộc,E38_15,E35_1,,
+RELATION,RTHUOC_16,THUOC,Thuộc,E38_16,E35_1,,
+RELATION,RTHUOC_17,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,RTHUOC_18,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,RTHUOC_19,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,RTHUOC_20,THUOC,Thuộc,E38_20,E35_2,,
+RELATION,RTHUOC_21,THUOC,Thuộc,E38_21,E35_2,,
+RELATION,RTHUOC_22,THUOC,Thuộc,E38_22,E35_2,,
+RELATION,RTHUOC_23,THUOC,Thuộc,E38_23,E35_2,,
+RELATION,RTHUOC_24,THUOC,Thuộc,E38_24,E35_2,,
+RELATION,RTHUOC_25,THUOC,Thuộc,E36_1,E35_2,,
+RELATION,RTHUOC_26,THUOC,Thuộc,E38_25,E36_1,,
+RELATION,RTHUOC_27,THUOC,Thuộc,E38_26,E36_1,,
+RELATION,RTHUOC_28,THUOC,Thuộc,E38_27,E35_3,,
+RELATION,RTHUOC_29,THUOC,Thuộc,E38_28,E35_3,,
+RELATION,RTHUOC_30,THUOC,Thuộc,E38_29,E35_3,,
+RELATION,RTHUOC_31,THUOC,Thuộc,E38_30,E35_3,,
+RELATION,RTHUOC_32,THUOC,Thuộc,E38_31,E35_3,,
+RELATION,RTHUOC_33,THUOC,Thuộc,E38_32,E35_3,,
+RELATION,RTHUOC_34,THUOC,Thuộc,E38_33,E35_4,,
+RELATION,RTHUOC_35,THUOC,Thuộc,E38_34,E35_4,,
+RELATION,RTHUOC_36,THUOC,Thuộc,E38_35,E35_4,,
+RELATION,RTHUOC_37,THUOC,Thuộc,E38_36,E35_4,,
+RELATION,RTHUOC_38,THUOC,Thuộc,E38_37,E35_4,,
+RELATION,RTHUOC_39,THUOC,Thuộc,E38_38,E35_4,,
+RELATION,RTHUOC_40,THUOC,Thuộc,E38_39,E35_5,,
+RELATION,RTHUOC_41,THUOC,Thuộc,E38_40,E35_5,,
+RELATION,RTHUOC_42,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,RTHUOC_43,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,RTHUOC_44,THUOC,Thuộc,E39_3,E38_3,,
+RELATION,RTHUOC_45,THUOC,Thuộc,E39_4,E38_3,,
+RELATION,RTHUOC_46,THUOC,Thuộc,E39_5,E38_17,,
+RELATION,RTHUOC_47,THUOC,Thuộc,E39_6,E38_17,,
+RELATION,RTHUOC_48,THUOC,Thuộc,E39_7,E38_18,,
+RELATION,RTHUOC_49,THUOC,Thuộc,E40_1,E38_18,,
+RELATION,RTHUOC_50,THUOC,Thuộc,E40_2,E38_18,,
+RELATION,RTHUOC_51,THUOC,Thuộc,E40_3,E38_18,,
+RELATION,RTHUOC_52,THUOC,Thuộc,E39_8,E38_18,,
+RELATION,RTHUOC_53,THUOC,Thuộc,E39_9,E38_19,,
+RELATION,RTHUOC_54,THUOC,Thuộc,E39_10,E38_19,,
+RELATION,RTHUOC_55,THUOC,Thuộc,E39_11,E38_19,,
+RELATION,RTHUOC_56,THUOC,Thuộc,E39_12,E38_19,,
+RELATION,RTHUOC_57,THUOC,Thuộc,E39_13,E38_20,,
+RELATION,RTHUOC_58,THUOC,Thuộc,E39_14,E38_20,,
+RELATION,RTHUOC_59,THUOC,Thuộc,E39_15,E38_22,,
+RELATION,RTHUOC_60,THUOC,Thuộc,E39_16,E38_22,,
+RELATION,RTHUOC_61,THUOC,Thuộc,E39_17,E38_22,,
+RELATION,RTHUOC_62,THUOC,Thuộc,E39_18,E38_23,,
+RELATION,RTHUOC_63,THUOC,Thuộc,E39_19,E38_23,,
+RELATION,RTHUOC_64,THUOC,Thuộc,E39_20,E38_23,,
+RELATION,RTHUOC_65,THUOC,Thuộc,E39_21,E38_23,,
+RELATION,RTHUOC_66,THUOC,Thuộc,E39_22,E38_24,,
+RELATION,RTHUOC_67,THUOC,Thuộc,E39_23,E38_24,,
+RELATION,RTHUOC_68,THUOC,Thuộc,E39_24,E38_25,,
+RELATION,RTHUOC_69,THUOC,Thuộc,E39_25,E38_25,,
+RELATION,RTHUOC_70,THUOC,Thuộc,E39_26,E38_26,,
+RELATION,RTHUOC_71,THUOC,Thuộc,E39_27,E38_26,,

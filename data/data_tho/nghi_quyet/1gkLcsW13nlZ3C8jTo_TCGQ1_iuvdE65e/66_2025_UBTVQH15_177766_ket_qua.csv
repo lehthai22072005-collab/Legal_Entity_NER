@@ -1,0 +1,44 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,560,977,"NGHỊ QUYẾT
+Sửa đổi, bổ sung một số nội dung của Nghị quyết số 730/2004/NQ-UBTVQH11 của Ủy ban Thường vụ Quốc hội về việc phê chuẩn bảng lương chức vụ, bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước; bảng lương chuyên môn, nghiệp vụ ngành Tòa án, ngành Kiểm sát đã được sửa đổi, bổ sung một số nội dung theo Nghị quyết số 823/2009/UBTVQH12,Nghị quyết số 973/2015/UBTVQH13 và Nghị quyết số 1212/2016/UBTVQH13"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,543,559,66/2025/UBTVQH15
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,560,570,NGHỊ QUYẾT
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,3097,3123,ngày 06 tháng 02 năm 2025.
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,3250,3264,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,3097,3123,ngày 06 tháng 02 năm 2025.
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,3288,3300,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,439,464,"UỶ BAN THƯỜNG VỤ
+QUỐC HỘI"
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,3154,3162,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,3171,3185,Trần Thanh Mẫn
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,608,831,"Nghị quyết số 730/2004/NQ-UBTVQH11 của Ủy ban Thường vụ Quốc hội về việc phê chuẩn bảng lương chức vụ, bảng phụ cấp chức vụ đối với cán bộ lãnh đạo của Nhà nước; bảng lương chuyên môn, nghiệp vụ ngành Tòa án, ngành Kiểm sát"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1011,1060,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1069,1169,"Luật Tổ chức Quốc hội số 57/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 65/2020/QH14"
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1178,1223,"Luật Tổ chức Tòa án nhân dân số 34/2024/QH15,"
+ENTITY,E38_1,DIEU,Điều,structure,1236,1383,"Điều 1. Sửa đổi, bổ sung một số nội dung của Ghi chú tại bảng lương chuyên môn, nghiệp vụ ngành Tòa án, ngành Kiểm sát ban hành kèm theo Nghị quyết"
+ENTITY,E38_2,DIEU,Điều,structure,2369,2586,"Điều 2. Sửa đổi, bổ sung về chức danh và hệ số phụ cấp tại tiết g và tiết i điểm 11 mục I của bảng phụ cấp chức vụ đối với lãnh đạo của Nhà nước và đại biểu Quốc hội hoạt động chuyên trách ban hành kèm theo Nghị quyết"
+ENTITY,E38_3,DIEU,Điều,structure,2784,2811,Điều 3. Điều khoản thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,1384,1507,"1. Thay cụm từ ""Thẩm phán cao cấp"" bằng cụm từ ""Thẩm phán Tòa án nhân dân bậc 3"" tại gạch đầu dòng thứ nhất mục 1 và mục 8."
+ENTITY,E39_2,KHOAN,Khoản,structure,1508,1638,"2. Thay cụm từ ""Thẩm phán Tòa án nhân dân cấp tỉnh"" bằng cụm từ ""Thẩm phán Tòa án nhân dân bậc 2"" tại gạch đầu dòng thứ hai mục 1."
+ENTITY,E39_3,KHOAN,Khoản,structure,1639,1778,"3. Thay cụm từ ""Thẩm phán Tòa án nhân dân cấp huyện"" bằng cụm từ ""Thẩm phán Tòa án nhân dân bậc 1"" tại gạch đầu dòng thứ ba mục 1 và mục 4."
+ENTITY,E39_4,KHOAN,Khoản,structure,1779,1876,"4. Thay cụm từ ""Thư ký Tòa án"" bằng cụm từ ""Thư ký viên"" tại gạch đầu dòng thứ ba mục 1 và mục 5."
+ENTITY,E39_5,KHOAN,Khoản,structure,1877,1989,"5. Bổ sung cụm từ ""Thư ký viên cao cấp"" vào sau cụm từ ""Thẩm tra viên cao cấp"" tại gạch đầu dòng thứ nhất mục 1."
+ENTITY,E39_6,KHOAN,Khoản,structure,1990,2097,"6. Bổ sung cụm từ ""Thư ký viên chính"" vào sau cụm từ ""Thẩm tra viên chính"" tại gạch đầu dòng thứ hai mục 1."
+ENTITY,E39_7,KHOAN,Khoản,structure,2098,2368,"7. Bổ sung vào mục 7 nội dung: ""Thẩm phán cao cấp, Thẩm phán trung cấp, Thẩm phán sơ cấp khi chuyển thành Thẩm phán Tòa án nhân dân bậc 3, Thẩm phán Tòa án nhân dân bậc 2, Thẩm phán Tòa án nhân dân bậc 1 được chuyển xếp lương tương ứng với hệ số lương đang được hưởng.""."
+ENTITY,E39_8,KHOAN,Khoản,structure,2812,2869,1. Nghị quyết này có hiệu lực thi hành từ ngày thông qua.
+ENTITY,E39_9,KHOAN,Khoản,structure,2870,2974,"2. Chính phủ, Tòa án nhân dân tối cao và các cơ quan liên quan có trách nhiệm thi hành Nghị quyết này./."
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_8,E38_3,,
+RELATION,R22_9,THUOC,Thuộc,E39_9,E38_3,,
+RELATION,R22_10,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_11,THUOC,Thuộc,E11_1,E10_1,,

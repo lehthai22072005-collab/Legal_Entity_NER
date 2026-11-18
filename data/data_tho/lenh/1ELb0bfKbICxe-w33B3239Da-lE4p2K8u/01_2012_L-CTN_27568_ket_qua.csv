@@ -1,0 +1,20 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,246,259,01/2012/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,293,297,LỆNH
+ENTITY,E4_1,NGANH,Ngành,metadata,992,999,Tư pháp
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,268,292,ngày 05 tháng 4 năm 2012
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1012,1026,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,268,292,ngày 05 tháng 4 năm 2012
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1050,1062,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,151,164,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,866,879,"CHỦ TỊCH
+NƯỚC"
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,915,930,Trương Tấn Sang
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,405,463,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,644,684,Luật Ban hành văn bản quy phạm pháp luật
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,602,623,Luật Tổ chức Quốc hội
+ENTITY,E19_4,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,494,520,Nghị quyết số 51/2001/QH10
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R7_4,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_4,E2_1,,

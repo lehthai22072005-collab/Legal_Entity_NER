@@ -1,0 +1,11 @@
+{
+  "epoch": 11,
+  "seed": 20261117,
+  "thresholds": {
+    "boundary_threshold": 0.5,
+    "span_threshold": 0.5
+  },
+  "decoder_topk": 2964,
+  "selected_on": "Validation mean entity Micro/Macro F1",
+  "official_pretrained_only": true
+}

@@ -1,0 +1,191 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,272,375,"NGHỊ QUYẾT CỦA QUỐC HỘI
+Về cơ cấu tổ chức của Chính phủ và số Phó Thủ tướng
+Chính phủ nhiệm kỳ khoá XII"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,135,147,01/2007/QH12
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,272,282,NGHỊ QUYẾT
+ENTITY,E4_1,NGANH,Ngành,metadata,2371,2397,Tổ chức - Cán bộ Chính phủ
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,246,271,ngày 31 tháng 07 năm 2007
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,2410,2424,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,2445,2455,2007-08-28
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,2479,2491,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,107,115,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,2267,2284,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,2293,2309,Nguyễn Phú Trọng
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,641,669,Điều 2 Luật tổ chức Quốc hội
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,678,708,Điều 2 Luật tổ chức Chính phủ;
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,716,747,Điều 29 Nội quy kỳ họp Quốc hội
+ENTITY,E19_4,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,756,876,"Tờ trình số 19/TTr-TTg ngày 26/07/2007 của Thủ tướng Chính phủ đề nghị Quốc hội quyết định cơ cấu tổ chức của Chính phủ,"
+ENTITY,E19_5,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,432,633,"Điều 84 và Điều 114 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khoá X, kỳ họp thứ 10;"
+ENTITY,E19_6,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,2511,2534,Resolution 51/2001/QH10
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2584,2635,Thông tư số 05/2007/TT-BCT Hướng dẫn xuất khẩu than
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2685,2764,Quyết định số 004/2007/QĐ-BCT Về việc tổ chức nhập khẩu và lưu thông dầu Diesel
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,2814,2960,"Quyết định số 140/2009/QĐ-TTg Về bảo lưu phụ cấp chức vụ lãnh đạo đối với các chức danh lãnh đạo trong quá trình sắp xếp, kiện toàn tổ chức bộ máy"
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3010,3264,"Quyết định số 1000/QĐ-TTg Về việc chuyển chức năng, nhiệm vụ quản lý nhà nước về báo chí, xuất bản và chuyển tổ chức biên chế cán bộ, công chức, viên chức làm công tác báo chí, xuất bản từ bộ văn hoá, thể thao và du lịch sang bộ thông tin và truyền thông"
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3314,3464,"Thông tư liên tịch số 02/2007/TTLT-BCT-BTNMT Hướng dẫn thực hiện Điều 43 Luật Bảo vệ môi trường về tiêu chuẩn, điều kiện kinh doanh nhập khẩu phế liệu"
+ENTITY,E24_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3514,3640,Quyết định số 11/2007/QĐ-BCT Về việc nhập khẩu theo hạn ngạch thuế quan năm 2008 và 2009 đối với hàng hoá có xuất xứ Campuchia
+ENTITY,E24_7,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3690,3825,"Quyết định số 002/2007/QĐ-BCT Phê duyệt Quy hoạch phát triển ngành công nghiệp xe máy Việt Nam giai đoạn 2006-2015, có xét đến năm 2020"
+ENTITY,E24_8,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3875,4043,Quyết định số 19/2007/QĐ-BCT Phê duyệt qui hoạch phát triển một số kết cấu hạ tầng thương mại chủ yếu vùng kinh tế trọng điểm Bắc Bộ đến năm 2010 và định hướng đến 2020
+ENTITY,E24_9,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4093,4452,Quyết định số 001/2007/QĐ-BCT Về việc bổ sung Phụ lục 3 Quy chế cấp Giấy chứng nhận xuất xứ hàng hóa của Việt Nam-mẫu D để hưởng các ưu đãi theo “Hiệp định về chương trình ưu đãi thuế quan có hiệu lực chung (CEPT) để thành lập Khu vực Mậu dịch Tự do ASEAN” ban hành kèm theo Quyết định của Bộ trưởng Bộ Thương mại số 1420/2004/QĐ-BTM ngày 04 tháng 10 năm 2004
+ENTITY,E24_10,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4502,4694,Quyết định số 003/2007/QĐ-BCT Về việc sửa đổi một số điều tại Quyết định số 36/2007/QĐ-BCN ngày 06 tháng 8 năm 2007 về việc phê duyệt Quy hoạch tổng thể phát triển ngành da - giầy đến năm 2010
+ENTITY,E24_11,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4744,4914,Quyết định số 17/2007/QĐ-BCT Phê duyệt qui hoạch phát triển một số kết cấu hạ tầng thương mại chủ yếu vùng kinh tế trọng điểm Phía Nam đến năm 2010 và định hướng đến 2020
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,4934,5015,Quyết định số 15/2007/QĐ-BCT Ban hành khung giá bán buôn điện cho Khu công nghiệp
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,5035,5199,Thông tư số 01/2007/TT-BCT Hướng dẫn thực hiện một số điều của Nghị định số 119/2007/NĐ-CP ngày 18 tháng 7 năm 2007 của Chính phủ về sản xuất và kinh doanh thuốc lá
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,5219,5285,Quyết định số 10/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,5305,5431,Quyết định số 11/2007/QĐ-BCT Về việc nhập khẩu theo hạn ngạch thuế quan năm 2008 và 2009 đối với hàng hoá có xuất xứ Campuchia
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,5451,5752,"Quyết định số 008/2007/QĐ-BCT Về việc uỷ quyền cho Ban Quản lý Khu kinh tế Vân Phong, tỉnh Khánh Hoà cấp Giấy chứng nhận xuất xứ hàng hoá ASEAN của Việt Nam - mẫu D để hưởng các ưu đãi theo ""Hiệp định về Chương trình ưu đãi thuế quan có hiệu lực chung (CEPT) để thành lập Khu vực Mậu dịch Tự do ASEAN"""
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,5772,5865,Quyết định số 14/2007/QĐ-BCT Về lượng hạn ngạch thuế quan đối với hàng hoá nhập khẩu năm 2008
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,5885,5951,Quyết định số 02/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,5971,6037,Quyết định số 05/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,6057,6123,Quyết định số 16/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,6143,6209,Quyết định số 08/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,6229,6432,Quyết định số 13/2007/QĐ-BCT Về Quy tắc xuất xứ và Thủ tục thực hiện Quy tắc xuất xứ cho Bản thỏa thuận giữa Bộ Công Thương nước Cộng hòa xã hội chủ nghĩa Việt Nam và Bộ Thương mại Vương quốc Cam-pu-chia
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,6452,6753,Quyết định số 10/2007/QĐ-BCT Về việc bổ sung tổng lượng hạn ngạch thuế quan lá thuốc lá khô tại Phụ lục 1 Quyết định số 33/2006/QĐ-BTM ngày 16 tháng 10 năm 2006 của Bộ trưởng Bộ Thương mại về việc nhập khẩu theo hạn ngạch thuế quan đối với hàng hoá có xuất xứ Campuchia với thuế suất thuế nhập khẩu 0%
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,6773,6839,Quyết định số 07/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,6859,6925,Quyết định số 15/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,6945,7095,"Thông tư liên tịch số 02/2007/TTLT-BCT-BTNMT Hướng dẫn thực hiện Điều 43 Luật Bảo vệ môi trường về tiêu chuẩn, điều kiện kinh doanh nhập khẩu phế liệu"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,7115,7181,Quyết định số 01/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,7201,7350,"Quyết định số 06/2007/QĐ-BCT Ban hành Quy định nội dung, trình tự, thủ tục lập, thẩm định và phê duyệt Quy hoạch địa điểm xây dựng Trung tâm điện lực"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,7370,7436,Quyết định số 13/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,7456,7648,Quyết định số 003/2007/QĐ-BCT Về việc sửa đổi một số điều tại Quyết định số 36/2007/QĐ-BCN ngày 06 tháng 8 năm 2007 về việc phê duyệt Quy hoạch tổng thể phát triển ngành da - giầy đến năm 2010
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,7668,7776,Quyết định số 16/2007/QĐ-BCT Ban hành Quy chế phát ngôn và cung cấp thông tin cho báo chí của Bộ Công Thương
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,7796,7862,Quyết định số 03/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,7882,8008,Quyết định số 14/2007/QĐ-BVHTTDL Ban hành Quy chế tuyển chọn phim tham dự Giải thưởng OSCAR dành cho phim nói tiếng nước ngoài
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,8028,8196,Quyết định số 19/2007/QĐ-BCT Phê duyệt qui hoạch phát triển một số kết cấu hạ tầng thương mại chủ yếu vùng kinh tế trọng điểm Bắc Bộ đến năm 2010 và định hướng đến 2020
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,8216,8627,"Quyết định số 005/2007/QĐ-BCT Sửa đổi, bổ sung Quyết định số 02/2007/QĐ-BTM ngày 08 tháng 01 năm 2007 của Bộ trưởng Bộ Thương mại về việc ban hành Quy chế cấp Giấy chứng nhận xuất xứ hàng hóa Mẫu AK để hưởng các ưu đãi theo Hiệp định Thương mại hàng hóathuộc Hiệp định khung về Hợp tác kinh tế toàn diện giữa các Chính phủ các nước thành viên thuộc Hiệp hội các quốc gia Đông Nam Á và Chính phủ Đại Hàn Dân Quốc"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,8647,8901,"Quyết định số 1000/QĐ-TTg Về việc chuyển chức năng, nhiệm vụ quản lý nhà nước về báo chí, xuất bản và chuyển tổ chức biên chế cán bộ, công chức, viên chức làm công tác báo chí, xuất bản từ bộ văn hoá, thể thao và du lịch sang bộ thông tin và truyền thông"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,8921,8983,Thông tư số 04/2007/TT-BCT Hướng dẫn điều kiện kinh doanh than
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,9003,9082,Quyết định số 004/2007/QĐ-BCT Về việc tổ chức nhập khẩu và lưu thông dầu Diesel
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,9102,9461,Quyết định số 001/2007/QĐ-BCT Về việc bổ sung Phụ lục 3 Quy chế cấp Giấy chứng nhận xuất xứ hàng hóa của Việt Nam-mẫu D để hưởng các ưu đãi theo “Hiệp định về chương trình ưu đãi thuế quan có hiệu lực chung (CEPT) để thành lập Khu vực Mậu dịch Tự do ASEAN” ban hành kèm theo Quyết định của Bộ trưởng Bộ Thương mại số 1420/2004/QĐ-BTM ngày 04 tháng 10 năm 2004
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,9481,9547,Quyết định số 06/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,9567,9702,"Quyết định số 002/2007/QĐ-BCT Phê duyệt Quy hoạch phát triển ngành công nghiệp xe máy Việt Nam giai đoạn 2006-2015, có xét đến năm 2020"
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,9722,9788,Quyết định số 04/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,9808,9874,Quyết định số 11/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,9894,10249,"Quyết định số 007/2007/QĐ-BCT Về việc bổ sung Quyết định số 1420/2004/QĐ-BTM ngày 04 tháng 10 năm 2004 của Bộ trưởng Bộ Thương mại về việc ban hành Quy chế cấp Giấy chứng nhận xuất xứ hàng hóa của Việt Nam Mẫu D để hưởng các ưu đãi theo ""Hiệp định về Chương trình ưu đãi thuế quan có hiệu lực chung (CEPT) để thành lập Khu vực Mậu dịch Tự do ASEAN (AFTA)"""
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,10269,10335,Quyết định số 09/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,10355,10421,Quyết định số 12/2007/QĐ-BVHTTDL Về việc xếp hạng di tích quốc gia
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,10441,10587,"Quyết định số 140/2009/QĐ-TTg Về bảo lưu phụ cấp chức vụ lãnh đạo đối với các chức danh lãnh đạo trong quá trình sắp xếp, kiện toàn tổ chức bộ máy"
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,10607,10777,Quyết định số 17/2007/QĐ-BCT Phê duyệt qui hoạch phát triển một số kết cấu hạ tầng thương mại chủ yếu vùng kinh tế trọng điểm Phía Nam đến năm 2010 và định hướng đến 2020
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,10797,10886,"Nghị định số 09/NĐ-CP Về việc chuyển Tổng cục Du lịch vào Bộ Văn hoá, Thể thao và Du lịch"
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,10906,10957,Thông tư số 05/2007/TT-BCT Hướng dẫn xuất khẩu than
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,10977,11132,"Nghị quyết số 02/2007/QH12 Phê chuẩn đề nghị của Thủ tướng Chính phủ về việc bổ nhiệm các Phó Thủ tướng, các Bộ trưởng và các thành viên khác của Chính phủ"
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,11152,11285,"Nghị định số 08/NĐ-CP Về việc chuyển Ban Thi đua - Khen thưởng Trung ương, Ban Tôn giáo Chính phủ, Ban Cơ yếu Chính phủ vào Bộ Nội vụ"
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,11305,11450,Quyết định số 12/2007/QĐ-BCT Phê duyệt quy hoạch tổng thể phát triển mạng lưới chợ trên phạm vi toàn quốc đến năm 2010 và định hướng đến năm 2020
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,11470,11559,"Quyết định số 79/2007/QĐ-BTC Về việc bổ sung, sửa đổi hệ thống Mục lục ngân sách nhà nước"
+ENTITY,E34_1,PHAN,Phần,structure,889,920,A. CƠ CẤU TỔ CHỨC CỦA CHÍNH PHỦ
+ENTITY,E34_2,PHAN,Phần,structure,2067,2128,"B. SỐ PHÓ THỦ TƯỚNG CHÍNH PHỦ:
+Chính phủ có 05 Phó Thủ tướng."
+ENTITY,E35_1,CHUONG,Chương,structure,921,930,I. CÁC BỘ
+ENTITY,E35_2,CHUONG,Chương,structure,1376,1401,II. CÁC CƠ QUAN NGANG BỘ:
+ENTITY,E35_3,CHUONG,Chương,structure,1505,1964,"III. Chức năng, nhiệm vụ và quyền hạn của một số bộ, cơ quan ngang bộ đã được quy định tại các luật, pháp lệnh hiện hành, nhưng nay có sự thay đổi về cơ cấu, tổ chức theo Nghị quyết này, thì được chuyển giao cho các bộ, cơ quan ngang bộ tương ứng kể từ ngày các cơ quan này được sắp xếp lại. Giao cho Chính phủ trình Quốc hội sửa đổi, bổ sung các luật, pháp lệnh liên quan đến chức năng, nhiệm vụ và quyền hạn của các bộ, cơ quan ngang bộ theo Nghị quyết này."
+ENTITY,E35_4,CHUONG,Chương,structure,1965,2066,"IV. Chính phủ quy định cụ thể chức năng, nhiệm vụ, quyền hạn và tổ chức của các bộ, cơ quan ngang bộ."
+ENTITY,E36_1,MUC,Mục,structure,931,948,"1. Bộ Quốc phòng,"
+ENTITY,E36_2,MUC,Mục,structure,949,963,"2. Bộ Công an,"
+ENTITY,E36_3,MUC,Mục,structure,964,981,"3. Bộ Ngoại giao,"
+ENTITY,E36_4,MUC,Mục,structure,982,995,"4. Bộ Nội vụ,"
+ENTITY,E36_5,MUC,Mục,structure,996,1010,"5. Bộ Tư pháp,"
+ENTITY,E36_6,MUC,Mục,structure,1011,1036,"6. Bộ Kế hoạch và Đầu tư,"
+ENTITY,E36_7,MUC,Mục,structure,1037,1053,"7. Bộ Tài chính,"
+ENTITY,E36_8,MUC,Mục,structure,1073,1115,"9. Bộ Nông nghiệp và Phát triển nông thôn,"
+ENTITY,E36_9,MUC,Mục,structure,1054,1072,"8. Bộ Công thương,"
+ENTITY,E36_10,MUC,Mục,structure,1116,1142,"10. Bộ Giao thông vận tải,"
+ENTITY,E36_11,MUC,Mục,structure,1143,1159,"11. Bộ Xây dựng,"
+ENTITY,E36_12,MUC,Mục,structure,1160,1192,"12. Bộ Tài nguyên và Môi trường,"
+ENTITY,E36_13,MUC,Mục,structure,1193,1226,"13. Bộ Thông tin và Truyền thông,"
+ENTITY,E36_14,MUC,Mục,structure,1227,1267,"14. Bộ Lao động - Thương binh và Xã hội,"
+ENTITY,E36_15,MUC,Mục,structure,1268,1304,"15. Bộ Văn hoá, Thể thao và Du lịch,"
+ENTITY,E36_16,MUC,Mục,structure,1305,1334,"16. Bộ Khoa học và Công nghệ,"
+ENTITY,E36_17,MUC,Mục,structure,1335,1362,"17. Bộ Giáo dục và Đào tạo,"
+ENTITY,E36_18,MUC,Mục,structure,1363,1375,18. Bộ Y tế.
+ENTITY,E36_19,MUC,Mục,structure,1402,1421,"19. Uỷ ban Dân tộc,"
+ENTITY,E36_20,MUC,Mục,structure,1422,1454,"20. Ngân hàng Nhà nước Việt Nam,"
+ENTITY,E36_21,MUC,Mục,structure,1455,1479,"21. Thanh tra Chính phủ,"
+ENTITY,E36_22,MUC,Mục,structure,1480,1504,22. Văn phòng Chính phủ.
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_5,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_4,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R7_5,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_4,E2_1,,
+RELATION,R7_6,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_6,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_4,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_5,,
+RELATION,R12_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_6,,
+RELATION,R12_7,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_7,,
+RELATION,R12_8,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_8,,
+RELATION,R12_9,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_9,,
+RELATION,R12_10,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_10,,
+RELATION,R12_11,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_11,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E2_1,E30_19,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E2_1,E30_20,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E2_1,E30_21,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E2_1,E30_22,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E2_1,E30_23,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E2_1,E30_24,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E2_1,E30_25,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E2_1,E30_26,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E2_1,E30_27,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E2_1,E30_28,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E2_1,E30_29,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E2_1,E30_30,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E2_1,E30_31,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E2_1,E30_32,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E2_1,E30_33,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E2_1,E30_34,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E2_1,E30_35,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E2_1,E30_36,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E2_1,E30_37,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E2_1,E30_38,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E2_1,E30_39,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E2_1,E30_40,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E2_1,E30_41,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E2_1,E30_42,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E2_1,E30_43,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E35_1,E34_1,,
+RELATION,R22_4,THUOC,Thuộc,E35_2,E34_1,,
+RELATION,R22_5,THUOC,Thuộc,E35_3,E34_1,,
+RELATION,R22_6,THUOC,Thuộc,E35_4,E34_1,,
+RELATION,R22_7,THUOC,Thuộc,E36_1,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E36_2,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E36_3,E35_1,,
+RELATION,R22_10,THUOC,Thuộc,E36_4,E35_1,,
+RELATION,R22_11,THUOC,Thuộc,E36_5,E35_1,,
+RELATION,R22_12,THUOC,Thuộc,E36_6,E35_1,,
+RELATION,R22_13,THUOC,Thuộc,E36_7,E35_1,,
+RELATION,R22_14,THUOC,Thuộc,E36_8,E35_1,,
+RELATION,R22_15,THUOC,Thuộc,E36_9,E35_1,,
+RELATION,R22_16,THUOC,Thuộc,E36_10,E35_1,,
+RELATION,R22_17,THUOC,Thuộc,E36_11,E35_1,,
+RELATION,R22_18,THUOC,Thuộc,E36_12,E35_1,,
+RELATION,R22_19,THUOC,Thuộc,E36_13,E35_1,,
+RELATION,R22_20,THUOC,Thuộc,E36_14,E35_1,,
+RELATION,R22_21,THUOC,Thuộc,E36_15,E35_1,,
+RELATION,R22_22,THUOC,Thuộc,E36_16,E35_1,,
+RELATION,R22_23,THUOC,Thuộc,E36_17,E35_1,,
+RELATION,R22_24,THUOC,Thuộc,E36_18,E35_1,,
+RELATION,R22_25,THUOC,Thuộc,E36_19,E35_2,,
+RELATION,R22_26,THUOC,Thuộc,E36_20,E35_2,,
+RELATION,R22_27,THUOC,Thuộc,E36_21,E35_2,,
+RELATION,R22_28,THUOC,Thuộc,E36_22,E35_2,,

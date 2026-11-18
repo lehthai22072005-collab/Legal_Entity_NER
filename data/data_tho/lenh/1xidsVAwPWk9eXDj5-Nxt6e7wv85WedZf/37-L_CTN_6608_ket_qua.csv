@@ -1,0 +1,23 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,212,216,LỆNH
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,16,37-L/CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,212,216,LỆNH
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,1146,1156,1994-10-25
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1169,1183,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1204,1214,1994-10-25
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1238,1250,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,443,456,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,443,456,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1263,1273,Lê Đức Anh
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,1718,1814,"Pháp lệnh số Không số Về quyền và nghĩa vụ của tổ chức, cá nhân nước ngoài thuê đất tại Việt Nam"
+ENTITY,E18_2,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,1841,1947,"Pháp lệnh số Không số Về quyền và nghĩa vụ của các tổ chức trong nước được Nhà nước giao đất, cho thuê đất"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1293,1311,Hiến pháp năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1331,1368,Luật Tổ chức Quốc hội số 66-LCT/HĐNN8
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,1388,1437,Quyết định số 88/CT Về việc thu nộp tiền thuê đất
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,1457,1691,Quyết định số 1405/1998/QĐ-BTC sửa đổi khoản 3 Điều 4 bản quy định về khung giá cho thuê đất đối với các tổ chức trong nước được Nhà nước cho thuê đất ban hành kèm theo Quyết định 1357/QĐ/BTC ngày 30/12/1995 của Bộ trưởng Bộ Tài chính
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,
+RELATION,R6_2,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_2,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,

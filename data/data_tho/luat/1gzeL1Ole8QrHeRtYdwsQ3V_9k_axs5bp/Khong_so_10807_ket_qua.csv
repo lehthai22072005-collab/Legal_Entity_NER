@@ -1,0 +1,89 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,67,"Luật Sửa đổi, bổ sung một số điều của Luật Thuế Lợi tức số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,59,67,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,3585,3608,ngày 6 tháng 7 năm 1993
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,3674,3688,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,3709,3719,1993-07-19
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,3741,3751,1999-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,3775,3795,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,272,280,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,3809,3826,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,3839,3852,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,3945,3963,Hiến pháp năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,4005,4039,Luật Thuế Lợi tức số 270b-NQ/HĐNN8
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,3872,3890,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4182,4435,"Thông tư số 96/TC-TCT Hướng dẫn thu thuế đối với các trường hợp chuyển nhượng vốn của các chủ đầu tư trong các doanh nghiệp được thành lập theo Luật công ty, Luật  doanh nghiệp tư nhân, Luật đầu tư nước ngoài tại Việt Nam, Luật khuyến khích đầu tư trong"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4485,4597,"Quyết định số 1079-TC/QĐ/TCT về việc thu thuế đối với trái phiếu Chính phủ và các loại trái phiếu, cổ phiếu khác"
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,4089,4132,Luật Thuế thu nhập doanh nghiệp số Không số
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,4619,4643,Luật Dầu khí số 18-L/CTN
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,4665,4730,Pháp lệnh số Không số Thuế thu nhập đối với người có thu nhập cao
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,4750,4901,"Quyết định số 771/1998/QĐ-UB V/v ổn định, công khai mức thuế trong 6 tháng hoặc 1 năm đối với các hộ sản xuất kinh doanh nhỏ trên địa bàn tỉnh Hưng Yên"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,4921,5072,"Quyết định số 760/1998/QĐ-UB V/v ổn định, công khai mức thuế trong 6 tháng hoặc 1 năm đối với các hộ sản xuất kinh doanh nhỏ trên địa bàn tỉnh Hưng Yên"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,5092,5204,Quyết định số 62 TC/QÐ/TCT V/v giảm thuế lợi tức năm 1993 cho Nhà máy thuốc lá Thăng long và Xí nghiệp in bao bì
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,5224,5346,"Nghị định số 57-CP Quy định chi tiết thi hành Luật thuế lợi tức và Luật sửa đổi, bổ sung một số điều của Luật thuế lợi tức"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,5366,5557,"Thông tư số 75A-TC/TCT hướng dẫn thi hành Nghị định số 57-CP ngày 28/8/90 của Chính phủ quy định chi tiết thi hành Luật thuế lợi tức và Luật sửa đổi, bổ sung một số điều của Luật thuế lợi tức"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,5577,5778,"Thông tư số 83/TC-TCT Hướng dẫn thực hiện nghĩa vụ thuế doanh thu và lợi tức của các tổ chức và cá nhân nước ngoài tiến hành hoạt động cung cấp dịch vụ chuyển phát nhanh hàng hoá, bưu phẩm tại Việt Nam"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,5798,5910,"Quyết định số 1079-TC/QÐ/TCT về việc thu thuế đối với trái phiếu Chính phủ và các loại trái phiếu, cổ phiếu khác"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,5930,6042,"Quyết định số 1079-TC/QĐ/TCT về việc thu thuế đối với trái phiếu Chính phủ và các loại trái phiếu, cổ phiếu khác"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,6062,6249,"Nghị định số 114/1997/NĐ-CP Sửa đổi Nghị định số 57/CP ngày 28/8/1993 của Chính phủ quy định chi tiết thi hành Luật thuế lợi tức và Luật sửa đổi, bổ sung một số điều của Luật thuế lợi tức"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,6269,6522,"Thông tư số 96/TC-TCT Hướng dẫn thu thuế đối với các trường hợp chuyển nhượng vốn của các chủ đầu tư trong các doanh nghiệp được thành lập theo Luật công ty, Luật  doanh nghiệp tư nhân, Luật đầu tư nước ngoài tại Việt Nam, Luật khuyến khích đầu tư trong"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,6542,6738,"Thông tư số 73/A-TC-TCT Hướng dẫn thi hành Nghị định số 55-CP ngày 28/8/93 của Chính phủ quy định chi tiết thi hành Luật thuế doanh thu và Luật sửa đổi, bổ sung một số Điều của Luật thuế doanh thu"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,6758,6926,"Thông tư số 48/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò dầu khí theo quy định của luật dầu khí"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,6946,7159,"Thông tư số 71/1998/TT-BTC hướng dẫn thực hiện việc miễn, giảm thuế lợi tức theo Quyết định số 29/1998/QÐ-TTg ngày 9/2/1998 của Thủ tướng Chính phủ về giải pháp hỗ trợ phát triển một số lĩnh vực thuộc ngành cơ khí"
+ENTITY,E38_1,DIEU,Điều,structure,357,423,"Điều 1
+Sửa đổi, bổ sung một số điều của Luật thuế lợi tức như sau:"
+ENTITY,E38_2,DIEU,Điều,structure,3300,3428,"Điều 2
+Chính phủ sửa đổi, bổ sung các văn bản quy định chi tiết thi hành Luật thuế lợi tức đã ban hành cho phù hợp với Luật này."
+ENTITY,E38_3,DIEU,Điều,structure,3429,3485,"Điều 3
+Luật này có hiệu lực từ ngày 01 tháng 9 năm 1993."
+ENTITY,E39_1,KHOAN,Khoản,structure,424,560,"1/ Đoạn 1, Điều 8 được sửa đổi:
+""Doanh thu để tính lợi tức chịu thuế là toàn bộ số tiền bán hàng, tiền gia công, tiền dịch vụ thu được."""
+ENTITY,E39_2,KHOAN,Khoản,structure,561,1015,"2/ Điều 10 được sửa đổi, bổ sung:
+""Điều 10 - Tổ chức, cá nhân kinh doanh (trừ hộ kinh doanh nhỏ, hộ buôn chuyến) nộp thuế lợi tức theo thuế suất ổn định trên lợi tức chịu thuế cả năm quy định sau đây:
+1- Các ngành: điện năng; khai thác mỏ, khoáng sản, lâm sản và thuỷ sản; luyện kim; cơ khí; hoá chất cơ bản; phân bón; thuốc trừ sâu; vật liệu xây dựng; xây dựng và vận tải: 25%.
+2- Các ngành: công nghiệp nhẹ; công nghiệp thực phẩm và sản xuất khác: 35%."
+ENTITY,E39_3,KHOAN,Khoản,structure,1016,2144,"3- Thương nghiệp; ăn uống và dịch vụ các loại: 45%.
+Các hộ kinh doanh tư nhân, các tổ chức kinh tế ngoài quốc doanh có lợi tức chịu thuế tính theo đầu người góp vốn, nếu lợi tức chịu thuế bình quân tháng lớn hơn 10 triệu đồng, thì ngoài việc nộp thuế theo mức cơ bản còn phải nộp thuế lợi tức bổ sung 25% trên phần lợi tức vượt trên 10 triệu đồng.
+Doanh nghiệp Nhà nước nếu có lợi tức chịu thuế cao do lợi thế khách quan, thì ngoài việc phải nộp thuế lợi tức theo thuế suất quy định tại Điều này, phần lợi tức còn lại sau khi được phép trích lập các quỹ theo quy định của Pháp luật, phải nộp thuế lợi tức bổ sung không quá 50% số lợi tức còn lại. Chính phủ quy định chi tiết thuế suất thuế lợi tức bổ sung đối với từng ngành nghề.""
+3/ Điều 22 được sửa đổi, bổ sung:
+""Điều 22 - Cơ sở sản xuất và một số ngành nghề khác cần khuyến khích đầu tư, nếu có đầu tư mở rộng sản xuất hoặc đầu tư chiều sâu mà đem lại hiệu quả cao hơn so với trước thì được giảm thuế lợi tức theo mức vốn đầu tư bỏ ra, nhưng tối đa không quá 50% số thuế lợi tức phải nộp cả năm và không vượt quá số lợi tức tăng thêm của năm tiếp theo do đầu tư mang lại. """
+ENTITY,E39_4,KHOAN,Khoản,structure,2145,2375,"4/ Điều 23 được sửa đổi, bổ sung:
+""Điều 23 - Tổ chức sản xuất kinh doanh do nguyên nhân khách quan mà bị lỗ, thì được chuyển số lỗ sang năm sau khi tính thuế lợi tức. Thời gian được chuyển lỗ để tính thuế lợi tức không quá 2 năm."""
+ENTITY,E39_5,KHOAN,Khoản,structure,2376,2846,"5/ Điều 25 được sửa đổi, bổ sung:
+""Điều 25 - Cơ sở sản xuất mới thành lập được miễn thuế lợi tức 2 năm đầu, kể từ khi có lợi tức và được giảm 50% thuế lợi tức trong 2 năm tiếp theo; riêng cơ sở sản xuất mới thành lập ở các vùng có khó khăn, thì thời gian giảm thuế được kéo dài thêm 2 năm nữa.
+Cơ sở đang sản xuất ở các vùng có khó khăn được giảm thuế lợi tức tối đa 50%, thời gian giảm thuế không quá 2 năm.
+Chính phủ quy định cụ thể vùng có khó khăn nói tại Điều này."""
+ENTITY,E39_6,KHOAN,Khoản,structure,2847,3141,"6/ Điểm c, Khoản 1, Điều 27 được sửa đổi:
+""c) Tổ chức, cá nhân nộp chậm tiền thuế hoặc tiền phạt ghi trong lệnh thu thuế hoặc quyết định xử phạt, thì ngoài việc phải nộp đủ số thuế hoặc tiền phạt theo quy định của Luật này, mỗi ngày nộp chậm còn bị phạt 0,2% (hai phần nghìn) số tiền nộp chậm;"""
+ENTITY,E39_7,KHOAN,Khoản,structure,3142,3299,"7/ Các chữ ""Hội đồng Nhà nước"" được sửa đổi thành các chữ ""Uỷ ban thường vụ Quốc hội"" và các chữ ""Hội đồng Bộ trưởng"" được sửa đổi thành các chữ ""Chính phủ""."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_7,E38_1,,

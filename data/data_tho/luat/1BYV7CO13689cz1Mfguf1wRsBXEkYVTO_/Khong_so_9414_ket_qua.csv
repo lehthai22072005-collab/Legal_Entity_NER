@@ -1,0 +1,750 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,27,Luật Hợp tác xã số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,19,27,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,43086,43110,ngày 20 tháng 3 năm 1996
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,43176,43190,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,43211,43221,1997-01-01
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,43243,43253,2004-07-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,43277,43297,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,43318,43326,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,43340,43357,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,43370,43383,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,43476,43494,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,43403,43421,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,43544,43605,Nghị định số 125/2003/NĐ-CP Về vận tải đa phương thức quốc tế
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,43655,43767,Thông tư liên tịch số 48/2002/TTLT-BTC-BNNPTNT Hướng dẫn chế độ quản lý tài chính đối với hợp tác xã nông nghiệp
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,51491,51522,Luật Hợp tác xã số 18/2003/QH11
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,43789,43918,"Chỉ thị số 37/2000/CT-UB Về việc đẩy mạnh phát triển các loại hình kinh tế hợp tác, HTX và tăng cường quản lý khu vực kinh tế NQD"
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,43940,44013,Nghị định số 90/2001/NĐ-CP Về trợ giúp phát triển doanh nghiệp nhỏ và vừa
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,44035,44155,Quyết định số 33/2001/QĐ-UB Về việc ban hành giải pháp và cơ chế điều hành kế hoạch Phát triển kinh tế - xã hội năm 2001
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,44177,44323,Thông tư số 05/2005/TT-BKH Hướng dẫn một số quy định tại Nghị định số 87/2005/NĐ-CP ngày 11/07/2005 của Chính phủ về đăng ký kinh doanh hợp tác xã
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,44345,44412,"Nghị định số 27/2001/NĐ-CP Về kinh doanh lữ hành, hướng dẫn du lịch"
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,44434,44523,Nghị định số 24/2000/NĐ-CP Quy định chi tiết thi hành Luật Đầu tư nước ngoài tại Việt Nam
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,44545,44635,Quyết định số 1717/QĐ-UBND Phê duyệt Chương trình Khuyến công tỉnh Bình Dương đến năm 2012
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,44657,44732,Nghị quyết số 06-NQ/TW Về một số vấn đề phát triển nông nghiệp và nông thôn
+ENTITY,E29_9,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,44754,44843,"Nghị định số 73/2001/NĐ-CP Về hoạt động và tổ chức lực lượng bảo vệ cơ quan, doanh nghiệp"
+ENTITY,E29_10,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,44865,45034,"Thông tư số 112/2003/TT-BTC hướng dẫn việc miễn, giảm thuế sử dụng đất nông nghiệp từ năn 2003 đến năm 2010 theo Nghị định số 129/2003/NĐ-CP ngày 3/11/2003 của Chính phủ"
+ENTITY,E29_11,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,45056,45175,Quyết định số 109/1999/QĐ-UB Về việc phê duyệt quy hoạch tổng thể phát triển kinh tế - xã hội huyện An Khê đến năm 2010
+ENTITY,E29_12,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,45197,45349,Thông tư số 20/2002/TT-BTC hướng dẫn thi hành nghị định số 71/2001/NÐ-cp ngày 5/10/2001 của chính phủ về ưu đãi đầu tư xây dựng nhà ở để bán và cho thuê
+ENTITY,E29_13,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,45371,45623,"Thông tư số 106/2001/TT-BTC hướng dẫn thực hiện Quyết định số 55/2001/QĐ-TTg ngày 23/04/2001 của Thủ tướng Chính phủ phê duyệt chiến lược phát triển và một số cơ chế, chính sách hỗ trợ thực hiện Chiến lược phát triển ngành dệt may Việt Nam đến năm 2010"
+ENTITY,E29_14,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,45645,45806,"Quyết định số 51/2006/QĐ-UBND Phê duyệt Chương trình Phát triển công nghiệp - tiểu thủ công nghiệp và ngành nghề nông thôn tỉnh Quảng Bình, giai đoạn 2006 - 2010"
+ENTITY,E29_15,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,45828,45905,Nghị định số 48/2001/NĐ-CP Về tổ chức và hoạt động của Quỹ tín dụng nhân dân.
+ENTITY,E29_16,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,45927,46017,"Quyết định số 68/2000/QĐ-UB Về việc Thành lập Phòng Đăng ký kinh doanh cấp tỉnh, cấp huyện"
+ENTITY,E29_17,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,46039,46285,Thông tư số 201/2000/TT-BGTVT Hướng dẫn thi hành Nghị định thư giữa Bộ giao thông vận tải Việt Nam và Bộ giao thông -Bưu điện -Xây dựng Lào nhằm thực hiện Hiệp định vận tải đường bộ giữa Chính phủ nước CHXHCN Việt Nam và chính phủ nước CHDCND Lào
+ENTITY,E29_18,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,46307,46384,Nghị định số 71/2001/NĐ-CP Về ưu đãi đầu tư xây dựng nhà ở để bán và cho thuê
+ENTITY,E29_19,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,46406,46476,Thông tư số 44/1999/TT-BTC hướng dẫn về ưu đãi thuế đối với Hợp tác xã
+ENTITY,E29_20,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,46498,46619,Thông tư liên tịch số 05/2000/TTLT/BKHĐT-BTCCBCP Hướng dẫn việc tổ chức Phòng đăng ký kinh doanh  ở cấp tỉnh và cấp huyện
+ENTITY,E29_21,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,46641,46738,Chỉ thị số 42/1999/CT-UBND Về việc tăng cường chỉ đạo các đơn vị có dự án Khai thác hải sản xa bờ
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,46758,46828,Nghị định số 42/1997/NĐ-CP Ban hành Điều lệ mẫu Quỹ Tín dụng nhân dân.
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,46848,46909,Nghị định số 125/2003/NĐ-CP Về vận tải đa phương thức quốc tế
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,46929,46996,Nghị định số 15/CP Về chính sách khuyến khích phát triển hợp tác xã
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,47016,47147,"Quyết định số 40/1999/QĐ-UB Ban hành bản quy định tạm thời về tổ chức quản lý, khai thác và bảo vệ công trình thủy lợi tỉnh Lào Cai"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,47167,47226,Nghị định số 46/CP Ban hành Điều lệ mẫu hợp tác xã thủy sản
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,47246,47329,Quyết định số 127/2000/QĐ-TTg Về việc chuẩn y Điều lệ Liên minh Hợp tác xã Việt Nam
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,47349,47410,Nghị định số 41/CP Ban hành Điều lệ mẫu Hợp tác xã thương mại
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,47430,47500,Thông tư số 44/1999/TT-BTC hướng dẫn về ưu đãi thuế đối với Hợp tác xã
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,47520,47691,"Nghị định số 02/CP Về nhiệm vụ, quyền hạn và trách nhiệm quản lý Nhà nước của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân các cấp đối với hợp tác xã"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,47711,47945,"Quyết định số 893/QĐ-UB V/v Tiếp tục triển khai thục hiện Quyết định số 3045/QĐ-UB ngày 26-10-1996 cua UBND tỉnh QN-ĐN (cũ) về việc ban hành đề án đổi mới, phát triển kinh tế hợp tác và hợp tác xã trong các ngành, các lĩnh vực kinh tế"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,47965,48077,Thông tư liên tịch số 48/2002/TTLT/BTC-BNNPTNT Hướng dẫn chế độ quản lý tài chính đối với hợp tác xã nông nghiệp
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,48097,48414,"Quyết định số 615/2003/QĐ-NHNN Về việc ban hành quy chế cấp, thu hồi giấy phép thành lập và hoạt động quỹ tín dụng nhân dân; việc mở, chấm dứt hoạt động sở giao dịch, chi nhánh, văn phòng đại diện, điểm giao dịch của quỹ tín dụng nhân dân và việc thanh lý quỹ tín dụng nhân dân dưới sự giám sát của nhân hàng nhà nước"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,48434,48522,Quyết định số 1269/2001/QĐ-NHNN Về việc ban hành Mẫu Điều lệ Quỹ tín dụng nhân dân cơ sở
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,48542,48669,Quyết định số 421/1997/QĐ-UB Về thành lập Ban chỉ đạo đổi mới nâng cao chất lượng hoạt động các HTX và thi hành Luật hợp tác xã
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,48689,48821,"Quyết định số 36/2003/QĐ-TTg Về việc ban hành Quy chế góp vốn, mua cổ phần của nhà đầu tư nước ngoài trong các doanh nghiệp Việt Nam"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,48841,48948,"Nghị định số 91/2001/NĐ-CP Về điều kiện kinh doanh một số ngành, nghề giao thông vận tải đường thủy nội địa"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,48968,49037,Nghị định số 45/CP Ban hành Điều lệ mẫu hợp tác xã giao thông vận tải
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,49057,49205,"Quyết định số 614/2003/QĐ-NHNN Ban hành Quy định về tổ chức và hoạt động của Hội dồng quản trị, Ban kiểm soát, Người điều hành quỹ tín dụng nhân dân"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,49225,49300,Nghị định số 86/2001/NĐ-CP Về điều kiện kinh doanh các ngành nghề thuỷ sản.
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,49320,49407,Thông tư số 9-TT/KHDT Hướng dẫn thi hành Điều lệ mẫu hợp tác xã công nghiệp và xây dựng
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,49427,49551,Quyết định số 46/2001/QĐ-UB Về việc đổi tên Hội đồng Liên minh các HTX thành phố Hà Nội thành Liên minh HTX thành phố Hà Nội
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,49571,49851,"Quyết định số 950/2002/QĐ-NHNN về việc bổ sung, sửa đổi Điều 13 Quy chế Thu hồi Giấy phép thành lập và hoạt động Quỹ Tín dụng nhân dân và việc thanh lý Quỹ Tín dụng nhân dân dưới sự giám sát của Ngân hàng Nhà nước ban hành kèm theo Quyết định số l01/2000/QĐ- NHNNI7 ngày 29/3/2000"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,49871,49934,Nghị định số 57/2001/NĐ-CP Về điều kiện kinh doanh vận tải biển
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,49954,50016,Nghị định số 43/CP Ban hành Điều lệ mẫu hợp tác xã nông nghiệp
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,50036,50162,"Quyết định số 173/QĐ-NH17 Về việc bổ sung, sửa đổi một số điểm về quy chế tổ chức, hoạt động của Quỹ tín dụng nhân dân khu vực"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,50182,50256,Nghị định số 44/CP Ban hành Điều lệ mẫu hợp tác xã công nghiệp và xây dựng
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,50276,50412,"Quyết định số 144/QĐ-UB Về việc củng cố xây dựng và phát triển các HTX nông nghiệp và sử lý các HTX yếu kém, hình thức thành các HTX mới"
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,50432,50499,Nghị định số 10/2001/NĐ-CP Về điều kiện kinh doanh dịch vụ hàng hải
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,50519,50588,Nghị định số 92/2001/NĐ-CP Về điều kiện kinh doanh vận tải bằng ô tô.
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,50608,50688,Quyết định số 158/1997/QĐ-UB Công nhận Hội đồng liên minh các hợp tác xã Phú Thọ
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,50708,50948,"Quyết định số 696/2003/QĐ-NHNN Về việc sửa đổi, bổ sung một số điểm tại Thông tư số 09/2001/TT-NHNN ngày 08/10/2001 hướng dẫn thực hiện Nghị định số 48/2001/NĐ-CP ngày 13/8/2001 của Chính phủ về tổ chức và hoạt độngcủa Quỹ tín dụng nhân dân"
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,50968,51074,Nghị định số 16/1997/NĐ-CP Về chuyển đổi đăng ký Hợp tác xã và tổ chức hoạt động của Liên hiệp Hợp tác xã.
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,51094,51206,Thông tư liên tịch số 48/2002/TTLT-BTC-BNNPTNT Hướng dẫn chế độ quản lý tài chính đối với hợp tác xã nông nghiệp
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,51226,51326,Nghị định số 35/CP Quy định xử phạt vi phạm hành chính trong lĩnh vực quản lý Nhà nước về khoáng sản
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,51346,51441,"Quyết định số 3652/QĐ.UB Về việc ban hành quy định đăng ký, cấp giấy phép hành nghề công nghiệp"
+ENTITY,E35_1,CHUONG,Chương,structure,427,435,Chương I
+ENTITY,E35_2,CHUONG,Chương,structure,7846,7855,Chương II
+ENTITY,E35_3,CHUONG,Chương,structure,13742,13752,Chương III
+ENTITY,E35_4,CHUONG,Chương,structure,17159,17168,Chương IV
+ENTITY,E35_5,CHUONG,Chương,structure,26121,26129,Chương V
+ENTITY,E35_6,CHUONG,Chương,structure,29802,29811,Chương VI
+ENTITY,E35_7,CHUONG,Chương,structure,35845,35855,Chương VII
+ENTITY,E35_8,CHUONG,Chương,structure,37859,37870,Chương VIII
+ENTITY,E35_9,CHUONG,Chương,structure,40931,40940,Chương IX
+ENTITY,E35_10,CHUONG,Chương,structure,42265,42273,Chương X
+ENTITY,E38_1,DIEU,Điều,structure,457,853,"Điều 1. Định nghĩa hợp tác xã
+Hợp tác xã là tổ chức kinh tế tự chủ do những người lao động có nhu cầu, lợi ích chung, tự nguyện cùng góp vốn, góp sức lập ra theo quy định của pháp luật để phát huy sức mạnh của tập thể và của từng xã viên nhằm giúp nhau thực hiện có hiệu quả hơn các hoạt động sản xuất, kinh doanh, dịch vụ và cải thiện đời sống, góp phần phát triển kinh tế - xã hội của đất nước."
+ENTITY,E38_2,DIEU,Điều,structure,854,1046,"Điều 2. Tổ hợp tác
+Các tổ hợp tác có hình thức tổ chức, tên gọi khác nhau được Nhà nước hướng dẫn, giúp đỡ và có chính sách khuyến khích phát triển để trở thành hợp tác xã khi có đủ điều kiện."
+ENTITY,E38_3,DIEU,Điều,structure,1047,1165,"Điều 3. Phạm vi điều chỉnh
+Luật này áp dụng đối với hợp tác xã trong các ngành, các lĩnh vực của nền kinh tế quốc dân."
+ENTITY,E38_4,DIEU,Điều,structure,1166,1468,"Điều 4. Điều lệ mẫu
+Điều lệ mẫu của hợp tác xã nông nghiệp và của các ngành, nghề khác do Chính phủ ban hành theo quy định của Luật này để làm cơ sở pháp lý cho việc xây dựng Điều lệ hợp tác xã phù hợp với đặc điểm của từng loại hình hợp tác xã. Điều lệ mẫu phải quy định rõ số lượng xã viên tối thiểu."
+ENTITY,E38_5,DIEU,Điều,structure,1469,2043,"Điều 5. Chính sách Nhà nước đối với hợp tác xã
+Nhà nước bảo hộ quyền lợi hợp pháp của hợp tác xã, bảo đảm quyền bình đẳng của hợp tác xã trong sản xuất, kinh doanh, dịch vụ; ban hành các văn bản pháp luật và chính sách khuyền khích phát triển hợp tác xã; thông qua hợp tác xã để thực hiện các chính sách giúp đỡ, hỗ trợ xã viên xoá đói, giảm nghèo, thực hiện bình đẳng, công bằng và tiến bộ xã hội. Nhà nước tôn trọng quyền tự chủ, tự chịu trách nhiệm trong sản xuất, kinh doanh, dịch vụ của hợp tác xã, không can thiệp vào việc quản lý và hoạt động hợp pháp của hợp tác xã."
+ENTITY,E38_6,DIEU,Điều,structure,2044,2124,"Điều 6. Giải thích từ ngữ
+Trong luật này, các từ ngữ dưới đây được hiểu như sau:"
+ENTITY,E38_7,DIEU,Điều,structure,3220,3335,"Điều 7. Nguyên tắc tổ chức và hoạt động của hợp tác xã
+Hợp tác xã tổ chức và hoạt động theo các nguyên tắc sau đây:"
+ENTITY,E38_8,DIEU,Điều,structure,4505,4566,"Điều 8. Quyền của hợp tác xã
+Hợp tác xã có các quyền sau đây:"
+ENTITY,E38_9,DIEU,Điều,structure,5796,5863,"Điều 9. Nghĩa vụ của hợp tác xã
+Hợp tác xã có các nghĩa vụ sau đây:"
+ENTITY,E38_10,DIEU,Điều,structure,7097,7438,"Điều 10. Tên, biểu tượng của hợp tác xã
+Hợp tác xã được tự chọn tên và biểu tượng của mình phù hợp với quy định của pháp luật.
+Con dấu, băng hiệu và giấy tờ giao dịch của hợp tác xã phải có ký hiệu ""HTX"".
+Tên, biểu tượng (nếu có) của hợp tác xã phải được đăng ký tại cơ quan nhà nước có thẩm quyền và được bảo hộ theo quy định của pháp luật."
+ENTITY,E38_11,DIEU,Điều,structure,7439,7846,"Điều 11. Tổ chức Đảng và đoàn thể trong hợp tác xã
+Tổ chức Đảng cộng sản Việt Nam trong hợp tác xã hoạt động theo Hiến pháp, pháp luật của Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam và các quy định của Đảng cộng sản Việt Nam.
+Tổ chức công đoàn, hội nông dân, các tổ chức chính trị - xã hội khác và tổ chức dân quân tự vệ trong hợp tác xã hoạt động theo Hiến pháp, pháp luật và Điều lệ của các tổ chức này.
+"
+ENTITY,E38_12,DIEU,Điều,structure,7888,7910,Điều 12. Sáng lập viên
+ENTITY,E38_13,DIEU,Điều,structure,8567,8605,Điều 13. Hội nghị thành lập hợp tác xã
+ENTITY,E38_14,DIEU,Điều,structure,9309,9336,Điều 14. Điều lệ hợp tác xã
+ENTITY,E38_15,DIEU,Điều,structure,10503,10536,Điều 15. Hồ sơ đăng ký kinh doanh
+ENTITY,E38_16,DIEU,Điều,structure,11200,11350,"Điều 16. Điều kiện cấp giấy chứng nhận đăng ký kinh doanh
+Để được cấp giấy chứng nhận đăng ký kinh doanh, hợp tác xã phải có đủ các điều kiện sau đây:"
+ENTITY,E38_17,DIEU,Điều,structure,11841,12142,"Điều 17. Cấp và từ chối cấp giấy chứng nhận đăng ký kinh doanh
+Trong thời hạn mười lăm ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Uỷ ban nhân dân cấp huyện phải xem xét, xác nhận Điều lệ hợp tác xã và cấp giấy chứng nhận đăng ký kinh doanh cho hợp tác xã; trường hợp từ chối thì phải trả lời bằng văn bản."
+ENTITY,E38_18,DIEU,Điều,structure,12143,12226,"Điều 18. Đăng ký kinh doanh trong các ngành, nghề theo quy định riêng của Chính phủ"
+ENTITY,E38_19,DIEU,Điều,structure,12651,13005,"Điều 19. Khiếu nại, khởi kiện về việc từ chối cấp giấy chứng nhận đăng ký kinh doanh
+Trường hợp không đồng ý với quyết định từ chối cấp giấy chứng nhận đăng ký kinh doanh của Uỷ ban nhân dân quy định tại các điều 17 và 18 của luật này, hợp tác xã có quyền khiếu nại, khởi kiện đến cơ quan nhà nước có thẩm quyền để giải quyết theo quy định của pháp luật."
+ENTITY,E38_20,DIEU,Điều,structure,13006,13135,"Điều 20. Tư cách pháp nhân của hợp tác xã
+Hợp tác xã có tư cách pháp nhân kể từ ngày được cấp giấy chứng nhận đăng ký kinh doanh."
+ENTITY,E38_21,DIEU,Điều,structure,13136,13174,"Điều 21. Chi nhánh, văn phòng đại diện"
+ENTITY,E38_22,DIEU,Điều,structure,13761,13797,Điều 22. Điều kiện trở thành xã viên
+ENTITY,E38_23,DIEU,Điều,structure,14288,14344,"Điều 23. Quyền của xã viên
+Xã viên có các quyền sau đây:"
+ENTITY,E38_24,DIEU,Điều,structure,15786,15848,"Điều 24. Nghĩa vụ của xã viên
+Xã viên có các nghĩa vụ sau đây:"
+ENTITY,E38_25,DIEU,Điều,structure,16541,16574,Điều 25. Chấm dứt tư cách xã viên
+ENTITY,E38_26,DIEU,Điều,structure,17199,17223,Điều 26. Đại hội xã viên
+ENTITY,E38_27,DIEU,Điều,structure,18289,18388,"Điều 27. Nội dung của Đại hội xã viên
+Đại hội xã viên thảo luận và quyết định những vấn đề sau đây:"
+ENTITY,E38_28,DIEU,Điều,structure,19325,19399,Điều 28. Quy định về số lượng đại biểu và biểu quyết trong đại hội xã viên
+ENTITY,E38_29,DIEU,Điều,structure,20155,20563,"Điều 29. Thông báo triệu tập Đại hội xã viên
+Chậm nhất là mười ngày, trước khi khai mạc Đại hội xã viên, cơ quan triệu tập Đại hội phải thông báo thời gian, địa điểm họp và chương trình Đại hội cho từng xã viên hoặc đại biểu xã viên. Đại hội xã viên chỉ thảo luận và quyết định những vấn đề đã ghi trong chương trình Đại hội và những vấn đề phát sinh khi có ít nhất 1/3 (một phần ba) tổng số xã viên đề nghị."
+ENTITY,E38_30,DIEU,Điều,structure,20564,20596,Điều 30. Ban quản trị hợp tác xã
+ENTITY,E38_31,DIEU,Điều,structure,21704,22113,"Điều 31. Tiêu chuẩn thành viên Ban quản trị
+Thành viên Ban quản trị phải là xã viên hợp tác xã, có phẩm chất đạo đức tốt, có trình độ, năng lực quản lý hợp tác xã.
+Thành viên Ban quản trị không được đồng thời là thành viên Ban kiểm soát, kế toán trưởng, thủ quỹ của hợp tác xã và không phải là cha, mẹ, vợ, chồng, con hoặc anh, chị, em ruột của họ; các tiêu chuẩn khác (nếu có) do Điều lệ hợp tác xã quy định."
+ENTITY,E38_32,DIEU,Điều,structure,22114,22161,Điều 32. Nhiệm vụ và quyền hạn của Ban quản trị
+ENTITY,E38_33,DIEU,Điều,structure,23044,23099,Điều 33. Nhiệm vụ và quyền hạn của Chủ nhiệm hợp tác xã
+ENTITY,E38_34,DIEU,Điều,structure,23851,23873,Điều 34. Ban kiểm soát
+ENTITY,E38_35,DIEU,Điều,structure,24566,24666,"Điều 35. Nhiệm vụ và quyền hạn của Ban kiểm soát
+Ban kiểm soát có các nhiệm vụ và quyền hạn sau đây:"
+ENTITY,E38_36,DIEU,Điều,structure,26166,26194,Điều 36. Vốn góp của xã viên
+ENTITY,E38_37,DIEU,Điều,structure,26911,26932,Điều 37. Huy động vốn
+ENTITY,E38_38,DIEU,Điều,structure,27392,27721,"Điều 38. Vốn hoạt động của hợp tác xã
+Vốn hoạt động của hợp tác xã được hình thành từ vốn góp của xã viên, vốn được tích luỹ thuộc sở hữu của hợp tác xã, vốn vay và các nguồn vốn huy động khác.
+Vốn hoạt động của hợp tác xã được quản lý và sử dụng theo quy định của Luật này, các quy định khác của pháp luật và Điều lệ hợp tác xã."
+ENTITY,E38_39,DIEU,Điều,structure,27722,27749,Điều 39. Quỹ của hợp tác xã
+ENTITY,E38_40,DIEU,Điều,structure,28046,28077,Điều 40. Tài sản của hợp tác xã
+ENTITY,E38_41,DIEU,Điều,structure,28493,29003,"Điều 41. Xử lý tài sản và vốn của hợp tác xã khi giải thể
+Khi giải thể, hợp tác xã phải chuyển giao cho chính quyền địa phương các tài sản không được chia theo quy định tại khoản 2 Điều 40 của Luật này để quản lý và sử dụng chung cho cộng động dân cư.
+Đất đai do Nhà nước giao quyền sử dụng cho hợp tác xã được xử lý theo quy định của pháp luật về đất đai.
+Sau khi thanh toán hết các khoản nợ của hợp tác xã và các chi phí cho việc giải thể, hợp tác xã được chia cho xã viên các tài sản, vốn, quỹ khác còn lại."
+ENTITY,E38_42,DIEU,Điều,structure,29004,29026,Điều 42. Phân phối lãi
+ENTITY,E38_43,DIEU,Điều,structure,29433,29802,"Điều 43. Xử lý các khoản lỗ
+Các khoản lỗ của hợp tác xã do nguyên nhân khách quan gây ra được lấy lãi của kỳ quyết toán sau để bù hoặc được trừ vào quỹ của hợp tác xã, vốn góp của xã viên do Đại hội xã viên quyết định; nếu lỗ do nguyên nhân chủ quan của cá nhân gây ra, thì tuỳ theo mức độ thiệt hai, cá nhân gây ra phải bồi thường theo quyết định của Đại hội xã viên.
+"
+ENTITY,E38_44,DIEU,Điều,structure,29862,30050,"Điều 44. Hợp nhất, chia tách hợp tác xã
+Đại hội xã viên quyết định việc hợp nhất hai hay nhiều hợp tác xã thành một hợp tác xã hoặc chia tách một hợp tác xã thành hai hay nhiều hợp tác xã."
+ENTITY,E38_45,DIEU,Điều,structure,30051,30098,"Điều 45. Thủ tục hợp nhất, chia tách hợp tác xã"
+ENTITY,E38_46,DIEU,Điều,structure,33008,33036,Điều 46. Giải thể hợp tác xã
+ENTITY,E38_47,DIEU,Điều,structure,35666,35845,"Điều 47. Giải quyết yêu cầu tuyên bố phá sản đối với hợp tác xã
+Việc giải quyết yêu cầu tuyên bố phá sản đối với hợp tác xã được thực hiện theo pháp luật về phá sản doanh nghiệp.
+"
+ENTITY,E38_48,DIEU,Điều,structure,35911,35940,Điều 48. Liên hiệp hợp tác xã
+ENTITY,E38_49,DIEU,Điều,structure,36815,36852,Điều 49. Tổ chức Liên minh hợp tác xã
+ENTITY,E38_50,DIEU,Điều,structure,37907,37974,Điều 50. Nội dung quản lý nhà nước của Chính phủ đối với hợp tác xã
+ENTITY,E38_51,DIEU,Điều,structure,39270,39367,"Điều 51. Nhiệm vụ, quyền hạn của Hội đồng nhân dân và Uỷ ban nhân dân các cấp đối với hợp tác xã."
+ENTITY,E38_52,DIEU,Điều,structure,40434,40598,"Điều 52. Mối quan hệ giữa các cơ quan nhà nước với Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và vai trò của các tổ chức này đối với hợp tác xã."
+ENTITY,E38_53,DIEU,Điều,structure,40968,41059,"Điều 53. Khen thưởng
+Tổ chức, cá nhân sau đây được khen thưởng theo quy định của pháp luật:"
+ENTITY,E38_54,DIEU,Điều,structure,41315,41338,Điều 54. Xử lý vi phạm.
+ENTITY,E38_55,DIEU,Điều,structure,42294,42582,"Điều 55. Hiệu lực thi hành
+Luật này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 1997.
+Những quy định trước đây trái với Luật này đều bãi bỏ.
+Kể từ ngày Luật hợp tác xã có hiệu lực, các hợp tác xã, liên hiệp hợp tác xã đang hoạt động phải đăng ký kinh doanh theo quy định của Luật này."
+ENTITY,E38_56,DIEU,Điều,structure,42583,42987,"Điều 56. Hướng dẫn thi hành Luật.
+Chính phủ ban hành các quy định cụ thể về thủ tục, cách thức, thời hạn chuyển đổi và đăng ký đối với các loại hình hợp tác xã và liên hiệp hợp tác xã đang hoạt động, bảo đảm sự phát triển ổn đinh, phù hợp với tình hình và đặc điểm cụ thể của từng loại hình hợp tác xã trong các ngành, các lĩnh vực của nền kinh tế quốc dân.
+Chính phủ quy định chi tiết thi hành Luật này."
+ENTITY,E39_1,KHOAN,Khoản,structure,2125,2240,1- Vốn góp tối thiểu là số tiền hoặc tài sản được quy ra tiền mà xã viên bắt buộc phải góp khi gia nhập hợp tác xã.
+ENTITY,E39_2,KHOAN,Khoản,structure,2241,2437,"2- Góp sức là việc xã viên tham gia trực tiếp dưới dạng lao động sản xuất, kinh doanh, dịch vụ hoặc tham gia quản lý hợp tác xã và được trả thù lao theo sự đóng góp do Điều lệ hợp tác xã quy định."
+ENTITY,E39_3,KHOAN,Khoản,structure,2438,2542,3- Vốn điều lệ của hợp tác xã là tổng số vốn do các xã viên đóng góp và được ghi vào Điều lệ hợp tác xã.
+ENTITY,E39_4,KHOAN,Khoản,structure,2543,2723,4- Biểu tượng của hợp tác xã là ký hiệu riêng của mỗi hợp tác xã để phản ánh đặc trưng riêng biệt của hợp tác xã và phân biệt hợp tác xã đó với các hợp tác xã và doanh nghiệp khác.
+ENTITY,E39_5,KHOAN,Khoản,structure,2724,2901,"5- Dịch vụ của hợp tác xã đối với xã viên là việc hợp tác xã cung ứng cho xã viên hàng hoá, dịch vụ dưới dạng vật chất hoặc phí vật chất mà xã viên phải trả tiền cho hợp tác xã."
+ENTITY,E39_6,KHOAN,Khoản,structure,2902,3097,6- Mức độ sử dụng dịch vụ của hợp tác xã là tỷ lệ giá trị dịch vụ mà hợp tác xã cung ứng cho từng xã viên trong tổng số giá trị dịch vụ của hợp tác xã cung ứng cho toàn bộ xã viên của hợp tác xã.
+ENTITY,E39_7,KHOAN,Khoản,structure,3098,3219,7- Cam kết kinh tế giữa hợp tác xã và xã viên là thoả thuận nêu rõ những ràng buộc về kinh tế giữa hợp tác xã và xã viên.
+ENTITY,E39_8,KHOAN,Khoản,structure,3336,3580,"1- Tự nguyện gia nhập và ra hợp tác xã: mọi công dân Việt Nam có đủ điều kiện theo quy định của Luật này, tán thành Điều lệ hợp tác xã đều có thể trở thành xã viên hợp tác xã; xã viên có quyền ra hợp tác xã theo quy định của Điều lệ hợp tác xã;"
+ENTITY,E39_9,KHOAN,Khoản,structure,3581,3730,"2- Quản lý dân chủ và bình đẳng: xã viên hợp tác xã có quyền tham gia quản lý, kiểm tra, giám sát hợp tác xã và có quyền ngang nhau trong biểu quyết;"
+ENTITY,E39_10,KHOAN,Khoản,structure,3731,3932,"3- Tự chịu trách nhiệm và cùng có lợi: hợp tác xã tự chịu trách nhiệm về kết quả hoạt động sản xuất, kinh doanh, dịch vụ; tự quyết định về phân phối thu nhập, bảo đảm hợp tác xã và xã viên cùng có lợi;"
+ENTITY,E39_11,KHOAN,Khoản,structure,3933,4266,"4- Chia lãi bảo đảm kết hợp lợi ích của xã viên và sự phát triển của hợp tác xã; sau khi làm xong nghĩa vụ nộp thuế, lãi được trích một phần vào các quỹ của hợp tác xã, một phân chia theo vốn góp và công sức đóng góp của xã viên, phần còn lại chia cho xã viên theo mức độ sử dụng dịch vụ của hợp tác xã do Đại hội xã viên quyết định;"
+ENTITY,E39_12,KHOAN,Khoản,structure,4267,4504,"5- Hợp tác và phát triển cộng đồng: xã viên phải phát huy tinh thần tập thể, nâng cao ý thức hợp tác trong hợp tác xã và trong cộng đồng xã hội; hợp tác giữa các hợp tác xã với nhau ở trong nước và ngoài nước theo quy định của pháp luật."
+ENTITY,E39_13,KHOAN,Khoản,structure,4567,4696,"1- Lựa chọn ngành, nghề, lĩnh vực, quy mô sản xuất, kinh doanh, dịch vụ và địa bàn hoạt động phù hợp với khả năng của hợp tác xã;"
+ENTITY,E39_14,KHOAN,Khoản,structure,4697,4784,"2- Quyết định hình thức và cơ cấu tổ chức sản xuất, kinh doanh, dịch vụ của hợp tác xã;"
+ENTITY,E39_15,KHOAN,Khoản,structure,4785,4913,"3- Xuất khẩu, nhập khẩu, liên doanh, liên kết với các tổ chức và cá nhân ở trong nước và ngoài nước theo quy định của pháp luật;"
+ENTITY,E39_16,KHOAN,Khoản,structure,4914,5056,"4- Thuê lao động trong trường hợp xã viên không đáp ứng được yêu cầu sản xuất, kinh doanh, dịch vụ của hợp tác xã theo quy định của pháp luật;"
+ENTITY,E39_17,KHOAN,Khoản,structure,5057,5185,"5- Quyết định kết nạp xã viên mới, giải quyết việc xã viên ra hợp tác xã, khai trừ xã viên theo quy định của Điều lệ hợp tác xã;"
+ENTITY,E39_18,KHOAN,Khoản,structure,5186,5259,"6- Quyết định việc phân phối thu nhập, xử lý các khoản lỗ của hợp tác xã;"
+ENTITY,E39_19,KHOAN,Khoản,structure,5260,5477,7- Quyết định khen thưởng những cá nhân có nhiều thành tích xây dựng và phát triển hợp tác xã; thi hành kỷ luật những xã viên vi phạm Điều lệ hợp tác xã; buộc xã viên bồi thường các thiệt hại đã gây ra cho hợp tác xã;
+ENTITY,E39_20,KHOAN,Khoản,structure,5478,5579,"8- Vay vốn ngân hàng và huy động các nguồn vốn khác, cho xã viên vay vốn theo quy định của pháp luật;"
+ENTITY,E39_21,KHOAN,Khoản,structure,5580,5642,9- Được bảo hộ bí quyết công nghệ theo quy định của pháp luật;
+ENTITY,E39_22,KHOAN,Khoản,structure,5643,5795,"10- Từ chối yêu cầu của các tổ chức, cá nhân trái với quy định của pháp luật.
+Hợp tác xã còn có các quyền khác có liên quan theo quy định của pháp luật."
+ENTITY,E39_23,KHOAN,Khoản,structure,5864,5935,"1- Sản xuất, kinh doanh, dịch vụ đúng ngành, nghề, mặt hàng đã đăng ký;"
+ENTITY,E39_24,KHOAN,Khoản,structure,5936,6043,"2- Thực hiện đúng chế độ kế toán, thống kê do Nhà nước quy định và chấp hành chế độ kiểm toán của Nhà nước;"
+ENTITY,E39_25,KHOAN,Khoản,structure,6044,6120,3- Nộp thuế và thực hiện các nghĩa vụ tài chính theo quy định của pháp luật;
+ENTITY,E39_26,KHOAN,Khoản,structure,6121,6261,"4- Bảo toàn và phát triển vốn hoạt động của hợp tác xã, quản lý và sử dụng đất được Nhà nước giao quyền sử dụng theo quy định của pháp luật;"
+ENTITY,E39_27,KHOAN,Khoản,structure,6262,6380,5- Chịu trách nhiệm đối với các khoản nợ và các nghĩa vụ khác bằng toàn bộ vốn và tài sản thuộc sở hữu của hợp tác xã;
+ENTITY,E39_28,KHOAN,Khoản,structure,6381,6506,"6- Bảo vệ môi trường, môi sinh, cảnh quan, di tích lịch sử và các công trình quốc phòng, an ninh theo quy định của pháp luật;"
+ENTITY,E39_29,KHOAN,Khoản,structure,6507,6589,7- Bảo đảm các quyền của xã viên và thực hiện các cam kết kinh tế đối với xã viên;
+ENTITY,E39_30,KHOAN,Khoản,structure,6590,6781,8- Thực hiện các nghĩa vụ đối với xã viên trực tiếp lao động cho hợp tác xã và người lao động do hợp tác xã thuế; khuyến khích và tạo điều kiện để người lao động trở thành xã viên hợp tác xã;
+ENTITY,E39_31,KHOAN,Khoản,structure,6782,6846,9- Đóng bảo hiểm xã hội cho xã viên theo quy định của pháp luật;
+ENTITY,E39_32,KHOAN,Khoản,structure,6847,6980,"10- Chăm lo giáo dục, đào tạo, bồi dưỡng, nâng cao trình độ, cung cấp thông tin để mọi xã viên tích cực tham gia xây dựng hợp tác xã;"
+ENTITY,E39_33,KHOAN,Khoản,structure,6981,7096,11- Tạo điều kiện thuận lợi cho các tổ chức chính trị - xã hội được pháp luật công nhận hoạt động trong hợp tác xã.
+ENTITY,E39_34,KHOAN,Khoản,structure,7911,7997,1- Sáng lập viên là người khởi xướng việc thành lập hợp tác xã và tham gia hợp tác xã.
+ENTITY,E39_35,KHOAN,Khoản,structure,7998,8253,"2- Các sáng lập viên phải báo cáo bằng văn bản với Uỷ ban nhân dân xã, phường, thị trấn (gọi chung là Uỷ ban nhân dân cấp xã) nơi dự định đặt trụ sở chính của hợp tác xã về ý định thành lập, phương hướng và chương trình, kế hoạch hoạt động của hợp tác xã."
+ENTITY,E39_36,KHOAN,Khoản,structure,8254,8566,"3- Sau khi được Uỷ ban nhân dân cấp xã sở tại đồng ý, sáng lập viên được tiến hành tuyên truyền, vận động những người có nhu cầu tham gia hợp tác xã; xây dựng phương hướng sản xuất, kinh doanh, dịch vụ; dự thảo Điều lệ hợp tác xã và xúc tiến các công việc cần thiết khác để tổ chức hội nghị thành lập hợp tác xã."
+ENTITY,E39_37,KHOAN,Khoản,structure,8606,8783,1- Hội nghị thành lập hợp tác xã do các sáng lập viên tổ chức. Thành phần tham gia hội nghị bao gồm các sáng lập viên và những người có nguyện vọng trở thành xã viên hợp tác xã.
+ENTITY,E39_38,KHOAN,Khoản,structure,8784,8980,"2- Hội nghị thảo luận phương hướng sản xuất, kinh doanh, dịch vụ và kế hoạch hoạt động của hợp tác xã; dự thảo Điều lệ hợp tác xã; tên, biểu tượng (nếu có) của hợp tác xã và lập danh sách xã viên."
+ENTITY,E39_39,KHOAN,Khoản,structure,8981,9055,3- Hội nghị xã viên thảo luận và biểu quyết theo đa số các vấn đề sau đây:
+ENTITY,E39_40,KHOAN,Khoản,structure,9337,9483,"1- Mỗi hợp tác xã có Điều lệ riêng. Điều lệ hợp tác xã phải phù hợp với các quy định của Luật này, Điều lệ mẫu và các quy định khác của pháp luật."
+ENTITY,E39_41,KHOAN,Khoản,structure,9484,9538,2- Điều lệ hợp tác xã có các nội dung chủ yếu sau đây:
+ENTITY,E39_42,KHOAN,Khoản,structure,10130,10502,"3- Khi sửa đổi Điều lệ, hợp tác xã phải gửi Điều lệ sửa đổi có kèm theo biên bản của Đại hội xã viên đến Uỷ ban nhân dân đã cấp giấy chứng nhận đăng ký kinh doanh cho hợp tác xã. Điều lệ sửa đổi chỉ có giá trị pháp lý khi được cơ quan cấp giấy chứng nhận đăng ký kinh doanh xác nhận là phù hợp với các quy định của Luật này, Điều lệ mẫu và các quy định khác của pháp luật."
+ENTITY,E39_43,KHOAN,Khoản,structure,10537,10573,1- Hồ sơ đăng ký kinh doanh bao gồm:
+ENTITY,E39_44,KHOAN,Khoản,structure,10944,11199,"2- Chủ nhiệm hợp tác xã phải gửi hồ sơ đăng ký kinh doanh đến Uỷ ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (gọi chung là Uỷ ban nhân dân cấp huyện) nơi dự định đặt trụ sở chính của hợp tác xã, trừ trường hợp quy định tại Điều 18 của Luật này."
+ENTITY,E39_45,KHOAN,Khoản,structure,11351,11439,1- Có đủ hồ sơ đăng ký kinh doanh hợp lệ theo quy định tại khoản 1 Điều 15 của Luật này;
+ENTITY,E39_46,KHOAN,Khoản,structure,11440,11573,2- Có số lượng xã viên của hợp tác xã không ít hơn số xã viên tối thiểu quy định trong Điều lệ mẫu đối với từng loại hình hợp tác xã;
+ENTITY,E39_47,KHOAN,Khoản,structure,11574,11604,3- Mục đích hoạt động rõ ràng;
+ENTITY,E39_48,KHOAN,Khoản,structure,11605,11766,"4- Có vốn điều lệ. Đối với hợp tác xã kinh doanh ngành, nghề theo quy định của Chính phủ phải có vốn pháp định thì vốn điều lệ không được thấp hơn vốn pháp định;"
+ENTITY,E39_49,KHOAN,Khoản,structure,11767,11840,5- Có trụ sở được Uỷ ban nhân dân cấp xã nơi dự định đặt trụ sở xác nhận.
+ENTITY,E39_50,KHOAN,Khoản,structure,12227,12403,"1- Chính phủ quy định danh mục ngành, nghề mà hợp tác xã muốn kinh doanh thì phải xin phép cơ quan nhà nước có thẩm quyền và các điều kiện kinh doanh trong các ngành, nghề này."
+ENTITY,E39_51,KHOAN,Khoản,structure,12404,12650,"2- Hợp tác xã kinh doanh trong những ngành, nghề quy định tại khoản 1 Điều này phải đăng ký kinh doanh tại Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương (gọi chung là Uỷ ban nhân dân cấp tỉnh) theo trình tự, thủ tục do Chính phủ quy định."
+ENTITY,E39_52,KHOAN,Khoản,structure,13175,13400,"1- Hợp tác xã được mở chi nhánh, văn phòng đại diện ở địa phương khác ngoài huyện, tỉnh sở tại trong cả nước, nhưng phải được Uỷ ban nhân dân cấp có thẩm quyền nơi hợp tác xã dự định mở chi nhánh, văn phòng đại diện cho phép."
+ENTITY,E39_53,KHOAN,Khoản,structure,13401,13628,"2- Trong thời hạn mười lăm ngày, kể từ ngày được phép đặt chi nhánh, văn phòng đại diện, hợp tác xã phải thông báo về việc mở chi nhánh, văn phòng đại diện của mình cho Uỷ ban nhân dân đã cấp giấy chứng nhận đăng ký kinh doanh."
+ENTITY,E39_54,KHOAN,Khoản,structure,13629,13742,"3- Việc mở chi nhánh, văn phòng đại diện của hợp tác xã ở nước ngoài được thực hiện theo quy định của Chính phủ.
+"
+ENTITY,E39_55,KHOAN,Khoản,structure,13798,14001,"1- Công dân Việt Nam từ mười tám tuổi trở lên, có năng lực hành vi dân sự đầy đủ, có góp vốn, góp sức, tán thành Điều lệ hợp tác xã, tự nguyện xin gia nhập hợp tác xã có thể trở thành xã viên hợp tác xã."
+ENTITY,E39_56,KHOAN,Khoản,structure,14002,14121,"2- Một người có thể là xã viên của nhiều hợp tác xã không cùng ngành, nghề, nếu Điều lệ hợp tác xã không quy định khác."
+ENTITY,E39_57,KHOAN,Khoản,structure,14122,14287,"3- Hộ gia đình có thể trở thành xã viên hợp tác xã. Điều kiện trở thành xã viên hợp tác xã, thủ tục kết nạp và từ cách xã viên của hộ gia đình do Chính phủ quy định."
+ENTITY,E39_58,KHOAN,Khoản,structure,14345,14448,1- Được ưu tiên làm việc cho hợp tác xã và được trả công lao động theo quy định của Điều lệ hợp tác xã;
+ENTITY,E39_59,KHOAN,Khoản,structure,14449,14557,"2- Hưởng lãi chia theo vốn góp, công sức đóng góp của xã viên và theo mức độ sử dụng dịnh vụ của hợp tác xã;"
+ENTITY,E39_60,KHOAN,Khoản,structure,14558,14704,"3- Được hợp tác xã cung cấp các thông tin kinh tế - kỹ thuật cần thiết; được hợp tác xã tổ chức đào tạo, bồi dưỡng và nâng cao trình độ nghiệp vụ;"
+ENTITY,E39_61,KHOAN,Khoản,structure,14705,14860,"4- Hưởng thụ các phúc lợi xã hội chung của hợp tác xã, được hợp tác xã thực hiện các cam kết kinh tế, tham gia bảo hiểm xã hội theo quy định của pháp luật;"
+ENTITY,E39_62,KHOAN,Khoản,structure,14861,14948,5- Được khen thưởng khi có nhiều đóng góp trong việc xây dựng và phát triển hợp tác xã;
+ENTITY,E39_63,KHOAN,Khoản,structure,14949,15071,"6- Dự Đại hội hoặc bầu đại biểu dự Đại hội, dự các cuộc họp xã viên để bàn bạc và biểu quyết các công việc của hợp tác xã;"
+ENTITY,E39_64,KHOAN,Khoản,structure,15072,15181,"7- Ứng cử, bầu cử vào Ban quản trị, Chủ nhiệm, Ban kiểm soát và những chức danh được bầu khác của hợp tác xã;"
+ENTITY,E39_65,KHOAN,Khoản,structure,15182,15413,"8- Đề đạt ý kiến với Ban quản trị, Chủ nhiệm, Ban kiểm soát của hợp tác xã và yêu cầu được trả lời; yêu cầu Ban quản trị, Chủ nhiệm, Ban kiểm soát triệu tập Đại hội xã viên bất thường theo quy định tại khoản 4 Điều 26 của Luật này;"
+ENTITY,E39_66,KHOAN,Khoản,structure,15414,15520,"9- Chuyển vốn góp và các quyền lợi, nghĩa vụ của mình cho người khác theo quy định của Điều lệ hợp tác xã;"
+ENTITY,E39_67,KHOAN,Khoản,structure,15521,15580,10- Xin ra hợp tác xã theo quy định của Điều lệ hợp tác xã;
+ENTITY,E39_68,KHOAN,Khoản,structure,15581,15785,"11- Được trả lại vốn góp và các quyền lợi khác khi ra hợp tác xã; trong trường hợp xã viên chết, vốn góp và các quyền lợi, nghĩa vụ khác của xã viên được giải quyết theo quy định của pháp luật về thừa kế."
+ENTITY,E39_69,KHOAN,Khoản,structure,15849,15926,"1- Chấp hành Điều lệ, nội quy hợp tác xã, các nghị quyết của Đại hội xã viên;"
+ENTITY,E39_70,KHOAN,Khoản,structure,15927,16112,"2- Góp vốn theo quy định của Điều lệ hợp tác xã; vốn góp có thể nhiều hơn mức tối thiểu, nhưng ở mọi thời điểm không vượt quá 30% (ba mươi phần trăm) tổng số vốn Điều lệ của hợp tác xã;"
+ENTITY,E39_71,KHOAN,Khoản,structure,16113,16218,"3- Hợp tác giữa các xã viên với nhau, học tập nâng cao trình độ, góp phần thúc đẩy hợp tác xã phát triển;"
+ENTITY,E39_72,KHOAN,Khoản,structure,16219,16326,"4- Thực hiện các cam kết kinh tế với hợp tác xã, tham gia đóng bảo hiểm xã hội theo quy định của pháp luật;"
+ENTITY,E39_73,KHOAN,Khoản,structure,16327,16448,"5- Trong phạm vi vốn góp của mình, cùng chịu trách nhiệm về các khoản nợ, rủi ro, thiệt hại, các khoản lỗ của hợp tác xã;"
+ENTITY,E39_74,KHOAN,Khoản,structure,16449,16540,6- Bồi thường thiệt hại do mình gây ra cho hợp tác xã theo quy định của Điều lệ hợp tác xã.
+ENTITY,E39_75,KHOAN,Khoản,structure,16575,16654,1- Tư cách xã viên hợp tác xã chấm dứt khi có một trong các trường hợp sau đây:
+ENTITY,E39_76,KHOAN,Khoản,structure,17019,17159,"2- Việc giải quyết quyền lợi và nghĩa vụ đối với xã viên trong các trường hợp quy định tại khoản 1 Điều này do Điều lệ hợp tác xã quy định.
+"
+ENTITY,E39_77,KHOAN,Khoản,structure,17224,17287,1- Đại hội xã viên có quyền quyết định cao nhất của hợp tác xã.
+ENTITY,E39_78,KHOAN,Khoản,structure,17288,17561,"2- Hợp tác xã có nhiều xã viên thì có thể tổ chức Đại hội đại biểu xã viên; việc bầu đại biểu xã viên đi dự Đại hội đại biểu do Điều lệ hợp tác xã quy định. Đại hội đại biểu xã viên và Đại hội toàn thể xã viên (gọi chung là Đại hội xã viên) có nhiệm vụ, quyền hạn như nhau."
+ENTITY,E39_79,KHOAN,Khoản,structure,17562,17692,"3- Đại hội xã viên thường kỳ họp mỗi năm một lần do Ban quản trị triệu tập trong vòng ba tháng, kể từ ngày khoá sổ quyết toán năm."
+ENTITY,E39_80,KHOAN,Khoản,structure,17693,18288,"4- Đại hội xã viên bất thường do Ban quản trị hoặc Ban kiểm soát của hợp tác xã triệu tập để quyết định những vấn đề cần thiết vượt quá quyền hạn của Ban quản trị hoặc của Ban kiểm soát.
+Trong trường hợp có ít nhất 1/3 (một phần ba) tổng số xã viên cùng có đơn yêu cầu triệu tập Đại hội xã viên gửi lên Ban quản trị hoặc Ban kiểm soát, thì trong vòng mười lăm ngày, kể từ ngày nhận đủ đơn, Ban quản trị phải triệu tập đại hội xã viên; nếu quá thời hạn này mà Ban quản trị không triệu tập Đại hội thì Ban kiểm soát phải triệu tập Đại hội xã viên bất thường để giải quyết các vấn đề nêu trong đơn."
+ENTITY,E39_81,KHOAN,Khoản,structure,18389,18520,"1- Báo cáo kết quả sản xuất, kinh doanh, dịch vụ trong năm của hợp tác xã, báo cáo hoạt động của Ban quản trị và của Ban kiểm soát;"
+ENTITY,E39_82,KHOAN,Khoản,structure,18521,18612,"2- Báo cáo công khai tài chính - kế toán, dự kiến phân phối thu nhập và xử lý các khoản lỗ;"
+ENTITY,E39_83,KHOAN,Khoản,structure,18613,18722,"3- Phương hướng sản xuất, kinh doanh, dịch vụ; kế hoạch hoạt động và huy động vốn cho năm tới của hợp tác xã;"
+ENTITY,E39_84,KHOAN,Khoản,structure,18723,18783,"4- Tăng, giảm vốn điều lệ; trích lập các quỹ của hợp tác xã;"
+ENTITY,E39_85,KHOAN,Khoản,structure,18784,18908,"5- Bầu, bãi miễn Chủ nhiệm hợp tác xã; bầu, bầu bổ sung hoặc bãi miễn các thành viên khác của Ban quản trị và Ban kiểm soát;"
+ENTITY,E39_86,KHOAN,Khoản,structure,18909,19005,6- Thông qua việc kết nạp xã viên mới và cho xã viên ra hợp tác xã; quyết định khai trừ xã viên;
+ENTITY,E39_87,KHOAN,Khoản,structure,19006,19050,"7- Hợp nhất, chia tách, giải thể hợp tác xã;"
+ENTITY,E39_88,KHOAN,Khoản,structure,19051,19090,"8- Sửa đổi Điều lệ, nội quy hợp tác xã;"
+ENTITY,E39_89,KHOAN,Khoản,structure,19091,19212,"9- Mức thù lao cho Chủ nhiệm và các thành viên khác của Ban quản trị, Ban kiểm soát và các chức danh khác của hợp tác xã;"
+ENTITY,E39_90,KHOAN,Khoản,structure,19213,19324,"10- Những vấn đề khác do Ban quản trị, Ban kiểm soát hoặc có ít nhất 1/3 (một phần ba) tổng số xã viên đề nghị."
+ENTITY,E39_91,KHOAN,Khoản,structure,19400,19622,1- Đại hội xã viên phải có ít nhất 2/3 (hai phần ba) tổng số xã viên hoặc đại biểu xã viên tham dự. Nếu không đủ số lượng quy định trên thì phải tạm hoãn Đại hội; Ban quản trị hoặc Ban kiểm soát phải triệu tập lại Đại hội.
+ENTITY,E39_92,KHOAN,Khoản,structure,19623,19955,"2- Quyết định sửa đổi Điều lệ, hợp nhất, chia tách, giải thể hợp tác xã được thông qua khi có ít nhất 3/4 (ba phần tư) tổng số xã viên hoặc đại biểu xã viên có mặt tại Đại hội biểu quyết tán thành. Các quyết định về những vấn đề khác được thông qua khi có quá (một phần hai) tổng số đại biểu có mặt tại Đại hội biểu quyết tán thành."
+ENTITY,E39_93,KHOAN,Khoản,structure,19956,20154,3- Việc biểu quyết tại Đại hội xã viên và các cuộc họp xã viên không phụ thuộc vào số vốn góp hay chức vụ của xã viên trong hợp tác xã. Mỗi xã viên hoặc đại biểu xã viên chỉ có một phiếu biểu quyết.
+ENTITY,E39_94,KHOAN,Khoản,structure,20597,21092,"1- Ban quản trị là cơ quan quản lý và điều hành mọi công việc của hợp tác xã do Đại hội xã viên bầu trực tiếp, gồm Chủ nhiệm hợp tác xã và các thành viên khác. Số lượng thành viên Ban quản trị do Điều lệ hợp tác xã quy định. Những hợp tác xã có số xã viên dưới mười lăm người thì có thể chỉ bầu Chủ nhiệm hợp tác xã để thực hiện nhiệm vụ, quyền hạn của Ban quản trị. Hợp tác xã có quy mô lớn được bầu Hội đồng quản trị để thực hiện quyền hạn và nhiệm vụ của Ban quản trị quy định trong Luật này."
+ENTITY,E39_95,KHOAN,Khoản,structure,21093,21220,"2- Nhiệm kỳ của Ban quản trị hợp tác xã do Điều lệ hợp tác xã quy định, nhưng tối thiểu là hai năm và tối đa không quá năm năm."
+ENTITY,E39_96,KHOAN,Khoản,structure,21221,21703,"3- Ban quản trị họp ít nhất mỗi tháng một lần, do Chủ nhiệm hoặc thành viên Ban quản trị được Chủ nhiệm uỷ quyền triệu tập và chủ trì. Các cuộc họp của Ban quản trị được coi là hợp lệ khi có ít nhất 2/3 (hai phần ba) số thành viên Ban quản trị tham dự. Ban quản trị hoạt động theo nguyên tắc tập thể và quyết định theo đa số. Trong trường hợp biểu quyết mà có số phiếu tán thành và không tán thành ngang nhau, thì số phiếu biểu quyết của bên có người chủ trì cuộc họp là quyết định."
+ENTITY,E39_97,KHOAN,Khoản,structure,22162,22215,1- Ban quản trị có các nhiệm vụ và quyền hạn sau đây:
+ENTITY,E39_98,KHOAN,Khoản,structure,22942,23043,2- Ban quản trị chịu trách nhiệm về các quyết định của mình trước Đại hội xã viên và trước pháp luật.
+ENTITY,E39_99,KHOAN,Khoản,structure,23100,23161,1- Chủ nhiệm hợp tác xã có các nhiệm vụ và quyền hạn sau đây:
+ENTITY,E39_100,KHOAN,Khoản,structure,23542,23780,"2- Chủ nhiệm hợp tác xã chịu trách nhiệm trước Đại hội xã viên và Ban quản trị về công việc được giao.
+Khi vắng mặt, Chủ nhiệm hợp tác xã được uỷ quyền cho Phó chủ nhiệm hoặc một thành viên Ban quản trị điều hành công việc của hợp tác xã."
+ENTITY,E39_101,KHOAN,Khoản,structure,23781,23850,3- Chức danh Phó chủ nhiệm hợp tác xã do Điều lệ hợp tác xã quy định.
+ENTITY,E39_102,KHOAN,Khoản,structure,23874,23994,1- Ban kiểm soát là cơ quan giám sát và kiểm tra mọi hoạt động của hợp tác xã theo đúng pháp luật và Điều lệ hợp tác xã.
+ENTITY,E39_103,KHOAN,Khoản,structure,23995,24226,"2- Ban kiểm soát do Đại hội xã viên bầu trực tiếp. Số lượng thành viên do Điều lệ hợp tác xã quy định, Ban kiểm soát bầu một trưởng ban để điều hành các công việc của Ban; hợp tác xã có ít xã viên có thể chỉ bầu một kiểm soát viên."
+ENTITY,E39_104,KHOAN,Khoản,structure,24227,24503,"3- Tiêu chuẩn thành viên Ban kiểm soát được áp dụng như tiêu chuẩn thành viên Ban quản trị. Thành viên Ban kiểm soát không được đồng thời là thành viên Ban quản trị, kế toán trưởng, thủ quỹ của hợp tác xã và không phải là cha, mẹ, vợ, chồng, con hoặc anh, chị, em ruột của họ."
+ENTITY,E39_105,KHOAN,Khoản,structure,24504,24565,4- Nhiệm kỳ của Ban kiểm soát theo nhiệm kỳ của Ban quản trị.
+ENTITY,E39_106,KHOAN,Khoản,structure,24667,24756,"1- Kiểm tra việc chấp hành Điều lệ, nội quy hợp tác xã và nghị quyết của Đại hội xã viên;"
+ENTITY,E39_107,KHOAN,Khoản,structure,24757,24880,"2- Giám sát hoạt động của Ban quản trị, Chủ nhiệm hợp tác xã và xã viên theo đúng pháp luật và Điều lệ, nội quy hợp tác xã;"
+ENTITY,E39_108,KHOAN,Khoản,structure,24881,25046,"3- Kiểm tra về tài chính, kế toán, phân phối thu nhập, xử lý các khoản lỗ, sử dụng các quỹ của hợp tác xã, sử dụng tài sản, vốn vay và các khoản hỗ trợ của Nhà nước;"
+ENTITY,E39_109,KHOAN,Khoản,structure,25047,25134,"4- Tiếp nhận và giải quyết khiếu nại, tố cáo có liên quan đến công việc của hợp tác xã;"
+ENTITY,E39_110,KHOAN,Khoản,structure,25135,25176,5- Được dự các cuộc họp của Ban quản trị;
+ENTITY,E39_111,KHOAN,Khoản,structure,25177,25449,"6- Thông báo kết quả kiểm tra cho Ban quản trị hợp tác xã và báo cáo trước Đại hội xã viên; kiến nghị với Ban quản trị, Chủ nhiệm hợp tác xã khắc phục những yếu kém trong sản xuất, kinh doanh, dịch vụ của hợp tác xã và giải quyết những vi phạm Điều lệ, nội quy hợp tác xã;"
+ENTITY,E39_112,KHOAN,Khoản,structure,25450,25669,"7- Yêu cầu những người có liên quan trong hợp tác xã cung cấp tài liệu, sổ sách, chứng từ và những thông tin cần thiết để phục vụ công tác kiểm tra, nhưng không được sử dụng các tài liệu, thông tin đó vào mục đích khác;"
+ENTITY,E39_113,KHOAN,Khoản,structure,25670,25783,8- Chuẩn bị chương trình nghị sự và triệu tập Đại hội xã viên bất thường khi có một trong các trường hợp sau đây:
+ENTITY,E39_114,KHOAN,Khoản,structure,26195,26480,"1- Khi gia nhập hợp tác xã, xã viên phải góp vốn theo quy định tại Điều 24 của Luật này.
+Xã viên có thể góp vốn một lần ngay từ đầu hoặc nhiều lần; mức, hình thức và thời hạn góp vốn do Điều lệ hợp tác xã quy định.
+Vốn góp của xã viên được điều chính theo quy định của Đại hội xã viên."
+ENTITY,E39_115,KHOAN,Khoản,structure,26481,26910,"2- Xã viên được trả lại vốn góp trong các trường hợp quy định tại các điểm b, c, d và e khoản 1 Điều 25 của Luật này. Việc trả lại vốn góp của xã viên căn cứ vào thực trạng tài chính của hợp tác xã tại thời điểm trả lại vốn sau khi hợp tác xã đã quyết toán năm và đã giải quyết xong các quyền lợi, nghĩa vụ về kinh tế của xã viên đối với hợp tác xã. Hình thức, thời hạn trả lại vốn góp cho xã viên do Điều lệ hợp tác xã quy định."
+ENTITY,E39_116,KHOAN,Khoản,structure,26933,27002,1- Hợp tác xã được vay vốn của Ngân hàng theo quy định của pháp luật.
+ENTITY,E39_117,KHOAN,Khoản,structure,27003,27087,2- Hợp tác xã được huy động vốn góp của xã viên theo quyết định của Đại hội xã viên.
+ENTITY,E39_118,KHOAN,Khoản,structure,27088,27230,"3- Hợp tác xã được vay vốn của xã viên, của các tổ chức theo điều kiện do hai bên thoả thuận, nhưng không trái với các quy định của pháp luật."
+ENTITY,E39_119,KHOAN,Khoản,structure,27231,27391,"4- Hợp tác xã được nhận và sử dụng vốn, trợ cấp của Nhà nước, của các tổ chức, cá nhân trong và ngoài nước do các bên thoả thuận và theo quy định của pháp luật."
+ENTITY,E39_120,KHOAN,Khoản,structure,27750,27946,"1- Lãi của hợp tác xã được ưu tiên lập quỹ phát triển sản xuất và quỹ dự phòng, còn các quỹ khác do Điều lệ hợp tác xã và Đại hội xã viên quy định phù hợp với điều kiện cụ thể của từng hợp tác xã."
+ENTITY,E39_121,KHOAN,Khoản,structure,27947,28045,"2- Mục đích, phương thức quản lý và sử dụng các quỹ của hợp tác xã do Điều lệ hợp tác xã quy định."
+ENTITY,E39_122,KHOAN,Khoản,structure,28078,28191,1- Tài sản của hợp tác xã là tài sản thuộc sở hữu của hợp tác xã được hình thành từ vốn hoạt động của hợp tác xã.
+ENTITY,E39_123,KHOAN,Khoản,structure,28192,28492,"2- Việc quản lý, sử dụng các tài sản của hợp tác xã được thực hiện theo quy định của Điều lệ hợp tác xã và các quy định khác của pháp luật. Trong mọi trường hợp, hợp tác xã không được chia cho xã viên: vốn do Nhà nước trợ cấp, công trình công cộng, kết cấu hạ tầng phục vụ chung cho cộng đồng dân cư."
+ENTITY,E39_124,KHOAN,Khoản,structure,29027,29108,"1- Sau khi làm xong nghĩa vụ nộp thuế, lãi của hợp tác xã được phân phối như sau:"
+ENTITY,E39_125,KHOAN,Khoản,structure,29323,29432,"2- Căn cứ vào kết quả sản xuất, kinh doanh, dịch vụ, Đại hội xã viên quyết định tỷ lệ phân phối lãi hàng năm."
+ENTITY,E39_126,KHOAN,Khoản,structure,30099,30190,1- Ban quản trị của các hợp tác xã dự định hợp nhất hoặc hợp tác xã dự định chia tách phải:
+ENTITY,E39_127,KHOAN,Khoản,structure,31827,32703,"2- Trong thời hạn ba mươi ngày, kể từ ngày nhận được hồ sơ xin hợp nhất hoặc chia tách, Uỷ ban nhân dân đã cấp giấy chứng nhận đăng ký kinh doanh ra thông báo chấp thuận hoặc không chấp thuận việc hợp nhất hoặc chia tách hợp tác xã. Trường hợp không đồng ý với quyết định không chấp thuận việc hợp nhất hoặc chia tách hợp tác xã thì hợp tác xã có quyền khiếu nại, khởi kiện đến cơ quan nhà nước có thẩm quyền để giải quyết theo quy định của pháp luật.
+Uỷ ban nhân dân cấp giấy chứng nhận đăng ký kinh doanh cho hợp tác xã hợp nhất hoặc chia tách phải thu hồi giấy chứng nhận đăng ký kinh doanh của các hợp tác xã đã tham gia hợp nhất hoặc chia tách; cơ quan nhà nước có thẩm quyền phải thu hồi con dấu của các hợp tác xã đã tham gia hợp nhất hoặc chia tách. Việc đăng ký kinh doanh của hợp tác xã mới hợp nhất hoặc chia tách thực hiện theo quy định tại Chương II của Luật này."
+ENTITY,E39_128,KHOAN,Khoản,structure,32704,33007,"3- Những hợp tác xã hợp nhất hoặc chia tách có chi nhánh hoặc văn phòng đại diện phải thông báo cho Uỷ ban nhân dân đã cho phép hợp tác xã đặt chi nhánh, văn phòng đại diện biết về quyết định hợp nhất hoặc chia tách hợp tác xã, về việc tiếp tục hoặc chấm dứt hoạt động của chi nhánh, văn phòng đại diện."
+ENTITY,E39_129,KHOAN,Khoản,structure,33037,33953,"1- Giải thể tự nguyện
+Trong trường hợp giải thể tự nguyện theo nghị quyết Đại hội xã viên, hợp tác xã phải gửi đơn xin giải thể và nghị quyết của Đại hội xã viên đến Uỷ ban nhân dân đã cấp giấy chứng nhận đăng ký kinh doanh cho hợp tác xã, đồng thời đăng báo địa phương nơi hợp tác xã hoạt động trong ba số liên tiếp về việc xin giải thể và thời hạn thanh toán nợ, thanh lý các hợp đồng. Trong thời hạn ba mươi ngày, kể từ ngày hết thời hạn thanh toán nợ và thanh lý các hợp đồng, Uỷ ban nhân dân nhận đơn phải ra thông báo chấp thuận hoặc không chấp thuận việc xin giải thể của hợp tác xã.
+Việt Nam, các tổ chức thành viên của Mặt trận tuyên truyền, vận động nhân dân xây Trong thời hạn ba mươi ngày, kể từ ngày nhận được thông báo chấp thuận việc xin giải thể của Uỷ ban nhân dân, hợp tác xã phải thanh toán các khoản chi phí cho việc giải thể, trả vốn góp và chi trả các khoản theo Điều lệ hợp tác xã cho xã viên."
+ENTITY,E39_130,KHOAN,Khoản,structure,33954,34123,"2- Giải thể bắt buộc
+Uỷ ban nhân dân cấp giấy chứng nhận đăng ký kinh doanh có quyền quyết định buộc giải thể đối với hợp tác xã khi có một trong các trường hợp sau đây:"
+ENTITY,E39_131,KHOAN,Khoản,structure,34628,35178,"3- Uỷ ban nhân dân ra quyết định giải thể bắt buộc lập Hội đồng giải thể và chỉ định Chủ tịch Hội đồng để tổ chức việc giải thể hợp tác xã.
+Hội đồng giải thể hợp tác xã phải đăng báo địa phương nơi hợp tác xã hoạt động trong ba số liên tiếp về quyết định giải thể hợp tác xã; thông báo trình tự, thủ tục, thời hạn thanh toán nợ, thanh lý hợp đồng, thanh lý tài sản, trả vốn góp của xã viên và giải quyết các quyền lợi khác có liên quan.
+Thời hạn thanh toán nợ, thanh lý các hợp đồng tối đa là một trăm tám mươi ngày, kể từ ngày đăng báo lần thứ nhất."
+ENTITY,E39_132,KHOAN,Khoản,structure,35179,35459,"4- Kể từ ngày hợp tác xã nhận được thông báo giải thể, Uỷ ban nhân dân đã cấp giấy chứng nhận đăng ký kinh doanh phải thu hồi giấy chứng nhận đăng ký kinh doanh và xoá tên hợp tác xã trong sổ đăng ký kinh doanh; hợp tác xã phải nộp ngay con dấu cho cơ quan nhà nước có thẩm quyền."
+ENTITY,E39_133,KHOAN,Khoản,structure,35460,35665,"5- Nếu không đồng ý với quyết định của Uỷ ban nhân dân về việc giải thể hợp tác xã thì hợp tác xã có quyền khiếu nại, khởi kiện đến cơ quan nhà nước có thẩm quyền để giải quyết theo quy định của pháp luật."
+ENTITY,E39_134,KHOAN,Khoản,structure,35941,36358,"1- Các hợp tác xã có nhu cầu và tự nguyện có thể cùng nhau thành lập liên hiệp hợp tác xã.
+Liên hiệp hợp tác xã là tổ chức kinh tế, hoạt động theo nguyên tắc hợp tác xã, nhằm mục đích nâng cao hiệu quả sản xuất, kinh doanh, dịch vụ của các hợp tác xã thành viên, hỗ trợ nhau trong hoạt động và đáp ứng các nhu cầu khác của các thành viên tham gia.
+Liên hiệp hợp tác xã đăng ký kinh doanh tại Uỷ ban nhân dân cấp tỉnh."
+ENTITY,E39_135,KHOAN,Khoản,structure,36359,36546,"2- Liên hiệp hợp tác xã được tự chọn tên và biểu tượng của mình phù hợp với quy định của pháp luật. Con dấu, bảng hiệu, giấy tờ giao dịch của liên hiệp hợp tác xã phải có ký hiệu ""LHHTX""."
+ENTITY,E39_136,KHOAN,Khoản,structure,36547,36706,"3- Mục đích, chức năng, nhiệm vụ, cơ cấu tổ chức của liên hiệp hợp tác xã được quy định trong Điều lệ liên hiệp hợp tác xã do Đại hội các thành viên thông qua."
+ENTITY,E39_137,KHOAN,Khoản,structure,36707,36814,"4- Việc thành lập, đăng ký kinh doanh, tổ chức và hoạt động các liên hiệp hợp tác xã do Chính phủ quy định."
+ENTITY,E39_138,KHOAN,Khoản,structure,36853,37077,"1- Các hợp tác xã, liên hiệp hợp tác xã được tự nguyện cùng nhau thành lập Liên minh hợp tác xã theo ngành và Liên minh của tất cả các hợp tác xã thuộc các ngành kinh tế. Liên minh hợp tác xã có ở cấp trung ương và cấp tình."
+ENTITY,E39_139,KHOAN,Khoản,structure,37078,37679,"2- Liên minh hợp tác xã là tổ chức phi chính phủ có chức năng đại diện và bảo vệ quyền lợi hợp pháp của các hợp tác xã và liên hợp hợp tác xã; tuyên truyền, vận động phát triển hợp tác xã; tư vấn, cung cấp dịch vụ và hỗ trợ cho hợp tác xã, liên hợp hợp tác xã; tham gia xây dựng chính sách, pháp luật về hợp tác xã; đại diện cho hợp tác xã và liên hiệp hợp tác xã trong quan hệ hoạt động phối hợp giữa các thành viên trong và ngoài nước theo quy định của pháp luật.
+Chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức, tên gọi và tài chính của Liên minh hợp tác xã do Điều lệ liên minh hợp tác xã quy định."
+ENTITY,E39_140,KHOAN,Khoản,structure,37680,37859,"3- Liên minh hợp tác xã cấp trung ương do Thủ tướng Chính phủ ra quyết định công nhận; Liên minh hợp tác xã cấp tỉnh do Chủ tịch Uỷ ban nhân dân cấp tỉnh ra quyết định công nhận.
+"
+ENTITY,E39_141,KHOAN,Khoản,structure,37975,38105,1- Chính phủ thống nhất thực hiện chức năng quản lý nhà nước đối với hợp tác xã trong phạm vi cả nước theo những nội dung sau đây:
+ENTITY,E39_142,KHOAN,Khoản,structure,39071,39269,"2- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình giúp Chính phủ thực hiện việc quản lý nhà nước đối với hợp tác xã trong lĩnh vực được giao."
+ENTITY,E39_143,KHOAN,Khoản,structure,39368,39582,"1- Hội đồng nhân dân các cấp quyết định chủ trương, biện pháp về xây dựng và phát triển hợp tác xã ở địa phương; tuyên truyền, vận động nhân dân tham gia hợp tác xã; giám sát việc thực hiện pháp luật về hợp tác xã."
+ENTITY,E39_144,KHOAN,Khoản,structure,39583,39653,"2- Uỷ ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình:"
+ENTITY,E39_145,KHOAN,Khoản,structure,40225,40433,"3- Các cơ quan chuyên môn thuộc Uỷ ban nhân dân các cấp, trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình giúp Uỷ ban nhân dân thực hiện việc quản lý nhà nước đối với hợp tác xã trong lĩnh vực được giao."
+ENTITY,E39_146,KHOAN,Khoản,structure,40599,40768,1- Các cơ quan nhà nước có trách nhiệm phối hợp với Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận trong việc tổ chức thi hành pháp luật về hợp tác xã.
+ENTITY,E39_147,KHOAN,Khoản,structure,40769,40931,"2- Mặt trận Tổ quốc dựng và phát triển hợp tác xã; tham gia với các cơ quan nhà nước trong việc xây dựng chính sách và giám sát thi hành pháp luật về hợp tác xã.
+"
+ENTITY,E39_148,KHOAN,Khoản,structure,41060,41191,"1- Hợp tác xã và liên hiệp hợp tác xã hoạt động có hiệu quả, có nhiều đóng góp cho việc phát triển kinh tế - xã hội của địa phương;"
+ENTITY,E39_149,KHOAN,Khoản,structure,41192,41314,"2- Tổ chức, cá nhân và xã viên có nhiều thành tích xuất sắc trong lao động, sản xuất, kinh doanh và phát triển hợp tác xã."
+ENTITY,E39_150,KHOAN,Khoản,structure,41339,41616,"1- Người nào vi phạm Luật hợp tác xã, Điều lệ mẫu và Điều lệ hợp tác xã thì tuỳ theo tính chất và mức độ vi phạm mà bị khiển trách, cảnh cáo, cách chức, khai trừ ra khỏi hợp tác xã hoặc bị xử phạt hành chính; truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường."
+ENTITY,E39_151,KHOAN,Khoản,structure,41617,41867,"2- Tổ chức, cá nhân nào lợi dụng danh nghĩa hợp tác xã để hoạt động, hợp tác xã hoạt động không có giấy chứng nhận đăng ký kinh doanh hoặc kinh doanh không đúng ngành, nghề đã đăng ký thì bị đình chỉ hoạt động và bị xử lý theo quy định của pháp luật."
+ENTITY,E39_152,KHOAN,Khoản,structure,41868,42265,"3- Người nào có hành vi man trá trong việc đăng ký kinh doanh hoặc lợi dụng chức vụ, quyền hạn cấp giấy chứng nhận đăng ký kinh doanh không đúng quy định của pháp luật hoặc cố ý không cấp giấy chứng nhận đăng ký kinh doanh khi tổ chức có đủ điều kiện trở thành hợp tác xã, thì tuỳ theo tính chất, mức độ vi phạm mà có thể bị xử phạt hành chính, xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự.
+"
+ENTITY,E40_1,DIEM,Điểm,structure,9056,9098,a) Thông qua danh sách xã viên chính thức;
+ENTITY,E40_2,DIEM,Điểm,structure,9099,9131,b) Thông qua Điều lệ hợp tác xã;
+ENTITY,E40_3,DIEM,Điểm,structure,9132,9255,"c) Bầu Chủ nhiệm và các thành viên khác của Ban quản trị hoặc Hội đồng quản trị (gọi chung là Ban quản trị), Ban kiểm soát;"
+ENTITY,E40_4,DIEM,Điểm,structure,9256,9308,d) Thông qua biên bản hội nghị thành lập hợp tác xã.
+ENTITY,E40_5,DIEM,Điểm,structure,9539,9593,"a) Tên hợp tác xã, biểu tượng của hợp tác xã (nếu có);"
+ENTITY,E40_6,DIEM,Điểm,structure,9594,9633,b) Địa chỉ trụ sở chính của hợp tác xã;
+ENTITY,E40_7,DIEM,Điểm,structure,9634,9679,"c) Ngành, nghề sản xuất, kinh doanh, dịch vụ;"
+ENTITY,E40_8,DIEM,Điểm,structure,9680,9707,d) Các quy định về xã viên;
+ENTITY,E40_9,DIEM,Điểm,structure,9708,9738,đ) Vốn điều lệ của hợp tác xã;
+ENTITY,E40_10,DIEM,Điểm,structure,9739,9886,"e) Mức vốn góp tối thiểu; hình thức góp, thời hạn góp và trả vốn góp của xã viên; phương thức huy động vốn, trả công, chia lãi, xử lý các khoản lỗ;"
+ENTITY,E40_11,DIEM,Điểm,structure,9887,9943,"g) Trích lập, quản lý và sử dụng các quỹ của hợp tác xã;"
+ENTITY,E40_12,DIEM,Điểm,structure,9944,10054,"h) Cơ cấu tổ chức quản lý hợp tác xã; chức năng, nhiệm vụ, quyền hạn của các cơ quan quản lý trong hợp tác xã;"
+ENTITY,E40_13,DIEM,Điểm,structure,10055,10129,i) Thể thức tiến hành Đại hội và thông qua quyết định của đại Hội xã viên.
+ENTITY,E40_14,DIEM,Điểm,structure,10574,10665,a) Đơn đăng ký kinh doanh kèm theo biên bản đã thông qua tại hội nghị thành lập hợp tác xã;
+ENTITY,E40_15,DIEM,Điểm,structure,10666,10688,b) Điều lệ hợp tác xã;
+ENTITY,E40_16,DIEM,Điểm,structure,10689,10767,"c) Danh sách Ban quản trị gồm Chủ nhiệm và các thành viên khác, Ban kiểm soát;"
+ENTITY,E40_17,DIEM,Điểm,structure,10768,10818,"d) Danh sách xã viên, địa chỉ, nghề nghiệp của họ;"
+ENTITY,E40_18,DIEM,Điểm,structure,10819,10862,"đ) Phương án sản xuất, kinh doanh, dịch vụ;"
+ENTITY,E40_19,DIEM,Điểm,structure,10863,10943,"e) Giấy phép hành nghề đối với một số ngành, nghề mà pháp luật quy định phải có."
+ENTITY,E40_20,DIEM,Điểm,structure,16655,16671,a) Xã viên chết;
+ENTITY,E40_21,DIEM,Điểm,structure,16672,16711,b) Xã viên mất năng lực hành vi dân sự;
+ENTITY,E40_22,DIEM,Điểm,structure,16712,16792,c) Xã viên đã được chấp nhận ra hợp tác xã theo quy định của Điều lệ hợp tác xã;
+ENTITY,E40_23,DIEM,Điểm,structure,16793,16923,"d) Xã viên đã chuyển hết vốn góp và các quyền lợi, nghĩa vụ xã viên cho người khác theo quy định tại khoản 9 Điều 23 của Luật này;"
+ENTITY,E40_24,DIEM,Điểm,structure,16924,16963,đ) Xã viên bị Đại hội xã viên khai trừ;
+ENTITY,E40_25,DIEM,Điểm,structure,16964,17018,e) Các trường hợp khác do Điều lệ hợp tác xã quy định.
+ENTITY,E40_26,DIEM,Điểm,structure,22216,22317,"a) Chọn cử kế toán trưởng, quyết định cơ cấu tổ chức các bộ phận nghiệp vụ chuyên môn của hợp tác xã;"
+ENTITY,E40_27,DIEM,Điểm,structure,22318,22370,b) Tổ chức thực hiện nghị quyết của Đại hội xã viên;
+ENTITY,E40_28,DIEM,Điểm,structure,22371,22522,"c) Chuẩn bị báo cáo về kế hoạch sản xuất, kinh doanh, dịch vụ và huy động vốn của hợp tác xã, báo cáo hoạt động của Ban quản trị trình Đại hội xã viên;"
+ENTITY,E40_29,DIEM,Điểm,structure,22523,22605,d) Chuẩn bị chương trình nghị sự của Đại hội xã viên và triệu tập Đại hội xã viên;
+ENTITY,E40_30,DIEM,Điểm,structure,22606,22732,"đ) Đánh giá kết quả sản xuất, kinh doanh, dịch vụ của hợp tác xã; duyệt báo cáo quyết toán tài chính để trình Đại hội xã viên;"
+ENTITY,E40_31,DIEM,Điểm,structure,22733,22875,e) Xét kết nạp xã viên mới và giải quyết việc xã viên ra hợp tác xã (trừ trường hợp khai trừ xã viên) và báo cáo để Đại hội xã viên thông qua;
+ENTITY,E40_32,DIEM,Điểm,structure,22876,22941,g) Các nhiệm vụ và quyền hạn khác do Điều lệ hợp tác xã quy định.
+ENTITY,E40_33,DIEM,Điểm,structure,23162,23201,a) Đại điện hợp tác xã trước pháp luật;
+ENTITY,E40_34,DIEM,Điểm,structure,23202,23304,"b) Tổ chức thực hiện kế hoạch và điều hành mọi hoạt động sản xuất, kinh doanh, dịch vụ của hợp tác xã;"
+ENTITY,E40_35,DIEM,Điểm,structure,23305,23440,"c) Triệu tập và chủ trì các cuộc họp Ban quản trị, tổ chức thực hiện nghị quyết của Đại hội xã viên và các quyết định của Ban quản trị;"
+ENTITY,E40_36,DIEM,Điểm,structure,23441,23541,d) Tổ chức thực hiện các quyền và nghĩa vụ của hợp tác xã quy định tại các điều 8 và 9 của Luật này.
+ENTITY,E40_37,DIEM,Điểm,structure,25784,25993,"a) Khi có hành vi vi phạm pháp luật, Điều lệ, nội quy hợp tác xã và nghị quyết Đại hội xã viên, Ban kiểm soát đã yêu cầu mà Ban quản trị không thực hiện hoặc thực hiện không có kết quả các biện pháp ngăn chặn;"
+ENTITY,E40_38,DIEM,Điểm,structure,25994,26121,"b) Ban quản trị không triệu tập Đại hội xã viên bất thường theo yêu cầu của xã viên quy định tại khoản 4 Điều 26 của Luật này.
+"
+ENTITY,E40_39,DIEM,Điểm,structure,29109,29155,a) Trả bù các khoản lỗ của năm trước (nếu có);
+ENTITY,E40_40,DIEM,Điểm,structure,29156,29322,b) Trích lập các quỹ của hợp tác xã; chia lãi theo vốn góp và công sức đóng góp của xã viên; phần còn lại chia cho xã viên theo mức độ sử dụng dịch vụ của hợp tác xã.
+ENTITY,E40_41,DIEM,Điểm,structure,30191,30726,"a) Thành lập Hội đồng để giải quyết việc hợp nhất, chia tách hợp tác xã. Hội đồng dự định hợp nhất gồm Chủ nhiệm các hợp tác xã dự định hợp nhất; Hội đồng chia tách gồm Chủ nhiệm hợp tác xã dự định chia tách và những người đại diện của các hợp tác xã mới dự định hình thành từ hợp tác xã chia tách. Hội đồng có nhiệm vụ bàn bạc, hiệp thương để thống nhất giải quyết các vấn đề liên quan đến việc hợp nhất hoặc chia tách hợp tác xã; lập hồ sơ xin hợp nhất hoặc chia tách hợp tác xã; thực hiện nhiệm vụ Ban trù bị của các hợp tác xã mới;"
+ENTITY,E40_42,DIEM,Điểm,structure,30727,30964,"b) Xây dựng phương án xử lý tài sản, vốn, quỹ, tổ chức, nhân sự khi hợp nhất hoặc chia tách để Đại hội xã viên quyết định; xây dựng phương hướng sản xuất, kinh doanh, dịch vụ; dự thảo Điều lệ hợp tác xã mới để Đại hội xã viên quyết định;"
+ENTITY,E40_43,DIEM,Điểm,structure,30965,31175,"c) Triệu tập Đại hội xã viên để quyết định phương án xử lý tài sản, vốn, quỹ, tổ chức, nhân sự khi hợp nhất hoặc chia tách hợp tác xã; tiến hành các công việc quy định tại các khoản 2 và 3 Điều 13 của Luật này;"
+ENTITY,E40_44,DIEM,Điểm,structure,31176,31366,"d) Thông báo bằng văn bản cho các chủ nợ, các tổ chức và cá nhân có quan hệ kinh tế với hợp tác xã về quyết định hợp nhất hoặc chia tách và giải quyết các vấn đề kinh tế có liên quan đến họ;"
+ENTITY,E40_45,DIEM,Điểm,structure,31367,31826,"đ) Gửi hồ sơ xin hợp nhất hoặc chia tách hợp tác xã đến Uỷ ban nhân dân đã cấp giấy chứng nhận đăng ký kinh doanh, gồm:
+- Đơn xin hợp nhất hoặc chia tách hợp tác xã;
+- Nghị quyết Đại hội xã viên về hợp nhất hoặc chia tách hợp tác xã;
+- Phương án giải quyết các vấn đề liên quan đến hợp nhất hoặc chia tách đã thảo luận với các chủ nợ, tổ chức, cá nhân có quan hệ kinh tế với hợp tác xã;
+- Điều lệ hợp tác xã hợp nhất hoặc Điều lệ của hợp tác xã mới chia tách."
+ENTITY,E40_46,DIEM,Điểm,structure,34124,34251,"a) Sau thời hạn mười hai tháng, kể từ ngày được cấp giấy chứng nhận đăng ký kinh doanh mà hợp tác xã không tiến hành hoạt động;"
+ENTITY,E40_47,DIEM,Điểm,structure,34252,34308,b) Hợp tác xã ngừng hoạt động trong mười hai tháng liền;
+ENTITY,E40_48,DIEM,Điểm,structure,34309,34450,"c) Trong thời hạn sáu tháng liền, hợp tác xã không đủ số lượng xã viên tối thiểu theo quy định tại Điều lệ mẫu của từng loại hình hợp tác xã;"
+ENTITY,E40_49,DIEM,Điểm,structure,34451,34575,"d) Trong thời hạn mười tám tháng liền, hợp tác xã không tổ chức được Đại hội xã viên thường kỳ mà không có lý do chính đáng."
+ENTITY,E40_50,DIEM,Điểm,structure,34576,34627,đ) Các trường hợp khác theo quy định của pháp luật.
+ENTITY,E40_51,DIEM,Điểm,structure,38106,38215,"a) Xây dựng và chỉ đạo thực hiện chiến lược, quy hoạch, kế hoạch phát triển hợp tác xã trong phạm vi cả nước;"
+ENTITY,E40_52,DIEM,Điểm,structure,38216,38375,"b) Căn cứ vào Luật hợp tác xã để ban hành Điều lệ mẫu cho các loại hình hợp tác xã phù hợp với đặc điểm của từng ngành, từng lĩnh vực của nền kinh tế quốc dân;"
+ENTITY,E40_53,DIEM,Điểm,structure,38376,38751,"c) Căn cứ vào yêu cầu phát triển hợp tác xã và đặc điểm của từng ngành hoặc từng địa bàn cụ thể, ban hành các chính sách ưu đãi, hỗ trợ cho hợp tác xã về đất đai, thuế, tín dụng, đầu tư, xuất nhập khẩu, đào tạo, bồi dưỡng cán bộ, thông tin khoa học - công nghệ; có chính sách giảm hoặc miễn thuế lợi tức đối với hợp tác xã ở một số ngành, nghề hoặc địa bàn có nhiều khó khăn;"
+ENTITY,E40_54,DIEM,Điểm,structure,38752,38862,d) Tạo điều kiện để Liên minh các hợp tác xã ở trung ương và địa phương hoạt động theo quy định của pháp luật;
+ENTITY,E40_55,DIEM,Điểm,structure,38863,38987,"đ) Quy định cụ thể nhiệm vụ, quyền hạn của các Bộ, ngành và Uỷ ban nhân dân cấp tỉnh về quản lý nhà nước đối với hợp tác xã;"
+ENTITY,E40_56,DIEM,Điểm,structure,38988,39070,"e) Thực hiện chức năng thanh tra, kiểm tra hợp tác xã theo quy định của pháp luật."
+ENTITY,E40_57,DIEM,Điểm,structure,39654,39784,"a) Hướng dẫn thi hành, kiểm tra, thanh tra việc thực hiện Luật hợp tác xã, Điều lệ mẫu và các văn bản pháp luật khác có liên quan;"
+ENTITY,E40_58,DIEM,Điểm,structure,39785,39913,"b) Tuyên truyền, vận động, tạo điều kiện thuận lợi và hỗ trợ cho việc hình thành và phát triển hợp tác xã thuộc địa phương mình;"
+ENTITY,E40_59,DIEM,Điểm,structure,39914,40013,"c) Hướng dẫn, vận động các hợp tác xã phối hợp cùng hoạt động vì lợi ích của nhân dân ở địa phương;"
+ENTITY,E40_60,DIEM,Điểm,structure,40014,40125,"d) Giải quyết theo thẩm quyền các khiếu nại, tố cáo, tranh chấp và các hành vi vi phạm pháp luật về hợp tác xã;"
+ENTITY,E40_61,DIEM,Điểm,structure,40126,40224,đ) Thực hiện các nội dung khác về quản lý nhà nước đối với hợp tác xã theo quy định của pháp luật.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E2_1,E29_6,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E2_1,E29_7,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E2_1,E29_8,,
+RELATION,R17_9,DAN_CHIEU,Dẫn chiếu,E2_1,E29_9,,
+RELATION,R17_10,DAN_CHIEU,Dẫn chiếu,E2_1,E29_10,,
+RELATION,R17_11,DAN_CHIEU,Dẫn chiếu,E2_1,E29_11,,
+RELATION,R17_12,DAN_CHIEU,Dẫn chiếu,E2_1,E29_12,,
+RELATION,R17_13,DAN_CHIEU,Dẫn chiếu,E2_1,E29_13,,
+RELATION,R17_14,DAN_CHIEU,Dẫn chiếu,E2_1,E29_14,,
+RELATION,R17_15,DAN_CHIEU,Dẫn chiếu,E2_1,E29_15,,
+RELATION,R17_16,DAN_CHIEU,Dẫn chiếu,E2_1,E29_16,,
+RELATION,R17_17,DAN_CHIEU,Dẫn chiếu,E2_1,E29_17,,
+RELATION,R17_18,DAN_CHIEU,Dẫn chiếu,E2_1,E29_18,,
+RELATION,R17_19,DAN_CHIEU,Dẫn chiếu,E2_1,E29_19,,
+RELATION,R17_20,DAN_CHIEU,Dẫn chiếu,E2_1,E29_20,,
+RELATION,R17_21,DAN_CHIEU,Dẫn chiếu,E2_1,E29_21,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E2_1,E30_19,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E2_1,E30_20,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E2_1,E30_21,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E2_1,E30_22,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E2_1,E30_23,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E2_1,E30_24,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E2_1,E30_25,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E2_1,E30_26,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E2_1,E30_27,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E2_1,E30_28,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E2_1,E30_29,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E2_1,E30_30,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E2_1,E30_31,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E2_1,E30_32,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E2_1,E30_33,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E2_1,E30_34,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E2_1,E30_35,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_1,E38_6,,
+RELATION,R22_10,THUOC,Thuộc,E39_2,E38_6,,
+RELATION,R22_11,THUOC,Thuộc,E39_3,E38_6,,
+RELATION,R22_12,THUOC,Thuộc,E39_4,E38_6,,
+RELATION,R22_13,THUOC,Thuộc,E39_5,E38_6,,
+RELATION,R22_14,THUOC,Thuộc,E39_6,E38_6,,
+RELATION,R22_15,THUOC,Thuộc,E39_7,E38_6,,
+RELATION,R22_16,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_17,THUOC,Thuộc,E39_8,E38_7,,
+RELATION,R22_18,THUOC,Thuộc,E39_9,E38_7,,
+RELATION,R22_19,THUOC,Thuộc,E39_10,E38_7,,
+RELATION,R22_20,THUOC,Thuộc,E39_11,E38_7,,
+RELATION,R22_21,THUOC,Thuộc,E39_12,E38_7,,
+RELATION,R22_22,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_23,THUOC,Thuộc,E39_13,E38_8,,
+RELATION,R22_24,THUOC,Thuộc,E39_14,E38_8,,
+RELATION,R22_25,THUOC,Thuộc,E39_15,E38_8,,
+RELATION,R22_26,THUOC,Thuộc,E39_16,E38_8,,
+RELATION,R22_27,THUOC,Thuộc,E39_17,E38_8,,
+RELATION,R22_28,THUOC,Thuộc,E39_18,E38_8,,
+RELATION,R22_29,THUOC,Thuộc,E39_19,E38_8,,
+RELATION,R22_30,THUOC,Thuộc,E39_20,E38_8,,
+RELATION,R22_31,THUOC,Thuộc,E39_21,E38_8,,
+RELATION,R22_32,THUOC,Thuộc,E39_22,E38_8,,
+RELATION,R22_33,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,R22_34,THUOC,Thuộc,E39_23,E38_9,,
+RELATION,R22_35,THUOC,Thuộc,E39_24,E38_9,,
+RELATION,R22_36,THUOC,Thuộc,E39_25,E38_9,,
+RELATION,R22_37,THUOC,Thuộc,E39_26,E38_9,,
+RELATION,R22_38,THUOC,Thuộc,E39_27,E38_9,,
+RELATION,R22_39,THUOC,Thuộc,E39_28,E38_9,,
+RELATION,R22_40,THUOC,Thuộc,E39_29,E38_9,,
+RELATION,R22_41,THUOC,Thuộc,E39_30,E38_9,,
+RELATION,R22_42,THUOC,Thuộc,E39_31,E38_9,,
+RELATION,R22_43,THUOC,Thuộc,E39_32,E38_9,,
+RELATION,R22_44,THUOC,Thuộc,E39_33,E38_9,,
+RELATION,R22_45,THUOC,Thuộc,E38_10,E35_1,,
+RELATION,R22_46,THUOC,Thuộc,E38_11,E35_1,,
+RELATION,R22_47,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_48,THUOC,Thuộc,E39_34,E38_12,,
+RELATION,R22_49,THUOC,Thuộc,E39_35,E38_12,,
+RELATION,R22_50,THUOC,Thuộc,E39_36,E38_12,,
+RELATION,R22_51,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_52,THUOC,Thuộc,E39_37,E38_13,,
+RELATION,R22_53,THUOC,Thuộc,E39_38,E38_13,,
+RELATION,R22_54,THUOC,Thuộc,E39_39,E38_13,,
+RELATION,R22_55,THUOC,Thuộc,E40_1,E39_39,,
+RELATION,R22_56,THUOC,Thuộc,E40_2,E39_39,,
+RELATION,R22_57,THUOC,Thuộc,E40_3,E39_39,,
+RELATION,R22_58,THUOC,Thuộc,E40_4,E39_39,,
+RELATION,R22_59,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_60,THUOC,Thuộc,E39_40,E38_14,,
+RELATION,R22_61,THUOC,Thuộc,E39_41,E38_14,,
+RELATION,R22_62,THUOC,Thuộc,E40_5,E39_41,,
+RELATION,R22_63,THUOC,Thuộc,E40_6,E39_41,,
+RELATION,R22_64,THUOC,Thuộc,E40_7,E39_41,,
+RELATION,R22_65,THUOC,Thuộc,E40_8,E39_41,,
+RELATION,R22_66,THUOC,Thuộc,E40_9,E39_41,,
+RELATION,R22_67,THUOC,Thuộc,E40_10,E39_41,,
+RELATION,R22_68,THUOC,Thuộc,E40_11,E39_41,,
+RELATION,R22_69,THUOC,Thuộc,E40_12,E39_41,,
+RELATION,R22_70,THUOC,Thuộc,E40_13,E39_41,,
+RELATION,R22_71,THUOC,Thuộc,E39_42,E38_14,,
+RELATION,R22_72,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_73,THUOC,Thuộc,E39_43,E38_15,,
+RELATION,R22_74,THUOC,Thuộc,E40_14,E39_43,,
+RELATION,R22_75,THUOC,Thuộc,E40_15,E39_43,,
+RELATION,R22_76,THUOC,Thuộc,E40_16,E39_43,,
+RELATION,R22_77,THUOC,Thuộc,E40_17,E39_43,,
+RELATION,R22_78,THUOC,Thuộc,E40_18,E39_43,,
+RELATION,R22_79,THUOC,Thuộc,E40_19,E39_43,,
+RELATION,R22_80,THUOC,Thuộc,E39_44,E38_15,,
+RELATION,R22_81,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,R22_82,THUOC,Thuộc,E39_45,E38_16,,
+RELATION,R22_83,THUOC,Thuộc,E39_46,E38_16,,
+RELATION,R22_84,THUOC,Thuộc,E39_47,E38_16,,
+RELATION,R22_85,THUOC,Thuộc,E39_48,E38_16,,
+RELATION,R22_86,THUOC,Thuộc,E39_49,E38_16,,
+RELATION,R22_87,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_88,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,R22_89,THUOC,Thuộc,E39_50,E38_18,,
+RELATION,R22_90,THUOC,Thuộc,E39_51,E38_18,,
+RELATION,R22_91,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,R22_92,THUOC,Thuộc,E38_20,E35_2,,
+RELATION,R22_93,THUOC,Thuộc,E38_21,E35_2,,
+RELATION,R22_94,THUOC,Thuộc,E39_52,E38_21,,
+RELATION,R22_95,THUOC,Thuộc,E39_53,E38_21,,
+RELATION,R22_96,THUOC,Thuộc,E39_54,E38_21,,
+RELATION,R22_97,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,R22_98,THUOC,Thuộc,E39_55,E38_22,,
+RELATION,R22_99,THUOC,Thuộc,E39_56,E38_22,,
+RELATION,R22_100,THUOC,Thuộc,E39_57,E38_22,,
+RELATION,R22_101,THUOC,Thuộc,E38_23,E35_3,,
+RELATION,R22_102,THUOC,Thuộc,E39_58,E38_23,,
+RELATION,R22_103,THUOC,Thuộc,E39_59,E38_23,,
+RELATION,R22_104,THUOC,Thuộc,E39_60,E38_23,,
+RELATION,R22_105,THUOC,Thuộc,E39_61,E38_23,,
+RELATION,R22_106,THUOC,Thuộc,E39_62,E38_23,,
+RELATION,R22_107,THUOC,Thuộc,E39_63,E38_23,,
+RELATION,R22_108,THUOC,Thuộc,E39_64,E38_23,,
+RELATION,R22_109,THUOC,Thuộc,E39_65,E38_23,,
+RELATION,R22_110,THUOC,Thuộc,E39_66,E38_23,,
+RELATION,R22_111,THUOC,Thuộc,E39_67,E38_23,,
+RELATION,R22_112,THUOC,Thuộc,E39_68,E38_23,,
+RELATION,R22_113,THUOC,Thuộc,E38_24,E35_3,,
+RELATION,R22_114,THUOC,Thuộc,E39_69,E38_24,,
+RELATION,R22_115,THUOC,Thuộc,E39_70,E38_24,,
+RELATION,R22_116,THUOC,Thuộc,E39_71,E38_24,,
+RELATION,R22_117,THUOC,Thuộc,E39_72,E38_24,,
+RELATION,R22_118,THUOC,Thuộc,E39_73,E38_24,,
+RELATION,R22_119,THUOC,Thuộc,E39_74,E38_24,,
+RELATION,R22_120,THUOC,Thuộc,E38_25,E35_3,,
+RELATION,R22_121,THUOC,Thuộc,E39_75,E38_25,,
+RELATION,R22_122,THUOC,Thuộc,E40_20,E39_75,,
+RELATION,R22_123,THUOC,Thuộc,E40_21,E39_75,,
+RELATION,R22_124,THUOC,Thuộc,E40_22,E39_75,,
+RELATION,R22_125,THUOC,Thuộc,E40_23,E39_75,,
+RELATION,R22_126,THUOC,Thuộc,E40_24,E39_75,,
+RELATION,R22_127,THUOC,Thuộc,E40_25,E39_75,,
+RELATION,R22_128,THUOC,Thuộc,E39_76,E38_25,,
+RELATION,R22_129,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,R22_130,THUOC,Thuộc,E39_77,E38_26,,
+RELATION,R22_131,THUOC,Thuộc,E39_78,E38_26,,
+RELATION,R22_132,THUOC,Thuộc,E39_79,E38_26,,
+RELATION,R22_133,THUOC,Thuộc,E39_80,E38_26,,
+RELATION,R22_134,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,R22_135,THUOC,Thuộc,E39_81,E38_27,,
+RELATION,R22_136,THUOC,Thuộc,E39_82,E38_27,,
+RELATION,R22_137,THUOC,Thuộc,E39_83,E38_27,,
+RELATION,R22_138,THUOC,Thuộc,E39_84,E38_27,,
+RELATION,R22_139,THUOC,Thuộc,E39_85,E38_27,,
+RELATION,R22_140,THUOC,Thuộc,E39_86,E38_27,,
+RELATION,R22_141,THUOC,Thuộc,E39_87,E38_27,,
+RELATION,R22_142,THUOC,Thuộc,E39_88,E38_27,,
+RELATION,R22_143,THUOC,Thuộc,E39_89,E38_27,,
+RELATION,R22_144,THUOC,Thuộc,E39_90,E38_27,,
+RELATION,R22_145,THUOC,Thuộc,E38_28,E35_4,,
+RELATION,R22_146,THUOC,Thuộc,E39_91,E38_28,,
+RELATION,R22_147,THUOC,Thuộc,E39_92,E38_28,,
+RELATION,R22_148,THUOC,Thuộc,E39_93,E38_28,,
+RELATION,R22_149,THUOC,Thuộc,E38_29,E35_4,,
+RELATION,R22_150,THUOC,Thuộc,E38_30,E35_4,,
+RELATION,R22_151,THUOC,Thuộc,E39_94,E38_30,,
+RELATION,R22_152,THUOC,Thuộc,E39_95,E38_30,,
+RELATION,R22_153,THUOC,Thuộc,E39_96,E38_30,,
+RELATION,R22_154,THUOC,Thuộc,E38_31,E35_4,,
+RELATION,R22_155,THUOC,Thuộc,E38_32,E35_4,,
+RELATION,R22_156,THUOC,Thuộc,E39_97,E38_32,,
+RELATION,R22_157,THUOC,Thuộc,E40_26,E39_97,,
+RELATION,R22_158,THUOC,Thuộc,E40_27,E39_97,,
+RELATION,R22_159,THUOC,Thuộc,E40_28,E39_97,,
+RELATION,R22_160,THUOC,Thuộc,E40_29,E39_97,,
+RELATION,R22_161,THUOC,Thuộc,E40_30,E39_97,,
+RELATION,R22_162,THUOC,Thuộc,E40_31,E39_97,,
+RELATION,R22_163,THUOC,Thuộc,E40_32,E39_97,,
+RELATION,R22_164,THUOC,Thuộc,E39_98,E38_32,,
+RELATION,R22_165,THUOC,Thuộc,E38_33,E35_4,,
+RELATION,R22_166,THUOC,Thuộc,E39_99,E38_33,,
+RELATION,R22_167,THUOC,Thuộc,E40_33,E39_99,,
+RELATION,R22_168,THUOC,Thuộc,E40_34,E39_99,,
+RELATION,R22_169,THUOC,Thuộc,E40_35,E39_99,,
+RELATION,R22_170,THUOC,Thuộc,E40_36,E39_99,,
+RELATION,R22_171,THUOC,Thuộc,E39_100,E38_33,,
+RELATION,R22_172,THUOC,Thuộc,E39_101,E38_33,,
+RELATION,R22_173,THUOC,Thuộc,E38_34,E35_4,,
+RELATION,R22_174,THUOC,Thuộc,E39_102,E38_34,,
+RELATION,R22_175,THUOC,Thuộc,E39_103,E38_34,,
+RELATION,R22_176,THUOC,Thuộc,E39_104,E38_34,,
+RELATION,R22_177,THUOC,Thuộc,E39_105,E38_34,,
+RELATION,R22_178,THUOC,Thuộc,E38_35,E35_4,,
+RELATION,R22_179,THUOC,Thuộc,E39_106,E38_35,,
+RELATION,R22_180,THUOC,Thuộc,E39_107,E38_35,,
+RELATION,R22_181,THUOC,Thuộc,E39_108,E38_35,,
+RELATION,R22_182,THUOC,Thuộc,E39_109,E38_35,,
+RELATION,R22_183,THUOC,Thuộc,E39_110,E38_35,,
+RELATION,R22_184,THUOC,Thuộc,E39_111,E38_35,,
+RELATION,R22_185,THUOC,Thuộc,E39_112,E38_35,,
+RELATION,R22_186,THUOC,Thuộc,E39_113,E38_35,,
+RELATION,R22_187,THUOC,Thuộc,E40_37,E39_113,,
+RELATION,R22_188,THUOC,Thuộc,E40_38,E39_113,,
+RELATION,R22_189,THUOC,Thuộc,E38_36,E35_5,,
+RELATION,R22_190,THUOC,Thuộc,E39_114,E38_36,,
+RELATION,R22_191,THUOC,Thuộc,E39_115,E38_36,,
+RELATION,R22_192,THUOC,Thuộc,E38_37,E35_5,,
+RELATION,R22_193,THUOC,Thuộc,E39_116,E38_37,,
+RELATION,R22_194,THUOC,Thuộc,E39_117,E38_37,,
+RELATION,R22_195,THUOC,Thuộc,E39_118,E38_37,,
+RELATION,R22_196,THUOC,Thuộc,E39_119,E38_37,,
+RELATION,R22_197,THUOC,Thuộc,E38_38,E35_5,,
+RELATION,R22_198,THUOC,Thuộc,E38_39,E35_5,,
+RELATION,R22_199,THUOC,Thuộc,E39_120,E38_39,,
+RELATION,R22_200,THUOC,Thuộc,E39_121,E38_39,,
+RELATION,R22_201,THUOC,Thuộc,E38_40,E35_5,,
+RELATION,R22_202,THUOC,Thuộc,E39_122,E38_40,,
+RELATION,R22_203,THUOC,Thuộc,E39_123,E38_40,,
+RELATION,R22_204,THUOC,Thuộc,E38_41,E35_5,,
+RELATION,R22_205,THUOC,Thuộc,E38_42,E35_5,,
+RELATION,R22_206,THUOC,Thuộc,E39_124,E38_42,,
+RELATION,R22_207,THUOC,Thuộc,E40_39,E39_124,,
+RELATION,R22_208,THUOC,Thuộc,E40_40,E39_124,,
+RELATION,R22_209,THUOC,Thuộc,E39_125,E38_42,,
+RELATION,R22_210,THUOC,Thuộc,E38_43,E35_5,,
+RELATION,R22_211,THUOC,Thuộc,E38_44,E35_6,,
+RELATION,R22_212,THUOC,Thuộc,E38_45,E35_6,,
+RELATION,R22_213,THUOC,Thuộc,E39_126,E38_45,,
+RELATION,R22_214,THUOC,Thuộc,E40_41,E39_126,,
+RELATION,R22_215,THUOC,Thuộc,E40_42,E39_126,,
+RELATION,R22_216,THUOC,Thuộc,E40_43,E39_126,,
+RELATION,R22_217,THUOC,Thuộc,E40_44,E39_126,,
+RELATION,R22_218,THUOC,Thuộc,E40_45,E39_126,,
+RELATION,R22_219,THUOC,Thuộc,E39_127,E38_45,,
+RELATION,R22_220,THUOC,Thuộc,E39_128,E38_45,,
+RELATION,R22_221,THUOC,Thuộc,E38_46,E35_6,,
+RELATION,R22_222,THUOC,Thuộc,E39_129,E38_46,,
+RELATION,R22_223,THUOC,Thuộc,E39_130,E38_46,,
+RELATION,R22_224,THUOC,Thuộc,E40_46,E39_130,,
+RELATION,R22_225,THUOC,Thuộc,E40_47,E39_130,,
+RELATION,R22_226,THUOC,Thuộc,E40_48,E39_130,,
+RELATION,R22_227,THUOC,Thuộc,E40_49,E39_130,,
+RELATION,R22_228,THUOC,Thuộc,E40_50,E39_130,,
+RELATION,R22_229,THUOC,Thuộc,E39_131,E38_46,,
+RELATION,R22_230,THUOC,Thuộc,E39_132,E38_46,,
+RELATION,R22_231,THUOC,Thuộc,E39_133,E38_46,,
+RELATION,R22_232,THUOC,Thuộc,E38_47,E35_6,,
+RELATION,R22_233,THUOC,Thuộc,E38_48,E35_7,,
+RELATION,R22_234,THUOC,Thuộc,E39_134,E38_48,,
+RELATION,R22_235,THUOC,Thuộc,E39_135,E38_48,,
+RELATION,R22_236,THUOC,Thuộc,E39_136,E38_48,,
+RELATION,R22_237,THUOC,Thuộc,E39_137,E38_48,,
+RELATION,R22_238,THUOC,Thuộc,E38_49,E35_7,,
+RELATION,R22_239,THUOC,Thuộc,E39_138,E38_49,,
+RELATION,R22_240,THUOC,Thuộc,E39_139,E38_49,,
+RELATION,R22_241,THUOC,Thuộc,E39_140,E38_49,,
+RELATION,R22_242,THUOC,Thuộc,E38_50,E35_8,,
+RELATION,R22_243,THUOC,Thuộc,E39_141,E38_50,,
+RELATION,R22_244,THUOC,Thuộc,E40_51,E39_141,,
+RELATION,R22_245,THUOC,Thuộc,E40_52,E39_141,,
+RELATION,R22_246,THUOC,Thuộc,E40_53,E39_141,,
+RELATION,R22_247,THUOC,Thuộc,E40_54,E39_141,,
+RELATION,R22_248,THUOC,Thuộc,E40_55,E39_141,,
+RELATION,R22_249,THUOC,Thuộc,E40_56,E39_141,,
+RELATION,R22_250,THUOC,Thuộc,E39_142,E38_50,,
+RELATION,R22_251,THUOC,Thuộc,E38_51,E35_8,,
+RELATION,R22_252,THUOC,Thuộc,E39_143,E38_51,,
+RELATION,R22_253,THUOC,Thuộc,E39_144,E38_51,,
+RELATION,R22_254,THUOC,Thuộc,E40_57,E39_144,,
+RELATION,R22_255,THUOC,Thuộc,E40_58,E39_144,,
+RELATION,R22_256,THUOC,Thuộc,E40_59,E39_144,,
+RELATION,R22_257,THUOC,Thuộc,E40_60,E39_144,,
+RELATION,R22_258,THUOC,Thuộc,E40_61,E39_144,,
+RELATION,R22_259,THUOC,Thuộc,E39_145,E38_51,,
+RELATION,R22_260,THUOC,Thuộc,E38_52,E35_8,,
+RELATION,R22_261,THUOC,Thuộc,E39_146,E38_52,,
+RELATION,R22_262,THUOC,Thuộc,E39_147,E38_52,,
+RELATION,R22_263,THUOC,Thuộc,E38_53,E35_9,,
+RELATION,R22_264,THUOC,Thuộc,E39_148,E38_53,,
+RELATION,R22_265,THUOC,Thuộc,E39_149,E38_53,,
+RELATION,R22_266,THUOC,Thuộc,E38_54,E35_9,,
+RELATION,R22_267,THUOC,Thuộc,E39_150,E38_54,,
+RELATION,R22_268,THUOC,Thuộc,E39_151,E38_54,,
+RELATION,R22_269,THUOC,Thuộc,E39_152,E38_54,,
+RELATION,R22_270,THUOC,Thuộc,E38_55,E35_10,,
+RELATION,R22_271,THUOC,Thuộc,E38_56,E35_10,,

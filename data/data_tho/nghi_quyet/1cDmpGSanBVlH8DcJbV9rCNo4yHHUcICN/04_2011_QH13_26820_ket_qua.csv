@@ -1,0 +1,80 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,165,"Nghị quyết số 04/2011/QH13 Phê chuẩn đề nghị của Thủ tướng Chính phủ về việc bổ nhiệm các Phó Thủ tướng Chính phủ, các Bộ trưởng và các thành viên khác của Chính phủ"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,26,04/2011/QH13
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,2923,2937,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,2958,2968,2011-08-03
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,2992,3004,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,658,666,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,2824,2841,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,2842,2858,Nguyễn Sinh Hùng
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,493,628,"Điều 84 và Điều 114 Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10"
+ENTITY,E14_2,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,637,666,Điều 84 Luật Tổ chức Quốc hội
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,493,628,"Điều 84 và Điều 114 Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10"
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,637,666,Điều 84 Luật Tổ chức Quốc hội
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,3285,3527,"Quyết định số 93/2025/QĐ-UBND Sửa đổi, bổ sung một số điều của Quy định ban hành kèm theo Quyết định số 42/2020/QĐ-UBND ngày 26/11/2020 của Uỷ ban nhân dân tỉnh ban hành quy định về quản lý hoạt động đo lường trên địa bàn tỉnh Lai Châu"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,3547,3784,"Quyết định số 52/2022/QĐ-UBND Sửa đổi, bổ sung một số Điều của Quy định về quản lý hoạt động đo lường trên địa bàn tỉnh Điện Biên ban hành kèm theo Quyết định số 28/2018/QĐ-UBND ngày 25 tháng 6 năm 2018 của Ủy ban nhân dân tỉnh Điện Biên"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,3804,3929,Quyết định số 27/2013/QĐ-UBND Ban hành quy định xây dựng và tổ chức hoạt động trạm cân đối chứng trên địa bàn tỉnh Bình Thuận
+ENTITY,E34_1,PHAN,Phần,structure,1348,1375,I. PHÓ THỦ TƯỚNG CHÍNH PHỦ:
+ENTITY,E34_2,PHAN,Phần,structure,1467,1518,II. BỘ TRƯỞNG VÀ CÁC THÀNH VIÊN KHÁC CỦA CHÍNH PHỦ:
+ENTITY,E36_1,MUC,Mục,structure,1376,1398,1. Ông Hoàng Trung Hải
+ENTITY,E36_2,MUC,Mục,structure,1399,1423,2. Ông Nguyễn Thiện Nhân
+ENTITY,E36_3,MUC,Mục,structure,1424,1447,3. Ông Nguyễn Xuân Phúc
+ENTITY,E36_4,MUC,Mục,structure,1448,1466,4. Ông Vũ Văn Ninh
+ENTITY,E36_5,MUC,Mục,structure,1519,1567,1. Bộ trưởng Bộ Quốc phòng Ông Phùng Quang Thanh
+ENTITY,E36_6,MUC,Mục,structure,1568,1610,2. Bộ trưởng Bộ Công an Ông Trần Đại Quang
+ENTITY,E36_7,MUC,Mục,structure,1611,1656,3. Bộ trưởng Bộ Ngoại giao Ông Phạm Bình Minh
+ENTITY,E36_8,MUC,Mục,structure,1657,1700,4. Bộ trưởng Bộ Nội vụ Ông Nguyễn Thái Bình
+ENTITY,E36_9,MUC,Mục,structure,1701,1742,5. Bộ trưởng Bộ Tư pháp Ông Hà Hùng Cường
+ENTITY,E36_10,MUC,Mục,structure,1743,1796,6. Bộ trưởng Bộ Kế hoạch và Đầu tư Ông Bùi Quang Vinh
+ENTITY,E36_11,MUC,Mục,structure,1797,1841,7. Bộ trưởng Bộ Tài chính Ông Vương Đình Huệ
+ENTITY,E36_12,MUC,Mục,structure,1842,1886,8. Bộ trưởng Bộ Công thương Ông Vũ Huy Hoàng
+ENTITY,E36_13,MUC,Mục,structure,1887,1955,9. Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn Ông Cao Đức Phát
+ENTITY,E36_14,MUC,Mục,structure,1956,2009,10. Bộ trưởng Bộ Giao thông vận tải Ông Đinh La Thăng
+ENTITY,E36_15,MUC,Mục,structure,2010,2055,11. Bộ trưởng Bộ Xây dựng Ông Trịnh Đình Dũng
+ENTITY,E36_16,MUC,Mục,structure,2056,2119,12. Bộ trưởng Bộ Tài nguyên và Môi trường Ông Nguyễn Minh Quang
+ENTITY,E36_17,MUC,Mục,structure,2120,2181,13. Bộ trưởng Bộ Thông tin và Truyền thông Ông Nguyễn Bắc Son
+ENTITY,E36_18,MUC,Mục,structure,2182,2252,14. Bộ trưởng Bộ Lao động-Thương binh và Xã hội Bà Phạm Thị Hải Chuyền
+ENTITY,E36_19,MUC,Mục,structure,2253,2317,"15. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch Ông Hoàng Tuấn Anh"
+ENTITY,E36_20,MUC,Mục,structure,2318,2356,16. Bộ trưởng Bộ Khoa học và Công nghệ
+ENTITY,E36_21,MUC,Mục,structure,2357,2410,17. Bộ trưởng Bộ Giáo dục và Đào tạo Ông Phạm Vũ Luận
+ENTITY,E36_22,MUC,Mục,structure,2411,2455,18. Bộ trưởng Bộ Y tế Bà Nguyễn Thị Kim Tiến
+ENTITY,E36_23,MUC,Mục,structure,2456,2513,"19. Bộ trưởng, Chủ nhiệm Uỷ ban Dân tộc Ông Giàng Seo Phử"
+ENTITY,E36_24,MUC,Mục,structure,2514,2575,20. Thống đốc Ngân hàng Nhà nước Việt Nam Ông Nguyễn Văn Bình
+ENTITY,E36_25,MUC,Mục,structure,2576,2626,21. Tổng Thanh tra Chính phủ Ông Huỳnh Phong Tranh
+ENTITY,E36_26,MUC,Mục,structure,2627,2686,"22. Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ Ông Vũ Đức Đam"
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R2_2,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_2,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E36_1,E34_1,,
+RELATION,R22_4,THUOC,Thuộc,E36_2,E34_1,,
+RELATION,R22_5,THUOC,Thuộc,E36_3,E34_1,,
+RELATION,R22_6,THUOC,Thuộc,E36_4,E34_1,,
+RELATION,R22_7,THUOC,Thuộc,E36_5,E34_2,,
+RELATION,R22_8,THUOC,Thuộc,E36_6,E34_2,,
+RELATION,R22_9,THUOC,Thuộc,E36_7,E34_2,,
+RELATION,R22_10,THUOC,Thuộc,E36_8,E34_2,,
+RELATION,R22_11,THUOC,Thuộc,E36_9,E34_2,,
+RELATION,R22_12,THUOC,Thuộc,E36_10,E34_2,,
+RELATION,R22_13,THUOC,Thuộc,E36_11,E34_2,,
+RELATION,R22_14,THUOC,Thuộc,E36_12,E34_2,,
+RELATION,R22_15,THUOC,Thuộc,E36_13,E34_2,,
+RELATION,R22_16,THUOC,Thuộc,E36_14,E34_2,,
+RELATION,R22_17,THUOC,Thuộc,E36_15,E34_2,,
+RELATION,R22_18,THUOC,Thuộc,E36_16,E34_2,,
+RELATION,R22_19,THUOC,Thuộc,E36_17,E34_2,,
+RELATION,R22_20,THUOC,Thuộc,E36_18,E34_2,,
+RELATION,R22_21,THUOC,Thuộc,E36_19,E34_2,,
+RELATION,R22_22,THUOC,Thuộc,E36_20,E34_2,,
+RELATION,R22_23,THUOC,Thuộc,E36_21,E34_2,,
+RELATION,R22_24,THUOC,Thuộc,E36_22,E34_2,,
+RELATION,R22_25,THUOC,Thuộc,E36_23,E34_2,,
+RELATION,R22_26,THUOC,Thuộc,E36_24,E34_2,,
+RELATION,R22_27,THUOC,Thuộc,E36_25,E34_2,,
+RELATION,R22_28,THUOC,Thuộc,E36_26,E34_2,,

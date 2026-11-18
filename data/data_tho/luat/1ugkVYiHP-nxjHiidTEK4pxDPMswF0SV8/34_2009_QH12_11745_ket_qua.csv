@@ -1,0 +1,159 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,90,"Luật Sửa đổi, bổ sung Điều 126 của Luật Nhà ở và Điều 121 của Luật Đất đai số 34/2009/QH12"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,78,90,34/2009/QH12
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,3504,3528,Tài nguyên và Môi trường
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,180,204,Ngày 18 tháng 6 năm 2009
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,3541,3555,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,3066,3090,ngày 01 tháng 9 năm 2009
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,3577,3587,2015-07-01
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,451,459,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,3400,3417,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,3426,3442,Nguyễn Phú Trọng
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,322,380,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,504,530,Luật nhà ở số 56/2005/QH11
+ENTITY,E15_2,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,547,575,Luật đất đai số 13/2003/QH11
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,322,380,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3681,3808,"Thông tư số 17/2009/TT-BTNMT Quy định về Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3858,3978,"Nghị định số 88/2009/NĐ-CP Về cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4028,4101,Thông tư số 17/2010/TT-BTNMT Quy định kỹ thuật về chuẩn dữ liệu địa chính
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4151,4228,Nghị định số 71/2010/NĐ-CP Quy định chi tiết và hướng dẫn thi hành Luật Nhà ở
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4278,4577,"Thông tư số 03/2014/TT-BXD Sửa đổi, bổ sung Điều 21 của Thông tư số 16/2010/TT-BXD ngày 01 tháng 9 năm 2010 của Bộ Xây dựng quy định cụ thể và hướng dẫn thực hiện một số nội dung của Nghị định số 71/2010/NĐ-CP ngày 23 tháng 6 năm 2010 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Nhà ở"
+ENTITY,E24_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4627,4763,Quyết định số 518/QĐ-TTg Về việc phê duyệt Đề án xây dựng hệ thống cảnh báo nhanh và phân tích nguy cơ về an toàn thực phẩm tại Việt Nam
+ENTITY,E24_7,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,4813,5081,Thông tư liên tịch số 01/2014/TTLT-NHNN-BXD-BTP-BTNMT Hướng dẫn thủ tục thế chấp nhà ở hình thành trong tương lai theo quy định tại khoản 2 Điều 61 của Nghị định số 71/2010/NĐ-CP ngày 23 tháng 6 năm 2010 của Chỉnh phủ quy định chi tiết và hướng dẫn thi hành Luật Nhà ở
+ENTITY,E24_8,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,5131,5266,"Thông tư số 20/2010/TT-BTNMT Quy định bổ sung về Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+ENTITY,E24_9,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,5316,5513,"Thông tư số 12/2011/TT-BXD Hướng dẫn thực hiện một số nội dung của Nghị định 74/2005/NĐ-CP ngày 07 tháng 06 năm 2005 của Chính phủ về phòng, chống rửa tiền đối với hoạt động kinh doanh bất động sản"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,5564,5592,Luật Đất đai số 45/2013/QH13
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,5614,5815,"Quyết định 338/QĐ-UBND năm 2010 ban hành Kế hoạch triển khai công tác phổ biến, giáo dục pháp luật năm 2010 trên địa bàn thành phố Hồ Chí Minh do Chủ tịch Ủy ban nhân dân thành phố Hồ Chí Minh ban hành"
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,5837,5986,"Nghị quyết số 10/2010/NQ-HĐND về việc sửa đổi, bổ sung một số nội dung quy định về phí, lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,6006,6136,"Quyết định số 36/2010/QĐ-UBND Bổ sung nhiệm vụ, quyền hạn về công tác định giá đất cho sở tài nguyên và môi trường Tỉnh Bình Phước"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,6156,6393,"Quyết định 15/2009/QĐ-UBND điều chỉnh Quyết định 05/2009/QĐ-UBND quy trình về trình tự, thủ tục theo cơ chế “một cửa liên thông” và trách nhiệm trong việc giải quyết hồ sơ hành chính trên địa bàn quận 7 do Ủy ban nhân dân quận 7 ban hành"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,6413,6542,"Quyết định số 19/2011/QĐ-UBND Ban hành Quy định về trình tự, thủ tục hành chính thi hành Luật Đất đai trên địa bàn tỉnh Quảng Nam"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,6562,6754,"Quyết định số 18/2010/QĐ-UBND Ban hành Quy chế phối hợp cấp giấy chứng nhận, đăng ký biến động quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất trên địa bàn tỉnh Đồng Nai"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,6774,7076,"Quyết định số 59/2012/QĐ-UBND Về việc sửa đổi, bổ sung một số điều của Quy định về cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở, tài sản khác gắn liền với đất và đăng ký biến động sau khi cấp Giấy chứng nhận ban hành kèm theo Quyết định số 31/2012/QĐ-UBND ngày 31/7/2012 của UBND thành phố"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,7096,7242,Quyết định số 31/2010/QĐ-UBND Về việc ban hành quy định về diện tích tối thiểu được phép tách thửa đối với các loại đất trên địa bàn tỉnh Tây Ninh
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,7262,7382,"Nghị định số 88/2009/NĐ-CP Về cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,7402,7561,"Quyết định số 46/2010/QĐ-UBND Ban hành Quy định về cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất trên địa bàn tỉnh"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,7581,7774,"Quyết định số 45/2011/QĐ-UBND Ban hành quy định về đơn giản hóa các thủ tục hành chính trong quản lý quyền sử dụng đất, quyền sở hữu nhà ở và tài sản gắn liền với đất trên địa bàn tỉnh An Giang"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,7794,7980,"Quyết định số 1937/2012/QĐ-UBND Về việc phê duyệt bổ sung Dự án: Khu đô thị Nưa, Triệu Sơn vào danh mục dự án có sử dụng đất cần lựa chọn nhà đầu tư năm 2012 trên địa bàn tỉnh Thanh Hóa."
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,8000,8140,Quyết định số 17/2013/QĐ-UBND Ban hành Quy định giải quyết tranh chấp đất đai của các cơ quan hành chính Nhà nước trên địa bàn tỉnh Trà Vinh
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,8160,8498,"Quyết định số 13/2013/QĐ-UBND Ban hành Quy định về cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; đăng ký biến động về sử dụng đất, sở hữu tài sản gắn liền với đất cho hộ gia đình, cá nhân, cộng đồng dân cư, người việt nam định cư ở nước ngoài, cá nhân nước ngoài trên địa bàn Thành phố Hà Nội"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,8518,8849,"Quyết định số 37/2011/QĐ-UBND Ban hành Quy định trình tự, thủ tục, thời gian giải quyết hồ sơ theo cơ chế một cửa liên thông trong lĩnh vực đất đai, nhà ở và tài sản khác gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư, người Việt Nam định cư ở nước ngoài được sở hữu nhà ở tại Việt Nam trên địa bàn tỉnh Tiền Giang"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,8869,9089,"Quyết định số 08/2013/QĐ-UBND Ban hành quy chế phối hợp, cung cấp thông tin giữa các cơ quan trong việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất trên địa bàn tỉnh Lào Cai"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,9109,9274,Quyết định số 21/2011/QĐ-UBND Về việc ban hành Quy chế bán đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất trên địa bàn tỉnh Hòa Bình
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,9294,9473,"Quyết định số 04/2010/QĐ-UBND Ban hành quy định về cấp Giấy chứng nhận quyền sử dụng đất (QSDĐ), quyền sở hữu nhà ở (QSHNƠ) và tài sản gắn liền với đất trên địa bàn tỉnh Vĩnh Long"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,9493,9644,Quyết định số 14/2010/QĐ-UBND Quy định chính sách khuyến khích và ưu đãi đầu tư vào lĩnh vực bảo vệ tài nguyên và môi trường trên địa bàn tỉnh An Giang
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,9664,9828,"Quyết định số 34/2012/QĐ-UBND Ban hành quy định về quy trình thanh tra công tác bồi thường hỗ trợ, tái định cư của các dự án trên địa bàn tỉnh Bình Dương"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,9848,9983,"Thông tư số 20/2010/TT-BTNMT Quy định bổ sung về Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,10003,10139,Quyết định số 518/QĐ-TTg Về việc phê duyệt Đề án xây dựng hệ thống cảnh báo nhanh và phân tích nguy cơ về an toàn thực phẩm tại Việt Nam
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,10159,10342,"Quyết định 12/QĐ-UBND năm 2010 về ủy quyền cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành"
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,10362,10549,"Quyết định số 1635/2010/QĐ-UBND Về việc uỷ quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất do Uỷ ban nhân dân thành phố Hải Phòng ban hành"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,10569,10766,"Thông tư số 12/2011/TT-BXD Hướng dẫn thực hiện một số nội dung của Nghị định 74/2005/NĐ-CP ngày 07 tháng 06 năm 2005 của Chính phủ về phòng, chống rửa tiền đối với hoạt động kinh doanh bất động sản"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,10786,11026,"Quyết định số 42/2011/QĐ-UBND Về việc sửa đổi, bổ sung một số điều của quyết định số 31/2010/QĐ-UBND, ngày 06 tháng 7 năm 2010 của ubnd tỉnh quy định về diện tích tối thiểu được phép tách thửa đối với các loại đất trên địa bàn tỉnh Tây Ninh"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,11046,11367,"Quyết định số 1179/2011/QĐ-UBND Về việc ban hành Quy định về cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho hộ gia đình, cá nhân, cộng đồng dân cư, người Việt Nam định cư ở nước ngoài được mua nhà ở gắn liền với quyền sử dụng đất ở tại Việt Nam trên địa bàn tỉnh Quảng Ninh"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,11387,11578,"Quyết định số 1263/2010/QĐ-UBND Sửa đổi Quy định về chính sách bồi thường, hỗ trợ và tái định cư khi Nhà nước thu hồi đất trên địa bàn thành phố Hải Phòng kèm theo Quyết định 130/2010/QĐ-UBND"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,11598,11897,"Thông tư số 03/2014/TT-BXD Sửa đổi, bổ sung Điều 21 của Thông tư số 16/2010/TT-BXD ngày 01 tháng 9 năm 2010 của Bộ Xây dựng quy định cụ thể và hướng dẫn thực hiện một số nội dung của Nghị định số 71/2010/NĐ-CP ngày 23 tháng 6 năm 2010 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Nhà ở"
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,11917,12078,"Quyết định số 18/2013/QĐ-UBND.. Ban hành Quy định về cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất trên địa bàn tỉnh"
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,12098,12253,Quyết định số 27/2012/QĐ-UBND Ban hành Quy chế đấu giá quyền sử dụng đất để giao đất có thu tiền sử dụng đất hoặc cho thuê đất trên địa bàn tỉnh Quảng Ngãi
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,12273,12400,"Quyết định số 18/2012/QĐ-UBND Ban hành Quy định về trình tự, thủ tục trong quản lý, sử dụng đất đai trên địa bàn tỉnh Hậu Giang"
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,12420,12810,"Quyết định số 18/2012/QĐ-UBND Về việc sửa đổi, bổ sung Điều 4 Quyết định số 29/2010/QĐ-UBND ngày 29 tháng 11 năm 2010 của Ủy ban nhân dân tỉnh Tuyên Quang về việc ban hành quy định về thời gian thực hiện các thủ tục và cơ chế phối hợp, cung cấp thông tin trong công tác cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất trên địa bàn tỉnh Tuyên Quang"
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,12830,12986,"Quyết định số 05/2013/QĐ-UBND V/v Ban hành Quy chế thực hiện thủ tục giao lại đất, cho thuê đất trong Khu công nghiệp, Khu kinh tế cửa khẩu quốc tế Lệ Thanh"
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,13006,13233,"Quyết định số 31/2012/QĐ-UBND Về việc Ban hành Quy định về cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở, tài sản khác gắn liền với đất và đăng ký biến động sau khi cấp giấy chứng nhận trên địa bàn thành phố Đà Nẵng"
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,13253,13508,"Quyết định số 3477/2012/QĐ-UBND Về việc ban hành Cơ chế, chính sách phát triển nhà ở công vụ cho cán bộ, công chức các cơ quan thuộc hệ thống chính trị; nhà ở cho người có thu nhập thấp tại khu vực đô thị trên địa bàn tỉnh Quảng Ninh giai đoạn 2013 – 2020"
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,13528,13677,"Quyết định số 88/2009/QĐ-UBND Ban hành Quy định về trình tự, thủ tục giao đất, cho thuê đất, chuyển mục đích sử dụng đất trên địa bàn tỉnh Bình Dương"
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,13697,14051,"Quyết định số 13/2012/QĐ-UBND Về việc sửa đổi, bổ sung một số điều tại Quy định về cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; Đăng ký biến động về sử dụng đất, sở hữu tài sản gắn liền với đất trên địa bàn tỉnh ban hành kèm theo Quyết định số 12/2011/QĐ-UBND ngày 15/3/2011 của Uỷ ban nhân tỉnh Thái Nguyên"
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,14071,14336,"Quyết định số 29/2010/QĐ-UBND Về việc ban hành quy định về thời gian thực hiện các thủ tục và cơ chế phối hợp, cung cấp thông tin trong công tác cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất trên địa bàn tỉnh Tuyên Quang"
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,14356,14582,"Quyết định số 2138/2010/QĐ-UBND Về việc ban hành quy định phối hợp cung cấp thông tin, thời gian giải quyết cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất trên địa bàn tỉnh Thanh Hoá"
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,14602,14927,"Quyết định số 12/2014/QĐ-UBND Quy định về trình tự, thủ tục, thời gian giải quyết hồ sơ theo cơ chế một cửa liên thông trong lĩnh vực đất đai, nhà ở và tài sản khác gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư, người Việt Nam định cư ở nước ngoài được sở hữu nhà ở tại Việt Nam trên địa bàn tỉnh Tiền Giang"
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,14947,15156,"Quyết định số 10/2013/QĐ-UBND Ban hành Quy định về việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho hộ gia đình, cá nhân sử dụng đất trên địa bàn tỉnh Nghệ An"
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,15176,15410,"Quyết định số 31/2010/QĐ-UBND Ban hành quy định về cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, đăng ký biến động về sử dụng đất, sở hữu tài sản gắn liền với đất trên địa bàn tỉnh Long An"
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,15430,15632,"Quyết định số 35/2010/QĐ-UBND Ban hành Quy chế phối hợp giữa các ngành, các cấp trong việc cấp Giấy chứng nhận quyền sử dụng đất, sở hữu nhà ở và tài sản khác gắn liền với đất trên địa bàn tỉnh Tây Ninh"
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,15652,15852,"Quyết định số 1516/2012/QĐ-UBND Về việc phê duyệt bổ sung Dự án: Khu dân cư, chợ - siêu thị, bãi đỗ xe tại xã Quảng Hưng, thành phố Thanh Hóa vào danh mục dự án có sử dụng đất cần lựa chọn nhà đầu tư."
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,15872,15945,Thông tư số 17/2010/TT-BTNMT Quy định kỹ thuật về chuẩn dữ liệu địa chính
+ENTITY,E30_45,VB_AP_DUNG,Văn bản áp dụng,reference,15965,16075,Quyết định số 20/QĐ-TTg Phê duyệt Chiến lược quốc gia An toàn thực phẩm giai đoạn 2011 - 2020 và tầm nhìn 2030
+ENTITY,E30_46,VB_AP_DUNG,Văn bản áp dụng,reference,16095,16234,Quyết định số 19/2013/QĐ-UBND Về việc ban hành Quy chế quản lý và sử dụng nguồn kinh phí bảo trì nhà chung cư trên địa bàn Thành phố Hà Nội
+ENTITY,E30_47,VB_AP_DUNG,Văn bản áp dụng,reference,16254,16331,Nghị định số 71/2010/NĐ-CP Quy định chi tiết và hướng dẫn thi hành Luật Nhà ở
+ENTITY,E30_48,VB_AP_DUNG,Văn bản áp dụng,reference,16351,16511,"Quyết định số 18/2013/QĐ-UBND Ban hành Quy định về cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất trên địa bàn tỉnh."
+ENTITY,E30_49,VB_AP_DUNG,Văn bản áp dụng,reference,16531,16658,"Thông tư số 17/2009/TT-BTNMT Quy định về Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất"
+ENTITY,E30_50,VB_AP_DUNG,Văn bản áp dụng,reference,16678,16997,"Quyết định số 05/2012/QĐ-UBND Ban hành Quy định trình tự, thủ tục về giao đất làm nhà ở và thực hiện các thủ tục hành chính về đất đai và tài sản gắn liền với đất cho hộ gia đình, cá nhân, người Việt Nam định cư ở nước ngoài sở hữu nhà ở gắn liền với quyền sử dụng đất ở theo cơ chế một cửa trên địa bàn tỉnh Quảng Bình"
+ENTITY,E30_51,VB_AP_DUNG,Văn bản áp dụng,reference,17017,17254,"Quyết định số 06/2011/QĐ-UBND Ban hành Quy định về việc thực hiện cơ chế ""Một cửa liên thông"" trong việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với tổ chức trên địa bàn tỉnh Đắk Lắk"
+ENTITY,E30_52,VB_AP_DUNG,Văn bản áp dụng,reference,17274,17542,Thông tư liên tịch số 01/2014/TTLT-NHNN-BXD-BTP-BTNMT Hướng dẫn thủ tục thế chấp nhà ở hình thành trong tương lai theo quy định tại khoản 2 Điều 61 của Nghị định số 71/2010/NĐ-CP ngày 23 tháng 6 năm 2010 của Chỉnh phủ quy định chi tiết và hướng dẫn thi hành Luật Nhà ở
+ENTITY,E30_53,VB_AP_DUNG,Văn bản áp dụng,reference,17562,17828,"Quyết định số 12/2011/QĐ-UBND Về việc ban hành Quyết định này Quy định về việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; Đăng ký biến động về sử dụng đất, sở hữu tài sản gắn liền với đất trên địa bàn tỉnh Thái Nguyên"
+ENTITY,E38_1,DIEU,Điều,structure,577,583,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,1684,1690,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,3023,3029,Điều 3
+ENTITY,E39_1,KHOAN,Khoản,structure,3030,3091,1. Luật này có hiệu lực thi hành từ ngày 01 tháng 9 năm 2009.
+ENTITY,E39_2,KHOAN,Khoản,structure,3092,3272,"2. Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước."
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R3_2,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_2,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_2,E2_1,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_3,E2_1,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_4,E2_1,,
+RELATION,R12_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_5,E2_1,,
+RELATION,R12_7,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_6,E2_1,,
+RELATION,R12_8,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_7,E2_1,,
+RELATION,R12_9,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_8,E2_1,,
+RELATION,R12_10,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_9,E2_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E25_1,E2_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E29_1,E2_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E29_2,E2_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E30_19,E2_1,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E30_20,E2_1,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E30_21,E2_1,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E30_22,E2_1,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E30_23,E2_1,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E30_24,E2_1,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E30_25,E2_1,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E30_26,E2_1,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E30_27,E2_1,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E30_28,E2_1,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E30_29,E2_1,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E30_30,E2_1,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E30_31,E2_1,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E30_32,E2_1,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E30_33,E2_1,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E30_34,E2_1,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E30_35,E2_1,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E30_36,E2_1,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E30_37,E2_1,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E30_38,E2_1,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E30_39,E2_1,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E30_40,E2_1,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E30_41,E2_1,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E30_42,E2_1,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E30_43,E2_1,,
+RELATION,R18_44,AP_DUNG,Áp dụng,E30_44,E2_1,,
+RELATION,R18_45,AP_DUNG,Áp dụng,E30_45,E2_1,,
+RELATION,R18_46,AP_DUNG,Áp dụng,E30_46,E2_1,,
+RELATION,R18_47,AP_DUNG,Áp dụng,E30_47,E2_1,,
+RELATION,R18_48,AP_DUNG,Áp dụng,E30_48,E2_1,,
+RELATION,R18_49,AP_DUNG,Áp dụng,E30_49,E2_1,,
+RELATION,R18_50,AP_DUNG,Áp dụng,E30_50,E2_1,,
+RELATION,R18_51,AP_DUNG,Áp dụng,E30_51,E2_1,,
+RELATION,R18_52,AP_DUNG,Áp dụng,E30_52,E2_1,,
+RELATION,R18_53,AP_DUNG,Áp dụng,E30_53,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_3,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_3,,
+RELATION,R22_3,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_4,THUOC,Thuộc,E11_1,E10_1,,

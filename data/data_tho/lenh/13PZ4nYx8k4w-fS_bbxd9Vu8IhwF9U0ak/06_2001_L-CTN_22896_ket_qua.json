@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0",
+  "document_id": "22896",
+  "document_code": "06/2001/ L-CTN",
+  "file_name": "06_2001_L-CTN_22896.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "LỆNH\nVề việc công bố luật",
+    "so_hieu": "06/2001/ L-CTN",
+    "loai_van_ban": "LỆNH",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "ngày 12 tháng 07 năm 2001",
+    "ngay_co_hieu_luc": "ngày 12 tháng 07 năm 2001",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH NƯỚC",
+    "nguoi_ky": "Trần Đức Lương",
+    "nganh": "Đất đai",
+    "linh_vuc": "Xây dựng pháp luật, pháp chế"
+  },
+  "full_text": "Lệnh số 06/2001/L-CTN Về việc công bố Luật sửa đổi, bổ sung một số điều của Luật Đất đai\nCHỦ TỊCH NƯỚC\n*****\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\n*******\nSố: 06/2001/ L-CTN\nHà Nội, ngày 12 tháng 07 năm 2001\nLỆNH\nVề việc công bố luật\nCHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn  cứ vào  Điều  103  và  Điều  106  của  Hiến  pháp  nước  Cộng  hòa  xã  hội  chủ  nghĩa  Việt Nam;\nCăn cứ vào Điều 78 của Luật Tổ chức Quốc hội;\nCăn cứ vào Điều 50 của Luật Ban hành các văn bản quy phạm pháp Luật,\nNAY CÔNG BỐ:\nLuật sửa đổi, bổ sung một số Điều của Luật Đất đai\nĐã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam Khóa X, kỳ họp thứ 9 thông qua ngày 29 tháng 6 năm 2001./.\nCHỦ TỊCH NƯỚC CỘNG HÒA\nXÃ HỘI CHỦ NGHĨA VIỆT NAM\n(Đã ký)\nTrần Đức Lương\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Xây dựng pháp luật, pháp chế\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Văn bản áp dụng]: Quyết định số 1424/QĐ-UBND Về việc bãi bỏ Quyết định số 27/2013/QĐ-UBND ngày 22 tháng 4 năm 2013 của Ủy ban nhân dân tỉnh Đồng Nai ban hành Quy chế phối hợp thẩm định phương án bồi thường, hỗ trợ và tái định cư đối với trường hợp thuộc thẩm quyền phê duyệt của Uỷ ban nhân dân tỉnh Đồng Nai",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 233,
+      "end": 258,
+      "text": "LỆNH\nVề việc công bố luật",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 184,
+      "end": 198,
+      "text": "06/2001/ L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 233,
+      "end": 237,
+      "text": "LỆNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E4_1",
+      "start": 81,
+      "end": 88,
+      "text": "Đất đai",
+      "code": "NGANH",
+      "label": "Ngành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 207,
+      "end": 232,
+      "text": "ngày 12 tháng 07 năm 2001",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 843,
+      "end": 871,
+      "text": "Xây dựng pháp luật, pháp chế",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 207,
+      "end": 232,
+      "text": "ngày 12 tháng 07 năm 2001",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 895,
+      "end": 907,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 89,
+      "end": 102,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 707,
+      "end": 720,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 764,
+      "end": 778,
+      "text": "Trần Đức Lương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E18_1",
+      "start": 540,
+      "end": 590,
+      "text": "Luật sửa đổi, bổ sung một số Điều của Luật Đất đai",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 352,
+      "end": 410,
+      "text": "Hiến  pháp  nước  Cộng  hòa  xã  hội  chủ  nghĩa  Việt Nam",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 435,
+      "end": 456,
+      "text": "Luật Tổ chức Quốc hội",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 481,
+      "end": 525,
+      "text": "Luật Ban hành các văn bản quy phạm pháp Luật",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_1",
+      "start": 927,
+      "end": 1217,
+      "text": "Quyết định số 1424/QĐ-UBND Về việc bãi bỏ Quyết định số 27/2013/QĐ-UBND ngày 22 tháng 4 năm 2013 của Ủy ban nhân dân tỉnh Đồng Nai ban hành Quy chế phối hợp thẩm định phương án bồi thường, hỗ trợ và tái định cư đối với trường hợp thuộc thẩm quyền phê duyệt của Uỷ ban nhân dân tỉnh Đồng Nai",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R6_1",
+      "from_id": "E18_1",
+      "to_id": "E2_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E19_3",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R18_1",
+      "from_id": "E30_1",
+      "to_id": "E2_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

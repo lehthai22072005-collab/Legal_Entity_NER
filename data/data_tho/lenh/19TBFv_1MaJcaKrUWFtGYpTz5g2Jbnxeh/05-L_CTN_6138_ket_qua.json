@@ -1,0 +1,209 @@
+{
+  "schema_version": "1.0",
+  "document_id": "6138",
+  "document_code": "05-L/CTN",
+  "file_name": "05-L_CTN_6138.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 05-L/CTN Về việc công bố Bộ luật Lao động của nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+    "so_hieu": "05-L/CTN",
+    "loai_van_ban": "Lệnh",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "ngay_ban_hanh": "ngày 23 tháng 6 năm 1994",
+    "ngay_co_hieu_luc": "1994-07-05",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH NƯỚC",
+    "nguoi_ky": "Lê Đức Anh",
+    "nganh": "Lao động - Thương binh và Xã hội",
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 05-L/CTN Về việc công bố Bộ luật Lao động của nước Cộng hoà xã hội chủ nghĩa Việt Nam\nLỆNH\nCông bố Bộ luật Lao động của nước Cộng hòa xã hội chủ nghĩa Việt Nam\n______________________________\nCHỦ TỊCH NƯỚC\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ vào Điêu 103 và Điều 106 của Hiến pháp nuớc Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992.\nCăn cứ vào Điều 78 của Luật Tổ chức Quốc hội,\nNAY CÔNG BỐ:\nBộ luật Lao động của nước Cộng hòa xã hội chủ nghĩa Việt Nam\nĐã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa IX, kỳ họp thứ 5 thông qua ngày 23 tháng 6 năm 1994./.\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Ngành]: Lao động - Thương binh và Xã hội\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 1994-07-05\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Người ký]: Lê Đức Anh\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 66-LCT/HĐNN8\n[Căn cứ ban hành]: Hiến pháp năm 1992\n[Văn bản được dẫn chiếu]: Bộ luật Lao động số Không số\n[Văn bản dẫn chiếu]: Thông tư liên tịch số 09/2013/TTLT-BGDĐT-BTC-BNV Hướng dẫn thực hiện chi hỗ trợ ăn trưa cho trẻ em mẫu giáo và chính sách đối với giáo viên mầm non tại Quyết định 60/2011/QĐ-TTg ngày 26 tháng 10 năm 2011 của Thủ tướng Chính phủ quy định chính sách phát triển giáo dục mầm non giai đoạn 2011-2015",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 93,
+      "text": "Lệnh số 05-L/CTN Về việc công bố Bộ luật Lao động của nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 16,
+      "text": "05-L/CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E4_1",
+      "start": 647,
+      "end": 679,
+      "text": "Lao động - Thương binh và Xã hội",
+      "code": "NGANH",
+      "label": "Ngành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 558,
+      "end": 582,
+      "text": "ngày 23 tháng 6 năm 1994",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 692,
+      "end": 706,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 727,
+      "end": 737,
+      "text": "1994-07-05",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 761,
+      "end": 773,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 199,
+      "end": 212,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 199,
+      "end": 212,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 786,
+      "end": 796,
+      "text": "Lê Đức Anh",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E18_1",
+      "start": 918,
+      "end": 946,
+      "text": "Bộ luật Lao động số Không số",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 816,
+      "end": 853,
+      "text": "Luật Tổ chức Quốc hội số 66-LCT/HĐNN8",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 873,
+      "end": 891,
+      "text": "Hiến pháp năm 1992",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E29_1",
+      "start": 968,
+      "end": 1263,
+      "text": "Thông tư liên tịch số 09/2013/TTLT-BGDĐT-BTC-BNV Hướng dẫn thực hiện chi hỗ trợ ăn trưa cho trẻ em mẫu giáo và chính sách đối với giáo viên mầm non tại Quyết định 60/2011/QĐ-TTg ngày 26 tháng 10 năm 2011 của Thủ tướng Chính phủ quy định chính sách phát triển giáo dục mầm non giai đoạn 2011-2015",
+      "code": "VB_DAN_CHIEU",
+      "label": "Văn bản dẫn chiếu",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R6_1",
+      "from_id": "E2_1",
+      "to_id": "E18_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E2_1",
+      "to_id": "E19_2",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R17_1",
+      "from_id": "E2_1",
+      "to_id": "E29_1",
+      "code": "DAN_CHIEU",
+      "label": "Dẫn chiếu"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

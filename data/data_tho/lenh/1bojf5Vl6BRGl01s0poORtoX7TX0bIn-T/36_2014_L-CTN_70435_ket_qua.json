@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "document_id": "70435",
+  "document_code": "Số: 36/2014/L-CTN",
+  "file_name": "29_lenh_36_2014_70435.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "LỆNH\nVề việc công bố Nghị quyết của Quốc hội",
+    "so_hieu": "Số: 36/2014/L-CTN",
+    "loai_van_ban": "LỆNH",
+    "nganh": null,
+    "ngay_ban_hanh": "ngày 09 tháng 12 năm 2014",
+    "linh_vuc": "Chưa phân loại",
+    "ngay_co_hieu_luc": "ngày 09 tháng 12 năm 2014",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC",
+    "chuc_danh": "CHỦ TỊCH NƯỚC",
+    "nguoi_ky": "Trương Tấn Sang"
+  },
+  "full_text": "Lệnh số 36/2014/L-CTN Công bố Nghị quyết về phê chuẩn Công ước của Liên hợp quốc về chống tra tấn và các hình thức đối xử hoặc trừng phạt tàn bạo, vô nhân đạo hoặc hạ nhục con người\nCHỦ TỊCH NƯỚC\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nSố: 36/2014/L-CTN\nHà Nội, ngày 09 tháng 12 năm 2014\nLỆNH\nVề việc công bố Nghị quyết của Quốc hội\n_________________\nCHỦ TỊCHNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ Điều 88 và Điều 91 của Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nCăn cứ Điều 91 của Luật tổ chức Quốc hội;\nCăn cứ Điều 57 của Luật ban hành văn bản quy phạm pháp luật,\nNAY CÔNG BỐ\nNghị quyết về việc phê chuẩn Công ước của Liên hợp quốc về chống tra tấn và các hình thức đối xử hoặc trừng phạt tàn bạo, vô nhân đạo hoặc hạ nhục con người\nĐã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 28 tháng 11 năm 2014./.\nCHỦ TỊCH\nNƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTrương Tấn Sang\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 30/2001/QH10\n[Căn cứ ban hành]: Hiến pháp năm 2013\n[Văn bản được quy định chi tiết, hướng dẫn thi hành]: Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12\n[Văn bản được quy định chi tiết, hướng dẫn thi hành]: Hiến pháp năm 2013",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 311,
+      "end": 355,
+      "text": "LỆNH\nVề việc công bố Nghị quyết của Quốc hội",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 259,
+      "end": 276,
+      "text": "Số: 36/2014/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 311,
+      "end": 315,
+      "text": "LỆNH",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 285,
+      "end": 310,
+      "text": "ngày 09 tháng 12 năm 2014",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 1024,
+      "end": 1038,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 285,
+      "end": 310,
+      "text": "ngày 09 tháng 12 năm 2014",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 1062,
+      "end": 1074,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 182,
+      "end": 195,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 182,
+      "end": 195,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 944,
+      "end": 959,
+      "text": "Trương Tấn Sang",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E14_1",
+      "start": 1300,
+      "end": 1356,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E14_2",
+      "start": 1411,
+      "end": 1429,
+      "text": "Hiến pháp năm 2013",
+      "code": "VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 1094,
+      "end": 1150,
+      "text": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 1170,
+      "end": 1207,
+      "text": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 1227,
+      "end": 1245,
+      "text": "Hiến pháp năm 2013",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R2_1",
+      "from_id": "E14_1",
+      "to_id": "E2_1",
+      "code": "DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Được quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R2_2",
+      "from_id": "E14_2",
+      "to_id": "E2_1",
+      "code": "DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH",
+      "label": "Được quy định chi tiết, hướng dẫn thi hành"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E19_1",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E19_2",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E19_3",
+      "to_id": "E2_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": [],
+    "label_provenance": "silver_automated_not_human_verified",
+    "source_docx_snapshot_id": "29_lenh_36_2014_70435",
+    "vbpl_relation_provenance": [
+      {
+        "relation_type": "Căn cứ ban hành",
+        "direction": "outgoing",
+        "current_document_id": "70435",
+        "other_document_id": "12803",
+        "from_document_id": "70435",
+        "to_document_id": "12803",
+        "other_title": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/12803"
+      },
+      {
+        "relation_type": "Căn cứ ban hành",
+        "direction": "outgoing",
+        "current_document_id": "70435",
+        "other_document_id": "22840",
+        "from_document_id": "70435",
+        "to_document_id": "22840",
+        "other_title": "Luật Tổ chức Quốc hội số 30/2001/QH10",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/22840"
+      },
+      {
+        "relation_type": "Căn cứ ban hành",
+        "direction": "outgoing",
+        "current_document_id": "70435",
+        "other_document_id": "32801",
+        "from_document_id": "70435",
+        "to_document_id": "32801",
+        "other_title": "Hiến pháp năm 2013",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/32801"
+      },
+      {
+        "relation_type": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+        "direction": "outgoing",
+        "current_document_id": "70435",
+        "other_document_id": "12803",
+        "from_document_id": "70435",
+        "to_document_id": "12803",
+        "other_title": "Luật Ban hành văn bản quy phạm pháp luật số 17/2008/QH12",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/12803"
+      },
+      {
+        "relation_type": "Văn bản được quy định chi tiết, hướng dẫn thi hành",
+        "direction": "outgoing",
+        "current_document_id": "70435",
+        "other_document_id": "32801",
+        "from_document_id": "70435",
+        "to_document_id": "32801",
+        "other_title": "Hiến pháp năm 2013",
+        "other_url": "https://vbpl.vn/van-ban/chi-tiet/32801"
+      }
+    ],
+    "custom_entity_labels": [],
+    "custom_relation_labels": []
+  }
+}

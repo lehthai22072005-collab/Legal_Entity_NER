@@ -1,0 +1,138 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,63,"Luật sửa đổi, bổ sung một số điều của Luật Giá số 140/2025/QH15"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,50,63,140/2025/QH15
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,10737,10762,ngày 10 tháng 12 năm 2025
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,10338,10363,ngày 01 tháng 01 năm 2026
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,10880,10892,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,64,72,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,10764,10781,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,10790,10804,Trần Thanh Mẫn
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,390,414,Luật Giá số 16/2023/QH15
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,213,262,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,10912,11160,"Quyết định số 2267/QĐ-UBND về việc bãi bỏ Quyết định số 12/2017/QĐ-UBND ngày 16 tháng 3 năm 2017 của Ủy ban nhân dân tỉnh Gia Lai quy định giá cho thuê sử dụng công trình hạ tầng kỹ thuật tại Cụm công nghiệp Diên Phú, thành phố Pleiku, tỉnh Gia Lai"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,11180,11306,"Quyết định số 1509/QĐ-UBND Ban hành giá dịch vụ thu gom, vận chuyển và xử lý chất thải rắn sinh hoạt trên địa bàn tỉnh Gia Lai"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,11326,11478,Quyết định số 58/2026/QĐ-UBND Quy định đặc điểm kinh tế - kỹ thuật của các dịch vụ theo yêu cầu liên quan đến việc công chứng trên địa bàn tỉnh An Giang
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,11498,11772,Quyết định số 16/2026/QĐ-UBND ban hành Quy định đặc điểm kinh tế - kỹ thuật đối với dịch vụ sử dụng diện tích bán hàng tại chợ được đầu tư từ nguồn vốn Nhà nước và dịch vụ chủ yếu tại chợ ngoài dịch vụ do Nhà nước định giá để thực hiện kê khai giá trên địa bàn tỉnh Tây Ninh
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,11792,11934,Quyết định số 81/2026/QĐ-UBND Phân cấp thẩm quyền định giá cụ thể dịch vụ sử dụng diện tích bán hàng tại chợ được đầu tư từ nguồn vốn nhà nước
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,11954,12132,"Thông tư số 19/2026/TT-BCT Quy định về tạm ứng cho Quỹ bình ổn giá xăng dầu từ nguồn ngân sách nhà nước, trích lập Quỹ bình ổn giá xăng dầu và hoàn trả tạm ứng ngân sách nhà nước"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,12152,12331,Quyết định số 47/2026/QĐ-UBND Ban hành Quy định cơ chế thu và sử dụng mức thu dịch vụ tuyển sinh trong các cơ sở giáo dục công lập trên địa bàn tỉnh Quảng Ninh năm học 2026 - 2027
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,12351,12617,"Quyết định số 69/2026/QĐ-UBND Quy định cơ chế quản lý thu, chi và mức thu đối với dịch vụ tuyển sinh các cấp học; danh mục, mức thu, cơ chế quản lý thu, chi dịch vụ phục vụ và hỗ trợ hoạt động giáo dục, đào tạo trong cơ sở giáo dục công lập trên địa bàn tỉnh Lào Cai"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,12637,12793,"Quyết định số 20/2026/QĐ-UBND Quy định đặc điểm kinh tế - kỹ thuật của dịch vụ thu gom, vận chuyển, xử lý chất thải rắn sinh hoạt trên địa bàn tỉnh Bắc Ninh"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,12813,12943,Quyết định số 50/2026/QĐ-UBND Ban hành Quy định một số nội dung quản lý nhà nước trong lĩnh vực giá trên địa bàn thành phố Đà Nẵng
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,12963,13065,Quyết định số 82/2026/QĐ-UBND Ban hành Quy định quản lý cáp treo viễn thông trên địa bàn tỉnh Lai Châu
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,13085,13293,"Quyết định số 52/2026/QĐ-UBND Quy định đặc điểm kinh tế - kỹ thuật của nước sạch đô thị; dịch vụ nghĩa trang, hỏa táng; dịch vụ thoát nước và xử lý nước thải thuộc lĩnh vực xây dựng trên địa bàn tỉnh An Giang"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,13313,13473,"Quyết định số 29/2026/QĐ-UBND Quy định mức thu và cơ chế quản lý thu, chi đối với dịch vụ tuyển sinh trong các cơ sở giáo dục công lập trên địa bàn tỉnh Hà Tĩnh"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,13493,13595,Quyết định số 29/2026/QĐ-UBND Ban hành Quy định về phát triển và quản lý chợ trên địa bàn tỉnh Nghệ An
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,13615,13847,"Quyết định số 99/2026/QĐ-UBND Sửa đổi, bổ sung một số điều của Quy định ban hành kèm theo Quyết định số 125/2025/QĐ-UBND ngày 09/10/2025 của Ủy ban nhân dân tỉnh Đồng Tháp quy định quản lý nhà nước về giá trên địa bàn tỉnh Đồng Tháp"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,13867,14048,Quyết định số 2074/QĐ-UBND Định giá tối đa dịch vụ sử dụng đường bộ của các dự án đầu tư xây dựng đường bộ để kinh doanh thuộc phạm vi quản lý của Ủy ban nhân dân thành phố Đồng Nai
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,14068,14359,"Quyết định số 360/QĐ-UBND Ban hành Quy định về giá cụ thể dịch vụ thu gom, vận chuyển, xử lý chất thải rắn sinh hoạt đối với cơ quan, tổ chức, cơ sở sản xuất kinh doanh, dịch vụ, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp, hộ gia đình, cá nhân trên địa bàn tỉnh Tuyên Quang"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,14379,14638,"Quyết định số 19/2026/QĐ-UBND Bổ sung Quy định định mức kinh tế - kỹ thuật thu gom, vận chuyển, xử lý chất thải rắn sinh hoạt trên địa bàn tỉnh Lạng Sơn ban hành kèm theo Quyết định số 33/2025/QĐ-UBND ngày 14 tháng 6 năm 2025 của Ủy ban nhân dân tỉnh Lạng Sơn"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,14658,14822,Quyết định số 63/2026/QĐ-UBND Quy định đặc điểm kinh tế - kỹ thuật của dịch vụ trông giữ xe được đầu tư bằng nguồn vốn ngân sách Nhà nước trên địa bàn thành phố Huế
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,14842,14955,Quyết định số 107/2026/QĐ-UBND Quy định đặc điểm kinh tế - kỹ thuật giống nông nghiệp trên địa bàn tỉnh Đồng Tháp
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,14975,15130,Quyết định số 109/2026/QĐ-UBND Quy định các trường hợp không có tính khả thi và mức độ khôi phục lại tình trạng ban đầu của đất trên địa bàn tỉnh Đồng Tháp
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,15150,15377,"Quyết định số 87/2026/QĐ-UBND Quy định danh mục các khoản thu, mức thu và cơ chế quản lý thu, chi đối với các dịch vụ phục vụ và hỗ trợ hoạt động giáo dục, đào tạo trong cơ sở giáo dục công lập trên địa bàn thành phố Quảng Ninh"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,15397,15610,"Quyết định số 36/2026/QĐ-UBND Quy định về đặc điểm kinh tế - kỹ thuật của hàng hóa, dịch vụ do nhà nước định giá và hàng hóa, dịch vụ đặc thù thực hiện kê khai giá thuộc lĩnh vực vận tải trên địa bàn tỉnh Lâm Đồng"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,15630,15845,"Quyết định số 50/2026/QĐ-UBND Sửa đổi, bổ sung Quyết định số 84/2025/QĐ-UBND ngày 28/11/2025 của UBND tỉnh Quy định phân công nhiệm vụ để thực hiện quản lý nhà nước về giá và thẩm định giá trên địa bàn tỉnh Bắc Ninh"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,15865,16209,"Văn bản hợp nhất số 31/2026/VBHN-TT-BTC hợp nhất Thông tư số 34/2026/TT-BTC ngày 30 tháng 3 năm 2026 của Bộ trưởng Bộ Tài chính quy định đặc điểm kinh tế - kỹ thuật của dịch vụ trong lĩnh vực chứng khoán của Sở Giao dịch Chứng khoán Việt Nam và công ty con, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam và công ty con do Nhà nước định giá"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,16229,16492,"Quyết định số 34/2026/QĐ-UBND Sửa đổi, bổ sung một số nội dung của Quyết định số 05/2026/QĐ-UBND ngày 10/01/2026 của UBND tỉnh Bắc Ninh về Quy định Bảng giá nhà, tỷ lệ, phương pháp tính nhà cũ đã qua sử dụng và cách tính lệ phí trước bạ trên địa bàn tỉnh Bắc Ninh"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,16512,16657,"Quyết định số 48/2026/QĐ-UBND Quy định đặc điểm kinh tế - kỹ thuật của hàng hóa, dịch vụ đặc thù thực hiện kê khai giá trên địa bàn tỉnh An Giang"
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,16677,16801,"Quyết định số 09/2026/QĐ-UBND Quy định phân công nhiệm vụ quản lý nhà nước về giá, thẩm định giá trên địa bàn tỉnh Vĩnh Long"
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,16821,16943,Quyết định 2268/QĐ-UBND về việc phê duyệt phương án giá dịch vụ thoát nước và xử lý nước thải tại cụm công nghiệp Diên Phú
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,16963,17184,"Quyết định số 55/2026/QĐ-UBND Sửa đổi, bổ sung một số điều của Quy định phân công nhiệm vụ quản lý nhà nước về giá trên địa bàn tỉnh Lâm Đồng kèm theo Quyết định số 34/2025/QĐ-UBND ngày 04/11/2025 của Ủy ban nhân dân tỉnh"
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,17204,17316,Quyết định số 71/2026/QĐ-UBND Quy định khung giá dịch vụ quản lý vận hành nhà chung cư trên địa bàn tỉnh Đắk Lắk
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,17336,17514,Quyết định số 59/2026/QĐ-UBND Quy định đặc điểm kinh tế - kỹ thuật đối với dịch vụ sử dụng diện tích bán hàng tại chợ được đầu tư từ nguồn vốn nhà nước trên địa bàn tỉnh An Giang
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,17534,17755,"Quyết định số 40/2026/QĐ-UBND Sửa đổi, bổ sung một số điều của Quy định về quản lý chất thải rắn sinh hoạt trên địa bàn tỉnh Hà Tĩnh ban hành kèm theo Quyết định số 74/2025/QĐ-UBND ngày 20/11/2025 của Ủy ban nhân dân tỉnh"
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,17775,18007,"Quyết định số 04/2026/QĐ-UBND Bãi bỏ quyết định số 41/2018/QĐ-UBND ngày 02/10/2018 của UBND tỉnh về việc quy định giá tiêu thụ nước sạch tại các đô thị do công ty cổ phần cấp nước nghệ an sản xuất, cung ứng trên địa bàn tỉnh nghệ an"
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,18027,18117,Quyết định số 23/2026/QĐ-UBND Ban hành Quy định về quản lý chợ trên địa bàn tỉnh Khánh Hòa
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,18137,18244,"Quyết định số 1441/QĐ-UBND Ban hành giá tối đa dịch vụ xe ra, vào bến xe ô tô trên địa bàn tỉnh Tuyên Quang"
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,18264,18445,Quyết định số 19/2026/QĐ-UBND Ban hành Quy định đặc điểm kinh tế - kỹ thuật của dịch vụ lưu trú và dịch vụ tham quan tại khu du lịch thực hiện kê khai giá trên địa bàn tỉnh Đồng Nai
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,18465,18671,"Quyết định số 25/2026/QĐ-UBND Quy định quản lý mạng cáp viễn thông treo nổi, cột ăng ten trong khu dân cư, nhà chung cư, công trình công cộng, khu chức năng và cụm công nghiệp trên địa bàn thành phố Cần Thơ"
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,18691,18840,Quyết định số 52/2026/QĐ-UBND Quy định đặc điểm kinh tế - kỹ thuật của dịch vụ theo yêu cầu liên quan đến việc công chứng trên địa bàn tỉnh Đồng Tháp
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,18860,19075,"Quyết định số 150/2026/QĐ-UBND Ban hành quy định về phân công thẩm quyền, trách nhiệm của các cơ quan trong lĩnh vực bình ổn giá, định giá, kê khai giá, kiểm tra chấp hành pháp luật về giá trên địa bàn tỉnh Tây Ninh"
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,19095,19247,"Quyết định số 56/2026/QĐ-UBND Ban hành Quy định phân công, phân cấp thực hiện nhiệm vụ quản lý nhà nước về giá, thẩm định giá trên địa bàn tỉnh Hưng Yên"
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,19267,19416,Quyết định số 99/2026/QĐ-UBND Quy định đặc điểm kinh tế - kỹ thuật giống phục vụ sản xuất nông nghiệp thực hiện kê khai giá trên địa bàn tỉnh Lào Cai
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,19436,19582,Quyết định số 95/2026/QĐ-UBND Quy định đặc điểm kinh tế - kỹ thuật của dịch vụ sử dụng diện tích bán hàng tại chợ trên địa bàn thành phố Hải Phòng
+ENTITY,E38_1,DIEU,Điều,structure,525,531,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,10276,10282,Điều 2
+ENTITY,E39_1,KHOAN,Khoản,structure,575,609,1. Thay thế một số cụm từ như sau:
+ENTITY,E39_2,KHOAN,Khoản,structure,1576,1611,2. Sửa đổi khoản 1 Điều 70 như sau:
+ENTITY,E39_3,KHOAN,Khoản,structure,1704,1809,"3. Sửa đổi, bổ sung một số mục tại Phụ lục số 02 Danh mục hàng hóa, dịch vụ do Nhà nước định giá như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,10052,10062,4. Bãi bỏ:
+ENTITY,E39_5,KHOAN,Khoản,structure,10302,10419,"1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026, trừ trường hợp quy định tại khoản 2, khoản 3 Điều này."
+ENTITY,E39_6,KHOAN,Khoản,structure,10420,10529,2. Quy định tại mục số 7 điểm a khoản 3 Điều 1 của Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.
+ENTITY,E39_7,KHOAN,Khoản,structure,10530,10640,3. Quy định tại mục số 44 điểm b khoản 3 Điều 1 của Luật này có hiệu lực thi hành từ ngày 01 tháng 5 năm 2026.
+ENTITY,E40_1,DIEM,Điểm,structure,610,733,a) Thay thế cụm từ “thanh tra chuyên ngành về giá” tại Điều 1 và tên Chương VII bằng cụm từ “thanh tra trong lĩnh vực giá”;
+ENTITY,E40_2,DIEM,Điểm,structure,734,845,b) Thay thế cụm từ “Ủy ban nhân dân cấp huyện” tại điểm b khoản 2 Điều 20 bằng cụm từ “Ủy ban nhân dân cấp xã”;
+ENTITY,E40_3,DIEM,Điểm,structure,846,1009,"c) Thay thế cụm từ “Bộ Giao thông vận tải” tại các mục số 4, 5, 6 và 7 của Phụ lục số 02 Danh mục hàng hóa, dịch vụ do Nhà nước định giá bằng cụm từ “Bộ Xây dựng”;"
+ENTITY,E40_4,DIEM,Điểm,structure,1010,1207,"d) Thay thế cụm từ “Bộ Nông nghiệp và Phát triển nông thôn” tại các mục số 12, 13 và 22 của Phụ lục số 02 Danh mục hàng hóa, dịch vụ do Nhà nước định giá bằng cụm từ “Bộ Nông nghiệp và Môi trường”;"
+ENTITY,E40_5,DIEM,Điểm,structure,1208,1393,"đ) Thay thế cụm từ “Bộ Lao động - Thương binh và Xã hội” tại khoản 12 Điều 73 và tại mục số 25 của Phụ lục số 02 Danh mục hàng hóa, dịch vụ do Nhà nước định giá bằng cụm từ “Bộ Nội vụ”;"
+ENTITY,E40_6,DIEM,Điểm,structure,1394,1575,"e) Thay thế cụm từ “Bộ Thông tin và Truyền thông” tại mục số 9 và mục số 10 của Phụ lục số 02 Danh mục hàng hóa, dịch vụ do Nhà nước định giá bằng cụm từ “Bộ Khoa học và Công nghệ”."
+ENTITY,E40_7,DIEM,Điểm,structure,1810,1896,"a) Sửa đổi, bổ sung các mục số 7, 8, 14, 16, 17, 19, 20, 21, 26, 27, 37 và 42 như sau:"
+ENTITY,E40_8,DIEM,Điểm,structure,9452,9512,b) Bổ sung mục số 43 và mục số 44 vào sau mục số 42 như sau:
+ENTITY,E40_9,DIEM,Điểm,structure,10063,10090,a) Bãi bỏ khoản 13 Điều 14;
+ENTITY,E40_10,DIEM,Điểm,structure,10091,10275,b) Bỏ cụm từ “người đại diện theo ủy quyền của tổ chức góp vốn phải là người có thẻ thẩm định viên về giá đăng ký hành nghề thẩm định giá tại doanh nghiệp;” tại điểm b khoản 1 Điều 49.
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E30_19,E2_1,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E30_20,E2_1,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E30_21,E2_1,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E30_22,E2_1,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E30_23,E2_1,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E30_24,E2_1,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E30_25,E2_1,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E30_26,E2_1,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E30_27,E2_1,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E30_28,E2_1,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E30_29,E2_1,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E30_30,E2_1,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E30_31,E2_1,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E30_32,E2_1,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E30_33,E2_1,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E30_34,E2_1,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E30_35,E2_1,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E30_36,E2_1,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E30_37,E2_1,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E30_38,E2_1,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E30_39,E2_1,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E30_40,E2_1,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E30_41,E2_1,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E30_42,E2_1,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E30_43,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E40_1,E39_1,,
+RELATION,R22_3,THUOC,Thuộc,E40_2,E39_1,,
+RELATION,R22_4,THUOC,Thuộc,E40_3,E39_1,,
+RELATION,R22_5,THUOC,Thuộc,E40_4,E39_1,,
+RELATION,R22_6,THUOC,Thuộc,E40_5,E39_1,,
+RELATION,R22_7,THUOC,Thuộc,E40_6,E39_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_10,THUOC,Thuộc,E40_7,E39_3,,
+RELATION,R22_11,THUOC,Thuộc,E40_8,E39_3,,
+RELATION,R22_12,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_13,THUOC,Thuộc,E40_9,E39_4,,
+RELATION,R22_14,THUOC,Thuộc,E40_10,E39_4,,
+RELATION,R22_15,THUOC,Thuộc,E39_5,E38_2,,
+RELATION,R22_16,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,R22_17,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,R22_18,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_19,THUOC,Thuộc,E11_1,E10_1,,

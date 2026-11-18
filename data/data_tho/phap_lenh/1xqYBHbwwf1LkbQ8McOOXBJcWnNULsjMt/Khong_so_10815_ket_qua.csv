@@ -1,0 +1,213 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,104,"Pháp lệnh số Không số Công nhận và thi hành tại Việt Nam bản án, quyết định dân sự của toà án nước ngoài"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,105,114,PHÁP LỆNH
+ENTITY,E4_1,NGANH,Ngành,metadata,18109,18116,Tư pháp
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,18134,18144,1993-04-17
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,18157,18174,Pháp luật quốc tế
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,17821,17845,ngày 01 tháng 7 năm 1993
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,18196,18206,2004-06-24
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,18230,18250,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,18271,18296,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,18310,18318,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,18331,18344,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,18399,18417,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,18437,18455,Hiến pháp năm 1992
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18477,18594,"Lệnh số 14/L-CTN Công bố Pháp lệnh Công nhận và thi hành tại Việt Nam bản án, quyết định dân sự của Toà án nước ngoài"
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,18616,18702,Pháp lệnh số Không số Hôn nhân và Gia đình giữa công dân Việt Nam với người nước ngoài
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,18722,18765,"Nghị định số 70/CP Về án phí, lệ phí toà án"
+ENTITY,E35_1,CHUONG,Chương,structure,602,610,Chương I
+ENTITY,E35_2,CHUONG,Chương,structure,6283,6292,Chương II
+ENTITY,E35_3,CHUONG,Chương,structure,15214,15224,Chương III
+ENTITY,E35_4,CHUONG,Chương,structure,17518,17527,Chương IV
+ENTITY,E38_1,DIEU,Điều,structure,632,638,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,998,1004,Điều 2
+ENTITY,E38_3,DIEU,Điều,structure,1926,1932,Điều 3
+ENTITY,E38_4,DIEU,Điều,structure,2644,2650,Điều 4
+ENTITY,E38_5,DIEU,Điều,structure,3727,3733,Điều 5
+ENTITY,E38_6,DIEU,Điều,structure,4254,4260,Điều 6
+ENTITY,E38_7,DIEU,Điều,structure,5436,5442,Điều 7
+ENTITY,E38_8,DIEU,Điều,structure,5703,5709,Điều 8
+ENTITY,E38_9,DIEU,Điều,structure,6049,6055,Điều 9
+ENTITY,E38_10,DIEU,Điều,structure,6396,6403,Điều 10
+ENTITY,E38_11,DIEU,Điều,structure,7554,7561,Điều 11
+ENTITY,E38_12,DIEU,Điều,structure,8463,8470,Điều 12
+ENTITY,E38_13,DIEU,Điều,structure,8673,8680,Điều 13
+ENTITY,E38_14,DIEU,Điều,structure,9412,9419,Điều 14
+ENTITY,E38_15,DIEU,Điều,structure,10326,10333,Điều 15
+ENTITY,E38_16,DIEU,Điều,structure,11664,11671,Điều 16
+ENTITY,E38_17,DIEU,Điều,structure,12697,12704,Điều 17
+ENTITY,E38_18,DIEU,Điều,structure,12975,12982,Điều 18
+ENTITY,E38_19,DIEU,Điều,structure,13803,13810,Điều 19
+ENTITY,E38_20,DIEU,Điều,structure,14813,14820,Điều 20
+ENTITY,E38_21,DIEU,Điều,structure,15343,15350,Điều 21
+ENTITY,E38_22,DIEU,Điều,structure,15978,15985,Điều 22
+ENTITY,E38_23,DIEU,Điều,structure,16689,16696,Điều 23
+ENTITY,E38_24,DIEU,Điều,structure,17275,17282,Điều 24
+ENTITY,E38_25,DIEU,Điều,structure,17549,17556,Điều 25
+ENTITY,E38_26,DIEU,Điều,structure,17745,17752,Điều 26
+ENTITY,E39_1,KHOAN,Khoản,structure,1039,1189,"1- Toà án Việt Nam chỉ xem xét để công nhận và cho thi hành tại Việt Nam bản án, quyết định dân sự của Toà án nước ngoài trong các trường hợp sau đây:"
+ENTITY,E39_2,KHOAN,Khoản,structure,1382,1519,"2- Bản án, quyết định dân sự của Toà án nước ngoài chỉ được thi hành tại Việt Nam sau khi được Toà án Việt Nam công nhận và cho thi hành."
+ENTITY,E39_3,KHOAN,Khoản,structure,1520,1750,"3- Bản án, quyết định dân sự của Toà án nước ngoài không có yêu cầu thi hành tại Việt Nam và không có đơn yêu cầu không công nhận, thì đương nhiên được công nhận tại Việt Nam theo điều ước quốc tế mà Việt Nam ký kết hoặc tham gia."
+ENTITY,E39_4,KHOAN,Khoản,structure,1751,1925,"4- Toà án Việt Nam chỉ xem xét việc không công nhận bản án, quyết định dân sự của Toà án nước ngoài không có yêu cầu thi hành tại Việt Nam khi có đơn yêu cầu không công nhận."
+ENTITY,E39_5,KHOAN,Khoản,structure,2003,2387,"1- Người được thi hành hoặc người đại diện hợp pháp của họ có quyền gửi đơn yêu cầu Toà án Việt Nam công nhận và cho thi hành tại Việt Nam theo quy định của Pháp lệnh này, bản án, quyết định dân sự của Toà án nước ngoài, nếu người phải thi hành cư trú hoặc làm việc tại Việt Nam, hoặc tài sản liên quan đến việc thi hành có tại Việt Nam vào thời điểm Toà án Việt Nam nhận đơn yêu cầu."
+ENTITY,E39_6,KHOAN,Khoản,structure,2388,2643,"2- Đương sự, người có lợi ích hợp pháp liên quan hoặc người đại diện hợp pháp của họ có quyền gửi đơn yêu cầu Toà án Việt Nam theo quy định của Pháp lệnh này, không công nhận bản án, quyết định của Toà án nước ngoài không có yêu cầu thi hành tại Việt Nam."
+ENTITY,E39_7,KHOAN,Khoản,structure,2738,3019,"1- Việc xét đơn yêu cầu công nhận và cho thi hành tại Việt Nam bản án, quyết định dân sự của Toà án nước ngoài thuộc thẩm quyền của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương, nơi người phải thi hành cư trú hoặc làm việc, hoặc nơi có tài sản liên quan đến việc thi hành."
+ENTITY,E39_8,KHOAN,Khoản,structure,3255,3497,"2- Việc xét đơn yêu cầu không công nhận bản án, quyết định dân sự của Toà án nước ngoài không có yêu cầu thi hành tại Việt Nam thuộc thẩm quyền của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương, nơi người gửi đơn cư trú hoặc làm việc."
+ENTITY,E39_9,KHOAN,Khoản,structure,3771,3938,"1- Quyết định của Toà án công nhận hoặc không công nhận bản án, quyết định dân sự của Toà án nước ngoài có thể bị các đương sự kháng cáo hoặc Viện kiển sát kháng nghị."
+ENTITY,E39_10,KHOAN,Khoản,structure,3939,4092,"2- Nếu hết thời hạn quy định tại Điều 18 và Điều 24 của Pháp lệnh này mà không có kháng cáo, kháng nghị, thì quyết định của Toà án có hiệu lực pháp luật."
+ENTITY,E39_11,KHOAN,Khoản,structure,4093,4253,3- Việc xét đơn kháng cáo và quyết định kháng nghị đối với quyết định của Toà án đã xem xét bản án hoặc quyết định thuộc thẩm quyền của Toà án nhân dân tối cao.
+ENTITY,E39_12,KHOAN,Khoản,structure,4393,4601,"1- Bản án, quyết định dân sự của Toà án nước ngoài được Toà án Việt Nam công nhận và cho thi hành có hiệu lực pháp luật tại Việt Nam như bản án, quyết định dân sự của Toà án Việt Nam đã có hiệu lực pháp luật."
+ENTITY,E39_13,KHOAN,Khoản,structure,4734,5164,"2- Quyết định đã có hiệu lực pháp luật của Toà án Việt Nam công nhận và cho thi hành bản án, quyết định dân sự của Toà án nước ngoài; quyết định đã có hiệu lực pháp luật của Toà án Việt Nam về việc xét đơn yêu cầu không công nhận bản án, quyết định dân sự của Toà án nước ngoài phải được các đương sự nghiêm chỉnh thi hành, các cơ quan Nhà nước, tổ chức kinh tế, tổ chức xã hội, đơn vị vũ trang nhân dân và mọi công dân tôn trọng."
+ENTITY,E39_14,KHOAN,Khoản,structure,6443,6578,"1- Đơn yêu cầu công nhận và cho thi hành tại Việt Nam bản án, quyết định dân sự của Toà án nước ngoài được gửi đến Bộ Tư pháp Việt Nam."
+ENTITY,E39_15,KHOAN,Khoản,structure,6579,6644,2- Đơn yêu cầu nói tại khoản 1 Điều này phải có nội dung sau đây:
+ENTITY,E39_16,KHOAN,Khoản,structure,7454,7553,3- Đơn yêu cầu bằng tiếng nước ngoài phải được dịch ra tiếng Việt và phải được chứng thực hợp pháp.
+ENTITY,E39_17,KHOAN,Khoản,structure,7592,7747,1- Kèm theo đơn yêu cầu quy định tại Điều 10 của Pháp lệnh này còn phải có các giấy tờ được quy định tại điều ước quốc tế mà Việt Nam ký kết hoặc tham gia.
+ENTITY,E39_18,KHOAN,Khoản,structure,8354,8462,2- Các giấy tờ kèm theo bằng tiếng nước ngoài phải được dịch ra tiếng Việt và phải được chứng thực hợp pháp.
+ENTITY,E39_19,KHOAN,Khoản,structure,8695,8818,"1- Khi nhận được hồ sơ do Bộ Tư pháp chuyển đến, Toà án có trách nhiệm thụ lý và thông báo cho Viện kiểm sát cùng cấp biết."
+ENTITY,E39_20,KHOAN,Khoản,structure,8819,8979,"2- Trong thời hạn thụ lý, Toà án có quyền yêu cầu người gửi đơn, Toà án nước ngoài đã ra bản án, quyết định dân sự đó giải thích những điều chưa rõ trong hồ sơ."
+ENTITY,E39_21,KHOAN,Khoản,structure,9446,9560,"1- Trong thời hạn bốn tháng, kể từ ngày thụ lý, tuỳ từng trường hợp, Toà án ra một trong những quyết định sau đây:"
+ENTITY,E39_22,KHOAN,Khoản,structure,10117,10325,"2- Toà án phải mở phiên toà trong thời hạn một tháng, kể từ ngày ra quyết định nói tại điểm c khoản 1 Điều này. Toà án chuyển hồ sơ cho Viện kiểm sát cùng cấp nghiên cứu mười lăm ngày trước ngày mở phiên toà."
+ENTITY,E39_23,KHOAN,Khoản,structure,10361,10504,"1- Việc xét đơn yêu cầu được tiến hành tại phiên toà do một Hội đồng gồm ba Thẩm phán, trong đó một Thẩm phán làm chủ toạ do Chánh án chỉ định."
+ENTITY,E39_24,KHOAN,Khoản,structure,10505,10635,"2- Kiểm sát viên Viện kiểm sát cùng cấp phải tham gia phiên toà. Trong trường hợp Kiểm sát viên vắng mặt, thì phải hoãn phiên toà."
+ENTITY,E39_25,KHOAN,Khoản,structure,10636,10827,3- Phiên toà được tiến hành với sự có mặt của người phải thi hành hoặc người đại diện hợp pháp của người đó. Những người này được triệu tập đến phiên toà theo quy định của pháp luật Việt Nam.
+ENTITY,E39_26,KHOAN,Khoản,structure,11064,11363,"4- Hội đồng xét đơn yêu cầu không xét xử lại vụ án, mà chỉ kiểm tra, đối chiếu bản án, quyết định dân sự của Toà án nước ngoài và các giấy tờ kèm theo với các quy định của Pháp lệnh này, các quy định khác của pháp luật Việt Nam và điều ước quốc tế mà Việt Nam ký kết hoặc tham gia, để ra quyết định."
+ENTITY,E39_27,KHOAN,Khoản,structure,11364,11511,"5- Sau khi xem xét đơn, các giấy tờ kèm theo, nghe ý kiến của người được triệu tập, của Kiểm sát viên, Hội đồng thảo luận và quyết định theo đa số."
+ENTITY,E39_28,KHOAN,Khoản,structure,11832,11943,"1- Bản án, quyết định chưa có hiệu lực pháp luật theo pháp luật của nước có Toà án đã ra bản án, quyết định đó;"
+ENTITY,E39_29,KHOAN,Khoản,structure,11944,12088,2- Người phải thi hành hoặc người đại diện hợp pháp của người đó đã vắng mặt tại phiên toà của Toà án nước ngoài do không được triệu tập hợp lệ;
+ENTITY,E39_30,KHOAN,Khoản,structure,12089,12153,3- Vụ án thuộc thẩm quyền xét xử riêng biệt của Toà án Việt Nam;
+ENTITY,E39_31,KHOAN,Khoản,structure,12154,12422,"4- Về cùng vụ án này có bản án, quyết định dân sự đã có hiệu lực pháp luật của Toà án Việt Nam, hoặc của Toà án nước ngoài đã được Toà án Việt Nam công nhận; hoặc trước khi cơ quan xét xử của nước ngoài thụ lý vụ án, Toà án Việt Nam đã thụ lý và đang xem xét vụ án đó;"
+ENTITY,E39_32,KHOAN,Khoản,structure,12423,12546,"5- Đã hết thời hiệu thi hành án theo pháp luật của nước có Toà án đã ra bản án, quyết định đó hoặc theo pháp luật Việt Nam;"
+ENTITY,E39_33,KHOAN,Khoản,structure,12547,12696,"6- Việc công nhận và cho thi hành bản án, quyết định dân sự của Toà án nước ngoài tại Việt Nam trái với các nguyên tắc cơ bản của pháp luật Việt Nam."
+ENTITY,E39_34,KHOAN,Khoản,structure,13006,13245,"1- Trong thời hạn mười lăm ngày, kể từ ngày Toà án ra quyết định nói tại Điều 14 và Điều 15 của Pháp lệnh này, đương sự, người đại diện hợp pháp của họ có quyền kháng cáo quyết định đó. Đơn kháng cáo phải nêu rõ lý do và yêu cầu kháng cáo."
+ENTITY,E39_35,KHOAN,Khoản,structure,13514,13652,2- Viện kiểm sát cùng cấp hoặc Viện kiểm sát nhân dân tối cao có quyền kháng nghị quyết định nói tại Điều 14 và Điều 15 của Pháp lệnh này.
+ENTITY,E39_36,KHOAN,Khoản,structure,13838,14139,"1- Toà án nhân dân tối cao xét quyết định của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương khi có kháng cáo, kháng nghị trong thời hạn một tháng, kể từ ngày nhận được hồ sơ. Nếu cần phải yêu cầu giải thích theo quy định tại Điều 13 của Pháp lệnh này, thì thời hạn được kéo dài thêm hai tháng."
+ENTITY,E39_37,KHOAN,Khoản,structure,14140,14301,"2- Thành phần Hội đồng xét quyết định bị kháng cáo, kháng nghị gồm ba Thẩm phán, trong đó một Thẩm phán làm chủ toạ do Chánh án Toà án nhân dân tối cao chỉ định."
+ENTITY,E39_38,KHOAN,Khoản,structure,14412,14724,"3- Hội đồng có quyền giữ nguyên, sửa một phần hoặc toàn bộ quyết định của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương hoặc đình chỉ việc xét kháng cáo, kháng nghị trong trường hợp đương sự rút kháng cáo, Viện kiểm sát rút kháng nghị hoặc có căn cứ quy định tại điểm a khoản 1 Điều 14 của Pháp lệnh này."
+ENTITY,E39_39,KHOAN,Khoản,structure,15393,15701,"1- Trong thời hạn một tháng, kể từ ngày nhận được bản án, quyết định dân sự của Toà án nước ngoài mà không có yêu cầu thi hành tại Việt Nam, đương sự, người có lợi ích hợp pháp liên quan hoặc người đại diện hợp pháp của họ có quyền gửi đơn yêu cầu không công nhận bản án, quyết định dân sự đó đến Bộ Tư pháp."
+ENTITY,E39_40,KHOAN,Khoản,structure,15702,15903,"2- Trong trường hợp người làm đơn chứng minh được do trở ngại khách quan mà không thể gửi đơn đúng thời hạn, thì thời hạn một tháng quy định tại khoản 1 Điều này được tính từ khi trở ngại đó không còn."
+ENTITY,E39_41,KHOAN,Khoản,structure,16039,16095,1- Đơn yêu cầu không công nhận phải có nội dung sau đây:
+ENTITY,E39_42,KHOAN,Khoản,structure,16277,16437,"2- Kèm theo đơn yêu cầu phải có bản sao hợp pháp bản án, quyết định dân sự của Toà án nước ngoài và các giấy tờ cần thiết để chứng minh yêu cầu không công nhận."
+ENTITY,E39_43,KHOAN,Khoản,structure,16438,16561,3- Đơn yêu cầu và các giấy tờ kèm theo bằng tiếng nước ngoài phải được dịch ra tiếng Việt và phải được chứng thực hợp pháp.
+ENTITY,E39_44,KHOAN,Khoản,structure,16562,16688,4- Bộ Tư pháp chuyển đơn yêu cầu và các giấy tờ kèm theo đến Toà án có thẩm quyền theo quy định tại Điều 12 của Pháp lệnh này.
+ENTITY,E39_45,KHOAN,Khoản,structure,16730,16921,"1- Việc chuẩn bị xét đơn yêu cầu và việc xét đơn yêu cầu không công nhận bản án, quyết định dân sự của Toà án nước ngoài được tiến hành theo quy định tại Điều 14 và Điều 15 của Pháp lệnh này."
+ENTITY,E39_46,KHOAN,Khoản,structure,16922,16995,2- Hội đồng xét đơn yêu cầu có quyền ra một trong các quyết định sau đây:
+ENTITY,E39_47,KHOAN,Khoản,structure,17100,17274,"3- Bản án, quyết định dân sự của Toà án nước ngoài mà không có yêu cầu thi hành tại Việt Nam không được công nhận trong các trường hợp quy định tại Điều 16 của Pháp lệnh này."
+ENTITY,E39_48,KHOAN,Khoản,structure,17777,17846,1- Pháp lệnh này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 1993.
+ENTITY,E39_49,KHOAN,Khoản,structure,17907,18047,"2- Chính phủ, Toà án nhân dân tối cao và Viện kiểm sát nhân dân tối cao trong phạm vi chức năng của mình hướng dẫn thi hành Pháp lệnh này./."
+ENTITY,E40_1,DIEM,Điểm,structure,1190,1299,"a) Bản án, quyết định của Toà án của nước mà Việt Nam đã ký kết hoặc tham gia điều ước quốc tế về vấn đề này;"
+ENTITY,E40_2,DIEM,Điểm,structure,1300,1381,"b) Bản án, quyết định được pháp luật Việt Nam quy định công nhận và cho thi hành."
+ENTITY,E40_3,DIEM,Điểm,structure,6645,6863,"a) Họ, tên, địa chỉ nơi cư trú hoặc nơi làm việc của người được thi hành hoặc người đại diện hợp pháp của người đó; nếu người được thi hành là pháp nhân, thì ghi tên gọi đầy đủ và địa chỉ trụ sở chính của pháp nhân đó;"
+ENTITY,E40_4,DIEM,Điểm,structure,6864,7040,"b) Họ, tên, địa chỉ nơi cư trú hoặc nơi làm việc của người phải thi hành; nếu người phải thi hành là pháp nhân, thì ghi tên gọi đầy đủ và địa chỉ trụ sở chính của pháp nhân đó."
+ENTITY,E40_5,DIEM,Điểm,structure,7254,7289,c) Yêu cầu của người được thi hành.
+ENTITY,E40_6,DIEM,Điểm,structure,9561,9740,"a) Đình chỉ việc xét đơn yêu cầu, nếu người gửi đơn rút đơn yêu cầu hoặc người phải thi hành đã tự nguyện thi hành hoặc đã chết mà quyền, nghĩa vụ của người đó không được thừa kế;"
+ENTITY,E40_7,DIEM,Điểm,structure,9741,9950,b) Đình chỉ việc xét đơn yêu cầu và trả lại hồ sơ cho Bộ Tư pháp trong trường hợp không đúng thẩm quyền hoặc không xác định được địa chỉ của người phải thi hành hoặc nơi có tài sản liên quan đến việc thi hành;
+ENTITY,E40_8,DIEM,Điểm,structure,9951,9983,c) Mở phiên toà xét đơn yêu cầu.
+ENTITY,E40_9,DIEM,Điểm,structure,16096,16246,"a) Họ, tên, địa chỉ nơi cư trú hoặc nơi làm việc của người làm đơn; nếu là pháp nhân, thì ghi tên gọi đầy đủ và địa chỉ trụ sở chính của pháp nhân đó;"
+ENTITY,E40_10,DIEM,Điểm,structure,16247,16276,b) Yêu cầu của người làm đơn.
+ENTITY,E40_11,DIEM,Điểm,structure,16996,17063,"a) Không công nhận bản án, quyết định dân sự của Toà án nước ngoài;"
+ENTITY,E40_12,DIEM,Điểm,structure,17064,17099,b) Bác đơn yêu cầu không công nhận.
+ENTITY,E43_1,VB_THAY_THE,Văn bản thay thế,reference,18786,18852,Nghị quyết số 32/2004/QH11 Về việc thi hành Bộ luật Tố tụng dân sự
+ENTITY,E45_1,BAN_DICH,Bản dịch,reference,18865,19009,"Nghị định số 73/2016/NĐ-CP Quy định chi tiết thi hành Luật kinh doanh bảo hiểm và Luật sửa đổi, bổ sung một số điều của Luật kinh doanh bảo hiểm"
+ENTITY,E45_2,BAN_DICH,Bản dịch,reference,19022,19210,"Nghị định số 25/2026/NĐ-CP Quy định chi tiết và biện pháp để tổ chức, hướng dẫn thi hành một số điều của Luật Hóa chất về phát triển ngành công nghiệp hóa chất và an toàn, an ninh hóa chất"
+ENTITY,E45_3,BAN_DICH,Bản dịch,reference,19223,19342,"Thông tư số 54/2025/TT-NHNN Quy định về hồ sơ, trình tự cấp Giấy phép, tổ chức và hoạt động của tổ chức tài chính vi mô"
+ENTITY,E45_4,BAN_DICH,Bản dịch,reference,19355,19486,"Thông tư số 50/2025/TT-NHNN Quy định về hồ sơ, thủ tục chấp thuận một số nội dung thay đổi của NHTM, chi nhánh Ngân hàng nước ngoài"
+ENTITY,E45_5,BAN_DICH,Bản dịch,reference,19499,19583,Thông tư số 61/2025/TT-NHNN Quy định về mạng lưới hoạt động của ngân hàng thương mại
+RELATION,RAP_DUNG_1,AP_DUNG,áp dụng,E30_1,E2_1,,
+RELATION,RBAN_DICH_1,BAN_DICH,Bản dịch,E45_1,E2_1,,
+RELATION,RBAN_DICH_2,BAN_DICH,Bản dịch,E45_2,E2_1,,
+RELATION,RBAN_DICH_3,BAN_DICH,Bản dịch,E45_3,E2_1,,
+RELATION,RBAN_DICH_4,BAN_DICH,Bản dịch,E45_4,E2_1,,
+RELATION,RBAN_DICH_5,BAN_DICH,Bản dịch,E45_5,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RDAN_CHIEU_1,DAN_CHIEU,dẫn chiếu,E29_1,E2_1,,
+RELATION,RDAN_CHIEU_2,DAN_CHIEU,dẫn chiếu,E29_2,E2_1,,
+RELATION,RDUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,RTHAY_THE_1,THAY_THE,thay thế,E43_1,E2_1,,
+RELATION,RTHUOC_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,RTHUOC_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,RTHUOC_3,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,RTHUOC_4,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,RTHUOC_5,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,RTHUOC_6,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,RTHUOC_7,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,RTHUOC_8,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,RTHUOC_9,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,RTHUOC_10,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,RTHUOC_11,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,RTHUOC_12,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,RTHUOC_13,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,RTHUOC_14,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,RTHUOC_15,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,RTHUOC_16,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,RTHUOC_17,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,RTHUOC_18,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,RTHUOC_19,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,RTHUOC_20,THUOC,Thuộc,E38_20,E35_2,,
+RELATION,RTHUOC_21,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,RTHUOC_22,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,RTHUOC_23,THUOC,Thuộc,E38_23,E35_3,,
+RELATION,RTHUOC_24,THUOC,Thuộc,E38_24,E35_3,,
+RELATION,RTHUOC_25,THUOC,Thuộc,E38_25,E35_4,,
+RELATION,RTHUOC_26,THUOC,Thuộc,E38_26,E35_4,,
+RELATION,RTHUOC_27,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,RTHUOC_28,THUOC,Thuộc,E40_1,E38_2,,
+RELATION,RTHUOC_29,THUOC,Thuộc,E40_2,E38_2,,
+RELATION,RTHUOC_30,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,RTHUOC_31,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,RTHUOC_32,THUOC,Thuộc,E39_4,E38_2,,
+RELATION,RTHUOC_33,THUOC,Thuộc,E39_5,E38_3,,
+RELATION,RTHUOC_34,THUOC,Thuộc,E39_6,E38_3,,
+RELATION,RTHUOC_35,THUOC,Thuộc,E39_7,E38_4,,
+RELATION,RTHUOC_36,THUOC,Thuộc,E39_8,E38_4,,
+RELATION,RTHUOC_37,THUOC,Thuộc,E39_9,E38_5,,
+RELATION,RTHUOC_38,THUOC,Thuộc,E39_10,E38_5,,
+RELATION,RTHUOC_39,THUOC,Thuộc,E39_11,E38_5,,
+RELATION,RTHUOC_40,THUOC,Thuộc,E39_12,E38_6,,
+RELATION,RTHUOC_41,THUOC,Thuộc,E39_13,E38_6,,
+RELATION,RTHUOC_42,THUOC,Thuộc,E39_14,E38_10,,
+RELATION,RTHUOC_43,THUOC,Thuộc,E39_15,E38_10,,
+RELATION,RTHUOC_44,THUOC,Thuộc,E40_3,E38_10,,
+RELATION,RTHUOC_45,THUOC,Thuộc,E40_4,E38_10,,
+RELATION,RTHUOC_46,THUOC,Thuộc,E40_5,E38_10,,
+RELATION,RTHUOC_47,THUOC,Thuộc,E39_16,E38_10,,
+RELATION,RTHUOC_48,THUOC,Thuộc,E39_17,E38_11,,
+RELATION,RTHUOC_49,THUOC,Thuộc,E39_18,E38_11,,
+RELATION,RTHUOC_50,THUOC,Thuộc,E39_19,E38_13,,
+RELATION,RTHUOC_51,THUOC,Thuộc,E39_20,E38_13,,
+RELATION,RTHUOC_52,THUOC,Thuộc,E39_21,E38_14,,
+RELATION,RTHUOC_53,THUOC,Thuộc,E40_6,E38_14,,
+RELATION,RTHUOC_54,THUOC,Thuộc,E40_7,E38_14,,
+RELATION,RTHUOC_55,THUOC,Thuộc,E40_8,E38_14,,
+RELATION,RTHUOC_56,THUOC,Thuộc,E39_22,E38_14,,
+RELATION,RTHUOC_57,THUOC,Thuộc,E39_23,E38_15,,
+RELATION,RTHUOC_58,THUOC,Thuộc,E39_24,E38_15,,
+RELATION,RTHUOC_59,THUOC,Thuộc,E39_25,E38_15,,
+RELATION,RTHUOC_60,THUOC,Thuộc,E39_26,E38_15,,
+RELATION,RTHUOC_61,THUOC,Thuộc,E39_27,E38_15,,
+RELATION,RTHUOC_62,THUOC,Thuộc,E39_28,E38_16,,
+RELATION,RTHUOC_63,THUOC,Thuộc,E39_29,E38_16,,
+RELATION,RTHUOC_64,THUOC,Thuộc,E39_30,E38_16,,
+RELATION,RTHUOC_65,THUOC,Thuộc,E39_31,E38_16,,
+RELATION,RTHUOC_66,THUOC,Thuộc,E39_32,E38_16,,
+RELATION,RTHUOC_67,THUOC,Thuộc,E39_33,E38_16,,
+RELATION,RTHUOC_68,THUOC,Thuộc,E39_34,E38_18,,
+RELATION,RTHUOC_69,THUOC,Thuộc,E39_35,E38_18,,
+RELATION,RTHUOC_70,THUOC,Thuộc,E39_36,E38_19,,
+RELATION,RTHUOC_71,THUOC,Thuộc,E39_37,E38_19,,
+RELATION,RTHUOC_72,THUOC,Thuộc,E39_38,E38_19,,
+RELATION,RTHUOC_73,THUOC,Thuộc,E39_39,E38_21,,
+RELATION,RTHUOC_74,THUOC,Thuộc,E39_40,E38_21,,
+RELATION,RTHUOC_75,THUOC,Thuộc,E39_41,E38_22,,
+RELATION,RTHUOC_76,THUOC,Thuộc,E40_9,E38_22,,
+RELATION,RTHUOC_77,THUOC,Thuộc,E40_10,E38_22,,
+RELATION,RTHUOC_78,THUOC,Thuộc,E39_42,E38_22,,
+RELATION,RTHUOC_79,THUOC,Thuộc,E39_43,E38_22,,
+RELATION,RTHUOC_80,THUOC,Thuộc,E39_44,E38_22,,
+RELATION,RTHUOC_81,THUOC,Thuộc,E39_45,E38_23,,
+RELATION,RTHUOC_82,THUOC,Thuộc,E39_46,E38_23,,
+RELATION,RTHUOC_83,THUOC,Thuộc,E40_11,E38_23,,
+RELATION,RTHUOC_84,THUOC,Thuộc,E40_12,E38_23,,
+RELATION,RTHUOC_85,THUOC,Thuộc,E39_47,E38_23,,
+RELATION,RTHUOC_86,THUOC,Thuộc,E39_48,E38_26,,
+RELATION,RTHUOC_87,THUOC,Thuộc,E39_49,E38_26,,

@@ -1,0 +1,27 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,226,325,"NGHỊ QUYẾT
+BAN HÀNH MỘT SỐ BIỂU MẪU TRONG TỐ TỤNG DÂN SỰ
+HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CÁO"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,176,191,01/2017/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,226,236,NGHỊ QUYẾT
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,200,225,ngày 13 tháng 01 năm 2017
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,1210,1224,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,899,924,ngày 24 tháng 02 năm 2017
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1248,1260,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,85,108,Tòa ÁN NHÂN DÂN TỐI CAO
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,1122,1130,CHÁNH ÁN
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,1130,1145,Nguyễn Hòa Bình
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,333,387,Luật tổ chức Tòa án nhân dân ngày 24 tháng 11 năm 2014
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,1444,1619,"Nghị quyết số 03/2018/NQ-HĐTP Hướng dẫn áp dụng một số quy định của pháp luật trong giải quyết tranh chấp về xử lý nợ xấu, tài sản bảo đảm của khoản nợ xấu tại Tòa án nhân dân"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,1311,1394,Nghị quyết số 04/2018/NQ-HĐTP Ban hành một số biểu mẫu trong giải quyết việc dân sự
+ENTITY,E38_1,DIEU,Điều,structure,563,609,Điều 1. Ban hành biểu mẫu trong tố tụng dân sự
+ENTITY,E38_2,DIEU,Điều,structure,741,766,Điều 2. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,610,672,1. Ban hành 93 biểu mẫu theo Danh mục kèm theo Nghị quyết này.
+ENTITY,E39_2,KHOAN,Khoản,structure,673,740,2. Các biểu mẫu khác sẽ tiếp tục được ban hành trong thời gian tới.
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E24_1,E2_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E25_1,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_4,THUOC,Thuộc,E11_1,E10_1,,

@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0",
+  "document_id": "6150",
+  "document_code": "04/L-CTN",
+  "file_name": "04_L-CTN_6150.docx",
+  "text_encoding": "utf-8-nfc",
+  "offset_convention": "0_based_half_open",
+  "document_metadata": {
+    "ten_van_ban": "Lệnh số 04/L-CTN Về việc công bố Pháp lệnh Thương phiếu và Pháp lệnh Chất lượng hàng hóa",
+    "so_hieu": "04/L-CTN",
+    "loai_van_ban": "Lệnh",
+    "co_quan_ban_hanh": "CHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "ngay_ban_hanh": "ngày 04 tháng 01 năm 2000",
+    "ngay_co_hieu_luc": "2000-01-04",
+    "ngay_het_hieu_luc": null,
+    "tinh_trang_hieu_luc": "Còn hiệu lực",
+    "chuc_danh": "CHỦ TỊCH NƯỚC",
+    "nguoi_ky": "Trần Đức Lương",
+    "nganh": null,
+    "linh_vuc": "Chưa phân loại"
+  },
+  "full_text": "Lệnh số 04/L-CTN Về việc công bố Pháp lệnh Thương phiếu và Pháp lệnh Chất lượng hàng hóa\nCHỦ TỊCH NƯỚC\n*****\nSố: 04/L-CTN\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc\n*******\nHà Nội, ngày 04 tháng 01 năm 2000\nLỆNH\nVề việc công bố Pháp lệnh Thương phiếu và Pháp lệnh Chất lượng hàng hóa\n­_____________________\nCHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nCăn cứ vào Điều 103 và Điều 106 của Hiến Pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992;\nCăn cứ vào Điều 78 của Luật Tổ chức Quốc hội;\nCăn cứ vào Điều 51 của Luật Ban hành các văn bản quy phạm pháp luật,\nNAY CÔNG BỐ:\n1. Pháp lệnh Thương phiếu;\n2. Pháp lệnh Chất lượng hàng hóa.\nĐã được Ủy ban Thường vụ Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam Khóa X thông qua ngày 24 tháng 12 năm 1999./.\nCHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n(Đã ký)\nTrần Đức Lương\n--- THÔNG TIN THUỘC TÍNH & LƯỢC ĐỒ TỪ FILE JSON ---\n[Lĩnh vực]: Chưa phân loại\n[Ngày có hiệu lực]: 2000-01-04\n[Tình trạng hiệu lực]: Còn hiệu lực\n[Căn cứ ban hành]: Hiến pháp năm 1992\n[Căn cứ ban hành]: Luật Ban hành Văn bản quy phạm pháp luật số Không số\n[Căn cứ ban hành]: Luật Tổ chức Quốc hội số 66-LCT/HĐNN8\n[Văn bản được dẫn chiếu]: Pháp lệnh số 17/1999/PL-UBTVQH10 Thương phiếu\n[Văn bản được dẫn chiếu]: Pháp lệnh số 18/1999/PL-UBTVQH10 Chất lượng Hàng hoá\n[Văn bản áp dụng]: Quyết định số 195/2003/QĐ-BBCVT Về việc ban hành Tiêu chuẩn Ngành\n[Văn bản áp dụng]: Quyết định số 124/2001/QĐ-BNN Về việc ban hành Qui định kiểm tra Nhà nước chất lượng thuốc bảo vệ thực vật xuất khẩu, nhập khẩu",
+  "structural_units": [],
+  "entities": [
+    {
+      "id": "E1_1",
+      "start": 0,
+      "end": 88,
+      "text": "Lệnh số 04/L-CTN Về việc công bố Pháp lệnh Thương phiếu và Pháp lệnh Chất lượng hàng hóa",
+      "code": "TEN_VAN_BAN",
+      "label": "Tên văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E2_1",
+      "start": 8,
+      "end": 16,
+      "text": "04/L-CTN",
+      "code": "SO_HIEU",
+      "label": "Số hiệu",
+      "scope": "metadata"
+    },
+    {
+      "id": "E3_1",
+      "start": 0,
+      "end": 4,
+      "text": "Lệnh",
+      "code": "LOAI_VAN_BAN",
+      "label": "Loại văn bản",
+      "scope": "metadata"
+    },
+    {
+      "id": "E5_1",
+      "start": 201,
+      "end": 226,
+      "text": "ngày 04 tháng 01 năm 2000",
+      "code": "NGAY_BAN_HANH",
+      "label": "Ngày ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E6_1",
+      "start": 917,
+      "end": 931,
+      "text": "Chưa phân loại",
+      "code": "LINH_VUC",
+      "label": "Lĩnh vực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E7_1",
+      "start": 952,
+      "end": 962,
+      "text": "2000-01-04",
+      "code": "NGAY_CO_HIEU_LUC",
+      "label": "Ngày có hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E9_1",
+      "start": 986,
+      "end": 998,
+      "text": "Còn hiệu lực",
+      "code": "TINH_TRANG_HIEU_LUC",
+      "label": "Tình trạng hiệu lực",
+      "scope": "metadata"
+    },
+    {
+      "id": "E10_1",
+      "start": 327,
+      "end": 375,
+      "text": "CHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+      "code": "CO_QUAN_BAN_HANH",
+      "label": "Cơ quan ban hành",
+      "scope": "metadata"
+    },
+    {
+      "id": "E11_1",
+      "start": 781,
+      "end": 794,
+      "text": "CHỦ TỊCH NƯỚC",
+      "code": "CHUC_DANH",
+      "label": "Chức danh",
+      "scope": "metadata"
+    },
+    {
+      "id": "E12_1",
+      "start": 838,
+      "end": 852,
+      "text": "Trần Đức Lương",
+      "code": "NGUOI_KY",
+      "label": "Người ký",
+      "scope": "metadata"
+    },
+    {
+      "id": "E18_1",
+      "start": 1192,
+      "end": 1237,
+      "text": "Pháp lệnh số 17/1999/PL-UBTVQH10 Thương phiếu",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E18_2",
+      "start": 1264,
+      "end": 1316,
+      "text": "Pháp lệnh số 18/1999/PL-UBTVQH10 Chất lượng Hàng hoá",
+      "code": "VB_DUOC_DAN_CHIEU",
+      "label": "Văn bản được dẫn chiếu",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_1",
+      "start": 1018,
+      "end": 1036,
+      "text": "Hiến pháp năm 1992",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_2",
+      "start": 1056,
+      "end": 1108,
+      "text": "Luật Ban hành Văn bản quy phạm pháp luật số Không số",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E19_3",
+      "start": 1128,
+      "end": 1165,
+      "text": "Luật Tổ chức Quốc hội số 66-LCT/HĐNN8",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_1",
+      "start": 1336,
+      "end": 1401,
+      "text": "Quyết định số 195/2003/QĐ-BBCVT Về việc ban hành Tiêu chuẩn Ngành",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    },
+    {
+      "id": "E30_2",
+      "start": 1421,
+      "end": 1548,
+      "text": "Quyết định số 124/2001/QĐ-BNN Về việc ban hành Qui định kiểm tra Nhà nước chất lượng thuốc bảo vệ thực vật xuất khẩu, nhập khẩu",
+      "code": "VB_AP_DUNG",
+      "label": "Văn bản áp dụng",
+      "scope": "reference"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R6_1",
+      "from_id": "E2_1",
+      "to_id": "E18_1",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R6_2",
+      "from_id": "E2_1",
+      "to_id": "E18_2",
+      "code": "DUOC_DAN_CHIEU",
+      "label": "Được dẫn chiếu"
+    },
+    {
+      "id": "R7_1",
+      "from_id": "E2_1",
+      "to_id": "E19_1",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_2",
+      "from_id": "E2_1",
+      "to_id": "E19_2",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R7_3",
+      "from_id": "E2_1",
+      "to_id": "E19_3",
+      "code": "CAN_CU_BAN_HANH",
+      "label": "Căn cứ ban hành"
+    },
+    {
+      "id": "R18_1",
+      "from_id": "E2_1",
+      "to_id": "E30_1",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "R18_2",
+      "from_id": "E2_1",
+      "to_id": "E30_2",
+      "code": "AP_DUNG",
+      "label": "Áp dụng"
+    },
+    {
+      "id": "R22_1",
+      "from_id": "E12_1",
+      "to_id": "E11_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    },
+    {
+      "id": "R22_2",
+      "from_id": "E11_1",
+      "to_id": "E10_1",
+      "code": "THUOC",
+      "label": "Thuộc"
+    }
+  ],
+  "future_extensions": {
+    "summary": null,
+    "qa_pairs": []
+  }
+}

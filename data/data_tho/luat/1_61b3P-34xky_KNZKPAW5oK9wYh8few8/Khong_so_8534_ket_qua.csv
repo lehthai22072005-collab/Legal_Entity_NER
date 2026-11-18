@@ -1,0 +1,662 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,38,Luật Thuế giá trị gia tăng số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,30,38,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,28033,28057,ngày 10 tháng 5 năm 1997
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,28123,28137,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,28158,28168,1999-01-01
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,28190,28200,2009-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,28224,28244,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,28265,28273,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,28287,28304,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,28317,28330,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,28686,28704,Hiến pháp năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,28372,28408,Luật Thuế Doanh thu số 270B-NQ/HĐNN8
+ENTITY,E15_2,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,28450,28519,"Luật Sửa đổi, bổ sung một số điều của Luật Thuế Doanh thu số Không số"
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,28584,28631,Luật Đầu tư nước ngoài tại Việt Nam số 52-L/CTN
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,28539,28557,Hiến pháp năm 1992
+ENTITY,E23_1,VB_HUONG_DAN_AP_DUNG,Văn bản hướng dẫn áp dụng,reference,29027,29137,Thông tư số 178/1998/TT-BTC hướng dẫn kế toán thuế giá trị gia tăng áp dụng cho Tổng công ty điện lực Việt Nam
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,29187,29296,"Thông tư số 32/2006/TT-BTC Hướng dẫn kế toán nghiệp vụ thuế và thu khác đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,29346,29468,"Thông tư số 08/2007/TT-BTC Hướng dẫn chế độ tài chính và thủ tục hải quan áp dụng tại Khu kinh tế Nghi Sơn, tỉnh Thanh Hoá"
+ENTITY,E24_3,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,29518,29626,"Quyết định số 1632/1998/QĐ-BTC Về việc ban hành quy chế lập, quản lý, sử dụng quỹ hoàn thuế giá trị gia tăng"
+ENTITY,E24_4,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,29676,29904,"Thông tư số 36/2000/TT-BTC Bổ sung một số điểm quy định tại Thông tư số 42/99/TT-BTC ngày 20/4 của Bộ Tài chính hướng dẫn việc thực hiện chế độ tài chính, kế toán, thuế đối với các cửa hàng kinh doanh hàng miễn thuế tại việt nam"
+ENTITY,E24_5,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,29954,30031,Quyết định số 11/1999/QĐ-BTC Về việc đổi tên một số phòng thuộc tổng cục thuế
+ENTITY,E24_6,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30081,30270,"Thông tư số 121/2007/TT-BTC Sửa đổi, bổ sung Thông tư số 32/2006/TT-BTC ngày 10/4/2006 của Bộ Tài chính về hướng dẫn kế toán nghiệp vụ thuế và thu khác đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E24_7,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30320,30499,"Thông tư liên tịch số 33/2002/TTLT-BTC-BTP Hướng dẫn chế độ thu, nộp và quản lý sử dụng lệ phí đăng ký và phí cung cấp thông tin về giao dịch bảo đảm và tài sản cho thuê tài chính"
+ENTITY,E24_8,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30549,30688,"Quyết định số 140/2003/QĐ-BTC giao Tổng cục Hải quan quyết định miễn, giảm, hoàn thuế, chênh lệch giá đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E24_9,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30738,30858,"Thông tư số 07/2007/TT-BTC Hướng dẫn chế độ tài chính và thủ tục hải
+quan áp dụng tại Khu kinh tế Vũng Áng, tỉnh Hà Tĩnh"
+ENTITY,E24_10,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,30908,31014,Quyết định số 81/1999/QĐ-BTC Về việc kéo dài thời hạn nộp thuế tương ứng với giá trị hàng hoá bán trả chậm
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,28755,28835,"Luật Sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng số 07/2003/QH11"
+ENTITY,E25_2,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,28886,28997,"Luật sửa đổi, bổ sung một số điều của Luật Thuế tiêu thụ đặc biệt và Luật Thuế giá trị gia tăng số 57/2005/QH11"
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,52368,52410,Luật Thuế giá trị gia tăng số 13/2008/QH12
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31036,31173,"Thông tư số 26/2006/TT-BTC Hướng dẫn Chế độ tài chính và thủ tục hải quan áp dụng đối với Khu kinh tế cửa khẩu quốc tế Bờ Y, tỉnh Kon Tum"
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31195,31289,"Quyết định số 31/2001/QĐ-BTC Về việc sửa đổi, bổ sung Chế độ quản lý, sử dụng hoá đơn bán hàng"
+ENTITY,E29_3,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31311,31497,"Chỉ thị số 02/1999/CT-UBND V/v tăng cường quản lý giá, quản lý thị trường, giữ bình ổn giá cả để thi hành Chỉ thị của Thủ tướng Chính phủ về việc tiếp tục tổ chức thực hiện Luật thuế mới"
+ENTITY,E29_4,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31519,31586,Thông tư số 73/2000/TT-BTC Hướng dẫn xây dựng dự toán NSNN năm 2001
+ENTITY,E29_5,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31608,31727,"Thông tư số 93/2007/TT-BTC Hướng dẫn một số cơ chế, chính sách ưu đãi về tài chính đối với đảo Phú Quý, tỉnh Bình Thuận"
+ENTITY,E29_6,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31749,31866,Chỉ thị số 42/1998/CT-UBND Về việc triển khai thực hiện Luật Thuế giá trị gia tăng và Luật Thuế thu nhập doanh nghiệp
+ENTITY,E29_7,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31888,31971,Chỉ thị số 11/2004/CT-UB Về việc chấn chỉnh quản lý đầu tư xây dựng cơ bản năm 2004
+ENTITY,E29_8,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,31993,32073,Nghị định số 79/2000/NĐ-CP Quy định chi tiết thi hành Luật Thuế giá trị gia tăng
+ENTITY,E29_9,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32095,32411,"Thông tư số 32/2007/TT-BTC Hướng dẫn thi hành Nghị định số 158/2003/NĐ-CP ngày 10/12/2003, Nghị định số 148/2004/NĐ-CP ngày 23/7/2004 và Nghị định số 156/2005/NĐ-CP ngày 15/12/2005 của Chính phủ quy định chi tiết thi hành Luật thuế giá trị gia tăng và Luật sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng"
+ENTITY,E29_10,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32433,32593,"Thông tư số 09/1999/TT-BVGCP Hướng dẫn về quản lý giá, bình ổn giá thi hành chỉ thị của Thủ tướng Chính phủ về việc tiếp tục tổ chức thực hiện các luật thuế mới"
+ENTITY,E29_11,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32615,32842,"Thông tư số 119/2003/TT-BTC hướng dẫn thi hành Nghị định số 149/2003/NĐ-CP ngày 4/12/2003 của Chính phủ quy định chi tiết thi hành Luật thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt"
+ENTITY,E29_12,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32864,32976,"Quyết định số 140/2007/QĐ-TTg Về việc ban hành Quy chế hoạt động của Khu kinh tế cửa khẩu Mộc Bài, tỉnh Tây Ninh"
+ENTITY,E29_13,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,32998,33081,Chỉ thị số 04/1999/CT-UBND V/v tăng cường công tác quản lý thu thuế xây dựng cơ bản
+ENTITY,E29_14,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33103,33230,"Quyết định số 217/2005/QĐ-TTg Về việc ban hành Quy chế tổ chức và hoạt động của khu kinh tế cửa khẩu quốc tế Bờ Y, tỉnh Kon Tum"
+ENTITY,E29_15,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33252,33285,Luật Quản lý thuế số 78/2006/QH11
+ENTITY,E29_16,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33307,33447,Chỉ thị số 14/2000/CT-UB V/v Triển khai chế độ kế toán áp dụng đối với hộ sản xuất kinh doanh công thương nghiệp và dịch vụ ngoài quốc doanh
+ENTITY,E29_17,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33469,33536,Chỉ thị số 30/1998/CT-UB V/v Triển khai thực hiện các luật thuế mới
+ENTITY,E29_18,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33558,33669,Quyết định số 162/2007/QĐ-TTg Ban hành Quy chế hoạt động của Khu kinh tế cửa khẩu quốc tế Cầu Treo tỉnh Hà Tĩnh
+ENTITY,E29_19,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33691,33834,"Thông tư số 41/2002/TT-BTC hướng dẫn thực hiện chính sách thuế đối với các chương trình, dự án sử dụng nguồn hỗ trợ phát triển chính thức (ODA)"
+ENTITY,E29_20,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33856,33940,Chỉ thị số 21/1998/CT-UB Về tăng cường công tác tuyên truyền giáo dục pháp luật thuế
+ENTITY,E29_21,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,33962,34052,Chỉ thị số 20/1998/CT-UBND V/v Khảo sát tỷ lệ giá trị gia tăng và tỷ lệ thu nhập chịu thuế
+ENTITY,E29_22,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,34074,34203,"Quyết định số 70/2007/QĐ-UBND Về việc ban hành Quy định khung mức thu, quản lý và sử dụng phí qua đò trên địa bàn tỉnh Bình Thuận"
+ENTITY,E29_23,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,34225,34320,"Thông tư số 03/2000/TT-BTC hướng dẫn quản lý, sử dụng nguồn thu quảng cáo của ngành truyền hình"
+ENTITY,E29_24,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,34342,34568,"Thông tư số 120/2003/TT-BTC hướng dẫn thi hành Nghị định số 158/2003/NĐ-CP ngày 10/12/2003 của Chính phủ quy định chi tiết thi hành Luật thuế giá trị gia tăng và Luật sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng"
+ENTITY,E29_25,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,34590,34725,"Thông tư số 46/2006/TT-BTC Hướng dẫn chế độ tài chính và thủ tục hải quan áp dụng tại Khu kinh tế Chân Mây-Lăng Cô, tỉnh Thừa Thiên Huế"
+ENTITY,E29_26,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,34747,34862,"Thông tư liên tịch số 91/2008/TTLT-BTC-BTP Hướng dẫn về mức thu, chế độ thu, nộp, quản lý và sử dụng phí công chứng"
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,34882,35011,Thông tư số 111/2005/TT-BTC Hướng dẫn về thuế giá trị gia tăng và thuế thu nhập doanh nghiệp đối với lĩnh vực kinh doanh bảo hiểm
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,35031,35180,"Nghị định số 158/2003/NĐ-CP Quy định chi tiết thi hành Luật Thuế giá trị gia tăng và Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,35200,35292,"Thông tư số 146/1998/TT-BTC hướng dẫn tính thuế và kê khai, nộp thuế GTGT đối với ngành điện"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,35312,35431,Thông tư số 62/2004/TT-BTC Hướng dẫn thực hiện thuế suất thuế giá trị gia tăng theo Danh mục Biểu thuế nhập khẩu ưu đãi
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,35451,35553,Thông tư số 91/1999/TT-BTC hướng dẫn áp dụng thuế giá trị gia tăng đối với hàng hoá gia công xuất khẩu
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,35573,35793,"Quyết định số 96/2002/QĐ-BTC Về việc sửa đổi, bổ sung một số điểm trong Quy chế lập, quản lý, sử dụng Quỹ hoàn thuế giá trị gia tăng ban hành theo Quyết định số 1632/1998/QĐ-BTC ngày 17/11/1998 của Bộ trưởng Bộ Tài chính"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,35813,35960,"Thông tư số 191/1998/TT-BTC hướng dẫn kế toán thuế giá trị gia tăng đối với hoạt động xây dựng cơ bản, sản xuất, chế biến sản phẩm nông, lâm nghiệp"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,35980,36289,"Nghị định số 15/2000/NĐ-CP Quy định chi tiết thi hành Nghị quyết số 90/1999/NQ-UBTVQH10 ngày 03/09/1999 của Uỷ ban Thường vụ Quốc hội về việc sửa đổi, bổ sung một số danh mục hàng hoá, dịch vụ thuộc đối tượng không chịu thuế giá trị gia tăng và thuế suất thuế giá trị gia tăng đối với một số hàng hoá, dịch vụ"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,36309,36386,Quyết định số 11/1999/QĐ-BTC Về việc đổi tên một số phòng thuộc tổng cục thuế
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,36406,36512,Quyết định số 81/1999/QĐ-BTC Về việc kéo dài thời hạn nộp thuế tương ứng với giá trị hàng hoá bán trả chậm
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,36532,36675,"Thông tư số 42/1999/TT-BTC hướng dẫn việc thực hiện chế độ tài chính, kế toán, thuế đối với các cửa hàng kinh doanh hàng miễn thuế tại Việt Nam"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,36695,36834,Thông tư số 122/2000/TT-BTC Hướng dẫn thi hành NÐ số 79/20002NÐ-CP ngày 29/12/2000 của chính phủ quy định chi tiết thi hành luật thuế GTGT.
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,36854,37000,Quyết định số 236/2003/QĐ-BTC của Bộ trưởng Bộ Tài chính về việc tạm thời điều chỉnh thời gian nộp thuế GTGT đối với phân bón Urê ở khâu nhập khẩu
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,37020,37248,"Thông tư số 11/1999/TT-BTC hướng dẫn thực hiện Quyết định số 05/1999/QÐ-TTg ngày 23/1/1999 của Thủ tướng Chính phủ về việc giảm thuế giá trị gia tăng (GTGT) kinh doanh các mặt hàng lương thực, thực phẩm tươi sống và rau quả tươi"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,37268,37388,"Thông tư số 07/2007/TT-BTC Hướng dẫn chế độ tài chính và thủ tục hải
+quan áp dụng tại Khu kinh tế Vũng Áng, tỉnh Hà Tĩnh"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,37408,37516,"Quyết định số 1632/1998/QĐ-BTC Về việc ban hành quy chế lập, quản lý, sử dụng quỹ hoàn thuế giá trị gia tăng"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,37536,37643,Quyết định số 26/2003/QĐ-UB Về việc ban hành quy định quản lý thu thuế đối với hoạt động khai thác thủy sản
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,37663,37759,"Quyết định số 383/1998/TCHQ-QĐ ban hành quy trình hành thu đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,37779,37892,Thông tư số 185/1998/TT-BTC hướng dẫn kế toán thuế giá trị gia tăng và thuế thu nhập doanh nghiệp của đơn vị HCSN
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,37912,38085,"Quyết định số 48/2001/QĐ-UB Về việc ban hành Quy định thu thuế GTGT hoạt động XDCB của các tổ chức, doanh nghiệp ngoại tỉnh thi công các công trình trên địa bàn tỉnh Nghệ An"
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,38105,38321,"Thông tư số 62/2002/TT-BTC Guiding the application of value added tax (VAT) on credit institution's activities of handling loan security assets to recover debts (&lt;font color=""red""&gt;Content Attached&lt;/font&gt;)"
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,38341,38430,Thông tư số 108/2001/TT-BTC Hướng dẫn kế toán hoạt động kinh doanh xuất nhập khẩu uỷ thác
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,38450,38670,"Thông tư số 115/2005/TT-BTC Hướng dẫn thi hành Nghị định số 156/2005/NĐ-CP ngày 15/12/2005 của Chính phủ sửa đổi, bổ sung các Nghị định quy định chi tiết thi hành Luật thuế tiêu thụ đặc biệt và Luật thuế giá trị gia tăng"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,38690,38796,"Quyết định số 110/2002/QĐ-BTC Về việc sửa đổi, bổ sung Chế độ phát hành, quản lý, sử dụng hoá đơn bán hàng"
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,38816,39132,"Thông tư số 32/2007/TT-BTC Hướng dẫn thi hành Nghị định số 158/2003/NĐ-CP ngày 10/12/2003, Nghị định số 148/2004/NĐ-CP ngày 23/7/2004 và Nghị định số 156/2005/NĐ-CP ngày 15/12/2005 của Chính phủ quy định chi tiết thi hành Luật thuế giá trị gia tăng và Luật sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,39152,39374,"Quyết định số 60/2003/QĐ-UB Về việc ban hành bảng giá tối thiểu làm cản cứ tính Lệ phí trước bạ tài sản và tính thuế giá trị gia tăng, thuế thu nhập doanh nghiệp trong hoạt động kinh doanh xe ô tô trên địa bàn tỉnh Nghệ An"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,39394,39536,"Quyết định số 171/1999/QĐ-TTg Về việc cho chậm nộp thuế đối với hàng nhập khẩu là nguyên liệu, vật tư, phụ tùng phục vụ trực tiếp cho sản xuất"
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,39556,39706,"Thông tư số 08/2005/TT-BTC Hướng dẫn  Chế độ tài chính áp dụng đối với Khu Thương mại và Công nghiệp thuộc Khu kinh tế cửa khẩu Mộc Bài, tỉnh Tây Ninh"
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,39726,39805,"Quyết định số 131/2002/QÐ-BTC V/v sửa đổi, bổ sung Chế độ kế toán hộ kinh doanh"
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,39825,40061,"Thông tư số 37/2001/TT-BTC Bổ sung một số điểm quyết định tại thông tư số 42/1999/TT-BTC ngày 20/4/1999 của bộ tài chính hướng dẫn việc thực hiện chế độ tài chính, kế toán thuế đối với các cửa hàng kinh doanh hàng miễn thuế tại việt nam"
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,40081,40350,"Thông tư số 182/1998/TT-BTC hướng dẫn thuế giá trị gia tăng, thuế thu nhập doanh nghiệp đối với các doanh nghiệp, tổ chức, cá nhân có vốn đầu tư nước ngoài tại Việt Nam thực hiện theo Luật Ðầu tư nước ngoài tại Việt Nam và không theo Luật Ðầu tư nước ngoài tại Việt Nam"
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,40370,40509,"Quyết định số 140/2003/QĐ-BTC giao Tổng cục Hải quan quyết định miễn, giảm, hoàn thuế, chênh lệch giá đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,40529,40631,Quyết định số 39/2000/QĐ-TTg Quy định tạm thời ưu đãi về thuế đối với hoạt động kinh doanh chứng khoán
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,40651,40816,"Quyết định số 41/2002/QĐ-TTg Về chống thất thu thuế giá trị gia tăng và thuế thu nhập doanh nghiệp qua giá bán trong hoạt động kinh doanh xe ôtô, xe hai bánh gắn máy"
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,40836,40974,"Nghị định số 108/2002/NĐ-CP Về việc bãi bỏ quy định khấu trừ thuế giá trị gia tăng đầu vào theo tỷ lệ (%) đối với một số hàng hoá, dịch vụ"
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,40994,41116,Thông tư số 101/1999/TT-BTC hướng dẫn thực hiện Luật thuế Giá trị gia tăng đối với hoạt động trong ngành vận tải đường bộ.
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,41136,41286,"Thông tư số 02/2000/TT-BTC Hướng dẫn hoàn thuế GTGT đối với hàng hoá, dịch vụ do các tổ chức trong nước mua bằng tiền viện trợ nhân đạo của nước ngoài"
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,41306,41532,"Quyết định số 59/2003/QĐ-UB Về việc ban hành bảng giá tối thiểu làm căn cứ tính Lệ phí trước bạ tài sản và tính thuế giá trị gia tăng, thuế thu nhập doanh nghiệp trong hoạt động kinh doanh xe gắn máy trên địa bàn tỉnh Nghệ An)"
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,41552,41826,"Thông tư số 102/2002/TT-BTC sửa đổi quy định khấu trừ thuế GTGT đối với hàng hoá mua vào là nông sản, lâm sản, thuỷ sản chưa qua chế biến hướng dẫn tại Thông tư số 82/2002/TT-BTC ngày 18/9/2002 sửa đổi, bổ sung một số nội dung của Thông tư số 122/2000/TT-BTC ngày 29/12/2002"
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,41846,42084,"Thông tư số 10/2000/TT-BTC Hướng dẫn việc kê khai nộp thuế GTGT đối với hàng hoá của các cơ sở kinh doanh xuất bán tại các đơn vị trực thuộc hạch toán phụ thuộc ở các tỉnh, thành phố khác và xuất bán qua đại lý bán đúng giá hưởng hoa hồng"
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,42104,42169,Quyết định số 1042/1998/QĐ-BTC Về việc ban hành mẫu biên lai thuế
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,42189,42327,"Quyết định số 1257/2001/QĐ-TCHQ Về việc ban hành tờ khai hàng hóa xuất khẩu, nhập khẩu, giấy thông báo thuế và quyết định điều chỉnh thuế."
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,42347,42743,"Thông tư số 49/2000/TT-BTC hướng dẫn thi hành nghị định số 15/2000/nÐ-Cp của chính phủ quy định chi tiết thi hành NQ số 90/NQ-UBTVQH 10 ngày 3/9/1999 của Uỷ ban thường vụ quốc hội về việc sửa đổi, bổ sung một số danh mục hàng hoá, dịch vụ thuộc đối tượng không chịu thuế giá trị gia tăng và thuế suất thuế GTGT đối với một số hàng hoá dịch vụ và sửa đổi bổ sung một số điều quy định về thuế gtgt."
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,42763,42925,"Thông tư số 61/2006/TT-BTC Hướng dẫn chính sách thuế đối vói hàng nông sản chưa qua chế biến do phía Việt Nam hỗ trợ đầu tư, trồng tại Campuchia nhập khẩu về nước"
+ENTITY,E30_45,VB_AP_DUNG,Văn bản áp dụng,reference,42945,43113,"Thông tư số 48/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò dầu khí theo quy định của luật dầu khí"
+ENTITY,E30_46,VB_AP_DUNG,Văn bản áp dụng,reference,43133,43321,"Nghị định số 76/2002/NĐ-CP Về việc sửa đổi, bổ sung một số điều của Nghị định số 79/2000/NĐ-CP ngày 29 tháng 12 năm 2000 của Chính phủ quy định chi tiết thi hành Luật Thuế giá trị gia tăng"
+ENTITY,E30_47,VB_AP_DUNG,Văn bản áp dụng,reference,43341,43451,Thông tư số 49/1999/TT-BTC Hướng dẫn thực hiện Luật thuế giá trị gia tăng đối với hoạt động cho thuê tài chính
+ENTITY,E30_48,VB_AP_DUNG,Văn bản áp dụng,reference,43471,43624,"Thông tư số 42/2001/TT-BTC hướng dẫn quản lý, hạch toán vốn hoàn thuế giá trị gia tăng cho các dự án sử dụng nguồn vốn hỗ trợ phát triển chính thức (oda)"
+ENTITY,E30_49,VB_AP_DUNG,Văn bản áp dụng,reference,43644,43829,"Thông tư số 24/2002/TT-BTC The Circular providing guidelines on implementation of tax obligation for financial leasing activities (&lt;font color=""red""&gt;Content Attached&lt;/font&gt;)"
+ENTITY,E30_50,VB_AP_DUNG,Văn bản áp dụng,reference,43849,44007,Quyết định số 2821/2000/QĐ-UB Về việc Quy định giá tính thuế GTGT đối với các cơ sở kinh doanh xe gắn máy ghi giá trên hóa đơn thấp hơn giá thực tế thanh toán
+ENTITY,E30_51,VB_AP_DUNG,Văn bản áp dụng,reference,44027,44141,"Quyết định số 197/2003/QĐ-TTg Về việc thí điểm thực hiện cơ chế cơ sở sản xuất, kinh doanh tự kê khai, tự nộp thuế"
+ENTITY,E30_52,VB_AP_DUNG,Văn bản áp dụng,reference,44161,44271,Thông tư số 178/1998/TT-BTC hướng dẫn kế toán thuế giá trị gia tăng áp dụng cho Tổng công ty điện lực Việt Nam
+ENTITY,E30_53,VB_AP_DUNG,Văn bản áp dụng,reference,44291,44418,"Thông tư số 26/2016/TT-BTC Hướng dẫn thực hiện một số cơ chế, chính sách ưu đãi đối với địa bàn Côn Đảo, tỉnh Bà Rịa - Vũng Tàu"
+ENTITY,E30_54,VB_AP_DUNG,Văn bản áp dụng,reference,44438,44634,Thông tư số 05/2005/TT-BTC Hướng dẫn chế độ thuế áp dụng đối với các tổ chức nước ngoài không có tư cách pháp nhân Việt Nam và cá nhân nước ngoài kinh doanh hoặc có thu nhập phát sinh tại Việt Nam
+ENTITY,E30_55,VB_AP_DUNG,Văn bản áp dụng,reference,44654,44787,Thông tư số 13/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các hình thức đầu tư theo Luật đầu tư nước ngoài tại Việt Nam
+ENTITY,E30_56,VB_AP_DUNG,Văn bản áp dụng,reference,44807,44910,Quyết định số 172/1999/QĐ-UB Về việc bãi bỏ quyết định số 62/QĐ-UB ngày 26/4/1996 của UBND tỉnh Lào Cai
+ENTITY,E30_57,VB_AP_DUNG,Văn bản áp dụng,reference,44930,45010,Nghị định số 28/1998/NĐ-CP Quy định chi tiết thi hành Luật thuế trị giá gia tăng
+ENTITY,E30_58,VB_AP_DUNG,Văn bản áp dụng,reference,45030,45244,"Thông tư số 54/2000/TT-BTC Hướng dẫn kế toán đối với hàng hóa của các cơ sở kinh doanh bán tại các đơn vị trực thuộc hạch toán phụ thuộc ở các tỉnh, thành phố khác và xuất bán qua đại lý bán đúng giá hưởng hoa hồng"
+ENTITY,E30_59,VB_AP_DUNG,Văn bản áp dụng,reference,45264,45457,"Thông tư số 100/1999/TT-BTC hướng dẫn việc kê khai nộp thuế thu nhập doanh nghiệp đối với đại lý sổ số kiến thiết và việc sử dụng hoá đơn, chứng từ đối với hoạt động kinh doanh xổ số kiến thiết"
+ENTITY,E30_60,VB_AP_DUNG,Văn bản áp dụng,reference,45477,45611,"Thông tư liên tịch số 12/2007/TTLT/BTC-BTM-BCA Hướng dẫn chế độ hoá đơn, chứng từ đối với hàng hoá nhập khẩu lưu thông trên thị trường"
+ENTITY,E30_61,VB_AP_DUNG,Văn bản áp dụng,reference,45631,45758,Thông tư số 74/2005/TT-BTC Hướng dẫn Chế độ tài chính và thủ tục hải quan áp dụng tại Khu Kinh tế - Thương mại đặc biệt Lao Bảo
+ENTITY,E30_62,VB_AP_DUNG,Văn bản áp dụng,reference,45778,45859,Quyết định số 24/2004/QĐ-BTC về việc sửa đổi nội dung tờ khai xuất khẩu biên giới
+ENTITY,E30_63,VB_AP_DUNG,Văn bản áp dụng,reference,45879,46078,"Thông tư số 72/2006/TT-BTC Sửa đổi, bổ sung Thông tư số 100/2004/TT-BTC ngày 20/10/2004 của Bộ Tài chính hướng dẫn về thuế giá trị gia tăng và thuế thu nhập doanh nghiệp đối với lĩnh vực chứng khoán."
+ENTITY,E30_64,VB_AP_DUNG,Văn bản áp dụng,reference,46098,46347,"Nghị định số 148/2004/NĐ-CP Sửa đổi, bổ sung khoản 1 Điều 7 Nghị định số 158/2003/NĐ-CP ngày 10 tháng 12 năm 2003 của Chính phủ quy định chi tiết thi hành Luật Thuế giá trị gia tăng và Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng"
+ENTITY,E30_65,VB_AP_DUNG,Văn bản áp dụng,reference,46367,46570,Thông tư số 127/2004/TT-BTC Sửa đổi Thông tư số 127/2003/TT-BTC ngày 22/12/2003 và Thông tư số 84/2004/TT-BTC ngày 18/8/2004 của Bộ Tài chính về mẫu tờ khai và hướng dẫn lập tờ khai thuế giá trị gia tăng
+ENTITY,E30_66,VB_AP_DUNG,Văn bản áp dụng,reference,46590,46798,Quyết định số 156/2003/QĐ-UBND Về việc ban hành quy định biện pháp phối hợp trong quản lý chống thất thu ngân sách Nhà nước đối với hoạt động vận tải và đăng kiểm phương tiện vận tải trên địa bàn tỉnh Yên Bái
+ENTITY,E30_67,VB_AP_DUNG,Văn bản áp dụng,reference,46818,46898,Nghị định số 79/2000/NĐ-CP Quy định chi tiết thi hành Luật Thuế giá trị gia tăng
+ENTITY,E30_68,VB_AP_DUNG,Văn bản áp dụng,reference,46918,47097,"Thông tư liên tịch số 33/2002/TTLT-BTC-BTP Hướng dẫn chế độ thu, nộp và quản lý sử dụng lệ phí đăng ký và phí cung cấp thông tin về giao dịch bảo đảm và tài sản cho thuê tài chính"
+ENTITY,E30_69,VB_AP_DUNG,Văn bản áp dụng,reference,47117,47277,Thông tư số 89/1998/TT-BTC hướng dẫn thi hành Nghị định số 28/1998/NÐ-CP ngày 11/5/98 của Chính phủ quy định chi tiết thi hành Luật thuế giá trị gia tăng (GTGT)
+ENTITY,E30_70,VB_AP_DUNG,Văn bản áp dụng,reference,47297,47506,"Quyết định số 172/2001/QĐ-TTg Về việc xử lý giãn nợ, khoanh nợ, xóa nợ thuế và các khoản phải nộp ngân sách nhà nước đối với những doanh nghiệp, cơ sở sản xuất kinh doanh có khó khăn do nguyên nhân khách quan."
+ENTITY,E30_71,VB_AP_DUNG,Văn bản áp dụng,reference,47526,47770,"Nghị định số 78/1999/NĐ-CP Sửa đổi, bổ sung Nghị định số 102/1998/NĐ-CP ngày 21/12/1998 của Chính phủ sửa đổi, bổ sung một số Điều của Nghị định số 28/1998/NĐ-CP ngày 11/5/1998 của Chính phủ quy định chi tiết thi hành Luật thuế giá trị gia tăng"
+ENTITY,E30_72,VB_AP_DUNG,Văn bản áp dụng,reference,47790,47959,"Thông tư số 05/2000/TT-BTC Sửa đổi, bổ sung Thông tư số 146/1998/TT-BTC ngày 12/11/1998 của Bộ Tài chính hướng dẫn tính thuế và kê khai, nộp thuế GTGT đối với ngành điện"
+ENTITY,E30_73,VB_AP_DUNG,Văn bản áp dụng,reference,47979,48202,"Thông tư số 116 /2002/TT-BTC Hướng dẫn thi hành Nghị định số 108/2002/NĐ-CP ngày 25/12/2002 của Chính phủ về việc bãi bỏ quy định khấu trừ thuế giá trị gia tăng (GTGT) đầu vào theo tỷ lệ (%) đối với một số hàng hóa, dịch vụ"
+ENTITY,E30_74,VB_AP_DUNG,Văn bản áp dụng,reference,48222,48489,"Nghị định số 95/2002/NĐ-CP Sửa đổi, bổ sung khoản 3 Điều 1 Nghị định số 76/2002/NĐ-CP ngày 13/9/2002 của Chính phủ về việc sửa đổi, bổ sung một số điều của Nghị định số 79/2000/NĐ-CP ngày 29/12/2000 của Chính phủ quy định chi tiết thi hành Luật Thuế giá trị gia tăng."
+ENTITY,E30_75,VB_AP_DUNG,Văn bản áp dụng,reference,48509,48618,"Thông tư số 100/1998/TT-BTC hướng dẫn kế toán thuế giá trị gia tăng (GTGT), thuế thu nhập doanh nghiệp (TNDN)"
+ENTITY,E30_76,VB_AP_DUNG,Văn bản áp dụng,reference,48638,48872,Thông tư số 31/2001/TT-BTC Hướng dẫn thực hiện ưu đãi về thuế quy định tại quyết định số 128/2000/qđ/ttg ngày 20/11/2000 của thủ tướng chính phủ về một số chính sách và biện pháp khuyến khích đầu tư và phát triển công nghiệp phần mềm.
+ENTITY,E30_77,VB_AP_DUNG,Văn bản áp dụng,reference,48892,49014,"Thông tư số 08/2007/TT-BTC Hướng dẫn chế độ tài chính và thủ tục hải quan áp dụng tại Khu kinh tế Nghi Sơn, tỉnh Thanh Hoá"
+ENTITY,E30_78,VB_AP_DUNG,Văn bản áp dụng,reference,49034,49262,"Thông tư số 36/2000/TT-BTC Bổ sung một số điểm quy định tại Thông tư số 42/99/TT-BTC ngày 20/4 của Bộ Tài chính hướng dẫn việc thực hiện chế độ tài chính, kế toán, thuế đối với các cửa hàng kinh doanh hàng miễn thuế tại việt nam"
+ENTITY,E30_79,VB_AP_DUNG,Văn bản áp dụng,reference,49282,49438,Thông tư số 179/1998/TT/BTC hướng dẫn kế toán thuế giá trị gia tăng và thuế thu nhập doanh nghiệp áp dụng cho các doanh nghiệp hoạt động kinh doanh bảo hiểm
+ENTITY,E30_80,VB_AP_DUNG,Văn bản áp dụng,reference,49458,49645,Thông tư số 74/2000/TT-BTC hướng dẫn thi hành quyết định số 39/2000/QÐ-ttg ngày 27/3/2000 của thủ tướng chính phủ quy định tạm thời ưu đãi về thuế đối với hoạt động kinh doanh chứng khoán
+ENTITY,E30_81,VB_AP_DUNG,Văn bản áp dụng,reference,49665,49845,"Thông tư số 08/2003/TT-BTC Hướng dẫn thực hiện hoàn thuế giá trị gia tăng đối với cơ quan đại diện ngoại giao, cơ quan lãnh sự và cơ quan đại diện của tổ chức quốc tế tại Việt Nam."
+ENTITY,E30_82,VB_AP_DUNG,Văn bản áp dụng,reference,49865,49959,"Quyết định số 31/2001/QĐ-BTC Về việc sửa đổi, bổ sung Chế độ quản lý, sử dụng hoá đơn bán hàng"
+ENTITY,E30_83,VB_AP_DUNG,Văn bản áp dụng,reference,49979,50205,"Thông tư số 120/2003/TT-BTC hướng dẫn thi hành Nghị định số 158/2003/NĐ-CP ngày 10/12/2003 của Chính phủ quy định chi tiết thi hành Luật thuế giá trị gia tăng và Luật sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng"
+ENTITY,E30_84,VB_AP_DUNG,Văn bản áp dụng,reference,50225,50395,"Nghị định số 102/1998/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 28/1998/NĐ-CP ngày 11/5/1998 của Chính phủ quy định chi tiết thi hànhLuật Thuế giá trị gia tăng."
+ENTITY,E30_85,VB_AP_DUNG,Văn bản áp dụng,reference,50415,50755,"Thông tư số 82/2002/TT-BTC Guiding amendments and supplements to a number of contents of circular No 122/2000/TT-BTC of December 29, 2000 guiding the implementation of the Goverment's Decree No 79/2000/ND-CP of December 29,2000 detailing the implementation of the Value added tax (VAT)(&lt;font color=""red""&gt;Content Attached&lt;/font&gt;)"
+ENTITY,E30_86,VB_AP_DUNG,Văn bản áp dụng,reference,50775,50911,"Thông tư số 17/1999/TT-BTC hướng dẫn sửa đổi, bổ sung một số điểm về chế độ hoá đơn, chứng từ đối với hàng hoá lưu thông trên thị trường"
+ENTITY,E30_87,VB_AP_DUNG,Văn bản áp dụng,reference,50931,51038,Thông tư số 03/2002/TT-BTC Hướng dẫn chế độ quản lý thu thuế đối với các cơ sở hoạt động khai thác thuỷ sản
+ENTITY,E30_88,VB_AP_DUNG,Văn bản áp dụng,reference,51058,51141,"Quyết định số 131/2002/QĐ-BTC Về việc sửa đổi, bổ sung Chế độ kế toán hộ kinh doanh"
+ENTITY,E30_89,VB_AP_DUNG,Văn bản áp dụng,reference,51161,51275,Thông tư số 181/1998/TT-BTC hướng dẫn kế toán thuế giá trị gia tăng đối với hoạt động dịch vụ bưu chính viễn thông
+ENTITY,E30_90,VB_AP_DUNG,Văn bản áp dụng,reference,51295,51477,"Quyết định số 57/2008/QĐ-UBND Ban hành đơn giá xây dựng mới biệt thự, nhà ở và đơn giá cấu kiện tổng hợp để xác định giá trị tài sản là công trình xây dựng trên địa bàn tỉnh Lâm Đồng"
+ENTITY,E30_91,VB_AP_DUNG,Văn bản áp dụng,reference,51497,51686,"Thông tư số 121/2007/TT-BTC Sửa đổi, bổ sung Thông tư số 32/2006/TT-BTC ngày 10/4/2006 của Bộ Tài chính về hướng dẫn kế toán nghiệp vụ thuế và thu khác đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E30_92,VB_AP_DUNG,Văn bản áp dụng,reference,51706,51890,"Thông tư số 94/2005/TT-BTC Sửa đổi, bổ sung Thông tư số 05/2000/TT-BTC ngày 12/1/2000 của Bộ Tài chính hướng dẫn tính thuế và kê khai, nộp thuế thuế giá trị gia tăng đối với ngành điện"
+ENTITY,E30_93,VB_AP_DUNG,Văn bản áp dụng,reference,51910,52019,"Thông tư số 32/2006/TT-BTC Hướng dẫn kế toán nghiệp vụ thuế và thu khác đối với hàng hoá xuất khẩu, nhập khẩu"
+ENTITY,E30_94,VB_AP_DUNG,Văn bản áp dụng,reference,52039,52169,Thông tư số 26/2000/TT-BTC Hướng dẫn thực hiện Luật thuế giá trị gia tăng với các hoạt động xuất bản in và phát hành xuất bản phẩm
+ENTITY,E30_95,VB_AP_DUNG,Văn bản áp dụng,reference,52189,52318,"Quyết định số 110/2002/QÐ-BTC của bộ trưởng bộ tài chính V/v Sửa đổi, bổ sung Chế độ phát hành, quản lý, sử dụng hoá đơn bán hàng"
+ENTITY,E35_1,CHUONG,Chương,structure,366,374,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,5149,5158,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,12712,12722,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,19795,19804,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,23449,23457,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,25918,25927,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,26345,26355,CHƯƠNG VII
+ENTITY,E38_1,DIEU,Điều,structure,396,575,"Điều 1. Thuế giá trị gia tăng
+Thuế giá trị gia tăng là thuế tính trên khoản giá trị tăng thêm của hàng hoá, dịch vụ phát sinh trong quá trình từ sản xuất, lưu thông đến tiêu dùng."
+ENTITY,E38_2,DIEU,Điều,structure,576,768,"Điều 2. Đối tượng chịu thuế
+Hàng hóa, dịch vụ dùng cho sản xuất, kinh doanh và tiêu dùng ở Việt Nam là đối tượng chịu thuế giá trị gia tăng, trừ các đối tượng quy định tại Điều 4 của Luật này."
+ENTITY,E38_3,DIEU,Điều,structure,769,1018,"Điều 3. Đối tượng nộp thuế
+Tổ chức, cá nhân sản xuất, kinh doanh hàng hóa, dịch vụ chịu thuế (gọi chung là cơ sở kinh doanh) và tổ chức, cá nhân khác nhập khẩu hàng hóa chịu thuế (gọi chung là người nhập khẩu) là đối tượng nộp thuế giá trị gia tăng."
+ENTITY,E38_4,DIEU,Điều,structure,1019,4482,"Điều 4. Đối tượng không thuộc diện chịu thuế giá trị gia tăng
+Hàng hóa, dịch vụ dưới đây không thuộc diện chịu thuế giá trị gia tăng:
+Sản phẩm trồng trọt, chăn nuôi, nuôi trồng thuỷ sản chưa chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường của các tổ chức, cá nhân tự sản xuất và bán ra;
+Sản phẩm muối;
+Hàng hóa, dịch vụ thuộc diện chịu thuế tiêu thụ đặc biệt không phải nộp thuế giá trị gia tăng ở khâu đã chịu thuế tiêu thụ đặc biệt;
+Thiết bị, máy móc, phương tiện vận tải chuyên dùng thuộc loại trong nước chưa sản xuất được mà cơ sở có dự án đầu tư nhập khẩu để làm tài sản cố định theo dự án đó;
+Chuyển quyền sử dụng đất thuộc diện chịu thuế chuyển quyền sử dụng đất;
+Nhà ở thuộc sở hữu nhà nước do Nhà nước bán cho người đang thuê;
+Dịch vụ tín dụng, quỹ đầu tư;
+Bảo hiểm nhân thọ; bảo hiểm học sinh; bảo hiểm vật nuôi, cây trồng và các loại bảo hiểm không nhằm mục đích kinh doanh;
+Dịch vụ y tế;
+Hoạt động văn hoá, triển lãm và thể dục thể thao không nhằm mục đích kinh doanh; biểu diễn nghệ thuật; sản xuất phim; phát hành và chiếu phim nhựa, phim vi-đi-ô tài liệu;
+Dạy học, dạy nghề;
+Phát sóng truyền thanh, truyền hình theo chương trình bằng nguồn vốn ngân sách nhà nước;
+In, xuất bản và phát hành: báo, tạp chí, bản tin chuyên ngành, sách chính trị, sách giáo khoa, giáo trình, sách văn bản pháp luật, sách in bằng tiếng dân tộc thiểu số; tranh, ảnh, áp phích tuyên truyền cổ động; in tiền;
+Dịch vụ phục vụ công cộng về vệ sinh, thoát nước đường phố và khu dân cư; duy trì vườn thú, vườn hoa, công viên, cây xanh đường phố, chiếu sáng công cộng; dịch vụ tang lễ;
+Duy tu, sửa chữa, xây dựng các công trình văn hóa, nghệ thuật, công trình phục vụ công cộng, cơ sở hạ tầng và nhà tình nghĩa bằng nguồn vốn đóng góp của nhân dân và vốn viện trợ nhân đạo;
+Vận chuyển hành khách công cộng bằng xe buýt;
+Điều tra, thăm dò địa chất, đo đạc, lập bản đồ thuộc loại điều tra cơ bản của Nhà nước;
+Tưới, tiêu nước phục vụ sản xuất nông nghiệp; nước sạch do tổ chức, cá nhân tự khai thác để phục vụ cho sinh hoạt ở nông thôn, miền núi, hải đảo, vùng sâu, vùng xa;
+Vũ khí, khí tài chuyên dùng phục vụ quốc phòng, an ninh;
+Hàng nhập khẩu trong các trường hợp sau: hàng viện trợ nhân đạo, viện trợ không hoàn lại; quà tặng cho các cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, đơn vị vũ trang nhân dân; đồ dùng của các tổ chức, cá nhân nước ngoài theo quy chế miễn trừ ngoại giao; hàng mang theo người trong tiêu chuẩn hành lý miễn thuế;
+Hàng hoá chuyển khẩu, quá cảnh, mượn đường qua Việt Nam; hàng tạm nhập khẩu, tái xuất khẩu và tạm xuất khẩu, tái nhập khẩu;
+Hàng hóa, dịch vụ cung ứng trực tiếp cho vận tải quốc tế và các đối tượng tiêu dùng ngoài Việt Nam;
+Chuyển giao công nghệ;
+Vàng nhập khẩu dạng thỏi, miếng chưa được chế tác thành các sản phẩm mỹ nghệ, đồ trang sức hay sản phẩm khác;
+Một số sản phẩm xuất khẩu là tài nguyên khoáng sản khai thác chưa qua chế biến do Chính phủ quy định cụ thể;
+Hàng hóa, dịch vụ của những cá nhân kinh doanh có mức thu nhập thấp. Mức thu nhập thấp do Chính phủ quy định.
+Hàng hóa, dịch vụ không thuộc diện chịu thuế giá trị gia tăng quy định tại Điều này không được khấu trừ và hoàn thuế giá trị gia tăng đầu vào.
+Trong trường hợp cần thiết, ủy ban thường vụ Quốc hội có thể sửa đổi, bổ sung danh mục hàng hóa, dịch vụ thuộc đối tượng không chịu thuế giá trị gia tăng quy định tại Điều này và báo cáo để Quốc hội phê chuẩn trong kỳ họp gần nhất."
+ENTITY,E38_5,DIEU,Điều,structure,4483,4549,"Điều 5. Nghĩa vụ, trách nhiệm thực hiện Luật thuế giá trị gia tăng"
+ENTITY,E38_6,DIEU,Điều,structure,5191,5280,"Điều 6. Căn cứ tính thuế
+Căn cứ tính thuế giá trị gia tăng là giá tính thuế và thuế suất."
+ENTITY,E38_7,DIEU,Điều,structure,5281,5356,"Điều 7. Giá tính thuế
+Giá tính thuế giá trị gia tăng được quy định như sau:"
+ENTITY,E38_8,DIEU,Điều,structure,6410,6486,"Điều 8. Thuế suất
+Mức thuế suất thuế giá trị gia tăng được quy định như sau:"
+ENTITY,E38_9,DIEU,Điều,structure,8927,9083,"Điều 9. Phương pháp tính thuế
+Thuế giá trị gia tăng phải nộp được tính theo phương pháp khấu trừ thuế hoặc phương pháp tính trực tiếp trên giá trị gia tăng."
+ENTITY,E38_10,DIEU,Điều,structure,10167,10214,Điều 10. Khấu trừ thuế giá trị gia tăng đầu vào
+ENTITY,E38_11,DIEU,Điều,structure,12017,12043,"Điều 11. Hóa đơn, chứng từ"
+ENTITY,E38_12,DIEU,Điều,structure,12767,12792,Điều 12. Đăng ký nộp thuế
+ENTITY,E38_13,DIEU,Điều,structure,13620,13641,Điều 13. Kê khai thuế
+ENTITY,E38_14,DIEU,Điều,structure,14827,14917,"Điều 14. Nộp thuế
+Thuế giá trị gia tăng được nộp vào ngân sách nhà nước theo quy định sau:"
+ENTITY,E38_15,DIEU,Điều,structure,15830,16571,"Điều 15. Quyết toán thuế
+Cơ sở kinh doanh phải thực hiện quyết toán thuế hàng năm với cơ quan thuế. Năm quyết toán thuế được tính theo năm dương lịch. Trong thời hạn sáu mươi ngày, kể từ ngày kết thúc năm, cơ sở kinh doanh phải nộp báo cáo quyết toán thuế cho cơ quan thuế và phải nộp đủ số thuế còn thiếu vào ngân sách nhà nước trong thời hạn mười ngày, kể từ ngày nộp báo cáo quyết toán, nếu nộp thừa thì được trừ vào số thuế phải nộp kỳ tiếp theo.
+Trong trường hợp sáp nhập, hợp nhất, chia, tách, giải thể, phá sản, cơ sở kinh doanh phải thực hiện quyết toán thuế với cơ quan thuế và gửi báo cáo quyết toán thuế cho cơ quan thuế trong thời hạn bốn mươi lăm ngày, kể từ ngày có quyết định sáp nhập, hợp nhất, chia, tách, giải thể, phá sản."
+ENTITY,E38_16,DIEU,Điều,structure,16572,16662,"Điều 16. Hoàn thuế
+Việc hoàn thuế giá trị gia tăng chỉ thực hiện trong các trường hợp sau:"
+ENTITY,E38_17,DIEU,Điều,structure,17217,17343,"Điều 17. Nhiệm vụ, quyền hạn và trách nhiệm của cơ quan thuế
+Cơ quan thuế có những nhiệm vụ, quyền hạn và trách nhiệm sau đây:"
+ENTITY,E38_18,DIEU,Điều,structure,18731,18758,Điều 18. Quyền ấn định thuế
+ENTITY,E38_19,DIEU,Điều,structure,19832,19965,"Điều 19. Xử lý vi phạm về thuế đối với đối tượng nộp thuế
+Đối tượng nộp thuế vi phạm Luật thuế giá trị gia tăng thì bị xử lý như sau:"
+ENTITY,E38_20,DIEU,Điều,structure,21448,21517,Điều 20. Thẩm quyền của cơ quan thuế trong việc xử lý vi phạm về thuế
+ENTITY,E38_21,DIEU,Điều,structure,21982,22040,Điều 21. Xử lý vi phạm đối với cán bộ thuế và cá nhân khác
+ENTITY,E38_22,DIEU,Điều,structure,23170,23449,"Điều 22. Khen thưởng
+Cơ quan thuế, cán bộ thuế hoàn thành tốt nhiệm vụ được giao; tổ chức, cá nhân có thành tích trong việc thực hiện Luật thuế giá trị gia tăng; đối tượng nộp thuế thực hiện tốt nghĩa vụ nộp thuế thì được khen thưởng.
+Chính phủ quy định cụ thể việc khen thưởng.
+"
+ENTITY,E38_23,DIEU,Điều,structure,23481,23562,Điều 23. Quyền và trách nhiệm của đối tượng nộp thuế trong việc khiếu nại về thuế
+ENTITY,E38_24,DIEU,Điều,structure,24258,24348,Điều 24. Trách nhiệm và quyền hạn của cơ quan thuế trong việc giải quyết khiếu nại về thuế
+ENTITY,E38_25,DIEU,Điều,structure,25946,26037,"Điều 25.
+Chính phủ chỉ đạo việc tổ chức thực hiện Luật thuế giá trị gia tăng trong cả nước."
+ENTITY,E38_26,DIEU,Điều,structure,26038,26171,"Điều 26.
+Bộ trưởng Bộ tài chính có trách nhiệm tổ chức thực hiện và kiểm tra việc thực hiện Luật thuế giá trị gia tăng trong cả nước."
+ENTITY,E38_27,DIEU,Điều,structure,26172,26345,"Điều 27.
+Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình chỉ đạo việc thực hiện và kiểm tra việc chấp hành Luật thuế giá trị gia tăng ở địa phương mình.
+"
+ENTITY,E38_28,DIEU,Điều,structure,26376,27663,"Điều 28.
+Luật thuế giá trị gia tăng có hiệu lực thi hành từ ngày 01 tháng 01 năm 1999.
+Bãi bỏ Luật thuế doanh thu, Luật sửa đổi, bổ sung một số điều của Luật thuế doanh thu và các quy định về thuế doanh thu trong các văn bản quy phạm pháp luật khác, kể từ ngày Luật thuế giá trị gia tăng có hiệu lực thi hành.
+Việc giải quyết những tồn tại về thuế, quyết toán thuế, miễn giảm thuế và xử lý các vi phạm về thuế doanh thu trước ngày 01 tháng 01 năm 1999 được thực hiện theo các quy định tương ứng của Luật thuế doanh thu, Luật sửa đổi, bổ sung một số điều của Luật thuế doanh thu và các quy định về thuế doanh thu trong các văn bản quy phạm pháp luật khác.
+Đối với những cơ sở sản xuất, xây dựng, vận tải trong những năm đầu áp dụng thuế giá trị gia tăng mà bị lỗ do số thuế giá trị gia tăng phải nộp lớn hơn số thuế tính theo mức thuế doanh thu trước đây thì được xét giảm thuế giá trị gia tăng phải nộp. Mức được xét giảm thuế giá trị gia tăng tương ứng với số lỗ được xác định do nguyên nhân này nhưng tối đa không quá 50% số thuế phải nộp. Thời gian giảm thuế được xét từng năm và tính theo năm dương lịch nhưng tối đa không quá 3 năm, kể từ ngày Luật thuế giá trị gia tăng có hiệu lực thi hành.
+Chính phủ quy định cụ thể việc xét giảm thuế giá trị gia tăng theo quy định tại Điều này."
+ENTITY,E38_29,DIEU,Điều,structure,27664,27875,"Điều 29.
+Trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định khác với Luật này thì thuế giá trị gia tăng được thực hiện theo những quy định tại điều ước quốc tế đó."
+ENTITY,E38_30,DIEU,Điều,structure,27876,27933,"Điều 30.
+Chính phủ quy định chi tiết thi hành Luật này./."
+ENTITY,E39_1,KHOAN,Khoản,structure,4550,4654,"1- Cơ sở kinh doanh và người nhập khẩu có nghĩa vụ nộp thuế đầy đủ, đúng hạn theo quy định của Luật này."
+ENTITY,E39_2,KHOAN,Khoản,structure,4655,4770,"2- Cơ quan thuế trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện đúng các quy định của Luật này."
+ENTITY,E39_3,KHOAN,Khoản,structure,4771,5051,"3- Các cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, đơn vị vũ trang nhân dân trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình giám sát, phối hợp với cơ quan thuế trong việc thi hành Luật thuế giá trị gia tăng."
+ENTITY,E39_4,KHOAN,Khoản,structure,5052,5149,"4- Công dân Việt Nam có trách nhiệm giúp cơ quan thuế, cán bộ thuế trong việc thi hành Luật này.
+"
+ENTITY,E39_5,KHOAN,Khoản,structure,5357,5427,"1- Đối với hàng hoá, dịch vụ là giá bán chưa có thuế giá trị gia tăng;"
+ENTITY,E39_6,KHOAN,Khoản,structure,5428,5508,"2- Đối với hàng hóa nhập khẩu là giá nhập tại cửa khẩu, cộng với thuế nhập khẩu;"
+ENTITY,E39_7,KHOAN,Khoản,structure,5509,5708,"3- Đối với hàng hóa, dịch vụ dùng để trao đổi, sử dụng nội bộ, biếu, tặng là giá tính thuế giá trị gia tăng của hàng hóa, dịch vụ cùng loại hoặc tương đương tại thời điểm phát sinh các hoạt động này;"
+ENTITY,E39_8,KHOAN,Khoản,structure,5709,5775,4- Đối với hoạt động cho thuê tài sản là số tiền thuê thu từng kỳ;
+ENTITY,E39_9,KHOAN,Khoản,structure,5776,5917,"5- Đối với hàng hóa bán theo phương thức trả góp là giá bán của hàng hóa, tính theo giá bán trả một lần, không tính theo số tiền trả từng kỳ;"
+ENTITY,E39_10,KHOAN,Khoản,structure,5918,5963,6- Đối với gia công hàng hóa là giá gia công;
+ENTITY,E39_11,KHOAN,Khoản,structure,5964,6409,"7- Đối với hàng hóa, dịch vụ khác là giá do Chính phủ quy định;
+Giá tính thuế giá trị gia tăng đối với hàng hóa, dịch vụ quy định tại Điều này bao gồm cả khoản phụ thu và phí thu thêm mà cơ sở kinh doanh được hưởng.
+Trường hợp đối tượng nộp thuế có doanh số mua, bán bằng ngoại tệ thì phải quy đổi ngoại tệ ra Đồng Việt Nam theo tỷ giá chính thức do Ngân hàng nhà nước Việt Nam công bố tại thời điểm phát sinh doanh số để xác định giá tính thuế."
+ENTITY,E39_12,KHOAN,Khoản,structure,6487,6534,1- Mức thuế suất 0% đối với hàng hóa xuất khẩu;
+ENTITY,E39_13,KHOAN,Khoản,structure,6535,6581,"2- Mức thuế suất 5% đối với hàng hoá, dịch vụ:"
+ENTITY,E39_14,KHOAN,Khoản,structure,7510,7557,"3- Mức thuế suất 10% đối với hàng hoá, dịch vụ:"
+ENTITY,E39_15,KHOAN,Khoản,structure,8489,8536,"4- Mức thuế suất 20% đối với hàng hoá, dịch vụ:"
+ENTITY,E39_16,KHOAN,Khoản,structure,9084,9495,"1- Phương pháp khấu trừ thuế
+Số thuế phải nộp bằng thuế giá trị gia tăng đầu ra trừ thuế giá trị gia tăng đầu vào.
+Thuế giá trị gia tăng đầu ra bằng giá tính thuế của hàng hóa, dịch vụ bán ra nhân với thuế suất.
+Thuế giá trị gia tăng đầu vào bằng tổng số thuế giá trị gia tăng đã thanh toán được ghi trên hóa đơn giá trị gia tăng mua hàng hóa, dịch vụ hoặc chứng từ nộp thuế giá trị gia tăng hàng hóa nhập khẩu."
+ENTITY,E39_17,KHOAN,Khoản,structure,9496,9864,"2- Phương pháp tính trực tiếp trên giá trị gia tăng
+Số thuế phải nộp bằng giá trị gia tăng của hàng hóa, dịch vụ nhân với thuế suất thuế giá trị gia tăng.
+Giá trị gia tăng bằng giá thanh toán của hàng hóa, dịch vụ bán ra trừ giá thanh toán của hàng hóa, dịch vụ mua vào tương ứng.
+Phương pháp tính trực tiếp trên giá trị gia tăng chỉ áp dụng đối với các đối tượng sau:"
+ENTITY,E39_18,KHOAN,Khoản,structure,10215,10366,1- Cơ sở kinh doanh nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế được khấu trừ thuế giá trị gia tăng đầu vào (gọi là thuế đầu vào) như sau:
+ENTITY,E39_19,KHOAN,Khoản,structure,11543,11598,2- Căn cứ để xác định số thuế đầu vào được khấu trừ là:
+ENTITY,E39_20,KHOAN,Khoản,structure,12044,12137,"1- Việc mua, bán hàng hóa, dịch vụ đều phải có hóa đơn, chứng từ theo quy định của pháp luật."
+ENTITY,E39_21,KHOAN,Khoản,structure,12138,12562,"2- Các cơ sở kinh doanh nộp thuế theo phương pháp khấu trừ thuế phải sử dụng hóa đơn giá trị gia tăng và phải ghi đầy đủ, đúng các yếu tố quy định, trong đó ghi rõ giá bán, khoản phụ thu, phí thu thêm, khoản thuế giá trị gia tăng, giá thanh toán.
+Trong trường hợp hóa đơn không ghi khoản thuế giá trị gia tăng thì thuế giá trị gia tăng được xác định bằng giá thanh toán theo hóa đơn nhân với thuế suất thuế giá trị gia tăng."
+ENTITY,E39_22,KHOAN,Khoản,structure,12563,12712,"3- Đối với các loại tem, vé được coi là chứng từ thanh toán đã in sẵn giá thanh toán thì giá thanh toán tem, vé đó đã bao gồm thuế giá trị gia tăng.
+"
+ENTITY,E39_23,KHOAN,Khoản,structure,12793,13372,"1- Cơ sở kinh doanh kể cả các cơ sở trực thuộc của cơ sở đó phải đăng ký nộp thuế giá trị gia tăng với cơ quan thuế trực tiếp quản lý theo hướng dẫn của cơ quan thuế. Đối với cơ sở kinh doanh mới thành lập, thời gian đăng ký nộp thuế giá trị gia tăng chậm nhất là mười ngày, kể từ ngày được cấp giấy chứng nhận đăng ký kinh doanh. Trong trường hợp sáp nhập, hợp nhất, chia, tách, giải thể, phá sản hoặc thay đổi kinh doanh, cơ sở kinh doanh phải khai báo với cơ quan thuế chậm nhất là năm ngày trước khi sáp nhập, hợp nhất, chia, tách, giải thể, phá sản hoặc thay đổi kinh doanh."
+ENTITY,E39_24,KHOAN,Khoản,structure,13373,13619,"2- Cơ sở kinh doanh nộp thuế theo phương pháp tính trực tiếp trên giá trị gia tăng nếu thực hiện đầy đủ chế độ chứng từ, hóa đơn, sổ kế toán, tự nguyện đăng ký áp dụng nộp thuế theo phương pháp khấu trừ thuế thì cơ quan thuế xem xét để thực hiện."
+ENTITY,E39_25,KHOAN,Khoản,structure,13642,14033,"1- Cơ sở kinh doanh phải kê khai thuế giá trị gia tăng từng tháng và nộp tờ khai thuế cho cơ quan thuế trong mười ngày đầu của tháng tiếp theo. Trong trường hợp không phát sinh thuế đầu vào, thuế đầu ra, cơ sở kinh doanh vẫn phải kê khai và nộp tờ khai thuế cho cơ quan thuế. Cơ sở kinh doanh phải kê khai đầy đủ, đúng mẫu tờ khai thuế và chịu trách nhiệm về tính chính xác của việc kê khai."
+ENTITY,E39_26,KHOAN,Khoản,structure,14034,14242,"2- Cơ sở kinh doanh, người nhập khẩu hàng hoá phải kê khai và nộp tờ khai thuế giá trị gia tăng theo từng lần nhập khẩu cùng với việc kê khai thuế nhập khẩu với cơ quan thu thuế nơi có cửa khẩu nhập hàng hóa."
+ENTITY,E39_27,KHOAN,Khoản,structure,14243,14382,"3- Cơ sở kinh doanh buôn chuyến phải kê khai và nộp thuế theo từng chuyến hàng với cơ quan thuế nơi mua hàng, trước khi vận chuyển hàng đi."
+ENTITY,E39_28,KHOAN,Khoản,structure,14383,14826,"4- Cơ sở kinh doanh nhiều loại hàng hóa, dịch vụ có mức thuế suất thuế giá trị gia tăng khác nhau phải kê khai thuế giá trị gia tăng theo từng mức thuế suất quy định đối với từng loại hàng hóa, dịch vụ; nếu cơ sở kinh doanh không xác định được theo từng mức thuế suất thì phải tính và nộp thuế theo mức thuế suất cao nhất của hàng hóa, dịch vụ mà cơ sở có sản xuất, kinh doanh.
+Bộ tài chính quy định mẫu tờ khai thuế và hướng dẫn việc kê khai."
+ENTITY,E39_29,KHOAN,Khoản,structure,14918,15147,"1- Cơ sở kinh doanh nộp thuế giá trị gia tăng đầy đủ, đúng hạn vào ngân sách nhà nước theo thông báo nộp thuế của cơ quan thuế.
+Thời hạn nộp thuế của tháng được ghi trong thông báo chậm nhất không quá ngày 25 của tháng tiếp theo;"
+ENTITY,E39_30,KHOAN,Khoản,structure,15148,15399,"2- Cơ sở kinh doanh, người nhập khẩu hàng hóa phải nộp thuế giá trị gia tăng theo từng lần nhập khẩu.
+Thời hạn thông báo và thời hạn nộp thuế giá trị gia tăng đối với hàng hoá nhập khẩu thực hiện theo thời hạn thông báo và thời hạn nộp thuế nhập khẩu;"
+ENTITY,E39_31,KHOAN,Khoản,structure,15400,15757,"3- Trong kỳ tính thuế, cơ sở kinh doanh nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế, nếu có số thuế đầu vào lớn hơn số thuế đầu ra thì được khấu trừ vào kỳ tính thuế tiếp theo.
+Trong trường hợp cơ sở kinh doanh đầu tư mới tài sản cố định, có số thuế đầu vào được khấu trừ lớn thì thực hiện theo quy định tại điểm c khoản 1 Điều 10 của Luật này;"
+ENTITY,E39_32,KHOAN,Khoản,structure,15758,15829,4- Thuế giá trị gia tăng nộp vào ngân sách nhà nước bằng Đồng Việt Nam.
+ENTITY,E39_33,KHOAN,Khoản,structure,16663,16937,1- Cơ sở kinh doanh thuộc đối tượng nộp thuế theo phương pháp khấu trừ thuế được xét hoàn thuế hàng quý nếu số thuế đầu vào được khấu trừ của các tháng trong quý lớn hơn số thuế đầu ra hoặc được hoàn thuế đầu vào của tài sản cố định theo điểm c khoản 1 Điều 10 của Luật này;
+ENTITY,E39_34,KHOAN,Khoản,structure,16938,17031,"2- Quyết toán thuế khi sáp nhập, hợp nhất, chia, tách, giải thể, phá sản có số thuế nộp thừa;"
+ENTITY,E39_35,KHOAN,Khoản,structure,17032,17216,"3- Quyết định xử lý hoàn thuế của cơ quan có thẩm quyền theo quy định của pháp luật.
+Bộ tài chính quy định cụ thể thủ tục và thẩm quyền giải quyết hoàn thuế theo quy định tại Điều này."
+ENTITY,E39_36,KHOAN,Khoản,structure,17344,17465,"1- Hướng dẫn các cơ sở đã đăng ký kinh doanh thực hiện chế độ đăng ký, kê khai, nộp thuế theo đúng quy định của Luật này;"
+ENTITY,E39_37,KHOAN,Khoản,structure,17466,18144,"2- Thông báo cho cơ sở kinh doanh về số thuế phải nộp và thời hạn nộp thuế theo đúng quy định; nếu quá thời hạn nộp thuế ghi trên thông báo mà cơ sở kinh doanh chưa nộp thì tiếp tục ra thông báo về số thuế phải nộp và số tiền phạt chậm nộp theo quy định tại khoản 2 Điều 19 của Luật này; nếu cơ sở kinh doanh vẫn không nộp đủ số thuế, số tiền phạt theo thông báo thì có quyền áp dụng các biện pháp xử lý quy định tại khoản 4 Điều 19 của Luật này để bảo đảm thu đủ số thuế, số tiền phạt; nếu đã thực hiện các biện pháp xử lý trên mà cơ sở kinh doanh vẫn không nộp đủ số thuế, số tiền phạt thì chuyển hồ sơ sang cơ quan nhà nước có thẩm quyền để xử lý theo quy định của pháp luật;"
+ENTITY,E39_38,KHOAN,Khoản,structure,18145,18730,"3- Kiểm tra, thanh tra việc kê khai, nộp thuế, quyết toán thuế của cơ sở kinh doanh bảo đảm thực hiện đúng quy định của pháp luật;
+4 - Xử lý vi phạm hành chính về thuế và giải quyết khiếu nại về thuế;
+5- Yêu cầu đối tượng nộp thuế cung cấp sổ kế toán, hóa đơn, chứng từ và hồ sơ tài liệu khác có liên quan tới việc tính thuế, nộp thuế; yêu cầu các tổ chức tín dụng, ngân hàng và tổ chức, cá nhân có liên quan khác cung cấp tài liệu có liên quan đến việc tính thuế và nộp thuế;
+6- Lưu giữ và sử dụng số liệu, tài liệu mà cơ sở kinh doanh và đối tượng khác cung cấp theo chế độ quy định."
+ENTITY,E39_39,KHOAN,Khoản,structure,18759,18869,1- Cơ quan thuế ấn định số thuế giá trị gia tăng phải nộp đối với đối tượng nộp thuế trong các trường hợp sau:
+ENTITY,E39_40,KHOAN,Khoản,structure,19339,19795,"2- Cơ quan thuế căn cứ vào tài liệu điều tra về tình hình hoạt động kinh doanh của cơ sở kinh doanh hoặc căn cứ vào số thuế phải nộp của cơ sở kinh doanh cùng ngành nghề, có quy mô kinh doanh tương đương để ấn định số thuế phải nộp.
+Trong trường hợp không đồng ý với số thuế phải nộp được ấn định thì cơ sở kinh doanh có quyền khiếu nại lên cơ quan thuế cấp trên trực tiếp; trong khi chờ giải quyết, cơ sở kinh doanh vẫn phải nộp thuế theo mức đã ấn định.
+"
+ENTITY,E39_41,KHOAN,Khoản,structure,19966,20238,"1- Không thực hiện đúng những quy định về đăng ký, kê khai, nộp thuế, quyết toán thuế, chế độ kế toán và lưu giữ chứng từ, hoá đơn theo quy định tại các điều 11, 12, 13, 14 và 15 của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính về thuế;"
+ENTITY,E39_42,KHOAN,Khoản,structure,20239,20457,"2- Nộp chậm tiền thuế, tiền phạt so với ngày quy định phải nộp hoặc quyết định xử lý về thuế thì ngoài việc nộp đủ số thuế, số tiền phạt, mỗi ngày nộp chậm còn phải nộp phạt bằng 0,1% (một phần nghìn) số tiền chậm nộp;"
+ENTITY,E39_43,KHOAN,Khoản,structure,20458,20837,"3- Khai man thuế, trốn thuế thì ngoài việc phải nộp đủ số thuế theo quy định của Luật này, tùy theo tính chất, mức độ vi phạm còn bị phạt tiền từ một đến năm lần số tiền thuế gian lận; trốn thuế với số lượng lớn hoặc đã bị xử phạt vi phạm hành chính về thuế mà còn vi phạm hoặc có hành vi vi phạm nghiêm trọng khác thì bị truy cứu trách nhiệm hình sự theo quy định của pháp luật;"
+ENTITY,E39_44,KHOAN,Khoản,structure,20838,20932,"4- Không nộp thuế, nộp phạt theo thông báo hoặc quyết định xử lý về thuế thì bị xử lý như sau:"
+ENTITY,E39_45,KHOAN,Khoản,structure,21518,21686,"1- Thủ trưởng cơ quan thuế trực tiếp quản lý thu thuế được quyền xử lý đối với các vi phạm của đối tượng nộp thuế quy định tại các khoản 1, 2 và 3 Điều 19 của Luật này."
+ENTITY,E39_46,KHOAN,Khoản,structure,21687,21981,"2- Cục trưởng, Chi cục trưởng cơ quan thuế trực tiếp quản lý thu thuế được áp dụng các biện pháp xử lý quy định tại khoản 4 Điều 19 của Luật này và chuyển hồ sơ sang cơ quan có thẩm quyền để xử lý theo quy định của pháp luật đối với trường hợp vi phạm quy định tại khoản 3 Điều 19 của Luật này."
+ENTITY,E39_47,KHOAN,Khoản,structure,22041,22371,"1- Cán bộ thuế, cá nhân khác lợi dụng chức vụ, quyền hạn để sử dụng trái phép, chiếm đoạt tiền thuế, tiền phạt thì phải bồi hoàn cho Nhà nước toàn bộ số tiền thuế, số tiền phạt đã sử dụng trái phép, chiếm đoạt và tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+ENTITY,E39_48,KHOAN,Khoản,structure,22372,22655,"2- Cán bộ thuế, cá nhân khác thiếu tinh thần trách nhiệm hoặc xử lý sai gây thiệt hại cho người nộp thuế thì phải bồi thường thiệt hại theo quy định của pháp luật và tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+ENTITY,E39_49,KHOAN,Khoản,structure,22656,22953,"3- Cán bộ thuế, cá nhân khác lợi dụng chức vụ, quyền hạn để thông đồng, bao che cho người vi phạm Luật thuế giá trị gia tăng hoặc có hành vi khác vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+ENTITY,E39_50,KHOAN,Khoản,structure,22954,23169,"4- Người cản trở hoặc xúi giục người khác cản trở việc thi hành Luật thuế giá trị gia tăng thì tùy theo tính chất, mức độ vi phạm mà bị xử lý hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+ENTITY,E39_51,KHOAN,Khoản,structure,23563,23976,"1- Đối tượng nộp thuế có quyền khiếu nại việc cán bộ thuế, cơ quan thuế thi hành không đúng Luật thuế giá trị gia tăng.
+Đơn khiếu nại được gửi đến cơ quan thuế trực tiếp quản lý thu thuế trong thời hạn 30 ngày, kể từ ngày nhận được thông báo hoặc quyết định xử lý của cán bộ thuế, cơ quan thuế.
+Trong khi chờ giải quyết, đối tượng nộp thuế vẫn phải thực hiện theo thông báo hoặc quyết định xử lý của cơ quan thuế."
+ENTITY,E39_52,KHOAN,Khoản,structure,23977,24257,2- Trường hợp người khiếu nại không đồng ý với quyết định của cơ quan giải quyết khiếu nại hoặc quá thời hạn quy định tại Điều 24 của Luật này mà chưa được giải quyết thì có quyền khiếu nại lên cơ quan thuế cấp trên trực tiếp hoặc khởi kiện đến Tòa án theo quy định của pháp luật.
+ENTITY,E39_53,KHOAN,Khoản,structure,24349,24796,"1- Cơ quan thuế khi nhận được khiếu nại về thuế phải xem xét giải quyết trong thời hạn mười lăm ngày, kể từ ngày nhận được khiếu nại, đối với những vụ việc phức tạp thì thời hạn đó có thể kéo dài nhưng không được quá ba mươi ngày; nếu vụ việc không thuộc thẩm quyền giải quyết của mình thì phải chuyển hồ sơ hoặc báo cáo cơ quan có thẩm quyền giải quyết và thông báo cho người khiếu nại biết trong thời hạn 10 ngày, kể từ ngày nhận được khiếu nại."
+ENTITY,E39_54,KHOAN,Khoản,structure,24797,25023,"2- Cơ quan thuế nhận khiếu nại có quyền yêu cầu người khiếu nại cung cấp các hồ sơ, tài liệu liên quan đến việc khiếu nại; nếu người khiếu nại từ chối cung cấp hồ sơ, tài liệu thì có quyền từ chối xem xét giải quyết khiếu nại."
+ENTITY,E39_55,KHOAN,Khoản,structure,25024,25262,"3- Cơ quan thuế phải hoàn trả số tiền thuế, số tiền phạt thu không đúng cho đối tượng nộp thuế trong thời hạn mười lăm ngày, kể từ ngày nhận được quyết định của cơ quan thuế cấp trên hoặc cơ quan có thẩm quyền theo quy định của pháp luật."
+ENTITY,E39_56,KHOAN,Khoản,structure,25263,25687,"4- Nếu phát hiện và kết luận có sự khai man, trốn thuế hoặc nhầm lẫn về thuế, cơ quan thuế có trách nhiệm truy thu tiền thuế, tiền phạt hoặc hoàn trả tiền thuế trong thời hạn năm năm trở về trước, kể từ ngày kiểm tra phát hiện có sự khai man, trốn thuế hoặc nhầm lẫn về thuế. Trường hợp cơ sở kinh doanh không đăng ký kê khai, nộp thuế thì thời hạn truy thu tiền thuế, tiền phạt kể từ khi cơ sở kinh doanh bắt đầu hoạt động."
+ENTITY,E39_57,KHOAN,Khoản,structure,25688,25918,"5- Thủ trưởng cơ quan thuế cấp trên có trách nhiệm giải quyết các khiếu nại về thuế của đối tượng nộp thuế đối với cơ quan thuế cấp dưới.
+Quyết định của Bộ trưởng Bộ tài chính giải quyết khiếu nại về thuế là quyết định cuối cùng.
+"
+ENTITY,E40_1,DIEM,Điểm,structure,6582,6625,a) Nước sạch phục vụ sản xuất và sinh hoạt;
+ENTITY,E40_2,DIEM,Điểm,structure,6626,6737,"b) Phân bón, quặng để sản xuất phân bón; thuốc trừ sâu bệnh và chất kích thích tăng trưởng vật nuôi, cây trồng;"
+ENTITY,E40_3,DIEM,Điểm,structure,6738,6793,c) Thiết bị và dụng cụ y tế; bông và băng vệ sinh y tế;
+ENTITY,E40_4,DIEM,Điểm,structure,6794,6825,"d) Thuốc chữa bệnh, phòng bệnh;"
+ENTITY,E40_5,DIEM,Điểm,structure,6826,6866,đ) Giáo cụ dùng để giảng dạy và học tập;
+ENTITY,E40_6,DIEM,Điểm,structure,6867,7050,"e) Đồ chơi cho trẻ em; sách khoa học - kỹ thuật, sách văn học nghệ thuật, sách phục vụ thiếu nhi, sách pháp luật, trừ sách văn bản pháp luật quy định tại khoản 13 Điều 4 của Luật này;"
+ENTITY,E40_7,DIEM,Điểm,structure,7051,7219,"g) Sản phẩm trồng trọt, chăn nuôi, nuôi trồng thuỷ sản chưa qua chế biến gồm cả con giống, cây giống, hạt giống, trừ đối tượng quy định tại khoản 1 Điều 4 của Luật này;"
+ENTITY,E40_8,DIEM,Điểm,structure,7220,7285,"h) Lâm sản (trừ gỗ, măng) chưa qua chế biến; thực phẩm tươi sống;"
+ENTITY,E40_9,DIEM,Điểm,structure,7286,7326,"i) Sản phẩm bằng đay, cói, tre, nứa, lá;"
+ENTITY,E40_10,DIEM,Điểm,structure,7327,7369,k) Bông sơ chế từ bông trồng ở trong nước;
+ENTITY,E40_11,DIEM,Điểm,structure,7370,7427,"l) Thức ăn gia súc, gia cầm và thức ăn cho vật nuôi khác;"
+ENTITY,E40_12,DIEM,Điểm,structure,7428,7458,"m) Dịch vụ khoa học, kỹ thuật;"
+ENTITY,E40_13,DIEM,Điểm,structure,7459,7509,n) Dịch vụ trực tiếp phục vụ sản xuất nông nghiệp;
+ENTITY,E40_14,DIEM,Điểm,structure,7558,7622,"a) Dầu mỏ, khí đốt, than đá, quặng và sản phẩm khai khoáng khác;"
+ENTITY,E40_15,DIEM,Điểm,structure,7623,7643,b) Điện thương phẩm;
+ENTITY,E40_16,DIEM,Điểm,structure,7644,7681,"c) Sản phẩm điện tử, cơ khí, đồ điện;"
+ENTITY,E40_17,DIEM,Điểm,structure,7682,7703,"d) Hóa chất, mỹ phẩm;"
+ENTITY,E40_18,DIEM,Điểm,structure,7704,7744,"đ) Sợi, vải, sản phẩm may mặc, thêu ren;"
+ENTITY,E40_19,DIEM,Điểm,structure,7745,7775,e) Giấy và sản phẩm bằng giấy;
+ENTITY,E40_20,DIEM,Điểm,structure,7776,7853,"g) Đường, sữa, bánh, kẹo, nước giải khát và các loại thực phẩm chế biến khác;"
+ENTITY,E40_21,DIEM,Điểm,structure,7854,7970,"h) Sản phẩm gốm, sứ, thủy tinh, cao su, nhựa, gỗ và sản phẩm bằng gỗ; xi măng, gạch, ngói và vật liệu xây dựng khác;"
+ENTITY,E40_22,DIEM,Điểm,structure,7971,7992,"i) Xây dựng, lắp đặt;"
+ENTITY,E40_23,DIEM,Điểm,structure,7993,8013,"k) Vận tải, bốc xếp;"
+ENTITY,E40_24,DIEM,Điểm,structure,8014,8057,"l) Dịch vụ bưu điện, bưu chính, viễn thông;"
+ENTITY,E40_25,DIEM,Điểm,structure,8058,8144,"m) Cho thuê nhà, kho tàng, bến bãi, nhà xưởng, máy móc, thiết bị, phương tiện vận tải;"
+ENTITY,E40_26,DIEM,Điểm,structure,8145,8173,n) Dịch vụ tư vấn pháp luật;
+ENTITY,E40_27,DIEM,Điểm,structure,8174,8271,"o) Chụp, in, phóng ảnh; in băng, sang băng, cho thuê băng; quay vi-đi-ô, chiếu vi-đi-ô; sao chụp;"
+ENTITY,E40_28,DIEM,Điểm,structure,8272,8324,"p) Uốn tóc, may đo quần áo, nhuộm, giặt là, tẩy hấp;"
+ENTITY,E40_29,DIEM,Điểm,structure,8325,8488,"q) Các loại hàng hóa, dịch vụ khác không quy định tại khoản 1, khoản 2, khoản 4 Điều này, trừ hàng hoá chịu thuế tiêu thụ đặc biệt ở khâu sản xuất, khâu nhập khẩu;"
+ENTITY,E40_30,DIEM,Điểm,structure,8537,8593,"a) Vàng, bạc, đá quý do cơ sở kinh doanh mua vào,bán ra;"
+ENTITY,E40_31,DIEM,Điểm,structure,8594,8625,"b) Khách sạn, du lịch, ăn uống;"
+ENTITY,E40_32,DIEM,Điểm,structure,8626,8674,c) Xổ số kiến thiết và các loại hình xổ số khác;
+ENTITY,E40_33,DIEM,Điểm,structure,8675,8694,d) Đại lý tàu biển;
+ENTITY,E40_34,DIEM,Điểm,structure,8695,8926,"đ) Dịch vụ môi giới.
+Trong trường hợp cần thiết, ủy ban thường vụ Quốc hội có thể sửa đổi, bổ sung danh mục hàng hóa, dịch vụ theo các mức thuế suất quy định tại Điều này và phải báo cáo để Quốc hội phê chuẩn trong kỳ họp gần nhất."
+ENTITY,E40_35,DIEM,Điểm,structure,9865,10118,"a) Cá nhân sản xuất, kinh doanh và tổ chức, cá nhân nước ngoài kinh doanh ở Việt Nam không theo Luật đầu tư nước ngoài tại Việt Nam chưa thực hiện đầy đủ các điều kiện về kế toán, hoá đơn, chứng từ để làm căn cứ tính thuế theo phương pháp khấu trừ thuế;"
+ENTITY,E40_36,DIEM,Điểm,structure,10119,10166,"b) Cơ sở kinh doanh mua, bán vàng, bạc, đá quý."
+ENTITY,E40_37,DIEM,Điểm,structure,10367,10506,"a) Thuế đầu vào của hàng hóa, dịch vụ dùng cho sản xuất, kinh doanh hàng hóa, dịch vụ chịu thuế giá trị gia tăng thì được khấu trừ toàn bộ;"
+ENTITY,E40_38,DIEM,Điểm,structure,10507,10801,"b) Thuế đầu vào của hàng hoá, dịch vụ dùng đồng thời cho sản xuất, kinh doanh hàng hóa, dịch vụ chịu thuế giá trị gia tăng và không chịu thuế giá trị gia tăng thì chỉ được khấu trừ số thuế đầu vào của hàng hoá, dịch vụ dùng cho sản xuất, kinh doanh hàng hóa, dịch vụ chịu thuế giá trị gia tăng;"
+ENTITY,E40_39,DIEM,Điểm,structure,10802,11053,"c) Thuế đầu vào phát sinh trong tháng nào được kê khai, khấu trừ khi xác định số thuế phải nộp của tháng đó;
+Riêng đối với tài sản cố định, nếu có số thuế đầu vào được khấu trừ lớn thì được khấu trừ dần hoặc được hoàn thuế theo quy định của Chính phủ;"
+ENTITY,E40_40,DIEM,Điểm,structure,11054,11449,"d) Trong trường hợp cơ sở sản xuất, chế biến mua nông sản, lâm sản, thủy sản chưa qua chế biến của người sản xuất mà không có hóa đơn giá trị gia tăng thì được khấu trừ thuế đầu vào từ 1% đến 5% tính trên giá nông sản, lâm sản, thủy sản mua vào; tỷ lệ khấu trừ đối với từng loại hàng hóa do Chính phủ quy định;
+Việc khấu trừ thuế quy định tại điểm này không áp dụng đối với trường hợp xuất khẩu;"
+ENTITY,E40_41,DIEM,Điểm,structure,11450,11542,đ) Việc khấu trừ thuế đầu vào đối với một số trường hợp đặc biệt khác do Chính phủ quy định.
+ENTITY,E40_42,DIEM,Điểm,structure,11599,11903,"a) Số thuế giá trị gia tăng ghi trên hoá đơn giá trị gia tăng khi mua hàng hoá, dịch vụ hoặc chứng từ nộp thuế giá trị gia tăng đối với hàng hóa nhập khẩu; đối với hàng hóa, dịch vụ mua vào không có hóa đơn giá trị gia tăng hoặc hóa đơn không ghi khoản thuế giá trị gia tăng thì không được khấu trừ thuế;"
+ENTITY,E40_43,DIEM,Điểm,structure,11904,12016,b) Bản kê hàng hóa mua vào theo mẫu của cơ quan thuế đối với loại hàng hóa quy định tại điểm d khoản 1 Điều này.
+ENTITY,E40_44,DIEM,Điểm,structure,18870,18949,"a) Không thực hiện hoặc thực hiện không đúng chế độ kế toán, hóa đơn, chứng từ;"
+ENTITY,E40_45,DIEM,Điểm,structure,18950,19149,b) Không kê khai hoặc quá thời hạn quy định nộp tờ khai đã được thông báo nhưng vẫn không thực hiện đúng; đã nộp tờ khai thuế nhưng kê khai không đúng các căn cứ để xác định số thuế giá trị gia tăng;
+ENTITY,E40_46,DIEM,Điểm,structure,19150,19279,"c) Từ chối việc xuất trình sổ kế toán, hoá đơn, chứng từ và các tài liệu cần thiết liên quan tới việc tính thuế giá trị gia tăng;"
+ENTITY,E40_47,DIEM,Điểm,structure,19280,19338,d) Kinh doanh không có đăng ký kinh doanh mà bị phát hiện.
+ENTITY,E40_48,DIEM,Điểm,structure,20933,21282,"a) Trích tiền gửi của đối tượng nộp thuế tại ngân hàng, kho bạc, tổ chức tín dụng để nộp thuế, nộp phạt;
+Ngân hàng, kho bạc, tổ chức tín dụng có trách nhiệm trích tiền từ tài khoản tiền gửi của đối tượng nộp thuế để nộp thuế, nộp phạt vào ngân sách nhà nước theo quyết định xử lý về thuế của cơ quan thuế hoặc cơ quan có thẩm quyền trước khi thu nợ;"
+ENTITY,E40_49,DIEM,Điểm,structure,21283,21349,"b) Giữ hàng hoá, tang vật để bảo đảm thu đủ số thuế, số tiền phạt;"
+ENTITY,E40_50,DIEM,Điểm,structure,21350,21447,"c) Kê biên tài sản theo quy định của pháp luật để bảo đảm thu đủ số thuế, số tiền phạt còn thiếu."
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R3_2,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_2,,
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R11_1,HUONG_DAN_AP_DUNG,Hướng dẫn áp dụng,E2_1,E23_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R12_3,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_3,,
+RELATION,R12_4,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_4,,
+RELATION,R12_5,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_5,,
+RELATION,R12_6,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_6,,
+RELATION,R12_7,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_7,,
+RELATION,R12_8,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_8,,
+RELATION,R12_9,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_9,,
+RELATION,R12_10,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_10,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R13_2,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_2,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R17_3,DAN_CHIEU,Dẫn chiếu,E2_1,E29_3,,
+RELATION,R17_4,DAN_CHIEU,Dẫn chiếu,E2_1,E29_4,,
+RELATION,R17_5,DAN_CHIEU,Dẫn chiếu,E2_1,E29_5,,
+RELATION,R17_6,DAN_CHIEU,Dẫn chiếu,E2_1,E29_6,,
+RELATION,R17_7,DAN_CHIEU,Dẫn chiếu,E2_1,E29_7,,
+RELATION,R17_8,DAN_CHIEU,Dẫn chiếu,E2_1,E29_8,,
+RELATION,R17_9,DAN_CHIEU,Dẫn chiếu,E2_1,E29_9,,
+RELATION,R17_10,DAN_CHIEU,Dẫn chiếu,E2_1,E29_10,,
+RELATION,R17_11,DAN_CHIEU,Dẫn chiếu,E2_1,E29_11,,
+RELATION,R17_12,DAN_CHIEU,Dẫn chiếu,E2_1,E29_12,,
+RELATION,R17_13,DAN_CHIEU,Dẫn chiếu,E2_1,E29_13,,
+RELATION,R17_14,DAN_CHIEU,Dẫn chiếu,E2_1,E29_14,,
+RELATION,R17_15,DAN_CHIEU,Dẫn chiếu,E2_1,E29_15,,
+RELATION,R17_16,DAN_CHIEU,Dẫn chiếu,E2_1,E29_16,,
+RELATION,R17_17,DAN_CHIEU,Dẫn chiếu,E2_1,E29_17,,
+RELATION,R17_18,DAN_CHIEU,Dẫn chiếu,E2_1,E29_18,,
+RELATION,R17_19,DAN_CHIEU,Dẫn chiếu,E2_1,E29_19,,
+RELATION,R17_20,DAN_CHIEU,Dẫn chiếu,E2_1,E29_20,,
+RELATION,R17_21,DAN_CHIEU,Dẫn chiếu,E2_1,E29_21,,
+RELATION,R17_22,DAN_CHIEU,Dẫn chiếu,E2_1,E29_22,,
+RELATION,R17_23,DAN_CHIEU,Dẫn chiếu,E2_1,E29_23,,
+RELATION,R17_24,DAN_CHIEU,Dẫn chiếu,E2_1,E29_24,,
+RELATION,R17_25,DAN_CHIEU,Dẫn chiếu,E2_1,E29_25,,
+RELATION,R17_26,DAN_CHIEU,Dẫn chiếu,E2_1,E29_26,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E2_1,E30_19,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E2_1,E30_20,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E2_1,E30_21,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E2_1,E30_22,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E2_1,E30_23,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E2_1,E30_24,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E2_1,E30_25,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E2_1,E30_26,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E2_1,E30_27,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E2_1,E30_28,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E2_1,E30_29,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E2_1,E30_30,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E2_1,E30_31,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E2_1,E30_32,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E2_1,E30_33,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E2_1,E30_34,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E2_1,E30_35,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E2_1,E30_36,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E2_1,E30_37,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E2_1,E30_38,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E2_1,E30_39,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E2_1,E30_40,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E2_1,E30_41,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E2_1,E30_42,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E2_1,E30_43,,
+RELATION,R18_44,AP_DUNG,Áp dụng,E2_1,E30_44,,
+RELATION,R18_45,AP_DUNG,Áp dụng,E2_1,E30_45,,
+RELATION,R18_46,AP_DUNG,Áp dụng,E2_1,E30_46,,
+RELATION,R18_47,AP_DUNG,Áp dụng,E2_1,E30_47,,
+RELATION,R18_48,AP_DUNG,Áp dụng,E2_1,E30_48,,
+RELATION,R18_49,AP_DUNG,Áp dụng,E2_1,E30_49,,
+RELATION,R18_50,AP_DUNG,Áp dụng,E2_1,E30_50,,
+RELATION,R18_51,AP_DUNG,Áp dụng,E2_1,E30_51,,
+RELATION,R18_52,AP_DUNG,Áp dụng,E2_1,E30_52,,
+RELATION,R18_53,AP_DUNG,Áp dụng,E2_1,E30_53,,
+RELATION,R18_54,AP_DUNG,Áp dụng,E2_1,E30_54,,
+RELATION,R18_55,AP_DUNG,Áp dụng,E2_1,E30_55,,
+RELATION,R18_56,AP_DUNG,Áp dụng,E2_1,E30_56,,
+RELATION,R18_57,AP_DUNG,Áp dụng,E2_1,E30_57,,
+RELATION,R18_58,AP_DUNG,Áp dụng,E2_1,E30_58,,
+RELATION,R18_59,AP_DUNG,Áp dụng,E2_1,E30_59,,
+RELATION,R18_60,AP_DUNG,Áp dụng,E2_1,E30_60,,
+RELATION,R18_61,AP_DUNG,Áp dụng,E2_1,E30_61,,
+RELATION,R18_62,AP_DUNG,Áp dụng,E2_1,E30_62,,
+RELATION,R18_63,AP_DUNG,Áp dụng,E2_1,E30_63,,
+RELATION,R18_64,AP_DUNG,Áp dụng,E2_1,E30_64,,
+RELATION,R18_65,AP_DUNG,Áp dụng,E2_1,E30_65,,
+RELATION,R18_66,AP_DUNG,Áp dụng,E2_1,E30_66,,
+RELATION,R18_67,AP_DUNG,Áp dụng,E2_1,E30_67,,
+RELATION,R18_68,AP_DUNG,Áp dụng,E2_1,E30_68,,
+RELATION,R18_69,AP_DUNG,Áp dụng,E2_1,E30_69,,
+RELATION,R18_70,AP_DUNG,Áp dụng,E2_1,E30_70,,
+RELATION,R18_71,AP_DUNG,Áp dụng,E2_1,E30_71,,
+RELATION,R18_72,AP_DUNG,Áp dụng,E2_1,E30_72,,
+RELATION,R18_73,AP_DUNG,Áp dụng,E2_1,E30_73,,
+RELATION,R18_74,AP_DUNG,Áp dụng,E2_1,E30_74,,
+RELATION,R18_75,AP_DUNG,Áp dụng,E2_1,E30_75,,
+RELATION,R18_76,AP_DUNG,Áp dụng,E2_1,E30_76,,
+RELATION,R18_77,AP_DUNG,Áp dụng,E2_1,E30_77,,
+RELATION,R18_78,AP_DUNG,Áp dụng,E2_1,E30_78,,
+RELATION,R18_79,AP_DUNG,Áp dụng,E2_1,E30_79,,
+RELATION,R18_80,AP_DUNG,Áp dụng,E2_1,E30_80,,
+RELATION,R18_81,AP_DUNG,Áp dụng,E2_1,E30_81,,
+RELATION,R18_82,AP_DUNG,Áp dụng,E2_1,E30_82,,
+RELATION,R18_83,AP_DUNG,Áp dụng,E2_1,E30_83,,
+RELATION,R18_84,AP_DUNG,Áp dụng,E2_1,E30_84,,
+RELATION,R18_85,AP_DUNG,Áp dụng,E2_1,E30_85,,
+RELATION,R18_86,AP_DUNG,Áp dụng,E2_1,E30_86,,
+RELATION,R18_87,AP_DUNG,Áp dụng,E2_1,E30_87,,
+RELATION,R18_88,AP_DUNG,Áp dụng,E2_1,E30_88,,
+RELATION,R18_89,AP_DUNG,Áp dụng,E2_1,E30_89,,
+RELATION,R18_90,AP_DUNG,Áp dụng,E2_1,E30_90,,
+RELATION,R18_91,AP_DUNG,Áp dụng,E2_1,E30_91,,
+RELATION,R18_92,AP_DUNG,Áp dụng,E2_1,E30_92,,
+RELATION,R18_93,AP_DUNG,Áp dụng,E2_1,E30_93,,
+RELATION,R18_94,AP_DUNG,Áp dụng,E2_1,E30_94,,
+RELATION,R18_95,AP_DUNG,Áp dụng,E2_1,E30_95,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_1,E38_5,,
+RELATION,R22_9,THUOC,Thuộc,E39_2,E38_5,,
+RELATION,R22_10,THUOC,Thuộc,E39_3,E38_5,,
+RELATION,R22_11,THUOC,Thuộc,E39_4,E38_5,,
+RELATION,R22_12,THUOC,Thuộc,E38_6,E35_2,,
+RELATION,R22_13,THUOC,Thuộc,E38_7,E35_2,,
+RELATION,R22_14,THUOC,Thuộc,E39_5,E38_7,,
+RELATION,R22_15,THUOC,Thuộc,E39_6,E38_7,,
+RELATION,R22_16,THUOC,Thuộc,E39_7,E38_7,,
+RELATION,R22_17,THUOC,Thuộc,E39_8,E38_7,,
+RELATION,R22_18,THUOC,Thuộc,E39_9,E38_7,,
+RELATION,R22_19,THUOC,Thuộc,E39_10,E38_7,,
+RELATION,R22_20,THUOC,Thuộc,E39_11,E38_7,,
+RELATION,R22_21,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_22,THUOC,Thuộc,E39_12,E38_8,,
+RELATION,R22_23,THUOC,Thuộc,E39_13,E38_8,,
+RELATION,R22_24,THUOC,Thuộc,E40_1,E39_13,,
+RELATION,R22_25,THUOC,Thuộc,E40_2,E39_13,,
+RELATION,R22_26,THUOC,Thuộc,E40_3,E39_13,,
+RELATION,R22_27,THUOC,Thuộc,E40_4,E39_13,,
+RELATION,R22_28,THUOC,Thuộc,E40_5,E39_13,,
+RELATION,R22_29,THUOC,Thuộc,E40_6,E39_13,,
+RELATION,R22_30,THUOC,Thuộc,E40_7,E39_13,,
+RELATION,R22_31,THUOC,Thuộc,E40_8,E39_13,,
+RELATION,R22_32,THUOC,Thuộc,E40_9,E39_13,,
+RELATION,R22_33,THUOC,Thuộc,E40_10,E39_13,,
+RELATION,R22_34,THUOC,Thuộc,E40_11,E39_13,,
+RELATION,R22_35,THUOC,Thuộc,E40_12,E39_13,,
+RELATION,R22_36,THUOC,Thuộc,E40_13,E39_13,,
+RELATION,R22_37,THUOC,Thuộc,E39_14,E38_8,,
+RELATION,R22_38,THUOC,Thuộc,E40_14,E39_14,,
+RELATION,R22_39,THUOC,Thuộc,E40_15,E39_14,,
+RELATION,R22_40,THUOC,Thuộc,E40_16,E39_14,,
+RELATION,R22_41,THUOC,Thuộc,E40_17,E39_14,,
+RELATION,R22_42,THUOC,Thuộc,E40_18,E39_14,,
+RELATION,R22_43,THUOC,Thuộc,E40_19,E39_14,,
+RELATION,R22_44,THUOC,Thuộc,E40_20,E39_14,,
+RELATION,R22_45,THUOC,Thuộc,E40_21,E39_14,,
+RELATION,R22_46,THUOC,Thuộc,E40_22,E39_14,,
+RELATION,R22_47,THUOC,Thuộc,E40_23,E39_14,,
+RELATION,R22_48,THUOC,Thuộc,E40_24,E39_14,,
+RELATION,R22_49,THUOC,Thuộc,E40_25,E39_14,,
+RELATION,R22_50,THUOC,Thuộc,E40_26,E39_14,,
+RELATION,R22_51,THUOC,Thuộc,E40_27,E39_14,,
+RELATION,R22_52,THUOC,Thuộc,E40_28,E39_14,,
+RELATION,R22_53,THUOC,Thuộc,E40_29,E39_14,,
+RELATION,R22_54,THUOC,Thuộc,E39_15,E38_8,,
+RELATION,R22_55,THUOC,Thuộc,E40_30,E39_15,,
+RELATION,R22_56,THUOC,Thuộc,E40_31,E39_15,,
+RELATION,R22_57,THUOC,Thuộc,E40_32,E39_15,,
+RELATION,R22_58,THUOC,Thuộc,E40_33,E39_15,,
+RELATION,R22_59,THUOC,Thuộc,E40_34,E39_15,,
+RELATION,R22_60,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_61,THUOC,Thuộc,E39_16,E38_9,,
+RELATION,R22_62,THUOC,Thuộc,E39_17,E38_9,,
+RELATION,R22_63,THUOC,Thuộc,E40_35,E39_17,,
+RELATION,R22_64,THUOC,Thuộc,E40_36,E39_17,,
+RELATION,R22_65,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_66,THUOC,Thuộc,E39_18,E38_10,,
+RELATION,R22_67,THUOC,Thuộc,E40_37,E39_18,,
+RELATION,R22_68,THUOC,Thuộc,E40_38,E39_18,,
+RELATION,R22_69,THUOC,Thuộc,E40_39,E39_18,,
+RELATION,R22_70,THUOC,Thuộc,E40_40,E39_18,,
+RELATION,R22_71,THUOC,Thuộc,E40_41,E39_18,,
+RELATION,R22_72,THUOC,Thuộc,E39_19,E38_10,,
+RELATION,R22_73,THUOC,Thuộc,E40_42,E39_19,,
+RELATION,R22_74,THUOC,Thuộc,E40_43,E39_19,,
+RELATION,R22_75,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_76,THUOC,Thuộc,E39_20,E38_11,,
+RELATION,R22_77,THUOC,Thuộc,E39_21,E38_11,,
+RELATION,R22_78,THUOC,Thuộc,E39_22,E38_11,,
+RELATION,R22_79,THUOC,Thuộc,E38_12,E35_3,,
+RELATION,R22_80,THUOC,Thuộc,E39_23,E38_12,,
+RELATION,R22_81,THUOC,Thuộc,E39_24,E38_12,,
+RELATION,R22_82,THUOC,Thuộc,E38_13,E35_3,,
+RELATION,R22_83,THUOC,Thuộc,E39_25,E38_13,,
+RELATION,R22_84,THUOC,Thuộc,E39_26,E38_13,,
+RELATION,R22_85,THUOC,Thuộc,E39_27,E38_13,,
+RELATION,R22_86,THUOC,Thuộc,E39_28,E38_13,,
+RELATION,R22_87,THUOC,Thuộc,E38_14,E35_3,,
+RELATION,R22_88,THUOC,Thuộc,E39_29,E38_14,,
+RELATION,R22_89,THUOC,Thuộc,E39_30,E38_14,,
+RELATION,R22_90,THUOC,Thuộc,E39_31,E38_14,,
+RELATION,R22_91,THUOC,Thuộc,E39_32,E38_14,,
+RELATION,R22_92,THUOC,Thuộc,E38_15,E35_3,,
+RELATION,R22_93,THUOC,Thuộc,E38_16,E35_3,,
+RELATION,R22_94,THUOC,Thuộc,E39_33,E38_16,,
+RELATION,R22_95,THUOC,Thuộc,E39_34,E38_16,,
+RELATION,R22_96,THUOC,Thuộc,E39_35,E38_16,,
+RELATION,R22_97,THUOC,Thuộc,E38_17,E35_3,,
+RELATION,R22_98,THUOC,Thuộc,E39_36,E38_17,,
+RELATION,R22_99,THUOC,Thuộc,E39_37,E38_17,,
+RELATION,R22_100,THUOC,Thuộc,E39_38,E38_17,,
+RELATION,R22_101,THUOC,Thuộc,E38_18,E35_3,,
+RELATION,R22_102,THUOC,Thuộc,E39_39,E38_18,,
+RELATION,R22_103,THUOC,Thuộc,E40_44,E39_39,,
+RELATION,R22_104,THUOC,Thuộc,E40_45,E39_39,,
+RELATION,R22_105,THUOC,Thuộc,E40_46,E39_39,,
+RELATION,R22_106,THUOC,Thuộc,E40_47,E39_39,,
+RELATION,R22_107,THUOC,Thuộc,E39_40,E38_18,,
+RELATION,R22_108,THUOC,Thuộc,E38_19,E35_4,,
+RELATION,R22_109,THUOC,Thuộc,E39_41,E38_19,,
+RELATION,R22_110,THUOC,Thuộc,E39_42,E38_19,,
+RELATION,R22_111,THUOC,Thuộc,E39_43,E38_19,,
+RELATION,R22_112,THUOC,Thuộc,E39_44,E38_19,,
+RELATION,R22_113,THUOC,Thuộc,E40_48,E39_44,,
+RELATION,R22_114,THUOC,Thuộc,E40_49,E39_44,,
+RELATION,R22_115,THUOC,Thuộc,E40_50,E39_44,,
+RELATION,R22_116,THUOC,Thuộc,E38_20,E35_4,,
+RELATION,R22_117,THUOC,Thuộc,E39_45,E38_20,,
+RELATION,R22_118,THUOC,Thuộc,E39_46,E38_20,,
+RELATION,R22_119,THUOC,Thuộc,E38_21,E35_4,,
+RELATION,R22_120,THUOC,Thuộc,E39_47,E38_21,,
+RELATION,R22_121,THUOC,Thuộc,E39_48,E38_21,,
+RELATION,R22_122,THUOC,Thuộc,E39_49,E38_21,,
+RELATION,R22_123,THUOC,Thuộc,E39_50,E38_21,,
+RELATION,R22_124,THUOC,Thuộc,E38_22,E35_4,,
+RELATION,R22_125,THUOC,Thuộc,E38_23,E35_5,,
+RELATION,R22_126,THUOC,Thuộc,E39_51,E38_23,,
+RELATION,R22_127,THUOC,Thuộc,E39_52,E38_23,,
+RELATION,R22_128,THUOC,Thuộc,E38_24,E35_5,,
+RELATION,R22_129,THUOC,Thuộc,E39_53,E38_24,,
+RELATION,R22_130,THUOC,Thuộc,E39_54,E38_24,,
+RELATION,R22_131,THUOC,Thuộc,E39_55,E38_24,,
+RELATION,R22_132,THUOC,Thuộc,E39_56,E38_24,,
+RELATION,R22_133,THUOC,Thuộc,E39_57,E38_24,,
+RELATION,R22_134,THUOC,Thuộc,E38_25,E35_6,,
+RELATION,R22_135,THUOC,Thuộc,E38_26,E35_6,,
+RELATION,R22_136,THUOC,Thuộc,E38_27,E35_6,,
+RELATION,R22_137,THUOC,Thuộc,E38_28,E35_7,,
+RELATION,R22_138,THUOC,Thuộc,E38_29,E35_7,,
+RELATION,R22_139,THUOC,Thuộc,E38_30,E35_7,,

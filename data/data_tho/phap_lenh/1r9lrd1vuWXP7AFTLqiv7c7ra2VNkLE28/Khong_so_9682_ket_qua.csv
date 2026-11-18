@@ -1,0 +1,183 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,93,173,"PHÁP LỆNH
+Công nhận và thi hành tại Việt Nam quyết định của Trọng tài nước ngoài"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,93,102,PHÁP LỆNH
+ENTITY,E4_1,NGANH,Ngành,metadata,18523,18530,Tư pháp
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,18548,18558,1995-09-14
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,18571,18588,Pháp luật quốc tế
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,18212,18237,ngày 01 tháng 01 năm 1996
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,18610,18620,2004-06-24
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,18644,18664,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,18488,18513,Uỷ ban Thường vụ Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,18678,18686,Chủ tịch
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,18699,18712,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,18805,18823,Hiến pháp năm 1992
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,392,450,Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,463,548,"Nghị quyết của Quốc hội khoá IX, kỳ họp thứ 6 về công tác xây dựng pháp luật năm 1993"
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,18732,18750,Hiến pháp năm 1992
+ENTITY,E35_1,CHUONG,Chương,structure,650,679,"Chương I
+NHỮNG QUY ĐỊNH CHUNG"
+ENTITY,E35_2,CHUONG,Chương,structure,4711,4811,"Chương II
+XÉT ĐƠN YÊU CẦU CÔNG NHẬN VÀ CHO THI HÀNH TẠI
+VIỆT NAM QUYẾT ĐỊNH CỦA TRỌNG TÀI NƯỚC NGOÀI"
+ENTITY,E35_3,CHUONG,Chương,structure,17290,17321,"Chương III
+ĐIỀU KHOẢN CUỐI CÙNG"
+ENTITY,E38_1,DIEU,Điều,structure,680,723,Điều 1. Quyết định của Trọng tài nước ngoài
+ENTITY,E38_2,DIEU,Điều,structure,1111,1151,Điều 2. Nguyên tắc công nhận và thi hành
+ENTITY,E38_3,DIEU,Điều,structure,1873,1916,Điều 3. Quyền yêu cầu công nhận và thi hành
+ENTITY,E38_4,DIEU,Điều,structure,2288,2295,Điều 4.
+ENTITY,E38_5,DIEU,Điều,structure,2601,2644,"Điều 5. Bảo đảm quyền kháng cáo, kháng nghị"
+ENTITY,E38_6,DIEU,Điều,structure,3165,3300,Điều 6. Bảo đảm hiệu lực pháp luật của quyết định của Toà án công nhận và cho thi hành tại Việt Nam quyết định của Trọng tài nước ngoài
+ENTITY,E38_7,DIEU,Điều,structure,3947,3986,Điều 7. Thông báo quyết định của Toà án
+ENTITY,E38_8,DIEU,Điều,structure,4187,4273,"Điều 8. Bảo đảm việc chuyển tiền, tài sản thi hành quyết định của Trọng tài nước ngoài"
+ENTITY,E38_9,DIEU,Điều,structure,4519,4533,Điều 9. Lệ phí
+ENTITY,E38_10,DIEU,Điều,structure,4812,4907,Điều 10. Đơn yêu cầu công nhận và cho thi hành tại Việt Nam quyết định của Trọng tài nước ngoài
+ENTITY,E38_11,DIEU,Điều,structure,5867,5904,Điều 11. Giấy tờ kèm theo đơn yêu cầu
+ENTITY,E38_12,DIEU,Điều,structure,7194,7226,Điều 12. Chuyển hồ sơ cho Toà án
+ENTITY,E38_13,DIEU,Điều,structure,7861,7882,Điều 13. Thụ lý hồ sơ
+ENTITY,E38_14,DIEU,Điều,structure,8147,8180,Điều 14. Chuẩn bị xét đơn yêu cầu
+ENTITY,E38_15,DIEU,Điều,structure,9814,9848,Điều 15. Phiên toà xét đơn yêu cầu
+ENTITY,E38_16,DIEU,Điều,structure,11327,11402,Điều 16. Các trường hợp không công nhận quyết định của Trọng tài nước ngoài
+ENTITY,E38_17,DIEU,Điều,structure,13458,13518,Điều 17. Gửi bản sao quyết định của Toà án cho Viện kiểm sát
+ENTITY,E38_18,DIEU,Điều,structure,13665,13695,"Điều 18. Kháng cáo, kháng nghị"
+ENTITY,E38_19,DIEU,Điều,structure,14580,14614,"Điều 19. Xét kháng cáo, kháng nghị"
+ENTITY,E38_20,DIEU,Điều,structure,15586,15639,Điều 20. Thi hành quyết định của Trọng tài nước ngoài
+ENTITY,E38_21,DIEU,Điều,structure,17322,17355,Điều 21. Áp dụng điều ước quốc tế
+ENTITY,E38_22,DIEU,Điều,structure,17541,17637,Điều 22. Toà án không xem xét việc công nhận và cho thi hành quyết định của Trọng tài nước ngoài
+ENTITY,E38_23,DIEU,Điều,structure,18139,18170,Điều 23. Hiệu lực của Pháp lệnh
+ENTITY,E38_24,DIEU,Điều,structure,18239,18267,Điều 24. Điều khoản thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,1152,1649,"1. Toà án Việt Nam xem xét việc công nhận và cho thi hành tại Việt Nam quyết định của Trọng tài nước ngoài trong trường hợp quyết định được tuyên tại nước hoặc của Trọng tài của nước mà Cộng hoà xã hội chủ nghĩa Việt Nam và nước đó đã ký kết hoặc tham gia điều ước quốc tế về vấn đề này. Quyết định của Trọng tài nước ngoài cũng có thể được Toà án Việt Nam xem xét công nhận và cho thi hành tại Việt Nam trên cơ sở có đi có lại mà không đòi hỏi phải có điều kiện ký kết, tham gia điều ước quốc tế."
+ENTITY,E39_2,KHOAN,Khoản,structure,1650,1872,2. Quyết định của Trọng tài nước ngoài được thi hành tại Việt Nam sau khi được Toà án Việt Nam công nhận và cho thi hành; việc thi hành phải tuân theo Pháp lệnh này và quy định của pháp luật Việt Nam về thi hành án dân sự.
+ENTITY,E39_3,KHOAN,Khoản,structure,2645,2796,1. Quyết định của Toà án công nhận hoặc không công nhận quyết định của Trọng tài nước ngoài có thể bị đương sự kháng cáo hoặc Viện kiểm sát kháng nghị.
+ENTITY,E39_4,KHOAN,Khoản,structure,2797,2935,"2. Quá thời hạn quy định tại Điều 18 của Pháp lệnh này mà không có kháng cáo, kháng nghị, thì quyết định của Toà án có hiệu lực pháp luật."
+ENTITY,E39_5,KHOAN,Khoản,structure,2936,3164,"3. Toà án nhân dân tối cao xét đơn kháng cáo, quyết định kháng nghị đối với quyết định của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương về việc công nhận và cho thi hành tại Việt Nam quyết định của Trọng tài nước ngoài."
+ENTITY,E39_6,KHOAN,Khoản,structure,3301,3473,1. Quyết định của Trọng tài nước ngoài được Toà án công nhận và cho thi hành tại Việt Nam có hiệu lực pháp luật như quyết định của Toà án Việt Nam đã có hiệu lực pháp luật.
+ENTITY,E39_7,KHOAN,Khoản,structure,3474,3751,"2. Quyết định đã có hiệu lực pháp luật của Toà án công nhận và cho thi hành tại Việt Nam quyết định của Trọng tài nước ngoài phải được các đương sự nghiêm chỉnh thi hành, các cơ quan nhà nước, tổ chức kinh tế, tổ chức xã hội, đơn vị vũ trang nhân dân và mọi công dân tôn trọng."
+ENTITY,E39_8,KHOAN,Khoản,structure,4908,5031,1. Đơn yêu cầu công nhận và cho thi hành tại Việt Nam quyết định của Trọng tài nước ngoài được gửi đến Bộ Tư pháp Việt Nam.
+ENTITY,E39_9,KHOAN,Khoản,structure,5032,5097,2. Đơn yêu cầu nói tại khoản 1 Điều này phải có nội dung sau đây:
+ENTITY,E39_10,KHOAN,Khoản,structure,5723,5866,3. Đơn yêu cầu bằng tiếng nước ngoài phải được dịch ra tiếng Việt và bản dịch phải được chứng thực phù hợp với quy định của pháp luật Việt Nam.
+ENTITY,E39_11,KHOAN,Khoản,structure,5905,6123,1. Kèm theo đơn yêu cầu quy định tại Điều 10 của Pháp lệnh này phải có các giấy tờ được quy định tại điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia nói tại khoản 1 Điều 2 của Pháp lệnh này.
+ENTITY,E39_12,KHOAN,Khoản,structure,7045,7193,2. Giấy tờ kèm theo bằng tiếng nước ngoài phải được dịch ra tiếng Việt và bản dịch phải được chứng thực phù hợp với quy định của pháp luật Việt Nam.
+ENTITY,E39_13,KHOAN,Khoản,structure,7227,7403,"1. Trong thời hạn bảy ngày, kể từ ngày nhận được đơn yêu cầu và giấy tờ hợp lệ kèm theo, Bộ Tư pháp chuyển hồ sơ cho Toà án có thẩm quyền quy định tại Điều 4 của Pháp lệnh này."
+ENTITY,E39_14,KHOAN,Khoản,structure,7404,7860,"2. Trong trường hợp Bộ Tư pháp đã chuyển hồ sơ cho Toà án mà sau đó lại nhận được thông báo của cơ quan có thẩm quyền của nước ngoài nói tại điểm c khoản 1 Điều 16 của Pháp lệnh này về việc đang xem xét hoặc đã huỷ bỏ, đình chỉ thi hành quyết định của Trọng tài nước ngoài, thì Bộ Tư pháp thông báo ngay bằng văn bản cho Toà án để ra quyết định phù hợp với quy định tại các điểm a và c khoản 1 Điều 14, khoản 3 Điều 19 và khoản 4 Điều 20 của Pháp lệnh này."
+ENTITY,E39_15,KHOAN,Khoản,structure,7883,8040,"1. Khi nhận được hồ sơ do Bộ Tư pháp chuyển đến, Toà án có trách nhiệm thụ lý và thông báo cho tổ chức, cá nhân phải thi hành và Viện kiểm sát cùng cấp biết."
+ENTITY,E39_16,KHOAN,Khoản,structure,8041,8146,"2. Toà án có quyền yêu cầu tổ chức, cá nhân đã gửi đơn yêu cầu giải quyết những điều chưa rõ trong hồ sơ."
+ENTITY,E39_17,KHOAN,Khoản,structure,8181,8295,"1. Trong thời hạn hai tháng, kể từ ngày thụ lý, tuỳ từng trường hợp, Toà án ra một trong những quyết định sau đây:"
+ENTITY,E39_18,KHOAN,Khoản,structure,9572,9813,"2. Toà án phải mở phiên toà xét đơn trong thời hạn mười lăm ngày, kể từ ngày ra quyết định nói tại điểm đ khoản 1 Điều này. Ngay sau khi ra quyết định mở phiên toà, Toà án phải chuyển hồ sơ cho Viện kiểm sát cùng cấp trong thời hạn bảy ngày."
+ENTITY,E39_19,KHOAN,Khoản,structure,9849,9971,"1. Việc xét đơn yêu cầu được tiến hành tại phiên toà do một Hội đồng gồm ba Thẩm phán, trong đó một Thẩm phán làm chủ toạ."
+ENTITY,E39_20,KHOAN,Khoản,structure,9972,10102,"2. Kiểm sát viên Viện kiểm sát cùng cấp phải tham gia phiên toà. Trong trường hợp Kiểm sát viên vắng mặt, thì phải hoãn phiên toà."
+ENTITY,E39_21,KHOAN,Khoản,structure,10103,10351,"3. Phiên toà được tiến hành với sự có mặt của người đại diện hợp pháp của tổ chức phải thi hành, của cá nhân phải thi hành hoặc người đại diện hợp pháp của người đó. Những người này được triệu tập đến phiên toà theo quy định của pháp luật Việt Nam."
+ENTITY,E39_22,KHOAN,Khoản,structure,10625,10982,"4. Khi xét đơn yêu cầu, Hội đồng không xét xử lại vụ tranh chấp đã được Trọng tài nước ngoài giải quyết mà chỉ kiểm tra, đối chiếu quyết định của Trọng tài nước ngoài và giấy tờ kèm theo với quy định của Pháp lệnh này, các quy định khác của pháp luật Việt Nam và điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia, để ra quyết định."
+ENTITY,E39_23,KHOAN,Khoản,structure,10983,11150,"5. Sau khi xem xét đơn, giấy tờ kèm theo, chứng cứ, nếu có, nghe ý kiến của những người được triệu tập, của Kiểm sát viên, Hội đồng thảo luận và quyết định theo đa số."
+ENTITY,E39_24,KHOAN,Khoản,structure,11403,11575,"1. Quyết định của Trọng tài nước ngoài không được công nhận và cho thi hành tại Việt Nam, nếu tổ chức, cá nhân phải thi hành có chứng cứ hợp pháp để Toà án khẳng định rằng:"
+ENTITY,E39_25,KHOAN,Khoản,structure,13115,13230,"2. Quyết định của Trọng tài nước ngoài cũng không được công nhận và cho thi hành tại Việt Nam, nếu Toà án xét thấy:"
+ENTITY,E39_26,KHOAN,Khoản,structure,13696,13919,"1. Trong thời hạn mười lăm ngày, kể từ ngày Toà án ra quyết định nói tại các điểm a, b, c và d khoản 1 Điều 14 và khoản 5 Điều 15 của Pháp lệnh này, đương sự, người đại diện hợp pháp của họ có quyền kháng cáo quyết định đó."
+ENTITY,E39_27,KHOAN,Khoản,structure,14242,14429,"2. Viện kiểm sát cùng cấp hoặc Viện kiểm sát nhân dân tối cao có quyền kháng nghị quyết định của Toà án nói tại các điểm a, b, c và d khoản 1 Điều 14 và khoản 5 Điều 15 của Pháp lệnh này."
+ENTITY,E39_28,KHOAN,Khoản,structure,14615,14946,"1. Toà án nhân dân tối cao xét quyết định của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương, khi có kháng cáo, kháng nghị, trong thời hạn một tháng, kể từ ngày nhận được kháng cáo, kháng nghị; nếu cần phải yêu cầu giải thích theo quy định tại khoản 2 Điều 13 của Pháp lệnh này, thì thời hạn được kéo dài thêm hai tháng nữa."
+ENTITY,E39_29,KHOAN,Khoản,structure,14947,15052,"2. Thành phần Hội đồng xét kháng cáo, kháng nghị gồm ba Thẩm phán, trong đó có một Thẩm phán làm chủ toạ."
+ENTITY,E39_30,KHOAN,Khoản,structure,15163,15497,"3. Hội đồng có quyền giữ nguyên, sửa một phần hoặc toàn bộ quyết định của Toà án nhân dân tỉnh, thành phố trực thuộc trung ương; tạm đình chỉ, đình chỉ việc xét kháng cáo, kháng nghị trong trường hợp đương sự rút kháng cáp, Viện kiểm sát rút kháng nghị hoặc có căn cứ quy định tại các điểm a, b và c khoản 1 Điều 14 của Pháp lệnh này."
+ENTITY,E39_31,KHOAN,Khoản,structure,15640,15956,"1. Trong thời hạn mười lăm ngày, kể từ ngày quyết định công nhận và cho thi hành tại Việt Nam quyết định của Trọng tài nước ngoài có hiệu lực pháp luật, Toà án gửi bản sao quyết định đó và bản sao quyết định của Trọng tài nước ngoài cho cơ quan thi hành án theo quy định của pháp luật Việt Nam về thi hành án dân sự."
+ENTITY,E39_32,KHOAN,Khoản,structure,15957,16083,2. Việc thi hành quyết định của Trọng tài nước ngoài phải tuân theo các quy định của pháp luật Việt Nam về thi hành án dân sự.
+ENTITY,E39_33,KHOAN,Khoản,structure,16084,16567,"3. Trong trường hợp nhận được thông báo bằng văn bản của Bộ Tư pháp về việc cơ quan có thẩm quyền của nước ngoài đang xem xét việc huỷ bỏ hoặc đình chỉ thi hành quyết định của Trọng tài nước ngoài đã có quyết định thi hành tại Việt Nam, thì thủ trưởng cơ quan thi hành án dân sự ra quyết định tạm đình chỉ thi hành quyết định của Trọng tài nước ngoài và gửi bản sao quyết định đó cho Toà án đã ra quyết định công nhận và cho thi hành tại Việt Nam quyết định của Trọng tài nước ngoài."
+ENTITY,E39_34,KHOAN,Khoản,structure,16764,17131,"4. Ngay sau khi nhận được thông báo bằng văn bản của Bộ Tư pháp về việc cơ quan có thẩm quyền của nước ngoài đã huỷ bỏ hoặc đình chỉ thi hành quyết định của Trọng tài nước ngoài, Toà án đã ra quyết định công nhận và cho thi hành tại Việt Nam quyết định của Trọng tài nước ngoài ra quyết định huỷ bỏ quyết định đó và gửi bản sao quyết định này cho cơ quan thi hành án."
+ENTITY,E40_1,DIEM,Điểm,structure,5098,5314,"a. Tên gọi đầy đủ và địa chỉ trụ sở chính của tổ chức được thi hành hoặc họ tên, địa chỉ nơi cư trú, nơi làm việc của cá nhân được thi hành và của người đại diện hợp pháp tại Việt Nam của tổ chức, cá nhân đó, nếu có;"
+ENTITY,E40_2,DIEM,Điểm,structure,5315,5455,"b. Tên gọi đầy đủ và địa chỉ trụ sở chính của tổ chức phải thi hành hoặc họ tên, địa chỉ nơi cư trú, nơi làm việc của cá nhân phải thi hành."
+ENTITY,E40_3,DIEM,Điểm,structure,5676,5722,"c. Yêu cầu của tổ chức, cá nhân được thi hành."
+ENTITY,E40_4,DIEM,Điểm,structure,6301,6424,a. Bản gốc hoặc bản sao quyết định của Trọng tài nước ngoài đã được chứng thực phù hợp với quy định của pháp luật Việt Nam;
+ENTITY,E40_5,DIEM,Điểm,structure,6425,6534,b. Bản gốc hoặc bản sao: Thoả thuận trọng tài đã được chứng thực phù hợp với quy định của pháp lệnh Việt Nam.
+ENTITY,E40_6,DIEM,Điểm,structure,8296,8527,a. Tạm đình chỉ việc xét đơn yêu cầu trong trường hợp nhận được thông báo bằng văn bản của Bộ Tư pháp về việc cơ quan có thẩm quyền của nước ngoài đang xem xét việc huỷ bỏ hoặc đình chỉ thi hành quyết định của Trọng tài nước ngoài.
+ENTITY,E40_7,DIEM,Điểm,structure,8528,8894,"b. Đình chỉ việc xét đơn yêu cầu, nếu tổ chức, cá nhân được thi hành rút đơn yêu cầu hoặc tổ chức, cá nhân phải thi hành đã tự nguyện thi hành; tổ chức phải thi hành đã bị giải thể, phá sản mà quyền, nghĩa vụ của tổ chức đó đã được giải quyết theo quy định của pháp luật Việt Nam hoặc cá nhân phải thi hành đã chết mà quyền, nghĩa vụ của người đó không được thừa kế;"
+ENTITY,E40_8,DIEM,Điểm,structure,8895,9107,c. Đình chỉ việc xét đơn yêu cầu trong trường hợp nhận được thông báo bằng văn bản của Bộ Tư pháp về việc cơ quan có thẩm quyền của nước ngoài đã huỷ bỏ hoặc đình chỉ thi hành quyết định của Trọng tài nước ngoài;
+ENTITY,E40_9,DIEM,Điểm,structure,9108,9406,"d. Đình chỉ việc xét đơn yêu cầu và trả lại hồ sơ cho Bộ Tư pháp trong trường hợp không đúng thẩm quyền, tổ chức phải thi hành không có trụ sở chính tại Việt Nam, cá nhân phải thi hành không cư trú, làm việc tại Việt Nam hoặc không xác định được địa điểm nơi có tài sản liên quan đến việc thi hành;"
+ENTITY,E40_10,DIEM,Điểm,structure,9407,9438,đ. Mở phiên toà xét đơn yêu cầu
+ENTITY,E40_11,DIEM,Điểm,structure,11576,11960,"a. Các bên ký kết Thoả thuận trọng tài nói tại khoản 1 Điều 11 của Pháp lệnh này, theo pháp luật được áp dụng cho mỗi bên, không có năng lực để ký kết Thoả thuận đó; Thoả thuận trọng tài không có giá trị pháp lý theo pháp luật của nước mà các bên đã chọn để áp dụng hoặc theo pháp luật của nước nơi quyết định đã được tuyên, nếu các bên không chọn pháp luật áp dụng cho Thoả thuận đó;"
+ENTITY,E40_12,DIEM,Điểm,structure,11961,12207,"b. Tổ chức, cá nhân phải thi hành không được thông báo kịp thời và hợp thức về việc chỉ định Trọng tài viên, về thủ tục giải quyết vụ tranh chấp tại Trọng tài hoặc vì nguyên nhân chính đáng khác mà không thể thực hiện được quyền tố tụng của mình;"
+ENTITY,E40_13,DIEM,Điểm,structure,12208,12635,"c. Quyết định của Trọng tài nước ngoài được tuyên về một vụ tranh chấp không được các bên yêu cầu giải quyết hoặc vượt quá yêu cầu của các bên ký kết Thoả thuận trọng tài. Trong trường hợp có thể tách được phần quyết định về vấn đề đã được yêu cầu và phần quyết định về vấn đề không được yêu cầu giải quyết tại Trọng tài, thì phần quyết định về vấn đề được yêu cầu giải quyết có thể được công nhận và cho thi hành tại Việt Nam."
+ENTITY,E40_14,DIEM,Điểm,structure,12636,12874,"d. Thành phần của Trọng tài, thủ tục giải quyết tranh chấp của Trọng tài không phù hợp với Thoả thuận trọng tài hoặc với pháp luật của nước nơi quyết định của Trọng tài được tuyên, nếu Thoả thuận trọng tài không quy định về các vấn đề đó;"
+ENTITY,E40_15,DIEM,Điểm,structure,12875,12945,đ. Quyết định của Trọng tài chưa có hiệu lực bắt buộc đối với các bên;
+ENTITY,E40_16,DIEM,Điểm,structure,12946,13114,"e. Quyết định của Trọng tài đã bị cơ quan có thẩm quyền của nước nơi quyết định đã được tuyên hoặc của nước có pháp luật đã được áp dụng, huỷ bỏ hoặc đình chỉ thi hành."
+ENTITY,E40_17,DIEM,Điểm,structure,13231,13319,"a. Theo pháp luật Việt Nam, vụ tranh chấp không được giải quyết theo thể thức trọng tài;"
+ENTITY,E40_18,DIEM,Điểm,structure,13320,13457,b. Việc công nhận và cho thi hành tại Việt Nam quyết định của Trọng tài nước ngoài trái với các nguyên tắc cơ bản của pháp luật Việt Nam.
+ENTITY,E42_1,VB_THAY_THE,Văn bản thay thế,reference,18844,18910,Nghị quyết số 32/2004/QH11 Về việc thi hành Bộ luật Tố tụng dân sự
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E14_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_2,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_3,E38_5,,
+RELATION,R22_9,THUOC,Thuộc,E39_4,E38_5,,
+RELATION,R22_10,THUOC,Thuộc,E39_5,E38_5,,
+RELATION,R22_11,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_12,THUOC,Thuộc,E39_6,E38_6,,
+RELATION,R22_13,THUOC,Thuộc,E39_7,E38_6,,
+RELATION,R22_14,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_15,THUOC,Thuộc,E38_8,E35_1,,
+RELATION,R22_16,THUOC,Thuộc,E38_9,E35_1,,
+RELATION,R22_17,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_18,THUOC,Thuộc,E39_8,E38_10,,
+RELATION,R22_19,THUOC,Thuộc,E39_9,E38_10,,
+RELATION,R22_20,THUOC,Thuộc,E40_1,E39_9,,
+RELATION,R22_21,THUOC,Thuộc,E40_2,E39_9,,
+RELATION,R22_22,THUOC,Thuộc,E40_3,E39_9,,
+RELATION,R22_23,THUOC,Thuộc,E39_10,E38_10,,
+RELATION,R22_24,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_25,THUOC,Thuộc,E39_11,E38_11,,
+RELATION,R22_26,THUOC,Thuộc,E40_4,E39_11,,
+RELATION,R22_27,THUOC,Thuộc,E40_5,E39_11,,
+RELATION,R22_28,THUOC,Thuộc,E39_12,E38_11,,
+RELATION,R22_29,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_30,THUOC,Thuộc,E39_13,E38_12,,
+RELATION,R22_31,THUOC,Thuộc,E39_14,E38_12,,
+RELATION,R22_32,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_33,THUOC,Thuộc,E39_15,E38_13,,
+RELATION,R22_34,THUOC,Thuộc,E39_16,E38_13,,
+RELATION,R22_35,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_36,THUOC,Thuộc,E39_17,E38_14,,
+RELATION,R22_37,THUOC,Thuộc,E40_6,E39_17,,
+RELATION,R22_38,THUOC,Thuộc,E40_7,E39_17,,
+RELATION,R22_39,THUOC,Thuộc,E40_8,E39_17,,
+RELATION,R22_40,THUOC,Thuộc,E40_9,E39_17,,
+RELATION,R22_41,THUOC,Thuộc,E40_10,E39_17,,
+RELATION,R22_42,THUOC,Thuộc,E39_18,E38_14,,
+RELATION,R22_43,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_44,THUOC,Thuộc,E39_19,E38_15,,
+RELATION,R22_45,THUOC,Thuộc,E39_20,E38_15,,
+RELATION,R22_46,THUOC,Thuộc,E39_21,E38_15,,
+RELATION,R22_47,THUOC,Thuộc,E39_22,E38_15,,
+RELATION,R22_48,THUOC,Thuộc,E39_23,E38_15,,
+RELATION,R22_49,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,R22_50,THUOC,Thuộc,E39_24,E38_16,,
+RELATION,R22_51,THUOC,Thuộc,E40_11,E39_24,,
+RELATION,R22_52,THUOC,Thuộc,E40_12,E39_24,,
+RELATION,R22_53,THUOC,Thuộc,E40_13,E39_24,,
+RELATION,R22_54,THUOC,Thuộc,E40_14,E39_24,,
+RELATION,R22_55,THUOC,Thuộc,E40_15,E39_24,,
+RELATION,R22_56,THUOC,Thuộc,E40_16,E39_24,,
+RELATION,R22_57,THUOC,Thuộc,E39_25,E38_16,,
+RELATION,R22_58,THUOC,Thuộc,E40_17,E39_25,,
+RELATION,R22_59,THUOC,Thuộc,E40_18,E39_25,,
+RELATION,R22_60,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_61,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,R22_62,THUOC,Thuộc,E39_26,E38_18,,
+RELATION,R22_63,THUOC,Thuộc,E39_27,E38_18,,
+RELATION,R22_64,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,R22_65,THUOC,Thuộc,E39_28,E38_19,,
+RELATION,R22_66,THUOC,Thuộc,E39_29,E38_19,,
+RELATION,R22_67,THUOC,Thuộc,E39_30,E38_19,,
+RELATION,R22_68,THUOC,Thuộc,E38_20,E35_2,,
+RELATION,R22_69,THUOC,Thuộc,E39_31,E38_20,,
+RELATION,R22_70,THUOC,Thuộc,E39_32,E38_20,,
+RELATION,R22_71,THUOC,Thuộc,E39_33,E38_20,,
+RELATION,R22_72,THUOC,Thuộc,E39_34,E38_20,,
+RELATION,R22_73,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,R22_74,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,R22_75,THUOC,Thuộc,E38_23,E35_3,,
+RELATION,R22_76,THUOC,Thuộc,E38_24,E35_3,,
+RELATION,R24_1,THAY_THE,Thay thế,E42_1,E2_1,,

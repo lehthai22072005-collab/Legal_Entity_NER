@@ -1,0 +1,19 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,42,Lệnh số 33/2005/L-CTN Về việc công bố Luật
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,33/2005/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,841,851,2005-12-12
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,809,823,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,872,882,2006-02-22
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,906,918,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,43,56,CHỦ TỊCH NƯỚC
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,43,51,CHỦ TỊCH
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,730,744,Trần Đức Lương
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,938,990,Luật Ban hành Văn bản quy phạm pháp luật số Không số
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1010,1056,"Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)"
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1076,1113,Luật Tổ chức Quốc hội số 30/2001/QH10
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,1140,1173,Luật Doanh nghiệp số 60/2005/QH11
+RELATION,RCAN_CU_BAN_HANH_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_1,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_2,E2_1,,
+RELATION,RCAN_CU_BAN_HANH_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E19_3,E2_1,,
+RELATION,RDUOC_DAN_CHIEU_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E18_1,E2_1,,

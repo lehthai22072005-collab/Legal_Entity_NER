@@ -1,0 +1,12 @@
+﻿"NHÓM (ENTITY / RELATION)","ID","CODE","LABEL","SCOPE / FROM_ID","START / TO_ID","END","TEXT"
+"ENTITY","E1_1","TEN_VAN_BAN","Tên văn bản","metadata","63","138","HƯỚNG DẪN HOẠT ĐỘNG CỦA CÁC ĐỘI KIỂM TRA
+CHỐNG THẤT THU NSNN TRONG NĂM 1991"
+"ENTITY","E2_1","SO_HIEU","Số hiệu","metadata","29","38","01-TC/TCT"
+"ENTITY","E3_1","LOAI_VAN_BAN","Loại văn bản","metadata","0","8","THÔNG TƯ"
+"ENTITY","E4_1","NGANH","Ngành","metadata","9255","9287","Lao động - Thương binh và Xã hội"
+"ENTITY","E5_1","NGAY_BAN_HANH","Ngày ban hành","metadata","9235","9245","1991-01-01"
+"ENTITY","E6_1","LINH_VUC","Lĩnh vực","metadata","9300","9314","Chưa phân loại"
+"ENTITY","E7_1","NGAY_CO_HIEU_LUC","Ngày có hiệu lực","metadata","9335","9345","1990-12-31"
+"ENTITY","E9_1","TINH_TRANG_HIEU_LUC","Tình trạng hiệu lực","metadata","9369","9381","Còn hiệu lực"
+"ENTITY","E10_1","CO_QUAN_BAN_HANH","Cơ quan ban hành","metadata","13","25","BỘ TÀI CHÍNH"
+"ENTITY","E12_1","NGUOI_KY","Người ký","metadata","9394","9407","Phan Văn Dĩnh"

@@ -1,0 +1,171 @@
+{
+  "status": "PREPARED_NOT_TRAINED",
+  "raw_json_exports_including_local_fallback": 385,
+  "usable_unique_documents": 369,
+  "excluded_documents": 2,
+  "duplicates": 14,
+  "counts": {
+    "train": {
+      "documents": 314,
+      "characters": 8029392,
+      "entities": 41597,
+      "forms": {
+        "bo_luat": 15,
+        "lenh": 78,
+        "luat": 65,
+        "nghi_dinh": 10,
+        "nghi_quyet": 51,
+        "phap_lenh": 35,
+        "thong_tu": 60
+      },
+      "per_label": {
+        "Tên văn bản": 316,
+        "Số hiệu": 314,
+        "Loại văn bản": 313,
+        "Ngành": 7,
+        "Ngày ban hành": 242,
+        "Lĩnh vực": 4,
+        "Ngày có hiệu lực": 111,
+        "Ngày hết hiệu lực": 1,
+        "Tình trạng hiệu lực": 1,
+        "Cơ quan ban hành": 262,
+        "Chức danh": 204,
+        "Người ký": 188,
+        "Văn bản được hướng dẫn áp dụng": 3,
+        "Văn bản được quy định chi tiết, hướng dẫn thi hành": 40,
+        "Văn bản bị tác động hiệu lực một phần": 42,
+        "Văn bản bị tác động hiệu lực toàn bộ": 16,
+        "Văn bản được đính chính": 0,
+        "Văn bản được dẫn chiếu": 70,
+        "Căn cứ ban hành": 275,
+        "Văn bản được giải thích": 0,
+        "Văn bản bị đình chỉ thi hành": 0,
+        "Văn bản bị tạm ngưng/ gia hạn/ công bố tiếp tục còn hiệu lực": 0,
+        "Văn bản hướng dẫn áp dụng": 0,
+        "Văn bản quy định chi tiết, hướng dẫn thi hành": 1,
+        "Văn bản quy định về việc hết hiệu lực một phần": 1,
+        "Văn bản quy định về việc hết hiệu lực toàn bộ": 0,
+        "Văn bản hợp nhất": 0,
+        "Văn bản đính chính": 0,
+        "Văn bản dẫn chiếu": 4,
+        "Văn bản áp dụng": 0,
+        "Văn bản giải thích": 0,
+        "Văn bản đình chỉ thi hành": 0,
+        "Văn bản quy định tạm ngưng/ gia hạn/ công bố tiếp tục còn hiệu lực": 0,
+        "Phần": 86,
+        "Chương": 837,
+        "Mục": 743,
+        "Tiểu Mục": 23,
+        "Điều": 9249,
+        "Khoản": 18518,
+        "Điểm": 9726
+      }
+    },
+    "validation": {
+      "documents": 55,
+      "characters": 1402664,
+      "entities": 7480,
+      "forms": {
+        "bo_luat": 2,
+        "lenh": 12,
+        "luat": 12,
+        "nghi_dinh": 2,
+        "nghi_quyet": 9,
+        "phap_lenh": 7,
+        "thong_tu": 11
+      },
+      "per_label": {
+        "Tên văn bản": 54,
+        "Số hiệu": 55,
+        "Loại văn bản": 55,
+        "Ngành": 1,
+        "Ngày ban hành": 43,
+        "Lĩnh vực": 1,
+        "Ngày có hiệu lực": 15,
+        "Ngày hết hiệu lực": 0,
+        "Tình trạng hiệu lực": 0,
+        "Cơ quan ban hành": 46,
+        "Chức danh": 34,
+        "Người ký": 34,
+        "Văn bản được hướng dẫn áp dụng": 1,
+        "Văn bản được quy định chi tiết, hướng dẫn thi hành": 1,
+        "Văn bản bị tác động hiệu lực một phần": 5,
+        "Văn bản bị tác động hiệu lực toàn bộ": 0,
+        "Văn bản được đính chính": 0,
+        "Văn bản được dẫn chiếu": 6,
+        "Căn cứ ban hành": 32,
+        "Văn bản được giải thích": 0,
+        "Văn bản bị đình chỉ thi hành": 0,
+        "Văn bản bị tạm ngưng/ gia hạn/ công bố tiếp tục còn hiệu lực": 0,
+        "Văn bản hướng dẫn áp dụng": 0,
+        "Văn bản quy định chi tiết, hướng dẫn thi hành": 0,
+        "Văn bản quy định về việc hết hiệu lực một phần": 0,
+        "Văn bản quy định về việc hết hiệu lực toàn bộ": 0,
+        "Văn bản hợp nhất": 0,
+        "Văn bản đính chính": 0,
+        "Văn bản dẫn chiếu": 0,
+        "Văn bản áp dụng": 0,
+        "Văn bản giải thích": 0,
+        "Văn bản đình chỉ thi hành": 0,
+        "Văn bản quy định tạm ngưng/ gia hạn/ công bố tiếp tục còn hiệu lực": 0,
+        "Phần": 28,
+        "Chương": 126,
+        "Mục": 109,
+        "Tiểu Mục": 0,
+        "Điều": 1479,
+        "Khoản": 3445,
+        "Điểm": 1910
+      }
+    }
+  },
+  "excluded_entity_counts": {
+    "supplemental_entities_excluded": 10215,
+    "documents_using_exported_word_body_without_physical_docx": 152
+  },
+  "unknown_label_cases": 15,
+  "offset_projections": 160,
+  "raw_unchanged": true,
+  "independent_test": false,
+  "longest_documents": [
+    [
+      554175,
+      "100_2015_QH13_96122"
+    ],
+    [
+      516353,
+      "101_2015_QH13_96172"
+    ],
+    [
+      494242,
+      "92_2015_QH13_96115"
+    ],
+    [
+      403775,
+      "Khong_so_9683"
+    ],
+    [
+      369976,
+      "33_2005_QH11_18128"
+    ],
+    [
+      367944,
+      "91_2015_QH13_95942"
+    ],
+    [
+      285065,
+      "99_2026_NĐ-CP_c57fc5e0-5b07-11f1-8b42-a1795e08475f"
+    ],
+    [
+      283446,
+      "24_2004_QH11_19482"
+    ],
+    [
+      267910,
+      "95_2015_QH13_96117"
+    ],
+    [
+      257085,
+      "19_2003_QH11_19411"
+    ]
+  ]
+}

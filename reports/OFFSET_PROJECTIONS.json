@@ -1,0 +1,2082 @@
+[
+  {
+    "document_id": "Khong_so_1564",
+    "entity_id": "E12_1",
+    "old": [
+      1127,
+      1139
+    ],
+    "new": [
+      1128,
+      1140
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E12_1",
+    "old": [
+      13306,
+      13318
+    ],
+    "new": [
+      13309,
+      13321
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E36_1",
+    "old": [
+      873,
+      946
+    ],
+    "new": [
+      874,
+      947
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E36_2",
+    "old": [
+      1598,
+      1625
+    ],
+    "new": [
+      1599,
+      1626
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E36_3",
+    "old": [
+      10460,
+      10482
+    ],
+    "new": [
+      10461,
+      10483
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_1",
+    "old": [
+      947,
+      953
+    ],
+    "new": [
+      948,
+      954
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_2",
+    "old": [
+      1242,
+      1248
+    ],
+    "new": [
+      1243,
+      1249
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_3",
+    "old": [
+      1626,
+      1647
+    ],
+    "new": [
+      1627,
+      1648
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_4",
+    "old": [
+      1919,
+      1973
+    ],
+    "new": [
+      1920,
+      1974
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_5",
+    "old": [
+      2487,
+      2508
+    ],
+    "new": [
+      2488,
+      2509
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_6",
+    "old": [
+      3353,
+      3390
+    ],
+    "new": [
+      3354,
+      3391
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_7",
+    "old": [
+      3779,
+      3799
+    ],
+    "new": [
+      3780,
+      3800
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_8",
+    "old": [
+      4146,
+      4171
+    ],
+    "new": [
+      4147,
+      4172
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_9",
+    "old": [
+      4612,
+      4692
+    ],
+    "new": [
+      4613,
+      4693
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_10",
+    "old": [
+      5090,
+      5097
+    ],
+    "new": [
+      5091,
+      5098
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_11",
+    "old": [
+      5721,
+      5742
+    ],
+    "new": [
+      5722,
+      5743
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_12",
+    "old": [
+      7019,
+      7063
+    ],
+    "new": [
+      7020,
+      7064
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_13",
+    "old": [
+      8006,
+      8013
+    ],
+    "new": [
+      8007,
+      8014
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_14",
+    "old": [
+      8721,
+      8758
+    ],
+    "new": [
+      8722,
+      8759
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_15",
+    "old": [
+      9094,
+      9134
+    ],
+    "new": [
+      9095,
+      9135
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_16",
+    "old": [
+      9747,
+      9826
+    ],
+    "new": [
+      9748,
+      9827
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_17",
+    "old": [
+      10216,
+      10260
+    ],
+    "new": [
+      10217,
+      10261
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_18",
+    "old": [
+      10483,
+      10505
+    ],
+    "new": [
+      10484,
+      10506
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_19",
+    "old": [
+      11248,
+      11255
+    ],
+    "new": [
+      11249,
+      11256
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_20",
+    "old": [
+      12015,
+      12022
+    ],
+    "new": [
+      12016,
+      12023
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_21",
+    "old": [
+      12744,
+      12780
+    ],
+    "new": [
+      12745,
+      12781
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E38_22",
+    "old": [
+      12919,
+      12950
+    ],
+    "new": [
+      12920,
+      12951
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_1",
+    "old": [
+      2534,
+      2730
+    ],
+    "new": [
+      2535,
+      2731
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_2",
+    "old": [
+      2731,
+      2846
+    ],
+    "new": [
+      2732,
+      2847
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_3",
+    "old": [
+      2847,
+      2893
+    ],
+    "new": [
+      2848,
+      2894
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_4",
+    "old": [
+      2894,
+      3352
+    ],
+    "new": [
+      2895,
+      3353
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_5",
+    "old": [
+      4693,
+      4814
+    ],
+    "new": [
+      4694,
+      4815
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_6",
+    "old": [
+      4815,
+      5089
+    ],
+    "new": [
+      4816,
+      5090
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_7",
+    "old": [
+      5202,
+      5378
+    ],
+    "new": [
+      5203,
+      5379
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_8",
+    "old": [
+      5379,
+      5556
+    ],
+    "new": [
+      5380,
+      5557
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_9",
+    "old": [
+      5557,
+      5720
+    ],
+    "new": [
+      5558,
+      5721
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_10",
+    "old": [
+      5798,
+      5983
+    ],
+    "new": [
+      5799,
+      5984
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_11",
+    "old": [
+      5984,
+      6178
+    ],
+    "new": [
+      5985,
+      6179
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_12",
+    "old": [
+      6179,
+      6277
+    ],
+    "new": [
+      6180,
+      6278
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_13",
+    "old": [
+      6278,
+      6412
+    ],
+    "new": [
+      6279,
+      6413
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_14",
+    "old": [
+      6413,
+      6478
+    ],
+    "new": [
+      6414,
+      6479
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_15",
+    "old": [
+      6479,
+      6697
+    ],
+    "new": [
+      6480,
+      6698
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_16",
+    "old": [
+      6698,
+      7018
+    ],
+    "new": [
+      6699,
+      7019
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_17",
+    "old": [
+      7158,
+      7464
+    ],
+    "new": [
+      7159,
+      7465
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_18",
+    "old": [
+      7465,
+      7583
+    ],
+    "new": [
+      7466,
+      7584
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_19",
+    "old": [
+      7584,
+      8005
+    ],
+    "new": [
+      7585,
+      8006
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_20",
+    "old": [
+      8099,
+      8277
+    ],
+    "new": [
+      8100,
+      8278
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_21",
+    "old": [
+      8278,
+      8499
+    ],
+    "new": [
+      8279,
+      8500
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_22",
+    "old": [
+      8500,
+      8720
+    ],
+    "new": [
+      8501,
+      8721
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_23",
+    "old": [
+      8759,
+      8975
+    ],
+    "new": [
+      8760,
+      8976
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_24",
+    "old": [
+      8976,
+      9093
+    ],
+    "new": [
+      8977,
+      9094
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_25",
+    "old": [
+      9190,
+      9289
+    ],
+    "new": [
+      9191,
+      9290
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_26",
+    "old": [
+      9290,
+      9493
+    ],
+    "new": [
+      9291,
+      9494
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_27",
+    "old": [
+      9494,
+      9579
+    ],
+    "new": [
+      9495,
+      9580
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_28",
+    "old": [
+      9580,
+      9746
+    ],
+    "new": [
+      9581,
+      9747
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_29",
+    "old": [
+      10621,
+      10973
+    ],
+    "new": [
+      10622,
+      10974
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_30",
+    "old": [
+      10974,
+      11088
+    ],
+    "new": [
+      10975,
+      11089
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_31",
+    "old": [
+      11089,
+      11247
+    ],
+    "new": [
+      11090,
+      11248
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_32",
+    "old": [
+      11412,
+      11505
+    ],
+    "new": [
+      11413,
+      11506
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_33",
+    "old": [
+      11506,
+      11631
+    ],
+    "new": [
+      11507,
+      11632
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_34",
+    "old": [
+      11632,
+      11671
+    ],
+    "new": [
+      11633,
+      11672
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_35",
+    "old": [
+      11672,
+      11723
+    ],
+    "new": [
+      11673,
+      11724
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_36",
+    "old": [
+      11724,
+      11820
+    ],
+    "new": [
+      11725,
+      11821
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_37",
+    "old": [
+      11821,
+      11871
+    ],
+    "new": [
+      11822,
+      11872
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_38",
+    "old": [
+      11872,
+      11953
+    ],
+    "new": [
+      11873,
+      11954
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_39",
+    "old": [
+      11954,
+      12014
+    ],
+    "new": [
+      11955,
+      12015
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_40",
+    "old": [
+      12229,
+      12296
+    ],
+    "new": [
+      12230,
+      12297
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_41",
+    "old": [
+      12297,
+      12408
+    ],
+    "new": [
+      12298,
+      12409
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_42",
+    "old": [
+      12409,
+      12524
+    ],
+    "new": [
+      12410,
+      12525
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_43",
+    "old": [
+      12525,
+      12581
+    ],
+    "new": [
+      12526,
+      12582
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_44",
+    "old": [
+      12582,
+      12657
+    ],
+    "new": [
+      12583,
+      12658
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_45",
+    "old": [
+      12658,
+      12743
+    ],
+    "new": [
+      12659,
+      12744
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_46",
+    "old": [
+      12951,
+      13068
+    ],
+    "new": [
+      12952,
+      13069
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E39_47",
+    "old": [
+      13069,
+      13318
+    ],
+    "new": [
+      13070,
+      13321
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_1",
+    "old": [
+      2212,
+      2337
+    ],
+    "new": [
+      2213,
+      2338
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_2",
+    "old": [
+      2338,
+      2486
+    ],
+    "new": [
+      2339,
+      2487
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_3",
+    "old": [
+      3110,
+      3265
+    ],
+    "new": [
+      3111,
+      3266
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_4",
+    "old": [
+      3266,
+      3352
+    ],
+    "new": [
+      3267,
+      3353
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_5",
+    "old": [
+      3493,
+      3613
+    ],
+    "new": [
+      3494,
+      3614
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_6",
+    "old": [
+      3614,
+      3673
+    ],
+    "new": [
+      3615,
+      3674
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_7",
+    "old": [
+      3674,
+      3778
+    ],
+    "new": [
+      3675,
+      3779
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_8",
+    "old": [
+      3936,
+      4086
+    ],
+    "new": [
+      3937,
+      4087
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_9",
+    "old": [
+      4087,
+      4145
+    ],
+    "new": [
+      4088,
+      4146
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_10",
+    "old": [
+      4435,
+      4551
+    ],
+    "new": [
+      4436,
+      4552
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_11",
+    "old": [
+      4552,
+      4611
+    ],
+    "new": [
+      4553,
+      4612
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_12",
+    "old": [
+      9955,
+      10156
+    ],
+    "new": [
+      9956,
+      10157
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_13",
+    "old": [
+      10157,
+      10215
+    ],
+    "new": [
+      10158,
+      10216
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_14",
+    "old": [
+      10756,
+      10782
+    ],
+    "new": [
+      10757,
+      10783
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_15",
+    "old": [
+      10783,
+      10878
+    ],
+    "new": [
+      10784,
+      10879
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_25395",
+    "entity_id": "E40_16",
+    "old": [
+      10879,
+      10973
+    ],
+    "new": [
+      10880,
+      10974
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E11_1",
+    "old": [
+      12896,
+      12904
+    ],
+    "new": [
+      12905,
+      12913
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E12_1",
+    "old": [
+      12913,
+      12926
+    ],
+    "new": [
+      12922,
+      12935
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E35_1",
+    "old": [
+      928,
+      956
+    ],
+    "new": [
+      928,
+      957
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E35_2",
+    "old": [
+      2475,
+      2575
+    ],
+    "new": [
+      2476,
+      2577
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E35_3",
+    "old": [
+      7727,
+      7861
+    ],
+    "new": [
+      7731,
+      7866
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E35_4",
+    "old": [
+      11743,
+      11878
+    ],
+    "new": [
+      11750,
+      11886
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E35_5",
+    "old": [
+      12676,
+      12703
+    ],
+    "new": [
+      12684,
+      12712
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E36_1",
+    "old": [
+      2576,
+      2647
+    ],
+    "new": [
+      2578,
+      2650
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E36_2",
+    "old": [
+      4842,
+      4914
+    ],
+    "new": [
+      4845,
+      4918
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E36_3",
+    "old": [
+      7862,
+      7956
+    ],
+    "new": [
+      7867,
+      7962
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E36_4",
+    "old": [
+      9255,
+      9359
+    ],
+    "new": [
+      9261,
+      9366
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_1",
+    "old": [
+      957,
+      963
+    ],
+    "new": [
+      958,
+      964
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_2",
+    "old": [
+      1210,
+      1216
+    ],
+    "new": [
+      1211,
+      1217
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_3",
+    "old": [
+      1410,
+      1416
+    ],
+    "new": [
+      1411,
+      1417
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_4",
+    "old": [
+      1615,
+      1621
+    ],
+    "new": [
+      1616,
+      1622
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_5",
+    "old": [
+      1842,
+      1848
+    ],
+    "new": [
+      1843,
+      1849
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_6",
+    "old": [
+      2239,
+      2245
+    ],
+    "new": [
+      2240,
+      2246
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_7",
+    "old": [
+      2648,
+      2654
+    ],
+    "new": [
+      2651,
+      2657
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_8",
+    "old": [
+      2883,
+      2889
+    ],
+    "new": [
+      2886,
+      2892
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_9",
+    "old": [
+      3349,
+      3355
+    ],
+    "new": [
+      3352,
+      3358
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_10",
+    "old": [
+      3593,
+      3600
+    ],
+    "new": [
+      3596,
+      3603
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_11",
+    "old": [
+      3924,
+      3931
+    ],
+    "new": [
+      3927,
+      3934
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_12",
+    "old": [
+      4369,
+      4376
+    ],
+    "new": [
+      4372,
+      4379
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_13",
+    "old": [
+      4915,
+      4922
+    ],
+    "new": [
+      4919,
+      4926
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_14",
+    "old": [
+      5015,
+      5022
+    ],
+    "new": [
+      5019,
+      5026
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_15",
+    "old": [
+      5338,
+      5345
+    ],
+    "new": [
+      5342,
+      5349
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_16",
+    "old": [
+      6120,
+      6127
+    ],
+    "new": [
+      6124,
+      6131
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_17",
+    "old": [
+      6710,
+      6717
+    ],
+    "new": [
+      6714,
+      6721
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_18",
+    "old": [
+      7075,
+      7082
+    ],
+    "new": [
+      7079,
+      7086
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_19",
+    "old": [
+      7957,
+      7964
+    ],
+    "new": [
+      7963,
+      7970
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_20",
+    "old": [
+      8154,
+      8161
+    ],
+    "new": [
+      8160,
+      8167
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_21",
+    "old": [
+      8405,
+      8412
+    ],
+    "new": [
+      8411,
+      8418
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_22",
+    "old": [
+      8647,
+      8654
+    ],
+    "new": [
+      8653,
+      8660
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_23",
+    "old": [
+      8992,
+      8999
+    ],
+    "new": [
+      8998,
+      9005
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_24",
+    "old": [
+      9360,
+      9367
+    ],
+    "new": [
+      9367,
+      9374
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_25",
+    "old": [
+      9650,
+      9657
+    ],
+    "new": [
+      9657,
+      9664
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_26",
+    "old": [
+      10354,
+      10361
+    ],
+    "new": [
+      10361,
+      10368
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_27",
+    "old": [
+      10883,
+      10890
+    ],
+    "new": [
+      10890,
+      10897
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_28",
+    "old": [
+      11120,
+      11127
+    ],
+    "new": [
+      11127,
+      11134
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_29",
+    "old": [
+      11507,
+      11514
+    ],
+    "new": [
+      11514,
+      11521
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_30",
+    "old": [
+      11879,
+      11886
+    ],
+    "new": [
+      11887,
+      11894
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_31",
+    "old": [
+      12070,
+      12077
+    ],
+    "new": [
+      12078,
+      12085
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_32",
+    "old": [
+      12364,
+      12371
+    ],
+    "new": [
+      12372,
+      12379
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E38_33",
+    "old": [
+      12704,
+      12711
+    ],
+    "new": [
+      12713,
+      12720
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_1",
+    "old": [
+      2985,
+      3048
+    ],
+    "new": [
+      2988,
+      3051
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_2",
+    "old": [
+      3049,
+      3089
+    ],
+    "new": [
+      3052,
+      3092
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_3",
+    "old": [
+      3090,
+      3199
+    ],
+    "new": [
+      3093,
+      3202
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_4",
+    "old": [
+      3200,
+      3348
+    ],
+    "new": [
+      3203,
+      3351
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_5",
+    "old": [
+      5106,
+      5229
+    ],
+    "new": [
+      5110,
+      5233
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_6",
+    "old": [
+      5230,
+      5284
+    ],
+    "new": [
+      5234,
+      5288
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_7",
+    "old": [
+      5285,
+      5337
+    ],
+    "new": [
+      5289,
+      5341
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_8",
+    "old": [
+      5561,
+      5650
+    ],
+    "new": [
+      5565,
+      5654
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_9",
+    "old": [
+      5651,
+      5777
+    ],
+    "new": [
+      5655,
+      5781
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_10",
+    "old": [
+      5778,
+      5844
+    ],
+    "new": [
+      5782,
+      5848
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_11",
+    "old": [
+      5845,
+      6046
+    ],
+    "new": [
+      5849,
+      6050
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_12",
+    "old": [
+      6047,
+      6119
+    ],
+    "new": [
+      6051,
+      6123
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_13",
+    "old": [
+      6280,
+      6369
+    ],
+    "new": [
+      6284,
+      6373
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_14",
+    "old": [
+      6370,
+      6434
+    ],
+    "new": [
+      6374,
+      6438
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_15",
+    "old": [
+      6435,
+      6636
+    ],
+    "new": [
+      6439,
+      6640
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_16",
+    "old": [
+      6637,
+      6709
+    ],
+    "new": [
+      6641,
+      6713
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_17",
+    "old": [
+      6852,
+      6917
+    ],
+    "new": [
+      6856,
+      6921
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_18",
+    "old": [
+      6918,
+      7001
+    ],
+    "new": [
+      6922,
+      7005
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_19",
+    "old": [
+      7002,
+      7074
+    ],
+    "new": [
+      7006,
+      7078
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_20",
+    "old": [
+      7200,
+      7468
+    ],
+    "new": [
+      7204,
+      7472
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_21",
+    "old": [
+      7469,
+      7653
+    ],
+    "new": [
+      7473,
+      7657
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_22",
+    "old": [
+      7654,
+      7726
+    ],
+    "new": [
+      7658,
+      7730
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_23",
+    "old": [
+      10490,
+      10553
+    ],
+    "new": [
+      10497,
+      10560
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_24",
+    "old": [
+      10554,
+      10594
+    ],
+    "new": [
+      10561,
+      10601
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_25",
+    "old": [
+      10595,
+      10687
+    ],
+    "new": [
+      10602,
+      10694
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  },
+  {
+    "document_id": "Khong_so_9429",
+    "entity_id": "E39_26",
+    "old": [
+      10688,
+      10882
+    ],
+    "new": [
+      10695,
+      10889
+    ],
+    "reason": "Whitespace-only alignment; source words unchanged"
+  }
+]

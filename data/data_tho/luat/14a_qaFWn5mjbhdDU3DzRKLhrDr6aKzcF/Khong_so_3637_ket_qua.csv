@@ -1,0 +1,1039 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,61,Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân số Không số
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,53,61,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,35282,35306,ngày 30 tháng 6 năm 1983
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,35372,35386,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,35407,35417,1983-06-30
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,35439,35449,1989-07-11
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,35473,35493,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,35514,35522,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,35536,35553,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,35566,35580,Nguyễn Hữu Thọ
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,35673,35691,Hiến pháp năm 1980
+ENTITY,E16_1,VB_BI_TAC_DONG_HIEU_LUC_TOAN_BO,Văn bản bị tác động hiệu lực toàn bộ,reference,35732,35810,Luật Tổ chức Hội đồng nhân dân và Uỷ ban hành chính các cấp số Số hiệu: 51/LCT
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,35600,35618,Hiến pháp năm 1980
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,75581,75646,Luật Tổ chức Hội đồng nhân dân và Uỷ ban nhân dân số 19/LCT/HĐNN8
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,35830,35915,Quyết định số 919/QĐ-UB Về việc kiện toàn tổ chức cục Thống kê thành phố Hồ Chí Minh.
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,35935,36088,Quyết định số 112/QĐ-UB Thành lập ban chỉ đạo kiểm tra việc tang trữ buôn bán lâm sản không phép trên địa bàn thành phố và việc phá rừng huyện Duyên Hải.
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,36108,36236,Quyết định số 150/QĐ-UB Về việc ban hành tiêu chuẩn địa phương về: Bột nêm hỗn hợp Phương pháp thử vi sinh Ký hiệu 53 TCV 136-88
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,36256,36420,Quyết định số 82/QĐ-UB/TC Về việc sát nhập Trường quản lý kinh tế và Trung tâm đào tạo bồi dưỡng tại chức thành Trung tâm đào tạo - bồi dưỡng tại chức tỉnh Lâm Đồng
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,36440,36580,"Quyết định số 363/QĐ-UB Về việc ban hành tiêu chuẩn địa phương về bánh dẻo, ký hiệu 53 TCV 143-88, bánh in không nhân, ký hiệu 53 TCV 144-88"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,36600,36683,Quyết định số 422/QĐ-UB Về việc Ban hành 02 Tiêu chuẩn Địa phương về Kem đánh răng.
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,36703,36815,Quyết định số 47/QĐ-UB Ban hành bản quy định về huy động và sử dụng ngày công lao động xã hội chủ nghĩa năm 1988
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,36835,36943,"Quyết định số 12/QĐ-UB Về việc ban hành quy định về tổ chức và hoạt động của phòng (tổ) vật giá Quận, Huyện."
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,36963,37056,"Quyết định số 201/QĐ-UB Về việc tổ chức bộ máy quản lý thị trường cấp thành phố, quận, huyện."
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,37076,37288,"Quyết định số 60/QĐ-UB Ban hành quy định về việc tiếp tục bán giá nhà cấp 3, 4 thuộc quyền sở hữu của Nhà nước tại TP Hồ Chí Minh cho cán bộ, công nhân viên, gia đình chính sách và nhân dân lao động đang sử dụng."
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,37308,37393,Quyết định số 37/QĐ-UB Về việc Phê duyệt và Ban hành Quy hoạch tổng thể huyện Nhà Bè.
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,37413,37565,"Quyết định số 79/QĐ-UB Về việc ban hành bản quy định tạm thời về cải tạo, tổ chức và quản lý thị trường mặt hàng thủy hải sản xuất khẩu trên địa bàn TP."
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,37585,37673,Quyết định số 43/QĐ-UB Về việc tổ chức thu đổi ngoại tệ trôi nổi trên địa bàn thành phố.
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,37693,37816,"Quyết định số 228/QĐ-UB Về việc Ban hành quy chế tạm thời về tổ chức nhà trẻ dân lập, nhóm trẻ gia đình và mẫu giáo dân lập"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,37836,38014,"Quyết định số 267/ QĐ - UB Ban hành Quy chế tạm thời về tổ chức và hoạt động của hội đồng khoa học kỹ thuật của sở ban, ngành , huyện thị và các cơ sở sản xuất trong tỉnh Bến Tre"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,38034,38138,"Quyết định số 1166/UB-QĐ V/v quy định chế độ định mức sinh hoạt
+phí cho cán bộ xã, phường và tương đương"
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,38158,38228,Quyết định số 429/UB-QĐ Về việc giao chỉ tiêu chính thức kế hoạch 1985
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,38248,38426,"Quyết định số 356/UB-QĐ “Về việc ban hành bản qui định tạm thời về quản lý việc thăm dò,
+ khai thác, sử dụng và bảo vệ nguồn nước dưới đất (nước ngầm) 
+trên địa bàn tỉnh Bến Tre”"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,38446,38550,Quyết định số 61/2002/QĐ-UBND V/v Ban hành Quy chê ủy thác cho vay vốn đầu tư phát triển tỉnh Bình Phước
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,38570,38682,Quyết định số 193/QĐ-UB Về việc công nhận ban chủ nhiệm liên hiệp xã tiểu công nghiệp thủ công nghiệp thành phố.
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,38702,38790,Quyết định số 139/QĐ-UB Về việc ban hành hệ số trượt giá vật liệu trong xây dựng cơ bản.
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,38810,38934,Quyết định số 1632-QĐ/UB Cho phép chuyển dịch hợp đồng thuê nhà ở thuộc quyền sở hữu Nhà nước hiện do ngành Xây dựng quản lý
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,38954,39073,Quyết định số 204/QĐ-UB Về việc cấp kinh phí và vật tư xây dựng cơ sở vật chất kỹ thuật cho các hợp tác xã nông nghiệp.
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,39093,39203,"Quyết định số 162/QĐ-UB Về việc điều chỉnh giá biểu thu lệ phí khai thác đất công, chợ, bến, cảng ở thành phố."
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,39223,39340,"Quyết định số 351/QĐ-UB Về việc thống nhất quản lý các loại thu lệ phí, phụ phí, phạt vi cảnh trên địa bàn thành phố."
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,39360,39444,Quyết định số 338/QĐ-UB/TC Về việc Thành lập Trường Bổ túc Văn hóa thành phố Đà Lạt.
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,39464,39564,Quyết định số 257/UB-QĐ về việc ban hành Quy định tạm thời chế độ đối với nghĩa vụ lao động bắt buộc
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,39584,39694,Quyết định số 226/QĐ-UB Về việc điều chỉnh mức thu tiền thay công lao động nghĩa vụ xã hội chủ nghĩa năm 1988.
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,39714,39828,Quyết định số 235/QĐ-UB Ban hành quy định tạm thời về tổ chức sản xuất và kinh doanh ngành may sẵn TP.Hồ Chí Minh.
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,39848,40018,Quyết định số 223/QĐ-UB Về việc ban hành tiêu chuẩn địa phương về: bơm nước- yêu cầu kỹ thuật- ký hiệu 53 TCV 132 – 87 bơm nước- phương pháp thử - ký hiệu 53 TCV 133 – 87
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,40038,40154,Quyết định số 216/QĐ-UB Về việc điều chỉnh xuất miễn thu để tính thuế lợi tức doanh nghiệp khu vực sản xuất TCN-TCN.
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,40174,40298,"Quyết định số 389/QĐ-UB Về việc ban hành 6 tiêu chuẩn địa phương về sản phẩm điện, ký hiệu từ 53TVC 178-88 đến 53 TVC 183-88"
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,40318,40580,"Quyết định số 303/QĐ-UB Về việc điều chỉnh, bổ sung và sửa đổi quyết định số 119/QĐ-UB ngày 8-5-1988 của UBND thành phố quy định giá biểu thu tiền thuê nhà làm việc hành chánh, sản xuất, kinh doanh và nhà ở thuộc diện Nhà nước quản lý tại thành phố Hồ Chí Mi nh."
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,40600,40740,Quyết định số 224/QĐ-UB Về việc ban hành tiêu chuẩn địa phương về: dây đồng hồ đeo tay bằng kim loại kiểu khóa bấm – ký hiệu 53 TCV 129 - 87
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,40760,40958,"Quyết định số 140/QĐ-UB Ban hành “Quy định tạm thời về việc bán nhà đang sử dụng (nhà cấp 3, cấp 4) thuộc diện nhà nước quản lý cho cán bộ, cnv và nhân dân lao động nghèo tại thành phố Hồ Chí Minh”."
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,40978,41094,Quyết định số 246/QĐ-UB Ban hành quy định về cải tạo tổ chức sản xuất và quản lý kinh doanh ngành mỹ phẩm thành phố.
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,41114,41258,"Quyết định số 441/QĐ-UB Về việc giao đất, giao rừng cho các đơn vị quốc doanh, tập thể, hộ nhân dân trồng cây, gây rừng và chăm sóc bảo vệ rừng."
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,41278,41370,Quyết định số 169/QĐ-UB Về việc thành lập ban xử lý và kiểm tra xử lý vật tư tồn kho ứ đọng.
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,41390,41467,"Quyết định số 48/QĐ-UB Về việc ban hành quy chế về công tác công văn, giấy tờ"
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,41487,41601,Quyết định số 72/QĐ-UB Về việc thành lập Ban Chỉ đạo thực hiện Chỉ thị số 118/CT ngày 23-4-1988 của Chủ tịch HĐBT.
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,41621,41778,"Quyết định số 229/QĐ-UB Ban hành quy định về phạt vi cảnh đối với các vi phạm về trật tự an toàn xã hội, nếp sống văn minh và vệ sinh ở thành phố Hồ Chí Minh"
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,41798,41889,Quyết định số 1732/QĐ-UB Về việc ban hành quy định phân cấp quản lý toàn diện cho cấp huyện
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,41909,41986,Quyết định số 420/QĐ-UB Về việc ban hành Tiêu chuẩn địa phương về NƯỚC TƯƠNG.
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,42006,42104,"Quyết định số 577/QĐ-UB/85 “V/v ban hành bản quy chế làm việc của
+ Văn phòng Uỷ ban nhân dân tỉnh”"
+ENTITY,E30_45,VB_AP_DUNG,Văn bản áp dụng,reference,42124,42241,Quyết định số 55/QĐ-UB Về việc Ban hành Quy định về chế độ quản lý và xử lý vi phạm về kỷ luật giá ở TP. Hồ Chí Minh.
+ENTITY,E30_46,VB_AP_DUNG,Văn bản áp dụng,reference,42261,42362,"Quyết định số 28/QĐ-UB Ban hành quy định tạm thời về khai thác, chế biến, cung ứng, sử dụng phế liệu."
+ENTITY,E30_47,VB_AP_DUNG,Văn bản áp dụng,reference,42382,42478,Quyết định số 183/QĐ-UB Ban hành về quy định về sử dụng tư thương trong tổ chức kinh doanh XHCN.
+ENTITY,E30_48,VB_AP_DUNG,Văn bản áp dụng,reference,42498,42572,Quyết định số 1639/QĐ-TCCQ Thành lập Ủy ban thanh niên thành phố Hải Phòng
+ENTITY,E30_49,VB_AP_DUNG,Văn bản áp dụng,reference,42592,42770,Quyết định số 138/QĐ-UB Về việc Ban hành Bản quy định về việc đăng ký kinh doanh đối với các tổ chức kinh tế XHCN hoạt động kinh doanh thương nghiệp trên địa bàn TP. Hồ Chí Minh.
+ENTITY,E30_50,VB_AP_DUNG,Văn bản áp dụng,reference,42790,42873,Quyết định số 172/QĐ-UB/TC Về việc thành lập Chi cục bảo vệ thực vật tỉnh Lâm Đồng.
+ENTITY,E30_51,VB_AP_DUNG,Văn bản áp dụng,reference,42893,42991,Quyết định số 44/QĐ-UB Về việc chuyên chở đối với các loại xe 2 – 3 bánh thô sơ và 3 bánh gắn máy.
+ENTITY,E30_52,VB_AP_DUNG,Văn bản áp dụng,reference,43011,43113,Quyết định số 728/QĐ-UB/TC Về việc thành lập Công an Thị trấn ở một số Thị trấn thuộc huyện trong tỉnh
+ENTITY,E30_53,VB_AP_DUNG,Văn bản áp dụng,reference,43133,43208,Quyết định số 614/QĐ-UB/TC Về việc thành lập Trung tâm Y tế huyện Đơn Dương
+ENTITY,E30_54,VB_AP_DUNG,Văn bản áp dụng,reference,43228,43354,Quyết định số 274/UB-QĐ về việc ban hành bản Quy định tạm thời về hoạt động KD thương nghiệp ăn uống dịch vụ trên địa bàn tỉnh
+ENTITY,E30_55,VB_AP_DUNG,Văn bản áp dụng,reference,43374,43472,Quyết định số 176/QĐ-UB Ban hành quy chế tạm thời về tổ chức quản lý các lớp dạy văn hóa ngoài giờ
+ENTITY,E30_56,VB_AP_DUNG,Văn bản áp dụng,reference,43492,43599,Quyết định số 20/QĐ-UB Về việc ban hành Quy định tạm thời xử lý vi phạm xây dựng tại thành phố Hồ Chí Minh.
+ENTITY,E30_57,VB_AP_DUNG,Văn bản áp dụng,reference,43619,43715,Quyết định số 255/UB-QĐ về việc ban hành Quy định tạm thời chế độ đối với nghĩa vụ lao động XHCN
+ENTITY,E30_58,VB_AP_DUNG,Văn bản áp dụng,reference,43735,43807,Quyết định số 102/QĐ-UB Về việc đặt số hiệu đường bộ thuộc tỉnh Lâm Đồng
+ENTITY,E30_59,VB_AP_DUNG,Văn bản áp dụng,reference,43827,43905,Quyết định số 788/QĐ-UB/TC Về việc thành lập trạm nuôi cấy mô thành phố Đà Lạt
+ENTITY,E30_60,VB_AP_DUNG,Văn bản áp dụng,reference,43925,44077,Quyết định số 245/QĐ-UB về việc ban hành bản Quy định về tổ chức quản lý và một số chính sách khuyến khích sản xuất đối với các loại hộ sản xuất TCN-TCN
+ENTITY,E30_61,VB_AP_DUNG,Văn bản áp dụng,reference,44097,44244,Nghị quyết số 119/HĐ-NQ về việc phê chuẩn báo cáo tình hình kinh tế - xã hội năm 1988 và phương hướng nhiệm vụ phát triển kinh tế - xã hội năm 1989
+ENTITY,E30_62,VB_AP_DUNG,Văn bản áp dụng,reference,44264,44335,Quyết định số 147/QĐ-UB Về việc thành lập trọng tài kinh tế quận huyện.
+ENTITY,E30_63,VB_AP_DUNG,Văn bản áp dụng,reference,44355,44517,"Quyết định số 08/UB-QĐ về việc quy định tạm thời chế độ tiền ăn cho giáo viên giảng dạy các trường chuyên nghiệp, các lớp đào tạo chính quy và tại chức trong tỉnh"
+ENTITY,E30_64,VB_AP_DUNG,Văn bản áp dụng,reference,44537,44670,Quyết định số 08/QĐ-UB Về việc thành lập Hội đồng giám định đầu tư và thẩm tra luận chứng kinh tế kỹ thuật trực thuộc UBND Thành phố.
+ENTITY,E30_65,VB_AP_DUNG,Văn bản áp dụng,reference,44690,44816,Quyết định số 49/QĐ-UB Về việc bãi bỏ các trạm kiểm soát thuế vụ nằm trên các trục giao thông thủy bộ ở Thành phố Hồ Chí Minh.
+ENTITY,E30_66,VB_AP_DUNG,Văn bản áp dụng,reference,44836,44980,"Quyết định số 320/QĐ-UB Ban hành quy định tạm thời về tổ chức quản lý và lưu thông vải sợi, các loại hàng vải may sẵn tại thành phố Hồ Chí Minh."
+ENTITY,E30_67,VB_AP_DUNG,Văn bản áp dụng,reference,45000,45124,Quyết định số 149/QĐ-UB Về việc chấm dứt hoạt động của Ban Xây dựng huyện thành phố và Ban Chỉ đạo xây dựng huyện Duyên Hải.
+ENTITY,E30_68,VB_AP_DUNG,Văn bản áp dụng,reference,45144,45349,Quyết định số 192/QĐ-UB Về việc Ban hành quy định về tổ chức quản lý và vận dụng một số chế độ chánh sách khuyến khích sản xuất đối với khu vực kinh tế tập thể tiểu công nghiệp – thủ công nghiệp thành phố.
+ENTITY,E30_69,VB_AP_DUNG,Văn bản áp dụng,reference,45369,45528,Quyết định số 133/QĐ-UB Về việc Ban hành quy định về việc trú đóng và hoạt động của các đơn vị thuộc Trung ương và tỉnh bạn trên địa bàn thành phố Hồ Chí Minh.
+ENTITY,E30_70,VB_AP_DUNG,Văn bản áp dụng,reference,45548,45671,Quyết định số 616/QĐ-UB Về ban hành quy định thu đảm phụ công ích đối với vàng nhập vào qua cửa khẩu Thành phố Hồ Chí Minh.
+ENTITY,E30_71,VB_AP_DUNG,Văn bản áp dụng,reference,45691,45878,"Quyết định số 273/QĐ-UB Về việc hướng dẫn ban hành quy định tạm thời về xử phạt đối với các loại vi phạm về giữ gìn vệ sinh, trật tự hè phố, công viên và bảo vệ công trình kỹ thuật đô thị"
+ENTITY,E30_72,VB_AP_DUNG,Văn bản áp dụng,reference,45898,45974,Quyết định số 378/QĐ-UB Về việc thành lập Đoàn đặc nhiệm chỉ đạo ngành GTVT.
+ENTITY,E30_73,VB_AP_DUNG,Văn bản áp dụng,reference,45994,46172,"Quyết định số 04/QĐ-UB Về việc ban hành 3 tiêu chuẩn địa phương về: - kéo cắt vải, ký hiệu 53 TCV 80-86 - kìm bấm, ký hiệu 53 TCV 81-86 - dao con thông dụng, ký hiệu 53 TCV 82-86"
+ENTITY,E30_74,VB_AP_DUNG,Văn bản áp dụng,reference,46192,46271,Quyết định số 697/QĐ-UB/TC Về việc thành lập Công an huyện Lâm Hà tỉnh Lâm Đồng
+ENTITY,E30_75,VB_AP_DUNG,Văn bản áp dụng,reference,46291,46349,Quyết định số 41/QĐ Về việc đặt các trạm kiểm soát lâm sản
+ENTITY,E30_76,VB_AP_DUNG,Văn bản áp dụng,reference,46369,46443,Quyết định số 650/QĐ-UB/TC Về việc thành lập Trung tâm Y tế huyện Đạ huoai
+ENTITY,E30_77,VB_AP_DUNG,Văn bản áp dụng,reference,46463,46593,Quyết định số 316/QĐ-UB Về việc ban hành bản quy định về huy động và sử dụng ngày công lao động nghĩa vụ xã hội chủ nghĩa năm 1985
+ENTITY,E30_78,VB_AP_DUNG,Văn bản áp dụng,reference,46613,46731,Quyết định số 198/QĐ-UB Ban hành quy định về kinh doanh và quản lý mặt hàng thịt gia súc trên địa bàn Tp. Hồ Chí Minh.
+ENTITY,E30_79,VB_AP_DUNG,Văn bản áp dụng,reference,46751,46821,Quyết định số 296/QĐ-UB Về thu phí truyền hình trên địa bàn thành phố.
+ENTITY,E30_80,VB_AP_DUNG,Văn bản áp dụng,reference,46841,47021,"Quyết định số 169/QĐ-UB Về việc sửa đổi bổ sung giá biểu tạm thời thu tiền thuê nhà làm việc hành chánh, sản xuất, kinh doanh thuộc diện nhà nước quản lý tại thành phố Hồ Chí Minh."
+ENTITY,E30_81,VB_AP_DUNG,Văn bản áp dụng,reference,47041,47125,Chỉ thị số 16/CT-UB Về việc tăng cường công tác trực cơ quan và bảo vệ tài sản XHCN.
+ENTITY,E30_82,VB_AP_DUNG,Văn bản áp dụng,reference,47145,47256,Quyết định số 148/QĐ-UB Về việc ban hành tiêu chuẩn về bánh phòng tôm – yêu cầu kỹ thuật ký hiệu 53 TCV 65 – 85
+ENTITY,E30_83,VB_AP_DUNG,Văn bản áp dụng,reference,47276,47365,Quyết định số 38/QĐ-UB Về việc Phê duyệt và Ban hành Quy hoạch tổng thể huyện Bình Chánh.
+ENTITY,E30_84,VB_AP_DUNG,Văn bản áp dụng,reference,47385,47469,Quyết định số 38/QĐ-UB/TC Về việc thành lập Hội đồng Giám định pháp y tỉnh Lâm Đồng”
+ENTITY,E30_85,VB_AP_DUNG,Văn bản áp dụng,reference,47489,47638,Quyết định số 303/QĐ-UB/TC Về việc ban hành quy định tạm thời về tổ chức nhiệm vụ quyền hạn và hoạt động của Hội thanh niên xung kích an ninh ở cơ sở
+ENTITY,E30_86,VB_AP_DUNG,Văn bản áp dụng,reference,47658,47787,Nghị quyết số 674/HĐ-NQ về việc phê chuẩn báo cáo quyết toán ngân sách 6 tháng đầu năm và dự toán ngân sách 6 tháng cuối năm 1987
+ENTITY,E30_87,VB_AP_DUNG,Văn bản áp dụng,reference,47807,47963,"Quyết định số 147/QĐ-UB Về việc ban hành hai tiêu chuẩn về chao – yêu cầu kỹ thuật, ký hiệu 53 TCV 64 – 85 – phương pháp thử vi sinh, ký hiệu 53 TCV 70 – 85"
+ENTITY,E30_88,VB_AP_DUNG,Văn bản áp dụng,reference,47983,48066,Quyết định số 422/QĐ-UB Về việc Ban hành 02 Tiêu chuẩn Địa phương về Kem đánh răng.
+ENTITY,E30_89,VB_AP_DUNG,Văn bản áp dụng,reference,48086,48195,Quyết định số 182/QĐ-UB Ban hành quy định tạm thời về tổ chức và quản lý ngành cưa xẻ gỗ tại tp. Hồ Chí Minh.
+ENTITY,E30_90,VB_AP_DUNG,Văn bản áp dụng,reference,48215,48332,Quyết định số 470/QĐ-UB Về việc ban hành quy định về kinh doanh than củi và vật liệu xây dựng trên địa bàn thành phố.
+ENTITY,E30_91,VB_AP_DUNG,Văn bản áp dụng,reference,48352,48479,Quyết định số 288/QĐ-UB Ban hành quy định tạm thời về tổ chức hợp tác kinh doanh trong ngành ăn uống tại thành phố Hồ Chí Minh.
+ENTITY,E30_92,VB_AP_DUNG,Văn bản áp dụng,reference,48499,48610,Quyết định số 832/ QĐ - UB về việc ban hành Quy định tạm thời về quy chế quản lý đề tài nghiên cứu KHKT của tỉn
+ENTITY,E30_93,VB_AP_DUNG,Văn bản áp dụng,reference,48630,48759,Quyết định số 290/QĐ-UB Ban hành quy định tạm thời về tổ chức hợp tác kinh doanh trong ngành thương nghiệp thành phố Hồ Chí Minh.
+ENTITY,E30_94,VB_AP_DUNG,Văn bản áp dụng,reference,48779,48878,Quyết định số 80/UB-QĐ về việc ban hành quy định tạm thời công tác quản lý xây dựng CB tỉnh Bến Tre
+ENTITY,E30_95,VB_AP_DUNG,Văn bản áp dụng,reference,48898,49010,Quyết định số 49/QĐ-UB Về việc ban hành bản quy định tạm thời về giá cho thuê kho bãi tại thành phố Hồ Chí Minh.
+ENTITY,E30_96,VB_AP_DUNG,Văn bản áp dụng,reference,49030,49257,"Quyết định số 174/UB-QĐ về việc ban hành bản Quy định tạm thời các hình thức xử phạt đối với hành vi vi phạm các quy định của điều lệ quản lý đo lường, ban hành kèm theo Nghị định số 216/CP ngày 25/9/1974 của Hội đồng Chính phủ"
+ENTITY,E30_97,VB_AP_DUNG,Văn bản áp dụng,reference,49277,49395,Quyết định số 220/QĐ-UB Về việc ban hành Tiêu chuẩn địa phương về Chao- Phương pháp thử Hóa học-Ký hiệu 53 TCV 71 – 85
+ENTITY,E30_98,VB_AP_DUNG,Văn bản áp dụng,reference,49415,49589,"Nghị quyết số 37/NQ-HĐND Về việc điều chỉnh các đề án phát triển nông nghiệp, lâm nghiệp, nuôi trồng thuỷ sản đến năm 2010 và dự án tổng quan giải quyết việc làm đến năm 2000"
+ENTITY,E30_99,VB_AP_DUNG,Văn bản áp dụng,reference,49609,49713,Quyết định số 92/1988/QĐ-UB Về việc chuyển giao công tác quản lý hộ tịch từ Công an tỉnh sang Sở Tư pháp
+ENTITY,E30_100,VB_AP_DUNG,Văn bản áp dụng,reference,49733,49859,Quyết định số 263/QĐ-UB Về việc Ban hành quy chế về mối quan hệ phối hợp công tác giữa Hội LHPN và UBND các cấp tỉnh Lâm Đồng.
+ENTITY,E30_101,VB_AP_DUNG,Văn bản áp dụng,reference,49879,49969,Quyết định số 16/QĐ-UB Về việc cấp thẻ kiểm tra nhà nước về giá tại thành phố Hồ Chí Minh.
+ENTITY,E30_102,VB_AP_DUNG,Văn bản áp dụng,reference,49989,50077,"Quyết định số 604/QĐ-UB/TC Về việc Thành lập Trường Phổ thông cấp II, III Đống Đa Đà Lạt"
+ENTITY,E30_103,VB_AP_DUNG,Văn bản áp dụng,reference,50097,50266,Quyết định số 1122/2000/QĐ-UB V/v ban hành quy trình thực hiện công tác đền bù thiệt hại giải phóng mặt bằng khi nhà nước thu hồi đất trên địa bàn tỉnh Bà Rịa - Vũng Tàu
+ENTITY,E30_104,VB_AP_DUNG,Văn bản áp dụng,reference,50286,50396,Quyết định số 86/QĐ-TCCQ Kiện toàn hệ thống tổ chức Ủy ban dân số và kế hoạch hóa gia đình Thành phố Hải Phòng
+ENTITY,E30_105,VB_AP_DUNG,Văn bản áp dụng,reference,50416,50607,"Quyết định số 489/QĐ-UB Về việc thành lập các tổ kiểm tra lưu động liên ngành cấp thành phố đề kiểm soát việc lưu thông, tàng trữ hàng ngoại nhập trái phép trên địa bàn Thành phố Hồ Chí Minh."
+ENTITY,E30_106,VB_AP_DUNG,Văn bản áp dụng,reference,50627,50803,"Quyết định số 16/QĐ-UB Về việc Ban hành Bản quy định về nhiệm vụ chức trách, tổ chức biên chế và chế độ đãi ngộ cho cán bộ, nhân viên phường, xã đội và dân quân tự vệ tập trung"
+ENTITY,E30_107,VB_AP_DUNG,Văn bản áp dụng,reference,50823,50917,Quyết định số 130/QĐ-UB Về việc thành lập Hội đồng Khoa học và Kỹ thuật thành phố Hồ Chí Minh.
+ENTITY,E30_108,VB_AP_DUNG,Văn bản áp dụng,reference,50937,51084,"Quyết định số 193/QĐ-UB Về việc Ban hành Quy định về chấp hành giá và kiểm tra, thanh tra, xử lý các vi phạm pháp luật nhà nước về giá ở Thành phố."
+ENTITY,E30_109,VB_AP_DUNG,Văn bản áp dụng,reference,51104,51176,Quyết định số 144/QĐ-TCCQ Về việc đồng ý thành lập doanh nghiệp Nhà nước
+ENTITY,E30_110,VB_AP_DUNG,Văn bản áp dụng,reference,51196,51291,"Quyết định số 275/UB-QĐ Phê chuẩn phương án quy hoạch tổng thể 
+kinh tế - xã hội huyện Chợ Lách"
+ENTITY,E30_111,VB_AP_DUNG,Văn bản áp dụng,reference,51311,51395,Quyết định số 773/UB-QĐ quy định tạm thời chế độ phổ cập giáo dục cấp I – xóa mù chữ
+ENTITY,E30_112,VB_AP_DUNG,Văn bản áp dụng,reference,51415,51518,Quyết định số 225/QĐ-UB Về việc ban hành tiêu chuẩn địa phương về: “mâm nhôm - ký hiệu 53 TCV 130 – 87”
+ENTITY,E30_113,VB_AP_DUNG,Văn bản áp dụng,reference,51538,51691,Quyết định số 208/QĐ-UB Về việc Ban hành Bản quy định về hoạt động mua bán của các tổ chức kinh tế xã hội chủ nghĩa tại thị trường thành phố Hồ Chí Minh.
+ENTITY,E30_114,VB_AP_DUNG,Văn bản áp dụng,reference,51711,51783,"Quyết định số 05/QĐ-UB Về việc bảo đảm ánh sáng ở các quán ăn, giải khát"
+ENTITY,E30_115,VB_AP_DUNG,Văn bản áp dụng,reference,51803,51952,Quyết định số 69/UB-QĐ về việc ban hành bản quy định tạm thời về phạt tiền các trường hợp vi phạm an toàn phòng cháy chữa cháy và quản lý vật liệu nổ
+ENTITY,E30_116,VB_AP_DUNG,Văn bản áp dụng,reference,51972,52087,Quyết định số 200/QĐ-UB Ban hành quy chế tạm thời về tổ chức và hoạt động của Trường Bổ túc văn hóa vừa học vừa làm
+ENTITY,E30_117,VB_AP_DUNG,Văn bản áp dụng,reference,52107,52218,Quyết định số 601/QĐ-UB/TC Về việc thành lập Trường phổ thông trung học Đơn Dương II tại xã KĐô huyện Đơn Dương
+ENTITY,E30_118,VB_AP_DUNG,Văn bản áp dụng,reference,52238,52380,Quyết định số 08/QĐ-UB Về việc ban hành “Quy định về quản lý Nhà nước đối với phương tiện vận tải thủy bộ trên địa bàn thành phố Hồ Chí Minh”.
+ENTITY,E30_119,VB_AP_DUNG,Văn bản áp dụng,reference,52400,52550,Quyết định số 274/QĐ-UB Về việc ban hành quy chế về tổ chức và hoạt động của các trường dạy nghề tập thể về tư nhân trên địa bàn thành phố Hồ Chí Minh
+ENTITY,E30_120,VB_AP_DUNG,Văn bản áp dụng,reference,52570,52650,"Quyết định số 80/QĐ-UB Về việc đăng ký đò ngang, đò dọc, ghe vận tải dưới 1 tấn."
+ENTITY,E30_121,VB_AP_DUNG,Văn bản áp dụng,reference,52670,52769,Quyết định số 256/UB-QĐ về việc ban hành Quy định tạm thời chế độ đối với nghĩa vụ lao động dài hạn
+ENTITY,E30_122,VB_AP_DUNG,Văn bản áp dụng,reference,52789,52894,Quyết định số 790/QĐ-UB/TC Về việc thành lập Trung tâm Y tế - Thể dục thể thao huyện Lâm Hà tỉnh Lâm Đồng
+ENTITY,E30_123,VB_AP_DUNG,Văn bản áp dụng,reference,52914,53089,"Quyết định số 170/QĐ-UB Về việc ban hành hai tiêu chuẩn về xiro thực phẩm – phương pháp thử lý hóa, ký hiệu 53 TCV 69 – 85. phương pháp thử vi sinh vật, ký hiệu 53 TCV 73 – 85"
+ENTITY,E30_124,VB_AP_DUNG,Văn bản áp dụng,reference,53109,53212,Quyết định số 2207/QĐ-UB về việc thành lập Trung tâm sản xuất Thử và ứng dụng tiến bộ khoa học kỹ thuật
+ENTITY,E30_125,VB_AP_DUNG,Văn bản áp dụng,reference,53232,53324,Quyết định số 192/QĐ-UB Ban hành qui chế tạm thời về việc mở trường phổ thông trung học hệ B
+ENTITY,E30_126,VB_AP_DUNG,Văn bản áp dụng,reference,53344,53462,Quyết định số 151/QĐ-UB Về việc ban hành tiêu chuẩn địa phương về: chóa đèn đường thủy ngân 125W Ký hiệu 53 TCV 139-88
+ENTITY,E30_127,VB_AP_DUNG,Văn bản áp dụng,reference,53482,53618,Quyết định số 555/QĐ-UB/TC Về việc sát nhập Sở thương binh xã hội và Sở lao động thành Sở Lao động - Thương binh và xã hội tỉnh Lâm Đồng
+ENTITY,E30_128,VB_AP_DUNG,Văn bản áp dụng,reference,53638,53770,Quyết định số 283/QĐ-UB Về việc thành lập Ban Chỉ đạo xây dựng hệ thống thủy nông huyện Củ Chi trực thuộc Ủy ban nhân dân thành phố.
+ENTITY,E30_129,VB_AP_DUNG,Văn bản áp dụng,reference,53790,53883,Quyết định số 340/QĐ-UB/TC Về việc Thành lập Trường phổ thông cấp 2 - 3  Lạc Nghiệp Đơn Dương
+ENTITY,E30_130,VB_AP_DUNG,Văn bản áp dụng,reference,53903,54004,Quyết định số 219/QĐ-UB Về việc ban hành quy định tạm thời về tổ chức sản xuất và quản lý ngành giấy.
+ENTITY,E30_131,VB_AP_DUNG,Văn bản áp dụng,reference,54024,54081,Quyết định số 297/QĐ-UB Về việc phụ thu dịch vụ giải trí.
+ENTITY,E30_132,VB_AP_DUNG,Văn bản áp dụng,reference,54101,54258,"Quyết định số 35/QĐ-UB Về việc thành lập Hội đồng thanh lý các kiện hàng, gói hàng từ nước ngoài gởi về không có người nhận, không thể gởi trả lại người gởi."
+ENTITY,E30_133,VB_AP_DUNG,Văn bản áp dụng,reference,54278,54422,Quyết định số 752/QĐ-UB Về việc hợp nhất 2 Sở : Sở Thương nghiệp và Sở Kinh tế Đối ngoại thành tổ chức mới lấy tên là : SỞ THƯƠNG MẠI THÀNH PHỐ.
+ENTITY,E30_134,VB_AP_DUNG,Văn bản áp dụng,reference,54442,54571,Quyết định số 302/QĐ-UB Về việc phụ thu vào các mặt hàng tiêu dùng ngoại nhập để bảo vệ nền sản xuất công nghiệp và TTCN nội địa.
+ENTITY,E30_135,VB_AP_DUNG,Văn bản áp dụng,reference,54591,54699,"Quyết định số 2257/QĐ-UB V/v đăng ký, quản lý phương tiện kỹ thuật thuộc diện
+ huy động bổ sung cho quân đội"
+ENTITY,E30_136,VB_AP_DUNG,Văn bản áp dụng,reference,54719,54805,Quyết định số 488/QĐ-UB Về việc thành lập Ban chỉ đạo tài chánh – ngân hàng thành phố.
+ENTITY,E30_137,VB_AP_DUNG,Văn bản áp dụng,reference,54825,54998,Quyết định số 103/QĐ-UB Về việc Ủy nhiệm cho Đồng chí Trưởng ban quản lý ruộng đất TP. ra quyết định đình chỉ hoặc thu hồi đất sử dụng trái pháp luật trên địa bàn thành phố.
+ENTITY,E30_138,VB_AP_DUNG,Văn bản áp dụng,reference,55018,55114,"Quyết định số 437/QĐ-UB Phê chuẩn phương án quy hoạch tổng thể 
+kinh tế - xã hội huyện Thạnh Phú"
+ENTITY,E30_139,VB_AP_DUNG,Văn bản áp dụng,reference,55134,55307,Quyết định 1818/QĐ-UBND năm 2009 về chương trình xây dựng văn bản quy phạm pháp luật của Ủy ban nhân dân thành phố năm 2009 do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành
+ENTITY,E30_140,VB_AP_DUNG,Văn bản áp dụng,reference,55327,55441,"Thông tư liên tịch số 14/TT-LB Hướng dẫn thu nộp quỹ bảo hiểm xã hội do Bộ Lao động, Thương binh và Xã hội quản lý"
+ENTITY,E30_141,VB_AP_DUNG,Văn bản áp dụng,reference,55461,55534,Quyết định số 158/QĐ-UB/TC Về việc thành lập Trung tâm y tế huyện Di Linh
+ENTITY,E30_142,VB_AP_DUNG,Văn bản áp dụng,reference,55554,55673,Quyết định số 163/QĐ-UB Về việc ban hành tiêu chuẩn về đồ chơi trẻ em – yêu cầu về an toàn sử dụng ký hiệu 53-TCV – 85.
+ENTITY,E30_143,VB_AP_DUNG,Văn bản áp dụng,reference,55693,55855,"Quyết định số 32/QĐ-UB Về việc Ban hành Quy định về quản lý tài chánh giá cả, thị trường trong hoạt động kinh doanh tại Hội chợ Quang Trung Thành phố Hồ Chí Minh."
+ENTITY,E30_144,VB_AP_DUNG,Văn bản áp dụng,reference,55875,56005,"Quyết định số 229/QĐ-UB Về việc ban hành bản quy định tạm thời về cải tạo, tổ chức và quản lý dịch vụ trên địa bàn TP.Hồ Chí Minh."
+ENTITY,E30_145,VB_AP_DUNG,Văn bản áp dụng,reference,56025,56129,"Quyết định số 07/UB-QĐ về việc quy định tạm thời chế độ dạy thêm giờ, thêm buổi cho giáo viên trong tỉnh"
+ENTITY,E30_146,VB_AP_DUNG,Văn bản áp dụng,reference,56149,56274,Quyết định số 185/QĐ-UB Về việc tổ chức thực hiện tiêu chuẩn Việt Nam TCVN 4244-86 “Quy phạm kỹ thuật an toàn thiết bị nâng”.
+ENTITY,E30_147,VB_AP_DUNG,Văn bản áp dụng,reference,56294,56468,Quyết định số 170/QĐ-UB Về việc điều chỉnh giá biểu thu tiền thuê nhà làm việc hành chánh sản xuất- kinh doanh và nhà ở thuộc diện Nhà nước quản lý tại thành phố Hồ Chí Minh.
+ENTITY,E30_148,VB_AP_DUNG,Văn bản áp dụng,reference,56488,56573,Quyết định số 28/QĐ-UB Về việc phê duyệt và ban hành quy hoạch tổng thể huyện Hóc Môn
+ENTITY,E30_149,VB_AP_DUNG,Văn bản áp dụng,reference,56593,56725,Quyết định số 2081/QĐ-UB Về việc sắp xếp tổ chức lại khối Công trình giao thông và công trình đô thị thuộc Sở Giao thông công chánh.
+ENTITY,E30_150,VB_AP_DUNG,Văn bản áp dụng,reference,56745,56885,Quyết định số 217/QĐ-UB Về việc ban hành quy định tạm thời về tổ chức và quản lý kinh doanh ngành ảnh dân dụng trên địa bàn TP. Hồ Chí Minh.
+ENTITY,E30_151,VB_AP_DUNG,Văn bản áp dụng,reference,56905,56997,Quyết định số 197/QĐ-UB Về việc thành lập Hội đồng định giá tài sản cố định đưa vào đầu tư .
+ENTITY,E30_152,VB_AP_DUNG,Văn bản áp dụng,reference,57017,57141,Quyết định số 372/QĐ-UB Về việc ban hành tiêu chuẩn địa phương về: nước ngọt có CO2 – Yêu cầu kỹ thuật Ký hiệu 53 TCV 140-88
+ENTITY,E30_153,VB_AP_DUNG,Văn bản áp dụng,reference,57161,57252,Quyết định số 616/QĐ-UB/TC Về việc thành lập trung tâm y tế dự phòng thuộc Sở y tế Lâm Đồng
+ENTITY,E30_154,VB_AP_DUNG,Văn bản áp dụng,reference,57272,57346,Quyết định số 159/QĐ-UB/TC Về việc thành lập Trung tâm y tế huyện Cát Tiên
+ENTITY,E30_155,VB_AP_DUNG,Văn bản áp dụng,reference,57366,57632,"Quyết định số 166/QĐ-UB Về việc ban hành “Quy định tạm thời việc mua bán, trao đổi, gia công ký gởi hàng hóa của các đơn vị kinh tế Trung ương, tỉnh, thành phố bạn hoạt động tại thành phố Hồ Chí Minh và các đơn vị thuộc thành phố Hồ Chí Minh tại các địa phương bạn”."
+ENTITY,E30_156,VB_AP_DUNG,Văn bản áp dụng,reference,57652,57757,Quyết định số 237/QĐ-UB Về việc thành lập ban vận động ủng hộ xây dựng tuyến đường bộ Nhà Bè – Duyên Hải.
+ENTITY,E30_157,VB_AP_DUNG,Văn bản áp dụng,reference,57777,57888,Quyết định số 53/QĐ-UB Về việc ban hành Bản quy định về huy động và sử dụng ngày công lao động xã hội chủ nghĩa
+ENTITY,E30_158,VB_AP_DUNG,Văn bản áp dụng,reference,57908,58011,Quyết định số 281/QĐ-UB Về việc tiếp nhận Chi cục thu quốc doanh của Bộ Tài chánh về thành phố quản lý.
+ENTITY,E30_159,VB_AP_DUNG,Văn bản áp dụng,reference,58031,58223,"Quyết định số 640/QĐ-UB Về thủ tục thành lập các xí nghiệp, công ty tư nhân sản xuất công nghiệp, dịch vụ công nghiệp, xây dựng, vận tải, nông lâm ngư nghiệp và kinh doanh thương mại, dịch vụ."
+ENTITY,E30_160,VB_AP_DUNG,Văn bản áp dụng,reference,58243,58410,"Quyết định số 55/QĐ-UB Ban hành quy định tạm thời về việc thực hiện pháp lệnh sửa đổi, bổ sung một số điều về thuế ctn và thuế hàng hóa áp dụng trên địa bàn thành phố."
+ENTITY,E30_161,VB_AP_DUNG,Văn bản áp dụng,reference,58430,58538,"Quyết định số 204/QĐ-UB Về việc thành lập đoàn kiểm tra, thanh tra giá mua tôm, mực xuất khẩu tại thành phố."
+ENTITY,E30_162,VB_AP_DUNG,Văn bản áp dụng,reference,58558,58661,Quyết định số 144/QĐ-UB Về việc ban hành tiêu chuẩn bàn ủi điện yêu cầu kỹ thuật ký hiệu 53 TCV 76 – 85
+ENTITY,E30_163,VB_AP_DUNG,Văn bản áp dụng,reference,58681,58789,Quyết định số 210/QĐ-UB Về việc thành lập Ban Chỉ đạo giá ở thành phố Ủy ban nhân dân thành phố Hồ Chí Minh.
+ENTITY,E30_164,VB_AP_DUNG,Văn bản áp dụng,reference,58809,58923,"Quyết định số 239/QĐ-UB Ban hành Quy định tạm thời về cải tạo, tổ chức quản lý ngành cao su thành phố Hồ Chí Minh."
+ENTITY,E30_165,VB_AP_DUNG,Văn bản áp dụng,reference,58943,59040,Quyết định số 917/QĐ-UB Về việc điều chỉnh và bổ sung phụ thu tiền điện trên địa bàn tỉnh Bến Tre
+ENTITY,E30_166,VB_AP_DUNG,Văn bản áp dụng,reference,59060,59187,Quyết định số 24/2003/QĐ-UB Về việc ban hành Quy định tạm thời về công tác kiểm định cầu đường bộ khu vực thành phố Hồ Chí Minh
+ENTITY,E30_167,VB_AP_DUNG,Văn bản áp dụng,reference,59207,59311,Quyết định số 19/QĐ-UB Về việc ban hành năm bản Quy định tạm thời về chất lượng của năm sản phẩm cao su.
+ENTITY,E30_168,VB_AP_DUNG,Văn bản áp dụng,reference,59331,59450,Quyết định số 20/QĐ-UB Ban hành quy định tạm thời về tổ chức sản xuất và quản lý ngành thủy tinh thành phố Hồ Chí Minh.
+ENTITY,E30_169,VB_AP_DUNG,Văn bản áp dụng,reference,59470,59538,Quyết định số 206/QĐ-UB Về việc thành lập phòng vật giá Quận Gò Vấp.
+ENTITY,E30_170,VB_AP_DUNG,Văn bản áp dụng,reference,59558,59661,Quyết định số 225/QĐ-UB Về việc ban hành tiêu chuẩn địa phương về: “mâm nhôm - ký hiệu 53 TCV 130 – 87”
+ENTITY,E30_171,VB_AP_DUNG,Văn bản áp dụng,reference,59681,59799,"Quyết định số 390/UB-QĐ về việc ban hành quy chế tạm thời về tiếp dân và giải quyết đơn khiếu nại, tố cáo của công dân"
+ENTITY,E30_172,VB_AP_DUNG,Văn bản áp dụng,reference,59819,59945,"Quyết định số 217/QĐ-UB Về việc ban hành “Bản quy định về tổ chức và hoạt động của ban thanh tra, trực thuộc UBND quận, huyện”"
+ENTITY,E30_173,VB_AP_DUNG,Văn bản áp dụng,reference,59965,60066,Quyết định số 690/QĐ-UB/TC Về việc thành lập Trường Phổ thông trung học dân tộc nội trú tỉnh Lâm Đồng
+ENTITY,E30_174,VB_AP_DUNG,Văn bản áp dụng,reference,60086,60166,Quyết định số 286/QĐ-UB Về việc ban hành quy định tạm thời chất lượng nước ngọt.
+ENTITY,E30_175,VB_AP_DUNG,Văn bản áp dụng,reference,60186,60456,"Chỉ thị số 40/CT-UB Về việc thực hiện Quy chế về đưa người lao động Việt Nam đi làm việc có thời hạn tại nước ngoài ban hành kèm theo Nghị định số 370/HĐBT ngày 09/11/1991, Thông tư Liên Bộ số 05/TT-LB-TC-LĐTBXH ngày 07/3/1992 và Thông tư số 08/LĐTBXH-TT ngày 11/7/1992."
+ENTITY,E30_176,VB_AP_DUNG,Văn bản áp dụng,reference,60476,60650,Quyết định số 49/QĐ-UB Về việc ủy nhiệm cho Ủy ban nhân dân thành phố được xét duyệt Luận chứng kinh tế kỹ thuật các công trình có quy mô vốn đầu tư dưới một trăm triệu đồng.
+ENTITY,E30_177,VB_AP_DUNG,Văn bản áp dụng,reference,60670,60772,Quyết định số 360/QĐ-UB/TC Về việc chuyển Trường phổ thông cấp 2 - 3 Đinh Văn thành Trường PTTH Lâm Hà
+ENTITY,E30_178,VB_AP_DUNG,Văn bản áp dụng,reference,60792,60859,Quyết định số 61/QĐ-UB Về việc thành lập cấp ngân sách huyện Lâm hà
+ENTITY,E30_179,VB_AP_DUNG,Văn bản áp dụng,reference,60879,60949,Quyết định số 212/QĐ-UB Về việc thành lập cấp ngân sách huyện Cát Tiên
+ENTITY,E30_180,VB_AP_DUNG,Văn bản áp dụng,reference,60969,61080,"Quyết định số 813/QĐ-UB Về việc cấm sản xuất, buôn bán, tàng trữ, sử dụng các loại quân trang của quân đội ngụy"
+ENTITY,E30_181,VB_AP_DUNG,Văn bản áp dụng,reference,61100,61233,Quyết định số 77/QĐ-UB Về việc thành lập Ban chỉ đạo xây dựng quy hoạch tổng thể kinh tế xã hội các quận thuộc thành phố Hồ Chí Minh.
+ENTITY,E30_182,VB_AP_DUNG,Văn bản áp dụng,reference,61253,61348,Quyết định số 2383 QĐ/TCCQ Thành lập Sở Nông nghiệp và Phát Triển Nông thôn Thành phố Hải Phòng
+ENTITY,E30_183,VB_AP_DUNG,Văn bản áp dụng,reference,61368,61549,"Quyết định số 34/QĐ-UB Về việc Ban hành Quy định về tổ chức, quản lý và một số chính sách khuyến khích sản xuất đối với các hộ TCN-TCN cá thể, TCN-TCN gia đình và nghề phụ gia đình."
+ENTITY,E30_184,VB_AP_DUNG,Văn bản áp dụng,reference,61569,61640,Quyết định số 649/QĐ-UB/TC Về việc thành lập Trung tâm Y tế huyện Đạtẻh
+ENTITY,E30_185,VB_AP_DUNG,Văn bản áp dụng,reference,61660,61825,Quyết định số 23/QĐ-UB Về việc thành lập chương trình phát triển và phân bổ ngành công nghiệp cơ khí và điện tử trên địa bàn thành phố Hồ Chí Minh thời kỳ 1986-2000.
+ENTITY,E30_186,VB_AP_DUNG,Văn bản áp dụng,reference,61845,61977,"Quyết định số 240/QĐ-UB Về việc ban hành quy định tạm thời chất lượng bánh Trung thu, bánh in, bánh dẻo, bánh ngọt và kẹo đậu phọng."
+ENTITY,E30_187,VB_AP_DUNG,Văn bản áp dụng,reference,61997,62164,"Quyết định số 115/QĐ-UB Ban hành bản quy định về việc cư trú, ra vào, hoạt động trong khu vực nội thủy và các xã giáp biển thuộc huyện Duyên Hải thành phố Hồ Chí Minh."
+ENTITY,E30_188,VB_AP_DUNG,Văn bản áp dụng,reference,62184,62270,Quyết định số 40/QĐ-UB Về việc Phê duyệt và Ban hành Quy hoạch tổng thể huyện Thủ Đức.
+ENTITY,E30_189,VB_AP_DUNG,Văn bản áp dụng,reference,62290,62469,"Quyết định số 110/QĐ-UB Về việc sửa đổi, bổ sung giá biểu thu tiền thuê nhà làm việc hành chánh-sản xuất-kinh doanh và nhà ở thuộc diện Nhà nước quản lý tại thành phố Hồ Chí Minh."
+ENTITY,E30_190,VB_AP_DUNG,Văn bản áp dụng,reference,62489,62603,Quyết định số 285/QĐ-UB Về việc nâng mức phạt tiền vi cảnh đối với các vi phạm trật tự an toàn giao thông đường bộ
+ENTITY,E30_191,VB_AP_DUNG,Văn bản áp dụng,reference,62623,62698,Quyết định số 615/QĐ-UB/TC Về việc thành lập Trung tâm Y tế huyện Đức Trọng
+ENTITY,E30_192,VB_AP_DUNG,Văn bản áp dụng,reference,62718,62838,Quyết định số 435/QĐ-UB Về việc ban hành quy chế tổ chức và hoạt động của Phòng Công nghiệp – TTCN trực thuộc UBND quận.
+ENTITY,E30_193,VB_AP_DUNG,Văn bản áp dụng,reference,62858,62977,Quyết định số 174/QĐ-UB Về việc Ban hành thẻ và Quy chế sử dụng thẻ kiểm tra Nhà nước về giá tại Thành phố Hồ Chí Minh.
+ENTITY,E30_194,VB_AP_DUNG,Văn bản áp dụng,reference,62997,63150,Quyết định số 92/QĐ-UB Về việc điều chỉnh suất miễn thu để tính thuế lợi tức doanh nghiệp đối với các hoạt động kinh doanh công thương nghiệp và dịch vụ.
+ENTITY,E30_195,VB_AP_DUNG,Văn bản áp dụng,reference,63170,63273,Quyết định số 73/QĐ-UB Về việc Ban hành Quy định bảo vệ hế thống công trình thủy nông kênh đông Củ Chi.
+ENTITY,E30_196,VB_AP_DUNG,Văn bản áp dụng,reference,63293,63373,Quyết định số 341/QĐ-UB/TC Về việc thành lập Trường phổ thông cấp 2 - 3 Đạ Huoai
+ENTITY,E30_197,VB_AP_DUNG,Văn bản áp dụng,reference,63393,63497,"Quyết định số 03/2009/QĐ-UBND Về việc ban hành giá bán điện trên địa bàn huyện Phú Quốc, tỉnh Kiên Giang"
+ENTITY,E30_198,VB_AP_DUNG,Văn bản áp dụng,reference,63517,63630,Quyết định số 79/QĐ-UB Về việc thành lập Hội đồng thẩm tra luận chứng KTKT các công trình xây dựng cấp thành phố.
+ENTITY,E30_199,VB_AP_DUNG,Văn bản áp dụng,reference,63650,63824,Quyết định số 169/QĐ-UB Về việc ban hành 02 tiêu chuẩn địa phương - Saccarin trong thực phẩm – phương pháp thử định tính - Natribenzoat trong nước giải khát – phương pháp thử
+ENTITY,E30_200,VB_AP_DUNG,Văn bản áp dụng,reference,63844,63964,Quyết định số 566/QĐ-UB Về việc thành lập Ban chỉ đạo kiểm kê và đánh giá lại vốn sản xuất kinh doanh ở TP. Hồ Chí Minh.
+ENTITY,E30_201,VB_AP_DUNG,Văn bản áp dụng,reference,63984,64166,"Quyết định số 268/QĐ-UB Về việc ban hành bản qui định về sử dụng đất đai, mặt nước còn hoang hóa hoặc chưa sử dụng hết ở các quận, huyện và nông, lâm, ngư trường ở địa bàn thành phố."
+ENTITY,E30_202,VB_AP_DUNG,Văn bản áp dụng,reference,64186,64295,Quyết định số 144/QĐ-UB Về việc ban hành bản“Quy chế hoạt động của Đội kiểm soát quản lý thị trường các cấp”.
+ENTITY,E30_203,VB_AP_DUNG,Văn bản áp dụng,reference,64315,64412,Quyết định số 75/QĐ-UB Về việc ban hành quy định tạm thời về quản lý giá ở thành phố Hồ Chí Minh.
+ENTITY,E30_204,VB_AP_DUNG,Văn bản áp dụng,reference,64432,64553,Quyết định số 43/QĐ-UB Về việc ban hành quy định tạm thời tổ chức và quản lý ngành in trên địa bàn thành phố Hồ Chí Minh.
+ENTITY,E30_205,VB_AP_DUNG,Văn bản áp dụng,reference,64573,64668,Quyết định số 359/QĐ-UB/TC Về việc thành lập Trường phổ thông cấp 2 - 3 Thăng Long huyện Lâm Hà
+ENTITY,E30_206,VB_AP_DUNG,Văn bản áp dụng,reference,64688,64773,Quyết định số 633/QĐ-UB/TC Về việc thành lập Trường năng khiếu thể thao tỉnh Lâm Đồng
+ENTITY,E30_207,VB_AP_DUNG,Văn bản áp dụng,reference,64793,64872,Quyết định số 443/QĐ-UB/TC Về việc công nhận Hội nhà báo Việt Nam tỉnh Lâm Đồng
+ENTITY,E30_208,VB_AP_DUNG,Văn bản áp dụng,reference,64892,65090,Quyết định số 172/QĐ-UB Ban hành quy định tạm thời về một số chế độ đối với cán bộ công nhân và TNXP của thành phố được điều động đến công tác lâu dài ở huyện Duyên Hải và khu kinh tế Nam Tây Nguyên
+ENTITY,E30_209,VB_AP_DUNG,Văn bản áp dụng,reference,65110,65208,Quyết định số 44/QĐ-UB Về việc chuyên chở đối với các loại xe 2 – 3 bánh thô sơ và 3 bánh gắn máy.
+ENTITY,E30_210,VB_AP_DUNG,Văn bản áp dụng,reference,65228,65281,Quyết định số 468/QĐ-UB Về việc thành lập Hội cờ tỉnh
+ENTITY,E30_211,VB_AP_DUNG,Văn bản áp dụng,reference,65301,65428,Quyết định số 377/QĐ-UB Về việc cử đoàn đặc nhiệm củng cố cơ sở của thành phố do Ủy ban nhân dân thành phố Hồ Chí Minh ban hành
+ENTITY,E30_212,VB_AP_DUNG,Văn bản áp dụng,reference,65448,65562,Quyết định số 72/QĐ-UB Về việc thành lập Ban Chỉ đạo thực hiện Chỉ thị số 118/CT ngày 23-4-1988 của Chủ tịch HĐBT.
+ENTITY,E30_213,VB_AP_DUNG,Văn bản áp dụng,reference,65582,65700,Quyết định số 198/QĐ-UB Ban hành quy định về kinh doanh và quản lý mặt hàng thịt gia súc trên địa bàn Tp. Hồ Chí Minh.
+ENTITY,E30_214,VB_AP_DUNG,Văn bản áp dụng,reference,65720,65847,Quyết định số 46/QĐ-UB Về việc ban hành Bản quy định tạm thời về chế độ thưởng khuyến khích sản xuất và cung ứng hàng xuất khẩu
+ENTITY,E30_215,VB_AP_DUNG,Văn bản áp dụng,reference,65867,65997,Quyết định số 288/QĐ-UB Về việc ủy nhiệm cho đồng chí Giám đốc sở Lao động thông báo chỉ tiêu lên lương sớm theo quy định năm 1987
+ENTITY,E30_216,VB_AP_DUNG,Văn bản áp dụng,reference,66017,66117,"Quyết định số 1411-QĐ/UB Phân loại đường phố ở nội thành, thị xã, thị trấn thuộc thành phố Hải Phòng"
+ENTITY,E30_217,VB_AP_DUNG,Văn bản áp dụng,reference,66137,66225,Nghị quyết số 15/1999/NQ-HĐ V/v cho thôi làm nhiệm vụ đại biểu HĐND của ông Điểu Két Men
+ENTITY,E30_218,VB_AP_DUNG,Văn bản áp dụng,reference,66245,66359,Quyết định số 228/QĐ-UB Quy định việc bãi bỏ chế độ xét duyệt hợp đồng kinh tế trên địa bàn thành phố Hồ Chí Minh.
+ENTITY,E30_219,VB_AP_DUNG,Văn bản áp dụng,reference,66379,66545,"Quyết định số 192/QĐ-UB Về việc quy định tạm thời một số chế độ đối với công nhân viên chức, lực lượng vũ trang và các đối tượng hưởng chính sách xã hội của thành phố"
+ENTITY,E30_220,VB_AP_DUNG,Văn bản áp dụng,reference,66565,66750,"Quyết định số 639/QĐ-UB Về việc ban hành quy định về công ty tư nhân sản xuất công nghiệp, dịch vụ công nghiệp, xây dựng, vận tải, nông lâm ngư nghiệp và kinh doanh thương mại, dịch vụ."
+ENTITY,E30_221,VB_AP_DUNG,Văn bản áp dụng,reference,66770,66867,Quyết định số 82/UB-QĐ về việc ban hành quy định tạm thời xử lý vi phạm xây dựng tại tỉnh Bến Tre
+ENTITY,E30_222,VB_AP_DUNG,Văn bản áp dụng,reference,66887,67061,"Quyết định số 362/QĐ-UB Về việc ban hành tiêu chuẩn địa phương về: Mực bút máy – Yêu cầu kỹ thuật, ký hiệu 53 TVC 141-88, Mực bút máy – Phương pháp thử, ký hiệu 53 TVC 142-88"
+ENTITY,E30_223,VB_AP_DUNG,Văn bản áp dụng,reference,67081,67259,Quyết định số 85/QĐ-UB Về việc điều chỉnh một số chế độ trong chỉ thị số 12/CT-UB nhằm đẩy mạnh việc dạy nghề cho nam nữ thanh niên có trình độ văn hóa cấp II và cấp III thôi học
+ENTITY,E30_224,VB_AP_DUNG,Văn bản áp dụng,reference,67279,67393,Quyết định số 216/QĐ-UB/TC Về việc thành lập Trường chăm sóc sức khỏe tâm thần trẻ em thuộc Hội LHPN tỉnh Lâm Đồng
+ENTITY,E30_225,VB_AP_DUNG,Văn bản áp dụng,reference,67413,67555,"Quyết định số 250/QĐ-UB Về việc ban hành quy định tạm thời về hoạt động kinh doanh thương nghiệp ăn uống, dịch vụ trên địa bàn TP.Hồ Chí Minh."
+ENTITY,E30_226,VB_AP_DUNG,Văn bản áp dụng,reference,67575,67690,"Quyết định số 17/QĐ-UB Về việc Ban hành Tiêu chuẩn về Bánh phồng tôm – Phương pháp thử hóa học, ký hiệu 53 TCV72-86"
+ENTITY,E30_227,VB_AP_DUNG,Văn bản áp dụng,reference,67710,67827,Quyết định số 428/QĐ-UB Về việc ban hành quy định về việc thu nộp lệ phí thẩm tra các dự án có vốn nước ngoài đầu tư.
+ENTITY,E30_228,VB_AP_DUNG,Văn bản áp dụng,reference,67847,68060,"Quyết định số 737/QĐ-UB Ban hành quy định về việc tiếp tục bán hóa giá nhà cấp 3, 4 thuộc quyền sở hữu của Nhà nước tại thành phố Hồ Chí Minh cho cán bộ, CNV, gia đình chính sách và nhân dân lao động đang sử dụng."
+ENTITY,E30_229,VB_AP_DUNG,Văn bản áp dụng,reference,68080,68187,"Quyết định số 134/QĐ-UB Về việc sửa đổi và bổ sung một số điểm trong công tác bán hóa giá nhà cấp 3, cấp 4."
+ENTITY,E30_230,VB_AP_DUNG,Văn bản áp dụng,reference,68207,68326,Quyết định số 32/1998/QĐ-UB Về việc thu thuế sử dụng đất nông nghiệp trên diện tích đất quy hoạch phát triển lâm nghiệp
+ENTITY,E30_231,VB_AP_DUNG,Văn bản áp dụng,reference,68346,68439,Quyết định số 28/QĐ-UB Về việc thực hiện chế độ sổ sách kế toán và lập chứng từ mua bán hàng.
+ENTITY,E30_232,VB_AP_DUNG,Văn bản áp dụng,reference,68459,68524,Quyết định số 1176/UB-QĐ về việc ban hành Quy chế xét khen thưởng
+ENTITY,E30_233,VB_AP_DUNG,Văn bản áp dụng,reference,68544,68655,Quyết định số 321/QĐ-UB Về việc ban hành “Quy chế tổ chức và hoạt động của Phòng Nông nghiệp - Thủy lợi huyện”.
+ENTITY,E30_234,VB_AP_DUNG,Văn bản áp dụng,reference,68675,68803,"Quyết định số 442/QĐ-UB Về việc thành lập Hội đồng xử lý các vụ, việc vi phạm kinh tế chưa đến mức truy cứu trách nhiệm hình sự."
+ENTITY,E30_235,VB_AP_DUNG,Văn bản áp dụng,reference,68823,68916,Quyết định số 610/QĐ-UB Về việc ban hành quy định về “cửa hàng cầm đồ” trên địa bàn thành phố
+ENTITY,E30_236,VB_AP_DUNG,Văn bản áp dụng,reference,68936,69058,Quyết định số 29/QĐ-UB Về việc ban hành quy định về tổ chức và quản lý hoạt động in sang băng từ tại thành phố Hồ Chí Minh
+ENTITY,E30_237,VB_AP_DUNG,Văn bản áp dụng,reference,69078,69244,"Quyết định số 377/QĐ-UB Ban hành quy định về việc mời, giao dịch, ký kết các loại văn bản kinh tế với bên nước ngoài và việc cử đoàn ra nước ngoài trong lĩnh vực KTĐN"
+ENTITY,E30_238,VB_AP_DUNG,Văn bản áp dụng,reference,69264,69388,Quyết định số 198/QĐ-UB Ban hành quy định tạm thời về tổ chức sản xuất và quản lý ngành kim khí xây dựng tại TP.Hồ Chí Minh.
+ENTITY,E30_239,VB_AP_DUNG,Văn bản áp dụng,reference,69408,69474,Quyết định số 373/UB-QĐ về việc phân cấp thực hiện bảo hộ lao động
+ENTITY,E30_240,VB_AP_DUNG,Văn bản áp dụng,reference,69494,69597,Quyết định số 15/2006/QĐ-UB Về việc thành lập ban đơn giá xây dựng cơ bản trên địa bàn thành phố Hà Nội
+ENTITY,E30_241,VB_AP_DUNG,Văn bản áp dụng,reference,69617,69759,Quyết định số 221/QĐ-UB Về việc ban hành tiêu chuẩn địa phương về: xích xe máy - ký hiệu 53 TCV 134 – 87 vành xe máy - ký hiệu 53 TCV 135 – 87
+ENTITY,E30_242,VB_AP_DUNG,Văn bản áp dụng,reference,69779,69879,"Quyết định số 280/QĐ-UB Về công tác kiểm soát và quản lý người nhập, xuất và quá cảnh TP.Hồ Chí Minh"
+ENTITY,E30_243,VB_AP_DUNG,Văn bản áp dụng,reference,69899,69977,Quyết định số 379/QĐ-UB/TC Về việc mở Trường PTTH Dân lập Lê Lợi huyện Bảo Lộc
+ENTITY,E30_244,VB_AP_DUNG,Văn bản áp dụng,reference,69997,70088,Quyết định số 122/QĐ-UB Về việc tổ chức đợt khảo sát thực trạng chế độ Tiền lương tại Cơ sở
+ENTITY,E30_245,VB_AP_DUNG,Văn bản áp dụng,reference,70108,70219,Quyết định số 606/QĐ-UB Về việc quy định về tổ chức và hoạt động của Ban Hợp tác kinh tế Thành phố Hồ Chí Minh.
+ENTITY,E30_246,VB_AP_DUNG,Văn bản áp dụng,reference,70239,70337,Quyết định số 44/QĐ-UB Về việc chuyên chở đối với các loại xe 2 – 3 bánh thô sơ và 3 bánh gắn máy.
+ENTITY,E30_247,VB_AP_DUNG,Văn bản áp dụng,reference,70357,70443,Quyết định số 138/1999/QĐ-UB V/v Thành lập Ban chỉ đạo xây dựng “Quỹ đền ơn đáp nghĩa”
+ENTITY,E30_248,VB_AP_DUNG,Văn bản áp dụng,reference,70463,70544,Quyết định số 123/QĐ-UB Về việc sửa đổi về quản lý thu lệ phí khai thác đất công.
+ENTITY,E30_249,VB_AP_DUNG,Văn bản áp dụng,reference,70564,70682,Quyết định số 168/QĐ-UB Về việc thành lập Hội đồng quyết toán vốn đầu tư các công trình xây dựng cơ bản cấp thành phố.
+ENTITY,E30_250,VB_AP_DUNG,Văn bản áp dụng,reference,70702,70821,Quyết định số 164/QĐ-UB Ban hành quy định tạm thời về tổ chức sản xuất và quản lý ngành nước mắm thành phố Hồ Chí Minh.
+ENTITY,E30_251,VB_AP_DUNG,Văn bản áp dụng,reference,70841,70969,Quyết định số 143/QĐ-UB Về việc quy định các mức tiền công bình quân các ngành nghề sản xuất tiểu thụ công nghiệp tại thành phố.
+ENTITY,E30_252,VB_AP_DUNG,Văn bản áp dụng,reference,70989,71051,Quyết định số 329/QĐ-UB Ban hành bản quy tắc vệ sinh thành phố
+ENTITY,E30_253,VB_AP_DUNG,Văn bản áp dụng,reference,71071,71126,Quyết định số 90/QĐ-UB Về việc ban hành tiêu chuẩn rượu
+ENTITY,E30_254,VB_AP_DUNG,Văn bản áp dụng,reference,71146,71269,Quyết định số 2122/QĐ-UB Về chính sách và chế độ khuyến khich cuộc vận đông Phát triển dân số hợp lý và sinh để có kế hoạch
+ENTITY,E30_255,VB_AP_DUNG,Văn bản áp dụng,reference,71289,71411,"Quyết định số 193/QĐ-UB Về việc ban hành “ Quy chế tổ chức và hoạt động của Trọng tài kinh tế trực thuộc UBND Quận, Huyện."
+ENTITY,E30_256,VB_AP_DUNG,Văn bản áp dụng,reference,71431,71558,"Quyết định số 289/QĐ-UB Ban hành quy định tạm thời về tổ chức quản lý và kinh doanh thịt heo, trâu, bò ở thành phố Hồ Chí Minh."
+ENTITY,E30_257,VB_AP_DUNG,Văn bản áp dụng,reference,71578,71729,"Quyết định số 200/QĐ-UB Về việc ban hành tiêu chuẩn địa phương về các sản phẩm chế biến từ bột mì và gạo phương pháp thử hóa học, ký hiệu 53 TCV 137-88"
+ENTITY,E30_258,VB_AP_DUNG,Văn bản áp dụng,reference,71749,71861,Quyết định số 123/QĐ-UB Về việc ban hành Quy định việc quản lý hoạt động dịch vụ pháp lý trên địa bàn thành phố.
+ENTITY,E30_259,VB_AP_DUNG,Văn bản áp dụng,reference,71881,71955,Quyết định số 117/QĐ-UB Về việc ban hành tiêu chuẩn địa phương về bánh kẹo
+ENTITY,E30_260,VB_AP_DUNG,Văn bản áp dụng,reference,71975,72066,Quyết định số 356/QĐ-UB/TC Về việc chuyển trạm thú y tỉnh thành Chi cục Thú y tỉnh Lâm Đồng
+ENTITY,E30_261,VB_AP_DUNG,Văn bản áp dụng,reference,72086,72205,Quyết định số 118/QĐ-UB Ban hành bản quy định bổ sung về xét duyệt hợp đồng kinh tế trên địa bàn thành phố Hồ Chí Minh.
+ENTITY,E30_262,VB_AP_DUNG,Văn bản áp dụng,reference,72225,72364,"Quyết định số 184/QĐ-UB Về việc ban hành “Bản quy chế tổ chức và hoạt động của Phòng Thương nghiệp trực thuộc Ủy ban nhân dân quận, huyện”."
+ENTITY,E30_263,VB_AP_DUNG,Văn bản áp dụng,reference,72384,72494,Quyết định số 240/QĐ-UB Về việc ban hành qui định tạm thời về tổ chức và hoạt động của hợp tác xã công nghiệp.
+ENTITY,E30_264,VB_AP_DUNG,Văn bản áp dụng,reference,72514,72697,"Quyết định số 315/QĐ-UB Về việc ban hành bản quy định về “Quản lý tài chánh, giá cả trong hoạt động kinh doanh của các tỉnh, ngành Trung ương và thành phố tham gia Hội chợ xuân 1985”."
+ENTITY,E30_265,VB_AP_DUNG,Văn bản áp dụng,reference,72717,72819,Quyết định số 185/QĐ-UB Ban hành quy định tạm thời về tổ chức và quản lý xe chuyên dùng vận chuyển gỗ.
+ENTITY,E30_266,VB_AP_DUNG,Văn bản áp dụng,reference,72839,72942,Quyết định số 181/QĐ-UB Ban hành quy định tạm thời về tổ chức và quản lý ngành mộc tại tp. Hồ Chí Minh.
+ENTITY,E30_267,VB_AP_DUNG,Văn bản áp dụng,reference,72962,73083,Quyết định số 886/QĐ-TC/UB Về việc  thành lập câu lạc bộ dịch vụ Thể dục Thể thao thuộc Sở Thể dục Thể thao tỉnh Lâm Đồng
+ENTITY,E30_268,VB_AP_DUNG,Văn bản áp dụng,reference,73103,73165,Quyết định số 202/QĐ-UB Ban hành quy định về thu thủy lợi phí.
+ENTITY,E30_269,VB_AP_DUNG,Văn bản áp dụng,reference,73185,73295,Quyết định số 520/QĐ-UB Về việc tạm ngưng việc thu đảm phụ công ích vàng nhập vào qua cửa khẩu TP Hồ Chí Minh.
+ENTITY,E30_270,VB_AP_DUNG,Văn bản áp dụng,reference,73315,73390,Quyết định số 177/QĐ-UB Về việc thành lập Ban Vận động “Quỹ bảo trợ trẻ em”
+ENTITY,E30_271,VB_AP_DUNG,Văn bản áp dụng,reference,73410,73524,Quyết định số 304/QĐ-UB Ban hành quy định tạm thời về tổ chức sản xuất và quản lý ngành dệt thành phố Hồ Chí Minh.
+ENTITY,E30_272,VB_AP_DUNG,Văn bản áp dụng,reference,73544,73695,"Nghị quyết số 675/HĐ-NQ về việc phê chuẩn báo cáo tổng kết 6 tháng đầu năm, nhiệm vụ kế hoạch chính thức năm 1987 và nhiệm vụ kế hoạch 6 tháng cuối năm"
+ENTITY,E30_273,VB_AP_DUNG,Văn bản áp dụng,reference,73715,73829,Quyết định số 22/QĐ-UB Ban hành bản quy định tạm thời về việc xử lý các vi phạm chế độ bảo hiểm giao thông vận tải
+ENTITY,E30_274,VB_AP_DUNG,Văn bản áp dụng,reference,73849,74045,"Quyết định số 269/QĐ-UB Về việc ban hành bản qui định về cơ chế quản lý và vận dụng chánh sách khuyến khích phát triển sản xuất đối với các nông trường, lâm trường, ngư trường tại huyện Duyên Hải."
+ENTITY,E30_275,VB_AP_DUNG,Văn bản áp dụng,reference,74065,74237,"Quyết định số 119/QĐ-UB Về việc Quy định giá biểu thu tiền thuê nhà làm việc hành chánh, sản xuất kinh doanh và nhà ở thuộc diện Nhà nước quản lý tại Thành phố Hồ Chí Minh."
+ENTITY,E30_276,VB_AP_DUNG,Văn bản áp dụng,reference,74257,74380,Quyết định số 156/QĐ-UB Về việc ban hành quy định gọi thanh niên đi làm nhiệm vụ xây dựng kinh tế quốc phòng của thành phố.
+ENTITY,E30_277,VB_AP_DUNG,Văn bản áp dụng,reference,74400,74512,Quyết định số 56/QĐ-UB Về việc bổ sung sửa đổi Quyết định 75/QĐ-UB ngày 16-4-1985 của Ủy ban nhân dân thành phố.
+ENTITY,E30_278,VB_AP_DUNG,Văn bản áp dụng,reference,74532,74624,Quyết định số 343/QĐ-UB/TC Về việc mở trường Phổ thông Trung học Dân lập Phù Đổng tại Đà Lạt
+ENTITY,E30_279,VB_AP_DUNG,Văn bản áp dụng,reference,74644,74728,Quyết định số 109/QĐ-UB Về việc điều chỉnh đơn giá bán nhà cấp 3 cấp 4 đang sử dụng.
+ENTITY,E30_280,VB_AP_DUNG,Văn bản áp dụng,reference,74748,74862,Quyết định số 944/UB-QĐ ban hành bản Quy định về quản lý vận tải và giao thông hoạt động trên địa bàn tỉnh Bến Tre
+ENTITY,E30_281,VB_AP_DUNG,Văn bản áp dụng,reference,74882,74965,Quyết định số 75/QĐ-UB Về việc đăng ký ghe đò và các loại ghe trọng tải dưới 5 tấn.
+ENTITY,E30_282,VB_AP_DUNG,Văn bản áp dụng,reference,74985,75071,Nghị quyết số 71/QĐ-UB Tổ chức lực lượng quản lý trật tự đô thị trên địa bàn Thành phố
+ENTITY,E30_283,VB_AP_DUNG,Văn bản áp dụng,reference,75091,75171,Quyết định số 358/QĐ-UB/TC Về việc Thành lập Trường phổ thông cấp 2 - 3 Cát Tiên
+ENTITY,E30_284,VB_AP_DUNG,Văn bản áp dụng,reference,75191,75298,Quyết định số 161/QĐ-UB Về việc thu lệ phí duy tu và sửa chữa cầu đường trên địa bàn thành phố Hồ Chí Minh.
+ENTITY,E30_285,VB_AP_DUNG,Văn bản áp dụng,reference,75318,75393,Chỉ thị số 22/CT-UB Về việc giải quyết lương và các khoản nợ của giáo viên.
+ENTITY,E30_286,VB_AP_DUNG,Văn bản áp dụng,reference,75413,75531,Quyết định số 209/QĐ-UB Ban hành quy định tạm thời về cải tạo và tổ chức quản lý ngành nhựa tại Thành phố Hồ Chí Minh.
+ENTITY,E35_1,CHUONG,Chương,structure,280,288,CHƯƠNG I
+ENTITY,E35_2,CHUONG,Chương,structure,3116,3125,CHƯƠNG II
+ENTITY,E35_3,CHUONG,Chương,structure,12454,12464,CHƯƠNG III
+ENTITY,E35_4,CHUONG,Chương,structure,16768,16777,CHƯƠNG IV
+ENTITY,E35_5,CHUONG,Chương,structure,19070,19078,CHƯƠNG V
+ENTITY,E35_6,CHUONG,Chương,structure,24728,24737,CHƯƠNG VI
+ENTITY,E35_7,CHUONG,Chương,structure,30913,30923,CHƯƠNG VII
+ENTITY,E35_8,CHUONG,Chương,structure,33181,33192,CHƯƠNG VIII
+ENTITY,E35_9,CHUONG,Chương,structure,34900,34909,CHƯƠNG IX
+ENTITY,E36_1,MUC,Mục,structure,24754,24759,MỤC 1
+ENTITY,E36_2,MUC,Mục,structure,26524,26529,MỤC 2
+ENTITY,E36_3,MUC,Mục,structure,30090,30095,MỤC 3
+ENTITY,E38_1,DIEU,Điều,structure,310,928,"Điều 1
+Hội đồng nhân dân là cơ quan quyền lực Nhà nước ở địa phương, do nhân dân địa phương bầu ra, chịu trách nhiệm trước nhân dân địa phương và chính quyền cấp trên.
+Hội đồng nhân dân đại diện cho ý chí, nguyện vọng và quyền làm chủ tập thể của nhân dân lao động ở địa phương, động viên và tổ chức nhân dân xây dựng, củng cố chính quyền, tiến hành đồng thời ba cuộc cách mạng : cách mạng về quan hệ sản xuất, cách mạng khoa học - kỹ thuật, cách mạng tư tưởng và văn hoá, trong đó cách mạng khoa học - kỹ thuật là then chốt ; góp phần xây dựng thành công chủ nghĩa xã hội và bảo vệ vững chắc Tổ quốc xã hội chủ nghĩa."
+ENTITY,E38_2,DIEU,Điều,structure,929,1459,"Điều 2
+Hội đồng nhân dân căn cứ vào pháp luật, chính sách của Nhà nước và nhiệm vụ, quyền hạn của cấp mình, quyết định và bảo đảm thực hiện các chủ trương, biện pháp để phát huy tiềm năng của địa phương, xây dựng địa phương về các mặt chính trị, kinh tế, văn hoá, xã hội, an ninh và quốc phòng, không ngừng cải thiện đời sống vật chất và văn hoá của nhân dân địa phương và làm tròn nghĩa vụ của địa phương đối với Nhà nước.
+Số đại biểu Hội đồng nhân dân các cấp và thể thức bầu cử đại biểu Hội đồng nhân dân do pháp luật quy định."
+ENTITY,E38_3,DIEU,Điều,structure,1460,1780,"Điều 3
+Uỷ ban nhân dân do Hội đồng nhân dân bầu ra, là cơ quan chấp hành của Hội đồng nhân dân, là cơ quan hành chính Nhà nước ở địa phương.
+Uỷ ban nhân dân chịu trách nhiệm và báo cáo công tác trước Hội đồng nhân dân cùng cấp ; chịu sự lãnh đạo của chính quyền cấp trên và sự lãnh đạo thống nhất của Hội đồng bộ trưởng."
+ENTITY,E38_4,DIEU,Điều,structure,1781,2177,"Điều 4
+Nhiệm kỳ của mỗi khoá Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương là bốn năm.
+Nhiệm kỳ của mỗi khoá Hội đồng nhân dân các cấp khác là hai năm.
+Nhiệm kỳ của Uỷ ban nhân dân theo nhiệm kỳ của Hội đồng nhân dân cùng cấp. Khi Hội đồng nhân dân hết nhiệm kỳ, Uỷ ban nhân dân tiếp tục làm nhiệm vụ cho đến khi Hội đồng nhân dân khoá mới bầu ra Uỷ ban nhân dân mới."
+ENTITY,E38_5,DIEU,Điều,structure,2178,2608,"Điều 5
+Hội đồng nhân dân và Uỷ ban nhân dân tổ chức và hoạt động theo nguyên tắc tập trung dân chủ.
+Hội đồng nhân dân và Uỷ ban nhân dân quản lý địa phương theo Hiến pháp và pháp luật, tăng cường pháp chế xã hội chủ nghĩa ; không ngừng củng cố mối liên hệ mật thiết với nhân dân ; ngăn ngừa, khắc phục tệ quan liêu, hách dịch, cửa quyền và các biểu hiện tiêu cực khác trong các cơ quan Nhà nước và nhân viên Nhà nước ở địa phương."
+ENTITY,E38_6,DIEU,Điều,structure,2609,2845,"Điều 6
+Hiệu quả hoạt động của Hội đồng nhân dân được bảo đảm bằng hiệu quả của các kỳ họp Hội đồng nhân dân, hiệu quả hoạt động của Uỷ ban nhân dân, các Ban của Hội đồng nhân dân và hiệu quả hoạt động của các đại biểu Hội đồng nhân dân."
+ENTITY,E38_7,DIEU,Điều,structure,2846,3116,"Điều 7
+Trong hoạt động của mình, Hội đồng nhân dân, Uỷ ban nhân dân, các Ban của Hội đồng nhân dân và các đại biểu Hội đồng nhân dân dựa vào sự cộng tác chặt chẽ của Mặt trận Tổ quốc Việt Nam, của các đoàn thể nhân dân và sự tham gia rộng rãi của công dân ở địa phương.
+"
+ENTITY,E38_8,DIEU,Điều,structure,3176,3475,"Điều 8
+Hội đồng nhân dân thực hiện những nhiệm vụ và sử dụng những quyền hạn quy định ở Điều 115 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam, theo sự phân cấp quản lý của chính quyền cấp trên, bảo đảm sự lãnh đạo thống nhất của trung ương, đồng thời phát huy quyền chủ động của địa phương."
+ENTITY,E38_9,DIEU,Điều,structure,3476,3514,"Điều 9
+Về kinh tế, Hội đồng nhân dân :"
+ENTITY,E38_10,DIEU,Điều,structure,4579,4631,"Điều 10
+Về khoa học và kỹ thuật, Hội đồng nhân dân :"
+ENTITY,E38_11,DIEU,Điều,structure,4847,4906,"Điều 11
+Về văn hoá, xã hội và đời sống, Hội đồng nhân dân :"
+ENTITY,E38_12,DIEU,Điều,structure,5640,5693,"Điều 12
+Về an ninh và quốc phòng, Hội đồng nhân dân :"
+ENTITY,E38_13,DIEU,Điều,structure,6072,6245,"Điều 13
+Về chính sách dân tộc, Hội đồng nhân dân bảo đảm thực hiện chính sách dân tộc ; bảo đảm sự bình đẳng giữa các dân tộc ; giữ vững và tăng cường khối đoàn kết dân tộc."
+ENTITY,E38_14,DIEU,Điều,structure,6246,6303,"Điều 14
+Về pháp chế xã hội chủ nghĩa, Hội đồng nhân dân :"
+ENTITY,E38_15,DIEU,Điều,structure,6980,7029,"Điều 15
+Về tổ chức và cán bộ, Hội đồng nhân dân :"
+ENTITY,E38_16,DIEU,Điều,structure,7753,7842,"Điều 16
+Căn cứ vào pháp luật của Nhà nước và quyết định của cấp trên, Hội đồng nhân dân :"
+ENTITY,E38_17,DIEU,Điều,structure,8396,8619,"Điều 17
+Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương thực hiện nhiệm vụ, quyền hạn chung của Hội đồng nhân dân quy định từ Điều 8 đến Điều 16 của Luật này và những nhiệm vụ, quyền hạn sau đây :"
+ENTITY,E38_18,DIEU,Điều,structure,9564,9736,"Điều 18
+Hội đồng nhân dân huyện thực hiện nhiệm vụ, quyền hạn chung của Hội đồng nhân dân quy định từ Điều 8 đến Điều 16 của Luật này và những nhiệm vụ, quyền hạn sau đây :"
+ENTITY,E38_19,DIEU,Điều,structure,10832,11033,"Điều 19
+Hội đồng nhân dân thành phố thuộc tỉnh, thị xã, quận thực hiện nhiệm vụ, quyền hạn chung của Hội đồng nhân dân quy định từ Điều 8 đến Điều 16 của Luật này và những nhiệm vụ, quyền hạn sau đây :"
+ENTITY,E38_20,DIEU,Điều,structure,11522,11614,"Điều 20
+Hội đồng nhân dân xã, phường, thị trấn thực hiện những nhiệm vụ,
+quyền hạn sau đây :"
+ENTITY,E38_21,DIEU,Điều,structure,12490,13436,"Điều 21
+Hội đồng nhân dân các cấp ba tháng họp một kỳ.
+ở miền núi, nơi nào đi lại khó khăn, thì Hội đồng nhân dân tỉnh và huyện có thể sáu tháng họp một kỳ.
+Kỳ họp Hội đồng nhân dân do Uỷ ban nhân dân cùng cấp triệu tập theo đúng kỳ hạn.
+Uỷ ban nhân dân các cấp có thể triệu tập kỳ họp bất thường của Hội đồng nhân dân cấp mình khi xét thấy cần thiết, hoặc khi có ít nhất là một phần ba tổng số đại biểu Hội đồng nhân dân cấp mình yêu cầu.
+Kỳ họp thứ nhất của Hội đồng nhân dân khoá mới do Uỷ ban nhân dân cùng cấp khoá trước triệu tập chậm nhất là 30 ngày sau khi bầu xong đại biểu Hội đồng nhân dân.
+ở miền núi, nơi nào đi lại khó khăn, thì kỳ họp thứ nhất của Hội đồng nhân dân tỉnh có thể được triệu tập chậm nhất là 45 ngày sau khi bầu xong đại biểu Hội đồng nhân dân.
+Hội đồng nhân dân bầu ra Đoàn Chủ tịch và Đoàn thư ký của kỳ họp theo danh sách do Chủ tịch Uỷ ban nhân dân và các tổ trưởng tổ đại biểu Hội đồng nhân dân giới thiệu chung."
+ENTITY,E38_22,DIEU,Điều,structure,13437,13893,"Điều 22
+Hội đồng nhân dân các cấp họp công khai. Ngày họp, nơi họp và dự kiến chương trình làm việc của kỳ họp Hội đồng nhân dân, phải được Uỷ ban nhân dân cùng cấp thông báo cho đại biểu Hội đồng nhân dân biết trước ít nhất là bảy ngày, kèm theo các tài liệu cần thiết ; và công bố cho nhân dân biết trước ít nhất là năm ngày.
+Khi cần thiết thì Hội đồng nhân dân quyết định họp kín, theo đề nghị của Uỷ ban nhân dân cùng cấp hoặc của Đoàn Chủ tịch kỳ họp."
+ENTITY,E38_23,DIEU,Điều,structure,13894,14529,"Điều 23
+Trong phiên họp đầu tiên kỳ họp thứ nhất của mỗi khoá, Hội đồng nhân dân cử ra Ban thẩm tra tư cách đại biểu Hội đồng nhân dân theo danh sách do Đoàn Chủ tịch kỳ họp giới thiệu.
+Hội đồng nhân dân căn cứ vào báo cáo của Ban thẩm tra tư cách đại biểu Hội đồng nhân dân, quyết định xác nhận tư cách đại biểu của các đại biểu Hội đồng nhân dân hoặc tuyên bố việc bầu một đại biểu nào đó là không có giá trị.
+Khi có bầu cử bổ sung đại biểu, Hội đồng nhân dân thành lập Ban thẩm tra tư cách đại biểu mới làm nhiệm vụ thẩm tra và báo cáo kết quả để Hội đồng nhân dân quyết định xác nhận tư cách đại biểu của đại biểu được bầu bổ sung."
+ENTITY,E38_24,DIEU,Điều,structure,14530,14640,"Điều 24
+Những vấn đề sau đây nhất thiết phải được thảo luận và giải quyết trong các kỳ họp Hội đồng nhân dân :"
+ENTITY,E38_25,DIEU,Điều,structure,15856,16510,"Điều 25
+Nghị quyết của Hội đồng nhân dân phải được quá nửa tổng số đại biểu Hội đồng nhân dân biểu quyết tán thành.
+Hội đồng nhân dân biểu quyết bằng cách giơ tay hoặc bỏ phiếu kín, theo đề nghị của Đoàn Chủ tịch kỳ họp.
+Sau kỳ họp của Hội đồng nhân dân, nghị quyết và biên bản của kỳ họp phải gửi lên Uỷ ban nhân dân cấp trên trực tiếp chậm nhất là bảy ngày. Nghị quyết và biên bản của kỳ họp Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương phải gửi lên Hội đồng Nhà nước và Hội đồng bộ trưởng chậm nhất là mười lăm ngày.
+Nghị quyết và biên bản của các phiên họp Hội đồng nhân dân phải được Đoàn Chủ tịch kỳ họp ký chứng thực."
+ENTITY,E38_26,DIEU,Điều,structure,16511,16768,"Điều 26
+Khi Hội đồng nhân dân họp, Uỷ ban nhân dân cùng cấp có trách nhiệm mời đại biểu Quốc hội, đại biểu Hội đồng nhân dân cấp trên được bầu ra ở địa phương, Chủ tịch Uỷ ban Mặt trận Tổ quốc Việt Nam và Viện trưởng Viện kiểm sát nhân dân cùng cấp đến dự.
+"
+ENTITY,E38_27,DIEU,Điều,structure,16808,16941,"Điều 27
+Hội đồng nhân dân các cấp thành lập các Ban chuyên trách và Ban thư ký để giúp Hội đồng, theo quy định của Hội đồng Nhà nước."
+ENTITY,E38_28,DIEU,Điều,structure,16942,17273,"Điều 28
+Thành viên của các Ban do Hội đồng nhân dân bầu ra trong số đại biểu Hội đồng nhân dân.
+Mỗi Ban có Trưởng ban, Phó Trưởng ban và các thành viên khác của Ban. Số thành viên của các Ban do Hội đồng nhân dân quy định.
+Thành viên của các Ban của Hội đồng nhân dân không thể đồng thời là thành viên của Uỷ ban nhân dân cùng cấp."
+ENTITY,E38_29,DIEU,Điều,structure,17274,17363,"Điều 29
+Các Ban chuyên trách của Hội đồng nhân dân có những nhiệm vụ, quyền hạn sau đây :"
+ENTITY,E38_30,DIEU,Điều,structure,18547,18626,"Điều 30
+Ban thư ký của Hội đồng nhân dân có những nhiệm vụ, quyền hạn sau đây :"
+ENTITY,E38_31,DIEU,Điều,structure,18935,19070,"Điều 31
+Uỷ ban nhân dân có trách nhiệm bảo đảm những điều kiện cần thiết cho các Ban của Hội đồng nhân dân cấp mình thi hành nhiệm vụ.
+"
+ENTITY,E38_32,DIEU,Điều,structure,19106,19280,"Điều 32
+Đại biểu mỗi khoá Hội đồng nhân dân làm nhiệm vụ đại biểu bắt đầu từ kỳ họp thứ nhất của Hội đồng nhân dân khoá đó đến kỳ họp thứ nhất của Hội đồng nhân dân khoá mới."
+ENTITY,E38_33,DIEU,Điều,structure,19281,19592,"Điều 33
+Đại biểu Hội đồng nhân dân có nhiệm vụ tham gia các kỳ họp và phiên họp của Hội đồng nhân dân.
+Đại biểu nào không tham gia kỳ họp thì phải có lý do và phải báo trước cho Chủ tịch Uỷ ban nhân dân cấp mình.
+Đại biểu nào không dự được phiên họp thì phải có lý do và phải báo trước cho Đoàn Chủ tịch kỳ họp."
+ENTITY,E38_34,DIEU,Điều,structure,19593,20218,"Điều 34
+Đại biểu Hội đồng nhân dân phải liên hệ chặt chẽ với cử tri, chịu sự giám sát của cử tri, thực hiện chế độ tiếp xúc và báo cáo với cử tri về hoạt động của mình và của Hội đồng nhân dân ; trả lời những yêu cầu và kiến nghị của cử tri.
+Sau mỗi kỳ họp Hội đồng nhân dân, các đại biểu Hội đồng nhân dân phải báo cáo với cử tri về kết quả của kỳ họp, phổ biến và giải thích các nghị quyết đã được Hội đồng nhân dân thông qua.
+Đại biểu Hội đồng nhân dân phải gương mẫu chấp hành pháp luật, chính sách của Nhà nước, tuyên truyền, động viên nhân dân chấp hành pháp luật, chính sách và tham gia quản lý công việc của Nhà nước."
+ENTITY,E38_35,DIEU,Điều,structure,20219,20616,"Điều 35
+Đại biểu Hội đồng nhân dân nhận được những khiếu nại, tố cáo và kiến nghị của nhân dân có trách nhiệm nghiên cứu và chuyển đến cơ quan Nhà nước hữu quan, theo dõi việc giải quyết và báo cho đương sự biết kết quả. Các cơ quan Nhà nước phải báo cho đại biểu Hội đồng nhân dân biết kết quả giải quyết những khiếu nại, tố cáo và kiến nghị của nhân dân do đại biểu Hội đồng nhân dân chuyển đến."
+ENTITY,E38_36,DIEU,Điều,structure,20617,21574,"Điều 36
+Đại biểu Hội đồng nhân dân có quyền chất vấn Uỷ ban nhân dân, các thành viên của Uỷ ban nhân dân, thủ trưởng các cơ quan chuyên môn thuộc Uỷ ban nhân dân và Toà án nhân dân cùng cấp.
+Khi đại biểu chất vấn Uỷ ban nhân dân thì Chủ tịch Uỷ ban nhân dân hoặc một thành viên khác được Uỷ ban nhân dân uỷ nhiệm trả lời ; khi đại biểu chất vấn thành viên nào của Uỷ ban nhân dân thì thành viên đó trả lời. Khi đại biểu chất vấn cơ quan chuyên môn nào thuộc Uỷ ban nhân dân thì thành viên của Uỷ ban nhân dân hoặc thủ trưởng cơ quan đó được Uỷ ban nhân dân uỷ nhiệm trả lời. Khi đại biểu chất vấn Toà án nhân dân thì Chánh án Toà án nhân dân trả lời.
+Cơ quan hoặc người bị chất vấn phải trả lời trước Hội đồng nhân dân tại kỳ họp của Hội đồng nhân dân. Trong trường hợp cần điều tra thì Hội đồng nhân dân quyết định cho trả lời tại kỳ họp sau.
+Khi cần thiết, Hội đồng nhân dân ra nghị quyết về việc trả lời và trách nhiệm của cơ quan hoặc người bị chất vấn."
+ENTITY,E38_37,DIEU,Điều,structure,21575,22231,"Điều 37
+Đại biểu Hội đồng nhân dân có quyền yêu cầu các cơ quan Nhà nước, các đơn vị vũ trang nhân dân, các tổ chức xã hội kịp thời chấm dứt những việc làm trái pháp luật, chính sách của cơ quan, đơn vị, tổ chức hoặc nhân viên của cơ quan, đơn vị, tổ chức đó.
+Khi đại biểu Hội đồng nhân dân đến gặp người phụ trách của cơ quan Nhà nước, đơn vị vũ trang nhân dân hoặc tổ chức xã hội thì người đó có trách nhiệm tiếp.
+Đại biểu Hội đồng nhân dân có quyền kiến nghị với cơ quan Nhà nước về việc thi hành pháp luật, chính sách của Nhà nước và về những vấn đề thuộc lợi ích chung ; cơ quan hữu quan có trách nhiệm nghiên cứu và trả lời kiến nghị đó của đại biểu."
+ENTITY,E38_38,DIEU,Điều,structure,22232,22392,"Điều 38
+Đại biểu Hội đồng nhân dân có quyền tham dự kỳ họp của Hội đồng nhân dân cấp dưới nơi đã bầu ra mình, có quyền phát biểu ý kiến, nhưng không biểu quyết."
+ENTITY,E38_39,DIEU,Điều,structure,22393,22844,"Điều 39
+Các đại biểu Hội đồng nhân dân được bầu ở một hoặc nhiều đơn vị bầu cử hợp thành một tổ đại biểu. Tổ đại biểu có nhiệm vụ tổ chức hoạt động của đại biểu, tổng hợp ý kiến và nguyện vọng của nhân dân trong đơn vị đã bầu ra mình, chuẩn bị tham gia các kỳ họp của Hội đồng nhân dân ; tổ chức nghiên cứu pháp luật, chính sách của Nhà nước do Uỷ ban nhân dân cùng cấp thông báo.
+Tổ đại biểu cử ra tổ trưởng, tổ phó để điều khiển các cuộc họp của tổ."
+ENTITY,E38_40,DIEU,Điều,structure,22845,23305,"Điều 40
+Trong thời gian Hội đồng nhân dân họp, nếu không được sự đồng ý của Đoàn Chủ tịch kỳ họp, thì không được bắt giữ đại biểu Hội đồng nhân dân. Nếu vì phạm pháp quả tang hoặc trong trường hợp khẩn cấp mà đại biểu bị tạm giữ thì cơ quan tạm giữ phải lập tức báo cáo với Đoàn Chủ tịch kỳ họp.
+Giữa hai kỳ họp Hội đồng nhân dân, cơ quan Nhà nước có thẩm quyền tạm giữ đại biểu Hội đồng nhân dân cấp nào, thì phải báo cho Chủ tịch Uỷ ban nhân dân cấp đó biết."
+ENTITY,E38_41,DIEU,Điều,structure,23306,23416,"Điều 41
+Đại biểu Hội đồng nhân dân nào phạm pháp, bị Toà án phạt tù, thì mất quyền đại biểu Hội đồng nhân dân."
+ENTITY,E38_42,DIEU,Điều,structure,23417,23640,"Điều 42
+Đại biểu Hội đồng nhân dân có thể xin từ chức vì lý do không thể đảm nhiệm được nhiệm vu đại biểu Hội đồng nhân dân.
+Việc chấp nhận đại biểu Hội đồng nhân dân từ chức do Hội đồng nhân dân cùng cấp xét và quyết định."
+ENTITY,E38_43,DIEU,Điều,structure,23641,23931,"Điều 43
+Đại biểu Hội đồng nhân dân có thể bị cử tri của đơn vị bầu ra mình bãi miễn, nếu không xứng đáng với sự tín nhiệm của nhân dân.
+Việc đưa một đại biểu Hội đồng nhân dân ra để cử tri bãi miễn do Hội đồng nhân dân quyết định, theo đề nghị của Uỷ ban Mặt trận Tổ quốc Việt Nam cùng cấp."
+ENTITY,E38_44,DIEU,Điều,structure,23932,24458,"Điều 44
+Trong trường hợp khuyết đại biểu Hội đồng nhân dân thì có thể tổ chức bầu cử bổ sung.
+Hội đồng bộ trưởng quyết định việc bầu cử bổ sung đại biểu Hội đồng nhân dân tỉnh, huyện và cấp tương đương.
+Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương quyết định việc bầu cử bổ sung đại biểu Hội đồng nhân dân xã, phường và thị trấn.
+Đại biểu Hội đồng nhân dân được bầu bổ sung làm nhiệm vụ bắt đầu từ kỳ họp Hội đồng nhân dân sau cuộc bầu cử bổ sung đến kỳ họp thứ nhất của Hội đồng nhân dân khoá sau."
+ENTITY,E38_45,DIEU,Điều,structure,24459,24728,"Điều 45
+Trong trường hợp đại biểu Hội đồng nhân dân được phân công cùng di chuyển với nhân dân đến một địa phương khác, thì đại biểu đó là thành viên của Hội đồng nhân dân cấp tương đương ở nơi mới đến và làm nhiệm vụ cho đến khi Hội đồng nhân dân nơi đó hết nhiệm kỳ.
+"
+ENTITY,E38_46,DIEU,Điều,structure,24800,25575,"Điều 46
+Uỷ ban nhân dân chuẩn bị các kỳ họp của Hội đồng nhân dân ; phối hợp với các Ban chuyên trách của Hội đồng nhân dân xây dựng các đề án trình Hội đồng nhân dân xét và quyết định.
+Uỷ ban nhân dân tổ chức và chỉ đạo thực hiện nghị quyết của Hội đồng nhân dân cùng cấp và các nghị quyết, nghị định, quyết định, chỉ thị, thông tư của các cơ quan Nhà nước cấp trên.
+Uỷ ban nhân dân chỉ đạo các ngành, các cấp thuộc quyền mình thực hiện kế hoạch và ngân sách, phát triển kinh tế, văn hoá, xã hội, giữ vững an ninh, trật tự, an toàn xã hội, củng cố quốc phòng và cải thiện đời sống nhân dân địa phương ; đồng thời, bảo đảm sự quản lý thống nhất của Nhà nước từ trung ương đến cơ sở ; cùng các đoàn thể nhân dân tổ chức và chỉ đạo phong trào thi đua yêu nước xã hội chủ nghĩa."
+ENTITY,E38_47,DIEU,Điều,structure,25576,25844,"Điều 47
+Giữa hai kỳ họp Hội đồng nhân dân, Uỷ ban nhân dân được xét và giải quyết các vấn đề thuộc nhiệm vụ, quyền hạn của Hội đồng nhân dân cùng cấp, trừ những vấn đề ghi ở Điều 24 của Luật này, và phải báo cáo trình Hội đồng nhân dân phê chuẩn trong kỳ họp gần nhất."
+ENTITY,E38_48,DIEU,Điều,structure,25845,26039,"Điều 48
+Uỷ ban nhân dân các cấp có trách nhiệm tiếp dân, trực tiếp xét, giải quyết và chỉ đạo các ngành, các cấp thuộc quyền mình xét, giải quyết các khiếu nại, tố cáo và kiến nghị của nhân dân."
+ENTITY,E38_49,DIEU,Điều,structure,26040,26524,"Điều 49
+Uỷ ban nhân dân các cấp có quyền ra những quyết định, chỉ thị theo quy định của pháp luật và kiểm tra việc thi hành những quyết định, chỉ thị ấy ; đình chỉ việc thi hành, sửa đổi hoặc bãi bỏ những quyết định không thích đáng của các ngành thuộc quyền mình và của Uỷ ban nhân dân cấp dưới ; đình chỉ việc thi hành những nghị quyết không thích đáng của Hội đồng nhân dân cấp dưới trực tiếp, đồng thời, đề nghị Hội đồng nhân dân cấp mình sửa đổi hoặc bãi bỏ những nghị quyết đó.
+"
+ENTITY,E38_50,DIEU,Điều,structure,26595,27102,"Điều 50
+Uỷ ban nhân dân gồm có Chủ tịch, một hoặc nhiều Phó Chủ tịch, Uỷ viên thư ký và các Uỷ viên khác.
+Thành viên của Uỷ ban nhân dân phải là đại biểu Hội đồng nhân dân.
+Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương có từ mười một đến mười bảy người.
+Uỷ ban nhân dân huyện, thành phố thuộc tỉnh, thị xã, quận có từ chín đến mười ba người.
+Uỷ ban nhân dân xã, phường, thị trấn có từ bảy đến chín người.
+Số Phó Chủ tịch của Uỷ ban nhân dân mỗi cấp do Hội đồng bộ trưởng quy định."
+ENTITY,E38_51,DIEU,Điều,structure,27103,27779,"Điều 51
+Trong kỳ họp đầu tiên của mỗi khoá Hội đồng nhân dân, Hội đồng nhân dân bỏ phiếu kín bầu Chủ tịch, các Phó Chủ tịch, Uỷ viên thư ký và các Uỷ viên khác của Uỷ ban nhân dân cấp mình theo danh sách đề cử chức vụ từng người do Đoàn Chủ tịch kỳ họp và các tổ đại biểu giới thiệu chung ; từng đại biểu Hội đồng nhân dân cũng có quyền giới thiệu.
+Kết quả bầu cử Uỷ ban nhân dân mỗi cấp phải được Uỷ ban nhân dân cấp trên trực tiếp phê chuẩn ; kết quả bầu cử Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương phải được Hội đồng bộ trưởng phê chuẩn.
+Khi khuyết thành viên của Uỷ ban nhân dân thì Hội đồng nhân dân cùng cấp xét và quyết định bầu bổ sung."
+ENTITY,E38_52,DIEU,Điều,structure,27780,28416,"Điều 52
+Uỷ ban nhân dân chịu trách nhiệm và báo cáo công tác trước Hội đồng nhân dân cùng cấp và trước Uỷ ban nhân dân cấp trên trực tiếp ; Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương chịu trách nhiệm và báo cáo công tác trước Hội đồng nhân dân cùng cấp và trước Hội đồng bộ trưởng.
+Uỷ ban nhân dân làm việc theo chế độ tập thể.
+Mỗi thành viên của Uỷ ban nhân dân chịu trách nhiệm cá nhân về phần công tác của mình trước Hội đồng nhân dân, Uỷ ban nhân dân cùng cấp, và cùng với các thành viên khác chịu trách nhiệm tập thể về hoạt động của Uỷ ban nhân dân trước Hội đồng nhân dân cấp mình và trước cấp trên."
+ENTITY,E38_53,DIEU,Điều,structure,28417,28581,"Điều 53
+Chủ tịch, các Phó Chủ tịch, Uỷ viên thư ký hợp thành bộ phận thường trực Uỷ ban nhân dân.
+Thường trực Uỷ ban nhân dân có những nhiệm vụ, quyền hạn sau đây :"
+ENTITY,E38_54,DIEU,Điều,structure,29014,29362,"Điều 54
+Chủ tịch Uỷ ban nhân dân lãnh đạo và điều hành công tác của Uỷ ban nhân dân ; triệu tập và chủ toạ các kỳ họp của Uỷ ban nhân dân ; bảo đảm việc chấp hành các nghị quyết của Hội đồng nhân dân, các quyết định, chỉ thị của Uỷ ban nhân dân cấp mình và các nghị quyết, nghị định, quyết định, chỉ thị, thông tư của các cơ quan Nhà nước cấp trên."
+ENTITY,E38_55,DIEU,Điều,structure,29363,29526,"Điều 55
+Uỷ ban nhân dân các cấp mỗi tháng họp ít nhất một lần.
+Các quyết định của Uỷ ban nhân dân phải được quá nửa tổng số thành viên Uỷ ban biểu quyết tán thành."
+ENTITY,E38_56,DIEU,Điều,structure,29527,30090,"Điều 56
+Thư ký Liên hiệp Công đoàn tỉnh, thành phố trực thuộc trung ương và cấp tương đương, huyện, quận và cấp tương đương được mời dự các kỳ họp của Uỷ ban nhân dân cùng cấp.
+Chủ tịch Uỷ ban Mặt trận Tổ quốc Việt Nam và những người phụ trách chính các đoàn thể nhân dân khác trong Mặt trận ở địa phương được mời dự các kỳ họp của Uỷ ban nhân dân cùng cấp, khi cần thiết.
+Uỷ ban nhân dân các cấp tạo điều kiện thuận lợi để Mặt trận Tổ quốc Việt Nam và các đoàn thể nhân dân trong Mặt trận tổ chức và động viên nhân dân tham gia quản lý Nhà nước, quản lý xã hội.
+"
+ENTITY,E38_57,DIEU,Điều,structure,30141,30270,"Điều 57
+Uỷ ban nhân dân thành lập hoặc bãi bỏ các cơ quan chuyên môn thuộc Uỷ ban nhân dân, theo quy định của Hội đồng bộ trưởng."
+ENTITY,E38_58,DIEU,Điều,structure,30271,30472,"Điều 58
+Các cơ quan chuyên môn giúp Uỷ ban nhân dân cùng cấp thực hiện chức năng quản lý Nhà nước ở địa phương và bảo đảm sự thống nhất quản lý của ngành hoặc lĩnh vực công tác từ trung ương đến cơ sở."
+ENTITY,E38_59,DIEU,Điều,structure,30473,30913,"Điều 59
+Các cơ quan chuyên môn thuộc Uỷ ban nhân dân chịu sự chỉ đạo và quản lý về tổ chức, biên chế và công tác của Uỷ ban nhân dân cấp mình, đồng thời, chịu sự chỉ đạo của cơ quan chuyên môn cấp trên.
+Thủ trưởng cơ quan chuyên môn chịu trách nhiệm và báo cáo công tác trước Uỷ ban nhân dân, báo cáo công tác trước Hội đồng nhân dân cấp mình khi cần thiết ; đồng thời, chịu trách nhiệm và báo cáo công tác với cơ quan chuyên môn cấp trên.
+"
+ENTITY,E38_60,DIEU,Điều,structure,30999,31481,"Điều 60
+Hội đồng Nhà nước giám sát và hướng dẫn hoạt động của Hội đồng nhân dân các cấp nhằm bảo đảm cho Hội đồng nhân dân các cấp làm tròn trách nhiệm là cơ quan đại biểu cho nhân dân địa phương.
+Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương báo cáo về tình hình hoạt động của Hội đồng nhân dân các cấp ở địa phương, theo quy định của Hội đồng Nhà nước.
+Khi cần thiết, Hội đồng Nhà nước ra nghị quyết để hướng dẫn hoạt động của Hội đồng nhân dân các cấp."
+ENTITY,E38_61,DIEU,Điều,structure,31482,32065,"Điều 61
+Hội đồng bộ trưởng có trách nhiệm bảo đảm cho Hội đồng nhân dân các cấp thực hiện đầy đủ những nhiệm vụ, quyền hạn của cơ quan quyền lực Nhà nước ở địa phương ; lãnh đạo Uỷ ban nhân dân các cấp làm tròn trách nhiệm của cơ quan chấp hành của Hội đồng nhân dân và cơ quan hành chính Nhà nước ở địa phương.
+Hội đồng bộ trưởng chỉ đạo Uỷ ban nhân dân các cấp đưa ra Hội đồng nhân dân xét và quyết định những vấn đề thuộc nhiệm vụ, quyền hạn của Hội đồng nhân dân cùng cấp, tạo điều kiện thuận lợi cho hoạt động của các đại biểu Hội đồng nhân dân và các Ban của Hội đồng nhân dân."
+ENTITY,E38_62,DIEU,Điều,structure,32066,32188,"Điều 62
+Hội đồng nhân dân quyết định những biện pháp cần thiết nhằm bảo đảm thực hiện đầy đủ nhiệm vụ, quyền hạn của mình."
+ENTITY,E38_63,DIEU,Điều,structure,32189,32813,"Điều 63
+Khi thực hiện nhiệm vụ, đại biểu Hội đồng nhân dân được bảo đảm các điều kiện cần thiết về vật chất và tinh thần, do Hội đồng bộ trưởng quy định.
+Uỷ ban nhân dân các cấp, các cơ quan và nhân viên Nhà nước ở địa phương, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tạo điều kiện thuận lợi cho hoạt động của các đại biểu Hội đồng nhân dân và các Ban của Hội đồng nhân dân, như cung cấp tư liệu, thông tin, bảo đảm nơi tiếp xúc với cử tri, các phương tiện đi lại theo tiêu chuẩn.
+Những người cản trở đại biểu Hội đồng nhân dân và các Ban của Hội đồng nhân dân thi hành nhiệm vụ sẽ bị xử lý theo pháp luật."
+ENTITY,E38_64,DIEU,Điều,structure,32814,33181,"Điều 64
+Uỷ ban Mặt trận Tổ quốc Việt Nam và các đoàn thể nhân dân trong Mặt trận giúp đỡ đại biểu Hội đồng nhân dân cùng cấp làm nhiệm vụ đại biểu ; tạo điều kiện cho đại biểu tiếp xúc với cử tri và thu thập ý kiến, nguyện vọng của nhân dân. Mỗi năm hai lần, Uỷ ban nhân dân thông báo cho Uỷ ban Mặt trận Tổ quốc Việt Nam cùng cấp về hoạt động của Hội đồng nhân dân.
+"
+ENTITY,E38_65,DIEU,Điều,structure,33318,33625,"Điều 65
+Trong trường hợp sáp nhập nhiều đơn vị hành chính thành một đơn vị hành chính mới, Hội đồng nhân dân của các đơn vị hành chính cũ nhập lại thành Hội đồng nhân dân của đơn vị hành chính mới và hoạt động cho đến khi hết nhiệm kỳ.
+Hội đồng nhân dân của đơn vị hành chính mới bầu ra Uỷ ban nhân dân mới."
+ENTITY,E38_66,DIEU,Điều,structure,33626,34040,"Điều 66
+Trong trường hợp chia một đơn vị hành chính thành nhiều đơn vị hành chính mới, các đại biểu Hội đồng nhân dân đã được bầu trong địa hạt đơn vị hành chính mới nào thì hợp thành Hội đồng nhân dân của đơn vị hành chính ấy, và tiếp tục hoạt động cho đến khi hết nhiệm kỳ. Nếu cần bầu thêm đại biểu thì tiến hành theo Điều 44 của Luật này.
+Hội đồng nhân dân của đơn vị hành chính mới bầu ra Uỷ ban nhân dân mới."
+ENTITY,E38_67,DIEU,Điều,structure,34041,34211,"Điều 67
+Trong trường hợp một đơn vị hành chính thay đổi cấp thì Hội đồng nhân dân và Uỷ ban nhân dân tiếp tục hoạt động với cương vị của cấp mới cho đến khi hết nhiệm kỳ."
+ENTITY,E38_68,DIEU,Điều,structure,34212,34535,"Điều 68
+Trong trường hợp một đơn vị hành chính mới được thành lập thì Uỷ ban nhân dân cấp trên trực tiếp chỉ định Uỷ ban nhân dân lâm thời để đảm nhiệm công tác cho đến khi bầu ra Hội đồng nhân dân và Uỷ ban nhân dân ; đối với đơn vị hành chính tương đương cấp tỉnh thì Hội đồng bộ trưởng chỉ định Uỷ ban nhân dân lâm thời."
+ENTITY,E38_69,DIEU,Điều,structure,34536,34900,"Điều 69
+Trong trường hợp Hội đồng nhân dân bị giải tán hoặc trong trường hợp đặc biệt khác, Uỷ ban nhân dân cấp trên trực tiếp chỉ định Uỷ ban nhân dân lâm thời để đảm nhiệm công tác cho đến khi bầu ra Hội đồng nhân dân và Uỷ ban nhân dân ; đối với tỉnh, thành phố trực thuộc trung ương và cấp tương đương thì Hội đồng bộ trưởng chỉ định Uỷ ban nhân dân lâm thời.
+"
+ENTITY,E38_70,DIEU,Điều,structure,34931,35013,"Điều 70
+Hội đồng Nhà nước, Hội đồng bộ trưởng quy định chi tiết thi hành Luật này."
+ENTITY,E38_71,DIEU,Điều,structure,35014,35180,"Điều 71
+Luật này thay thế Luật tổ chức Hội đồng nhân dân và Uỷ ban hành chính các cấp ngày 27 tháng 10 năm 1962. Những quy định trước đây trái với Luật này đều bãi bỏ"
+ENTITY,E39_1,KHOAN,Khoản,structure,3515,3714,"1- Căn cứ vào quy hoạch, kế hoạch của cấp trên, xây dựng quy hoạch, quyết định kế hoạch và dự toán ngân sách của địa phương ; phê chuẩn việc thực hiện kế hoạch và quyết toán ngân sách của địa phương."
+ENTITY,E39_2,KHOAN,Khoản,structure,3715,3980,"2- Quyết định biện pháp cải tạo các thành phần kinh tế phi xã hội chủ nghĩa, củng cố và hoàn thiện quan hệ sản xuất xã hội chủ nghĩa.
+Tăng cường kinh tế quốc doanh, kinh tế tập thể, đồng thời phát triển kinh tế phụ gia đình theo chủ trương, chính sách của Nhà nước."
+ENTITY,E39_3,KHOAN,Khoản,structure,3981,4206,"3- Bảo đảm phát triển sản xuất, kinh doanh, phân phối lưu thông, dịch vụ ; xây dựng cơ sở vật chất và kỹ thuật của chủ nghĩa xã hội ở địa phương ; bảo đảm thực hiện chính sách tài chính, tiền tệ, giá cả và quản lý thị trường."
+ENTITY,E39_4,KHOAN,Khoản,structure,4207,4294,"4- Quyết định chủ trương, biện pháp về dân số, phân bố lao động và dân cư ở địa phương."
+ENTITY,E39_5,KHOAN,Khoản,structure,4295,4472,"5- Quyết định biện pháp quản lý đất đai, rừng núi, sông hồ, hầm mỏ, bảo vệ tài nguyên thiên nhiên, bảo vệ và cải thiện môi trường sống ở địa phương, theo quy định của pháp luật."
+ENTITY,E39_6,KHOAN,Khoản,structure,4473,4578,6- Bảo đảm thực hiện chính sách tiết kiệm trong mọi hoạt động kinh tế và quản lý Nhà nước của địa phương.
+ENTITY,E39_7,KHOAN,Khoản,structure,4632,4727,"1- Thông qua kế hoạch phát triển khoa học, kỹ thuật và ứng dụng các tiến bộ khoa học, kỹ thuật."
+ENTITY,E39_8,KHOAN,Khoản,structure,4728,4846,"2- Bảo đảm việc thực hiện các quy định của Nhà nước về tiêu chuẩn, đo lường và chất lượng sản phẩm ở các đơn vị cơ sở."
+ENTITY,E39_9,KHOAN,Khoản,structure,4907,5082,"1- Quyết định chủ trương, biện pháp cải thiện đời sống của nhân dân ; từng bước giải quyết việc làm và cải thiện điều kiện làm việc, sinh hoạt của người lao động ở địa phương."
+ENTITY,E39_10,KHOAN,Khoản,structure,5083,5476,"2- Bảo đảm xây dựng con người mới xã hội chủ nghĩa ; phát triển giáo dục, văn hoá, văn nghệ ; bảo vệ, chăm sóc và giáo dục thiếu niên, nhi đồng ; bảo vệ sức khoẻ của nhân dân, của người già, bà mẹ và trẻ em ; vận động sinh đẻ có kế hoạch ; phát triển phong trào thể dục thể thao.
+Xây dựng nếp sống văn minh ; chống những biểu hiện không lành mạnh trong đời sống văn hoá và xã hội ở địa phương."
+ENTITY,E39_11,KHOAN,Khoản,structure,5477,5639,"3- Bảo đảm việc thi hành chính sách bảo hiểm xã hội, cứu tế xã hội ; chăm sóc và giúp đỡ thương binh, bệnh binh, gia đình liệt sĩ, gia đình có công với cách mạng."
+ENTITY,E39_12,KHOAN,Khoản,structure,5694,5949,1- Quyết định các biện pháp tổ chức quốc phòng toàn dân và xây dựng lực lượng vũ trang nhân dân ở địa phương ; bảo đảm thực hiện chế độ nghĩa vụ quân sự ; thực hiện nhiệm vụ hậu cần tại chỗ và chính sách hậu phương đối với các lực lượng vũ trang nhân dân.
+ENTITY,E39_13,KHOAN,Khoản,structure,5950,6071,"2- Bảo vệ an ninh và trật tự, an toàn xã hội ; phòng ngừa và chống những hành động phản cách mạng và những tội phạm khác."
+ENTITY,E39_14,KHOAN,Khoản,structure,6304,6483,"1- Bảo đảm việc thi hành Hiến pháp và pháp luật trong các cơ quan Nhà nước, các tổ chức xã hội, các lực lượng vũ trang nhân dân, trong nhân viên Nhà nước và nhân dân ở địa phương."
+ENTITY,E39_15,KHOAN,Khoản,structure,6484,6640,"2- Trong phạm vi nhiệm vụ và quyền hạn của mình, giám sát việc tuân theo pháp luật của các cơ quan, xí nghiệp và các tổ chức khác của cấp trên ở địa phương."
+ENTITY,E39_16,KHOAN,Khoản,structure,6641,6689,3- Bảo vệ tài sản xã hội chủ nghĩa ở địa phương.
+ENTITY,E39_17,KHOAN,Khoản,structure,6690,6863,"4- Bảo hộ tính mạng, tài sản, tự do, danh dự, nhân phẩm, các quyền và lợi ích chính đáng khác của công dân ; đồng thời động viên nhân dân làm tròn nghĩa vụ đối với Nhà nước."
+ENTITY,E39_18,KHOAN,Khoản,structure,6864,6979,"5- Bảo đảm việc giải quyết các khiếu nại, tố cáo và kiến nghị của nhân dân địa phương, theo quy định của pháp luật."
+ENTITY,E39_19,KHOAN,Khoản,structure,7030,7216,"1- Bầu và bãi miễn các thành viên của Uỷ ban nhân dân ; bầu và bãi miễn các thành viên của Toà án nhân dân cùng cấp, theo quy định của pháp luật.
+Thành lập các Ban của Hội đồng nhân dân."
+ENTITY,E39_20,KHOAN,Khoản,structure,7217,7654,"2- Giải tán Hội đồng nhân dân cấp dưới trực tiếp khi Hội đồng nhân dân này làm thiệt hại nghiêm trọng đến quyền lợi của nhân dân.
+Nghị quyết giải tán đó phải được sự phê chuẩn của Hội đồng nhân dân cấp trên trực tiếp trước khi thi hành. Nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương và cấp tương đương giải tán Hội đồng nhân dân cấp dưới trực tiếp phải được sự phê chuẩn của Hội đồng Nhà nước trước khi thi hành."
+ENTITY,E39_21,KHOAN,Khoản,structure,7655,7752,3- Thông qua đề án phân vạch địa giới các đơn vị hành chính ở địa phương và đề nghị cấp trên xét.
+ENTITY,E39_22,KHOAN,Khoản,structure,7843,8057,"1- Ra những nghị quyết và kiểm tra việc thi hành những nghị quyết đó. Những nghị quyết về những vấn đề mà pháp luật quy định thuộc quyền phê chuẩn của cấp trên thì, trước khi thi hành, phải được cấp trên phê chuẩn."
+ENTITY,E39_23,KHOAN,Khoản,structure,8058,8221,2- Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân cấp dưới ; sửa đổi hoặc bãi bỏ những quyết định không thích đáng của Hội đồng nhân dân cấp dưới trực tiếp.
+ENTITY,E39_24,KHOAN,Khoản,structure,8222,8395,"3- Giám sát công tác của Uỷ ban nhân dân, sửa đổi hoặc bãi bỏ những quyết định không thích đáng của Uỷ ban nhân dân cùng cấp. Giám sát công tác của Toà án nhân dân cùng cấp."
+ENTITY,E39_25,KHOAN,Khoản,structure,8620,9015,"1- Quyết định chủ trương về xây dựng và hoạt động của các đơn vị công nghiệp, nông nghiệp, lâm nghiệp, ngư nghiệp, xây dựng cơ bản, giao thông vận tải, thương nghiệp và các đơn vị sản xuất, kinh doanh khác của địa phương, liên kết kinh tế với các đơn vị của trung ương trên địa bàn tỉnh, thành phố trực thuộc trung ương và cấp tương đương, từng bước hình thành cơ cấu kinh tế công - nông nghiệp."
+ENTITY,E39_26,KHOAN,Khoản,structure,9016,9359,"2- Trên cơ sở bảo đảm việc giao nộp sản phẩm lên trung ương theo chỉ tiêu kế hoạch Nhà nước, quyết định việc cân đối kế hoạch trên địa bàn tỉnh, thành thành phố và tổ chức việc hợp tác kinh tế và khoa học kỹ thuật với các địa phương khác.
+Quyết định chủ trương phát triển sản xuất hàng xuất khẩu theo kế hoạch của trung ương và của địa phương."
+ENTITY,E39_27,KHOAN,Khoản,structure,9360,9484,"3- Quyết định chủ trương về xây dựng và hoạt động của các cơ sở văn hoá, thông tin, giáo dục, y tế và xã hội của địa phương."
+ENTITY,E39_28,KHOAN,Khoản,structure,9485,9563,"4- Quyết định chủ trương, kế hoạch công tác xây dựng huyện và cấp tương đương."
+ENTITY,E39_29,KHOAN,Khoản,structure,9737,9894,"1- Quyết định chủ trương, biện pháp tổ chức sản xuất trên địa bàn huyện, theo quy hoạch của Nhà nước, từng bước hình thành cơ cấu kinh tế nông - công nghiệp."
+ENTITY,E39_30,KHOAN,Khoản,structure,9895,10179,2- Quyết định chủ trương xây dựng và củng cố các hợp tác xã và các tổ chức kinh tế tập thể khác ; bảo đảm thực hiện các quy định của cơ quan Nhà nước cấp trên về việc sử dụng nguồn vốn và tài sản của tập thể và của Nhà nước đầu tư cho các hợp tác xã và các tổ chức kinh tế tập thể đó.
+ENTITY,E39_31,KHOAN,Khoản,structure,10180,10519,"3- Quyết định việc xây dựng các xí nghiệp, trạm, trại và cơ sở kinh doanh, dịch vụ của huyện, liên kết kinh tế với các hợp tác xã và các tổ chức kinh tế tập thể khác ; phát triển sản xuất hàng xuất khẩu theo kế hoạch của cấp trên và của địa phương.
+Quyết định việc xây dựng các cơ sở văn hoá, thông tin, giáo dục,
+y tế và xã hội của huyện."
+ENTITY,E39_32,KHOAN,Khoản,structure,10520,10639,4- Bảo đảm việc thống nhất quản lý thu mua các sản phẩm trên địa bàn huyện theo quy định của cơ quan Nhà nước cấp trên.
+ENTITY,E39_33,KHOAN,Khoản,structure,10640,10831,"5- Trên cơ sở bảo đảm việc giao nộp sản phẩm lên cơ quan Nhà nước cấp trên theo chỉ tiêu kế hoạch Nhà nước, quyết định cân đối kế hoạch về lương thực, thực phẩm và hàng tiêu dùng trong huyện."
+ENTITY,E39_34,KHOAN,Khoản,structure,11034,11234,"1- Quyết định việc xây dựng các cơ sở kinh tế, văn hoá, xã hội của địa phương ; các biện pháp quản lý giao thông, nhà ở và các công trình công cộng ở địa phương, theo sự phân cấp quản lý của cấp trên."
+ENTITY,E39_35,KHOAN,Khoản,structure,11235,11451,"2- Quyết định việc xây dựng và củng cố các hợp tác xã, các tổ chức tập thể sản xuất tiểu công nghiệp, thủ công nghiệp ; phát triển sản xuất hàng tiêu dùng, hàng xuất khẩu theo kế hoạch của cấp trên và của địa phương."
+ENTITY,E39_36,KHOAN,Khoản,structure,11452,11521,3- Bảo đảm xây dựng và phát triển mạng lưới thương nghiệp và dịch vụ.
+ENTITY,E39_37,KHOAN,Khoản,structure,11615,11693,"1- Thực hiện các chủ trương, chính sách và công tác của Nhà nước ở địa phương."
+ENTITY,E39_38,KHOAN,Khoản,structure,11694,11999,"2- Căn cứ vào quy định của cơ quan Nhà nước cấp trên, quyết định các biện pháp giúp đỡ và giám sát các hợp tác xã và các tổ chức kinh tế tập thể khác về các mặt xây dựng và thực hiện kế hoạch sản xuất, kinh doanh, phân phối, chấp hành các chế độ, thể lệ tài chính, giá cả và làm nghĩa vụ đối với Nhà nước."
+ENTITY,E39_39,KHOAN,Khoản,structure,12000,12240,"3- Xây dựng, bảo dưỡng và quản lý đường giao thông, các cơ sở văn hoá, thông tin, giáo dục, y tế, xã hội, phân phối, lưu thông, dịch vụ ở địa phương. Bảo vệ tài sản xã hội chủ nghĩa ; bảo đảm an ninh, trật tự và an toàn xã hội ở địa phương."
+ENTITY,E39_40,KHOAN,Khoản,structure,12241,12377,"4- Vận động và giúp đỡ nông dân cá thể, người làm nghề thủ công và những người lao động riêng lẻ khác tiến lên con đường làm ăn tập thể."
+ENTITY,E39_41,KHOAN,Khoản,structure,12378,12454,"5- Xây dựng nếp sống mới, xoá bỏ nếp sống lạc hậu, bài trừ mê tín, dị đoan.
+"
+ENTITY,E39_42,KHOAN,Khoản,structure,14641,14706,1- Quyết định chương trình làm việc của kỳ họp Hội đồng nhân dân.
+ENTITY,E39_43,KHOAN,Khoản,structure,14707,14766,2- Thẩm tra và xác nhận tư cách đại biểu Hội đồng nhân dân.
+ENTITY,E39_44,KHOAN,Khoản,structure,14767,14889,3- Quyết định kế hoạch và dự toán ngân sách của địa phương ; phê chuẩn việc thực hiện kế hoạch và quyết toán ngân sách đó.
+ENTITY,E39_45,KHOAN,Khoản,structure,14890,15042,"4- Quyết định phương hướng và chủ trương lớn về phát triển sản xuất, phân phối, lưu thông, dịch vụ, văn hoá, xã hội ; về công tác an ninh và quốc phòng."
+ENTITY,E39_46,KHOAN,Khoản,structure,15043,15191,"5- Xét báo cáo về công tác của Uỷ ban nhân dân, của Toà án nhân dân. Xét báo cáo về việc giải quyết các khiếu nại, tố cáo và kiến nghị của nhân dân."
+ENTITY,E39_47,KHOAN,Khoản,structure,15192,15378,"6- Bầu và bãi miễn các thành viên của Uỷ ban nhân dân ; bầu và bãi miễn các thành viên của Toà án nhân dân cùng cấp, theo quy định của pháp luật.
+Thành lập các Ban của Hội đồng nhân dân."
+ENTITY,E39_48,KHOAN,Khoản,structure,15379,15493,7- Xét và quyết định những trường hợp đại biểu Hội đồng nhân dân xin từ chức hoặc không còn xứng đáng là đại biểu.
+ENTITY,E39_49,KHOAN,Khoản,structure,15494,15591,8- Thông qua đề án phân vạch địa giới các đơn vị hành chính ở địa phương và đề nghị cấp trên xét.
+ENTITY,E39_50,KHOAN,Khoản,structure,15592,15724,9- Sửa đổi hoặc bãi bỏ những quyết định không thích đáng của Uỷ ban nhân dân cùng cấp hoặc của Hội đồng nhân dân cấp dưới trực tiếp.
+ENTITY,E39_51,KHOAN,Khoản,structure,15725,15855,10- Giải tán Hội đồng nhân dân cấp dưới trực tiếp khi Hội đồng nhân dân này làm thiệt hại nghiêm trọng đến quyền lợi của nhân dân.
+ENTITY,E39_52,KHOAN,Khoản,structure,17364,17451,"1- Giúp Hội đồng nhân dân quyết định những chủ trương, biện pháp công tác ở địa phương."
+ENTITY,E39_53,KHOAN,Khoản,structure,17452,17535,2- Phối hợp với Uỷ ban nhân dân cùng cấp chuẩn bị các kỳ họp của Hội đồng nhân dân.
+ENTITY,E39_54,KHOAN,Khoản,structure,17536,17597,"3- Thẩm tra các báo cáo, đề án do Hội đồng nhân dân giao cho."
+ENTITY,E39_55,KHOAN,Khoản,structure,17598,17695,4- Nghiên cứu và kiến nghị với Hội đồng nhân dân về những vấn đề thuộc phạm vi hoạt động của Ban.
+ENTITY,E39_56,KHOAN,Khoản,structure,17696,17893,"5- Giúp Hội đồng nhân dân giám sát Uỷ ban nhân dân cùng cấp và các cơ quan khác của Nhà nước ở địa phương trong việc thi hành pháp luật, chính sách của Nhà nước và nghị quyết của Hội đồng nhân dân."
+ENTITY,E39_57,KHOAN,Khoản,structure,17894,18069,"6- Phối hợp với Uỷ ban nhân dân và Uỷ ban Mặt trận Tổ quốc Việt Nam cùng cấp vận động nhân dân thi hành pháp luật, chính sách của Nhà nước và nghị quyết của Hội đồng nhân dân."
+ENTITY,E39_58,KHOAN,Khoản,structure,18070,18298,"7- Chất vấn Uỷ ban nhân dân, các thành viên của Uỷ ban nhân dân, thủ trưởng các cơ quan chuyên môn thuộc Uỷ ban nhân dân và Toà án nhân dân cùng cấp. Thủ tục chất vấn và trả lời chất vấn theo quy định trong Điều 36 của Luật này."
+ENTITY,E39_59,KHOAN,Khoản,structure,18299,18381,8- Xây dựng chế độ làm việc của Ban mình và chế độ phối hợp công tác giữa các Ban.
+ENTITY,E39_60,KHOAN,Khoản,structure,18382,18546,"9- Yêu cầu các thành viên của Uỷ ban nhân dân, các cơ quan và nhân viên Nhà nước và những người hữu quan khác cung cấp tài liệu và trình bày những vấn đề cần thiết."
+ENTITY,E39_61,KHOAN,Khoản,structure,18627,18736,"1- Giúp Chủ tịch Uỷ ban nhân dân điều hoà, phối hợp hoạt động của các Ban chuyên trách của Hội đồng nhân dân."
+ENTITY,E39_62,KHOAN,Khoản,structure,18737,18883,"2- Tổ chức việc tiếp dân của Hội đồng nhân dân, đôn đốc việc giải quyết các khiếu nại, tố cáo và kiến nghị của nhân dân gửi đến Hội đồng nhân dân."
+ENTITY,E39_63,KHOAN,Khoản,structure,18884,18934,3- Giữ quan hệ với các đại biểu Hội đồng nhân dân.
+ENTITY,E39_64,KHOAN,Khoản,structure,28582,28692,"1- Bảo đảm việc thực hiện các nghị quyết của Hội đồng nhân dân và các quyết định, chỉ thị của Uỷ ban nhân dân."
+ENTITY,E39_65,KHOAN,Khoản,structure,28693,28873,"2- Căn cứ vào quyết định của Uỷ ban nhân dân, giữa hai kỳ họp của Uỷ ban, giải quyết những vấn đề thuộc quyền hạn của Uỷ ban và báo cáo với Uỷ ban trong kỳ họp gần nhất của Uỷ ban."
+ENTITY,E39_66,KHOAN,Khoản,structure,28874,29013,3- Chuẩn bị các kỳ họp của Uỷ ban nhân dân ; đưa ra Uỷ ban nhân dân thảo luận những vấn đề thuộc nội dung các kỳ họp của Hội đồng nhân dân.
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R4_1,BI_TAC_DONG_HIEU_LUC_TOAN_BO,Bị tác động hiệu lực toàn bộ,E2_1,E16_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E2_1,E30_8,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E2_1,E30_9,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E2_1,E30_10,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E2_1,E30_11,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E2_1,E30_12,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E2_1,E30_13,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E2_1,E30_14,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E2_1,E30_15,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E2_1,E30_16,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E2_1,E30_17,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E2_1,E30_18,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E2_1,E30_19,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E2_1,E30_20,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E2_1,E30_21,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E2_1,E30_22,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E2_1,E30_23,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E2_1,E30_24,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E2_1,E30_25,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E2_1,E30_26,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E2_1,E30_27,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E2_1,E30_28,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E2_1,E30_29,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E2_1,E30_30,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E2_1,E30_31,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E2_1,E30_32,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E2_1,E30_33,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E2_1,E30_34,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E2_1,E30_35,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E2_1,E30_36,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E2_1,E30_37,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E2_1,E30_38,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E2_1,E30_39,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E2_1,E30_40,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E2_1,E30_41,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E2_1,E30_42,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E2_1,E30_43,,
+RELATION,R18_44,AP_DUNG,Áp dụng,E2_1,E30_44,,
+RELATION,R18_45,AP_DUNG,Áp dụng,E2_1,E30_45,,
+RELATION,R18_46,AP_DUNG,Áp dụng,E2_1,E30_46,,
+RELATION,R18_47,AP_DUNG,Áp dụng,E2_1,E30_47,,
+RELATION,R18_48,AP_DUNG,Áp dụng,E2_1,E30_48,,
+RELATION,R18_49,AP_DUNG,Áp dụng,E2_1,E30_49,,
+RELATION,R18_50,AP_DUNG,Áp dụng,E2_1,E30_50,,
+RELATION,R18_51,AP_DUNG,Áp dụng,E2_1,E30_51,,
+RELATION,R18_52,AP_DUNG,Áp dụng,E2_1,E30_52,,
+RELATION,R18_53,AP_DUNG,Áp dụng,E2_1,E30_53,,
+RELATION,R18_54,AP_DUNG,Áp dụng,E2_1,E30_54,,
+RELATION,R18_55,AP_DUNG,Áp dụng,E2_1,E30_55,,
+RELATION,R18_56,AP_DUNG,Áp dụng,E2_1,E30_56,,
+RELATION,R18_57,AP_DUNG,Áp dụng,E2_1,E30_57,,
+RELATION,R18_58,AP_DUNG,Áp dụng,E2_1,E30_58,,
+RELATION,R18_59,AP_DUNG,Áp dụng,E2_1,E30_59,,
+RELATION,R18_60,AP_DUNG,Áp dụng,E2_1,E30_60,,
+RELATION,R18_61,AP_DUNG,Áp dụng,E2_1,E30_61,,
+RELATION,R18_62,AP_DUNG,Áp dụng,E2_1,E30_62,,
+RELATION,R18_63,AP_DUNG,Áp dụng,E2_1,E30_63,,
+RELATION,R18_64,AP_DUNG,Áp dụng,E2_1,E30_64,,
+RELATION,R18_65,AP_DUNG,Áp dụng,E2_1,E30_65,,
+RELATION,R18_66,AP_DUNG,Áp dụng,E2_1,E30_66,,
+RELATION,R18_67,AP_DUNG,Áp dụng,E2_1,E30_67,,
+RELATION,R18_68,AP_DUNG,Áp dụng,E2_1,E30_68,,
+RELATION,R18_69,AP_DUNG,Áp dụng,E2_1,E30_69,,
+RELATION,R18_70,AP_DUNG,Áp dụng,E2_1,E30_70,,
+RELATION,R18_71,AP_DUNG,Áp dụng,E2_1,E30_71,,
+RELATION,R18_72,AP_DUNG,Áp dụng,E2_1,E30_72,,
+RELATION,R18_73,AP_DUNG,Áp dụng,E2_1,E30_73,,
+RELATION,R18_74,AP_DUNG,Áp dụng,E2_1,E30_74,,
+RELATION,R18_75,AP_DUNG,Áp dụng,E2_1,E30_75,,
+RELATION,R18_76,AP_DUNG,Áp dụng,E2_1,E30_76,,
+RELATION,R18_77,AP_DUNG,Áp dụng,E2_1,E30_77,,
+RELATION,R18_78,AP_DUNG,Áp dụng,E2_1,E30_78,,
+RELATION,R18_79,AP_DUNG,Áp dụng,E2_1,E30_79,,
+RELATION,R18_80,AP_DUNG,Áp dụng,E2_1,E30_80,,
+RELATION,R18_81,AP_DUNG,Áp dụng,E2_1,E30_81,,
+RELATION,R18_82,AP_DUNG,Áp dụng,E2_1,E30_82,,
+RELATION,R18_83,AP_DUNG,Áp dụng,E2_1,E30_83,,
+RELATION,R18_84,AP_DUNG,Áp dụng,E2_1,E30_84,,
+RELATION,R18_85,AP_DUNG,Áp dụng,E2_1,E30_85,,
+RELATION,R18_86,AP_DUNG,Áp dụng,E2_1,E30_86,,
+RELATION,R18_87,AP_DUNG,Áp dụng,E2_1,E30_87,,
+RELATION,R18_88,AP_DUNG,Áp dụng,E2_1,E30_88,,
+RELATION,R18_89,AP_DUNG,Áp dụng,E2_1,E30_89,,
+RELATION,R18_90,AP_DUNG,Áp dụng,E2_1,E30_90,,
+RELATION,R18_91,AP_DUNG,Áp dụng,E2_1,E30_91,,
+RELATION,R18_92,AP_DUNG,Áp dụng,E2_1,E30_92,,
+RELATION,R18_93,AP_DUNG,Áp dụng,E2_1,E30_93,,
+RELATION,R18_94,AP_DUNG,Áp dụng,E2_1,E30_94,,
+RELATION,R18_95,AP_DUNG,Áp dụng,E2_1,E30_95,,
+RELATION,R18_96,AP_DUNG,Áp dụng,E2_1,E30_96,,
+RELATION,R18_97,AP_DUNG,Áp dụng,E2_1,E30_97,,
+RELATION,R18_98,AP_DUNG,Áp dụng,E2_1,E30_98,,
+RELATION,R18_99,AP_DUNG,Áp dụng,E2_1,E30_99,,
+RELATION,R18_100,AP_DUNG,Áp dụng,E2_1,E30_100,,
+RELATION,R18_101,AP_DUNG,Áp dụng,E2_1,E30_101,,
+RELATION,R18_102,AP_DUNG,Áp dụng,E2_1,E30_102,,
+RELATION,R18_103,AP_DUNG,Áp dụng,E2_1,E30_103,,
+RELATION,R18_104,AP_DUNG,Áp dụng,E2_1,E30_104,,
+RELATION,R18_105,AP_DUNG,Áp dụng,E2_1,E30_105,,
+RELATION,R18_106,AP_DUNG,Áp dụng,E2_1,E30_106,,
+RELATION,R18_107,AP_DUNG,Áp dụng,E2_1,E30_107,,
+RELATION,R18_108,AP_DUNG,Áp dụng,E2_1,E30_108,,
+RELATION,R18_109,AP_DUNG,Áp dụng,E2_1,E30_109,,
+RELATION,R18_110,AP_DUNG,Áp dụng,E2_1,E30_110,,
+RELATION,R18_111,AP_DUNG,Áp dụng,E2_1,E30_111,,
+RELATION,R18_112,AP_DUNG,Áp dụng,E2_1,E30_112,,
+RELATION,R18_113,AP_DUNG,Áp dụng,E2_1,E30_113,,
+RELATION,R18_114,AP_DUNG,Áp dụng,E2_1,E30_114,,
+RELATION,R18_115,AP_DUNG,Áp dụng,E2_1,E30_115,,
+RELATION,R18_116,AP_DUNG,Áp dụng,E2_1,E30_116,,
+RELATION,R18_117,AP_DUNG,Áp dụng,E2_1,E30_117,,
+RELATION,R18_118,AP_DUNG,Áp dụng,E2_1,E30_118,,
+RELATION,R18_119,AP_DUNG,Áp dụng,E2_1,E30_119,,
+RELATION,R18_120,AP_DUNG,Áp dụng,E2_1,E30_120,,
+RELATION,R18_121,AP_DUNG,Áp dụng,E2_1,E30_121,,
+RELATION,R18_122,AP_DUNG,Áp dụng,E2_1,E30_122,,
+RELATION,R18_123,AP_DUNG,Áp dụng,E2_1,E30_123,,
+RELATION,R18_124,AP_DUNG,Áp dụng,E2_1,E30_124,,
+RELATION,R18_125,AP_DUNG,Áp dụng,E2_1,E30_125,,
+RELATION,R18_126,AP_DUNG,Áp dụng,E2_1,E30_126,,
+RELATION,R18_127,AP_DUNG,Áp dụng,E2_1,E30_127,,
+RELATION,R18_128,AP_DUNG,Áp dụng,E2_1,E30_128,,
+RELATION,R18_129,AP_DUNG,Áp dụng,E2_1,E30_129,,
+RELATION,R18_130,AP_DUNG,Áp dụng,E2_1,E30_130,,
+RELATION,R18_131,AP_DUNG,Áp dụng,E2_1,E30_131,,
+RELATION,R18_132,AP_DUNG,Áp dụng,E2_1,E30_132,,
+RELATION,R18_133,AP_DUNG,Áp dụng,E2_1,E30_133,,
+RELATION,R18_134,AP_DUNG,Áp dụng,E2_1,E30_134,,
+RELATION,R18_135,AP_DUNG,Áp dụng,E2_1,E30_135,,
+RELATION,R18_136,AP_DUNG,Áp dụng,E2_1,E30_136,,
+RELATION,R18_137,AP_DUNG,Áp dụng,E2_1,E30_137,,
+RELATION,R18_138,AP_DUNG,Áp dụng,E2_1,E30_138,,
+RELATION,R18_139,AP_DUNG,Áp dụng,E2_1,E30_139,,
+RELATION,R18_140,AP_DUNG,Áp dụng,E2_1,E30_140,,
+RELATION,R18_141,AP_DUNG,Áp dụng,E2_1,E30_141,,
+RELATION,R18_142,AP_DUNG,Áp dụng,E2_1,E30_142,,
+RELATION,R18_143,AP_DUNG,Áp dụng,E2_1,E30_143,,
+RELATION,R18_144,AP_DUNG,Áp dụng,E2_1,E30_144,,
+RELATION,R18_145,AP_DUNG,Áp dụng,E2_1,E30_145,,
+RELATION,R18_146,AP_DUNG,Áp dụng,E2_1,E30_146,,
+RELATION,R18_147,AP_DUNG,Áp dụng,E2_1,E30_147,,
+RELATION,R18_148,AP_DUNG,Áp dụng,E2_1,E30_148,,
+RELATION,R18_149,AP_DUNG,Áp dụng,E2_1,E30_149,,
+RELATION,R18_150,AP_DUNG,Áp dụng,E2_1,E30_150,,
+RELATION,R18_151,AP_DUNG,Áp dụng,E2_1,E30_151,,
+RELATION,R18_152,AP_DUNG,Áp dụng,E2_1,E30_152,,
+RELATION,R18_153,AP_DUNG,Áp dụng,E2_1,E30_153,,
+RELATION,R18_154,AP_DUNG,Áp dụng,E2_1,E30_154,,
+RELATION,R18_155,AP_DUNG,Áp dụng,E2_1,E30_155,,
+RELATION,R18_156,AP_DUNG,Áp dụng,E2_1,E30_156,,
+RELATION,R18_157,AP_DUNG,Áp dụng,E2_1,E30_157,,
+RELATION,R18_158,AP_DUNG,Áp dụng,E2_1,E30_158,,
+RELATION,R18_159,AP_DUNG,Áp dụng,E2_1,E30_159,,
+RELATION,R18_160,AP_DUNG,Áp dụng,E2_1,E30_160,,
+RELATION,R18_161,AP_DUNG,Áp dụng,E2_1,E30_161,,
+RELATION,R18_162,AP_DUNG,Áp dụng,E2_1,E30_162,,
+RELATION,R18_163,AP_DUNG,Áp dụng,E2_1,E30_163,,
+RELATION,R18_164,AP_DUNG,Áp dụng,E2_1,E30_164,,
+RELATION,R18_165,AP_DUNG,Áp dụng,E2_1,E30_165,,
+RELATION,R18_166,AP_DUNG,Áp dụng,E2_1,E30_166,,
+RELATION,R18_167,AP_DUNG,Áp dụng,E2_1,E30_167,,
+RELATION,R18_168,AP_DUNG,Áp dụng,E2_1,E30_168,,
+RELATION,R18_169,AP_DUNG,Áp dụng,E2_1,E30_169,,
+RELATION,R18_170,AP_DUNG,Áp dụng,E2_1,E30_170,,
+RELATION,R18_171,AP_DUNG,Áp dụng,E2_1,E30_171,,
+RELATION,R18_172,AP_DUNG,Áp dụng,E2_1,E30_172,,
+RELATION,R18_173,AP_DUNG,Áp dụng,E2_1,E30_173,,
+RELATION,R18_174,AP_DUNG,Áp dụng,E2_1,E30_174,,
+RELATION,R18_175,AP_DUNG,Áp dụng,E2_1,E30_175,,
+RELATION,R18_176,AP_DUNG,Áp dụng,E2_1,E30_176,,
+RELATION,R18_177,AP_DUNG,Áp dụng,E2_1,E30_177,,
+RELATION,R18_178,AP_DUNG,Áp dụng,E2_1,E30_178,,
+RELATION,R18_179,AP_DUNG,Áp dụng,E2_1,E30_179,,
+RELATION,R18_180,AP_DUNG,Áp dụng,E2_1,E30_180,,
+RELATION,R18_181,AP_DUNG,Áp dụng,E2_1,E30_181,,
+RELATION,R18_182,AP_DUNG,Áp dụng,E2_1,E30_182,,
+RELATION,R18_183,AP_DUNG,Áp dụng,E2_1,E30_183,,
+RELATION,R18_184,AP_DUNG,Áp dụng,E2_1,E30_184,,
+RELATION,R18_185,AP_DUNG,Áp dụng,E2_1,E30_185,,
+RELATION,R18_186,AP_DUNG,Áp dụng,E2_1,E30_186,,
+RELATION,R18_187,AP_DUNG,Áp dụng,E2_1,E30_187,,
+RELATION,R18_188,AP_DUNG,Áp dụng,E2_1,E30_188,,
+RELATION,R18_189,AP_DUNG,Áp dụng,E2_1,E30_189,,
+RELATION,R18_190,AP_DUNG,Áp dụng,E2_1,E30_190,,
+RELATION,R18_191,AP_DUNG,Áp dụng,E2_1,E30_191,,
+RELATION,R18_192,AP_DUNG,Áp dụng,E2_1,E30_192,,
+RELATION,R18_193,AP_DUNG,Áp dụng,E2_1,E30_193,,
+RELATION,R18_194,AP_DUNG,Áp dụng,E2_1,E30_194,,
+RELATION,R18_195,AP_DUNG,Áp dụng,E2_1,E30_195,,
+RELATION,R18_196,AP_DUNG,Áp dụng,E2_1,E30_196,,
+RELATION,R18_197,AP_DUNG,Áp dụng,E2_1,E30_197,,
+RELATION,R18_198,AP_DUNG,Áp dụng,E2_1,E30_198,,
+RELATION,R18_199,AP_DUNG,Áp dụng,E2_1,E30_199,,
+RELATION,R18_200,AP_DUNG,Áp dụng,E2_1,E30_200,,
+RELATION,R18_201,AP_DUNG,Áp dụng,E2_1,E30_201,,
+RELATION,R18_202,AP_DUNG,Áp dụng,E2_1,E30_202,,
+RELATION,R18_203,AP_DUNG,Áp dụng,E2_1,E30_203,,
+RELATION,R18_204,AP_DUNG,Áp dụng,E2_1,E30_204,,
+RELATION,R18_205,AP_DUNG,Áp dụng,E2_1,E30_205,,
+RELATION,R18_206,AP_DUNG,Áp dụng,E2_1,E30_206,,
+RELATION,R18_207,AP_DUNG,Áp dụng,E2_1,E30_207,,
+RELATION,R18_208,AP_DUNG,Áp dụng,E2_1,E30_208,,
+RELATION,R18_209,AP_DUNG,Áp dụng,E2_1,E30_209,,
+RELATION,R18_210,AP_DUNG,Áp dụng,E2_1,E30_210,,
+RELATION,R18_211,AP_DUNG,Áp dụng,E2_1,E30_211,,
+RELATION,R18_212,AP_DUNG,Áp dụng,E2_1,E30_212,,
+RELATION,R18_213,AP_DUNG,Áp dụng,E2_1,E30_213,,
+RELATION,R18_214,AP_DUNG,Áp dụng,E2_1,E30_214,,
+RELATION,R18_215,AP_DUNG,Áp dụng,E2_1,E30_215,,
+RELATION,R18_216,AP_DUNG,Áp dụng,E2_1,E30_216,,
+RELATION,R18_217,AP_DUNG,Áp dụng,E2_1,E30_217,,
+RELATION,R18_218,AP_DUNG,Áp dụng,E2_1,E30_218,,
+RELATION,R18_219,AP_DUNG,Áp dụng,E2_1,E30_219,,
+RELATION,R18_220,AP_DUNG,Áp dụng,E2_1,E30_220,,
+RELATION,R18_221,AP_DUNG,Áp dụng,E2_1,E30_221,,
+RELATION,R18_222,AP_DUNG,Áp dụng,E2_1,E30_222,,
+RELATION,R18_223,AP_DUNG,Áp dụng,E2_1,E30_223,,
+RELATION,R18_224,AP_DUNG,Áp dụng,E2_1,E30_224,,
+RELATION,R18_225,AP_DUNG,Áp dụng,E2_1,E30_225,,
+RELATION,R18_226,AP_DUNG,Áp dụng,E2_1,E30_226,,
+RELATION,R18_227,AP_DUNG,Áp dụng,E2_1,E30_227,,
+RELATION,R18_228,AP_DUNG,Áp dụng,E2_1,E30_228,,
+RELATION,R18_229,AP_DUNG,Áp dụng,E2_1,E30_229,,
+RELATION,R18_230,AP_DUNG,Áp dụng,E2_1,E30_230,,
+RELATION,R18_231,AP_DUNG,Áp dụng,E2_1,E30_231,,
+RELATION,R18_232,AP_DUNG,Áp dụng,E2_1,E30_232,,
+RELATION,R18_233,AP_DUNG,Áp dụng,E2_1,E30_233,,
+RELATION,R18_234,AP_DUNG,Áp dụng,E2_1,E30_234,,
+RELATION,R18_235,AP_DUNG,Áp dụng,E2_1,E30_235,,
+RELATION,R18_236,AP_DUNG,Áp dụng,E2_1,E30_236,,
+RELATION,R18_237,AP_DUNG,Áp dụng,E2_1,E30_237,,
+RELATION,R18_238,AP_DUNG,Áp dụng,E2_1,E30_238,,
+RELATION,R18_239,AP_DUNG,Áp dụng,E2_1,E30_239,,
+RELATION,R18_240,AP_DUNG,Áp dụng,E2_1,E30_240,,
+RELATION,R18_241,AP_DUNG,Áp dụng,E2_1,E30_241,,
+RELATION,R18_242,AP_DUNG,Áp dụng,E2_1,E30_242,,
+RELATION,R18_243,AP_DUNG,Áp dụng,E2_1,E30_243,,
+RELATION,R18_244,AP_DUNG,Áp dụng,E2_1,E30_244,,
+RELATION,R18_245,AP_DUNG,Áp dụng,E2_1,E30_245,,
+RELATION,R18_246,AP_DUNG,Áp dụng,E2_1,E30_246,,
+RELATION,R18_247,AP_DUNG,Áp dụng,E2_1,E30_247,,
+RELATION,R18_248,AP_DUNG,Áp dụng,E2_1,E30_248,,
+RELATION,R18_249,AP_DUNG,Áp dụng,E2_1,E30_249,,
+RELATION,R18_250,AP_DUNG,Áp dụng,E2_1,E30_250,,
+RELATION,R18_251,AP_DUNG,Áp dụng,E2_1,E30_251,,
+RELATION,R18_252,AP_DUNG,Áp dụng,E2_1,E30_252,,
+RELATION,R18_253,AP_DUNG,Áp dụng,E2_1,E30_253,,
+RELATION,R18_254,AP_DUNG,Áp dụng,E2_1,E30_254,,
+RELATION,R18_255,AP_DUNG,Áp dụng,E2_1,E30_255,,
+RELATION,R18_256,AP_DUNG,Áp dụng,E2_1,E30_256,,
+RELATION,R18_257,AP_DUNG,Áp dụng,E2_1,E30_257,,
+RELATION,R18_258,AP_DUNG,Áp dụng,E2_1,E30_258,,
+RELATION,R18_259,AP_DUNG,Áp dụng,E2_1,E30_259,,
+RELATION,R18_260,AP_DUNG,Áp dụng,E2_1,E30_260,,
+RELATION,R18_261,AP_DUNG,Áp dụng,E2_1,E30_261,,
+RELATION,R18_262,AP_DUNG,Áp dụng,E2_1,E30_262,,
+RELATION,R18_263,AP_DUNG,Áp dụng,E2_1,E30_263,,
+RELATION,R18_264,AP_DUNG,Áp dụng,E2_1,E30_264,,
+RELATION,R18_265,AP_DUNG,Áp dụng,E2_1,E30_265,,
+RELATION,R18_266,AP_DUNG,Áp dụng,E2_1,E30_266,,
+RELATION,R18_267,AP_DUNG,Áp dụng,E2_1,E30_267,,
+RELATION,R18_268,AP_DUNG,Áp dụng,E2_1,E30_268,,
+RELATION,R18_269,AP_DUNG,Áp dụng,E2_1,E30_269,,
+RELATION,R18_270,AP_DUNG,Áp dụng,E2_1,E30_270,,
+RELATION,R18_271,AP_DUNG,Áp dụng,E2_1,E30_271,,
+RELATION,R18_272,AP_DUNG,Áp dụng,E2_1,E30_272,,
+RELATION,R18_273,AP_DUNG,Áp dụng,E2_1,E30_273,,
+RELATION,R18_274,AP_DUNG,Áp dụng,E2_1,E30_274,,
+RELATION,R18_275,AP_DUNG,Áp dụng,E2_1,E30_275,,
+RELATION,R18_276,AP_DUNG,Áp dụng,E2_1,E30_276,,
+RELATION,R18_277,AP_DUNG,Áp dụng,E2_1,E30_277,,
+RELATION,R18_278,AP_DUNG,Áp dụng,E2_1,E30_278,,
+RELATION,R18_279,AP_DUNG,Áp dụng,E2_1,E30_279,,
+RELATION,R18_280,AP_DUNG,Áp dụng,E2_1,E30_280,,
+RELATION,R18_281,AP_DUNG,Áp dụng,E2_1,E30_281,,
+RELATION,R18_282,AP_DUNG,Áp dụng,E2_1,E30_282,,
+RELATION,R18_283,AP_DUNG,Áp dụng,E2_1,E30_283,,
+RELATION,R18_284,AP_DUNG,Áp dụng,E2_1,E30_284,,
+RELATION,R18_285,AP_DUNG,Áp dụng,E2_1,E30_285,,
+RELATION,R18_286,AP_DUNG,Áp dụng,E2_1,E30_286,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E38_1,E35_1,,
+RELATION,R22_4,THUOC,Thuộc,E38_2,E35_1,,
+RELATION,R22_5,THUOC,Thuộc,E38_3,E35_1,,
+RELATION,R22_6,THUOC,Thuộc,E38_4,E35_1,,
+RELATION,R22_7,THUOC,Thuộc,E38_5,E35_1,,
+RELATION,R22_8,THUOC,Thuộc,E38_6,E35_1,,
+RELATION,R22_9,THUOC,Thuộc,E38_7,E35_1,,
+RELATION,R22_10,THUOC,Thuộc,E38_8,E35_2,,
+RELATION,R22_11,THUOC,Thuộc,E38_9,E35_2,,
+RELATION,R22_12,THUOC,Thuộc,E39_1,E38_9,,
+RELATION,R22_13,THUOC,Thuộc,E39_2,E38_9,,
+RELATION,R22_14,THUOC,Thuộc,E39_3,E38_9,,
+RELATION,R22_15,THUOC,Thuộc,E39_4,E38_9,,
+RELATION,R22_16,THUOC,Thuộc,E39_5,E38_9,,
+RELATION,R22_17,THUOC,Thuộc,E39_6,E38_9,,
+RELATION,R22_18,THUOC,Thuộc,E38_10,E35_2,,
+RELATION,R22_19,THUOC,Thuộc,E39_7,E38_10,,
+RELATION,R22_20,THUOC,Thuộc,E39_8,E38_10,,
+RELATION,R22_21,THUOC,Thuộc,E38_11,E35_2,,
+RELATION,R22_22,THUOC,Thuộc,E39_9,E38_11,,
+RELATION,R22_23,THUOC,Thuộc,E39_10,E38_11,,
+RELATION,R22_24,THUOC,Thuộc,E39_11,E38_11,,
+RELATION,R22_25,THUOC,Thuộc,E38_12,E35_2,,
+RELATION,R22_26,THUOC,Thuộc,E39_12,E38_12,,
+RELATION,R22_27,THUOC,Thuộc,E39_13,E38_12,,
+RELATION,R22_28,THUOC,Thuộc,E38_13,E35_2,,
+RELATION,R22_29,THUOC,Thuộc,E38_14,E35_2,,
+RELATION,R22_30,THUOC,Thuộc,E39_14,E38_14,,
+RELATION,R22_31,THUOC,Thuộc,E39_15,E38_14,,
+RELATION,R22_32,THUOC,Thuộc,E39_16,E38_14,,
+RELATION,R22_33,THUOC,Thuộc,E39_17,E38_14,,
+RELATION,R22_34,THUOC,Thuộc,E39_18,E38_14,,
+RELATION,R22_35,THUOC,Thuộc,E38_15,E35_2,,
+RELATION,R22_36,THUOC,Thuộc,E39_19,E38_15,,
+RELATION,R22_37,THUOC,Thuộc,E39_20,E38_15,,
+RELATION,R22_38,THUOC,Thuộc,E39_21,E38_15,,
+RELATION,R22_39,THUOC,Thuộc,E38_16,E35_2,,
+RELATION,R22_40,THUOC,Thuộc,E39_22,E38_16,,
+RELATION,R22_41,THUOC,Thuộc,E39_23,E38_16,,
+RELATION,R22_42,THUOC,Thuộc,E39_24,E38_16,,
+RELATION,R22_43,THUOC,Thuộc,E38_17,E35_2,,
+RELATION,R22_44,THUOC,Thuộc,E39_25,E38_17,,
+RELATION,R22_45,THUOC,Thuộc,E39_26,E38_17,,
+RELATION,R22_46,THUOC,Thuộc,E39_27,E38_17,,
+RELATION,R22_47,THUOC,Thuộc,E39_28,E38_17,,
+RELATION,R22_48,THUOC,Thuộc,E38_18,E35_2,,
+RELATION,R22_49,THUOC,Thuộc,E39_29,E38_18,,
+RELATION,R22_50,THUOC,Thuộc,E39_30,E38_18,,
+RELATION,R22_51,THUOC,Thuộc,E39_31,E38_18,,
+RELATION,R22_52,THUOC,Thuộc,E39_32,E38_18,,
+RELATION,R22_53,THUOC,Thuộc,E39_33,E38_18,,
+RELATION,R22_54,THUOC,Thuộc,E38_19,E35_2,,
+RELATION,R22_55,THUOC,Thuộc,E39_34,E38_19,,
+RELATION,R22_56,THUOC,Thuộc,E39_35,E38_19,,
+RELATION,R22_57,THUOC,Thuộc,E39_36,E38_19,,
+RELATION,R22_58,THUOC,Thuộc,E38_20,E35_2,,
+RELATION,R22_59,THUOC,Thuộc,E39_37,E38_20,,
+RELATION,R22_60,THUOC,Thuộc,E39_38,E38_20,,
+RELATION,R22_61,THUOC,Thuộc,E39_39,E38_20,,
+RELATION,R22_62,THUOC,Thuộc,E39_40,E38_20,,
+RELATION,R22_63,THUOC,Thuộc,E39_41,E38_20,,
+RELATION,R22_64,THUOC,Thuộc,E38_21,E35_3,,
+RELATION,R22_65,THUOC,Thuộc,E38_22,E35_3,,
+RELATION,R22_66,THUOC,Thuộc,E38_23,E35_3,,
+RELATION,R22_67,THUOC,Thuộc,E38_24,E35_3,,
+RELATION,R22_68,THUOC,Thuộc,E39_42,E38_24,,
+RELATION,R22_69,THUOC,Thuộc,E39_43,E38_24,,
+RELATION,R22_70,THUOC,Thuộc,E39_44,E38_24,,
+RELATION,R22_71,THUOC,Thuộc,E39_45,E38_24,,
+RELATION,R22_72,THUOC,Thuộc,E39_46,E38_24,,
+RELATION,R22_73,THUOC,Thuộc,E39_47,E38_24,,
+RELATION,R22_74,THUOC,Thuộc,E39_48,E38_24,,
+RELATION,R22_75,THUOC,Thuộc,E39_49,E38_24,,
+RELATION,R22_76,THUOC,Thuộc,E39_50,E38_24,,
+RELATION,R22_77,THUOC,Thuộc,E39_51,E38_24,,
+RELATION,R22_78,THUOC,Thuộc,E38_25,E35_3,,
+RELATION,R22_79,THUOC,Thuộc,E38_26,E35_3,,
+RELATION,R22_80,THUOC,Thuộc,E38_27,E35_4,,
+RELATION,R22_81,THUOC,Thuộc,E38_28,E35_4,,
+RELATION,R22_82,THUOC,Thuộc,E38_29,E35_4,,
+RELATION,R22_83,THUOC,Thuộc,E39_52,E38_29,,
+RELATION,R22_84,THUOC,Thuộc,E39_53,E38_29,,
+RELATION,R22_85,THUOC,Thuộc,E39_54,E38_29,,
+RELATION,R22_86,THUOC,Thuộc,E39_55,E38_29,,
+RELATION,R22_87,THUOC,Thuộc,E39_56,E38_29,,
+RELATION,R22_88,THUOC,Thuộc,E39_57,E38_29,,
+RELATION,R22_89,THUOC,Thuộc,E39_58,E38_29,,
+RELATION,R22_90,THUOC,Thuộc,E39_59,E38_29,,
+RELATION,R22_91,THUOC,Thuộc,E39_60,E38_29,,
+RELATION,R22_92,THUOC,Thuộc,E38_30,E35_4,,
+RELATION,R22_93,THUOC,Thuộc,E39_61,E38_30,,
+RELATION,R22_94,THUOC,Thuộc,E39_62,E38_30,,
+RELATION,R22_95,THUOC,Thuộc,E39_63,E38_30,,
+RELATION,R22_96,THUOC,Thuộc,E38_31,E35_4,,
+RELATION,R22_97,THUOC,Thuộc,E38_32,E35_5,,
+RELATION,R22_98,THUOC,Thuộc,E38_33,E35_5,,
+RELATION,R22_99,THUOC,Thuộc,E38_34,E35_5,,
+RELATION,R22_100,THUOC,Thuộc,E38_35,E35_5,,
+RELATION,R22_101,THUOC,Thuộc,E38_36,E35_5,,
+RELATION,R22_102,THUOC,Thuộc,E38_37,E35_5,,
+RELATION,R22_103,THUOC,Thuộc,E38_38,E35_5,,
+RELATION,R22_104,THUOC,Thuộc,E38_39,E35_5,,
+RELATION,R22_105,THUOC,Thuộc,E38_40,E35_5,,
+RELATION,R22_106,THUOC,Thuộc,E38_41,E35_5,,
+RELATION,R22_107,THUOC,Thuộc,E38_42,E35_5,,
+RELATION,R22_108,THUOC,Thuộc,E38_43,E35_5,,
+RELATION,R22_109,THUOC,Thuộc,E38_44,E35_5,,
+RELATION,R22_110,THUOC,Thuộc,E38_45,E35_5,,
+RELATION,R22_111,THUOC,Thuộc,E36_1,E35_6,,
+RELATION,R22_112,THUOC,Thuộc,E38_46,E36_1,,
+RELATION,R22_113,THUOC,Thuộc,E38_47,E36_1,,
+RELATION,R22_114,THUOC,Thuộc,E38_48,E36_1,,
+RELATION,R22_115,THUOC,Thuộc,E38_49,E36_1,,
+RELATION,R22_116,THUOC,Thuộc,E36_2,E35_6,,
+RELATION,R22_117,THUOC,Thuộc,E38_50,E36_2,,
+RELATION,R22_118,THUOC,Thuộc,E38_51,E36_2,,
+RELATION,R22_119,THUOC,Thuộc,E38_52,E36_2,,
+RELATION,R22_120,THUOC,Thuộc,E38_53,E36_2,,
+RELATION,R22_121,THUOC,Thuộc,E39_64,E38_53,,
+RELATION,R22_122,THUOC,Thuộc,E39_65,E38_53,,
+RELATION,R22_123,THUOC,Thuộc,E39_66,E38_53,,
+RELATION,R22_124,THUOC,Thuộc,E38_54,E36_2,,
+RELATION,R22_125,THUOC,Thuộc,E38_55,E36_2,,
+RELATION,R22_126,THUOC,Thuộc,E38_56,E36_2,,
+RELATION,R22_127,THUOC,Thuộc,E36_3,E35_6,,
+RELATION,R22_128,THUOC,Thuộc,E38_57,E36_3,,
+RELATION,R22_129,THUOC,Thuộc,E38_58,E36_3,,
+RELATION,R22_130,THUOC,Thuộc,E38_59,E36_3,,
+RELATION,R22_131,THUOC,Thuộc,E38_60,E35_7,,
+RELATION,R22_132,THUOC,Thuộc,E38_61,E35_7,,
+RELATION,R22_133,THUOC,Thuộc,E38_62,E35_7,,
+RELATION,R22_134,THUOC,Thuộc,E38_63,E35_7,,
+RELATION,R22_135,THUOC,Thuộc,E38_64,E35_7,,
+RELATION,R22_136,THUOC,Thuộc,E38_65,E35_8,,
+RELATION,R22_137,THUOC,Thuộc,E38_66,E35_8,,
+RELATION,R22_138,THUOC,Thuộc,E38_67,E35_8,,
+RELATION,R22_139,THUOC,Thuộc,E38_68,E35_8,,
+RELATION,R22_140,THUOC,Thuộc,E38_69,E35_8,,
+RELATION,R22_141,THUOC,Thuộc,E38_70,E35_9,,
+RELATION,R22_142,THUOC,Thuộc,E38_71,E35_9,,

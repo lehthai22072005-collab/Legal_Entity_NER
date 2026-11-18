@@ -1,0 +1,141 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,75,"Luật sửa đổi, bổ sung một số điều của Luật Công an nhân dân số 21/2023/QH15"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,63,75,21/2023/QH15
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,6199,6223,ngày 22 tháng 6 năm 2023
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,6322,6336,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,6076,6100,ngày 15 tháng 8 năm 2023
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,6360,6372,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,312,320,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,6225,6242,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,6243,6257,Vương Đình Huệ
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,368,405,Luật Công an nhân dân số 37/2018/QH14
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,261,310,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,6392,6811,"Thông tư số 48/2025/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 09/2024/TT-BCA ngày 13 tháng 3 năm 2024 của Bộ trưởng Bộ Công an quy định về việc thực hiện công tác dân vận của lực lượng Công an nhân dân và Thông tư số 124/2021/TT-BCA ngày 28 tháng 12 năm 2021 của Bộ trưởng Bộ Công an quy định khu dân cư, xã, phường, thị trấn, cơ quan, doanh nghiệp, cơ sở giáo dục đạt tiêu chuẩn “An toàn về an ninh, trật tự”"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,6831,7057,"Nghị quyết số 05/2024/NQ-HĐND Quy định tiêu chí thành lập và tiêu chí số lượng thành viên Tổ bảo vệ an ninh, trật tự; nội dung và mức hỗ trợ đối với lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Lạng Sơn"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,7077,7194,"Thông tư số 36/2023/TT-BCA Quy định quy trình tuần tra, kiểm soát và xử lý vi phạm hành chính của Cảnh sát đường thủy"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,7214,7308,Thông tư số 56/2024/TT-BCA Quy định chi tiết một số điều của Luật Nhà ở trong Công an nhân dân
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,7328,7513,"Nghị quyết số 38/2024/NQ-HĐND Về việc quy định một số nội dung, mức chi hỗ trợ lực lượng Cảnh sát hình sự, lực lượng Cảnh sát chữa cháy và cứu nạn, cứu hộ thuộc Công an thành phố Hà Nội"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,7533,7674,"Thông tư số 38/2025/TT-BCA Quy định về thực hiện dân chủ trong công tác phòng cháy, chữa cháy, cứu nạn, cứu hộ của lực lượng Công an nhân dân"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,7694,7796,"Thông tư số 69/2024/TT-BCA Quy định về chỉ huy, điều khiển giao thông đường bộ của Cảnh sát giao thông"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,7816,8239,"Thông tư số 28/2024/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 32/2023/TT-BCA ngày 01 tháng 8 năm 2023 của Bộ trưởng Bộ Công an quy định nhiệm vụ, quyền hạn, hình thức, nội dung và quy trình tuần tra, kiểm soát, xử lý vi phạm hành chính về giao thông đường bộ của Cảnh sát giao thông; Thông tư số 24/2023/TT-BCA ngày 01 tháng 7 năm 2023 của Bộ trưởng Bộ Công an quy định về cấp, thu hồi đăng ký, biển số xe cơ giới"
+ENTITY,E30_9,VB_AP_DUNG,Văn bản áp dụng,reference,8259,8614,"Nghị quyết số 44/2025/NQ-HĐND Sửa đổi, bổ sung một số điều của Nghị quyết số 12/2024/NQ-HĐND ngày 01/7/2024 của hđnd thành phố hà nội quy định tiêu chí thành lập, tiêu chí số lượng thành viên tổ bảo vệ an ninh, trật tự ở cơ sở; nội dung mức chi hỗ trợ đối với người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn thành phố Hà Nội"
+ENTITY,E30_10,VB_AP_DUNG,Văn bản áp dụng,reference,8634,8785,"Nghị định số 63/2024/NĐ-CP Quy định công tác kiểm tra, kiểm soát và xử lý vi phạm pháp luật trong lĩnh vực giao thông đường sắt của Cảnh sát giao thông"
+ENTITY,E30_11,VB_AP_DUNG,Văn bản áp dụng,reference,8805,9046,"Thông tư số 67/2024/TT-BCA Quy định quy trình quản lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ trong Công an nhân dân và dữ liệu thu được từ phương tiện, thiết bị kỹ thuật do cá nhân, tổ chức cung cấp để phát hiện vi phạm hành chính"
+ENTITY,E30_12,VB_AP_DUNG,Văn bản áp dụng,reference,9066,9219,"Thông tư số 73/2024/TT-BCA Quy định công tác tuần tra, kiểm soát, xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ của Cảnh sát giao thông"
+ENTITY,E30_13,VB_AP_DUNG,Văn bản áp dụng,reference,9239,9663,"Thông tư số 04/2025/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 34/2019/TT-BCA ngày 18 tháng 9 năm 2019 của Bộ trưởng Bộ Công an quy định về điều lệnh nội vụ Công an nhân dân, Thông tư số 35/2019/TT-BCA ngày 18 tháng 9 năm 2019 của Bộ trưởng Bộ Công an quy định về điều lệnh đội ngũ Công an nhân dân và Thông tư số 36/2019/TT-BCA ngày 18 tháng 9 năm 2019 của Bộ trưởng Bộ Công an quy định về nghi lễ Công an nhân dân"
+ENTITY,E30_14,VB_AP_DUNG,Văn bản áp dụng,reference,9683,9826,"Thông tư số 63/2023/TT-BCA Quy định về tuyển chọn và thực hiện chế độ, chính sách đối với công dân thực hiện nghĩa vụ tham gia Công an nhân dân"
+ENTITY,E30_15,VB_AP_DUNG,Văn bản áp dụng,reference,9846,10116,"Thông tư số 65/2023/TT-BCA Quy định về trưởng phòng nghiệp vụ của Công an nhân dân có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực an ninh, trật tự, an toàn xã hội; phòng, chống tệ nạn xã hội; phòng cháy, chữa cháy; cứu nạn, cứu hộ; phòng, chống bạo lực gia đình"
+ENTITY,E30_16,VB_AP_DUNG,Văn bản áp dụng,reference,10136,10230,Thông tư số 03/2025/TT-BCA Quy định chế độ điều dưỡng phục hồi sức khỏe trong Công an nhân dân
+ENTITY,E30_17,VB_AP_DUNG,Văn bản áp dụng,reference,10250,10436,"Nghị định số 178/2024/NĐ-CP về chính sách, chế độ đối với cán bộ, công chức, viên chức, người lao động và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị"
+ENTITY,E30_18,VB_AP_DUNG,Văn bản áp dụng,reference,10456,10623,"Nghị quyết số 21/2026/NQ-HĐND Quy định chính sách hỗ trợ công dân hoàn thành nghĩa vụ quân sự, nghĩa vụ tham gia Công an nhân dân hằng năm trên địa bàn tỉnh Quảng Ninh"
+ENTITY,E30_19,VB_AP_DUNG,Văn bản áp dụng,reference,10643,10900,"Nghị định số 67/2025/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định 178/2024/NĐ-CP của Chính phủ về chính sách, chế độ đối với cán bộ, công chức, viên chức, người lao động và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị"
+ENTITY,E30_20,VB_AP_DUNG,Văn bản áp dụng,reference,10920,11123,"Nghị định số 57/2023/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 49/2019/NĐ-CP ngày 06 tháng 6 năm 2019 của Chính phủ quy định chi tiết và biện pháp thi hành một số điều của Luật Công an nhân dân"
+ENTITY,E30_21,VB_AP_DUNG,Văn bản áp dụng,reference,11143,11261,Thông tư số 62/2023/TT-BCA Quy định về tiêu chuẩn sức khỏe đặc thù và khám sức khỏe đối với lực lượng Công an nhân dân
+ENTITY,E30_22,VB_AP_DUNG,Văn bản áp dụng,reference,11281,11441,"Thông tư số 83/2024/TT-BCA Quy định về xây dựng, quản lý, vận hành, khai thác và sử dụng hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ"
+ENTITY,E30_23,VB_AP_DUNG,Văn bản áp dụng,reference,11461,11579,"Thông tư số 72/2024/TT-BCA Quy định quy trình điều tra, giải quyết tai nạn giao thông đường bộ của Cảnh sát giao thông"
+ENTITY,E30_24,VB_AP_DUNG,Văn bản áp dụng,reference,11599,11700,Thông tư số 09/2024/TT-BCA Quy định về việc thực hiện công tác dân vận của lực lượng Công an nhân dân
+ENTITY,E30_25,VB_AP_DUNG,Văn bản áp dụng,reference,11720,11859,"Quyết định số 03/2026/QĐ-UBND Ban hành Quy chế phối hợp hỗ trợ bảo đảm an ninh, trật tự cho cuộc đấu giá tài sản trên địa bàn tỉnh Bắc Ninh"
+ENTITY,E30_26,VB_AP_DUNG,Văn bản áp dụng,reference,11879,12032,"Quyết định số 41/2025/QĐ-UBND Ban hành Quy chế phối hợp quản lý ngành, nghề đầu tư kinh doanh có điều kiện về an ninh, trật tự trên địa bàn tỉnh Bắc Ninh"
+ENTITY,E30_27,VB_AP_DUNG,Văn bản áp dụng,reference,12052,12178,"Thông tư số 37/2025/TT-BCA Quy định về nhiệm vụ công tác phòng cháy, chữa cháy, cứu nạn, cứu hộ của lực lượng Công an nhân dân"
+ENTITY,E30_28,VB_AP_DUNG,Văn bản áp dụng,reference,12198,12358,"Thông tư số 99/2024/TT-BCA Quy định đăng ký khám bệnh, chữa bệnh bảo hiểm y tế ban đầu và chuyển người bệnh giữa các cơ sở khám bệnh, chữa bệnh thuộc Bộ Công an"
+ENTITY,E30_29,VB_AP_DUNG,Văn bản áp dụng,reference,12378,12571,"Thông tư số 46/2024/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 67/2019/TT-BCA ngày 28 tháng 11 năm 2019 quy định về thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông"
+ENTITY,E30_30,VB_AP_DUNG,Văn bản áp dụng,reference,12591,12891,"Nghị quyết số 69/2025/NQ-HĐND Quy định một số chính sách về bồi thường, hỗ trợ, tái định cư khi thực hiện các dự án cải tạo, chỉnh trang đô thị; cải tạo, xây dựng lại nhà chung cư trên địa bàn thành phố Hà Nội (Thực hiện khoản 6 và điểm c khoản 9 Điều 20; khoản 3 Điều 29 Luật Thủ đô số 39/2024/QH15)"
+ENTITY,E30_31,VB_AP_DUNG,Văn bản áp dụng,reference,12911,13185,"Thông tư số 36/2025/TT-BCA Quy định chi tiết một số điều của Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ và Nghị định số 105/2025/NĐ-CP ngày 15 tháng 5 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ"
+ENTITY,E30_32,VB_AP_DUNG,Văn bản áp dụng,reference,13205,13356,"Thông tư số 63/2024/TT-BCA Quy định công tác kiểm tra, kiểm soát và xử lý vi phạm pháp luật trong lĩnh vực giao thông đường sắt của Cảnh sát giao thông"
+ENTITY,E30_33,VB_AP_DUNG,Văn bản áp dụng,reference,13376,13520,"Thông tư số 101/2025/TT-BCA Quy định về tuyển chọn và thực hiện chế độ, chính sách đối với công dân thực hiện nghĩa vụ tham gia Công an nhân dân"
+ENTITY,E30_34,VB_AP_DUNG,Văn bản áp dụng,reference,13540,13679,Thông tư số 08/2025/TT-BCA Ban hành Quy chuẩn kỹ thuật quốc gia về cấu trúc thông điệp dữ liệu trao đổi với Cơ sở dữ liệu tổng hợp quốc gia
+ENTITY,E30_35,VB_AP_DUNG,Văn bản áp dụng,reference,13699,13851,"Nghị định số 177/2024/NĐ-CP quy định chế độ, chính sách đối với các trường hợp không tái cử, tái bổ nhiệm và cán bộ thôi việc, nghỉ hưu theo nguyện vọng"
+ENTITY,E30_36,VB_AP_DUNG,Văn bản áp dụng,reference,13871,14123,"Nghị quyết số 12/2024/NQ-HĐND Quy định tiêu chí thành lập, tiêu chí số lượng thành viên Tổ bảo vệ an ninh, trật tự ở cơ sở; nội dung, mức chi hỗ trợ đối với người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trần địa bàn thành phố Hà Nội"
+ENTITY,E30_37,VB_AP_DUNG,Văn bản áp dụng,reference,14143,14366,"Nghị quyết số 23/2024/NQ-HĐND Quy định mức bồi dưỡng đối với cán bộ, chiến sĩ Công an làm thêm ngày, làm thêm giờ thực hiện nhiệm vụ bảo đảm an ninh, trật tự các ngày lễ, tết, sự kiện chính trị, lễ hội lớn trên địa bàn tỉnh"
+ENTITY,E30_38,VB_AP_DUNG,Văn bản áp dụng,reference,14386,14730,"Nghị quyết số 02/2024/NQ-HĐND Quy định tiêu chí thành lập, tiêu chí về số lượng thành viên Tổ bảo vệ an ninh, trật tự; mức hỗ trợ, bồi dưỡng, chế độ chính sách đối với người tham gia Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở và điều kiện đảm bảo hoạt động của lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trên địa bàn tỉnh Hà Nam"
+ENTITY,E30_39,VB_AP_DUNG,Văn bản áp dụng,reference,14750,14957,"Nghị quyết số 01/2026/NQ-HĐND Quy định nội dung, mức chi hỗ trợ, bồi dưỡng lực lượng Công an, Quân đội và các lực lượng phối hợp khác thực hiện công tác bảo vệ an ninh chính trị trên địa bàn thành phố Hà Nội"
+ENTITY,E30_40,VB_AP_DUNG,Văn bản áp dụng,reference,14977,15095,"Nghị quyết số 80/2025/NQ-HĐND Quy định nội dung, mức chi hỗ trợ lực lượng công an cấp xã trên địa bàn thành phố Hà Nội"
+ENTITY,E30_41,VB_AP_DUNG,Văn bản áp dụng,reference,15115,15445,"Nghị quyết số 02/2026/NQ-HĐND Quy định nội dung, mức chi hỗ trợ lực lượng Cảnh sát thi hành án hình sự và hỗ trợ tư pháp; tạm giữ, tạm giam; công chức kiểm sát, tòa án, thi hành án dân sự và công tác quản lý người lưu trú tại Cơ sở lưu trú thuộc Công an thành phố Hà Nội trong thời gian chờ xuất cảnh trên địa bàn thành phố Hà Nội"
+ENTITY,E30_42,VB_AP_DUNG,Văn bản áp dụng,reference,15465,15615,"Nghị quyết số 13/2024/NQ-HĐND Về việc quy định nội dung, mức chi hỗ trợ lực lượng Cảnh sát khu vực, lực lượng Công an xã trên địa bàn thành phố Hà Nội"
+ENTITY,E30_43,VB_AP_DUNG,Văn bản áp dụng,reference,15635,15793,"Quyết định số 26/2026/QĐ-UBND Ban hành Quy chế phối hợp quản lý các ngành, nghề đầu tư kinh doanh có điều kiện về an ninh, trật tự trên địa bàn tỉnh Đồng Tháp"
+ENTITY,E30_44,VB_AP_DUNG,Văn bản áp dụng,reference,15813,15867,Thông tư số 02/2024/TT-BCA Quy định về tài liệu bảo an
+ENTITY,E30_45,VB_AP_DUNG,Văn bản áp dụng,reference,15887,15998,"Thông tư số 95/2024/TT-BCA Quy định về xây dựng, ban hành, quản lý và sử dụng biểu trưng trong Công an nhân dân"
+ENTITY,E30_46,VB_AP_DUNG,Văn bản áp dụng,reference,16018,16168,"Thông tư số 20/2017/TT-BCA Ban hành tiêu chuẩn quốc gia trong lĩnh vực an ninh đối với quả khói, quả rít khói màu, quả cay khói nổ và quả nổ nghiệp vụ"
+ENTITY,E30_47,VB_AP_DUNG,Văn bản áp dụng,reference,16188,16390,"Thông tư số 52/2017/TT-BCA Ban hành tiêu chuẩn quốc gia trong lĩnh vực an ninh đối với máy dò kim loại cầm tay, máy chụp ảnh kỹ thuật số hình sự đầu ghi hình mạng (NVR) và đầu ghi hình kỹ thuật số (DVR)"
+ENTITY,E30_48,VB_AP_DUNG,Văn bản áp dụng,reference,16410,16677,"Thông tư số 23/2017/TT-BCA Ban hành tiêu chuẩn quốc gia trong lĩnh vực an ninh đối với thiết bị cơ động phá sóng điện thoại di động, thiết bị quan sát ban đêm dùng cho công tác trinh sát, camera dùng cho trinh sát viên và túi nghiệp vụ gắn xung cao áp chống cướp giật"
+ENTITY,E38_1,DIEU,Điều,structure,407,413,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,6017,6023,Điều 2
+ENTITY,E39_1,KHOAN,Khoản,structure,470,514,"1. Sửa đổi, bổ sung khoản 4 Điều 22 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,703,754,2. Bổ sung khoản 4 vào sau khoản 3 Điều 23 như sau:
+ENTITY,E39_3,KHOAN,Khoản,structure,1079,1138,"3. Sửa đổi, bổ sung một số điểm, khoản của Điều 25 như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,3741,3785,"4. Sửa đổi, bổ sung khoản 2 Điều 29 như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,4322,4375,"5. Sửa đổi, bổ sung một số khoản của Điều 30 như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,5678,5722,"6. Sửa đổi, bổ sung khoản 2 Điều 42 như sau:"
+ENTITY,E40_1,DIEM,Điểm,structure,1139,1182,"a) Sửa đổi, bổ sung điểm b khoản 1 như sau:"
+ENTITY,E40_2,DIEM,Điểm,structure,1389,1432,"b) Sửa đổi, bổ sung điểm d khoản 1 như sau:"
+ENTITY,E40_3,DIEM,Điểm,structure,2548,2591,"c) Sửa đổi, bổ sung điểm e khoản 1 như sau:"
+ENTITY,E40_4,DIEM,Điểm,structure,2794,2830,"d) Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E40_5,DIEM,Điểm,structure,3166,3202,"đ) Sửa đổi, bổ sung khoản 4 như sau:"
+ENTITY,E40_6,DIEM,Điểm,structure,4376,4448,"a) Sửa đổi, bổ sung khoản 1 và bổ sung khoản 1a vào sau khoản 1 như sau:"
+ENTITY,E40_7,DIEM,Điểm,structure,4969,5016,"b) Sửa đổi, bổ sung khoản 3 và khoản 4 như sau:"
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R18_9,AP_DUNG,Áp dụng,E30_9,E2_1,,
+RELATION,R18_10,AP_DUNG,Áp dụng,E30_10,E2_1,,
+RELATION,R18_11,AP_DUNG,Áp dụng,E30_11,E2_1,,
+RELATION,R18_12,AP_DUNG,Áp dụng,E30_12,E2_1,,
+RELATION,R18_13,AP_DUNG,Áp dụng,E30_13,E2_1,,
+RELATION,R18_14,AP_DUNG,Áp dụng,E30_14,E2_1,,
+RELATION,R18_15,AP_DUNG,Áp dụng,E30_15,E2_1,,
+RELATION,R18_16,AP_DUNG,Áp dụng,E30_16,E2_1,,
+RELATION,R18_17,AP_DUNG,Áp dụng,E30_17,E2_1,,
+RELATION,R18_18,AP_DUNG,Áp dụng,E30_18,E2_1,,
+RELATION,R18_19,AP_DUNG,Áp dụng,E30_19,E2_1,,
+RELATION,R18_20,AP_DUNG,Áp dụng,E30_20,E2_1,,
+RELATION,R18_21,AP_DUNG,Áp dụng,E30_21,E2_1,,
+RELATION,R18_22,AP_DUNG,Áp dụng,E30_22,E2_1,,
+RELATION,R18_23,AP_DUNG,Áp dụng,E30_23,E2_1,,
+RELATION,R18_24,AP_DUNG,Áp dụng,E30_24,E2_1,,
+RELATION,R18_25,AP_DUNG,Áp dụng,E30_25,E2_1,,
+RELATION,R18_26,AP_DUNG,Áp dụng,E30_26,E2_1,,
+RELATION,R18_27,AP_DUNG,Áp dụng,E30_27,E2_1,,
+RELATION,R18_28,AP_DUNG,Áp dụng,E30_28,E2_1,,
+RELATION,R18_29,AP_DUNG,Áp dụng,E30_29,E2_1,,
+RELATION,R18_30,AP_DUNG,Áp dụng,E30_30,E2_1,,
+RELATION,R18_31,AP_DUNG,Áp dụng,E30_31,E2_1,,
+RELATION,R18_32,AP_DUNG,Áp dụng,E30_32,E2_1,,
+RELATION,R18_33,AP_DUNG,Áp dụng,E30_33,E2_1,,
+RELATION,R18_34,AP_DUNG,Áp dụng,E30_34,E2_1,,
+RELATION,R18_35,AP_DUNG,Áp dụng,E30_35,E2_1,,
+RELATION,R18_36,AP_DUNG,Áp dụng,E30_36,E2_1,,
+RELATION,R18_37,AP_DUNG,Áp dụng,E30_37,E2_1,,
+RELATION,R18_38,AP_DUNG,Áp dụng,E30_38,E2_1,,
+RELATION,R18_39,AP_DUNG,Áp dụng,E30_39,E2_1,,
+RELATION,R18_40,AP_DUNG,Áp dụng,E30_40,E2_1,,
+RELATION,R18_41,AP_DUNG,Áp dụng,E30_41,E2_1,,
+RELATION,R18_42,AP_DUNG,Áp dụng,E30_42,E2_1,,
+RELATION,R18_43,AP_DUNG,Áp dụng,E30_43,E2_1,,
+RELATION,R18_44,AP_DUNG,Áp dụng,E30_44,E2_1,,
+RELATION,R18_45,AP_DUNG,Áp dụng,E30_45,E2_1,,
+RELATION,R18_46,AP_DUNG,Áp dụng,E30_46,E2_1,,
+RELATION,R18_47,AP_DUNG,Áp dụng,E30_47,E2_1,,
+RELATION,R18_48,AP_DUNG,Áp dụng,E30_48,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E40_1,E39_3,,
+RELATION,R22_5,THUOC,Thuộc,E40_2,E39_3,,
+RELATION,R22_6,THUOC,Thuộc,E40_3,E39_3,,
+RELATION,R22_7,THUOC,Thuộc,E40_4,E39_3,,
+RELATION,R22_8,THUOC,Thuộc,E40_5,E39_3,,
+RELATION,R22_9,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_10,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_11,THUOC,Thuộc,E40_6,E39_5,,
+RELATION,R22_12,THUOC,Thuộc,E40_7,E39_5,,
+RELATION,R22_13,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_14,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_15,THUOC,Thuộc,E11_1,E10_1,,

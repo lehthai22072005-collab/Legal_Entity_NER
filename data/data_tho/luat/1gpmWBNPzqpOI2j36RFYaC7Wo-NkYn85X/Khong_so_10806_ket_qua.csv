@@ -1,0 +1,111 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,77,"Luật Sửa đổi, bổ sung một số điều của Luật Thuế Tiêu thụ đặc biệt số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,69,77,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,3440,3463,ngày 5 tháng 7 năm 1993
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,3531,3545,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,3566,3576,1993-07-19
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,3598,3608,1999-01-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,3632,3652,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,302,310,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,3666,3683,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,3696,3709,Nông Đức Mạnh
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3759,3864,Quyết định số 1233 TC/TCT/QĐ Về việc sửa đổi thuế suất của một số nhóm mặt hàng trong biểu thuế nhập khẩu
+ENTITY,E24_2,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,3914,4131,"Thông tư số 98/TC-TCT Hướng dẫn thi hành Nghị định số 97/CP ngày 27-12-1995 của Chính phủ quy định chi tiết thi hành Luật Thuế Tiêu thụ đặc biệt và các Luật sửa đổi, bổ sung một số điều của Luật Thuế Tiêu thụ đặc biệt"
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,5358,5401,Luật Thuế tiêu thụ đặc biệt số 05/1998/QH10
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,4151,4368,"Thông tư số 98/TC-TCT Hướng dẫn thi hành Nghị định số 97/CP ngày 27-12-1995 của Chính phủ quy định chi tiết thi hành Luật Thuế Tiêu thụ đặc biệt và các Luật sửa đổi, bổ sung một số điều của Luật Thuế Tiêu thụ đặc biệt"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,4388,4534,"Nghị định số 97/CP Quy định chi tiết thi hành Luật thuế tiêu thụ đặc biệt và các luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,4554,4687,Thông tư số 13/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các hình thức đầu tư theo Luật đầu tư nước ngoài tại Việt Nam
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,4707,4833,"Nghị định số 55-CP Quy định chi tiết thi hành Luật Thuế doanh thu và Luật sửa đổi, bổ sung một số điều của Luật thuế doanh thu"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,4853,5021,"Thông tư số 48/2001/TT-BTC hướng dẫn thực hiện quy định về thuế đối với các tổ chức, cá nhân tiến hành hoạt động tìm kiếm thăm dò dầu khí theo quy định của luật dầu khí"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,5041,5146,Quyết định số 1233 TC/TCT/QĐ Về việc sửa đổi thuế suất của một số nhóm mặt hàng trong biểu thuế nhập khẩu
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,5166,5308,"Nghị định số 56-CP Quy định chi tiết thi hành Luật Thuế tiêu thụ đặc biệt và Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt"
+ENTITY,E38_1,DIEU,Điều,structure,387,463,"Điều 1
+Sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt như sau:"
+ENTITY,E38_2,DIEU,Điều,structure,3145,3283,"Điều 2
+Chính phủ sửa đổi, bổ sung các văn bản quy định chi tiết thi hành Luật thuế tiêu thụ đặc biệt đã ban hành cho phù hợp với Luật này."
+ENTITY,E38_3,DIEU,Điều,structure,3284,3340,"Điều 3
+Luật này có hiệu lực từ ngày 01 tháng 9 năm 1993."
+ENTITY,E39_1,KHOAN,Khoản,structure,464,666,"1/ Điều 1 sửa đổi, bổ sung:
+""Điều 1
+Tổ chức, cá nhân thuộc các thành phần kinh tế sản xuất mặt hàng quy định tại Điều 9 của Luật này đều phải nộp thuế tiêu thụ đặc biệt tại nơi sản xuất ra hàng hoá đó."""
+ENTITY,E39_2,KHOAN,Khoản,structure,667,833,"2/ Điều 7 được sửa đổi, bổ sung:
+""Điều 7
+Giá tính thuế tiêu thụ đặc biệt là giá do cơ sở sản xuất mặt hàng đó bán ra tại nơi sản xuất chưa có thuế tiêu thụ đặc biệt."""
+ENTITY,E39_3,KHOAN,Khoản,structure,834,1090,"3/ Điều 8 được sửa đổi:
+""Điều 8
+Trong trường hợp trao đổi hàng hoá hoặc cung ứng hàng hoá của cơ sở sản xuất cho nhu cầu tiêu dùng trong nội bộ hoặc biếu, tặng người khác, thì số hàng hoá đó cũng phải nộp thuế tiêu thụ đặc biệt theo quy định của Luật này."""
+ENTITY,E39_4,KHOAN,Khoản,structure,1091,1250,"4/ Điều 9 được sửa đổi:
+""Điều 9
+Mặt hàng chịu thuế tiêu thụ đặc biệt và thuế suất được quy định theo Biểu thuế:
+Số TT
+Mặt hàng
+Thuế suất (%) ³
+1
+Thuốc hút: ³ ³"
+ENTITY,E39_5,KHOAN,Khoản,structure,1873,1989,"5/ Điều 14 được sửa đổi:
+""Điều 14
+Thuế tiêu thụ đặc biệt do cơ sở sản xuất nộp khi bán hàng hoặc trả hàng gia công."""
+ENTITY,E39_6,KHOAN,Khoản,structure,1990,2212,"6/ Khoản 2, Điều 15 được sửa đổi, bổ sung:
+""2- Trong trường hợp cơ sở lớn chưa thu được tiền, thời hạn nộp thuế có thể được kéo dài, nhưng chậm nhất không quá 15 ngày kể từ khi lập hoá đơn bán hàng hoặc trả hàng gia công."""
+ENTITY,E39_7,KHOAN,Khoản,structure,2213,2776,"7/ Điều 19 được sửa đổi, bổ sung:
+""Điều 19
+Những trường hợp sau đây được xét giảm thuế, miễn thuế tiêu thụ đặc biệt:
+1- Cơ sở sản xuất hàng thuộc diện chịu thuế tiêu thụ đặc biệt gặp khó khăn do thiên tai, địch hoạ, tai nạn bất ngờ.
+2- Cơ sở sản xuất mới thành lập hoặc cơ sở mở rộng sản xuất áp dụng công nghệ sản xuất mới nếu nộp đủ thuế tiêu thụ đặc biệt mà bị lỗ vốn thì được xét giảm thuế, mức giảm tối đa không quá 30% (ba mươi phần trăm) số thuế phải nộp trong thời gian không quá hai năm.
+Chính phủ quy định cụ thể việc giảm thuế, miễn thuế tại Điều này."""
+ENTITY,E39_8,KHOAN,Khoản,structure,2777,3076,"8/ Điểm c, Khoản 1, Điều 20 được sửa đổi:
+""c) Tổ chức, cá nhân chậm nộp tiền thuế hoặc tiền phạt ghi trong lệnh thu thuế hoặc quyết định xử phạt, thì ngoài việc phải nộp đủ số tiền thuế hoặc tiền phạt theo quy định của Luật này, mỗi ngày chậm nộp còn bị phạt 0,2% (hai phần nghìn) số tiền nộp chậm."""
+ENTITY,E39_9,KHOAN,Khoản,structure,3077,3144,"9/ Các chữ ""Hội đồng bộ trưởng"" được sửa đổi thành chữ ""Chính phủ""."
+ENTITY,E40_1,DIEM,Điểm,structure,1251,1330,"a) Thuốc lá điếu có đầu lọc, sản xuất chủ yếu bằng nguyên liệu nhập khẩu ³ ³
+70"
+ENTITY,E40_2,DIEM,Điểm,structure,1331,1411,"b) Thuốc lá điếu có đầu lọc, sản xuất chủ yếu bằng nguyên liệu trong nước ³ ³
+52"
+ENTITY,E40_3,DIEM,Điểm,structure,1412,1469,"c) Thuốc lá điếu không có đầu lọc, xì gà
+32 ³
+2
+Rượu: ³ ³"
+ENTITY,E40_4,DIEM,Điểm,structure,1470,1488,"a) Rượu thuốc
+15 ³"
+ENTITY,E40_5,DIEM,Điểm,structure,1489,1872,"b) Các loại rượu khác: ³ ³
+- Trên 40 độ
+90 ³
+- Từ 30 độ đến 40 độ
+75 ³
+- Dưới 30 độ, kể cả rượu hoa quả
+25 ³
+3
+Bia các loại
+90 ³
+- Riêng bia hộp
+75 ³
+4
+Pháo
+100 ³
+Trong trường hợp cần thiết, Uỷ ban Thường vụ Quốc hội có thể quyết định sửa đổi, bổ sung một số mặt hàng, thuế suất quy định trong Biểu thuế tiêu thụ đặc biệt và phải báo cáo để Quốc hội phê chuẩn trong kỳ họp gần nhất."""
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R12_2,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_2,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E2_1,E30_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E2_1,E30_2,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E2_1,E30_3,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E2_1,E30_4,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E2_1,E30_5,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E2_1,E30_6,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E2_1,E30_7,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E40_1,E39_4,,
+RELATION,R22_8,THUOC,Thuộc,E40_2,E39_4,,
+RELATION,R22_9,THUOC,Thuộc,E40_3,E39_4,,
+RELATION,R22_10,THUOC,Thuộc,E40_4,E39_4,,
+RELATION,R22_11,THUOC,Thuộc,E40_5,E39_4,,
+RELATION,R22_12,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_13,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_14,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_15,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_16,THUOC,Thuộc,E39_9,E38_1,,

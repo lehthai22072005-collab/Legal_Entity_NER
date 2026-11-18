@@ -1,0 +1,213 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,65,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Hình sự số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,57,65,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,12125,12150,ngày 22 tháng 12 năm 1992
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,12255,12269,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,12290,12300,1993-01-02
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,12322,12332,2000-07-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,12356,12376,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,266,274,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,12152,12169,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,12177,12190,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,12469,12487,Hiến pháp năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,12529,12594,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Hình sự số Không số"
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,12396,12414,Hiến pháp năm 1992
+ENTITY,E24_1,VB_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản quy định chi tiết, hướng dẫn thi hành",reference,12760,12881,"Thông tư liên tịch số 02/TTLN Hướng dẫn áp dụng một số quy định của Luật sửa đổi, bổ sung một số điều của Bộ luật Hình sự"
+ENTITY,E25_1,VB_QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Văn bản quy định về việc hết hiệu lực một phần,reference,12645,12710,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Hình sự số Không số"
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,12931,12962,Bộ luật Hình sự số 15/1999/QH10
+ENTITY,E38_1,DIEU,Điều,structure,425,500,"Điều 1
+Sửa đổi, bổ sung một số điều của Phần chung Bộ luật hình sự như sau:"
+ENTITY,E38_2,DIEU,Điều,structure,1925,2007,"Điều 2
+Sửa đổi, bổ sung một số điều của Phần các tội phạm Bộ luật hình sự như sau:"
+ENTITY,E38_3,DIEU,Điều,structure,11887,12151,"Điều 3
+Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, trong phạm vi chức năng của mình hướng dẫn thi hành Luật này.
+Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam, khoá IX, kỳ họp thứ hai thông qua ngày 22 tháng 12 năm 1992."
+ENTITY,E39_1,KHOAN,Khoản,structure,501,730,"1- Đoạn 1 Điều 23 về phạt tiền được bổ sung như sau:
+""Phạt tiền được áp dụng đối với người phạm các tội có tính chất vụ lợi, tham nhũng, các tội có dùng tiền làm phương tiện hoạt động hoặc những trường hợp khác do luật quy định."""
+ENTITY,E39_2,KHOAN,Khoản,structure,731,942,"2- Điều 33 về tịch thu vật và tiền bạc trực tiếp liên quan đến tội phạm được sửa đổi như sau:
+""Điều 33- Tịch thu vật và tiền bạc trực tiếp liên quan đến tội phạm
+1. Toà án quyết định tịch thu, sung quỹ Nhà nước:"
+ENTITY,E39_3,KHOAN,Khoản,structure,1430,1924,"3. Toà án có thể quyết định tịch thu, sung quỹ Nhà nước những vật, tiền bạc thuộc tài sản của người khác, nếu người này có lỗi trong việc để cho người phạm tội sử dụng vào việc thực hiện tội phạm.""
+3- Khoản 1 Điều 44 về án treo được sửa đổi như sau:
+""1. Khi xử phạt tù không quá ba năm, căn cứ vào nhân thân của người phạm tội và các tình tiết giảm nhẹ, nếu xét thấy không cần phải bắt chấp hành hình phạt tù, thì Toà án cho hưởng án treo và ấn định thời gian thử thách từ một năm đến năm năm."""
+ENTITY,E39_4,KHOAN,Khoản,structure,2008,2416,"1- Điều 97 về tội buôn lậu hoặc vận chuyển trái phép hàng hoá, tiền tệ qua biên giới được sửa đổi, bổ sung như sau:
+""Điều 97. Tội buôn lậu hoặc vận chuyển trái phép hàng hoá, tiền tệ qua biên giới
+1. Người nào buôn bán trái phép hoặc vận chuyển trái phép qua biên giới hàng hoá, tiền Việt Nam, ngoại tệ, kim khí quý, đá quý hoặc vật phẩm thuộc di tích lịch sử, văn hoá, thì bị phạt tù từ hai năm đến bảy năm."
+ENTITY,E39_5,KHOAN,Khoản,structure,2417,2511,2. Phạm tội thuộc một trong các trường hợp sau đây thì bị phạt tù từ năm năm đến mười hai năm:
+ENTITY,E39_6,KHOAN,Khoản,structure,2795,3608,"3. Phạm tội trong trường hợp đặc biệt nghiêm trọng thì bị phạt tù từ mười năm đến hai mươi năm, tù chung thân hoặc tử hình.""
+2- Khoản 3 Điều 100 về hình phạt bổ sung được sửa đổi như sau:
+""3. Người nào phạm một trong các tội quy định ở Điều 90 và Điều 91 trong trường hợp hình phạt chính không phải là phạt tiền, thì có thể bị phạt tiền theo mức đã quy định đối với mỗi tội.
+Người nào phạm một trong các tội quy định ở các điều 88, 95, 96, 98 và 99, thì có thể bị phạt tiền từ ba trăm nghìn đồng (300.000 đồng) đến ba triệu đồng (3.000.000 đồng); ở Điều 96a và ở Điều 97 thì bị phạt tiền đến mười lần trị giá hàng phạm pháp.""
+3- Khoản 2 Điều 134 về tội lừa đảo chiếm đoạt tài sản xã hội chủ nghĩa được bổ sung như sau:
+""2. Phạm tội thuộc một trong các trường hợp sau đây thì bị phạt tù từ ba năm đến mười hai năm:"
+ENTITY,E39_7,KHOAN,Khoản,structure,3847,4045,"4- Khoản 2 Điều 135 về tội lạm dụng tín nhiệm chiếm đoạt tài sản xã hội chủ nghĩa được bổ sung như sau:
+""2. Phạm tội thuộc một trong các trường hợp sau đây thì bị phạt tù từ ba năm đến mười hai năm:"
+ENTITY,E39_8,KHOAN,Khoản,structure,4237,4765,"5- Điều 139 về tội thiếu trách nhiệm gây thiệt hại nghiêm trọng đến tài sản xã hội chủ nghĩa được sửa đổi như sau:
+""Điều 139. Tội thiếu trách nhiệm gây thiệt hại nghiêm trọng đến tài sản xã hội chủ nghĩa
+1. Người nào có nhiệm vụ trực tiếp trong công tác quản lý tài sản xã hội chủ nghĩa, vì thiếu trách nhiệm mà để mất mát, hư hỏng, lãng phí gây thiệt hại nghiêm trọng đến tài sản xã hội chủ nghĩa, thì bị phạt tù từ một năm đến bảy năm.
+2. Phạm tội gây hậu quả đặc biệt nghiêm trọng thì bị phạt tù từ năm năm đến mười lăm năm."""
+ENTITY,E39_9,KHOAN,Khoản,structure,4766,5061,"6- Khoản 1 Điều 142 về hình phạt bổ sung được sửa đổi, bổ sung như sau:
+""1. Người nào phạm một trong các tội quy định ở Điều 133, điểm đ khoản 2 Điều 134, điểm d khoản 2 Điều 135, khoản 2 Điều 137 và Điều 139 thì bị cấm đảm nhiệm chức vụ quản lý tài sản xã hội chủ nghĩa từ hai năm đến năm năm."""
+ENTITY,E39_10,KHOAN,Khoản,structure,5062,5237,"7- Khoản 1 Điều 163 về hình phạt bổ sung được sửa đổi như sau:
+""1. Người nào phạm tội quy định ở Điều 156 thì bị cấm đảm nhiệm những chức vụ nhất định từ hai năm đến năm năm."""
+ENTITY,E39_11,KHOAN,Khoản,structure,5238,5557,"8- Điều 167 về tội làm hàng giả, tội buôn bán hàng giả được sửa đổi, bổ sung như sau:
+""Điều 167. Tội làm hàng giả, tội buôn bán hàng giả
+1. Người nào làm hàng giả hoặc buôn bán hàng giả thì bị phạt tù từ một năm đến bảy năm.
+2. Phạm tội thuộc một trong các trường hợp sau đây thì bị phạt tù từ năm năm đến mười lăm năm:"
+ENTITY,E39_12,KHOAN,Khoản,structure,6010,6490,"9- Điều 169 về tội trốn thuế được sửa đổi như sau:
+""Điều 169. Tội trốn thuế
+1. Người nào trốn thuế với số lượng lớn hoặc đã bị xử lý hành chính mà còn vi phạm thì bị phạt tù từ sáu tháng đến năm năm.
+2. Phạm tội trốn thuế với số lượng rất lớn hoặc đã bị kết án nhưng chưa được xoá án về tội trốn thuế hoặc về một trong các tội quy định ở các điều 96a, 97, 165, 166, 167, 168, 173 và 183 hoặc trong trường hợp đặc biệt nghiêm trọng khác, thì bị phạt tù từ ba năm đến mười hai năm."""
+ENTITY,E39_13,KHOAN,Khoản,structure,6491,6972,"10- Điều 174 về tội cố ý làm trái quy định của Nhà nước về quản lý kinh tế gây hậu quả nghiêm trọng được sửa đổi, bổ sung như sau:
+""Điều 174. Tội cố ý làm trái quy định của Nhà nước về quản lý kinh tế gây hậu quả nghiêm trọng
+1. Người nào lợi dụng chức vụ, quyền hạn cố ý làm trái quy định của Nhà nước về quản lý kinh tế gây hậu quả nghiêm trọng, thì bị phạt tù từ một năm đến bảy năm.
+2. Phạm tội thuộc một trong các trường hợp sau đây thì bị phạt tù từ năm năm đến mười hai năm:"
+ENTITY,E39_14,KHOAN,Khoản,structure,7166,7382,"11- Khoản 3 Điều 185 về hình phạt bổ sung được sửa đổi, bổ sung như sau:
+""3. Người nào phạm một trong các tội quy định ở các điều từ 164 đến 169, từ 172 đến 174, thì có thể bị tịch thu một phần hoặc toàn bộ tài sản."""
+ENTITY,E39_15,KHOAN,Khoản,structure,7383,7863,"12- Điều 220 về tội thiếu trách nhiệm gây hậu quả nghiêm trọng được sửa đổi như sau:
+""Điều 220. Tội thiếu trách nhiệm gây hậu quả nghiêm trọng
+""1. Người nào vì thiếu trách nhiệm mà không thực hiện hoặc thực hiện không đúng nhiệm vụ được giao gây hậu quả nghiêm trọng, nếu không thuộc trường hợp quy định ở các điều 139, 193 và 237, thì bị phạt tù từ sáu tháng đến năm năm.
+2. Phạm tội trong trường hợp gây hậu quả đặc biệt nghiêm trọng, thì bị phạt tù từ ba năm đến mười hai năm."""
+ENTITY,E39_16,KHOAN,Khoản,structure,7864,8479,"13- Điều 221 về tội lợi dụng chức vụ, quyền hạn hoặc lạm quyền trong khi thi hành công vụ được sửa đổi, bổ sung như sau:
+""Điều 221. Tội lợi dụng chức vụ, quyền hạn hoặc lạm quyền trong khi thi hành công vụ
+1. Người nào vì tư lợi hoặc động cơ cá nhân khác mà lợi dụng chức vụ, quyền hạn hoặc vượt quá quyền hạn làm trái với công vụ gây thiệt hại cho lợi ích của Nhà nước, của xã hội hoặc lợi ích hợp pháp của công dân, nếu không thuộc trường hợp quy định ở các điều 156, 238 và 239, thì bị phạt tù từ một năm đến bảy năm.
+2. Phạm tội thuộc một trong các trường hợp sau đây thì bị phạt tù từ năm năm đến mười hai năm:"
+ENTITY,E39_17,KHOAN,Khoản,structure,8666,9118,"14- Điều 224 về tội giả mạo trong công tác được sửa đổi, bổ sung như sau:
+""Điều 224. Tội giả mạo trong công tác
+1. Người nào trong khi thực hiện nhiệm vụ vì vụ lợi hoặc động cơ cá nhân khác mà sửa chữa, làm sai lệch nội dung giấy tờ, tài liệu, làm và cấp giấy tờ giả hoặc giả mạo chữ ký của người có chức vụ, quyền hạn thì bị phạt tù từ một năm đến bảy năm.
+2. Phạm tội thuộc một trong các trường hợp sau đây thì bị phạt tù từ năm năm đến mười hai năm:"
+ENTITY,E39_18,KHOAN,Khoản,structure,9362,9822,"15- Điều 226 về tội nhận hối lộ được sửa đổi, bổ sung như sau:
+""Điều 226. Tội nhận hối lộ
+1. Người nào lợi dụng chức vụ, quyền hạn, trực tiếp hoặc qua trung gian đã nhận hoặc sẽ nhận tiền của hoặc lợi ích vật chất khác dưới bất kỳ hình thức nào để làm hoặc không làm một việc vì lợi ích hoặc theo yêu cầu của người đưa hối lộ, thì bị phạt tù từ một năm đến bảy năm.
+2. Phạm tội thuộc một trong các trường hợp sau đây thì bị phạt tù từ năm năm đến mười lăm năm:"
+ENTITY,E39_19,KHOAN,Khoản,structure,10138,10318,"16- Khoản 2 Điều 227 về tội đưa hối lộ, tội làm môi giới hối lộ được bổ sung như sau:
+""2. Phạm tội thuộc một trong các trường hợp sau đây thì bị phạt tù từ ba năm đến mười lăm năm:"
+ENTITY,E39_20,KHOAN,Khoản,structure,10480,11319,"17- Điều 246 về tội che giấu tội phạm được sửa đổi, bổ sung như sau:
+1. Đoạn 7 khoản 1 được sửa đổi, bổ sung như sau:
+""- Điều 165, khoản 2 và 3 (tội đầu cơ); Điều 166, khoản 2 và 3 (tội buôn bán hàng cấm); Điều 167, khoản 2 và 3 (tội làm hàng giả, tội buôn bán hàng giả); Điều 172, khoản 2 và 3 (tội chiếm đoạt tem, phiếu, tội làm hoặc lưu hành tem, phiếu, giấy tờ giả dùng vào việc phân phối); Điều 174, khoản 2 và 3 (tội cố ý làm trái quy định của Nhà nước về quản lý kinh tế gây hậu quả nghiêm trọng); Điều 221, khoản 2 (tội lợi dụng chức vụ, quyền hạn hoặc lạm quyền trong khi thi hành công vụ); Điều 226, khoản 2 và 3 (tội nhận hối lộ); Điều 227, khoản 2 và 3 (tội đưa hối lộ, tội làm môi giới hối lộ).""
+2. Khoản 2 được sửa đổi như sau:
+""2. Phạm tội trong trường hợp lợi dụng chức vụ, quyền hạn thì bị phạt tù từ ba năm đến mười năm."""
+ENTITY,E39_21,KHOAN,Khoản,structure,11320,11886,"18- Đoạn 6 khoản 1 Điều 247 về tội không tố giác tội phạm được sửa đổi, bổ sung như sau:
+""- Điều 165, khoản 2 và 3 (tội đầu cơ); Điều 172, khoản 2 và 3 (tội chiếm đoạt tem, phiếu, tội làm hoặc lưu hành tem, phiếu, giấy tờ giả dùng vào việc phân phối); Điều 174 , khoản 2 và 3 (tội cố ý làm trái quy định của Nhà nước về quản lý kinh tế gây hậu quả nghiêm trọng); Điều 221, khoản 2 (tội lợi dụng chức vụ, quyền hạn hoặc lạm quyền trong khi thi hành công vụ); Điều 226, khoản 2 và 3 (tội nhận hối lộ); Điều 227, khoản 2 và 3 (tội đưa hối lộ, tội làm môi giới hối lộ)."""
+ENTITY,E40_1,DIEM,Điểm,structure,943,1021,"a) Những vật, tiền bạc của người phạm tội đã dùng vào việc thực hiện tội phạm;"
+ENTITY,E40_2,DIEM,Điểm,structure,1022,1130,"b) Những vật, tiền bạc mà người phạm tội do thực hiện tội phạm hoặc do mua bán, đổi chác những thứ ấy mà có;"
+ENTITY,E40_3,DIEM,Điểm,structure,1131,1429,"c) Những vật, tiền bạc thuộc loại Nhà nước cấm tàng trữ, sử dụng, lưu hành.
+2. Đối với những vật, tiền bạc thuộc sở hữu xã hội chủ nghĩa hoặc thuộc tài sản của người khác bị người phạm tội chiếm đoạt hoặc sử dụng trái phép thì không tịch thu mà trả lại cho người sở hữu hoặc người quản lý hợp pháp."
+ENTITY,E40_4,DIEM,Điểm,structure,2512,2558,a) Có tổ chức hoặc có tính chất chuyên nghiệp;
+ENTITY,E40_5,DIEM,Điểm,structure,2559,2632,b) Vật phạm pháp có số lượng lớn hoặc giá trị lớn; thu lợi bất chính lớn;
+ENTITY,E40_6,DIEM,Điểm,structure,2633,2657,c) Lợi dụng chiến tranh;
+ENTITY,E40_7,DIEM,Điểm,structure,2658,2747,"d) Lợi dụng chức vụ, quyền hạn hoặc lợi dụng danh nghĩa cơ quan Nhà nước, tổ chức xã hội;"
+ENTITY,E40_8,DIEM,Điểm,structure,2748,2794,đ) Phạm tội nhiều lần hoặc tái phạm nguy hiểm.
+ENTITY,E40_9,DIEM,Điểm,structure,3609,3655,a) Có tổ chức hoặc có tính chất chuyên nghiệp;
+ENTITY,E40_10,DIEM,Điểm,structure,3656,3694,"b) Dùng thủ đoạn xảo quyệt, nguy hiểm;"
+ENTITY,E40_11,DIEM,Điểm,structure,3695,3732,c) Chiếm đoạt tài sản có giá trị lớn;
+ENTITY,E40_12,DIEM,Điểm,structure,3733,3755,d) Tái phạm nguy hiểm;
+ENTITY,E40_13,DIEM,Điểm,structure,3756,3846,"đ) Lợi dụng chức vụ, quyền hạn hoặc lợi dụng danh nghĩa cơ quan Nhà nước, tổ chức xã hội."""
+ENTITY,E40_14,DIEM,Điểm,structure,4046,4084,"a) Dùng thủ đoạn xảo quyệt, nguy hiểm;"
+ENTITY,E40_15,DIEM,Điểm,structure,4085,4122,b) Chiếm đoạt tài sản có giá trị lớn;
+ENTITY,E40_16,DIEM,Điểm,structure,4123,4145,c) Tái phạm nguy hiểm;
+ENTITY,E40_17,DIEM,Điểm,structure,4146,4236,"d) Lợi dụng chức vụ, quyền hạn hoặc lợi dụng danh nghĩa cơ quan Nhà nước, tổ chức xã hội."""
+ENTITY,E40_18,DIEM,Điểm,structure,5558,5668,"a) Hàng giả là lương thực, thực phẩm, thuốc chữa bệnh, phòng bệnh, vật liệu xây dựng, phân bón, thuốc trừ sâu;"
+ENTITY,E40_19,DIEM,Điểm,structure,5669,5715,b) Có tổ chức hoặc có tính chất chuyên nghiệp;
+ENTITY,E40_20,DIEM,Điểm,structure,5716,5805,"c) Lợi dụng chức vụ, quyền hạn hoặc lợi dụng danh nghĩa cơ quan Nhà nước, tổ chức xã hội;"
+ENTITY,E40_21,DIEM,Điểm,structure,5806,5857,d) Hàng giả có số lượng lớn; thu lợi bất chính lớn;
+ENTITY,E40_22,DIEM,Điểm,structure,5858,6009,"đ) Tái phạm nguy hiểm.
+3. Phạm tội trong trường hợp đặc biệt nghiêm trọng thì bị phạt tù từ mười hai năm đến hai mươi năm, tù chung thân hoặc tử hình."""
+ENTITY,E40_23,DIEM,Điểm,structure,6973,7021,a) Phạm tội vì vụ lợi hoặc động cơ cá nhân khác;
+ENTITY,E40_24,DIEM,Điểm,structure,7022,7045,b) Phạm tội có tổ chức;
+ENTITY,E40_25,DIEM,Điểm,structure,7046,7165,"c) Dùng thủ đoạn xảo quyệt.
+3. Phạm tội gây hậu quả đặc biệt nghiêm trọng thì bị phạt tù từ mười năm đến hai mươi năm."""
+ENTITY,E40_26,DIEM,Điểm,structure,8480,8503,a) Phạm tội có tổ chức;
+ENTITY,E40_27,DIEM,Điểm,structure,8504,8526,b) Phạm tội nhiều lần;
+ENTITY,E40_28,DIEM,Điểm,structure,8527,8665,"c) Gây hậu quả nghiêm trọng.
+3. Phạm tội trong trường hợp gây hậu quả đặc biệt nghiêm trọng, thì bị phạt tù từ mười năm đến hai mươi năm."""
+ENTITY,E40_29,DIEM,Điểm,structure,9119,9196,"a) Người phạm tội là người có trách nhiệm lập hoặc cấp các giấy tờ, tài liệu;"
+ENTITY,E40_30,DIEM,Điểm,structure,9197,9225,b) Gây hậu quả nghiêm trọng;
+ENTITY,E40_31,DIEM,Điểm,structure,9226,9361,"c) Phạm tội nhiều lần hoặc có tổ chức.
+3. Phạm tội trong trường hợp đặc biệt nghiêm trọng thì bị phạt tù từ mười năm đến hai mươi năm."""
+ENTITY,E40_32,DIEM,Điểm,structure,9823,9837,a) Có tổ chức;
+ENTITY,E40_33,DIEM,Điểm,structure,9838,9893,"b) Đòi hối lộ, sách nhiễu hoặc dùng thủ đoạn xảo quyệt;"
+ENTITY,E40_34,DIEM,Điểm,structure,9894,9923,c) Của hối lộ có giá trị lớn;
+ENTITY,E40_35,DIEM,Điểm,structure,9924,9952,d) Gây hậu quả nghiêm trọng;
+ENTITY,E40_36,DIEM,Điểm,structure,9953,9975,đ) Phạm tội nhiều lần;
+ENTITY,E40_37,DIEM,Điểm,structure,9976,10137,"e) Lạm dụng chức vụ, quyền hạn.
+3. Phạm tội trong trường hợp đặc biệt nghiêm trọng, thì bị phạt tù từ mười hai năm đến hai mươi năm, tù chung thân hoặc tử hình."""
+ENTITY,E40_38,DIEM,Điểm,structure,10319,10333,a) Có tổ chức;
+ENTITY,E40_39,DIEM,Điểm,structure,10334,10361,b) Dùng thủ đoạn xảo quyệt;
+ENTITY,E40_40,DIEM,Điểm,structure,10362,10391,c) Của hối lộ có giá trị lớn;
+ENTITY,E40_41,DIEM,Điểm,structure,10392,10420,d) Gây hậu quả nghiêm trọng;
+ENTITY,E40_42,DIEM,Điểm,structure,10421,10443,đ) Phạm tội nhiều lần;
+ENTITY,E40_43,DIEM,Điểm,structure,10444,10479,"e) Sử dụng công quỹ để đưa hối lộ."""
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R12_1,QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Quy định chi tiết, hướng dẫn thi hành",E2_1,E24_1,,
+RELATION,R13_1,QUY_DINH_HET_HIEU_LUC_MOT_PHAN,Quy định về việc hết hiệu lực một phần,E2_1,E25_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E40_1,E39_2,,
+RELATION,R22_6,THUOC,Thuộc,E40_2,E39_2,,
+RELATION,R22_7,THUOC,Thuộc,E40_3,E39_2,,
+RELATION,R22_8,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E39_4,E38_2,,
+RELATION,R22_10,THUOC,Thuộc,E39_5,E38_2,,
+RELATION,R22_11,THUOC,Thuộc,E40_4,E39_5,,
+RELATION,R22_12,THUOC,Thuộc,E40_5,E39_5,,
+RELATION,R22_13,THUOC,Thuộc,E40_6,E39_5,,
+RELATION,R22_14,THUOC,Thuộc,E40_7,E39_5,,
+RELATION,R22_15,THUOC,Thuộc,E40_8,E39_5,,
+RELATION,R22_16,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,R22_17,THUOC,Thuộc,E40_9,E39_6,,
+RELATION,R22_18,THUOC,Thuộc,E40_10,E39_6,,
+RELATION,R22_19,THUOC,Thuộc,E40_11,E39_6,,
+RELATION,R22_20,THUOC,Thuộc,E40_12,E39_6,,
+RELATION,R22_21,THUOC,Thuộc,E40_13,E39_6,,
+RELATION,R22_22,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,R22_23,THUOC,Thuộc,E40_14,E39_7,,
+RELATION,R22_24,THUOC,Thuộc,E40_15,E39_7,,
+RELATION,R22_25,THUOC,Thuộc,E40_16,E39_7,,
+RELATION,R22_26,THUOC,Thuộc,E40_17,E39_7,,
+RELATION,R22_27,THUOC,Thuộc,E39_8,E38_2,,
+RELATION,R22_28,THUOC,Thuộc,E39_9,E38_2,,
+RELATION,R22_29,THUOC,Thuộc,E39_10,E38_2,,
+RELATION,R22_30,THUOC,Thuộc,E39_11,E38_2,,
+RELATION,R22_31,THUOC,Thuộc,E40_18,E39_11,,
+RELATION,R22_32,THUOC,Thuộc,E40_19,E39_11,,
+RELATION,R22_33,THUOC,Thuộc,E40_20,E39_11,,
+RELATION,R22_34,THUOC,Thuộc,E40_21,E39_11,,
+RELATION,R22_35,THUOC,Thuộc,E40_22,E39_11,,
+RELATION,R22_36,THUOC,Thuộc,E39_12,E38_2,,
+RELATION,R22_37,THUOC,Thuộc,E39_13,E38_2,,
+RELATION,R22_38,THUOC,Thuộc,E40_23,E39_13,,
+RELATION,R22_39,THUOC,Thuộc,E40_24,E39_13,,
+RELATION,R22_40,THUOC,Thuộc,E40_25,E39_13,,
+RELATION,R22_41,THUOC,Thuộc,E39_14,E38_2,,
+RELATION,R22_42,THUOC,Thuộc,E39_15,E38_2,,
+RELATION,R22_43,THUOC,Thuộc,E39_16,E38_2,,
+RELATION,R22_44,THUOC,Thuộc,E40_26,E39_16,,
+RELATION,R22_45,THUOC,Thuộc,E40_27,E39_16,,
+RELATION,R22_46,THUOC,Thuộc,E40_28,E39_16,,
+RELATION,R22_47,THUOC,Thuộc,E39_17,E38_2,,
+RELATION,R22_48,THUOC,Thuộc,E40_29,E39_17,,
+RELATION,R22_49,THUOC,Thuộc,E40_30,E39_17,,
+RELATION,R22_50,THUOC,Thuộc,E40_31,E39_17,,
+RELATION,R22_51,THUOC,Thuộc,E39_18,E38_2,,
+RELATION,R22_52,THUOC,Thuộc,E40_32,E39_18,,
+RELATION,R22_53,THUOC,Thuộc,E40_33,E39_18,,
+RELATION,R22_54,THUOC,Thuộc,E40_34,E39_18,,
+RELATION,R22_55,THUOC,Thuộc,E40_35,E39_18,,
+RELATION,R22_56,THUOC,Thuộc,E40_36,E39_18,,
+RELATION,R22_57,THUOC,Thuộc,E40_37,E39_18,,
+RELATION,R22_58,THUOC,Thuộc,E39_19,E38_2,,
+RELATION,R22_59,THUOC,Thuộc,E40_38,E39_19,,
+RELATION,R22_60,THUOC,Thuộc,E40_39,E39_19,,
+RELATION,R22_61,THUOC,Thuộc,E40_40,E39_19,,
+RELATION,R22_62,THUOC,Thuộc,E40_41,E39_19,,
+RELATION,R22_63,THUOC,Thuộc,E40_42,E39_19,,
+RELATION,R22_64,THUOC,Thuộc,E40_43,E39_19,,
+RELATION,R22_65,THUOC,Thuộc,E39_20,E38_2,,
+RELATION,R22_66,THUOC,Thuộc,E39_21,E38_2,,

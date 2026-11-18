@@ -1,0 +1,21 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,78,Lệnh số 05/2003/L-CTN Về việc công bố Nghị quyết của Uỷ ban Thường vụ Quốc hội
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,8,21,05/2003/L-CTN
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Lệnh
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,196,221,ngày 10 tháng 03 năm 2003
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,980,994,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,1015,1025,2003-03-10
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,1049,1061,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,284,332,CHỦ TỊCH NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,879,892,CHỦ TỊCH NƯỚC
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,901,915,Trần Đức Lương
+ENTITY,E18_1,VB_DUOC_DAN_CHIEU,Văn bản được dẫn chiếu,reference,1283,1406,Nghị quyết số 355/2003/NQ-UBTVQH11 Quy định tổng biên chế và số lượng Thẩm phán của các Toà án nhân dân địa phương năm 2003
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1081,1127,"Hiến pháp năm 1992 (sửa đổi, bổ sung năm 2001)"
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1147,1184,Luật Tổ chức Quốc hội số 30/2001/QH10
+ENTITY,E19_3,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,1204,1256,Luật Ban hành Văn bản quy phạm pháp luật số Không số
+RELATION,R6_1,DUOC_DAN_CHIEU,Được dẫn chiếu,E2_1,E18_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R7_3,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_3,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,

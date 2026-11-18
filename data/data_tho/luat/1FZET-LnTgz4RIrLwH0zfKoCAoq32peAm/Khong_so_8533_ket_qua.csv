@@ -1,0 +1,1041 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,65,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Hình sự số Không số"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,57,65,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,4,Luật
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,50667,50691,ngày 10 tháng 5 năm 1997
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,50757,50771,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,50792,50802,1997-05-22
+ENTITY,E8_1,NGAY_HET_HIEU_LUC,Ngày hết hiệu lực,metadata,50824,50834,2000-07-01
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,50858,50878,Hết hiệu lực toàn bộ
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,265,273,Quốc hội
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,50892,50909,Chủ tịch Quốc hội
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,50922,50935,Nông Đức Mạnh
+ENTITY,E14_1,VB_DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Văn bản được quy định chi tiết, hướng dẫn thi hành",reference,51028,51046,Hiến pháp năm 1992
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,51088,51157,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Hình sự số 30-LCT/HĐNN8"
+ENTITY,E15_2,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,51199,51264,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Hình sự số Không số"
+ENTITY,E15_3,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,51306,51371,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Hình sự số Không số"
+ENTITY,E15_4,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,51413,51440,Bộ luật Hình sự số Không số
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,50955,50973,Hiến pháp năm 1992
+ENTITY,E26_1,VB_QUY_DINH_HET_HIEU_LUC_TOAN_BO,Văn bản quy định về việc hết hiệu lực toàn bộ,reference,51827,51858,Bộ luật Hình sự số 15/1999/QH10
+ENTITY,E29_1,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,51462,51611,Thông tư liên tịch số 02/1998/TTLT-TANDTC-VKSNDTC-BCA Hướng dẫn áp dụng một số quy định tại Chương VIIA “ Các tội phạm về ma túy” của Bộ luật Hình sự
+ENTITY,E29_2,VB_DAN_CHIEU,Văn bản dẫn chiếu,reference,51633,51777,Thông tư liên tịch số 01/1998/TTLT/TANDTC-VKSNDTC-BNV Hướng dẫn áp dụng một số quy định của Luật sửa đổi bổ sung một số điều của Bộ luật Hình sự
+ENTITY,E38_1,DIEU,Điều,structure,451,543,"Điều 1.
+Sửa đổi, bổ sung một số điều của Bộ luật hình sự về các tội phạm tham nhũng như sau:"
+ENTITY,E38_2,DIEU,Điều,structure,13700,13886,"Điều 2.
+Bổ sung Chương VIIA ""Các tội phạm về ma tuý"" vào ""Phần các tội phạm"" của Bộ luật hình sự như sau:
+""Điều 185a. Tội trồng cây thuốc phiện hoặc các loại cây khác có chứa chất ma tuý"
+ENTITY,E38_3,DIEU,Điều,structure,28751,28781,Điều 185(o). Hình phạt bổ sung
+ENTITY,E38_4,DIEU,Điều,structure,29518,29634,"Điều 3.
+Sửa đổi, bổ sung một số điều của Bộ luật hình sự về tội phạm tình dục đối với người chưa thành niên như sau:"
+ENTITY,E38_5,DIEU,Điều,structure,34158,34243,"Điều 4.
+Sửa đổi, bổ sung một số điều, khoản của Bộ luật hình sự có liên quan như sau:"
+ENTITY,E38_6,DIEU,Điều,structure,43423,43613,"Điều 101 (tội giết người); Điều 112, khoản 2, 3 và 4 (tội hiếp dâm); Điều 112a (tội hiếp dâm trẻ em); Điều 113a (tội cưỡng dâm người chưa thành niên); Điều 115, khoản 2 (tội mua bán phụ nữ);"
+ENTITY,E38_7,DIEU,Điều,structure,43614,44082,"Điều 129 (tội cướp tài sản xã hội chủ nghĩa); Điều 132, khoản 2 và 3 (tội trộm cắp tài sản xã hội chủ nghĩa); Điều 133, khoản 2, 3 và 4 (tội tham ô tài sản xã hội chủ nghĩa); Điều 134a, khoản 2, 3 và 4 (tội lợi dụng chức vụ, quyền hạn lừa đảo chiếm đoạt tài sản xã hội chủ nghĩa); Điều 137a, khoản 2 và 3 (tội lợi dụng chức vụ, quyền hạn sử dụng trái phép tài sản xã hội chủ nghĩa); Điều 138, khoản 2 và 3 (tội huỷ hoại hoặc cố ý làm hư hỏng tài sản xã hội chủ nghĩa);"
+ENTITY,E38_8,DIEU,Điều,structure,44083,44147,"Điều 149, khoản 2 (tội bắt trộm, mua bán hoặc đánh tráo trẻ em);"
+ENTITY,E38_9,DIEU,Điều,structure,44148,44343,"Điều 151 (tội cướp tài sản của công dân); Điều 152 (tội bắt cóc nhằm chiếm đoạt tài sản của công dân); Điều 156, khoản 2, 3 và 4 (tội lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản của công dân);"
+ENTITY,E38_10,DIEU,Điều,structure,44344,45772,"Điều 165, khoản 2 và 3 (tội đầu cơ); Điều 166, khoản 2 và 3 (tội buôn bán hàng cấm); Điều 167, khoản 2 và 3 (tội làm hàng giả, tội buôn bán hàng giả); Điều 172, khoản 2 và 3 (tội chiếm đoạt tem, phiếu, tội làm hoặc lưu hành tem, phiếu, giấy tờ giả dùng vào việc phân phối); Điều 174, khoản 2 và 3 (tội cố ý làm trái quy định của Nhà nước về quản lý kinh tế gây hậu quả nghiêm trọng); Điều 175, khoản 2, 3 và 4 (tội lập quỹ trái phép);
+Điều 185a, khoản 2 (tội trồng cây thuốc phiện hoặc các loại cây khác có chứa chất ma tuý); Điều 185b (tội sản xuất trái phép chất ma tuý); Điều 185c (tội tàng trữ trái phép chất ma tuý); Điều 185d (tội vận chuyển trái phép chất ma tuý); Điều 185đ (tội mua bán trái phép chất ma tuý); Điều 185e (tội chiếm đoạt chất ma túy); Điều 185g (tội tàng trữ, vận chuyển, mua bán hoặc chiếm đoạt tiền chất dùng vào việc sản xuất trái phép chất ma túy); Điều 185h, khoản 2 (tội tàng trữ, vận chuyển, mua bán, các phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy); Điều 185i (tội tổ chức sử dụng trái phép chất ma túy); Điều 185k (tội chứa chấp việc sử dụng trái phép chất ma túy); Điều 185m (tội cưỡng bức, lôi kéo người khác sử dụng trái phép chất ma túy); Điều 185n (tội vi phạm quy định về quản lý và sử dụng thuốc gây nghiện hoặc các chất ma tuý khác);
+Điều 202a, khoản 2, 3 và 4 (tội mua dâm người chưa thành niên); Điều 202b, khoản 2, 3 và 4 (tội dâm ô đối với trẻ em);"
+ENTITY,E38_11,DIEU,Điều,structure,45773,46204,"Điều 221, khoản 2, 3 và 4 (tội lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ); Điều 221a, khoản 2, 3 và 4 (tội lạm quyền trong khi thi hành công vụ); Điều 224, khoản 2, 3 và 4 (tội giả mạo trong công tác); Điều 226, khoản 2, 3 và 4 (tội nhận hối lộ); Điều 227, khoản 2, 3 và 4 (tội đưa hối lộ, tội làm môi giới hối lộ); Điều 228a, khoản 2, 3 và 4 (tội lợi dụng chức vụ, quyền hạn gây ảnh hưởng với người khác để trục lợi);"
+ENTITY,E38_12,DIEU,Điều,structure,46205,46541,"Điều 245, khoản 2 (tội trốn khỏi nơi giam).
+2- Phạm tội trong trường hợp lợi dụng chức vụ, quyền hạn cản trở việc phát hiện tội phạm hoặc có những hành vi khác bao che người phạm tội, thì bị phạt tù từ năm năm đến mười năm.""
+12. Điều 247 về tội không tố giác tội phạm được sửa đổi, bổ sung như sau:
+""Điều 247. Tội không tố giác tội phạm"
+ENTITY,E38_13,DIEU,Điều,structure,47350,47500,"Điều 101 (tội giết người); Điều 112, khoản 2, 3 và 4 (tội hiếp dâm); Điều 112a (tội hiếp dâm trẻ em); Điều 113a (tội cưỡng dâm người chưa thành niên);"
+ENTITY,E38_14,DIEU,Điều,structure,47501,47969,"Điều 129 (tội cướp tài sản xã hội chủ nghĩa); Điều 132, khoản 2 và 3 (tội trộm cắp tài sản xã hội chủ nghĩa); Điều 133, khoản 2, 3 và 4 (tội tham ô tài sản xã hội chủ nghĩa); Điều 134a, khoản 2, 3 và 4 (tội lợi dụng chức vụ, quyền hạn lừa đảo chiếm đoạt tài sản xã hội chủ nghĩa); Điều 137a, khoản 2 và 3 (tội lợi dụng chức vụ, quyền hạn sử dụng trái phép tài sản xã hội chủ nghĩa); Điều 138, khoản 2 và 3 (tội huỷ hoại hoặc cố ý làm hư hỏng tài sản xã hội chủ nghĩa);"
+ENTITY,E38_15,DIEU,Điều,structure,47970,48165,"Điều 151 (tội cướp tài sản của công dân); Điều 152 (tội bắt cóc nhằm chiếm đoạt tài sản của công dân); Điều 156, khoản 2, 3 và 4 (tội lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản của công dân);"
+ENTITY,E38_16,DIEU,Điều,structure,48166,49480,"Điều 165, khoản 2 và 3 (tội đầu cơ); Điều 172, khoản 2 và 3 (tội chiếm đoạt tem, phiếu, tội làm hoặc lưu hành tem, phiếu, giấy tờ giả dùng vào việc phân phối); Điều 174, khoản 2 và 3 (tội cố ý làm trái quy định của Nhà nước về quản lý kinh tế gây hậu quả nghiêm trọng); Điều 175, khoản 2, 3 và 4 (tội lập quỹ trái phép);
+Điều 185a, khoản 2 (tội trồng cây thuốc phiện hoặc các loại cây khác có chứa chất ma tuý); Điều 185b (tội sản xuất trái phép chất ma tuý); Điều 185c (tội tàng trữ trái phép chất ma tuý); Điều 185d (tội vận chuyển trái phép chất ma tuý); Điều 185đ (tội mua bán trái phép chất ma tuý); Điều 185e (tội chiếm đoạt chất ma túy); Điều 185g (tội tàng trữ, vận chuyển, mua bán hoặc chiếm đoạt tiền chất dùng vào việc sản xuất trái phép chất ma túy); Điều 185h, khoản 2 (tội tàng trữ, vận chuyển, mua bán, các phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy); Điều 185i (tội tổ chức sử dụng trái phép chất ma túy); Điều 185k (tội chứa chấp việc sử dụng trái phép chất ma túy); Điều 185m (tội cưỡng bức, lôi kéo người khác sử dụng trái phép chất ma túy); Điều 185n (tội vi phạm quy định về quản lý và sử dụng thuốc gây nghiện hoặc các chất ma tuý khác);
+Điều 202a, khoản 2, 3 và 4 (tội mua dâm người chưa thành niên); Điều 202b, khoản 2, 3 và 4 (tội dâm ô đối với trẻ em);"
+ENTITY,E38_17,DIEU,Điều,structure,49481,49912,"Điều 221, khoản 2, 3 và 4 (tội lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ); Điều 221a, khoản 2, 3 và 4 (tội lạm quyền trong khi thi hành công vụ); Điều 224, khoản 2, 3 và 4 (tội giả mạo trong công tác); Điều 226, khoản 2, 3 và 4 (tội nhận hối lộ); Điều 227, khoản 2, 3 và 4 (tội đưa hối lộ, tội làm môi giới hối lộ); Điều 228a, khoản 2, 3 và 4 (tội lợi dụng chức vụ, quyền hạn gây ảnh hưởng với người khác để trục lợi);"
+ENTITY,E38_18,DIEU,Điều,structure,49913,50120,"Điều 245, khoản 2 (tội trốn khỏi nơi giam).
+2- Người không tố giác nếu đã có hành động can ngăn người phạm tội hoặc hạn chế tác hại của tội phạm thì có thể được miễn trách nhiệm hình sự hoặc miễn hình phạt."""
+ENTITY,E38_19,DIEU,Điều,structure,50121,50201,"Điều 5.
+Thay thế các điều sau đây thuộc ""Phần các tội phạm"" của Bộ luật hình sự:"
+ENTITY,E39_1,KHOAN,Khoản,structure,544,993,"1. Điều 133 về tội tham ô tài sản xã hội chủ nghĩa được sửa đổi, bổ sung như sau:
+""Điều 133. Tội tham ô tài sản xã hội chủ nghĩa
+1- Người nào lợi dụng chức vụ, quyền hạn chiếm đoạt tài sản xã hội chủ nghĩa mà mình có trách nhiệm quản lý có giá trị từ năm triệu đồng đến dưới một trăm triệu đồng hoặc dưới năm triệu đồng nhưng gây hậu quả nghiêm trọng, vi phạm nhiều lần hoặc đã bị xử lý kỷ luật mà còn vi phạm, thì bị phạt tù từ hai năm đến bảy năm."
+ENTITY,E39_2,KHOAN,Khoản,structure,994,1089,"2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E39_3,KHOAN,Khoản,structure,1291,1391,"3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E39_4,KHOAN,Khoản,structure,1567,1658,"4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E39_5,KHOAN,Khoản,structure,5108,5575,"5. Điều 175 về tội lập quỹ trái phép được sửa đổi, bổ sung như sau:
+""Điều 175. Tội lập quỹ trái phép
+1- Người nào lợi dụng chức vụ, quyền hạn lập quỹ trái phép có giá trị từ năm mươi triệu đồng đến dưới hai trăm triệu đồng và đã sử dụng quỹ đó gây hậu quả nghiêm trọng hoặc đã bị xử lý kỷ luật hoặc bị xử phạt hành chính mà còn vi phạm, thì bị phạt tù từ một năm đến năm năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ năm năm đến mười năm:"
+ENTITY,E39_6,KHOAN,Khoản,structure,6246,6757,"6. Điều 221 về tội lợi dụng chức vụ, quyền hạn hoặc lạm quyền trong khi thi hành công vụ được sửa đổi, bổ sung như sau:
+""Điều 221. Tội lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ
+1- Người nào vì vụ lợi hoặc động cơ cá nhân khác mà lợi dụng chức vụ, quyền hạn làm trái công vụ gây thiệt hại cho lợi ích của Nhà nước, của xã hội, quyền hoặc lợi ích hợp pháp của công dân, thì bị phạt tù từ một năm đến năm năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ năm năm đến mười năm:"
+ENTITY,E39_7,KHOAN,Khoản,structure,7202,7653,"7. Bổ sung Điều 221a ""Tội lạm quyền trong khi thi hành công vụ"" như sau:
+""Điều 221a. Tội lạm quyền trong khi thi hành công vụ
+1- Người nào vì vụ lợi hoặc động cơ cá nhân khác mà vượt quá quyền hạn của mình làm trái công vụ gây thiệt hại cho lợi ích của Nhà nước, của xã hội, quyền hoặc lợi ích hợp pháp của công dân, thì bị phạt tù từ hai năm đến bảy năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E39_8,KHOAN,Khoản,structure,8100,8370,"8. Điều 224 về tội giả mạo trong công tác được sửa đổi, bổ sung như sau:
+""Điều 224. Tội giả mạo trong công tác
+1- Người nào vì vụ lợi hoặc động cơ cá nhân khác mà lợi dụng chức vụ, quyền hạn thực hiện một trong các hành vi sau đây, thì bị phạt tù từ một năm đến bảy năm:"
+ENTITY,E39_9,KHOAN,Khoản,structure,9121,9764,"9. Điều 226 về tội nhận hối lộ được sửa đổi, bổ sung như sau:
+""Điều 226. Tội nhận hối lộ
+1- Người nào lợi dụng chức vụ, quyền hạn trực tiếp hoặc qua trung gian đã nhận hoặc sẽ nhận tiền, tài sản hoặc lợi ích vật chất khác dưới bất kỳ hình thức nào có giá trị từ năm trăm nghìn đồng đến dưới mười triệu đồng hoặc dưới năm trăm nghìn đồng nhưng gây hậu quả nghiêm trọng, vi phạm nhiều lần hoặc đã bị xử lý kỷ luật mà còn vi phạm để làm hoặc không làm một việc vì lợi ích hoặc theo yêu cầu của người đưa hối lộ, thì bị phạt tù từ hai năm đến bảy năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E39_10,KHOAN,Khoản,structure,10549,11027,"10. Điều 227 về tội đưa hối lộ, tội làm môi giới hối lộ được sửa đổi, bổ sung như sau:
+""Điều 227. Tội đưa hối lộ, tội làm môi giới hối lộ
+1- Người nào đưa hối lộ hoặc làm môi giới hối lộ mà của hối lộ có giá trị từ năm trăm nghìn đồng đến dưới mười triệu đồng hoặc dưới năm trăm nghìn đồng nhưng gây hậu quả nghiêm trọng hoặc vi phạm nhiều lần, thì bị phạt tù từ một năm đến sáu năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ sáu năm đến mười ba năm:"
+ENTITY,E39_11,KHOAN,Khoản,structure,12099,12957,"11. Bổ sung Điều 228a ""Tội lợi dụng chức vụ, quyền hạn gây ảnh hưởng với người khác để trục lợi"" như sau:
+""Điều 228a. Tội lợi dụng chức vụ, quyền hạn gây ảnh hưởng với người khác để trục lợi
+1- Người nào lợi dụng chức vụ, quyền hạn trực tiếp hoặc qua trung gian đã nhận hoặc sẽ nhận tiền, tài sản hoặc lợi ích vật chất khác dưới bất kỳ hình thức nào có giá trị từ năm trăm nghìn đồng đến dưới mười triệu đồng hoặc dưới năm trăm nghìn đồng nhưng gây hậu quả nghiêm trọng, vi phạm nhiều lần hoặc đã bị xử lý kỷ luật mà còn vi phạm, để dùng ảnh hưởng của mình thúc đẩy người có chức vụ, quyền hạn làm hoặc không làm một việc thuộc trách nhiệm hoặc liên quan trực tiếp đến công việc của họ hoặc làm một việc không được phép làm, thì bị phạt tù từ một năm đến sáu năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ sáu năm đến mười ba năm:"
+ENTITY,E39_12,KHOAN,Khoản,structure,13887,14142,"1- Người nào trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy, đã được giáo dục nhiều lần, đã được tạo điều kiện để ổn định cuộc sống và đã bị xử phạt hành chính mà còn vi phạm, thì bị phạt tù từ sáu tháng đến ba năm."
+ENTITY,E39_13,KHOAN,Khoản,structure,14143,14232,"2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ ba năm đến bảy năm:"
+ENTITY,E39_14,KHOAN,Khoản,structure,15179,15279,"3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E39_15,KHOAN,Khoản,structure,15900,15991,"4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E39_16,KHOAN,Khoản,structure,28782,29208,"1- Người nào phạm tội quy định tại Điều 185a, thì có thể bị phạt tiền từ năm triệu đồng đến năm mươi triệu đồng.
+Người nào phạm tội quy định tại Điều 185m hoặc Điều 185n, thì bị phạt tiền từ mười triệu đồng đến một trăm triệu đồng.
+Người nào phạm một trong các tội quy định tại các điều từ Điều 185b đến Điều 185k, thì bị phạt tiền từ hai mươi triệu đồng đến năm trăm triệu đồng hoặc bị tịch thu một phần hoặc toàn bộ tài sản."
+ENTITY,E39_17,KHOAN,Khoản,structure,29209,29409,"2- Người nào phạm một trong các tội quy định tại các điều từ Điều 185b đến Điều 185h hoặc Điều 185n, thì bị cấm đảm nhiệm những chức vụ, làm những nghề hoặc công việc nhất định từ hai năm đến năm năm."
+ENTITY,E39_18,KHOAN,Khoản,structure,29410,29517,"3- Người nào phạm tội quy định tại Điều 185i, thì bị phạt quản chế hoặc cấm cư trú từ một năm đến năm năm."""
+ENTITY,E39_19,KHOAN,Khoản,structure,29635,29823,"1. Bổ sung Điều 112a ""Tội hiếp dâm trẻ em"" như sau:
+""Điều 112a. Tội hiếp dâm trẻ em
+1- Người nào hiếp dâm trẻ em từ đủ 13 tuổi đến dưới 16 tuổi, thì bị phạt tù từ bảy năm đến mười lăm năm."
+ENTITY,E39_20,KHOAN,Khoản,structure,29824,29924,"2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E39_21,KHOAN,Khoản,structure,30128,30219,"3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E39_22,KHOAN,Khoản,structure,30374,30847,"4- Mọi trường hợp giao cấu với trẻ em chưa đủ 13 tuổi là phạm tội hiếp dâm và người phạm tội bị phạt tù hai mươi năm, tù chung thân hoặc tử hình.""
+2. Bổ sung Điều 113a ""Tội cưỡng dâm người chưa thành niên"" như sau:
+""Điều 113a. Tội cưỡng dâm người chưa thành niên
+1- Người nào cưỡng dâm người chưa thành niên từ đủ 16 tuổi đến dưới 18 tuổi, thì bị phạt tù từ hai năm đến bảy năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười ba năm:"
+ENTITY,E39_23,KHOAN,Khoản,structure,32919,33236,"5. Bổ sung Điều 202a ""Tội mua dâm người chưa thành niên"" như sau:
+""Điều 202a. Tội mua dâm người chưa thành niên
+1- Người nào mua dâm người chưa thành niên từ đủ 16 tuổi đến dưới 18 tuổi, thì bị phạt tù từ một năm đến năm năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ năm năm đến mười năm:"
+ENTITY,E39_24,KHOAN,Khoản,structure,33523,33793,"6. Bổ sung Điều 202b "" Tội dâm ô đối với trẻ em"" như sau:
+""Điều 202b. Tội dâm ô đối với trẻ em
+1- Người nào có hành vi dâm ô đối với trẻ em, thì bị phạt tù từ sáu tháng đến ba năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ ba năm đến bảy năm:"
+ENTITY,E39_25,KHOAN,Khoản,structure,34244,34419,"1. Điều 39 về những tình tiết tăng nặng được sửa đổi, bổ sung như sau:
+"" Điều 39. Những tình tiết tăng nặng
+1- Chỉ những tình tiết sau đây mới được coi là tình tiết tăng nặng:"
+ENTITY,E39_26,KHOAN,Khoản,structure,35235,35857,"2- Những tình tiết đã là yếu tố định tội hoặc định khung hình phạt thì không được coi là tình tiết tăng nặng.""
+2. Điều 100 về hình phạt bổ sung được sửa đổi, bổ sung như sau:
+""Điều 100. Hình phạt bổ sung
+1- Công dân Việt Nam phạm một trong các tội thuộc Mục A, thì bị tước một số quyền công dân từ một năm đến năm năm; phạm một trong các tội thuộc Mục B thì có thể bị tước một số quyền công dân từ một năm đến năm năm.
+2- Công dân Việt Nam phạm một trong các tội thuộc Mục A hoặc một trong các tội quy định tại Điều 87, Điều 88, các điều từ Điều 94 đến Điều 99, thì bị phạt quản chế hoặc cấm cư trú từ một năm đến năm năm."
+ENTITY,E39_27,KHOAN,Khoản,structure,35858,36272,"3- Người nào phạm một trong các tội quy định tại Điều 90 và Điều 91 trong trường hợp hình phạt chính không phải là phạt tiền, thì có thể bị phạt tiền theo mức đã quy định đối với mỗi tội.
+Người nào phạm một trong các tội quy định tại các điều 88, 95, 96, 98 và 99, thì có thể bị phạt tiền từ ba trăm nghìn đồng đến ba triệu đồng; phạm tội quy định tại Điều 97, thì bị phạt tiền đến mười lần trị giá hàng phạm pháp."
+ENTITY,E39_28,KHOAN,Khoản,structure,36273,36994,"4- Người nào phạm một trong các tội thuộc Mục A, thì bị tịch thu một phần hoặc toàn bộ tài sản; phạm một trong các tội quy định tại Điều 88, các điều từ Điều 94 đến Điều 98, thì có thể bị tịch thu một phần hoặc toàn bộ tài sản.""
+3. Điều 112 về tội hiếp dâm được sửa đổi, bổ sung như sau:
+""Điều 112 . Tội hiếp dâm
+1- Người nào dùng vũ lực hoặc thủ đoạn khác giao cấu với người khác trái ý muốn của họ, thì bị phạt tù từ hai năm đến bảy năm.
+Phạm tội hiếp dâm người chưa thành niên từ đủ 16 tuổi đến dưới 18 tuổi hoặc người mà người phạm tội có trách nhiệm chăm sóc, giáo dục, chữa bệnh, thì bị phạt tù từ năm năm đến mười năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E39_29,KHOAN,Khoản,structure,38303,38775,"5. Điều 118 về hình phạt bổ sung được sửa đổi, bổ sung như sau:
+""Điều 118. Hình phạt bổ sung
+1- Người nào phạm một trong các tội quy định tại các điều từ Điều 101 đến Điều 105 và tại các điều 107, 112, 112a, 113 và 113a, thì có thể bị cấm đảm nhiệm những chức vụ, làm những nghề hoặc công việc nhất định từ hai năm đến năm năm.
+2- Người nào phạm một trong các tội quy định tại các điều 101, 112a và 115, thì có thể bị phạt quản chế hoặc cấm cư trú từ một năm đến năm năm."""
+ENTITY,E39_30,KHOAN,Khoản,structure,38776,39138,"6. Điều 134 về tội lừa đảo chiếm đoạt tài sản xã hội chủ nghĩa được sửa đổi, bổ sung như sau:
+""Điều 134. Tội lừa đảo chiếm đoạt tài sản xã hội chủ nghĩa
+1- Người nào bằng thủ đoạn gian dối chiếm đoạt tài sản xã hội chủ nghĩa, thì bị phạt tù từ sáu tháng đến năm năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ năm năm đến mười hai năm:"
+ENTITY,E39_31,KHOAN,Khoản,structure,39820,40241,"7. Điều 137 về tội sử dụng trái phép tài sản xã hội chủ nghĩa được sửa đổi, bổ sung như sau:
+""Điều 137. Tội sử dụng trái phép tài sản xã hội chủ nghĩa
+1- Người nào vì vụ lợi mà sử dụng trái phép tài sản xã hội chủ nghĩa gây hậu quả nghiêm trọng hoặc đã bị xử phạt hành chính mà còn vi phạm, thì bị phạt tù từ ba tháng đến hai năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ hai năm đến năm năm:"
+ENTITY,E39_32,KHOAN,Khoản,structure,40505,41260,"8. Điều 142 về hình phạt bổ sung được sửa đổi, bổ sung như sau:
+""Điều 142. Hình phạt bổ sung
+1- Người nào phạm một trong các tội quy định tại Điều 133, Điều 134a, điểm d khoản 2 Điều 135, Điều 137a và Điều 139, thì bị cấm đảm nhiệm chức vụ quản lý tài sản xã hội chủ nghĩa từ hai năm đến năm năm.
+2- Người nào phạm một trong các tội quy định tại các điều từ Điều 129 đến Điều 132, Điều 134 và Điều 135, nếu là tái phạm nguy hiểm, thì bị phạt quản chế hoặc cấm cư trú từ một năm đến năm năm.
+3- Người nào phạm một trong các tội quy định tại Chương này, trừ các điều 136, 139 và 140, thì tuỳ theo tính chất nghiêm trọng của tội phạm mà có thể bị phạt tiền đến ba mươi triệu đồng và bị tịch thu một phần hoặc toàn bộ tài sản hoặc một trong hai hình phạt đó."""
+ENTITY,E39_33,KHOAN,Khoản,structure,41261,41904,"9. Điều 218 về hình phạt bổ sung được sửa đổi, bổ sung như sau:
+""Điều 218. Hình phạt bổ sung
+1- Người nào phạm một trong các tội quy định tại các điều từ Điều 186 đến Điều 191 và từ Điều 195 đến Điều 197, thì có thể bị cấm đảm nhiệm những chức vụ, làm những nghề hoặc công việc nhất định từ hai năm đến năm năm .
+2- Người nào phạm một trong các tội quy định tại các điều từ Điều 199 đến Điều 202, thì có thể bị phạt quản chế hoặc cấm cư trú từ một năm đến năm năm.
+3- Người nào phạm một trong các tội quy định tại các điều từ Điều 199 đến Điều 202, thì bị phạt tiền từ một triệu đồng đến năm triệu đồng và có thể bị tịch thu một phần tài sản."""
+ENTITY,E39_34,KHOAN,Khoản,structure,41905,42459,"10. Điều 229 về hình phạt bổ sung được sửa đổi, bổ sung như sau:
+""Điều 229 . Hình phạt bổ sung
+1- Người nào phạm một trong các tội quy định tại Chương này, thì có thể bị cấm đảm nhiệm những chức vụ nhất định từ hai năm đến năm năm.
+2- Người nào phạm một trong các tội quy định tại các điều 221, 221a và 224, thì có thể bị phạt tiền từ ba triệu đồng đến ba mươi triệu đồng.
+Người nào phạm một trong các tội quy định tại các điều 226, 227, 228 và 228a, thì bị phạt tiền từ một đến năm lần giá trị của hối lộ hoặc bị tịch thu một phần hoặc toàn bộ tài sản."""
+ENTITY,E39_35,KHOAN,Khoản,structure,42460,43422,"11. Điều 246 về tội che giấu tội phạm được sửa đổi, bổ sung như sau:
+""Điều 246. Tội che giấu tội phạm
+1- Người nào không hứa hẹn trước mà che giấu một trong những tội phạm quy định tại các điều sau đây, thì bị phạt cải tạo không giam giữ đến hai năm hoặc bị phạt tù từ sáu tháng đến năm năm:
+Các điều từ Điều 72 đến Điều 85 về các tội đặc biệt nguy hiểm xâm phạm an ninh quốc gia; Điều 87 (tội chiếm đoạt máy bay, tàu thuỷ); Điều 94, khoản 2 (tội phá huỷ công trình, phương tiện quan trọng về an ninh quốc gia); Điều 95, khoản 2 và 3 (tội chế tạo, tàng trữ, sử dụng, mua bán trái phép hoặc chiếm đoạt vũ khí quân dụng, phương tiện kỹ thuật quân sự); Điều 96, khoản 2 và 3 (tội chế tạo, tàng trữ, sử dụng, mua bán trái phép hoặc chiếm đoạt chất nổ, chất cháy, chất độc, chất phóng xạ); Điều 97, khoản 2 và 3 (tội buôn lậu hoặc vận chuyển trái phép hàng hoá, tiền tệ qua biên giới); Điều 98 (tội làm tiền giả, tội tàng trữ, lưu hành tiền giả, tội phá huỷ tiền tệ);"
+ENTITY,E39_36,KHOAN,Khoản,structure,46542,47349,"1- Người nào biết rõ một trong những tội phạm quy định tại các điều sau đây đang được chuẩn bị hoặc đã được thực hiện mà không tố giác, thì bị phạt cảnh cáo, cải tạo không giam giữ đến một năm hoặc bị phạt tù từ ba tháng đến ba năm:
+Các điều từ Điều 72 đến Điều 85 về các tội đặc biệt nguy hiểm xâm phạm an ninh quốc gia; Điều 87 (tội chiếm đoạt máy bay, tàu thuỷ); Điều 94, khoản 2 (tội phá huỷ công trình, phương tiện quan trọng về an ninh quốc gia); Điều 95, khoản 2 và 3 (tội chế tạo, tàng trữ, sử dụng, mua bán trái phép hoặc chiếm đoạt vũ khí quân dụng, phương tiện kỹ thuật quân sự); Điều 96, khoản 2 và 3 (tội chế tạo, tàng trữ, sử dụng, mua bán trái phép hoặc chiếm đoạt chất nổ, chất cháy, chất độc, chất phóng xạ); Điều 98 (tội làm tiền giả, tội tàng trữ, lưu hành tiền giả, tội phá huỷ tiền tệ);"
+ENTITY,E39_37,KHOAN,Khoản,structure,50202,50337,"1- Điều 96a (tội sản xuất, tàng trữ, mua bán, vận chuyển trái phép các chất ma tuý) được thay bằng các điều từ Điều 185b đến Điều 185đ."
+ENTITY,E39_38,KHOAN,Khoản,structure,50338,50406,2- Điều 203 (tội tổ chức dùng chất ma tuý) được thay bằng Điều 185i.
+ENTITY,E39_39,KHOAN,Khoản,structure,50407,50567,"3- Cụm từ ""Điều 96a"" tại khoản 1 Điều 168 (tội kinh doanh trái phép) và tại khoản 2 Điều 169 (tội trốn thuế) được thay bằng cụm từ ""185b, 185c, 185d và 185đ""./."
+ENTITY,E40_1,DIEM,Điểm,structure,1090,1125,a) Có sự thông đồng với người khác;
+ENTITY,E40_2,DIEM,Điểm,structure,1126,1164,"b) Dùng thủ đoạn xảo quyệt, nguy hiểm;"
+ENTITY,E40_3,DIEM,Điểm,structure,1165,1238,c) Tài sản có giá trị từ một trăm triệu đồng đến dưới ba trăm triệu đồng;
+ENTITY,E40_4,DIEM,Điểm,structure,1239,1261,d) Phạm tội nhiều lần;
+ENTITY,E40_5,DIEM,Điểm,structure,1262,1290,đ) Gây hậu quả nghiêm trọng.
+ENTITY,E40_6,DIEM,Điểm,structure,1392,1406,a) Có tổ chức;
+ENTITY,E40_7,DIEM,Điểm,structure,1407,1480,b) Tài sản có giá trị từ ba trăm triệu đồng đến dưới năm trăm triệu đồng;
+ENTITY,E40_8,DIEM,Điểm,structure,1481,1533,c) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_9,DIEM,Điểm,structure,1534,1566,d) Gây hậu quả rất nghiêm trọng.
+ENTITY,E40_10,DIEM,Điểm,structure,1659,1712,a) Tài sản có giá trị từ năm trăm triệu đồng trở lên;
+ENTITY,E40_11,DIEM,Điểm,structure,1713,1765,b) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_12,DIEM,Điểm,structure,1766,2410,"c) Gây hậu quả đặc biệt nghiêm trọng.''
+2. Bổ sung Điều 134a ""Tội lợi dụng chức vụ, quyền hạn lừa đảo chiếm đoạt tài sản xã hội chủ nghĩa'' như sau:
+""Điều134a. Tội lợi dụng chức vụ, quyền hạn lừa đảo chiếm đoạt tài sản xã hội chủ nghĩa
+1- Người nào lợi dụng chức vụ, quyền hạn dùng thủ đoạn gian dối chiếm đoạt tài sản xã hội chủ nghĩa có giá trị từ năm triệu đồng đến dưới một trăm triệu đồng hoặc dưới năm triệu đồng nhưng gây hậu quả nghiêm trọng, vi phạm nhiều lần hoặc đã bị xử lý kỷ luật mà còn vi phạm, thì bị phạt tù từ hai năm đến bảy năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E40_13,DIEM,Điểm,structure,2411,2425,a) Có tổ chức;
+ENTITY,E40_14,DIEM,Điểm,structure,2426,2464,"b) Dùng thủ đoạn xảo quyệt, nguy hiểm;"
+ENTITY,E40_15,DIEM,Điểm,structure,2465,2538,c) Tài sản có giá trị từ một trăm triệu đồng đến dưới ba trăm triệu đồng;
+ENTITY,E40_16,DIEM,Điểm,structure,2539,2561,d) Phạm tội nhiều lần;
+ENTITY,E40_17,DIEM,Điểm,structure,2562,2691,"đ) Gây hậu quả nghiêm trọng.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_18,DIEM,Điểm,structure,2692,2765,a) Tài sản có giá trị từ ba trăm triệu đồng đến dưới năm trăm triệu đồng;
+ENTITY,E40_19,DIEM,Điểm,structure,2766,2818,b) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_20,DIEM,Điểm,structure,2819,2943,"c) Gây hậu quả rất nghiêm trọng.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E40_21,DIEM,Điểm,structure,2944,2997,a) Tài sản có giá trị từ năm trăm triệu đồng trở lên;
+ENTITY,E40_22,DIEM,Điểm,structure,2998,3050,b) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_23,DIEM,Điểm,structure,3051,3579,"c) Gây hậu quả đặc biệt nghiêm trọng.''
+3. Bổ sung Điều 137a ""Tội lợi dụng chức vụ, quyền hạn sử dụng trái phép tài sản xã hội chủ nghĩa'' như sau:
+""Điều 137a. Tội lợi dụng chức vụ, quyền hạn sử dụng trái phép tài sản xã hội chủ nghĩa
+1- Người nào vì vụ lợi mà lợi dụng chức vụ, quyền hạn sử dụng trái phép tài sản xã hội chủ nghĩa gây hậu quả nghiêm trọng hoặc đã bị xử lý kỷ luật mà còn vi phạm, thì bị phạt tù từ một năm đến năm năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ năm năm đến mười năm:"
+ENTITY,E40_24,DIEM,Điểm,structure,3580,3594,a) Có tổ chức;
+ENTITY,E40_25,DIEM,Điểm,structure,3595,3617,b) Phạm tội nhiều lần;
+ENTITY,E40_26,DIEM,Điểm,structure,3618,3747,"c) Gây hậu quả rất nghiêm trọng.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười năm đến mười lăm năm:"
+ENTITY,E40_27,DIEM,Điểm,structure,3748,3800,a) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_28,DIEM,Điểm,structure,3801,4406,"b) Gây hậu quả đặc biệt nghiêm trọng.""
+4. Điều 156 về tội lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản của công dân được sửa đổi, bổ sung như sau:
+""Điều 156.Tội lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản của công dân
+1- Người nào lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản của người khác có giá trị từ năm triệu đồng đến dưới một trăm triệu đồng hoặc dưới năm triệu đồng nhưng gây hậu quả nghiêm trọng, vi phạm nhiều lần hoặc đã bị xử lý kỷ luật mà còn vi phạm, thì bị phạt tù từ một năm đến sáu năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ sáu năm đến mười ba năm:"
+ENTITY,E40_29,DIEM,Điểm,structure,4407,4421,a) Có tổ chức;
+ENTITY,E40_30,DIEM,Điểm,structure,4422,4460,"b) Dùng thủ đoạn xảo quyệt, nguy hiểm;"
+ENTITY,E40_31,DIEM,Điểm,structure,4461,4534,c) Tài sản có giá trị từ một trăm triệu đồng đến dưới ba trăm triệu đồng;
+ENTITY,E40_32,DIEM,Điểm,structure,4535,4557,d) Phạm tội nhiều lần;
+ENTITY,E40_33,DIEM,Điểm,structure,4558,4586,đ) Gây hậu quả nghiêm trọng;
+ENTITY,E40_34,DIEM,Điểm,structure,4587,4709,"e) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười ba năm đến hai mươi năm:"
+ENTITY,E40_35,DIEM,Điểm,structure,4710,4783,a) Tài sản có giá trị từ ba trăm triệu đồng đến dưới năm trăm triệu đồng;
+ENTITY,E40_36,DIEM,Điểm,structure,4784,4836,b) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_37,DIEM,Điểm,structure,4837,4961,"c) Gây hậu quả rất nghiêm trọng.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E40_38,DIEM,Điểm,structure,4962,5015,a) Tài sản có giá trị từ năm trăm triệu đồng trở lên;
+ENTITY,E40_39,DIEM,Điểm,structure,5016,5068,b) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_40,DIEM,Điểm,structure,5069,5107,"c) Gây hậu quả đặc biệt nghiêm trọng."""
+ENTITY,E40_41,DIEM,Điểm,structure,5576,5632,a) Dùng thủ đoạn xảo quyệt để trốn tránh việc kiểm soát;
+ENTITY,E40_42,DIEM,Điểm,structure,5633,5663,b) Để thực hiện tội phạm khác;
+ENTITY,E40_43,DIEM,Điểm,structure,5664,5744,c) Quỹ trái phép có giá trị từ hai trăm triệu đồng đến dưới năm trăm triệu đồng;
+ENTITY,E40_44,DIEM,Điểm,structure,5745,5874,"d) Gây hậu quả rất nghiêm trọng.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười năm đến mười lăm năm:"
+ENTITY,E40_45,DIEM,Điểm,structure,5875,5947,a) Quỹ trái phép có giá trị từ năm trăm triệu đồng đến dưới một tỷ đồng;
+ENTITY,E40_46,DIEM,Điểm,structure,5948,6000,b) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_47,DIEM,Điểm,structure,6001,6139,"c) Gây hậu quả đặc biệt nghiêm trọng.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_48,DIEM,Điểm,structure,6140,6191,a) Quỹ trái phép có giá trị từ một tỷ đồng trở lên;
+ENTITY,E40_49,DIEM,Điểm,structure,6192,6245,"b) Có nhiều tình tiết quy định tại khoản 3 Điều này."""
+ENTITY,E40_50,DIEM,Điểm,structure,6758,6772,a) Có tổ chức;
+ENTITY,E40_51,DIEM,Điểm,structure,6773,6795,b) Phạm tội nhiều lần;
+ENTITY,E40_52,DIEM,Điểm,structure,6796,6921,"c) Gây hậu quả nghiêm trọng.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười năm đến mười lăm năm:"
+ENTITY,E40_53,DIEM,Điểm,structure,6922,6974,a) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_54,DIEM,Điểm,structure,6975,7108,"b) Gây hậu quả rất nghiêm trọng.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_55,DIEM,Điểm,structure,7109,7161,a) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_56,DIEM,Điểm,structure,7162,7201,"b) Gây hậu quả đặc biệt nghiêm trọng ."""
+ENTITY,E40_57,DIEM,Điểm,structure,7654,7668,a) Có tổ chức;
+ENTITY,E40_58,DIEM,Điểm,structure,7669,7691,b) Phạm tội nhiều lần;
+ENTITY,E40_59,DIEM,Điểm,structure,7692,7821,"c) Gây hậu quả nghiêm trọng.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_60,DIEM,Điểm,structure,7822,7874,a) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_61,DIEM,Điểm,structure,7875,8007,"b) Gây hậu quả rất nghiêm trọng.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù hai mươi năm hoặc tù chung thân:"
+ENTITY,E40_62,DIEM,Điểm,structure,8008,8060,a) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_63,DIEM,Điểm,structure,8061,8099,"b) Gây hậu quả đặc biệt nghiêm trọng."""
+ENTITY,E40_64,DIEM,Điểm,structure,8371,8424,"a) Sửa chữa, làm sai lệch nội dung giấy tờ, tài liệu;"
+ENTITY,E40_65,DIEM,Điểm,structure,8425,8449,"b) Làm, cấp giấy tờ giả;"
+ENTITY,E40_66,DIEM,Điểm,structure,8450,8596,"c) Giả mạo chữ ký của người có chức vụ, quyền hạn.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E40_67,DIEM,Điểm,structure,8597,8611,a) Có tổ chức;
+ENTITY,E40_68,DIEM,Điểm,structure,8612,8689,"b) Người phạm tội là người có trách nhiệm lập hoặc cấp các giấy tờ, tài liệu;"
+ENTITY,E40_69,DIEM,Điểm,structure,8690,8712,c) Phạm tội nhiều lần;
+ENTITY,E40_70,DIEM,Điểm,structure,8713,8842,"d) Gây hậu quả nghiêm trọng.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_71,DIEM,Điểm,structure,8843,8895,a) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_72,DIEM,Điểm,structure,8896,9028,"b) Gây hậu quả rất nghiêm trọng.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù hai mươi năm hoặc tù chung thân:"
+ENTITY,E40_73,DIEM,Điểm,structure,9029,9081,a) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_74,DIEM,Điểm,structure,9082,9120,"b) Gây hậu quả đặc biệt nghiêm trọng."""
+ENTITY,E40_75,DIEM,Điểm,structure,9765,9779,a) Có tổ chức;
+ENTITY,E40_76,DIEM,Điểm,structure,9780,9835,"b) Đòi hối lộ, sách nhiễu hoặc dùng thủ đoạn xảo quyệt;"
+ENTITY,E40_77,DIEM,Điểm,structure,9836,9908,c) Của hối lộ có giá trị từ mười triệu đồng đến dưới ba mươi triệu đồng;
+ENTITY,E40_78,DIEM,Điểm,structure,9909,9959,d) Biết rõ của hối lộ là tài sản xã hội chủ nghĩa;
+ENTITY,E40_79,DIEM,Điểm,structure,9960,9982,đ) Phạm tội nhiều lần;
+ENTITY,E40_80,DIEM,Điểm,structure,9983,10014,"e) Lạm dụng chức vụ, quyền hạn;"
+ENTITY,E40_81,DIEM,Điểm,structure,10015,10144,"g) Gây hậu quả nghiêm trọng.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_82,DIEM,Điểm,structure,10145,10221,a) Của hối lộ có giá trị từ ba mươi triệu đồng đến dưới năm mươi triệu đồng;
+ENTITY,E40_83,DIEM,Điểm,structure,10222,10274,b) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_84,DIEM,Điểm,structure,10275,10399,"c) Gây hậu quả rất nghiêm trọng.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E40_85,DIEM,Điểm,structure,10400,10456,a) Của hối lộ có giá trị từ năm mươi triệu đồng trở lên;
+ENTITY,E40_86,DIEM,Điểm,structure,10457,10509,b) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_87,DIEM,Điểm,structure,10510,10548,"c) Gây hậu quả đặc biệt nghiêm trọng."""
+ENTITY,E40_88,DIEM,Điểm,structure,11028,11042,a) Có tổ chức;
+ENTITY,E40_89,DIEM,Điểm,structure,11043,11070,b) Dùng thủ đoạn xảo quyệt;
+ENTITY,E40_90,DIEM,Điểm,structure,11071,11143,c) Của hối lộ có giá trị từ mười triệu đồng đến dưới ba mươi triệu đồng;
+ENTITY,E40_91,DIEM,Điểm,structure,11144,11166,d) Phạm tội nhiều lần;
+ENTITY,E40_92,DIEM,Điểm,structure,11167,11214,đ) Dùng tài sản xã hội chủ nghĩa để đưa hối lộ;
+ENTITY,E40_93,DIEM,Điểm,structure,11215,11343,"e) Gây hậu quả nghiêm trọng.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười ba năm đến hai mươi năm:"
+ENTITY,E40_94,DIEM,Điểm,structure,11344,11420,a) Của hối lộ có giá trị từ ba mươi triệu đồng đến dưới năm mươi triệu đồng;
+ENTITY,E40_95,DIEM,Điểm,structure,11421,11473,b) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_96,DIEM,Điểm,structure,11474,11598,"c) Gây hậu quả rất nghiêm trọng.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E40_97,DIEM,Điểm,structure,11599,11655,a) Của hối lộ có giá trị từ năm mươi triệu đồng trở lên;
+ENTITY,E40_98,DIEM,Điểm,structure,11656,11708,b) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_99,DIEM,Điểm,structure,11709,12098,"c) Gây hậu quả đặc biệt nghiêm trọng.
+5- Người bị ép buộc đưa hối lộ mà chủ động khai báo trước khi bị phát giác, thì được coi là không có tội và được trả lại toàn bộ của đã dùng để đưa hối lộ.
+Người đưa hối lộ tuy không bị ép buộc nhưng đã chủ động khai báo trước khi bị phát giác, thì có thể được miễn trách nhiệm hình sự và được trả lại một phần hoặc toàn bộ của đã dùng để đưa hối lộ."""
+ENTITY,E40_100,DIEM,Điểm,structure,12958,12972,a) Có tổ chức;
+ENTITY,E40_101,DIEM,Điểm,structure,12973,13075,"b) Tiền, tài sản hoặc lợi ích vật chất khác có giá trị từ mười triệu đồng đến dưới ba mươi triệu đồng;"
+ENTITY,E40_102,DIEM,Điểm,structure,13076,13098,c) Phạm tội nhiều lần;
+ENTITY,E40_103,DIEM,Điểm,structure,13099,13227,"d) Gây hậu quả nghiêm trọng.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười ba năm đến hai mươi năm:"
+ENTITY,E40_104,DIEM,Điểm,structure,13228,13334,"a) Tiền, tài sản hoặc lợi ích vật chất khác có giá trị từ ba mươi triệu đồng đến dưới năm mươi triệu đồng;"
+ENTITY,E40_105,DIEM,Điểm,structure,13335,13387,b) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_106,DIEM,Điểm,structure,13388,13520,"c) Gây hậu quả rất nghiêm trọng.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù hai mươi năm hoặc tù chung thân:"
+ENTITY,E40_107,DIEM,Điểm,structure,13521,13607,"a) Tiền, tài sản hoặc lợi ích vật chất khác có giá trị từ năm mươi triệu đồng trở lên;"
+ENTITY,E40_108,DIEM,Điểm,structure,13608,13660,b) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_109,DIEM,Điểm,structure,13661,13699,"c) Gây hậu quả đặc biệt nghiêm trọng."""
+ENTITY,E40_110,DIEM,Điểm,structure,14233,14247,a) Có tổ chức;
+ENTITY,E40_111,DIEM,Điểm,structure,14248,14521,"b) Tái phạm tội này.
+Điều 185b. Tội sản xuất trái phép chất ma túy
+1- Người nào sản xuất trái phép chất ma tuý dưới bất kỳ hình thức nào, thì bị phạt tù từ ba năm đến mười năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười năm đến mười lăm năm:"
+ENTITY,E40_112,DIEM,Điểm,structure,14522,14536,a) Có tổ chức;
+ENTITY,E40_113,DIEM,Điểm,structure,14537,14559,b) Phạm tội nhiều lần;
+ENTITY,E40_114,DIEM,Điểm,structure,14560,14591,"c) Lợi dụng chức vụ, quyền hạn;"
+ENTITY,E40_115,DIEM,Điểm,structure,14592,14632,"d) Lợi dụng danh nghĩa cơ quan, tổ chức;"
+ENTITY,E40_116,DIEM,Điểm,structure,14633,14732,"đ) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có trọng lượng từ năm trăm gam đến dưới một kilôgam;"
+ENTITY,E40_117,DIEM,Điểm,structure,14733,14802,e) Hêrôin hoặc côcain có trọng lượng từ năm gam đến dưới ba mươi gam;
+ENTITY,E40_118,DIEM,Điểm,structure,14803,14890,g) Các chất ma tuý khác ở thể rắn có trọng lượng từ hai mươi gam đến dưới một trăm gam;
+ENTITY,E40_119,DIEM,Điểm,structure,14891,14981,h) Các chất ma tuý khác ở thể lỏng từ một trăm mililít đến dưới hai trăm năm mươi mililít;
+ENTITY,E40_120,DIEM,Điểm,structure,14982,15155,i) Có từ hai chất ma tuý trở lên mà tổng số lượng của các chất đó tương đương với số lượng chất ma tuý quy định tại một trong các điểm từ điểm đ đến điểm h khoản 2 Điều này;
+ENTITY,E40_121,DIEM,Điểm,structure,15156,15178,k) Tái phạm nguy hiểm.
+ENTITY,E40_122,DIEM,Điểm,structure,15280,15310,a) Có tính chất chuyên nghiệp;
+ENTITY,E40_123,DIEM,Điểm,structure,15311,15409,"b) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có trọng lượng từ một kilôgam đến dưới năm kilôgam;"
+ENTITY,E40_124,DIEM,Điểm,structure,15410,15484,c) Hêrôin hoặc côcain có trọng lượng từ ba mươi gam đến dưới một trăm gam;
+ENTITY,E40_125,DIEM,Điểm,structure,15485,15571,d) Các chất ma tuý khác ở thể rắn có trọng lượng từ một trăm gam đến dưới ba trăm gam;
+ENTITY,E40_126,DIEM,Điểm,structure,15572,15672,đ) Các chất ma tuý khác ở thể lỏng từ hai trăm năm mươi mililít đến dưới bảy trăm năm mươi mililít ;
+ENTITY,E40_127,DIEM,Điểm,structure,15673,15846,e) Có từ hai chất ma tuý trở lên mà tổng số lượng của các chất đó tương đương với số lượng chất ma tuý quy định tại một trong các điểm từ điểm b đến điểm đ khoản 3 Điều này;
+ENTITY,E40_128,DIEM,Điểm,structure,15847,15899,g) Có nhiều tình tiết quy định tại khoản 2 Điều này.
+ENTITY,E40_129,DIEM,Điểm,structure,15992,16077,"a) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có trọng lượng từ năm kilôgam trở lên;"
+ENTITY,E40_130,DIEM,Điểm,structure,16078,16139,b) Hêrôin hoặc côcain có trọng lượng từ một trăm gam trở lên;
+ENTITY,E40_131,DIEM,Điểm,structure,16140,16212,c) Các chất ma tuý khác ở thể rắn có trọng lượng từ ba trăm gam trở lên;
+ENTITY,E40_132,DIEM,Điểm,structure,16213,16285,d) Các chất ma tuý khác ở thể lỏng từ bảy trăm năm mươi mililít trở lên;
+ENTITY,E40_133,DIEM,Điểm,structure,16286,16459,đ) Có từ hai chất ma tuý trở lên mà tổng số lượng của các chất đó tương đương với số lượng chất ma tuý quy định tại một trong các điểm từ điểm a đến điểm d khoản 4 Điều này;
+ENTITY,E40_134,DIEM,Điểm,structure,16460,16738,"e) Có nhiều tình tiết quy định tại khoản 3 Điều này.
+Điều 185c. Tội tàng trữ trái phép chất ma túy
+1- Người nào tàng trữ trái phép chất ma tuý, thì bị phạt tù từ hai năm đến bảy năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E40_135,DIEM,Điểm,structure,16739,16753,a) Có tổ chức;
+ENTITY,E40_136,DIEM,Điểm,structure,16754,16776,b) Phạm tội nhiều lần;
+ENTITY,E40_137,DIEM,Điểm,structure,16777,16808,"c) Lợi dụng chức vụ, quyền hạn;"
+ENTITY,E40_138,DIEM,Điểm,structure,16809,16849,"d) Lợi dụng danh nghĩa cơ quan, tổ chức;"
+ENTITY,E40_139,DIEM,Điểm,structure,16850,16949,"đ) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có trọng lượng từ năm trăm gam đến dưới một kilôgam;"
+ENTITY,E40_140,DIEM,Điểm,structure,16950,17019,e) Hêrôin hoặc côcain có trọng lượng từ năm gam đến dưới ba mươi gam;
+ENTITY,E40_141,DIEM,Điểm,structure,17020,17125,"g) Lá, hoa, quả cây cần sa hoặc lá cây côca có trọng lượng từ mười kilôgam đến dưới hai mươi lăm kilôgam;"
+ENTITY,E40_142,DIEM,Điểm,structure,17126,17210,h) Quả thuốc phiện khô có trọng lượng từ năm mươi kilôgam đến dưới hai trăm kilôgam;
+ENTITY,E40_143,DIEM,Điểm,structure,17211,17292,i) Quả thuốc phiện tươi có trọng lượng từ mười kilôgam đến dưới năm mươi kilôgam;
+ENTITY,E40_144,DIEM,Điểm,structure,17293,17380,k) Các chất ma tuý khác ở thể rắn có trọng lượng từ hai mươi gam đến dưới một trăm gam;
+ENTITY,E40_145,DIEM,Điểm,structure,17381,17471,l) Các chất ma tuý khác ở thể lỏng từ một trăm mililít đến dưới hai trăm năm mươi mililít;
+ENTITY,E40_146,DIEM,Điểm,structure,17472,17645,m) Có từ hai chất ma tuý trở lên mà tổng số lượng của các chất đó tương đương với số lượng chất ma tuý quy định tại một trong các điểm từ điểm đ đến điểm l khoản 2 Điều này;
+ENTITY,E40_147,DIEM,Điểm,structure,17646,17769,"n) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_148,DIEM,Điểm,structure,17770,17868,"a) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có trọng lượng từ một kilôgam đến dưới năm kilôgam;"
+ENTITY,E40_149,DIEM,Điểm,structure,17869,17943,b) Hêrôin hoặc côcain có trọng lượng từ ba mươi gam đến dưới một trăm gam;
+ENTITY,E40_150,DIEM,Điểm,structure,17944,18057,"c) Lá, hoa, quả cây cần sa hoặc lá cây côca có trọng lượng từ hai mươi lăm kilôgam đến dưới bảy mươi lăm kilôgam;"
+ENTITY,E40_151,DIEM,Điểm,structure,18058,18142,d) Quả thuốc phiện khô có trọng lượng từ hai trăm kilôgam đến dưới sáu trăm kilôgam;
+ENTITY,E40_152,DIEM,Điểm,structure,18143,18237,đ) Quả thuốc phiện tươi có trọng lượng từ năm mươi kilôgam đến dưới một trăm năm mươi kilôgam;
+ENTITY,E40_153,DIEM,Điểm,structure,18238,18324,e) Các chất ma tuý khác ở thể rắn có trọng lượng từ một trăm gam đến dưới ba trăm gam;
+ENTITY,E40_154,DIEM,Điểm,structure,18325,18424,g) Các chất ma tuý khác ở thể lỏng từ hai trăm năm mươi mililít đến dưới bảy trăm năm mươi mililít;
+ENTITY,E40_155,DIEM,Điểm,structure,18425,18598,h) Có từ hai chất ma tuý trở lên mà tổng số lượng của các chất đó tương đương với số lượng chất ma tuý quy định tại một trong các điểm từ điểm a đến điểm g khoản 3 Điều này;
+ENTITY,E40_156,DIEM,Điểm,structure,18599,18743,"i) Có nhiều tình tiết quy định tại khoản 2 Điều này.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E40_157,DIEM,Điểm,structure,18744,18829,"a) Nhựa thuốc phiện, nhựa cần sa hoặc cao côca có trọng lượng từ năm kilôgam trở lên;"
+ENTITY,E40_158,DIEM,Điểm,structure,18830,18891,b) Hêrôin hoặc côcain có trọng lượng từ một trăm gam trở lên;
+ENTITY,E40_159,DIEM,Điểm,structure,18892,18984,"c) Lá, hoa, quả cây cần sa hoặc lá cây côca có trọng lượng từ bảy mươi lăm kilôgam trở lên ;"
+ENTITY,E40_160,DIEM,Điểm,structure,18985,19051,d) Quả thuốc phiện khô có trọng lượng từ sáu trăm kilôgam trở lên;
+ENTITY,E40_161,DIEM,Điểm,structure,19052,19128,đ) Quả thuốc phiện tươi có trọng lượng từ một trăm năm mươi kilôgam trở lên;
+ENTITY,E40_162,DIEM,Điểm,structure,19129,19201,e) Các chất ma tuý khác ở thể rắn có trọng lượng từ ba trăm gam trở lên;
+ENTITY,E40_163,DIEM,Điểm,structure,19202,19274,g) Các chất ma tuý khác ở thể lỏng từ bảy trăm năm mươi mililít trở lên;
+ENTITY,E40_164,DIEM,Điểm,structure,19275,19448,h) Có từ hai chất ma tuý trở lên mà tổng số lượng của các chất đó tương đương với số lượng chất ma tuý quy định tại một trong các điểm từ điểm a đến điểm g khoản 4 Điều này;
+ENTITY,E40_165,DIEM,Điểm,structure,19449,19731,"i) Có nhiều tình tiết quy định tại khoản 3 Điều này.
+Điều 185d. Tội vận chuyển trái phép chất ma túy
+1- Người nào vận chuyển trái phép chất ma tuý, thì bị phạt tù từ hai năm đến bảy năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E40_166,DIEM,Điểm,structure,19732,19746,a) Có tổ chức;
+ENTITY,E40_167,DIEM,Điểm,structure,19747,19769,b) Phạm tội nhiều lần;
+ENTITY,E40_168,DIEM,Điểm,structure,19770,19801,"c) Lợi dụng chức vụ, quyền hạn;"
+ENTITY,E40_169,DIEM,Điểm,structure,19802,19843,"d) Lợi dụng danh nghĩa cơ quan, tổ chức ;"
+ENTITY,E40_170,DIEM,Điểm,structure,19844,19872,đ) Vận chuyển qua biên giới;
+ENTITY,E40_171,DIEM,Điểm,structure,19873,19924,e) Sử dụng người chưa thành niên vào việc phạm tội;
+ENTITY,E40_172,DIEM,Điểm,structure,19925,20038,g) Chất ma tuý có số lượng tương ứng được quy định tại một trong các điểm từ điểm đ đến điểm m khoản 2 Điều 185c;
+ENTITY,E40_173,DIEM,Điểm,structure,20039,20162,"h) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_174,DIEM,Điểm,structure,20163,20276,a) Chất ma tuý có số lượng tương ứng được quy định tại một trong các điểm từ điểm a đến điểm h khoản 3 Điều 185c;
+ENTITY,E40_175,DIEM,Điểm,structure,20277,20421,"b) Có nhiều tình tiết quy định tại khoản 2 Điều này.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E40_176,DIEM,Điểm,structure,20422,20535,a) Chất ma tuý có số lượng tương ứng được quy định tại một trong các điểm từ điểm a đến điểm h khoản 4 Điều 185c;
+ENTITY,E40_177,DIEM,Điểm,structure,20536,20839,"b) Có nhiều tình tiết quy định tại khoản 3 Điều này.
+Điều 185đ. Tội mua bán trái phép chất ma túy
+1- Người nào mua bán trái phép chất ma tuý dưới bất kỳ hình thức nào, thì bị phạt tù từ ba năm đến mười năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười năm đến mười lăm năm:"
+ENTITY,E40_178,DIEM,Điểm,structure,20840,20854,a) Có tổ chức;
+ENTITY,E40_179,DIEM,Điểm,structure,20855,20877,b) Phạm tội nhiều lần;
+ENTITY,E40_180,DIEM,Điểm,structure,20878,20909,"c) Lợi dụng chức vụ, quyền hạn;"
+ENTITY,E40_181,DIEM,Điểm,structure,20910,20950,"d) Lợi dụng danh nghĩa cơ quan, tổ chức;"
+ENTITY,E40_182,DIEM,Điểm,structure,20951,20976,đ) Thu lợi bất chính lớn;
+ENTITY,E40_183,DIEM,Điểm,structure,20977,21002,e) Mua bán qua biên giới;
+ENTITY,E40_184,DIEM,Điểm,structure,21003,21054,g) Sử dụng người chưa thành niên vào việc phạm tội;
+ENTITY,E40_185,DIEM,Điểm,structure,21055,21168,h) Chất ma tuý có số lượng tương ứng được quy định tại một trong các điểm từ điểm đ đến điểm m khoản 2 Điều 185c;
+ENTITY,E40_186,DIEM,Điểm,structure,21169,21292,"i) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_187,DIEM,Điểm,structure,21293,21323,a) Có tính chất chuyên nghiệp;
+ENTITY,E40_188,DIEM,Điểm,structure,21324,21432,b) Chất ma tuý có số lượng tương ứng quy định tại một trong các điểm từ điểm a đến điểm h khoản 3 Điều 185c;
+ENTITY,E40_189,DIEM,Điểm,structure,21433,21577,"c) Có nhiều tình tiết quy định tại khoản 2 Điều này.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E40_190,DIEM,Điểm,structure,21578,21691,a) Chất ma tuý có số lượng tương ứng được quy định tại một trong các điểm từ điểm a đến điểm h khoản 4 Điều 185c;
+ENTITY,E40_191,DIEM,Điểm,structure,21692,21981,"b) Có nhiều tình tiết quy định tại khoản 3 Điều này.
+Điều 185e. Tội chiếm đoạt chất ma túy
+1- Người nào chiếm đoạt chất ma tuý dưới bất kỳ hình thức nào, thì bị phạt tù từ ba năm đến mười năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười năm đến mười lăm năm:"
+ENTITY,E40_192,DIEM,Điểm,structure,21982,21996,a) Có tổ chức;
+ENTITY,E40_193,DIEM,Điểm,structure,21997,22019,b) Phạm tội nhiều lần;
+ENTITY,E40_194,DIEM,Điểm,structure,22020,22051,"c) Lợi dụng chức vụ, quyền hạn;"
+ENTITY,E40_195,DIEM,Điểm,structure,22052,22092,"d) Lợi dụng danh nghĩa cơ quan, tổ chức;"
+ENTITY,E40_196,DIEM,Điểm,structure,22093,22141,đ) Có sử dụng vũ khí hoặc phương tiện nguy hiểm;
+ENTITY,E40_197,DIEM,Điểm,structure,22142,22255,e) Chất ma tuý có số lượng tương ứng được quy định tại một trong các điểm từ điểm đ đến điểm m khoản 2 Điều 185c;
+ENTITY,E40_198,DIEM,Điểm,structure,22256,22379,"g) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_199,DIEM,Điểm,structure,22380,22493,a) Chất ma tuý có số lượng tương ứng được quy định tại một trong các điểm từ điểm a đến điểm h khoản 3 Điều 185c;
+ENTITY,E40_200,DIEM,Điểm,structure,22494,22638,"b) Có nhiều tình tiết quy định tại khoản 2 Điều này.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E40_201,DIEM,Điểm,structure,22639,22752,a) Chất ma tuý có số lượng tương ứng được quy định tại một trong các điểm từ điểm a đến điểm h khoản 4 Điều 185c;
+ENTITY,E40_202,DIEM,Điểm,structure,22753,23235,"b) Có nhiều tình tiết quy định tại khoản 3 Điều này.
+Điều 185g. Tội tàng trữ, vận chuyển, mua bán hoặc chiếm đoạt tiền chất dùng vào việc sản xuất trái phép chất ma túy
+1- Người nào tàng trữ, vận chuyển, mua bán hoặc chiếm đoạt tiền chất dùng vào việc sản xuất trái phép chất ma tuý, thì bị phạt tiền từ hai mươi triệu đồng đến một trăm triệu đồng hoặc bị phạt tù từ một năm đến sáu năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ sáu năm đến mười ba năm:"
+ENTITY,E40_203,DIEM,Điểm,structure,23236,23250,a) Có tổ chức;
+ENTITY,E40_204,DIEM,Điểm,structure,23251,23273,b) Phạm tội nhiều lần;
+ENTITY,E40_205,DIEM,Điểm,structure,23274,23305,"c) Lợi dụng chức vụ, quyền hạn;"
+ENTITY,E40_206,DIEM,Điểm,structure,23306,23346,"d) Lợi dụng danh nghĩa cơ quan, tổ chức;"
+ENTITY,E40_207,DIEM,Điểm,structure,23347,23413,đ) Tiền chất có trọng lượng từ hai trăm gam đến dưới năm trăm gam;
+ENTITY,E40_208,DIEM,Điểm,structure,23414,23451,"e) Vận chuyển, mua bán qua biên giới;"
+ENTITY,E40_209,DIEM,Điểm,structure,23452,23574,"g) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười ba năm đến hai mươi năm:"
+ENTITY,E40_210,DIEM,Điểm,structure,23575,23651,a) Tiền chất có trọng lượng từ năm trăm gam đến dưới một nghìn hai trăm gam;
+ENTITY,E40_211,DIEM,Điểm,structure,23652,23804,"b) Có nhiều tình tiết quy định tại khoản 2 Điều này.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù hai mươi năm hoặc tù chung thân:"
+ENTITY,E40_212,DIEM,Điểm,structure,23805,23867,a) Tiền chất có trọng lượng từ một nghìn hai trăm gam trở lên;
+ENTITY,E40_213,DIEM,Điểm,structure,23868,24390,"b) Có nhiều tình tiết quy định tại khoản 3 Điều này.
+Điều185h. Tội sản xuất, tàng trữ, vận chuyển, mua bán các phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy
+1- Người nào sản xuất, tàng trữ, vận chuyển, mua bán các phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma tuý, thì bị phạt tiền từ hai mươi triệu đồng đến một trăm triệu đồng hoặc bị phạt tù từ một năm đến năm năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ năm năm đến mười năm:"
+ENTITY,E40_214,DIEM,Điểm,structure,24391,24405,a) Có tổ chức;
+ENTITY,E40_215,DIEM,Điểm,structure,24406,24428,b) Phạm tội nhiều lần;
+ENTITY,E40_216,DIEM,Điểm,structure,24429,24460,"c) Lợi dụng chức vụ, quyền hạn;"
+ENTITY,E40_217,DIEM,Điểm,structure,24461,24501,"d) Lợi dụng danh nghĩa cơ quan, tổ chức;"
+ENTITY,E40_218,DIEM,Điểm,structure,24502,24535,đ) Vật phạm pháp có số lượng lớn;
+ENTITY,E40_219,DIEM,Điểm,structure,24536,24573,"e) Vận chuyển, mua bán qua biên giới;"
+ENTITY,E40_220,DIEM,Điểm,structure,24574,24862,"g) Tái phạm nguy hiểm.
+Điều 185i. Tội tổ chức sử dụng trái phép chất ma túy
+1- Người nào tổ chức sử dụng trái phép chất ma túy dưới bất kỳ hình thức nào, thì bị phạt tù từ hai năm đến bảy năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E40_221,DIEM,Điểm,structure,24863,24885,a) Phạm tội nhiều lần;
+ENTITY,E40_222,DIEM,Điểm,structure,24886,24909,b) Đối với nhiều người;
+ENTITY,E40_223,DIEM,Điểm,structure,24910,24965,c) Đối với người chưa thành niên từ đủ 13 tuổi trở lên;
+ENTITY,E40_224,DIEM,Điểm,structure,24966,25008,d) Đối với phụ nữ mà biết là đang có thai;
+ENTITY,E40_225,DIEM,Điểm,structure,25009,25042,đ) Đối với người đang cai nghiện;
+ENTITY,E40_226,DIEM,Điểm,structure,25043,25127,e) Gây tổn hại nặng cho sức khoẻ của người khác hoặc gây cố tật nặng cho người khác;
+ENTITY,E40_227,DIEM,Điểm,structure,25128,25165,g) Gây bệnh nguy hiểm cho người khác;
+ENTITY,E40_228,DIEM,Điểm,structure,25166,25289,"h) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_229,DIEM,Điểm,structure,25290,25308,a) Gây chết người;
+ENTITY,E40_230,DIEM,Điểm,structure,25309,25395,b) Gây tổn hại nặng cho sức khỏe của nhiều người hoặc gây cố tật nặng cho nhiều người;
+ENTITY,E40_231,DIEM,Điểm,structure,25396,25434,c) Gây bệnh nguy hiểm cho nhiều người;
+ENTITY,E40_232,DIEM,Điểm,structure,25435,25487,d) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_233,DIEM,Điểm,structure,25488,25611,"đ) Đối với trẻ em dưới 13 tuổi.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E40_234,DIEM,Điểm,structure,25612,25664,a) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_235,DIEM,Điểm,structure,25665,26112,"b) Gây chết nhiều người hoặc gây hậu quả đặc biệt nghiêm trọng khác.
+Điều 185k. Tội chứa chấp việc sử dụng trái phép chất ma tuý
+1- Người nào cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy, thì bị phạt tiền từ hai mươi triệu đồng đến hai trăm triệu đồng hoặc bị phạt tù từ hai năm đến bảy năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E40_236,DIEM,Điểm,structure,26113,26144,"a) Lợi dụng chức vụ, quyền hạn;"
+ENTITY,E40_237,DIEM,Điểm,structure,26145,26167,b) Phạm tội nhiều lần;
+ENTITY,E40_238,DIEM,Điểm,structure,26168,26191,c) Đối với nhiều người;
+ENTITY,E40_239,DIEM,Điểm,structure,26192,26865,"d) Tái phạm nguy hiểm.
+Điều 185l. Tội sử dụng trái phép chất ma tuý
+1- Người nào sử dụng trái phép chất ma tuý dưới bất kỳ hình thức nào, đã được giáo dục nhiều lần và đã bị xử lý hành chính bằng biện pháp đưa vào cơ sở chữa bệnh bắt buộc mà còn tiếp tục sử dụng trái phép chất ma tuý, thì bị phạt tù từ ba tháng đến hai năm.
+2- Tái phạm tội này, thì bị phạt tù từ hai năm đến năm năm.
+Điều 185m. Tội cưỡng bức, lôi kéo người khác sử dụng trái phép chất ma túy
+1- Người nào cưỡng bức hoặc lôi kéo người khác sử dụng trái phép chất ma tuý, thì bị phạt tù từ hai năm đến bảy năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E40_240,DIEM,Điểm,structure,26866,26880,a) Có tổ chức;
+ENTITY,E40_241,DIEM,Điểm,structure,26881,26903,b) Phạm tội nhiều lần;
+ENTITY,E40_242,DIEM,Điểm,structure,26904,26925,c) Vì động cơ đê hèn;
+ENTITY,E40_243,DIEM,Điểm,structure,26926,26981,d) Đối với người chưa thành niên từ đủ 13 tuổi trở lên;
+ENTITY,E40_244,DIEM,Điểm,structure,26982,27024,đ) Đối với phụ nữ mà biết là đang có thai;
+ENTITY,E40_245,DIEM,Điểm,structure,27025,27048,e) Đối với nhiều người;
+ENTITY,E40_246,DIEM,Điểm,structure,27049,27082,g) Đối với người đang cai nghiện;
+ENTITY,E40_247,DIEM,Điểm,structure,27083,27167,h) Gây tổn hại nặng cho sức khỏe của người khác hoặc gây cố tật nặng cho người khác;
+ENTITY,E40_248,DIEM,Điểm,structure,27168,27205,i) Gây bệnh nguy hiểm cho người khác;
+ENTITY,E40_249,DIEM,Điểm,structure,27206,27329,"k) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_250,DIEM,Điểm,structure,27330,27348,a) Gây chết người;
+ENTITY,E40_251,DIEM,Điểm,structure,27349,27435,b) Gây tổn hại nặng cho sức khoẻ của nhiều người hoặc gây cố tật nặng cho nhiều người;
+ENTITY,E40_252,DIEM,Điểm,structure,27436,27474,c) Gây bệnh nguy hiểm cho nhiều người;
+ENTITY,E40_253,DIEM,Điểm,structure,27475,27527,d) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_254,DIEM,Điểm,structure,27528,27651,"đ) Đối với trẻ em dưới 13 tuổi.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E40_255,DIEM,Điểm,structure,27652,27704,a) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_256,DIEM,Điểm,structure,27705,28291,"b) Gây chết nhiều người hoặc gây hậu quả đặc biệt nghiêm trọng khác.
+Điều 185n. Tội vi phạm quy định về quản lý, sử dụng thuốc gây nghiện hoặc các chất ma tuý khác
+1- Người nào có trách nhiệm trong việc sản xuất, xuất khẩu, nhập khẩu, mua bán, vận chuyển, bảo quản, phân phối, cấp phát, sử dụng thuốc gây nghiện hoặc các chất ma tuý khác mà vi phạm quy định về quản lý, sử dụng các chất đó, thì bị phạt tiền từ mười triệu đồng đến một trăm triệu đồng hoặc bị phạt tù từ hai năm đến bảy năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E40_257,DIEM,Điểm,structure,28292,28306,a) Có tổ chức;
+ENTITY,E40_258,DIEM,Điểm,structure,28307,28320,b) Vì vụ lợi;
+ENTITY,E40_259,DIEM,Điểm,structure,28321,28343,c) Phạm tội nhiều lần;
+ENTITY,E40_260,DIEM,Điểm,structure,28344,28473,"d) Gây hậu quả nghiêm trọng.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_261,DIEM,Điểm,structure,28474,28526,a) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_262,DIEM,Điểm,structure,28527,28659,"b) Gây hậu quả rất nghiêm trọng.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù hai mươi năm hoặc tù chung thân:"
+ENTITY,E40_263,DIEM,Điểm,structure,28660,28712,a) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_264,DIEM,Điểm,structure,28713,28750,b) Gây hậu quả đặc biệt nghiêm trọng.
+ENTITY,E40_265,DIEM,Điểm,structure,29925,29951,a) Có tính chất loạn luân;
+ENTITY,E40_266,DIEM,Điểm,structure,29952,29976,b) Làm nạn nhân có thai;
+ENTITY,E40_267,DIEM,Điểm,structure,29977,30023,c) Gây tổn hại nặng cho sức khoẻ của nạn nhân;
+ENTITY,E40_268,DIEM,Điểm,structure,30024,30104,"d) Đối với người mà người phạm tội có trách nhiệm chăm sóc, giáo dục, chữa bệnh;"
+ENTITY,E40_269,DIEM,Điểm,structure,30105,30127,đ) Tái phạm nguy hiểm.
+ENTITY,E40_270,DIEM,Điểm,structure,30220,30234,a) Có tổ chức;
+ENTITY,E40_271,DIEM,Điểm,structure,30235,30265,b) Nhiều người hiếp một người;
+ENTITY,E40_272,DIEM,Điểm,structure,30266,30288,c) Phạm tội nhiều lần;
+ENTITY,E40_273,DIEM,Điểm,structure,30289,30339,d) Gây tổn hại rất nặng cho sức khỏe của nạn nhân;
+ENTITY,E40_274,DIEM,Điểm,structure,30340,30373,đ) Làm nạn nhân chết hoặc tự sát.
+ENTITY,E40_275,DIEM,Điểm,structure,30848,30899,a) Cưỡng dâm trẻ em từ đủ 13 tuổi đến dưới 16 tuổi;
+ENTITY,E40_276,DIEM,Điểm,structure,30900,30926,b) Có tính chất loạn luân;
+ENTITY,E40_277,DIEM,Điểm,structure,30927,30951,c) Làm nạn nhân có thai;
+ENTITY,E40_278,DIEM,Điểm,structure,30952,30998,d) Gây tổn hại nặng cho sức khoẻ của nạn nhân;
+ENTITY,E40_279,DIEM,Điểm,structure,30999,31121,"đ) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười ba năm đến hai mươi năm:"
+ENTITY,E40_280,DIEM,Điểm,structure,31122,31157,a) Nhiều người cưỡng dâm một người;
+ENTITY,E40_281,DIEM,Điểm,structure,31158,31180,b) Phạm tội nhiều lần;
+ENTITY,E40_282,DIEM,Điểm,structure,31181,31331,"c) Gây tổn hại rất nặng cho sức khoẻ của nạn nhân.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù hai mươi năm hoặc tù chung thân:"
+ENTITY,E40_283,DIEM,Điểm,structure,31332,31365,a) Làm nạn nhân chết hoặc tự sát;
+ENTITY,E40_284,DIEM,Điểm,structure,31366,31749,"b) Có nhiều tình tiết quy định tại khoản 3 Điều này.""
+3. Điều 114 về tội giao cấu với người dưới 16 tuổi được sửa đổi, bổ sung như sau:
+""Điều 114. Tội giao cấu với trẻ em
+1- Người nào đã thành niên mà giao cấu với trẻ em từ đủ 13 tuổi đến dưới 16 tuổi, thì bị phạt tù từ một năm đến năm năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ năm năm đến mười năm:"
+ENTITY,E40_285,DIEM,Điểm,structure,31750,31772,a) Phạm tội nhiều lần;
+ENTITY,E40_286,DIEM,Điểm,structure,31773,31799,b) Có tính chất loạn luân;
+ENTITY,E40_287,DIEM,Điểm,structure,31800,31824,c) Làm nạn nhân có thai;
+ENTITY,E40_288,DIEM,Điểm,structure,31825,32327,"d) Gây tổn hại nặng cho sức khoẻ của nạn nhân.
+3- Phạm tội trong trường hợp có nhiều tình tiết quy định tại khoản 2 Điều này, thì bị phạt tù từ mười năm đến mười lăm năm.""
+4. Điều 202 về tội chứa mãi dâm, tội môi giới mãi dâm được sửa đổi, bổ sung như sau:
+""Điều 202. Tội chứa mãi dâm, tội môi giới mãi dâm
+1- Người nào chứa mãi dâm, dụ dỗ hoặc dẫn dắt người mãi dâm, thì bị phạt tù từ một năm đến bảy năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười lăm năm:"
+ENTITY,E40_289,DIEM,Điểm,structure,32328,32349,a) Cưỡng bức mãi dâm;
+ENTITY,E40_290,DIEM,Điểm,structure,32350,32372,b) Phạm tội nhiều lần;
+ENTITY,E40_291,DIEM,Điểm,structure,32373,32437,c) Đối với người chưa thành niên từ đủ 16 tuổi đến dưới 18 tuổi;
+ENTITY,E40_292,DIEM,Điểm,structure,32438,32466,d) Gây hậu quả nghiêm trọng;
+ENTITY,E40_293,DIEM,Điểm,structure,32467,32590,"đ) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm:"
+ENTITY,E40_294,DIEM,Điểm,structure,32591,32640,a) Đối với trẻ em từ đủ 13 tuổi đến dưới 16 tuổi;
+ENTITY,E40_295,DIEM,Điểm,structure,32641,32693,b) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_296,DIEM,Điểm,structure,32694,32826,"c) Gây hậu quả rất nghiêm trọng.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù hai mươi năm hoặc tù chung thân:"
+ENTITY,E40_297,DIEM,Điểm,structure,32827,32879,a) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_298,DIEM,Điểm,structure,32880,32918,"b) Gây hậu quả đặc biệt nghiêm trọng."""
+ENTITY,E40_299,DIEM,Điểm,structure,33237,33259,a) Phạm tội nhiều lần;
+ENTITY,E40_300,DIEM,Điểm,structure,33260,33385,"b) Gây hậu quả nghiêm trọng.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười năm đến mười lăm năm:"
+ENTITY,E40_301,DIEM,Điểm,structure,33386,33435,a) Mua dâm trẻ em từ đủ 13 tuổi đến dưới 16 tuổi;
+ENTITY,E40_302,DIEM,Điểm,structure,33436,33488,b) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_303,DIEM,Điểm,structure,33489,33522,"c) Gây hậu quả rất nghiêm trọng."""
+ENTITY,E40_304,DIEM,Điểm,structure,33794,33816,a) Phạm tội nhiều lần;
+ENTITY,E40_305,DIEM,Điểm,structure,33817,33841,b) Đối với nhiều trẻ em;
+ENTITY,E40_306,DIEM,Điểm,structure,33842,33922,"c) Đối với người mà người phạm tội có trách nhiệm chăm sóc, giáo dục, chữa bệnh;"
+ENTITY,E40_307,DIEM,Điểm,structure,33923,33951,d) Gây hậu quả nghiêm trọng;
+ENTITY,E40_308,DIEM,Điểm,structure,33952,34070,"đ) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ bảy năm đến mười hai năm:"
+ENTITY,E40_309,DIEM,Điểm,structure,34071,34123,a) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_310,DIEM,Điểm,structure,34124,34157,"b) Gây hậu quả rất nghiêm trọng."""
+ENTITY,E40_311,DIEM,Điểm,structure,34420,34484,a) Phạm tội có tổ chức; xúi giục người chưa thành niên phạm tội;
+ENTITY,E40_312,DIEM,Điểm,structure,34485,34597,"b) Lợi dụng hoàn cảnh chiến tranh, hoàn cảnh thiên tai hoặc những khó khăn đặc biệt khác của xã hội để phạm tội;"
+ENTITY,E40_313,DIEM,Điểm,structure,34598,34634,c) Lợi dụng chức vụ cao để phạm tội;
+ENTITY,E40_314,DIEM,Điểm,structure,34635,34688,d) Phạm tội trong thời gian đang chấp hành hình phạt;
+ENTITY,E40_315,DIEM,Điểm,structure,34689,34798,"đ) Dùng thủ đoạn xảo quyệt, tàn ác trong khi phạm tội hoặc thủ đoạn có khả năng gây nguy hại cho nhiều người;"
+ENTITY,E40_316,DIEM,Điểm,structure,34799,34977,"e) Phạm tội đối với trẻ em, phụ nữ có thai, người già, người ở trong tình trạng không thể tự vệ được hoặc đối với người lệ thuộc mình về mặt vật chất, công tác hoặc các mặt khác;"
+ENTITY,E40_317,DIEM,Điểm,structure,34978,35045,g) Phạm tội vì động cơ đê hèn; cố tình thực hiện tội phạm đến cùng;
+ENTITY,E40_318,DIEM,Điểm,structure,35046,35083,h) Phạm tội gây hậu quả nghiêm trọng;
+ENTITY,E40_319,DIEM,Điểm,structure,35084,35136,i) Phạm tội nhiều lần; tái phạm; tái phạm nguy hiểm;
+ENTITY,E40_320,DIEM,Điểm,structure,35137,35234,"k) Sau khi phạm tội đã có những hành động xảo quyệt, hung hãn nhằm trốn tránh, che giấu tội phạm."
+ENTITY,E40_321,DIEM,Điểm,structure,36995,37009,a) Có tổ chức;
+ENTITY,E40_322,DIEM,Điểm,structure,37010,37040,b) Nhiều người hiếp một người;
+ENTITY,E40_323,DIEM,Điểm,structure,37041,37063,c) Phạm tội nhiều lần;
+ENTITY,E40_324,DIEM,Điểm,structure,37064,37090,d) Có tính chất loạn luân;
+ENTITY,E40_325,DIEM,Điểm,structure,37091,37115,đ) Làm nạn nhân có thai;
+ENTITY,E40_326,DIEM,Điểm,structure,37116,37162,e) Gây tổn hại nặng cho sức khoẻ của nạn nhân;
+ENTITY,E40_327,DIEM,Điểm,structure,37163,37305,"g) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười lăm năm đến hai mươi năm hoặc tù chung thân:"
+ENTITY,E40_328,DIEM,Điểm,structure,37306,37356,a) Gây tổn hại rất nặng cho sức khoẻ của nạn nhân;
+ENTITY,E40_329,DIEM,Điểm,structure,37357,37501,"b) Có nhiều tình tiết quy định tại khoản 2 Điều này.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù chung thân hoặc tử hình:"
+ENTITY,E40_330,DIEM,Điểm,structure,37502,37535,a) Làm nạn nhân chết hoặc tự sát;
+ENTITY,E40_331,DIEM,Điểm,structure,37536,37936,"b) Có nhiều tình tiết quy định tại khoản 3 Điều này.""
+4. Điều 113 về tội cưỡng dâm được sửa đổi, bổ sung như sau:
+""Điều 113 . Tội cưỡng dâm
+1- Người nào dùng mọi thủ đoạn khiến người lệ thuộc mình hoặc người đang ở trong tình trạng quẫn bách phải miễn cưỡng giao cấu, thì bị phạt tù từ sáu tháng đến năm năm.
+2- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ năm năm đến mười năm:"
+ENTITY,E40_332,DIEM,Điểm,structure,37937,37972,a) Nhiều người cưỡng dâm một người;
+ENTITY,E40_333,DIEM,Điểm,structure,37973,37995,b) Phạm tội nhiều lần;
+ENTITY,E40_334,DIEM,Điểm,structure,37996,38022,c) Có tính chất loạn luân;
+ENTITY,E40_335,DIEM,Điểm,structure,38023,38047,d) Làm nạn nhân có thai;
+ENTITY,E40_336,DIEM,Điểm,structure,38048,38094,đ) Gây tổn hại nặng cho sức khoẻ của nạn nhân;
+ENTITY,E40_337,DIEM,Điểm,structure,38095,38214,"e) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười năm đến mười tám năm:"
+ENTITY,E40_338,DIEM,Điểm,structure,38215,38248,a) Làm nạn nhân chết hoặc tự sát;
+ENTITY,E40_339,DIEM,Điểm,structure,38249,38302,"b) Có nhiều tình tiết quy định tại khoản 2 Điều này."""
+ENTITY,E40_340,DIEM,Điểm,structure,39139,39153,a) Có tổ chức;
+ENTITY,E40_341,DIEM,Điểm,structure,39154,39184,b) Có tính chất chuyên nghiệp;
+ENTITY,E40_342,DIEM,Điểm,structure,39185,39223,"c) Dùng thủ đoạn xảo quyệt, nguy hiểm;"
+ENTITY,E40_343,DIEM,Điểm,structure,39224,39250,d) Tài sản có giá trị lớn;
+ENTITY,E40_344,DIEM,Điểm,structure,39251,39291,"đ) Lợi dụng danh nghĩa cơ quan, tổ chức;"
+ENTITY,E40_345,DIEM,Điểm,structure,39292,39320,e) Gây hậu quả nghiêm trọng;
+ENTITY,E40_346,DIEM,Điểm,structure,39321,39444,"g) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười hai năm đến mười tám năm:"
+ENTITY,E40_347,DIEM,Điểm,structure,39445,39475,a) Tài sản có giá trị rất lớn;
+ENTITY,E40_348,DIEM,Điểm,structure,39476,39528,b) Có nhiều tình tiết quy định tại khoản 2 Điều này;
+ENTITY,E40_349,DIEM,Điểm,structure,39529,39690,"c) Gây hậu quả rất nghiêm trọng.
+4- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ mười tám năm đến hai mươi năm, tù chung thân hoặc tử hình:"
+ENTITY,E40_350,DIEM,Điểm,structure,39691,39726,a) Tài sản có giá trị đặc biệt lớn;
+ENTITY,E40_351,DIEM,Điểm,structure,39727,39779,b) Có nhiều tình tiết quy định tại khoản 3 Điều này;
+ENTITY,E40_352,DIEM,Điểm,structure,39780,39819,c) Gây hậu quả đặc biệt nghiêm trọng.''
+ENTITY,E40_353,DIEM,Điểm,structure,40242,40264,a) Phạm tội nhiều lần;
+ENTITY,E40_354,DIEM,Điểm,structure,40265,40297,b) Gây hậu quả rất nghiêm trọng;
+ENTITY,E40_355,DIEM,Điểm,structure,40298,40412,"c) Tái phạm nguy hiểm.
+3- Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ năm năm đến mười năm:"
+ENTITY,E40_356,DIEM,Điểm,structure,40413,40450,a) Gây hậu quả đặc biệt nghiêm trọng;
+ENTITY,E40_357,DIEM,Điểm,structure,40451,40504,"b) Có nhiều tình tiết quy định tại khoản 2 Điều này."""
+RELATION,R2_1,DUOC_QUY_DINH_CHI_TIET_HUONG_DAN_THI_HANH,"Được quy định chi tiết, hướng dẫn thi hành",E2_1,E14_1,,
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_1,,
+RELATION,R3_2,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_2,,
+RELATION,R3_3,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_3,,
+RELATION,R3_4,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E2_1,E15_4,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R14_1,QUY_DINH_HET_HIEU_LUC_TOAN_BO,Quy định về việc hết hiệu lực toàn bộ,E2_1,E26_1,,
+RELATION,R17_1,DAN_CHIEU,Dẫn chiếu,E2_1,E29_1,,
+RELATION,R17_2,DAN_CHIEU,Dẫn chiếu,E2_1,E29_2,,
+RELATION,R22_1,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_2,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E40_1,E39_2,,
+RELATION,R22_6,THUOC,Thuộc,E40_2,E39_2,,
+RELATION,R22_7,THUOC,Thuộc,E40_3,E39_2,,
+RELATION,R22_8,THUOC,Thuộc,E40_4,E39_2,,
+RELATION,R22_9,THUOC,Thuộc,E40_5,E39_2,,
+RELATION,R22_10,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_11,THUOC,Thuộc,E40_6,E39_3,,
+RELATION,R22_12,THUOC,Thuộc,E40_7,E39_3,,
+RELATION,R22_13,THUOC,Thuộc,E40_8,E39_3,,
+RELATION,R22_14,THUOC,Thuộc,E40_9,E39_3,,
+RELATION,R22_15,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_16,THUOC,Thuộc,E40_10,E39_4,,
+RELATION,R22_17,THUOC,Thuộc,E40_11,E39_4,,
+RELATION,R22_18,THUOC,Thuộc,E40_12,E39_4,,
+RELATION,R22_19,THUOC,Thuộc,E40_13,E39_4,,
+RELATION,R22_20,THUOC,Thuộc,E40_14,E39_4,,
+RELATION,R22_21,THUOC,Thuộc,E40_15,E39_4,,
+RELATION,R22_22,THUOC,Thuộc,E40_16,E39_4,,
+RELATION,R22_23,THUOC,Thuộc,E40_17,E39_4,,
+RELATION,R22_24,THUOC,Thuộc,E40_18,E39_4,,
+RELATION,R22_25,THUOC,Thuộc,E40_19,E39_4,,
+RELATION,R22_26,THUOC,Thuộc,E40_20,E39_4,,
+RELATION,R22_27,THUOC,Thuộc,E40_21,E39_4,,
+RELATION,R22_28,THUOC,Thuộc,E40_22,E39_4,,
+RELATION,R22_29,THUOC,Thuộc,E40_23,E39_4,,
+RELATION,R22_30,THUOC,Thuộc,E40_24,E39_4,,
+RELATION,R22_31,THUOC,Thuộc,E40_25,E39_4,,
+RELATION,R22_32,THUOC,Thuộc,E40_26,E39_4,,
+RELATION,R22_33,THUOC,Thuộc,E40_27,E39_4,,
+RELATION,R22_34,THUOC,Thuộc,E40_28,E39_4,,
+RELATION,R22_35,THUOC,Thuộc,E40_29,E39_4,,
+RELATION,R22_36,THUOC,Thuộc,E40_30,E39_4,,
+RELATION,R22_37,THUOC,Thuộc,E40_31,E39_4,,
+RELATION,R22_38,THUOC,Thuộc,E40_32,E39_4,,
+RELATION,R22_39,THUOC,Thuộc,E40_33,E39_4,,
+RELATION,R22_40,THUOC,Thuộc,E40_34,E39_4,,
+RELATION,R22_41,THUOC,Thuộc,E40_35,E39_4,,
+RELATION,R22_42,THUOC,Thuộc,E40_36,E39_4,,
+RELATION,R22_43,THUOC,Thuộc,E40_37,E39_4,,
+RELATION,R22_44,THUOC,Thuộc,E40_38,E39_4,,
+RELATION,R22_45,THUOC,Thuộc,E40_39,E39_4,,
+RELATION,R22_46,THUOC,Thuộc,E40_40,E39_4,,
+RELATION,R22_47,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_48,THUOC,Thuộc,E40_41,E39_5,,
+RELATION,R22_49,THUOC,Thuộc,E40_42,E39_5,,
+RELATION,R22_50,THUOC,Thuộc,E40_43,E39_5,,
+RELATION,R22_51,THUOC,Thuộc,E40_44,E39_5,,
+RELATION,R22_52,THUOC,Thuộc,E40_45,E39_5,,
+RELATION,R22_53,THUOC,Thuộc,E40_46,E39_5,,
+RELATION,R22_54,THUOC,Thuộc,E40_47,E39_5,,
+RELATION,R22_55,THUOC,Thuộc,E40_48,E39_5,,
+RELATION,R22_56,THUOC,Thuộc,E40_49,E39_5,,
+RELATION,R22_57,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_58,THUOC,Thuộc,E40_50,E39_6,,
+RELATION,R22_59,THUOC,Thuộc,E40_51,E39_6,,
+RELATION,R22_60,THUOC,Thuộc,E40_52,E39_6,,
+RELATION,R22_61,THUOC,Thuộc,E40_53,E39_6,,
+RELATION,R22_62,THUOC,Thuộc,E40_54,E39_6,,
+RELATION,R22_63,THUOC,Thuộc,E40_55,E39_6,,
+RELATION,R22_64,THUOC,Thuộc,E40_56,E39_6,,
+RELATION,R22_65,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_66,THUOC,Thuộc,E40_57,E39_7,,
+RELATION,R22_67,THUOC,Thuộc,E40_58,E39_7,,
+RELATION,R22_68,THUOC,Thuộc,E40_59,E39_7,,
+RELATION,R22_69,THUOC,Thuộc,E40_60,E39_7,,
+RELATION,R22_70,THUOC,Thuộc,E40_61,E39_7,,
+RELATION,R22_71,THUOC,Thuộc,E40_62,E39_7,,
+RELATION,R22_72,THUOC,Thuộc,E40_63,E39_7,,
+RELATION,R22_73,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_74,THUOC,Thuộc,E40_64,E39_8,,
+RELATION,R22_75,THUOC,Thuộc,E40_65,E39_8,,
+RELATION,R22_76,THUOC,Thuộc,E40_66,E39_8,,
+RELATION,R22_77,THUOC,Thuộc,E40_67,E39_8,,
+RELATION,R22_78,THUOC,Thuộc,E40_68,E39_8,,
+RELATION,R22_79,THUOC,Thuộc,E40_69,E39_8,,
+RELATION,R22_80,THUOC,Thuộc,E40_70,E39_8,,
+RELATION,R22_81,THUOC,Thuộc,E40_71,E39_8,,
+RELATION,R22_82,THUOC,Thuộc,E40_72,E39_8,,
+RELATION,R22_83,THUOC,Thuộc,E40_73,E39_8,,
+RELATION,R22_84,THUOC,Thuộc,E40_74,E39_8,,
+RELATION,R22_85,THUOC,Thuộc,E39_9,E38_1,,
+RELATION,R22_86,THUOC,Thuộc,E40_75,E39_9,,
+RELATION,R22_87,THUOC,Thuộc,E40_76,E39_9,,
+RELATION,R22_88,THUOC,Thuộc,E40_77,E39_9,,
+RELATION,R22_89,THUOC,Thuộc,E40_78,E39_9,,
+RELATION,R22_90,THUOC,Thuộc,E40_79,E39_9,,
+RELATION,R22_91,THUOC,Thuộc,E40_80,E39_9,,
+RELATION,R22_92,THUOC,Thuộc,E40_81,E39_9,,
+RELATION,R22_93,THUOC,Thuộc,E40_82,E39_9,,
+RELATION,R22_94,THUOC,Thuộc,E40_83,E39_9,,
+RELATION,R22_95,THUOC,Thuộc,E40_84,E39_9,,
+RELATION,R22_96,THUOC,Thuộc,E40_85,E39_9,,
+RELATION,R22_97,THUOC,Thuộc,E40_86,E39_9,,
+RELATION,R22_98,THUOC,Thuộc,E40_87,E39_9,,
+RELATION,R22_99,THUOC,Thuộc,E39_10,E38_1,,
+RELATION,R22_100,THUOC,Thuộc,E40_88,E39_10,,
+RELATION,R22_101,THUOC,Thuộc,E40_89,E39_10,,
+RELATION,R22_102,THUOC,Thuộc,E40_90,E39_10,,
+RELATION,R22_103,THUOC,Thuộc,E40_91,E39_10,,
+RELATION,R22_104,THUOC,Thuộc,E40_92,E39_10,,
+RELATION,R22_105,THUOC,Thuộc,E40_93,E39_10,,
+RELATION,R22_106,THUOC,Thuộc,E40_94,E39_10,,
+RELATION,R22_107,THUOC,Thuộc,E40_95,E39_10,,
+RELATION,R22_108,THUOC,Thuộc,E40_96,E39_10,,
+RELATION,R22_109,THUOC,Thuộc,E40_97,E39_10,,
+RELATION,R22_110,THUOC,Thuộc,E40_98,E39_10,,
+RELATION,R22_111,THUOC,Thuộc,E40_99,E39_10,,
+RELATION,R22_112,THUOC,Thuộc,E39_11,E38_1,,
+RELATION,R22_113,THUOC,Thuộc,E40_100,E39_11,,
+RELATION,R22_114,THUOC,Thuộc,E40_101,E39_11,,
+RELATION,R22_115,THUOC,Thuộc,E40_102,E39_11,,
+RELATION,R22_116,THUOC,Thuộc,E40_103,E39_11,,
+RELATION,R22_117,THUOC,Thuộc,E40_104,E39_11,,
+RELATION,R22_118,THUOC,Thuộc,E40_105,E39_11,,
+RELATION,R22_119,THUOC,Thuộc,E40_106,E39_11,,
+RELATION,R22_120,THUOC,Thuộc,E40_107,E39_11,,
+RELATION,R22_121,THUOC,Thuộc,E40_108,E39_11,,
+RELATION,R22_122,THUOC,Thuộc,E40_109,E39_11,,
+RELATION,R22_123,THUOC,Thuộc,E39_12,E38_2,,
+RELATION,R22_124,THUOC,Thuộc,E39_13,E38_2,,
+RELATION,R22_125,THUOC,Thuộc,E40_110,E39_13,,
+RELATION,R22_126,THUOC,Thuộc,E40_111,E39_13,,
+RELATION,R22_127,THUOC,Thuộc,E40_112,E39_13,,
+RELATION,R22_128,THUOC,Thuộc,E40_113,E39_13,,
+RELATION,R22_129,THUOC,Thuộc,E40_114,E39_13,,
+RELATION,R22_130,THUOC,Thuộc,E40_115,E39_13,,
+RELATION,R22_131,THUOC,Thuộc,E40_116,E39_13,,
+RELATION,R22_132,THUOC,Thuộc,E40_117,E39_13,,
+RELATION,R22_133,THUOC,Thuộc,E40_118,E39_13,,
+RELATION,R22_134,THUOC,Thuộc,E40_119,E39_13,,
+RELATION,R22_135,THUOC,Thuộc,E40_120,E39_13,,
+RELATION,R22_136,THUOC,Thuộc,E40_121,E39_13,,
+RELATION,R22_137,THUOC,Thuộc,E39_14,E38_2,,
+RELATION,R22_138,THUOC,Thuộc,E40_122,E39_14,,
+RELATION,R22_139,THUOC,Thuộc,E40_123,E39_14,,
+RELATION,R22_140,THUOC,Thuộc,E40_124,E39_14,,
+RELATION,R22_141,THUOC,Thuộc,E40_125,E39_14,,
+RELATION,R22_142,THUOC,Thuộc,E40_126,E39_14,,
+RELATION,R22_143,THUOC,Thuộc,E40_127,E39_14,,
+RELATION,R22_144,THUOC,Thuộc,E40_128,E39_14,,
+RELATION,R22_145,THUOC,Thuộc,E39_15,E38_2,,
+RELATION,R22_146,THUOC,Thuộc,E40_129,E39_15,,
+RELATION,R22_147,THUOC,Thuộc,E40_130,E39_15,,
+RELATION,R22_148,THUOC,Thuộc,E40_131,E39_15,,
+RELATION,R22_149,THUOC,Thuộc,E40_132,E39_15,,
+RELATION,R22_150,THUOC,Thuộc,E40_133,E39_15,,
+RELATION,R22_151,THUOC,Thuộc,E40_134,E39_15,,
+RELATION,R22_152,THUOC,Thuộc,E40_135,E39_15,,
+RELATION,R22_153,THUOC,Thuộc,E40_136,E39_15,,
+RELATION,R22_154,THUOC,Thuộc,E40_137,E39_15,,
+RELATION,R22_155,THUOC,Thuộc,E40_138,E39_15,,
+RELATION,R22_156,THUOC,Thuộc,E40_139,E39_15,,
+RELATION,R22_157,THUOC,Thuộc,E40_140,E39_15,,
+RELATION,R22_158,THUOC,Thuộc,E40_141,E39_15,,
+RELATION,R22_159,THUOC,Thuộc,E40_142,E39_15,,
+RELATION,R22_160,THUOC,Thuộc,E40_143,E39_15,,
+RELATION,R22_161,THUOC,Thuộc,E40_144,E39_15,,
+RELATION,R22_162,THUOC,Thuộc,E40_145,E39_15,,
+RELATION,R22_163,THUOC,Thuộc,E40_146,E39_15,,
+RELATION,R22_164,THUOC,Thuộc,E40_147,E39_15,,
+RELATION,R22_165,THUOC,Thuộc,E40_148,E39_15,,
+RELATION,R22_166,THUOC,Thuộc,E40_149,E39_15,,
+RELATION,R22_167,THUOC,Thuộc,E40_150,E39_15,,
+RELATION,R22_168,THUOC,Thuộc,E40_151,E39_15,,
+RELATION,R22_169,THUOC,Thuộc,E40_152,E39_15,,
+RELATION,R22_170,THUOC,Thuộc,E40_153,E39_15,,
+RELATION,R22_171,THUOC,Thuộc,E40_154,E39_15,,
+RELATION,R22_172,THUOC,Thuộc,E40_155,E39_15,,
+RELATION,R22_173,THUOC,Thuộc,E40_156,E39_15,,
+RELATION,R22_174,THUOC,Thuộc,E40_157,E39_15,,
+RELATION,R22_175,THUOC,Thuộc,E40_158,E39_15,,
+RELATION,R22_176,THUOC,Thuộc,E40_159,E39_15,,
+RELATION,R22_177,THUOC,Thuộc,E40_160,E39_15,,
+RELATION,R22_178,THUOC,Thuộc,E40_161,E39_15,,
+RELATION,R22_179,THUOC,Thuộc,E40_162,E39_15,,
+RELATION,R22_180,THUOC,Thuộc,E40_163,E39_15,,
+RELATION,R22_181,THUOC,Thuộc,E40_164,E39_15,,
+RELATION,R22_182,THUOC,Thuộc,E40_165,E39_15,,
+RELATION,R22_183,THUOC,Thuộc,E40_166,E39_15,,
+RELATION,R22_184,THUOC,Thuộc,E40_167,E39_15,,
+RELATION,R22_185,THUOC,Thuộc,E40_168,E39_15,,
+RELATION,R22_186,THUOC,Thuộc,E40_169,E39_15,,
+RELATION,R22_187,THUOC,Thuộc,E40_170,E39_15,,
+RELATION,R22_188,THUOC,Thuộc,E40_171,E39_15,,
+RELATION,R22_189,THUOC,Thuộc,E40_172,E39_15,,
+RELATION,R22_190,THUOC,Thuộc,E40_173,E39_15,,
+RELATION,R22_191,THUOC,Thuộc,E40_174,E39_15,,
+RELATION,R22_192,THUOC,Thuộc,E40_175,E39_15,,
+RELATION,R22_193,THUOC,Thuộc,E40_176,E39_15,,
+RELATION,R22_194,THUOC,Thuộc,E40_177,E39_15,,
+RELATION,R22_195,THUOC,Thuộc,E40_178,E39_15,,
+RELATION,R22_196,THUOC,Thuộc,E40_179,E39_15,,
+RELATION,R22_197,THUOC,Thuộc,E40_180,E39_15,,
+RELATION,R22_198,THUOC,Thuộc,E40_181,E39_15,,
+RELATION,R22_199,THUOC,Thuộc,E40_182,E39_15,,
+RELATION,R22_200,THUOC,Thuộc,E40_183,E39_15,,
+RELATION,R22_201,THUOC,Thuộc,E40_184,E39_15,,
+RELATION,R22_202,THUOC,Thuộc,E40_185,E39_15,,
+RELATION,R22_203,THUOC,Thuộc,E40_186,E39_15,,
+RELATION,R22_204,THUOC,Thuộc,E40_187,E39_15,,
+RELATION,R22_205,THUOC,Thuộc,E40_188,E39_15,,
+RELATION,R22_206,THUOC,Thuộc,E40_189,E39_15,,
+RELATION,R22_207,THUOC,Thuộc,E40_190,E39_15,,
+RELATION,R22_208,THUOC,Thuộc,E40_191,E39_15,,
+RELATION,R22_209,THUOC,Thuộc,E40_192,E39_15,,
+RELATION,R22_210,THUOC,Thuộc,E40_193,E39_15,,
+RELATION,R22_211,THUOC,Thuộc,E40_194,E39_15,,
+RELATION,R22_212,THUOC,Thuộc,E40_195,E39_15,,
+RELATION,R22_213,THUOC,Thuộc,E40_196,E39_15,,
+RELATION,R22_214,THUOC,Thuộc,E40_197,E39_15,,
+RELATION,R22_215,THUOC,Thuộc,E40_198,E39_15,,
+RELATION,R22_216,THUOC,Thuộc,E40_199,E39_15,,
+RELATION,R22_217,THUOC,Thuộc,E40_200,E39_15,,
+RELATION,R22_218,THUOC,Thuộc,E40_201,E39_15,,
+RELATION,R22_219,THUOC,Thuộc,E40_202,E39_15,,
+RELATION,R22_220,THUOC,Thuộc,E40_203,E39_15,,
+RELATION,R22_221,THUOC,Thuộc,E40_204,E39_15,,
+RELATION,R22_222,THUOC,Thuộc,E40_205,E39_15,,
+RELATION,R22_223,THUOC,Thuộc,E40_206,E39_15,,
+RELATION,R22_224,THUOC,Thuộc,E40_207,E39_15,,
+RELATION,R22_225,THUOC,Thuộc,E40_208,E39_15,,
+RELATION,R22_226,THUOC,Thuộc,E40_209,E39_15,,
+RELATION,R22_227,THUOC,Thuộc,E40_210,E39_15,,
+RELATION,R22_228,THUOC,Thuộc,E40_211,E39_15,,
+RELATION,R22_229,THUOC,Thuộc,E40_212,E39_15,,
+RELATION,R22_230,THUOC,Thuộc,E40_213,E39_15,,
+RELATION,R22_231,THUOC,Thuộc,E40_214,E39_15,,
+RELATION,R22_232,THUOC,Thuộc,E40_215,E39_15,,
+RELATION,R22_233,THUOC,Thuộc,E40_216,E39_15,,
+RELATION,R22_234,THUOC,Thuộc,E40_217,E39_15,,
+RELATION,R22_235,THUOC,Thuộc,E40_218,E39_15,,
+RELATION,R22_236,THUOC,Thuộc,E40_219,E39_15,,
+RELATION,R22_237,THUOC,Thuộc,E40_220,E39_15,,
+RELATION,R22_238,THUOC,Thuộc,E40_221,E39_15,,
+RELATION,R22_239,THUOC,Thuộc,E40_222,E39_15,,
+RELATION,R22_240,THUOC,Thuộc,E40_223,E39_15,,
+RELATION,R22_241,THUOC,Thuộc,E40_224,E39_15,,
+RELATION,R22_242,THUOC,Thuộc,E40_225,E39_15,,
+RELATION,R22_243,THUOC,Thuộc,E40_226,E39_15,,
+RELATION,R22_244,THUOC,Thuộc,E40_227,E39_15,,
+RELATION,R22_245,THUOC,Thuộc,E40_228,E39_15,,
+RELATION,R22_246,THUOC,Thuộc,E40_229,E39_15,,
+RELATION,R22_247,THUOC,Thuộc,E40_230,E39_15,,
+RELATION,R22_248,THUOC,Thuộc,E40_231,E39_15,,
+RELATION,R22_249,THUOC,Thuộc,E40_232,E39_15,,
+RELATION,R22_250,THUOC,Thuộc,E40_233,E39_15,,
+RELATION,R22_251,THUOC,Thuộc,E40_234,E39_15,,
+RELATION,R22_252,THUOC,Thuộc,E40_235,E39_15,,
+RELATION,R22_253,THUOC,Thuộc,E40_236,E39_15,,
+RELATION,R22_254,THUOC,Thuộc,E40_237,E39_15,,
+RELATION,R22_255,THUOC,Thuộc,E40_238,E39_15,,
+RELATION,R22_256,THUOC,Thuộc,E40_239,E39_15,,
+RELATION,R22_257,THUOC,Thuộc,E40_240,E39_15,,
+RELATION,R22_258,THUOC,Thuộc,E40_241,E39_15,,
+RELATION,R22_259,THUOC,Thuộc,E40_242,E39_15,,
+RELATION,R22_260,THUOC,Thuộc,E40_243,E39_15,,
+RELATION,R22_261,THUOC,Thuộc,E40_244,E39_15,,
+RELATION,R22_262,THUOC,Thuộc,E40_245,E39_15,,
+RELATION,R22_263,THUOC,Thuộc,E40_246,E39_15,,
+RELATION,R22_264,THUOC,Thuộc,E40_247,E39_15,,
+RELATION,R22_265,THUOC,Thuộc,E40_248,E39_15,,
+RELATION,R22_266,THUOC,Thuộc,E40_249,E39_15,,
+RELATION,R22_267,THUOC,Thuộc,E40_250,E39_15,,
+RELATION,R22_268,THUOC,Thuộc,E40_251,E39_15,,
+RELATION,R22_269,THUOC,Thuộc,E40_252,E39_15,,
+RELATION,R22_270,THUOC,Thuộc,E40_253,E39_15,,
+RELATION,R22_271,THUOC,Thuộc,E40_254,E39_15,,
+RELATION,R22_272,THUOC,Thuộc,E40_255,E39_15,,
+RELATION,R22_273,THUOC,Thuộc,E40_256,E39_15,,
+RELATION,R22_274,THUOC,Thuộc,E40_257,E39_15,,
+RELATION,R22_275,THUOC,Thuộc,E40_258,E39_15,,
+RELATION,R22_276,THUOC,Thuộc,E40_259,E39_15,,
+RELATION,R22_277,THUOC,Thuộc,E40_260,E39_15,,
+RELATION,R22_278,THUOC,Thuộc,E40_261,E39_15,,
+RELATION,R22_279,THUOC,Thuộc,E40_262,E39_15,,
+RELATION,R22_280,THUOC,Thuộc,E40_263,E39_15,,
+RELATION,R22_281,THUOC,Thuộc,E40_264,E39_15,,
+RELATION,R22_282,THUOC,Thuộc,E39_16,E38_3,,
+RELATION,R22_283,THUOC,Thuộc,E39_17,E38_3,,
+RELATION,R22_284,THUOC,Thuộc,E39_18,E38_3,,
+RELATION,R22_285,THUOC,Thuộc,E39_19,E38_4,,
+RELATION,R22_286,THUOC,Thuộc,E39_20,E38_4,,
+RELATION,R22_287,THUOC,Thuộc,E40_265,E39_20,,
+RELATION,R22_288,THUOC,Thuộc,E40_266,E39_20,,
+RELATION,R22_289,THUOC,Thuộc,E40_267,E39_20,,
+RELATION,R22_290,THUOC,Thuộc,E40_268,E39_20,,
+RELATION,R22_291,THUOC,Thuộc,E40_269,E39_20,,
+RELATION,R22_292,THUOC,Thuộc,E39_21,E38_4,,
+RELATION,R22_293,THUOC,Thuộc,E40_270,E39_21,,
+RELATION,R22_294,THUOC,Thuộc,E40_271,E39_21,,
+RELATION,R22_295,THUOC,Thuộc,E40_272,E39_21,,
+RELATION,R22_296,THUOC,Thuộc,E40_273,E39_21,,
+RELATION,R22_297,THUOC,Thuộc,E40_274,E39_21,,
+RELATION,R22_298,THUOC,Thuộc,E39_22,E38_4,,
+RELATION,R22_299,THUOC,Thuộc,E40_275,E39_22,,
+RELATION,R22_300,THUOC,Thuộc,E40_276,E39_22,,
+RELATION,R22_301,THUOC,Thuộc,E40_277,E39_22,,
+RELATION,R22_302,THUOC,Thuộc,E40_278,E39_22,,
+RELATION,R22_303,THUOC,Thuộc,E40_279,E39_22,,
+RELATION,R22_304,THUOC,Thuộc,E40_280,E39_22,,
+RELATION,R22_305,THUOC,Thuộc,E40_281,E39_22,,
+RELATION,R22_306,THUOC,Thuộc,E40_282,E39_22,,
+RELATION,R22_307,THUOC,Thuộc,E40_283,E39_22,,
+RELATION,R22_308,THUOC,Thuộc,E40_284,E39_22,,
+RELATION,R22_309,THUOC,Thuộc,E40_285,E39_22,,
+RELATION,R22_310,THUOC,Thuộc,E40_286,E39_22,,
+RELATION,R22_311,THUOC,Thuộc,E40_287,E39_22,,
+RELATION,R22_312,THUOC,Thuộc,E40_288,E39_22,,
+RELATION,R22_313,THUOC,Thuộc,E40_289,E39_22,,
+RELATION,R22_314,THUOC,Thuộc,E40_290,E39_22,,
+RELATION,R22_315,THUOC,Thuộc,E40_291,E39_22,,
+RELATION,R22_316,THUOC,Thuộc,E40_292,E39_22,,
+RELATION,R22_317,THUOC,Thuộc,E40_293,E39_22,,
+RELATION,R22_318,THUOC,Thuộc,E40_294,E39_22,,
+RELATION,R22_319,THUOC,Thuộc,E40_295,E39_22,,
+RELATION,R22_320,THUOC,Thuộc,E40_296,E39_22,,
+RELATION,R22_321,THUOC,Thuộc,E40_297,E39_22,,
+RELATION,R22_322,THUOC,Thuộc,E40_298,E39_22,,
+RELATION,R22_323,THUOC,Thuộc,E39_23,E38_4,,
+RELATION,R22_324,THUOC,Thuộc,E40_299,E39_23,,
+RELATION,R22_325,THUOC,Thuộc,E40_300,E39_23,,
+RELATION,R22_326,THUOC,Thuộc,E40_301,E39_23,,
+RELATION,R22_327,THUOC,Thuộc,E40_302,E39_23,,
+RELATION,R22_328,THUOC,Thuộc,E40_303,E39_23,,
+RELATION,R22_329,THUOC,Thuộc,E39_24,E38_4,,
+RELATION,R22_330,THUOC,Thuộc,E40_304,E39_24,,
+RELATION,R22_331,THUOC,Thuộc,E40_305,E39_24,,
+RELATION,R22_332,THUOC,Thuộc,E40_306,E39_24,,
+RELATION,R22_333,THUOC,Thuộc,E40_307,E39_24,,
+RELATION,R22_334,THUOC,Thuộc,E40_308,E39_24,,
+RELATION,R22_335,THUOC,Thuộc,E40_309,E39_24,,
+RELATION,R22_336,THUOC,Thuộc,E40_310,E39_24,,
+RELATION,R22_337,THUOC,Thuộc,E39_25,E38_5,,
+RELATION,R22_338,THUOC,Thuộc,E40_311,E39_25,,
+RELATION,R22_339,THUOC,Thuộc,E40_312,E39_25,,
+RELATION,R22_340,THUOC,Thuộc,E40_313,E39_25,,
+RELATION,R22_341,THUOC,Thuộc,E40_314,E39_25,,
+RELATION,R22_342,THUOC,Thuộc,E40_315,E39_25,,
+RELATION,R22_343,THUOC,Thuộc,E40_316,E39_25,,
+RELATION,R22_344,THUOC,Thuộc,E40_317,E39_25,,
+RELATION,R22_345,THUOC,Thuộc,E40_318,E39_25,,
+RELATION,R22_346,THUOC,Thuộc,E40_319,E39_25,,
+RELATION,R22_347,THUOC,Thuộc,E40_320,E39_25,,
+RELATION,R22_348,THUOC,Thuộc,E39_26,E38_5,,
+RELATION,R22_349,THUOC,Thuộc,E39_27,E38_5,,
+RELATION,R22_350,THUOC,Thuộc,E39_28,E38_5,,
+RELATION,R22_351,THUOC,Thuộc,E40_321,E39_28,,
+RELATION,R22_352,THUOC,Thuộc,E40_322,E39_28,,
+RELATION,R22_353,THUOC,Thuộc,E40_323,E39_28,,
+RELATION,R22_354,THUOC,Thuộc,E40_324,E39_28,,
+RELATION,R22_355,THUOC,Thuộc,E40_325,E39_28,,
+RELATION,R22_356,THUOC,Thuộc,E40_326,E39_28,,
+RELATION,R22_357,THUOC,Thuộc,E40_327,E39_28,,
+RELATION,R22_358,THUOC,Thuộc,E40_328,E39_28,,
+RELATION,R22_359,THUOC,Thuộc,E40_329,E39_28,,
+RELATION,R22_360,THUOC,Thuộc,E40_330,E39_28,,
+RELATION,R22_361,THUOC,Thuộc,E40_331,E39_28,,
+RELATION,R22_362,THUOC,Thuộc,E40_332,E39_28,,
+RELATION,R22_363,THUOC,Thuộc,E40_333,E39_28,,
+RELATION,R22_364,THUOC,Thuộc,E40_334,E39_28,,
+RELATION,R22_365,THUOC,Thuộc,E40_335,E39_28,,
+RELATION,R22_366,THUOC,Thuộc,E40_336,E39_28,,
+RELATION,R22_367,THUOC,Thuộc,E40_337,E39_28,,
+RELATION,R22_368,THUOC,Thuộc,E40_338,E39_28,,
+RELATION,R22_369,THUOC,Thuộc,E40_339,E39_28,,
+RELATION,R22_370,THUOC,Thuộc,E39_29,E38_5,,
+RELATION,R22_371,THUOC,Thuộc,E39_30,E38_5,,
+RELATION,R22_372,THUOC,Thuộc,E40_340,E39_30,,
+RELATION,R22_373,THUOC,Thuộc,E40_341,E39_30,,
+RELATION,R22_374,THUOC,Thuộc,E40_342,E39_30,,
+RELATION,R22_375,THUOC,Thuộc,E40_343,E39_30,,
+RELATION,R22_376,THUOC,Thuộc,E40_344,E39_30,,
+RELATION,R22_377,THUOC,Thuộc,E40_345,E39_30,,
+RELATION,R22_378,THUOC,Thuộc,E40_346,E39_30,,
+RELATION,R22_379,THUOC,Thuộc,E40_347,E39_30,,
+RELATION,R22_380,THUOC,Thuộc,E40_348,E39_30,,
+RELATION,R22_381,THUOC,Thuộc,E40_349,E39_30,,
+RELATION,R22_382,THUOC,Thuộc,E40_350,E39_30,,
+RELATION,R22_383,THUOC,Thuộc,E40_351,E39_30,,
+RELATION,R22_384,THUOC,Thuộc,E40_352,E39_30,,
+RELATION,R22_385,THUOC,Thuộc,E39_31,E38_5,,
+RELATION,R22_386,THUOC,Thuộc,E40_353,E39_31,,
+RELATION,R22_387,THUOC,Thuộc,E40_354,E39_31,,
+RELATION,R22_388,THUOC,Thuộc,E40_355,E39_31,,
+RELATION,R22_389,THUOC,Thuộc,E40_356,E39_31,,
+RELATION,R22_390,THUOC,Thuộc,E40_357,E39_31,,
+RELATION,R22_391,THUOC,Thuộc,E39_32,E38_5,,
+RELATION,R22_392,THUOC,Thuộc,E39_33,E38_5,,
+RELATION,R22_393,THUOC,Thuộc,E39_34,E38_5,,
+RELATION,R22_394,THUOC,Thuộc,E39_35,E38_5,,
+RELATION,R22_395,THUOC,Thuộc,E39_36,E38_12,,
+RELATION,R22_396,THUOC,Thuộc,E39_37,E38_19,,
+RELATION,R22_397,THUOC,Thuộc,E39_38,E38_19,,
+RELATION,R22_398,THUOC,Thuộc,E39_39,E38_19,,

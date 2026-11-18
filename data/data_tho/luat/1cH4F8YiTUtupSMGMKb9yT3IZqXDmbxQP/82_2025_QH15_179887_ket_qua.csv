@@ -1,0 +1,120 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,89,"LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT TỔ CHỨC VIỆN KIỂM SÁT NHÂN DÂN SỐ 82/2025/QH15"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,77,89,82/2025/QH15
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,162,166,Luật
+ENTITY,E4_1,NGANH,Ngành,metadata,24280,24288,Kiểm sát
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,21955,21979,ngày 24 tháng 6 năm 2025
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,24301,24331,Tổ chức Viện kiểm sát nhân dân
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,21830,21854,ngày 01 tháng 7 năm 2025
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,22097,22109,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,90,98,QUỐC HỘI
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,21981,21998,CHỦ TỊCH QUỐC HỘI
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,22007,22021,Trần Thanh Mẫn
+ENTITY,E15_1,VB_BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Văn bản bị tác động hiệu lực một phần,reference,442,493,Luật Tổ chức Viện kiểm sát nhân dân số 63/2014/QH13
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,265,314,Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E19_2,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,357,384,Nghị quyết số 203/2025/QH15
+ENTITY,E30_1,VB_AP_DUNG,Văn bản áp dụng,reference,22129,22311,"Nghị quyết số 84/2025/UBTVQH15 Thành lập Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân khu vực; quy định phạm vi thẩm quyền theo lãnh thổ của Viện kiểm sát nhân dân khu vực"
+ENTITY,E30_2,VB_AP_DUNG,Văn bản áp dụng,reference,22331,22576,"Thông tư số 02/2025/TT-VKSTC Quy định thẩm quyền của Viện kiểm sát nhân dân các cấp trong thực hành quyền công tố và kiểm sát việc tuân theo pháp luật trong giải quyết vụ việc, vụ án hình sự do Viện trưởng Viện kiểm sát nhân dân tối cao ban hành"
+ENTITY,E30_3,VB_AP_DUNG,Văn bản áp dụng,reference,22596,22767,"Thông tư số 03/2025/TT-VKSTC quy định về tiếp nhận nhiệm vụ, thực hiện thẩm quyền của Viện kiểm sát nhân dân các cấp do Viện trưởng Viện kiểm sát nhân dân tối cao ban hành"
+ENTITY,E30_4,VB_AP_DUNG,Văn bản áp dụng,reference,22787,23017,"Nghị quyết số 225/2025/QH15 Về việc thi hành Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Tòa án nhân dân, Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Viện kiểm sát nhân dân, các luật tố tụng và luật khác có liên quan"
+ENTITY,E30_5,VB_AP_DUNG,Văn bản áp dụng,reference,23037,23367,"Nghị quyết số 02/2026/NQ-HĐND Quy định nội dung, mức chi hỗ trợ lực lượng Cảnh sát thi hành án hình sự và hỗ trợ tư pháp; tạm giữ, tạm giam; công chức kiểm sát, tòa án, thi hành án dân sự và công tác quản lý người lưu trú tại Cơ sở lưu trú thuộc Công an thành phố Hà Nội trong thời gian chờ xuất cảnh trên địa bàn thành phố Hà Nội"
+ENTITY,E30_6,VB_AP_DUNG,Văn bản áp dụng,reference,23387,23547,"Thông tư số 03 Quy định Biểu mẫu văn bản tố tụng, văn bản nghiệp vụ thực hiện trong công tác thực hành quyền công tố, kiểm sát việc khởi tố, điều tra và truy tố"
+ENTITY,E30_7,VB_AP_DUNG,Văn bản áp dụng,reference,23567,23936,"Nghị quyết liên tịch số 100/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN Sửa đổi, bổ sung một số điều của Nghị quyết liên tịch số 72/2025/NQLT/UBTVQH15-CP-ĐCTUBTWMTTQVN của Ủy ban Thường vụ Quốc hội, Chính phủ và Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam quy định chi tiết việc tổ chức tiếp xúc cử tri của đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp"
+ENTITY,E30_8,VB_AP_DUNG,Văn bản áp dụng,reference,23956,24270,"Thông tư liên tịch số 13/2025/TTLT-BTP-BNG-TANDTC Sửa đổi, bổ sung một số điều của Thông tư liên tịch số 12/2016/TTLT-BTP-BNG-TANDTC ngày 19 tháng 10 năm 2016 của Bộ trưởng Bộ Tư pháp, Bộ trưởng Bộ Ngoại giao và Chánh án Tòa án nhân dân tối cao quy định về trình tự, thủ tục tương trợ tư pháp trong lĩnh vực dân sự"
+ENTITY,E38_1,DIEU,Điều,structure,495,501,Điều 1
+ENTITY,E38_2,DIEU,Điều,structure,21771,21777,Điều 2
+ENTITY,E39_1,KHOAN,Khoản,structure,572,622,"1. Sửa đổi, bổ sung điểm c khoản 3 Điều 4 như sau:"
+ENTITY,E39_2,KHOAN,Khoản,structure,972,1015,"2. Sửa đổi, bổ sung khoản 2 Điều 7 như sau:"
+ENTITY,E39_3,KHOAN,Khoản,structure,1391,1435,"3. Sửa đổi, bổ sung khoản 3 Điều 23 như sau:"
+ENTITY,E39_4,KHOAN,Khoản,structure,2054,2090,"4. Sửa đổi, bổ sung Điều 28 như sau:"
+ENTITY,E39_5,KHOAN,Khoản,structure,4175,4211,"5. Sửa đổi, bổ sung Điều 36 như sau:"
+ENTITY,E39_6,KHOAN,Khoản,structure,4668,4704,"6. Sửa đổi, bổ sung Điều 40 như sau:"
+ENTITY,E39_7,KHOAN,Khoản,structure,4945,4981,"7. Sửa đổi, bổ sung Điều 41 như sau:"
+ENTITY,E39_8,KHOAN,Khoản,structure,5449,5508,"8. Sửa đổi, bổ sung một số điểm, khoản của Điều 42 như sau:"
+ENTITY,E39_9,KHOAN,Khoản,structure,5981,6025,"9. Sửa đổi, bổ sung khoản 2 Điều 43 như sau:"
+ENTITY,E39_10,KHOAN,Khoản,structure,7361,7406,"10. Sửa đổi, bổ sung khoản 3 Điều 47 như sau:"
+ENTITY,E39_11,KHOAN,Khoản,structure,8243,8280,"11. Sửa đổi, bổ sung Điều 48 như sau:"
+ENTITY,E39_12,KHOAN,Khoản,structure,8660,8697,"12. Sửa đổi, bổ sung Điều 49 như sau:"
+ENTITY,E39_13,KHOAN,Khoản,structure,9014,9076,"13. Sửa đổi, bổ sung điểm d và điểm đ khoản 3 Điều 53 như sau:"
+ENTITY,E39_14,KHOAN,Khoản,structure,9535,9597,"14. Sửa đổi, bổ sung điểm c và điểm d khoản 3 Điều 55 như sau:"
+ENTITY,E39_15,KHOAN,Khoản,structure,10144,10204,"15. Sửa đổi, bổ sung một số điểm, khoản của Điều 58 như sau:"
+ENTITY,E39_16,KHOAN,Khoản,structure,10717,10771,"16. Sửa đổi, bổ sung một số khoản của Điều 63 như sau:"
+ENTITY,E39_17,KHOAN,Khoản,structure,11364,11428,"17. Sửa đổi, bổ sung các điểm a, b và c khoản 2 Điều 66 như sau:"
+ENTITY,E39_18,KHOAN,Khoản,structure,12061,12098,"18. Sửa đổi, bổ sung Điều 67 như sau:"
+ENTITY,E39_19,KHOAN,Khoản,structure,12746,12783,"19. Sửa đổi, bổ sung Điều 68 như sau:"
+ENTITY,E39_20,KHOAN,Khoản,structure,13611,13648,"20. Sửa đổi, bổ sung Điều 74 như sau:"
+ENTITY,E39_21,KHOAN,Khoản,structure,14457,14502,21. Bổ sung Điều 76a vào sau Điều 76 như sau:
+ENTITY,E39_22,KHOAN,Khoản,structure,15520,15588,"22. Sửa đổi, bổ sung, bãi bỏ một số điểm, khoản của Điều 78 như sau:"
+ENTITY,E39_23,KHOAN,Khoản,structure,16120,16188,"23. Sửa đổi, bổ sung, bãi bỏ một số điểm, khoản của Điều 79 như sau:"
+ENTITY,E39_24,KHOAN,Khoản,structure,16716,16753,"24. Sửa đổi, bổ sung Điều 81 như sau:"
+ENTITY,E39_25,KHOAN,Khoản,structure,17425,17462,"25. Sửa đổi, bổ sung Điều 82 như sau:"
+ENTITY,E39_26,KHOAN,Khoản,structure,17893,17930,"26. Sửa đổi, bổ sung Điều 93 như sau:"
+ENTITY,E39_27,KHOAN,Khoản,structure,19327,19364,"27. Sửa đổi, bổ sung Điều 97 như sau:"
+ENTITY,E39_28,KHOAN,Khoản,structure,20892,21146,"28. Bổ sung cụm từ ""phân trại thuộc trại tạm giam,"" vào sau cụm từ ""trực tiếp kiểm sát tại nhà tạm giữ,"" tại điểm a khoản 2 Điều 22; ""Trưởng phân trại thuộc trại tạm giam,"" vào sau cụm từ ""Trưởng nhà tạm giữ,"" tại điểm c khoản 2 Điều 22, khoản 1 Điều 24."
+ENTITY,E39_29,KHOAN,Khoản,structure,21147,21583,"29. Bổ sung cụm từ ""Cán bộ điều tra, Giám định viên kỹ thuật hình sự"" vào sau cụm từ ""Kiểm tra viên,"" tại khoản 1 Điều 37; ""Cán bộ điều tra,"" vào sau cụm từ ""Điều tra viên,"" tại khoản 3 Điều 52, điểm b khoản 3 Điều 60; "", Cán bộ điều tra"" vào sau cụm từ ""Điều tra viên"" tại điểm c khoản 2 Điều 69, khoản 3 Điều 92; "", Cán bộ điều tra"" vào sau cụm từ ""Kiểm tra viên"" tại các khoản 1, 2, 3 Điều 95, tại khoản 2 Điều 96 và khoản 3 Điều 98."
+ENTITY,E39_30,KHOAN,Khoản,structure,21584,21736,"30. Thay thế cụm từ ""tỉnh, thành phố trực thuộc trung ương"" bằng cụm từ ""tỉnh, thành phố"" tại điểm b khoản 2 Điều 25, điểm a khoản 1 và khoản 2 Điều 60."
+ENTITY,E39_31,KHOAN,Khoản,structure,21737,21770,"31. Bãi bỏ các điều 44, 45 và 65."
+ENTITY,E40_1,DIEM,Điểm,structure,5509,5552,"a) Sửa đổi, bổ sung điểm d khoản 1 như sau:"
+ENTITY,E40_2,DIEM,Điểm,structure,5645,5681,"b) Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E40_3,DIEM,Điểm,structure,10205,10254,a) Bổ sung điểm e vào sau điểm đ khoản 1 như sau:
+ENTITY,E40_4,DIEM,Điểm,structure,10278,10321,b) Bổ sung khoản 4 vào sau khoản 3 như sau:
+ENTITY,E40_5,DIEM,Điểm,structure,10772,10808,"a) Sửa đổi, bổ sung khoản 5 như sau:"
+ENTITY,E40_6,DIEM,Điểm,structure,10984,11020,"b) Sửa đổi, bổ sung khoản 7 như sau:"
+ENTITY,E40_7,DIEM,Điểm,structure,15589,15614,a) Bãi bỏ điểm d khoản 1;
+ENTITY,E40_8,DIEM,Điểm,structure,15615,15651,"b) Sửa đổi, bổ sung khoản 2 như sau:"
+ENTITY,E40_9,DIEM,Điểm,structure,16189,16214,a) Bãi bỏ điểm d khoản 1;
+ENTITY,E40_10,DIEM,Điểm,structure,16215,16251,"b) Sửa đổi, bổ sung khoản 2 như sau:"
+RELATION,R3_1,BI_TAC_DONG_HIEU_LUC_MOT_PHAN,Bị tác động hiệu lực một phần,E15_1,E2_1,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R7_2,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_2,,
+RELATION,R18_1,AP_DUNG,Áp dụng,E30_1,E2_1,,
+RELATION,R18_2,AP_DUNG,Áp dụng,E30_2,E2_1,,
+RELATION,R18_3,AP_DUNG,Áp dụng,E30_3,E2_1,,
+RELATION,R18_4,AP_DUNG,Áp dụng,E30_4,E2_1,,
+RELATION,R18_5,AP_DUNG,Áp dụng,E30_5,E2_1,,
+RELATION,R18_6,AP_DUNG,Áp dụng,E30_6,E2_1,,
+RELATION,R18_7,AP_DUNG,Áp dụng,E30_7,E2_1,,
+RELATION,R18_8,AP_DUNG,Áp dụng,E30_8,E2_1,,
+RELATION,R22_1,THUOC,Thuộc,E39_1,E38_1,,
+RELATION,R22_2,THUOC,Thuộc,E39_2,E38_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_3,E38_1,,
+RELATION,R22_4,THUOC,Thuộc,E39_4,E38_1,,
+RELATION,R22_5,THUOC,Thuộc,E39_5,E38_1,,
+RELATION,R22_6,THUOC,Thuộc,E39_6,E38_1,,
+RELATION,R22_7,THUOC,Thuộc,E39_7,E38_1,,
+RELATION,R22_8,THUOC,Thuộc,E39_8,E38_1,,
+RELATION,R22_9,THUOC,Thuộc,E40_1,E39_8,,
+RELATION,R22_10,THUOC,Thuộc,E40_2,E39_8,,
+RELATION,R22_11,THUOC,Thuộc,E39_9,E38_1,,
+RELATION,R22_12,THUOC,Thuộc,E39_10,E38_1,,
+RELATION,R22_13,THUOC,Thuộc,E39_11,E38_1,,
+RELATION,R22_14,THUOC,Thuộc,E39_12,E38_1,,
+RELATION,R22_15,THUOC,Thuộc,E39_13,E38_1,,
+RELATION,R22_16,THUOC,Thuộc,E39_14,E38_1,,
+RELATION,R22_17,THUOC,Thuộc,E39_15,E38_1,,
+RELATION,R22_18,THUOC,Thuộc,E40_3,E39_15,,
+RELATION,R22_19,THUOC,Thuộc,E40_4,E39_15,,
+RELATION,R22_20,THUOC,Thuộc,E39_16,E38_1,,
+RELATION,R22_21,THUOC,Thuộc,E40_5,E39_16,,
+RELATION,R22_22,THUOC,Thuộc,E40_6,E39_16,,
+RELATION,R22_23,THUOC,Thuộc,E39_17,E38_1,,
+RELATION,R22_24,THUOC,Thuộc,E39_18,E38_1,,
+RELATION,R22_25,THUOC,Thuộc,E39_19,E38_1,,
+RELATION,R22_26,THUOC,Thuộc,E39_20,E38_1,,
+RELATION,R22_27,THUOC,Thuộc,E39_21,E38_1,,
+RELATION,R22_28,THUOC,Thuộc,E39_22,E38_1,,
+RELATION,R22_29,THUOC,Thuộc,E40_7,E39_22,,
+RELATION,R22_30,THUOC,Thuộc,E40_8,E39_22,,
+RELATION,R22_31,THUOC,Thuộc,E39_23,E38_1,,
+RELATION,R22_32,THUOC,Thuộc,E40_9,E39_23,,
+RELATION,R22_33,THUOC,Thuộc,E40_10,E39_23,,
+RELATION,R22_34,THUOC,Thuộc,E39_24,E38_1,,
+RELATION,R22_35,THUOC,Thuộc,E39_25,E38_1,,
+RELATION,R22_36,THUOC,Thuộc,E39_26,E38_1,,
+RELATION,R22_37,THUOC,Thuộc,E39_27,E38_1,,
+RELATION,R22_38,THUOC,Thuộc,E39_28,E38_1,,
+RELATION,R22_39,THUOC,Thuộc,E39_29,E38_1,,
+RELATION,R22_40,THUOC,Thuộc,E39_30,E38_1,,
+RELATION,R22_41,THUOC,Thuộc,E39_31,E38_1,,
+RELATION,R22_42,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_43,THUOC,Thuộc,E11_1,E10_1,,

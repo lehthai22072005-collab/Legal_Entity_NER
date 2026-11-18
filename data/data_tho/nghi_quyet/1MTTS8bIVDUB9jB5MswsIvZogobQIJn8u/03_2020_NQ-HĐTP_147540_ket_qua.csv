@@ -1,0 +1,182 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,0,144,Nghị quyết số 03/2020/NQ-HĐTP Hướng dẫn áp dụng một số quy định của Bộ luật Hình sự trong xét xử tội phạm tham nhũng và tội phạm khác về chức vụ
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,14,29,03/2020/NQ-HĐTP
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,0,10,Nghị quyết
+ENTITY,E4_1,NGANH,Ngành,metadata,26853,26885,Lao động - Thương binh và Xã hội
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,324,349,ngày 30 tháng 12 năm 2020
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,26898,26912,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,26933,26943,2021-02-15
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,26967,26979,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,164,187,TÒA ÁN NHÂN DÂN TỐI CAO
+ENTITY,E11_1,CHUC_DANH,Chức danh,metadata,26759,26767,CHÁNH ÁN
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,26776,26791,Nguyễn Hòa Bình
+ENTITY,E13_1,VB_DUOC_HUONG_DAN_AP_DUNG,Văn bản được hướng dẫn áp dụng,reference,27078,27164,"Luật Sửa đổi, bổ sung một số điều của Bộ luật Hình sự số 100/2015/QH13 số 12/2017/QH14"
+ENTITY,E13_2,VB_DUOC_HUONG_DAN_AP_DUNG,Văn bản được hướng dẫn áp dụng,reference,27199,27231,Bộ luật Hình sự số 100/2015/QH13
+ENTITY,E19_1,CAN_CU_BAN_HANH,Căn cứ ban hành,reference,539,593,Luật Tổ chức Tòa án nhân dân ngày 24 tháng 11 năm 2014
+ENTITY,E38_1,DIEU,Điều,structure,902,1329,"Điều 1. Phạm vi điều chỉnh
+Nghị quyết này hướng dẫn áp dụng một số quy định của Bộ luật Hình sự số 100/2015/QH13 được sửa đổi, bổ sung một số điều theo Luật số 12/2017/QH14 (sau đây viết tắt là Bộ luật Hình sự) về các tội phạm tham nhũng và các tội phạm khác về chức vụ; xác định trị giá tài sản bị chiếm đoạt, thiệt hại do tội phạm tham nhũng, tội phạm khác về chức vụ gây ra; xử lý vật, tiền liên quan trực tiếp đến tội phạm."
+ENTITY,E38_2,DIEU,Điều,structure,1330,1354,Điều 2. Về một số từ ngữ
+ENTITY,E38_3,DIEU,Điều,structure,5766,5814,Điều 3. Về một số tình tiết là dấu hiệu định tội
+ENTITY,E38_4,DIEU,Điều,structure,11397,11445,Điều 4. Về một số tình tiết định khung hình phạt
+ENTITY,E38_5,DIEU,Điều,structure,14124,14202,"Điều 5. Nguyên tắc xử lý đối với tội phạm tham nhũng, tội phạm khác về chức vụ"
+ENTITY,E38_6,DIEU,Điều,structure,16132,16403,"Điều 6. Xem xét trách nhiệm hình sự và quyết định hình phạt trong trường hợp tách vụ án
+Trường hợp vụ án được tách ra để giải quyết trong các giai đoạn khác nhau (tách thành nhiều vụ án) thì việc xem xét trách nhiệm hình sự và quyết định hình phạt được thực hiện như sau:"
+ENTITY,E38_7,DIEU,Điều,structure,17878,18731,"Điều 7. Truy cứu trách nhiệm hình sự trong trường hợp người sử dụng tài sản do tham nhũng mà có để thực hiện một trong các hành vi rửa tiền
+Trường hợp người sử dụng tài sản do tham nhũng mà có để thực hiện một trong các hành vi rửa tiền quy định tại Điều 324 của Bộ luật Hình sự thì ngoài việc bị truy cứu trách nhiệm hình sự đối với các tội phạm tương ứng quy định tại Chương XXIII của Bộ luật Hình sự, người phạm tội còn bị truy cứu trách nhiệm hình sự về tội rửa tiền theo quy định tại Điều 324 của Bộ luật Hình sự.
+Ví dụ: Nguyễn Văn A có hành vi tham ô số tiền 5.000.000.000 đồng, sau đó A dùng số tiền này đầu tư, kinh doanh bất động sản để che giấu nguồn gốc bất hợp pháp của số tiền đã tham ô. Trường hợp này, A bị truy cứu trách nhiệm hình sự về tội tham ô tài sản quy định tại Điều 353 và tội rửa tiền quy định tại Điều 324 của Bộ luật Hình sự."
+ENTITY,E38_8,DIEU,Điều,structure,18732,18873,Điều 8. Truy cứu trách nhiệm hình sự trong trường hợp thực hiện nhiều lần cùng một loại hành vi quy định tại Chương XXIII của Bộ luật Hình sự
+ENTITY,E38_9,DIEU,Điều,structure,22210,22849,"Điều 9. Truy cứu trách nhiệm hình sự trong trường hợp người phạm tội vừa chiếm đoạt tài sản, nhận của hối lộ vừa gây thiệt hại về tài sản
+Trường hợp người phạm tội vừa chiếm đoạt tài sản, nhận của hối lộ, vừa gây thiệt hại về tài sản mà trị giá tài sản chiếm đoạt, của hối lộ và trị giá tài sản thiệt hại thuộc các điểm trong cùng một khung hình phạt thì truy cứu trách nhiệm hình sự người phạm tội theo các điểm tương ứng của khung hình phạt đó. Trường hợp trị giá tài sản chiếm đoạt, của hối lộ và trị giá tài sản thiệt hại thuộc các khung hình phạt khác nhau thì truy cứu trách nhiệm hình sự người phạm tội theo khung hình phạt cao hơn."
+ENTITY,E38_10,DIEU,Điều,structure,22850,22964,"Điều 10. Xác định trị giá tài sản bị chiếm đoạt, thiệt hại do tội phạm tham nhũng, tội phạm khác về chức vụ gây ra"
+ENTITY,E38_11,DIEU,Điều,structure,24164,24221,"Điều 11. Xử lý vật, tiền liên quan trực tiếp đến tội phạm"
+ENTITY,E38_12,DIEU,Điều,structure,25675,25701,Điều 12. Hiệu lực thi hành
+ENTITY,E39_1,KHOAN,Khoản,structure,1355,1509,"1. “Cơ quan, tổ chức” quy định tại khoản 1 Điều 352 của Bộ luật Hình sự bao gồm cơ quan, tổ chức, đơn vị nhà nước và doanh nghiệp, tổ chức ngoài nhà nước."
+ENTITY,E39_2,KHOAN,Khoản,structure,1510,2033,"2. “Cơ quan, tổ chức, đơn vị nhà nước” là cơ quan, tổ chức, đơn vị quy định tại khoản 9 Điều 3 của Luật Phòng, chống tham nhũng, bao gồm: cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị vũ trang nhân dân, đơn vị sự nghiệp công lập, doanh nghiệp nhà nước và tổ chức, đơn vị khác do Nhà nước thành lập, đầu tư cơ sở vật chất, cấp phát toàn bộ hoặc một phần kinh phí hoạt động, do Nhà nước trực tiếp quản lý hoặc tham gia quản lý nhằm phục vụ nhu cầu phát triển chung, thiết yếu của Nhà nước và xã hội."
+ENTITY,E39_3,KHOAN,Khoản,structure,2034,2218,"3. “Doanh nghiệp, tổ chức ngoài nhà nước” quy định tại các điều 353, 354, 364 và 365 của Bộ luật Hình sự là doanh nghiệp, tổ chức không thuộc trường hợp hướng dẫn tại khoản 2 Điều này."
+ENTITY,E39_4,KHOAN,Khoản,structure,2219,2367,"4. “Người có chức vụ” quy định tại khoản 2 Điều 352 của Bộ luật Hình sự là những người quy định tại khoản 2 Điều 3 của Luật Phòng, chống tham nhũng."
+ENTITY,E39_5,KHOAN,Khoản,structure,2368,2721,"5. “Do một hình thức khác” quy định tại khoản 2 Điều của 352 Bộ luật Hình sự là trường hợp không phải do bổ nhiệm, do bầu cử, do tuyển dụng, do hợp đồng nhưng được giao thực hiện nhiệm vụ và có quyền hạn trong khi thực hiện nhiệm vụ đó.
+Ví dụ: Người được cơ quan nhà nước có thẩm quyền cử tham gia trực tại chốt kiểm soát phòng chống dịch bệnh Covid-19."
+ENTITY,E39_6,KHOAN,Khoản,structure,2722,3080,"6. “Chủ động khai báo trước khi bị phát giác” quy định tại khoản 7 Điều 364 và khoản 6 Điều 365 của Bộ luật Hình sự là trường hợp hành vi phạm tội đưa hối lộ, môi giới hối lộ chưa bị cơ quan có thẩm quyền phát hiện, chưa bị ai tố giác nhưng người đưa hối lộ, người môi giới hối lộ đã tự khai báo toàn bộ sự việc đưa hối lộ, môi giới hối lộ mà mình thực hiện."
+ENTITY,E39_7,KHOAN,Khoản,structure,3081,4364,"7. “Chủ động nộp lại ít nhất ba phần tư tài sản tham ô, nhận hối lộ” là trường hợp người phạm tội đã tự mình nộp lại ít nhất ba phần tư tài sản tham ô, nhận hối lộ sau khi phạm tội. Cũng được coi là chủ động nộp lại ít nhất ba phần tư tài sản tham ô, nhận hối lộ đối với trường hợp người phạm tội sau khi phạm tội đã tác động để cha, mẹ, vợ, chồng, con, anh, chị, em, những người thân khác nộp lại hoặc không phản đối việc cha, mẹ, vợ, chồng, con, anh, chị, em, những người thân khác nộp lại ít nhất ba phần tư tài sản mà mình tham ô, nhận hối lộ.
+Đối với trường hợp trong cùng vụ án, người bị truy cứu trách nhiệm hình sự về nhiều tội, trong đó có tội tham ô tài sản, tội nhận hối lộ và tội khác, nhưng đã chủ động nộp lại số tài sản bằng ít nhất ba phần tư tài sản tham ô, nhận hối lộ thì cũng được coi là chủ động nộp lại ít nhất ba phần tư tài sản tham ô, nhận hối lộ, trừ trường hợp có căn cứ rõ ràng xác định tài sản có nguồn gốc từ tội phạm khác.
+Ví dụ: Nguyễn Văn A có hành vi tham ô số tiền 4.000.000.000 đồng và lạm dụng chức vụ, quyền hạn chiếm đoạt số tiền 2.000.000.000 đồng. Sau khi A bị khởi tố, vợ của A đã chuyển nhượng nhà đất là tài sản riêng của mình để thay A nộp lại số tiền 3.000.000.000 đồng thì được coi là chủ động nộp lại ít nhất ba phần tư tài sản tham ô."
+ENTITY,E39_8,KHOAN,Khoản,structure,4365,5137,"8. “Hợp tác tích cực với cơ quan chức năng trong việc phát hiện, điều tra, xử lý tội phạm” là sau khi phạm tội tham nhũng hoặc các tội phạm khác về chức vụ, người phạm tội đã chủ động cung cấp những tin tức, tài liệu, chứng cứ có ý nghĩa cho việc phát hiện, điều tra, xử lý tội phạm liên quan đến tội phạm mà họ bị buộc tội (như: chỉ đúng nơi cất giấu vật chứng quan trọng giúp cơ quan chức năng thu hồi được vật chứng đó; khai báo và chỉ đúng nơi đồng phạm khác đang bỏ trốn; khai báo về tội phạm và người phạm tội mới liên quan đến tội phạm mà họ bị buộc tội...). Ngoài những trường hợp nêu trên, có thể xác định những trường hợp khác là “hợp tác tích cực với cơ quan chức năng trong việc phát hiện, điều tra, xử lý tội phạm” nhưng Tòa án phải nhận định rõ trong bản án."
+ENTITY,E39_9,KHOAN,Khoản,structure,5138,5765,"9. “Lập công lớn” là trường hợp người phạm tội đã giúp cơ quan tiến hành tố tụng phát hiện, truy bắt, điều tra, xử lý tội phạm không liên quan đến tội phạm mà họ bị buộc tội; cứu được người khác trong tình thế hiểm nghèo hoặc cứu được tài sản có giá trị từ 100.000.000 đồng trở lên của Nhà nước, của tập thể, của cá nhân trong thiên tai, dịch bệnh, hỏa hoạn hoặc sự kiện bất khả kháng khác; có phát minh, sáng chế hoặc sáng kiến có giá trị lớn được các cơ quan nhà nước có thẩm quyền xác nhận. Ngoài những trường hợp nêu trên, có thể xác định những trường hợp khác là “lập công lớn” nhưng Tòa án phải nhận định rõ trong bản án."
+ENTITY,E39_10,KHOAN,Khoản,structure,5815,6809,"1. “Đã bị xử lý kỷ luật về hành vi này mà còn vi phạm” quy định tại điểm a khoản 1 các điều 353, 354, 355 và 358 của Bộ luật Hình sự là trường hợp trước đó người phạm tội đã bị xử lý kỷ luật về hành vi tương ứng nhưng chưa hết thời hạn được coi là chưa bị xử lý kỷ luật theo quy định của pháp luật.
+Ví dụ: Nguyễn Văn A đã kỷ luật bằng hình thức cảnh cáo về hành vi tham ô số tiền 500.000 đồng nhưng 06 tháng sau, A lại thực hiện hành vi tham ô số tiền 1.500.000 đồng.
+Trường hợp người có hành vi vi phạm đã bị cơ quan, tổ chức có thẩm quyền xử lý kỷ luật, sau đó lại bị cơ quan tiến hành tố tụng truy cứu trách nhiệm hình sự về chính hành vi này thì việc bị xử lý kỷ luật trước đó không bị coi là “đã bị xử lý kỷ luật về hành vi này mà còn vi phạm”.
+Ví dụ: Nguyễn Văn A đã bị cơ quan có thẩm quyền xử lý kỷ luật về hành vi tham ô tài sản, sau đó A lại bị xem xét khởi tố về chính hành vi tham ô này thì không được áp dụng tình tiết “đã bị xử lý kỷ luật về hành vi này mà còn vi phạm” đối với A."
+ENTITY,E39_11,KHOAN,Khoản,structure,6810,8169,"2.  “Đã bị kết án về một trong các tội quy định tại Mục 1 Chương này chưa được xóa án tích mà còn vi phạm” quy định tại khoản 1 các điều 353, 354 và 355 của Bộ luật Hình sự là trước đó người phạm tội đã bị kết án trong 01 lần về một hoặc nhiều tội quy định tại Mục 1 Chương XXIII của Bộ luật Hình sự, chưa được xóa án tích mà lại thực hiện một trong những hành vi được liệt kê tại khoản 1 của một trong các điều 353, 354 và 355 của Bộ luật Hình sự.
+Trường hợp ngoài tiền án nêu trên, người phạm tội còn có tiền án khác thì tiền án này được sử dụng để xác định tái phạm, tái phạm nguy hiểm, trừ trường hợp các tiền án đều đã được sử dụng để xác định dấu hiệu định tội trong các lần kết án trước đó.
+Ví dụ: Trước khi thực hiện hành vi phạm tội nhận hối lộ số tiền là 1.500.000 đồng, A đã có 02 tiền án, trong đó tiền án thứ nhất, A bị kết án về tội tham ô tài sản với số tiền chiếm đoạt là 5.000.000 đồng; tiền án thứ hai, A bị kết án về tội lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản với số tiền chiếm đoạt là 1.000.000 đồng. Trường hợp này, tiền án thứ hai được sử dụng để xác định dấu hiệu định tội đối với tội tham ô tài sản. Đối với tiền án thứ nhất, do trước đó đã được sử dụng để xác định dấu hiệu định tội lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản (với số tiền chiếm đoạt là 1.000.000 đồng) nên không được tiếp tục sử dụng để xác định tái phạm."
+ENTITY,E39_12,KHOAN,Khoản,structure,8170,8409,"3. “Lợi ích vật chất khác” quy định tại các điều 354, 358, 364 và 366 của Bộ luật Hình sự là lợi ích vật chất không phải là tài sản quy định tại Điều 105 của Bộ luật Dân sự.
+Ví dụ: Hối lộ bằng cách tài trợ kinh phí đi du học, đi du lịch, …"
+ENTITY,E39_13,KHOAN,Khoản,structure,8410,8785,"4. “Lợi ích phi vật chất” quy định tại điểm b khoản 1 các điều 354, 358, 364, 365 và 366 của Bộ luật Hình sự là những lợi ích không phải lợi ích vật chất.
+Ví dụ: Hối lộ bằng cách tặng thưởng, đề xuất tặng thưởng các danh hiệu, giải thưởng; bầu, cử, bổ nhiệm chức vụ; nâng điểm thi; hứa hẹn cho tốt nghiệp, cho đi học, đi thi đấu, đi biểu diễn ở nước ngoài; hối lộ tình dục, …"
+ENTITY,E39_14,KHOAN,Khoản,structure,8786,9384,"5. “Lạm dụng chức vụ, quyền hạn” quy định tại khoản 1 Điều 355 của Bộ luật Hình sự là sử dụng vượt quá quyền hạn, chức trách, nhiệm vụ được giao hoặc tuy không được giao, không được phân công nhiệm vụ, quyền hạn trong lĩnh vực đó nhưng vẫn thực hiện.
+Ví dụ: Nguyễn Văn A là Phó Chủ tịch Ủy ban nhân dân tỉnh. A chỉ được phân công phụ trách lĩnh vực văn hóa - xã hội, không được phân công phụ trách lĩnh vực quản lý đất đai nhưng A vẫn ra quyết định thu hồi đất của Công ty X để giao cho Công ty Y (là Công ty của gia đình A). Trường hợp này hành vi của A đã vượt quá chức trách, nhiệm vụ được giao."
+ENTITY,E39_15,KHOAN,Khoản,structure,9385,9876,"6. “Lợi dụng chức vụ, quyền hạn” quy định tại khoản 1 Điều 356 của Bộ luật Hình sự là dựa vào chức vụ, quyền hạn được giao để làm trái, không làm hoặc làm không đúng quy định của pháp luật.
+Ví dụ: Nguyễn Văn A là Trưởng phòng Tài nguyên và Môi trường huyện B đã thực hiện hành vi trái công vụ, trình lãnh đạo Ủy ban nhân dân huyện B ký quyết định cấp giấy chứng nhận quyền sử dụng đối với thửa đất không đủ điều kiện cấp giấy chứng nhận quyền sử dụng đất theo quy định của pháp luật đất đai."
+ENTITY,E39_16,KHOAN,Khoản,structure,9877,10153,"7. “Vụ lợi” quy định tại khoản 1 các điều 356, 357 và 359 của Bộ luật Hình sự là trường hợp người phạm tội đã lợi dụng chức vụ, quyền hạn hoặc lạm quyền nhằm đạt được lợi ích vật chất hoặc lợi ích phi vật chất không chính đáng cho mình hoặc cho cơ quan, tổ chức, cá nhân khác."
+ENTITY,E39_17,KHOAN,Khoản,structure,10154,10417,"8. “Động cơ cá nhân khác” quy định tại khoản 1 các điều 356, 357 và 359 của Bộ luật Hình sự là trường hợp người phạm tội đã lợi dụng chức vụ, quyền hạn hoặc lạm quyền nhằm khẳng định, củng cố, nâng cao địa vị, uy tín, quyền lực của mình một cách không chính đáng."
+ENTITY,E39_18,KHOAN,Khoản,structure,10418,11073,"9. Thiệt hại do hành vi phạm tội gây ra quy định tại các điều 353, 354, 355 và 358 của Bộ luật Hình sự là thiệt hại thực tế xảy ra và có mối quan hệ nhân quả với hành vi phạm tội, không bao gồm tiền, tài sản, lợi ích vật chất khác mà người phạm tội đã hoặc sẽ chiếm đoạt.
+Ví dụ: Nguyễn Văn A là Thủ kho của Công ty B có hành vi tham ô số tiền thuốc phòng dịch trị giá 200.000.000 đồng. Do không có thuốc phòng dịch nên dẫn đến hậu quả là toàn bộ số gia cầm trị giá 10.000.000.000 đồng của Công ty B bị chết. Trong trường hợp này, phải xác định số tiền A chiếm đoạt là 200.000.000 đồng và thiệt hại thực tế do hành vi phạm tội của A là 10.000.000.000 đồng."
+ENTITY,E39_19,KHOAN,Khoản,structure,11074,11396,"10. “Bí mật công tác” quy định tại Điều 361 và Điều 362 của Bộ luật Hình sự là thông tin công tác được thể hiện dưới bất kỳ hình thức nào (ví dụ: văn bản, dự thảo văn bản, bài phát biểu, hình ảnh…) mà cơ quan, tổ chức quy định không được để lộ cho người khác biết và các thông tin này không thuộc danh mục bí mật nhà nước."
+ENTITY,E39_20,KHOAN,Khoản,structure,11446,11592,"1. Tình tiết “dùng thủ đoạn xảo quyệt” hoặc “dùng thủ đoạn nguy hiểm” quy định tại khoản 2 các điều 353, 354, 355, 364 và 365 của Bộ luật Hình sự:"
+ENTITY,E39_21,KHOAN,Khoản,structure,12120,12939,"2. Tình tiết “phạm tội 02 lần trở lên” quy định tại khoản 2 các điều 353, 354, 355, 356, 357, 358, 361, 364, 365 và 366 của Bộ luật Hình sự là trường hợp người phạm tội đã thực hiện một trong các hành vi quy định tại các điều này từ 02 lần trở lên và mỗi hành vi đều cấu thành tội phạm, nhưng đều chưa bị truy cứu trách nhiệm hình sự và chưa hết thời hiệu truy cứu trách nhiệm hình sự.
+Ví dụ: Ngày 15-8-2018, Nguyễn Văn A có hành vi tham ô số tiền 10.000.000 đồng. Ngày 25-9-2019, A lại có hành vi tham ô số tiền 20.000.000 đồng. Các hành vi phạm tội của A đều chưa bị xử lý hình sự và chưa hết thời hiệu truy cứu trách nhiệm hình sự. Trường hợp này, A bị truy cứu trách nhiệm hình sự về tội tham ô tài sản và bị áp dụng tình tiết “phạm tội 02 lần trở lên” theo quy định tại điểm c khoản 2 Điều 353 của Bộ luật Hình sự."
+ENTITY,E39_22,KHOAN,Khoản,structure,12940,13145,"3. Tình tiết “ảnh hưởng xấu đến đời sống của cán bộ, công chức, viên chức và người lao động trong cơ quan, tổ chức” quy định tại điểm g khoản 2 Điều 353 của Bộ luật Hình sự là một trong các trường hợp sau:"
+ENTITY,E39_23,KHOAN,Khoản,structure,13443,13604,"4. Tình tiết “gây ảnh hưởng xấu đến an ninh, trật tự, an toàn xã hội” quy định tại khoản 3 các điều 353, 355 của Bộ luật Hình sự là một trong các trường hợp sau:"
+ENTITY,E39_24,KHOAN,Khoản,structure,14203,14373,"1. Việc xử lý tội phạm tham nhũng, tội phạm khác về chức vụ phải bảo đảm nghiêm khắc và tuân thủ triệt để các nguyên tắc của pháp luật hình sự, pháp luật tố tụng hình sự."
+ENTITY,E39_25,KHOAN,Khoản,structure,14374,14714,"2. Trong quá trình tố tụng, người phạm tội tham ô tài sản, tội nhận hối lộ đã chủ động nộp lại ít nhất ba phần tư tài sản tham ô, nhận hối lộ và đã hợp tác tích cực với cơ quan chức năng trong việc phát hiện, điều tra, xử lý tội phạm hoặc lập công lớn thì không áp dụng mức cao nhất của khung hình phạt mà người phạm tội bị truy tố, xét xử."
+ENTITY,E39_26,KHOAN,Khoản,structure,14715,15080,3. Xem xét áp dụng chính sách khoan hồng đặc biệt miễn hình phạt theo quy định tại Điều 59 của Bộ luật Hình sự đối với trường hợp người phạm tội có ít nhất 02 tình tiết giảm nhẹ quy định tại khoản 1 Điều 51 của Bộ luật Hình sự hoặc người phạm tội lần đầu là người giúp sức trong vụ án đồng phạm nhưng có vai trò không đáng kể nếu thuộc một trong các trường hợp sau:
+ENTITY,E39_27,KHOAN,Khoản,structure,16404,16619,"1. Không coi việc người phạm tội đã bị kết án trong vụ án trước đó là căn cứ xác định “phạm tội 02 lần trở lên”, trừ trường hợp các hành vi phạm tội bị xem xét, xử lý hình sự trong các giai đoạn là độc lập với nhau;"
+ENTITY,E39_28,KHOAN,Khoản,structure,16620,16795,"2. Không coi việc người phạm tội đã bị kết án trong vụ án trước đó là có nhân thân không tốt để không cho hưởng án treo, nếu họ có đủ các điều kiện khác để được hưởng án treo;"
+ENTITY,E39_29,KHOAN,Khoản,structure,16796,17877,"3. Việc quyết định hình phạt trong từng bản án, quyết định phải bảo đảm khi tổng hợp hình phạt của các bản án không được vượt quá mức cao nhất của khung hình phạt tương ứng với tổng trị giá tài sản bị chiếm đoạt, của hối lộ hoặc thiệt hại do tội phạm gây ra.
+Ví dụ: Nguyễn Văn A có hành vi lạm quyền trong thi hành công vụ. Do bước đầu chỉ chứng minh được A gây thiệt hại tài sản trị giá 100.000.000 đồng nên cơ quan tiến hành tố tụng đã quyết định tách thành 02 vụ án, xử lý trước đối với A về hành vi gây thiệt hại số tiền 100.000.000 đồng. Tuy nhiên, sau đó ở giai đoạn 2 cơ quan tiến hành tố tụng lại chứng minh được hành vi của A còn gây thiệt hại tài sản trị giá 350.000.000 đồng. Tại giai đoạn 1, Tòa án áp dụng khoản 2 Điều 357 của Bộ luật Hình sự kết án A 05 năm tù về tội lạm quyền trong thi hành công vụ. Khi xét xử vụ án ở giai đoạn 2, A tiếp tục bị truy tố theo khoản 2 Điều của 357 của Bộ luật Hình sự, để bảo đảm khi tổng hợp hình phạt của cả 02 bản án không vượt quá mức cao nhất của khoản này thì Tòa án chỉ được quyết định hình phạt không quá 05 năm tù đối với A."
+ENTITY,E39_30,KHOAN,Khoản,structure,18874,20161,"1. Trường hợp một người thực hiện nhiều lần cùng một loại hành vi quy định tại Chương XXIII của Bộ luật Hình sự, nhưng mỗi lần trị giá tài sản chiếm đoạt, của hối lộ, gây thiệt hại về tài sản dưới mức tối thiểu quy định để truy cứu trách nhiệm hình sự và không thuộc một trong các trường hợp khác để truy cứu trách nhiệm hình sự, đồng thời trong các hành vi đó chưa có lần nào bị xử lý kỷ luật và chưa hết thời hiệu xử lý kỷ luật, nếu tổng trị giá tài sản chiếm đoạt, của hối lộ hoặc thiệt hại bằng hoặc trên mức tối thiểu để truy cứu trách nhiệm hình sự theo quy định của Bộ luật Hình sự, thì người thực hiện nhiều lần cùng loại hành vi vi phạm bị truy cứu trách nhiệm hình sự về tội phạm tương ứng theo tổng trị giá tài sản chiếm đoạt tài sản, của hối lộ hoặc tài sản thiệt hại.
+Ví dụ: Ngày 15-8-2019, Nguyễn Văn A có hành vi nhận hối lộ số tiền 1.500.000 đồng; ngày 15-9-2019, A tiếp tục nhận hối lộ số tiền 1.500.000 đồng; ngày 30-12-2019, A lại tiếp tục nhận hối lộ số tiền 1.500.000 đồng bị cơ quan có thẩm quyền phát hiện. Các hành vi này của A đều chưa bị xử lý kỷ luật và chưa hết thời hiệu xử lý kỷ luật. Trường hợp này, tổng số tiền nhận hối lộ của A được xác định là 4.500.000 đồng nên A bị truy cứu trách nhiệm hình sự theo quy định tại khoản 1 Điều 354 của Bộ luật Hình sự."
+ENTITY,E39_31,KHOAN,Khoản,structure,20162,20779,"2. Trường hợp một người thực hiện nhiều lần cùng một loại hành vi quy định tại Chương XXIII của Bộ luật Hình sự, mỗi lần đều đủ yếu tố cấu thành tội phạm và tổng trị giá tài sản chiếm đoạt, của hối lộ hoặc tài sản thiệt hại của các lần vi phạm thuộc khung hình phạt tăng nặng, nếu các lần phạm tội đều chưa bị truy cứu trách nhiệm hình sự và chưa hết thời hiệu truy cứu trách nhiệm hình sự, thì ngoài việc bị áp dụng khung hình phạt tương ứng với tổng trị giá tài sản chiếm đoạt, của hối lộ hoặc tài sản thiệt hại, họ còn bị áp dụng tình tiết định khung tặng nặng hoặc tình tiết tăng nặng trách nhiệm hình sự như sau:"
+ENTITY,E39_32,KHOAN,Khoản,structure,22965,23398,"1. Trị giá tài sản bị chiếm đoạt làm căn cứ xử lý hình sự được xác định tại thời điểm thực hiện hành vi phạm tội. Trường hợp tội phạm thực hiện liên tục, kéo dài thì trị giá tài sản bị chiếm đoạt được xác định tại thời điểm kết thúc hành vi phạm tội. Đối với trường hợp hành vi phạm tội đang diễn ra nhưng bị phát hiện, ngăn chặn thì trị giá tài sản bị chiếm đoạt được xác định tại thời điểm hành vi phạm tội bị phát hiện, ngăn chặn."
+ENTITY,E39_33,KHOAN,Khoản,structure,23399,23497,2. Thiệt hại tài sản làm căn cứ để xử lý hình sự tùy từng trường hợp cụ thể được xác định như sau:
+ENTITY,E39_34,KHOAN,Khoản,structure,24083,24163,3. Việc xem xét trách nhiệm dân sự thực hiện theo quy định của pháp luật dân sự.
+ENTITY,E39_35,KHOAN,Khoản,structure,24222,24458,"1. Sau khi thụ lý vụ án, Tòa án phải xem xét áp dụng ngay biện pháp kê biên tài sản, phong toả tài khoản liên quan trực tiếp đến hành vi phạm tội nếu các tài sản này chưa bị áp dụng biện pháp cưỡng chế trong giai đoạn điều tra, truy tố."
+ENTITY,E39_36,KHOAN,Khoản,structure,24459,24742,"2. Tòa án xem xét, quyết định tịch thu sung vào ngân sách nhà nước, tịch thu tiêu hủy hoặc buộc trả lại, bồi thường cho chủ sở hữu, người quản lý hợp pháp theo đúng quy định của pháp luật đối với tài sản liên quan trực tiếp đến tội phạm tham nhũng, tội phạm khác về chức vụ, bao gồm:"
+ENTITY,E39_37,KHOAN,Khoản,structure,25043,25244,3. Tài sản thuộc trường hợp bị tịch thu sung ngân sách nhà nước không còn tại thời điểm giải quyết vụ án thì Tòa án quyết định tịch thu trị giá tài sản theo kết luận định giá của cơ quan có thẩm quyền.
+ENTITY,E39_38,KHOAN,Khoản,structure,25245,25674,"4. Trường hợp tài sản có nguồn gốc từ tội phạm tham nhũng, tội phạm khác về chức vụ đã được nhập vào khối tài sản thuộc sở hữu chung thì Tòa án chỉ tịch thu hoặc buộc trả lại cho chủ sở hữu, người quản lý hợp pháp đối với phần tài sản có nguồn gốc từ tội phạm. Lợi nhuận thu được từ khối tài sản chung này cũng được chia theo tỷ lệ để tịch thu hoặc trả lại cho chủ sở hữu, người quản lý hợp pháp theo đúng quy định của pháp luật."
+ENTITY,E39_39,KHOAN,Khoản,structure,25702,25863,1. Nghị quyết này đã được Hội đồng Thẩm phán Tòa án nhân dân tối cao thông qua ngày 30 tháng 12 năm 2020 và có hiệu lực thi hành kể từ ngày 15 tháng 02 năm 2021.
+ENTITY,E39_40,KHOAN,Khoản,structure,25864,26110,"2. Trường hợp người phạm tội đã bị xét xử trước ngày Nghị quyết này có hiệu lực theo đúng các quy định, hướng dẫn trước đây và bản án đã có hiệu lực pháp luật thì không căn cứ vào Nghị quyết này để kháng nghị theo thủ tục giám đốc thẩm, tái thẩm."
+ENTITY,E40_1,DIEM,Điểm,structure,11593,11896,"a) “Dùng thủ đoạn xảo quyệt” là trường hợp người phạm tội sử dụng thủ đoạn dối trá một cách tinh vi, sử dụng công nghệ cao để thực hiện hành vi phạm tội, che giấu tội phạm, đổ tội cho người khác hoặc người phạm tội có hành vi tiêu hủy chứng cứ, gây khó khăn cho việc phát hiện, điều tra, xử lý tội phạm."
+ENTITY,E40_2,DIEM,Điểm,structure,11897,12119,"b) “Dùng thủ đoạn nguy hiểm” là trường hợp người phạm tội sử dụng thủ đoạn có thể gây nguy hiểm đến tính mạng, sức khỏe của người khác hoặc có thể gây hậu quả nghiêm trọng khác để chiếm đoạt tài sản hoặc che giấu tội phạm."
+ENTITY,E40_3,DIEM,Điểm,structure,13146,13271,"a) Làm mất hoặc giảm sút thu nhập thường xuyên, thu nhập tăng thêm hợp pháp của cán bộ, công chức, viên chức, người lao động;"
+ENTITY,E40_4,DIEM,Điểm,structure,13272,13442,"b) Gây khiếu nại, tố cáo bức xúc, làm mất đoàn kết, mất niềm tin trong nội bộ cơ quan, tổ chức ảnh hưởng đến tinh thần của cán bộ, công chức, viên chức và người lao động."
+ENTITY,E40_5,DIEM,Điểm,structure,13605,13795,"a) Gây khiếu kiện đông người, biểu tình, gây rối để các thế lực thù địch lợi dụng, lôi kéo, kích động chống phá chính quyền, xuyên tạc đường lối của Đảng, chính sách, pháp luật của nhà nước;"
+ENTITY,E40_6,DIEM,Điểm,structure,13796,13849,"b) Gây hoang mang, lo sợ hoặc phẫn nộ trong nhân dân;"
+ENTITY,E40_7,DIEM,Điểm,structure,13850,14123,"c) Gây khó khăn trong việc thực hiện đường lối của Đảng, chính sách, pháp luật của Nhà nước.
+Ví dụ: Nguyễn Văn A tham ô tiền hỗ trợ người nghèo phát triển kinh tế dẫn đến Uỷ ban nhân dân xã B gặp khó khăn trong việc triển khai chính sách xóa đói, giảm nghèo tại địa phương."
+ENTITY,E40_8,DIEM,Điểm,structure,15081,15243,"a) Người phạm tội không vì động cơ vụ lợi hoặc động cơ cá nhân khác, mà chỉ vì muốn đổi mới, dám đột phá vì sự nghiệp phát triển kinh tế xã hội và bảo vệ Tổ quốc;"
+ENTITY,E40_9,DIEM,Điểm,structure,15244,15667,"b) Người phạm tội là người có quan hệ lệ thuộc (như cấp dưới đối với cấp trên, người làm công hưởng lương, chấp hành nhiệm vụ theo chỉ đạo của cấp trên), không ý thức được đầy đủ hành vi phạm tội của mình, không vì động cơ vụ lợi hoặc động cơ cá nhân khác, không được hưởng lợi; đã chủ động khai báo trước khi bị phát giác, tích cực hợp tác với cơ quan có thẩm quyền, góp phần có hiệu quả vào việc điều tra, xử lý tội phạm;"
+ENTITY,E40_10,DIEM,Điểm,structure,15668,15927,"c) Người phạm tội đã chủ động khai báo trước khi bị phát giác, tích cực hợp tác với cơ quan có thẩm quyền, góp phần hạn chế thiệt hại, chủ động nộp lại toàn bộ tài sản chiếm đoạt, đã khắc phục toàn bộ hậu quả và đã bồi thường toàn bộ thiệt hại do mình gây ra;"
+ENTITY,E40_11,DIEM,Điểm,structure,15928,16131,"d) Người phạm tội sau khi bị phát hiện đã thành khẩn khai báo, ăn năn hối cải, chủ động nộp lại toàn bộ tài sản chiếm đoạt, đã khắc phục toàn bộ hậu quả và đã bồi thường toàn bộ thiệt hại do mình gây ra."
+ENTITY,E40_12,DIEM,Điểm,structure,20780,21452,"a) Nếu tổng trị giá tài sản chiếm đoạt, của hối lộ hoặc tài sản thiệt hại thuộc khoản 2 của điều luật tương ứng thì người phạm tội bị áp dụng thêm tình tiết định khung tăng nặng “phạm tội 02 lần trở lên”.
+Ví dụ: Ngày 15-8-2019, Nguyễn Văn A có hành vi nhận hối lộ số tiền 50.000.000 đồng; ngày 30-6-2020, A lại tiếp tục nhận hối lộ số tiền 100.000.000 đồng bị cơ quan có thẩm quyền phát hiện. Trường hợp này, A bị áp dụng 02 tình tiết tăng nặng định khung là: “của hối lộ là tiền, tài sản hoặc lợi ích vật chất khác trị giá từ 100.000.000 đồng đến dưới 500.000.000 đồng” và “phạm tội 02 lần trở lên” theo quy định tại điểm c và điểm đ khoản 2 Điều 354 của Bộ luật Hình sự."
+ENTITY,E40_13,DIEM,Điểm,structure,21453,22209,"b) Nếu tổng trị giá tài sản chiếm đoạt hoặc của hối lộ nhận hoặc tài sản thiệt hại thuộc khung hình phạt tăng nặng khác thì người phạm tội bị áp dụng thêm tình tiết tăng nặng trách nhiệm hình sự “phạm tội 02 lần trở lên”.
+Ví dụ: Ngày 11-3-2019, Nguyễn Văn A có hành vi nhận hối lộ số tiền 400.000.000 đồng; ngày 30-7-2020, A lại tiếp tục nhận hối lộ số tiền 200.000.000 đồng bị cơ quan có thẩm quyền phát hiện. Trường hợp này, A bị áp dụng tình tiết tặng nặng định khung “của hối lộ là tiền, tài sản hoặc lợi ích vật chất khác trị giá từ 500.000.000 đồng đến dưới 1.000.000.000 đồng” theo quy định tại điểm a khoản 3 Điều 354 và tình tiết tăng nặng trách nhiệm hình sự “phạm tội 02 lần trở lên” theo quy định tại điểm g khoản 1 Điều 52 của Bộ luật Hình sự."
+ENTITY,E40_14,DIEM,Điểm,structure,23498,23748,"a) Trường hợp thiệt hại xảy ra tại thời điểm tội phạm được thực hiện thì thiệt hại được xác định tại thời điểm này; đối với tội phạm liên tục, kéo dài thì thiệt hại được xác định tại thời điểm tội phạm được phát hiện ngăn chặn hoặc tội phạm kết thúc."
+ENTITY,E40_15,DIEM,Điểm,structure,23749,23926,b) Trường hợp thiệt hại xảy ra hoặc kéo dài sau khi tội phạm được thực hiện hoặc sau khi tội phạm đã kết thúc thì thiệt hại được xác định tại thời điểm thiệt hại được ngăn chặn.
+ENTITY,E40_16,DIEM,Điểm,structure,23927,24082,"c) Trường hợp không thể xác định được thiệt hại theo hướng dẫn tại điểm a, điểm b khoản 2 Điều này thì thiệt hại được xác định tại thời điểm khởi tố vụ án."
+ENTITY,E40_17,DIEM,Điểm,structure,24743,24790,"a) Công cụ, phương tiện dùng vào việc phạm tội;"
+ENTITY,E40_18,DIEM,Điểm,structure,24791,24822,"b) Tiền, tài sản bị chiếm đoạt;"
+ENTITY,E40_19,DIEM,Điểm,structure,24823,24837,c) Của hối lộ;
+ENTITY,E40_20,DIEM,Điểm,structure,24838,24878,d) Thiệt hại do hành vi phạm tội gây ra;
+ENTITY,E40_21,DIEM,Điểm,structure,24879,24926,đ) Khoản thu lợi bất chính từ hành vi phạm tội;
+ENTITY,E40_22,DIEM,Điểm,structure,24927,24997,"e) Lợi nhuận, hoa lợi, lợi tức phát sinh từ tài sản do phạm tội mà có;"
+ENTITY,E40_23,DIEM,Điểm,structure,24998,25042,g) Tài sản khác theo quy định của pháp luật.
+RELATION,R1_1,DUOC_HUONG_DAN_AP_DUNG,Được hướng dẫn áp dụng,E2_1,E13_1,,
+RELATION,R1_2,DUOC_HUONG_DAN_AP_DUNG,Được hướng dẫn áp dụng,E2_1,E13_2,,
+RELATION,R7_1,CAN_CU_BAN_HANH,Căn cứ ban hành,E2_1,E19_1,,
+RELATION,R22_1,THUOC,Thuộc,E11_1,E10_1,,
+RELATION,R22_2,THUOC,Thuộc,E12_1,E11_1,,
+RELATION,R22_3,THUOC,Thuộc,E39_1,E38_2,,
+RELATION,R22_4,THUOC,Thuộc,E39_10,E38_3,,
+RELATION,R22_5,THUOC,Thuộc,E39_11,E38_3,,
+RELATION,R22_6,THUOC,Thuộc,E39_12,E38_3,,
+RELATION,R22_7,THUOC,Thuộc,E39_13,E38_3,,
+RELATION,R22_8,THUOC,Thuộc,E39_14,E38_3,,
+RELATION,R22_9,THUOC,Thuộc,E39_15,E38_3,,
+RELATION,R22_10,THUOC,Thuộc,E39_16,E38_3,,
+RELATION,R22_11,THUOC,Thuộc,E39_17,E38_3,,
+RELATION,R22_12,THUOC,Thuộc,E39_18,E38_3,,
+RELATION,R22_13,THUOC,Thuộc,E39_19,E38_3,,
+RELATION,R22_14,THUOC,Thuộc,E39_2,E38_2,,
+RELATION,R22_15,THUOC,Thuộc,E39_20,E38_4,,
+RELATION,R22_16,THUOC,Thuộc,E39_21,E38_4,,
+RELATION,R22_17,THUOC,Thuộc,E39_22,E38_4,,
+RELATION,R22_18,THUOC,Thuộc,E39_23,E38_4,,
+RELATION,R22_19,THUOC,Thuộc,E39_24,E38_5,,
+RELATION,R22_20,THUOC,Thuộc,E39_25,E38_5,,
+RELATION,R22_21,THUOC,Thuộc,E39_26,E38_5,,
+RELATION,R22_22,THUOC,Thuộc,E39_27,E38_6,,
+RELATION,R22_23,THUOC,Thuộc,E39_28,E38_6,,
+RELATION,R22_24,THUOC,Thuộc,E39_29,E38_6,,
+RELATION,R22_25,THUOC,Thuộc,E39_3,E38_2,,
+RELATION,R22_26,THUOC,Thuộc,E39_30,E38_8,,
+RELATION,R22_27,THUOC,Thuộc,E39_31,E38_8,,
+RELATION,R22_28,THUOC,Thuộc,E39_32,E38_10,,
+RELATION,R22_29,THUOC,Thuộc,E39_33,E38_10,,
+RELATION,R22_30,THUOC,Thuộc,E39_34,E38_10,,
+RELATION,R22_31,THUOC,Thuộc,E39_35,E38_11,,
+RELATION,R22_32,THUOC,Thuộc,E39_36,E38_11,,
+RELATION,R22_33,THUOC,Thuộc,E39_37,E38_11,,
+RELATION,R22_34,THUOC,Thuộc,E39_38,E38_11,,
+RELATION,R22_35,THUOC,Thuộc,E39_39,E38_12,,
+RELATION,R22_36,THUOC,Thuộc,E39_4,E38_2,,
+RELATION,R22_37,THUOC,Thuộc,E39_40,E38_12,,
+RELATION,R22_38,THUOC,Thuộc,E39_5,E38_2,,
+RELATION,R22_39,THUOC,Thuộc,E39_6,E38_2,,
+RELATION,R22_40,THUOC,Thuộc,E39_7,E38_2,,
+RELATION,R22_41,THUOC,Thuộc,E39_8,E38_2,,
+RELATION,R22_42,THUOC,Thuộc,E39_9,E38_2,,
+RELATION,R22_43,THUOC,Thuộc,E40_1,E39_20,,
+RELATION,R22_44,THUOC,Thuộc,E40_10,E39_26,,
+RELATION,R22_45,THUOC,Thuộc,E40_11,E39_26,,
+RELATION,R22_46,THUOC,Thuộc,E40_12,E39_31,,
+RELATION,R22_47,THUOC,Thuộc,E40_13,E39_31,,
+RELATION,R22_48,THUOC,Thuộc,E40_14,E39_33,,
+RELATION,R22_49,THUOC,Thuộc,E40_15,E39_33,,
+RELATION,R22_50,THUOC,Thuộc,E40_16,E39_33,,
+RELATION,R22_51,THUOC,Thuộc,E40_17,E39_36,,
+RELATION,R22_52,THUOC,Thuộc,E40_18,E39_36,,
+RELATION,R22_53,THUOC,Thuộc,E40_19,E39_36,,
+RELATION,R22_54,THUOC,Thuộc,E40_2,E39_20,,
+RELATION,R22_55,THUOC,Thuộc,E40_20,E39_36,,
+RELATION,R22_56,THUOC,Thuộc,E40_21,E39_36,,
+RELATION,R22_57,THUOC,Thuộc,E40_22,E39_36,,
+RELATION,R22_58,THUOC,Thuộc,E40_23,E39_36,,
+RELATION,R22_59,THUOC,Thuộc,E40_3,E39_22,,
+RELATION,R22_60,THUOC,Thuộc,E40_4,E39_22,,
+RELATION,R22_61,THUOC,Thuộc,E40_5,E39_23,,
+RELATION,R22_62,THUOC,Thuộc,E40_6,E39_23,,
+RELATION,R22_63,THUOC,Thuộc,E40_7,E39_23,,
+RELATION,R22_64,THUOC,Thuộc,E40_8,E39_26,,
+RELATION,R22_65,THUOC,Thuộc,E40_9,E39_26,,

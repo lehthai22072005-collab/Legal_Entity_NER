@@ -1,0 +1,18 @@
+﻿NHÓM (ENTITY / RELATION),ID,CODE,LABEL,SCOPE / FROM_ID,START / TO_ID,END,TEXT
+ENTITY,E1_1,TEN_VAN_BAN,Tên văn bản,metadata,160,308,"BẢN SỬA ĐỔI NGHỊ ĐỊNH THƯ TÀI CHÍNH
+NGÀY 12 THÁNG 11 NĂM 1997 GIỮA
+CHÍNH PHỦ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM VÀ
+CHÍNH PHỦ NƯỚC CỘNG HÒA PHÁP"
+ENTITY,E2_1,SO_HIEU,Số hiệu,metadata,13,21,Không số
+ENTITY,E3_1,LOAI_VAN_BAN,Loại văn bản,metadata,479,488,Nghị định
+ENTITY,E5_1,NGAY_BAN_HANH,Ngày ban hành,metadata,2492,2502,01/03/2005
+ENTITY,E5_2,NGAY_BAN_HANH,Ngày ban hành,metadata,496,521,ngày 12 tháng 11 năm 1997
+ENTITY,E6_1,LINH_VUC,Lĩnh vực,metadata,2663,2677,Chưa phân loại
+ENTITY,E7_1,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,2492,2502,01/03/2005
+ENTITY,E7_2,NGAY_CO_HIEU_LUC,Ngày có hiệu lực,metadata,2305,2330,ngày 12 tháng 11 năm 1997
+ENTITY,E9_1,TINH_TRANG_HIEU_LUC,Tình trạng hiệu lực,metadata,2701,2713,Còn hiệu lực
+ENTITY,E10_1,CO_QUAN_BAN_HANH,Cơ quan ban hành,metadata,386,420,Cộng hòa xã hội chủ nghĩa Việt Nam
+ENTITY,E12_1,NGUOI_KY,Người ký,metadata,2583,2598,Nguyễn Bích Đạt
+ENTITY,E38_1,DIEU,Điều,structure,1276,1317,Điều 1. Tổng số tiền và đối tượng tài trợ
+ENTITY,E38_2,DIEU,Điều,structure,1882,1914,Điều 2. Cơ cấu các khoản tài trợ
+RELATION,R22_1,THUOC,Thuộc,E12_1,E10_1,,
