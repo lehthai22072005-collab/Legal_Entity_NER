@@ -1,5 +1,7 @@
 # Legal Entity NER
 
+[Mã nguồn trên GitHub](https://github.com/lehthai22072005-collab/Legal_Entity_NER) · [Tải ZIP kèm checkpoint](https://github.com/lehthai22072005-collab/Legal_Entity_NER/archive/refs/heads/main.zip)
+
 Trích xuất thực thể từ DOCX bằng PhoBERT-base kết hợp nhúng ký tự, tích chập theo từng kênh, đầu nhận dạng biên, đầu phân loại đoạn và Learned Marker Adapter. Bộ chọn đoạn sử dụng chính sách xây dựng từ Train. Ontology có 40 loại thực thể; mô hình hiện tại không có đầu trích xuất quan hệ. Nhãn chưa có mẫu Train không được coi là đã học được.
 
 ## Chạy giao diện web bằng Docker
@@ -102,10 +104,10 @@ colab/
 ├── Train_PhoBERT_NER_All369.ipynb
 ├── Inputs_All369.zip
 ├── INPUT_MANIFEST.json
-└── COLAB_HANDOFF.json
+└── COLAB_HANDOFF.json  # Chỉ lưu trên máy làm việc, không đăng lên GitHub
 ```
 
-Notebook giữ nguyên nội dung của bản Recovery thực sự dùng cho lượt gần nhất, chỉ đổi về tên ngắn ở trên. Gói đầu vào được giữ nguyên SHA-256 và chứa snapshot mã nguồn/dữ liệu đã dùng cho thí nghiệm. `INPUT_MANIFEST.json` ghi hash notebook hiện hành và hash bản đóng gói ban đầu. `COLAB_HANDOFF.json` giữ liên kết notebook huấn luyện cùng trạng thái đã chốt 11 epoch; liên kết này không có nghĩa runtime còn hoạt động.
+Notebook giữ nguyên nội dung của bản Recovery thực sự dùng cho lượt gần nhất, chỉ đổi về tên ngắn ở trên. Gói đầu vào được giữ nguyên SHA-256 và chứa snapshot mã nguồn/dữ liệu đã dùng cho thí nghiệm. `INPUT_MANIFEST.json` ghi hash notebook hiện hành và hash bản đóng gói ban đầu. `COLAB_HANDOFF.json` chỉ lưu trên máy làm việc, không có trong bản GitHub; tệp này giữ liên kết phiên Colab đã kết thúc. Mã nguồn và dữ liệu để đối chiếu lượt huấn luyện nằm trong notebook, Inputs_All369.zip và INPUT_MANIFEST.json.
 
 Các notebook nhập lại/đánh giá phục hồi chưa hoàn tất, log trình duyệt và ZIP checkpoint trùng đã được xóa. Trước khi xóa ZIP, đã đối chiếu đủ 7 tệp bên trong với các bản đã giải nén. Trọng số hiện hành vẫn ở `checkpoints/`. Các script theo dõi/truyền tệp chỉ phục vụ phiên Colab mới được thiết lập đầy đủ; không chạy lại chúng để tiếp tục phiên đã kết thúc.
 
