@@ -167,5 +167,18 @@
       257085,
       "19_2003_QH11_19411"
     ]
-  ]
+  ],
+  "post_training_raw_cleanup": {
+    "date": "2026-11-20",
+    "user_requested": true,
+    "removed_identical_duplicate_exports": 14,
+    "removed_previously_excluded_exports": 2,
+    "removed_json_files": 16,
+    "removed_paired_csv_files": 16,
+    "remaining_raw_json_exports": 369,
+    "remaining_raw_csv_exports": 369,
+    "training_and_validation_files_unchanged": true,
+    "model_checkpoint_unchanged": true,
+    "historical_audit_fields_above_preserved": true
+  }
 }

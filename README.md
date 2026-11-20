@@ -76,6 +76,8 @@ data/
 
 Khi chuẩn bị snapshot huấn luyện, 217 văn bản có DOCX và 152 bản lấy phần thân Word từ bản xuất nhãn. Sau đó đã bổ sung nguồn cho 152 bản, trong đó 146 khớp nguyên chuỗi và 6 chỉ khác khoảng trắng/xuống dòng. Các bản ghi và split huấn luyện được giữ nguyên. Phần thông tin bổ sung ngoài nội dung Word bị loại khỏi đầu vào và mục tiêu. Nhãn do người dùng cung cấp và kiểm tra không đồng nghĩa với Gold được đánh giá độc lập.
 
+Ngày 20/11/2026, theo yêu cầu dọn nguồn, đã xóa 14 bản xuất trùng và hai bản xuất bị loại, cùng các CSV tương ứng. `data/data_tho/` còn 369 JSON và 369 CSV phục vụ bộ dữ liệu hiện hành. Số lượng 385 bản xuất trong hồ sơ chuẩn bị là số liệu trước khi dọn; Train, Validation, DOCX nguồn và checkpoint giữ nguyên.
+
 `scripts/check_all_data.py` kiểm tra nguồn, hash, loại nhãn, offset và tách nhóm; kiểm tra kỹ thuật không xác nhận mọi nhãn đều đúng ngữ nghĩa.
 
 ## Lượt huấn luyện được sử dụng
